@@ -1,0 +1,83 @@
+{
+  "convective_day": "2022-03-12",
+  "valid_start": "2022-03-12T12:00Z",
+  "valid_end": "2022-03-13T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2022-03-12",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-03-12T12:00Z",
+      "valid_end": "2022-03-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220312_1200.html",
+      "summary": "Thunderstorms capable of damaging winds and a few tornadoes are possible from northern Florida and southeast Georgia into the eastern Carolinas and Mid-Atlantic. The main threat is expected Saturday morning.",
+      "sections": [
+        {
+          "title": "FL to the southern Mid-Atlantic",
+          "text": "Southern-stream short-wave trough is ejecting east across the lower MS Valley late this evening. Latest water-vapor imagery depicts this feature well, and large-scale forcing for ascent will spread into the southern Appalachians as intensifying height falls respond to this feature. Over the last few hours, a squall line has gradually evolved across AL along the leading edge of stronger forcing. This linear MCS will continue maturing and race northeast ahead of the front to a position from central NC into eastern SC at 12/12z. A more broken line of convection, with possible supercells should extend along the southern influence of the short wave across northern FL into the eastern Gulf of Mexico at the start of the period. Latest model guidance suggests an intense 850 LLJ (80kt+) will translate across the Carolinas into southeast VA in advance of the surface front. Forecast soundings exhibit very strong flow just off the surface and damaging winds appear likely with surface-based convection that develops within the low-buoyancy environment. While damaging winds are the primary threat, forecast shear certainly supports rotation and some tornado threat will be noted with this activity,"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-03-12",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-03-12T13:00Z",
+      "valid_end": "2022-03-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220312_1300.html",
+      "summary": "Thunderstorms capable of damaging winds and a few tornadoes are possible from northern Florida and southeast Georgia into the eastern Carolinas and southeastern Virginia, mainly this morning.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "In mid/upper levels, northern- and southern-stream shortwaves have phased to yield a well-defined, progressive, synoptic-scale trough initially oriented from James Bay across the lower Ohio and Mississippi Valleys to the Gulf Coast of TX. The basal perturbation -- evident in moisture-channel imagery over MS and northwestern AL -- is expected to move rapidly eastward today. By 00Z, the associated 500-mb vorticity axis should extend from near the NC Outer Banks across northern FL, moving out over the Atlantic thereafter. By 12Z, the synoptic trough should be offshore from all the Atlantic Coast, except perhaps Downeast ME. Surface analysis at 11Z showed a cold front from the inland Mid-Atlantic southwestward through an elongated area of low pressure centered over the NC/VA line north of RDU, then across central SC, south-central GA, Apalachee Bay, and the central Gulf. A diffuse marine/warm front was evident near the coastline of SC and NC, and should continue to lose definition amidst strong broader-scale, boundary-layer warm advection that will immediately precede cold-frontal passage. The cold front is expected to follow the main convective band(s) closely and move offshore from t"
+        },
+        {
+          "title": "FL to southeastern VA",
+          "text": "Initially separate bands of convection, one over parts of GA and SC, the other over the northeastern Gulf to northern FL, are expected to sweep eastward across the outlook area over the next few hours. This activity may merge into an essentially continuous quasi-linear convective system soon before moving offshore from the Carolinas, GA and northern FL during mid/late local morning hours. Damaging gusts will be the main concern, though favorable low-level and deep shear will exist to support line-embedded supercells or LEWP/bowing structures capable of a quick tornado or two as well. The severe threat should clear the Outer Banks by around 18Z, and diminish with time over eastern/southern FL as strongest deep-layer support pulls away north of the area and prefrontal boundary-layer flow veers. For near-term details on the severe-thunderstorm environment over central/northern FL and southeastern GA, see SPC tornado watch 43 and related mesoscale discussions. For the Carolinas to extreme southeastern VA, refer to tornado watch 44 and related mesoscale discussions. ..Edwards/Broyles.. 03/12/2022"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2022,
+      "number": 247,
+      "issue_utc": "2022-03-12T12:12Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0247.html",
+      "summary": "A developing line of showers and embedded thunderstorms appears likely to overspread the coastal plain and Outer Banks vicinity during the 8-11 AM EST time frame, accompanied by the risk for damaging wind gusts and perhaps a few tornadoes.",
+      "discussion": "The primary surface low now appears east-northeast of Danville VA, but a trailing frontal wave appears the focus for an evolving narrow band of stronger convection and embedded thunderstorms. This band is in the process of accelerating northeast of the South Carolina Piedmont, nearly coincident with an intensifying low-level jet streak. Models suggest that the core of this jet will intensify in excess of 80 kt around the 850 mb level, while propagating across the eastern North Carolina coastal plain and Outer Banks vicinity during the 13-16Z time frame. The boundary layer across this region has been gradually warming and moistening overnight, contributing to at least very weakly unstable near-surface lapse rates and mixed-layer CAPE. The extent to which this may support substantive intensification of the approaching line of convection remains unclear. However, the environment may be more conducive to the downward transfer of potentially damaging wind gusts; and low-level wind profiles characterized by extreme low-level shear, with weak to modest low-level hodograph curvature, might prove conducive to intensifying low-level mesocyclones with the potential to produce tornadoes."
+    },
+    {
+      "year": 2022,
+      "number": 248,
+      "issue_utc": "2022-03-12T13:20Z",
+      "topic": "Tornado Watch 43",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0248.html",
+      "summary": "It is not clear that another severe weather watch will be needed, but a line of vigorous thunderstorm activity may continue to advance inland, across Tampa Bay and into the Interstate 4 corridor, through 9-11 AM EST. Occasional, isolated embedded supercell structures may pose a risk for locally damaging wind gusts and perhaps a tornado or two.",
+      "discussion": "Pre-frontal convection remains fairly vigorous within the line progressing into coastal areas near/north of Tampa. Latest Rapid Refresh analysis and forecast soundings suggest that the 12Z Tampa sounding may have been just south of a narrow corridor of better low-level Gulf moisture return, which might be contributing to a plume of mixed-layer CAPE up to 1000 J/kg. Before the strong south-southwesterly flow around 850 mb (currently near 50 kt) begins to weaken across the central peninsula by 16-18Z, there appears potential for the line of storms to continue to develop inland, through the Interstate 4 corridor, accompanied by a risk for locally damaging wind gusts and perhaps a tornado. ..Kerr.. 03/12/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 250,
+      "issue_utc": "2022-03-12T14:39Z",
+      "topic": "Tornado Watch 44",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0250.html",
+      "summary": "Damaging gusts and a tornado or two remain possible the next 1-2 hours across eastern NC and the Outer Banks.",
+      "discussion": "Strong thunderstorms will continue shifting east/northeast across the eastern NC coastal plain and Outer Banks over the next 1-2 hours. Recent radar data indicates a well developed LEWP/QLCS near the surface cold front. Wilmington NC recently reported a gust to 51 kt with this activity. Intense low-level flow near 60 kt just a couple hundred feet off the ground, and increasing with height, will continue to support severe gusts as the line shifts eastward across a weakly unstable environment. Low-level winds are mostly veered ahead of the line, resulting in poor directional shear. However, stronger speed shear in the lowest 1-2 km could still provide support for some transient rotation in mesovortex-like structures along the line, and a brief spin-up could occur. The line of convection should clear the coastal areas and Outer Banks by around 16z. ..Leitman.. 03/12/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 251,
+      "issue_utc": "2022-03-12T15:30Z",
+      "topic": "Tornado Watch 43",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0251.html",
+      "summary": "Locally damaging gusts and a tornado or two will remain possible across the central Florida Peninsula the next couple of hours. A watch extension will likely be needed.",
+      "discussion": "A line of strong to severe thunderstorms will continue to shift east/southeast across the central FL Peninsula over the next few hours. Several observation sites have reports wind gusts to around 40 kt recently with a few reports of wind damage noted in mPING reports. Over the past hour, a few cells embedded within the line have also show transient low-level rotation. Strong vertical shear with effective shear magnitudes greater than 50 kt will persist over the central peninsula for several more hours, aiding in maintenance of a well established QLCS. Tornado Watch 43 is set to expire at 16z. However, strong to severe convection will likely persist another couple of hours beyond current watch expiration time, and an extension in time/space across southern portions of the Tampa Bay and Melbourne County Warning Areas will likely be needed. ..Leitman.. 03/12/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "convective_day": "2019-03-24",
+  "valid_start": "2019-03-24T12:00Z",
+  "valid_end": "2019-03-25T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2019-03-24",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-03-24T16:30Z",
+      "valid_end": "2019-03-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190324_1630.html",
+      "summary": "Severe thunderstorms are expected from north Texas to southern Missouri and southwestern Illinois, mainly offering hail and damaging gusts.",
+      "sections": [
+        {
+          "title": "MO/IL",
+          "text": "Morning water vapor loop shows a progressive upper low over southeast NE, with an associated mid-level speed max over KS/OK. This feature will track eastward today into the middle MS Valley, providing increasing ascent and deep-layer vertical shear for thunderstorm development/organization. Visible imagery shows substantial clearing/heating is occurring across southern MO and southwest IL, where surface dewpoints are rising into the 50s and low level lapse rates are steepening. This should aid in the development of scattered thunderstorms by mid-afternoon across southern MO. Forecast soundings show shear profiles favorable for discrete supercells capable of large hail. The tornado risk will be limited by veering low level winds and rather low dewpoint values. However, the damaging wind threat should increase as storms track eastward into southern IL during the late afternoon. Have added an ENH risk area for hail coverage across parts of southeast MO and southwest IL, where 12z CAM solutions provide greatest confidence."
+        },
+        {
+          "title": "Arklatex Region",
+          "text": "Latest surface analysis shows a weak warm front extending from southeast OK into southern AR. The air mass south of this front is relatively moist and moderately unstable with dewpoints near 60F. Models are consistent in the development of scattered intense storms this afternoon, with supercells capable of hail expected. This activity is likely to organize into a more linear structure through the evening, but continue to pose a risk of hail along with locally damaging winds. Activity may remain strong well into the night, affecting southeast AR/northeast LA and western MS. Similar to northern area, parameters and confidence support inclusion of ENH risk area for afternoon/evening hail risk. ..Hart/Gleason.. 03/24/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-03-24",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-03-24T20:00Z",
+      "valid_end": "2019-03-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190324_2000.html",
+      "summary": "Severe thunderstorms are expected from north Texas to southern Missouri and southwestern Illinois, mainly offering hail and damaging gusts.",
+      "sections": [
+        {
+          "title": "20Z update",
+          "text": "Based on observational trends and short-term guidance, minimal updates necessary as Slight/Enhanced Risks appear to capture main corridor of severe weather that is expected to unfold through the afternoon and evening. See discussion below for additional details. Some spatial adjustments were made across the Middle Mississippi Valley for a northward expansion of mainly isolated/marginal hail potential. ..Guyer.. 03/24/2019 .PREV DISCUSSION... /ISSUED 1126 AM CDT Sun Mar 24 2019/"
+        },
+        {
+          "title": "MO/IL",
+          "text": "Morning water vapor loop shows a progressive upper low over southeast NE, with an associated mid-level speed max over KS/OK. This feature will track eastward today into the middle MS Valley, providing increasing ascent and deep-layer vertical shear for thunderstorm development/organization. Visible imagery shows substantial clearing/heating is occurring across southern MO and southwest IL, where surface dewpoints are rising into the 50s and low level lapse rates are steepening. This should aid in the development of scattered thunderstorms by mid-afternoon across southern MO. Forecast soundings show shear profiles favorable for discrete supercells capable of large hail. The tornado risk will be limited by veering low level winds and rather low dewpoint values. However, the damaging wind threat should increase as storms track eastward into southern IL during the late afternoon. Have added an ENH risk area for hail coverage across parts of southeast MO and southwest IL, where 12z CAM solutions provide greatest confidence."
+        },
+        {
+          "title": "Arklatex Region",
+          "text": "Latest surface analysis shows a weak warm front extending from southeast OK into southern AR. The air mass south of this front is relatively moist and moderately unstable with dewpoints near 60F. Models are consistent in the development of scattered intense storms this afternoon, with supercells capable of hail expected. This activity is likely to organize into a more linear structure through the evening, but continue to pose a risk of hail along with locally damaging winds. Activity may remain strong well into the night, affecting southeast AR/northeast LA and western MS. Similar to northern area, parameters and confidence support inclusion of ENH risk area for afternoon/evening hail risk."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-03-25",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-03-25T01:00Z",
+      "valid_end": "2019-03-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190325_0100.html",
+      "summary": "Scattered severe thunderstorms will continue this evening along a corridor from southwest Missouri into northeast Texas. Hail is the greatest risk.",
+      "sections": [
+        {
+          "title": "IL to Northeast TX",
+          "text": "Earlier thoughts regarding the evolution of convection remain. Scattered severe thunderstorms have developed along a corridor from southwestern IL into northeast TX. The northern thunderstorm activity is strongly supported by a pronounced mid-level circulation digging southeast near the IA/MO/IL border region. With the onset of diurnal cooling, and extensive convective overturning, much of the thunderstorm activity across southern IL should gradually weaken over the next few hours. Farther south across the Arklatex, scattered supercells have matured from south of I-40 across western AR into the eastern portions of the DFW Metroplex. This low-latitude activity appears to be supported by a southern-stream short-wave trough that is currently ejecting across southern OK/North-Central TX. This feature should enhance the longevity of convection as it propagates southeast along/ahead of synoptic front. 00z sounding from FWD exhibits substantial SBCAPE with shear profiles favoring supercells. Large hail is the greatest risk with these storms. ..Darrow.. 03/25/2019"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2019,
+      "number": 231,
+      "issue_utc": "2019-03-24T18:53Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0231.html",
+      "summary": "Storms should gradually increase across the discussion area over the course of the afternoon, with initial development occurring in the 20-22Z timeframe. A WW is likely to be issued before 21Z.",
+      "discussion": "Latest observations and analyses indicate a deepening boundary layer cumulus field across central/south-central Missouri as surface temperatures warm into the mid 60s F. This warming was occurring beneath cold mid-levels (associated with a mid-level low over northwestern Missouri) and steep lapse rates (8.6 deg C/km on the 18Z RAOB from SGF). Storms should gradually develop across western and central portions of the discussion area as the weak mid-level inversion across the area erodes, with favorable shear profiles for updraft rotation. Hail and damaging wind gusts should be the primary threats. The 12Z Nam4 and latest runs of the HRRR suggest initiation occurring around 19-20Z and downstream propagation toward the St. Louis Metro and portions of southern Illinois over time. Given the expected evolution of the severe threat, a Severe Thunderstorm Watch will probably be needed before 21Z."
+    },
+    {
+      "year": 2019,
+      "number": 232,
+      "issue_utc": "2019-03-24T20:28Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0232.html",
+      "summary": "Increasing severe threat this afternoon and evening will likely require watch issuance by 22-23Z (5-6 pm CDT). Large hail and damaging winds should be the main threats.",
+      "discussion": "Surface temperatures have warmed into the low to mid 70s across eastern OK ahead of a slow moving cold front. Even though large-scale forcing for ascent should remain modest, convective inhibition has mostly eroded this afternoon over parts of eastern OK, western AR, and northeast TX as low-level moisture has gradually increased across the warm sector. Some increase in cumulus development has recently occurred in east-central OK per recent visible satellite imagery, and an attempt at convective initiation is underway in Cherokee County OK as of 2025Z. As a weak cap centered around 790 mb on the 18Z SGF sounding continues to slowly erode, additional attempts at convective initiation appear increasingly likely by 22Z (5 pm CDT) along the cold front in eastern OK/western AR. Some steepening of mid-level lapse rates to around 7 C/km has occurred across this region, which along with the gradually increasing low-level moisture and daytime heating is contributing to 500-1000 J/kg of MLCAPE at 20Z. Instability may potentially reach the 1000-1500 J/kg range by peak heating based on several RAP forecast soundings. Strengthening westerly flow above 3 km is supporting 40-50 kt of effective bulk shear, and supercells will probably be the dominant storm mode initially. Given the long, mostly straight hodographs noted on forecast soundings across this region, large hail appears likely with any supercell that can form along/ahead of the front. Isolated damaging winds may also occur where low-level lapse rates can steepen and act to accelerate convective downdrafts. Low-level winds are generally veered to southwesterly and relatively weak (less than 25 kt at 850 mb). Accordingly, the tornado threat will probably remain limited, but it is not zero. Short-term CAM guidance suggests that g"
+    },
+    {
+      "year": 2019,
+      "number": 233,
+      "issue_utc": "2019-03-24T20:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0233.html",
+      "summary": "Storms have recently increased near/north of Columbia over the past half hour. Another cell persists into Hancock County Illinois. These storms may briefly approach severe limits, although a WW issuance is not anticipated.",
+      "discussion": "Recent convective development has occurred from near Columbia, Missouri to just west of Quincy, Illinois over the past half hour. Another persistent storm has maintained itself into portions of Hancock County, Illinois as well. These storms are in a relatively stable low-level environment compared to areas south, with minimal surface-based CAPE and any instability likely tied to cold mid-level temperatures (-22 to -24 C at 500 mb). Continued ascent tied to the approach of the mid-level wave centered just northwest of the region and cool temperatures aloft should support a risk of hail in the strongest cores, with only isolated instances of 1\" stones. A strong wind gust may also occur with the strongest activity. The overall magnitude of the severe risk in this area will likely preclude a WW issuance. ..Cook.. 03/24/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 234,
+      "issue_utc": "2019-03-24T22:11Z",
+      "topic": "Severe Thunderstorm Watch 32",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0234.html",
+      "summary": "The severe threat continues in WW32 with large hail as the primary threat. Storms should continue moving east over the next 3-4 hours.",
+      "discussion": "Multiple severe warned storms have developed within WW32 along/ahead of a cold front in central/southern Missouri. Large hail continues to be the primary severe threat with cold air aloft and mostly unidirectional shear through the vertical profile yielding around 40-50 knots of effective bulk shear. Damaging wind gusts remain possible, but as daytime heating begins to wane, low-level lapse rates will diminish limiting this threat. Additionally, a brief, weak tornado is possible, but low-level flow is relatively weak and surface winds are mostly south-southwest limiting SRH. Storms should continue moving east across central/southern Missouri into southern Illinois through 03z. As the cold front slides southeast, the severe threat will diminish across WW32 from west to east through the evening."
+    },
+    {
+      "year": 2019,
+      "number": 235,
+      "issue_utc": "2019-03-24T23:36Z",
+      "topic": "Severe Thunderstorm Watch 33",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0235.html",
+      "summary": "Storms will continue to increase in coverage and intensity this evening, with large hail likely.",
+      "discussion": "Storms have gradually increased in coverage ahead of a developing cold front and on the nose of a low-level lapse rate plume. Peak heating and low 60s F dewpoints have led to around 1000-1500 J/kg of MLCAPE, with minimal CIN. Satellite imagery and model output show a low-amplitude shortwave trough now approaching the region, and this will likely increase overall lift as southwesterly low-level winds maintain a relatively unstable air mass ahead of the front. While low-level winds will not be strong, increasing west-northwesterly mid to upper level winds will result in long hodographs favorable for cellular activity including a few supercells producing large hail. With time, storms may eventually merge into a broken line or semi-linear structures as they shift southeast. ..Jewell.. 03/24/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 236,
+      "issue_utc": "2019-03-25T01:01Z",
+      "topic": "Severe Thunderstorm Watch 32",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0236.html",
+      "summary": "The severe threat continues across portions of eastern/southern Missouri and southern Illinois with large hail as the primary threat.",
+      "discussion": "Storms are continuing to move eastward across WW32, although the peak severe threat appears to have been crested. The initial line of northeast-southwest oriented storms have shown downward convective trends in recent radar scans from KLSX and KPAH, and that is expected to continue. Buoyancy/instability are limited east of WW32, but a strong/severe storm remains possible just east of the watch. The line of storms approaching and just north of St. Louis will also weaken as it moves into more rain-cooled air and loses insolation. Extending the watch spatially/temporally is not expected as the severe threat should continue to diminish as storms move east and by 03z when the watch expires."
+    },
+    {
+      "year": 2019,
+      "number": 237,
+      "issue_utc": "2019-03-25T03:11Z",
+      "topic": "Severe Thunderstorm Watch 33",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0237.html",
+      "summary": "Large hail remains possible mainly over southern parts of the watch from northeast Texas toward the ArkLaTex.",
+      "discussion": "Storm trends have been down recently with the loss of heating, but widely-scattered hail cores remain. The most unstable air currently resides over TX, with southwesterly flow aloft feeding somewhat elevated storms into AR where temperatures are cooler. Given the influence of a low-amplitude shortwave trough approaching the area, some redevelopment is expected through about 09Z. Cells were beginning to increase again near the Red River as of 03Z, north of the wind shift. This boundary and/or outflows from existing storms will favor redevelopment. Wind profiles will continue to favor east-southeastward moving cells capable of hail, and the severe threat may eventually spread into areas just south and east of the current watch. ..Jewell.. 03/25/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 238,
+      "issue_utc": "2019-03-25T06:47Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0238.html",
+      "summary": "Some risk for severe hail and wind may linger in stronger storms for another hour or two, mainly across the Interstate 20 corridor of northeast Texas, before likely diminishing by 4-5 AM CDT. An additional severe weather watch is not anticipated.",
+      "discussion": "The most vigorous thunderstorm development is now generally focused west-northwest through north/northeast of Tyler TX, within a remnant axis of stronger, but waning boundary layer destabilization associated with yesterday's daytime heating, and a return flow of Gulf moisture that persists. This now appears to be just ahead of a southward advancing surface cold front, which may gradually tend to undercut the stronger convection and associated unstable boundary layer air through 09-10z, as it progresses across the Interstate 20 corridor. As this occurs, storm intensities are expected to diminish. Until then, some risk for severe hail and gusty surface winds may remain possible in isolated stronger storms for another hour or two. ..Kerr.. 03/25/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "convective_day": "2026-03-22",
+  "valid_start": "2026-03-22T12:00Z",
+  "valid_end": "2026-03-23T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2026-03-22",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2026-03-22T16:30Z",
+      "valid_end": "2026-03-23T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2026/day1otlk_20260322_1630.html",
+      "summary": "Scattered severe thunderstorms appear likely this afternoon and evening across parts of the Ohio Valley into the Mid-Atlantic, particularly from far eastern Ohio into central Pennsylvania. Large to very large hail and damaging winds should be the main threats, but a tornado or two may also occur.",
+      "sections": [
+        {
+          "title": "Ohio Valley into the Mid-Atlantic",
+          "text": "Early-morning soundings reveal a plume of steep mid-level lapse rates (i.e. greater than 8 deg C per km from 700 to 500 mb) extending from the southern Plains northeastward into the Upper OH Valley. This plume of steeper lapse rates is largely oriented along and west of a cold front that extends from a low in south-central KS to another low in western NY. The airmass preceding this front is seasonally warm and moist, with temperatures in the 70s and dewpoints in the 50s across much of the OH Valley. The expectation is for continued airmass modification today as moisture advects northeastward. However, this moistening will be offset by strong mixing, with dewpoints likely ranging from the upper 50s across the Lower OH Valley into the low 50s across western/central PA. This low-level moisture, combined with temperatures in the upper 70s/low 80s, should result in an erosion of surface-based convective inhibition ahead of the front from eastern OH through central PA. Additionally, given the steep mid-level lapse rates in place, weak instability (MLCAPE around 500-1000 J/kg) is expected to develop ahead of the front. Current expectations are for robust thunderstorms to develop by 19-21Z"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2026-03-22",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2026-03-22T20:00Z",
+      "valid_end": "2026-03-23T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2026/day1otlk_20260322_2000.html",
+      "summary": "Scattered severe thunderstorms appear likely this afternoon and evening across parts of the Ohio Valley into the Mid-Atlantic, particularly from far eastern Ohio into central Pennsylvania. Large to very large hail and damaging winds should be the main threats, but a tornado or two may also occur.",
+      "sections": [
+        {
+          "title": "20z Update - Ohio Valley to the Mid-Atlantic",
+          "text": "Overall the previous forecast remains on track. Only minor adjustments were made to the southern extent of the level 2 of 5 (Slight) risk area in KY. This adjustment was made based on latest trends in timing/intensity derived from CAMs and RAP forecast soundings across the southwest extent of the severe risk area. While limited low-level moisture is expected to temper instability across the region, the 18z RAOB from PIT showed the presence of very steep mid and low-level lapse rates amid strong unidirectional vertical wind profiles. This environment should support scattered damaging gusts, and large to very large hail from any initially discrete supercell structures. For more details regarding short term severe potential, reference MCD 284 and Severe Thunderstorm Watch 72. ..Leitman.. 03/22/2026 .PREV DISCUSSION... /ISSUED 1125 AM CDT Sun Mar 22 2026/"
+        },
+        {
+          "title": "Ohio Valley into the Mid-Atlantic",
+          "text": "Early-morning soundings reveal a plume of steep mid-level lapse rates (i.e. greater than 8 deg C per km from 700 to 500 mb) extending from the southern Plains northeastward into the Upper OH Valley. This plume of steeper lapse rates is largely oriented along and west of a cold front that extends from a low in south-central KS to another low in western NY. The airmass preceding this front is seasonally warm and moist, with temperatures in the 70s and dewpoints in the 50s across much of the OH Valley. The expectation is for continued airmass modification today as moisture advects northeastward. However, this moistening will be offset by strong mixing, with dewpoints likely ranging from the upper 50s across the Lower OH Valley into the low 50s across western/central PA. This low-level moisture, combined with temperatures in the upper 70s/low 80s, should result in an erosion of surface-based convective inhibition ahead of the front from eastern OH through central PA. Additionally, given the steep mid-level lapse rates in place, weak instability (MLCAPE around 500-1000 J/kg) is expected to develop ahead of the front. Current expectations are for robust thunderstorms to develop by 19-21Z"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2026,
+      "number": 284,
+      "issue_utc": "2026-03-22T19:02Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0284.html",
+      "summary": "The risk for severe thunderstorms is increasing. Supercells and small bowing segments will support a severe wind/hail risk through the afternoon. A tornado is also possible. A Severe Thunderstorm watch will eventually be needed.",
+      "discussion": "Visible satellite imagery depicts a gradual deepening of cumulus on the southern periphery of a cloud deck, and ahead of an approaching cold front, where surface temperatures have warmed above 80 F. Surface dewpoints range from the upper 40s to mid 50s F, resulting in meager buoyancy (i.e. 1000 J/kg SBCAPE per the 18Z PIT observed sounding). Despite relatively poor moisture, steep tropospheric lapse rates and enlarged hodographs (per recent CCX/PBZ VADs), will support the development of potentially longer-lived updrafts with any storms that manage to mature. Supercells and small bowing segments are possible. 50+ kts of effective bulk shear amid 7.5-8.5 C/km 700-500 mb lapse rates will support severe hail potential with sustained supercells, with some stones potentially reaching 2 inches in diameter. Furthermore, given the well-mixed boundary layer and strong speed shear in place (per 18Z PIT observed sounding), efficient damaging wind production is possible. A gust or two may exceed 65 kts. Storms are expected to initiate in the next few hours, so a Severe Thunderstorm Watch will eventually be needed."
+    },
+    {
+      "year": 2026,
+      "number": 285,
+      "issue_utc": "2026-03-22T20:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0285.html",
+      "summary": "The potential for severe storms capable of producing severe hail and locally damaging gusts should increase later this afternoon into the evening. While timing is uncertain, a watch may eventually be needed for parts of the area.",
+      "discussion": "The latest surface analysis shows an ENE/WSW-oriented cold front moving quickly southward across central OH, IN, and IL. While surface temperatures have warmed into the middle/upper 80s amid middle/upper 50s to near 60 dewpoints ahead of the front, the latest ACARS soundings suggest that the low-levels remain relatively dry, and a lack of pre-frontal boundary-layer cumulus also confirms this. As a result, confidence in surface-based storm development ahead of the front is low. The one exception is in eastern/central OH, where isolated thunderstorms are evolving along the front and could pose a risk of large hail and damaging winds over the next hour or two. Nevertheless, as large-scale ascent preceding a midlevel wave overspreads the region later this afternoon into the evening, anafrontal convection is expected westward into western OH, southern/central IN, and southeastern IL. A plume of steep midlevel lapse rates atop the frontal surface and around 50 kt of effective shear should still support storm organization. Severe hail will be possible with any elevated supercells that can evolve, especially in the earlier stages of convective development. However, deep-layer westerly flow may tend to promote upscale growth into clusters/lines. While the expected elevated nature of these storms casts uncertainty on the damaging-wind risk, the steep lapse rates and antecedent heating of the pre-convective boundary layer could support damaging winds with the upscale-growing activity. While timing of storm initiation is a bit uncertain, a watch may eventually be needed for parts of the area."
+    },
+    {
+      "year": 2026,
+      "number": 286,
+      "issue_utc": "2026-03-22T22:36Z",
+      "topic": "Severe Thunderstorm Watch 72",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0286.html",
+      "summary": "Isolated large hail and damaging wind potential will continue at least into early evening. Storms moving east will likely weaken with time. The strongest storms are more probable along the cold front moving south.",
+      "discussion": "Scattered convection continues within WW 72 late this afternoon. The strongest storms are currently located in southeastern Ohio where steeper low/mid-level lapse rates exist. Anafrontal convection also is occurring in central Pennsylvania and is moving eastward. These storms have shown a general weakening trend as they move into a cooler, less unstable airmass. Additional storms may form along/behind the front as very subtle forcing for ascent approaches the region. Regional VAD data shows strong deep-layer shear with a relatively straight hodograph. The strongest storms will split as is currently occurring in southeast Ohio/northern West Virginia Panhandle. Mid-level lapse rates remain steep enough for isolated large hail. Low-level lapse rates are still steep in far southern Pennsylvania into adjacent West Virginia/Maryland. There, wind damage will remain possible into early evening. Environmentally speaking, a downstream watch to the east appears unlikely this evening. Local extensions could occur along the southern flank should strong/severe convection persist. ..Wendt.. 03/22/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 287,
+      "issue_utc": "2026-03-23T00:20Z",
+      "topic": "Severe Thunderstorm Watch 73",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0287.html",
+      "summary": "Severe hail should be the primary hazard with elevated thunderstorms spreading east-southeast into late evening in a portion of the Midwest.",
+      "discussion": "Convective development has largely been sustained about 80 miles north of a southeastward-moving cold front approaching the OH River. This arc of elevated storms was rooted near 750 mb per ACARS data near IND and appears likely to be the primary focus for severe potential through late evening. The cores across central IN to central OH have had generally marginal severe hail MRMS signatures with several semi-discrete structures. Ample speed shear through the cloud-bearing layer will offer potential for updrafts capable of sporadic severe hail up to around golf-ball size, including left and right splits. Farther south on the front, attempts at surface-based storms appear to have largely failed within persistent MLCIN and weak large-scale ascent outside of the undercutting boundary. With nocturnal boundary-layer cooling ahead of the front, it seems unlikely that additional development will occur. Current elevated storms across south-central IL will probably be the back edge of sustained severe potential as they shift east-southeastward. ..Grams.. 03/23/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 288,
+      "issue_utc": "2026-03-23T01:07Z",
+      "topic": "Severe Thunderstorm Watch 72",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0288.html",
+      "summary": "Large hail will remain possible with storms as they move eastward trough eastern Ohio and western Pennsylvania. The environment farther east will become less supportive of severe convection, however.",
+      "discussion": "Lift from a low-amplitude trough in the Midwest continues to promote elevated convection, behind a cold front, in the upper Ohio Valley. A few stronger cores have noted in central into eastern Ohio. Occasional large hail will be possible with these storms given the steep mid-level lapse rates observed on this evening's ILN sounding and around 55 kts of 0-6 km shear on area VAD data. That said, the observed sounding at PIT showed a modest 6 C/km mid-level lapse rate. Convection may be able to maintain some intensity into western Pennsylvania, but will gradually weaken with eastward extent. This trend has been observed over the past few hours with prior convective activity. ..Wendt.. 03/23/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 289,
+      "issue_utc": "2026-03-23T03:04Z",
+      "topic": "Severe Thunderstorm Watch 73",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0289.html",
+      "summary": "Severe hail and strong to localized severe gusts should diminish overnight as convection spreads east-southeast over the central Ohio Valley. A new WW is not anticipated, but a local extension of WW 73 may occur given scheduled expiration of 04Z.",
+      "discussion": "A generally broken arc of elevated convection from southern IN through central OH has been increasingly congealing into a broader linear cluster. This process has yielded a reduction of the more numerous hail cores earlier this evening. But a longer-lived, tail-end updraft over southern IN has produced hail up to golf ball size in the past hour. This could potentially persist for the next couple hours as it tracks near the Louisville Metro Area. This similar southwest portion of the convective arc has more readily accelerated towards the slower cold front. If an organized cluster can persist, this may merge into the front and aid in a brief uptick in damaging wind potential across northern KY. Still, 00Z CAM guidance is highly insistent on convection diminishing overnight given the modest buoyancy and weakening of lapse rates. ..Grams.. 03/23/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "convective_day": "2025-05-18",
+  "valid_start": "2025-05-18T12:00Z",
+  "valid_end": "2025-05-19T12:00Z",
+  "max_risk": "MDT",
+  "product_counts": {
+    "ENH": 1,
+    "MDT": 4
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2025-05-18",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2025-05-18T12:00Z",
+      "valid_end": "2025-05-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250518_1200.html",
+      "summary": "Severe thunderstorms capable of all severe hazards are expected later today across portions of the central and southern Plains. The potential for a few strong tornadoes exists across parts of Kansas and Oklahoma.",
+      "sections": [
+        {
+          "title": "Central/Southern Plains",
+          "text": "Strong upper trough is digging southeast across the Great Basin early this morning. This feature is forecast to advance into the Four Corners region by 18z as 500mb speed max translates across AZ into NM. By early evening, strongest mid-level flow is forecast to extend across northeast NM into western KS. This evolution will suppress the height field across the central High Plains such that large-scale forcing will likely influence the dry line as far south as I-40 near the TX/OK border. While several 00z models struggle to develop convection along the dry line, strong boundary-layer heating is expected across the southern High Plains. Zero-3km lapse rates will approach dry adiabatic by late afternoon as surface temperatures soar through the mid 90s across the eastern TX Panhandle into the TX South Plains. As a result, deep thermals are expected and isolated thunderstorms should develop as CINH will prove minimal. Scattered convection is currently noted across northeast OK into southeast KS/southwest MO. This activity will likely persist into the early parts of the day1 period. Strongest low-level moisture surge should be across western OK into extreme southwest KS as LLJ will focu"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2025-05-18",
+      "hhmm": "1300",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2025-05-18T13:00Z",
+      "valid_end": "2025-05-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250518_1300.html",
+      "summary": "Severe thunderstorms capable of all severe hazards are expected later today across portions of the central and southern Plains. Several strong to intense tornadoes are possible.",
+      "sections": [
+        {
+          "title": "Central/Southern Plains",
+          "text": "Water-vapor imagery this morning shows a potent mid- to upper-level trough over the Four Corners with a couple of downstream MCVs moving east-southeast over AR and AL this morning. A 500-mb speed max (60+ kt) is forecast to move through the base of this trough and eject into the TX Panhandle/southwestern KS late this afternoon and evening as the trough evolves into a negative tilt. Rich low-level moisture was observed at both surface sites and raob sites over the southern Great Plains this morning. Increasing moisture at 850 mb was sampled beneath very steep 700-500 mb lapse rates on the Dodge City raob. Southerly low-level flow is forecast to increase today across the southern-central Great Plains as a composite frontal zone/outflow over OK advances northward as a warm front into southern KS later this afternoon. Models show surface dewpoints rising into the 60s across western KS with lower 70s farther south near the OK/KS border and locales southward along/east of the dryline later this afternoon. Model guidance shows the strongest signal for scattered storm development from parts of the central High Plains southeast into southwest KS later this afternoon/evening as large-scale a"
+        },
+        {
+          "title": "AR eastward into GA",
+          "text": "A pair of MCVs this morning are aiding in a couple of severe thunderstorm clusters being sustained along a residual frontal zone that serves as the northern periphery of richer low-level moisture. Short-term model guidance has varied considerably in the depiction of these MCS. Nonetheless, the 11 UTC BMX raob showed an very unstable airmass (3300 J/kg MUCAPE) and 65-kt 500 mb flow. Current thinking is both MCSs will pose a risk for mainly damaging gusts through this morning. ..Smith/Marsh.. 05/18/2025"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2025-05-18",
+      "hhmm": "1630",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2025-05-18T16:30Z",
+      "valid_end": "2025-05-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250518_1630.html",
+      "summary": "Severe thunderstorms capable of all severe hazards are expected this afternoon and evening across portions of the central and southern Plains. Several strong to intense tornadoes are possible.",
+      "sections": [
+        {
+          "title": "KS/OK",
+          "text": "A large upper trough continues to deepen over the western US, with a band of 60-70 knot southwesterly mid-level flow extending across NM into western KS/OK. The surface dryline will mix eastward into western KS and along the TX/OK border by mid-afternoon, with the air mass to the east becoming extremely unstable with dewpoints in the upper 60s and MLCAPE values over 4000 J/kg. Strong southerly/southeasterly low-level winds throughout the warm sector will provide a conditionally favorable environment for intense supercells capable of very large hail, damaging winds, and tornadoes. However, morning model guidance continues to show diverse solutions regarding coverage of convection later today. The area of greatest confidence in storm development and intensity will be near the warm front/dryline triple point over south-central KS. Discrete supercell development appears likely here, with forecast soundings showing favorable hodograph structures to promote a risk of strong tornadoes. The MDT risk has been extending slightly eastward along the warm front. Farther south along the dryline in western OK, confidence in initiation is lower. However, any storm that can form will be capable of "
+        },
+        {
+          "title": "Western North TX",
+          "text": "Another region of higher confidence in convective initiation will be over western north TX along the dryline. Hot surface temperatures in vicinity of a dryline bulge will aid in storm development. These storms will likely expand eastward and into southwest OK through the evening, with very large hail and damaging winds possible."
+        },
+        {
+          "title": "MS/AL/GA",
+          "text": "A narrow corridor of SLGT risk has been added for this afternoon from eastern MS across central AL and southern GA. Multiple MCSs are ongoing in this corridor, with associated outflow boundaries present. These boundaries may be the focus for further development this afternoon, with sufficient CAPE/shear combinations to pose a risk of damaging winds in the strongest cells. ..Hart.. 05/18/2025"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2025-05-18",
+      "hhmm": "2000",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2025-05-18T20:00Z",
+      "valid_end": "2025-05-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250518_2000.html",
+      "summary": "Severe thunderstorms capable of all severe hazards are expected this afternoon and evening across portions of the central and southern Plains. Several strong to intense tornadoes are possible.",
+      "sections": [
+        {
+          "title": "20z Update",
+          "text": "Adjustments were made to the current D1 Convective Outlook to the Slight across the Southeast to account for latest trends in radar and observations. A couple of broken line segments of thunderstorms continue to pose a risk for damaging wind in these regions. Elsewhere, the higher risk area across the central and southern Plains continues to be where potential for all hazards will be possible. The current plume of mid-level cloud cover extending from central to eastern OK into southern KS continues to pose some uncertainty on how the situation will unfold this afternoon. Clearing across southwestern OK has allowed for heating and the agitated cu field continues on visible satellite imagery. Further into Kansas, clouds are more persistent but there is a narrow region of warming from the Oklahoma Panhandle into Dodge City. CAM guidance is spread on exactly how storms will evolve this afternoon, but it appears supercell development is likely across the dryline in western Oklahoma and Kansas this afternoon. Should a discrete mode maintain, very large hail and tornadoes will be possible. As the afternoon/evening progresses, the low level jet will increase through time with moisture adve"
+        },
+        {
+          "title": "KS/OK",
+          "text": "A large upper trough continues to deepen over the western US, with a band of 60-70 knot southwesterly mid-level flow extending across NM into western KS/OK. The surface dryline will mix eastward into western KS and along the TX/OK border by mid-afternoon, with the air mass to the east becoming extremely unstable with dewpoints in the upper 60s and MLCAPE values over 4000 J/kg. Strong southerly/southeasterly low-level winds throughout the warm sector will provide a conditionally favorable environment for intense supercells capable of very large hail, damaging winds, and tornadoes. However, morning model guidance continues to show diverse solutions regarding coverage of convection later today. The area of greatest confidence in storm development and intensity will be near the warm front/dryline triple point over south-central KS. Discrete supercell development appears likely here, with forecast soundings showing favorable hodograph structures to promote a risk of strong tornadoes. The MDT risk has been extending slightly eastward along the warm front. Farther south along the dryline in western OK, confidence in initiation is lower. However, any storm that can form will be capable of "
+        },
+        {
+          "title": "Western North TX",
+          "text": "Another region of higher confidence in convective initiation will be over western north TX along the dryline. Hot surface temperatures in vicinity of a dryline bulge will aid in storm development. These storms will likely expand eastward and into southwest OK through the evening, with very large hail and damaging winds possible."
+        },
+        {
+          "title": "MS/AL/GA",
+          "text": "A narrow corridor of SLGT risk has been added for this afternoon from eastern MS across central AL and southern GA. Multiple MCSs are ongoing in this corridor, with associated outflow boundaries present. These boundaries may be the focus for further development this afternoon, with sufficient CAPE/shear combinations to pose a risk of damaging winds in the strongest cells."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2025-05-19",
+      "hhmm": "0100",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2025-05-19T01:00Z",
+      "valid_end": "2025-05-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250519_0100.html",
+      "summary": "Severe thunderstorms capable of all severe hazards remain possible this evening across portions of the central and southern Plains. Several strong to intense tornadoes are possible.",
+      "sections": [
+        {
+          "title": "01z Update",
+          "text": "500mb speed max is translating across northeast NM into southwest KS early this evening. Left-exit region of this feature appears largely supportive of an extensive corridor of strong/severe thunderstorms across the central High Plains from northwest KS into western NE. Over the last hour or so, multiple storm mergers have evolved into more of a north-south band of convection from Sheridan County NE-north of GLD. This developing MCS should propagate east over the next several hours with an attendant risk for hail, wind, and perhaps a few tornadoes -- especially with embedded supercells. Farther southeast, roughly a half dozen isolated supercells arc from Sheridan County KS to Woods County OK. 1km VAD winds are quite strong across northern OK into central KS with 50kt common. 0-3km SRH at VNX/DDC/ICT exhibit more than 500 m2/s2. As LLJ is expected to remain focused into this portion of the plains it seems reasonable that ongoing supercells should remain organized as they track northeast, albeit into a less unstable air mass due to earlier convection. Tornado threat remains highest across this corridor until updrafts begin to decouple from the boundary layer. Southwest-northeast corr"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2025,
+      "number": 855,
+      "issue_utc": "2025-05-18T14:18Z",
+      "topic": "Severe Thunderstorm Watch 285",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0855.html",
+      "summary": "A corridor of severe wind potential may extend southeast of WW 285, with isolated hail over southern areas. A new watch may be needed downstream soon.",
+      "discussion": "An organized convective system continues to move rapidly southeastward over west-central GA. This system is near the instability gradient, with extends all the way to the coast. The morning soundings show substantial mid level winds along with good lapse rates aloft and relatively weak low-level winds. This appears favorable for forward propagation and continued damaging wind threat for a few hours. In addition, given that the strongest instability is on the southern periphery of this convective system, at least a gradual increase in storm cores is possible along the south end which may also contain large hail, especially as boundary layer heating occurs. ..Jewell.. 05/18/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 856,
+      "issue_utc": "2025-05-18T14:54Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0856.html",
+      "summary": "An isolated severe risk over northern Mississippi may increase in coverage and spread into northern and central Alabama by early afternoon. Damaging winds would be the main risk.",
+      "discussion": "A small MCS is currently moving across northern MS, with periodic strengthening. Outflow extends southwestward from this system toward the AR/LA border, with only shallow showers there. A moist and unstable air mass exist along and south of the current MCS/cell track. Southwest low-level winds will aid advection out of the southwest during the day as heating occurs, though speeds will not be very strong and as such the instability gradient may not move much. However, strong westerlies aloft are evident on the 12Z soundings, and midlevel lapse rates will support strong/uncapped instability with minimal heating. As such, an increasing severe storm threat is expected from MS into AL, and a watch may eventually be needed."
+    },
+    {
+      "year": 2025,
+      "number": 857,
+      "issue_utc": "2025-05-18T16:40Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0857.html",
+      "summary": "Elevated thunderstorms developing across northeast Oklahoma into northwest Arkansas and southwest Missouri may pose a hail threat through early afternoon. Confidence in the coverage and duration of this threat is uncertain, but convective trends will be monitored.",
+      "discussion": "Isentropic ascent over a residual convective outflow across northeast OK/northwest AR has promoted scattered thunderstorms within the past hour. Based on forecast soundings and surface observations, this convection is likely being driven by ascent within the 850-700 mb level on the eastern fringe of an EML. Steep lapse rates above this layer (around 8 C/km) is supporting MUCAPE values between 1500-2000 J/kg, and strong flow within the 850-250 mb layer is supportive effective shear values around 50 knots. Consequently, organized convection is possible and may pose a severe hail threat through the next few hours. Weak ascent along the outflow boundary may be insufficient for sustained deep convection despite the favorable convective environment, and stable conditions in place downstream across northern AR/southern MO should limit the spatial extent of the threat. As such, overall coverage, duration, and intensity is uncertain. However, if convection can persist through mid afternoon, additional heating may support a higher potential for sustained/intense storms. Watch issuance is currently not likely, but convective trends will continue to be monitored given the environment."
+    },
+    {
+      "year": 2025,
+      "number": 858,
+      "issue_utc": "2025-05-18T18:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0858.html",
+      "summary": "Thunderstorm development along the dryline is expected roughly between 20-22 UTC across northwest to west-central Texas. The convective environment will support supercells capable of large hail, severe gusts, and a few tornadoes. Watch issuance is likely as storms begin to develop.",
+      "discussion": "Recent GOES visible imagery shows shallow, but slowly deepening, cumulus along and just ahead of a sharpening dryline as it continues to mix east and boundary-layer depth increases amid filtered diurnal heating. Latest RAP/HRRR forecast soundings suggest any lingering MLCIN will be minimized as surface temperatures warm into the 92-95 F range over the next few hours within the warm sector. Regional VWPs show flow within the lowest 2-3 km AGL oriented roughly along the dryline, which should promote adequate residence times for parcels to reach their LFCs and initiate deep convection. Latest high-res solutions suggest this should occur generally between 20-22 UTC. Thunderstorms will mature within a very unstable air mass with MLCAPE values exceeding 4000 J/kg and effective shear on the order of 40-50 knots. Limited directional shear will initially promote splitting supercells with an attendant very large hail threat (most probable max hail size may be 2-3 inches in diameter). Southeasterly low-level winds across northwest TX may support adequate low-level veering for some tornado threat. Further south (roughly south of I-20), 1.5 to 2.5 km LCL heights and more backed low-level flow will modulate the initial tornado potential. After 00 UTC a strengthening low-level jet will increase low-level hodograph curvature and support an increasing tornado threat with any remaining discrete right-moving supercells across much of central/northern TX. Watch issuance will likely be needed as thunderstorm initiation becomes more imminent."
+    },
+    {
+      "year": 2025,
+      "number": 859,
+      "issue_utc": "2025-05-18T19:12Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0859.html",
+      "summary": "Supercells capable of very large hail, tornadoes, and damaging wind are likely to develop after 21Z over northeast Colorado, spreading into western Nebraska and northwest Kansas through evening.",
+      "discussion": "A surface low continues to deepen over eastern CO as the shortwave trough moves across the area. Surface analysis shows a prominent plume of low-level moisture extending out of western KS and across northeast CO, where dewpoints are holding in the lower 50s F. Full heating near and south of this moisture plume will erode the minimal capping inversion by around 21Z, and rapid thunderstorm development is expected. The combination of strong instability, steep lapse rates, and veering winds with height will strongly favor supercells capable of very large hail, and a few tornadoes. Activity should easily remain severe into NE and KS this evening as the southeasterly low-level jet persists, maintaining moisture advection as well as shear and inflow."
+    },
+    {
+      "year": 2025,
+      "number": 860,
+      "issue_utc": "2025-05-18T20:21Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0860.html",
+      "summary": "Scattered supercells capable of strong tornadoes and very large hail are forecast from late afternoon into the evening from parts of northwest Oklahoma into southwest Kansas. EF3+ tornadoes may occur.",
+      "discussion": "Surface analysis and visible imagery clearly outline the unstable warm sector, situated between a dryline from southeast CO into the eastern TX Panhandle, and a warm front/retreating outflow draped across northern OK into south-central KS. The air mass has become very unstable, and will continue to develop northward. This air mass is coincident with an already strongly sheared environment with effective SRH over 200 m2/s2. These low-level shear values will increase markedly later today and during the evening as the low level jet increases with effective SRH of 300-400 m2/s2 common. While very cool air and clouds currently exist over northern OK into south-central KS, a strengthening low-level jet will likely yield clearing later in the evening, which may allow the tornado threat to expand farther eastward."
+    },
+    {
+      "year": 2025,
+      "number": 861,
+      "issue_utc": "2025-05-18T21:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0861.html",
+      "summary": "Risk of severe wind gusts and large hail will continue spreading eastward into tonight. A watch is likely.",
+      "discussion": "An earlier supercell cluster with a history of producing large hail and severe winds gusts is tracking eastward along a warm front draped across northern Arkansas. While this storm is generally right on the boundary, it appears to have access to moderately unstable surface-based air to its immediate south. Low/midlevel warm advection is contributing to upscale growth, and around 50 kt of 0-6 km shear (per nearby VWP) will favor continued organization/upscale growth into an MCS -- with an attendant risk of severe wind gusts and sporadic large hail. A watch is likely for parts of the area."
+    },
+    {
+      "year": 2025,
+      "number": 862,
+      "issue_utc": "2025-05-18T22:11Z",
+      "topic": "Tornado Watch 287",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0862.html",
+      "summary": "Supercell tornado threat increasing across parts of northwestern Oklahoma into extreme southwest Kansas during the next couple hours.",
+      "discussion": "Splitting supercells are evolving across the northeastern Texas Panhandle. While these storms are gradually impinging on the richer boundary-layer moisture (upper 60s dewpoints), they are still in the slightly higher-mixed/lower SRH air at this time. As a result, splitting-supercell mode may continue in the immediate near-term, with an associated risk of very large hail and severe wind gusts. With time, these storms will continue spreading/developing northeastward into northwest Oklahoma, where visible satellite imagery depicts an antecedent sheltered boundary layer (with around 300 m2/s2 0-1km SRH per VWP and mesoanalysis data) and lower 70s dewpoints becoming increasingly unstable. Given the high SRH and strong/extreme surface-based instability here, and further increases in clockwise hodograph curvature/helicity into the evening with the strengthening low-level jet, the supercell tornado risk will continue increasing over the next couple hours. If a dominant right-mover can evolve, a strong/intense tornado will be possible. ..Weinman.. 05/18/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 863,
+      "issue_utc": "2025-05-18T22:14Z",
+      "topic": "Tornado Watch 286",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0863.html",
+      "summary": "The severe threat will increase across parts of the central High Plains over the next couple of hours. Tornadoes, large hail and wind damage will be possible with the more intense cores.",
+      "discussion": "The latest hi-resolution radar imagery at Cheyenne, Wyoming shows a cluster of severe storms with several supercells located from northeastern Colorado into far western Nebraska. The storms are located to the west of a low-level moisture axis, where surface dewpoints are in the 55 to 60 F range, and the RAP has MLCAPE estimated in the 1000 to 2000 J/kg range. Convective coverage is expected to increase as large-scale ascent, associated with an approaching mid-level trough, overspreads the central High Plains. The exit region of a mid-level jet is currently located over the central High Plains, which is enhancing lift and deep-layer shear. The latest WSR-88D VWP at Goodland, Kansas has 0-6 km shear near 50 knots, with 0-3 km storm-relative helicity around 300 m2/s2. In addition, the 20Z sounding at North Platte, Nebraska has a 700-500 mb lapse rate near 9 C/km. This environment will be favorable for supercells with tornadoes, large and wind damage. Hailstones greater than 2 inches in diameter will be possible with the more intense supercells. ..Broyles.. 05/18/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 864,
+      "issue_utc": "2025-05-18T22:39Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0864.html",
+      "summary": "A severe threat will likely continue across north-central Kansas, and expected to develop across parts of southern Nebraska. Supercells with large to very large hail, wind damage and an isolated tornado threat will be possible. Weather watch issuance appears likely.",
+      "discussion": "Over the last hour, convection has increased in coverage across north-central Kansas. The storms are located along the eastern edge of a moderately unstable airmass, where surface dewpoints are in the lower 60s F. The storms appears to be related to a band of large-scale ascent that is moving northeastward across the central Plains, evident on water vapor imagery. The North-Platte 20Z sounding shows a cap in place, and RAP forecast soundings suggest the cap extends further to the southeast into north-central Kansas. For this reason, the ongoing convection appears to be elevated. Effective shear of 50 to 60 knots and 700-500 mb lapse rates near 8 C/km will be favorable for supercells with large hail. Hailstones greater than 2 inches in diameter will be possible. In addition, an isolated wind-damage/tornado threat will also be possible. Although this potential will increase later this evening as a second round of storms move into the area. ..Broyles.. 05/18/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 865,
+      "issue_utc": "2025-05-18T23:21Z",
+      "topic": "Tornado Watch 288",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0865.html",
+      "summary": "Tornado threat is increasing with a supercell cluster over north-central Texas.",
+      "discussion": "The KDYX radar indicates gradual intensification of a supercell cluster over north-central Texas. Given around 300 m2/s2 0-1km SRH (per DYX VWP data) and lower 70s dewpoints streaming northward into the inflow of this activity, the tornado threat is likely increasing. The eastern part of the risk area may be limited due to substantial inhibition sampled by the earlier 20Z FWD sounding -- especially in the near-term. ..Weinman.. 05/18/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 866,
+      "issue_utc": "2025-05-19T00:16Z",
+      "topic": "Tornado Watch 286",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0866.html",
+      "summary": "The threat for tornadoes, very large hail and wind damage will continue across parts of northwest Oklahoma and western Kansas and southwest Nebraska over the next several hours. Multiple strong tornadoes will be possible.",
+      "discussion": "The latest hi-resolution radar from Vance Air Force Base shows a supercell in northwest Oklahoma, with additional severe storms and supercells located northward into western Kansas and southwestern Nebraska. The supercell in northwest Oklahoma is located just to the north of a bullseye of MLCAPE exceeding 5000 J/kg, according to the RAP. The RAP also shows a strengthening 40 to 50 knot low-level jet over southern Kansas and northern Oklahoma. The latest WSR-88D VWPs at Vance Air Force Base has a wind profile favorable for intense supercells and tornadoes, with strong directional shear in the lowest 2 kilometers and a long looping hodograph. RAP forecast soundings in northwest Oklahoma this evening have 0-6 km shear near 55 knots, with 0-3 km storm-relative helicity in the 350 to 400 m2/s2, which is idea for tornadoes. Although the supercell in northwest Oklahoma has recently weakened, the current thinking is that re-intensification of this storm will occur. Also, it appears that an intense supercell may also develop with the storm near Fort Supply. As supercell re-cycling occurs over the next couple of hours, the potential for strong tornadoes is expected to be maintained across northwest Oklahoma. EF2+ tornadoes and very large hail will be possible. Northward into western Kansas and southwest Nebraska, multiple intense supercells are ongoing. The storms are located along the eastern edge of a corridor of strong instability, with the RAP estimating MLCAPE in the 2000 to 3000 J/kg range. The latest WSR-88D VWP at Dodge City, KS has a large looping hodograph, with 0-6 shear near 60 knots, and 0-3 km storm-relative helicity near 700 m2/s2. As the low-level jet continues to ramp up, a potential for strong tornadoes will be maintained, especially in the area near and to the "
+    },
+    {
+      "year": 2025,
+      "number": 867,
+      "issue_utc": "2025-05-19T01:02Z",
+      "topic": "Severe Thunderstorm Watch 289",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0867.html",
+      "summary": "An isolated risk of severe hail and locally damaging winds continues across parts of northern/central Arkansas.",
+      "discussion": "The earlier cluster of severe thunderstorms across northern/central Arkansas went through a weakening phase as its inflow became largely displaced to the cool side of the surface boundary amid strong low-level warm advection. However, recent radar data depicts some uptick in convection along the southern periphery of the anafrontal activity -- and these storms may be ingesting near-surface-based instability. If this trend continues, around 40-50 kt of 0-6km shear (per LZK VWP and mesoanalysis data) should support an isolated risk of severe hail and damaging winds for the next couple hours. While the severe risk may extend eastward out of Severe Thunderstorm Watch 289, the expected localized nature of the risk should preclude a downstream watch (though trends will be monitored). ..Weinman.. 05/19/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 868,
+      "issue_utc": "2025-05-19T01:20Z",
+      "topic": "Tornado Watch 288",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0868.html",
+      "summary": "The supercell tornado threat continues, though it is unclear how far east the risk will spread.",
+      "discussion": "A well-established supercell with a history of producing tornadoes and very large hail continues across parts of north-central TX. This storm is still in a very favorable environment -- characterized by 270-300 m2/s2 0-1km SRH (per nearby VWP data) and strong surface-based instability. Given this environment and the ongoing strong mesocyclone, the tornado, large-hail, and damaging-wind threat continues. It is unclear how long this supercell will maintain its current intensity with eastward extent, as it gradually encounters increasing inhibition (sampled by FWD 00Z sounding). However, the aforementioned strong mesocyclone and large storm-size may allow it to persist -- with an accompanying all-hazards risk. ..Weinman.. 05/19/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 869,
+      "issue_utc": "2025-05-19T01:34Z",
+      "topic": "Tornado Watch 288",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0869.html",
+      "summary": "The tornado threat may be increasing locally across parts of west-central Texas.",
+      "discussion": "An isolated thunderstorm that has generally been evolving along/west of the dryline is gradually impinging on the moist sector -- where middle/upper 60s dewpoints are yielding strong surface-based instability. While modified RAP forecast soundings indicate notable inhibition at the base of the EML, around 300 m2/s2 effective SRH and the aforementioned boundary-layer moisture will support a conditional risk of a tornado as the storm continues eastward over the next hour or so. ..Weinman.. 05/19/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 870,
+      "issue_utc": "2025-05-19T02:27Z",
+      "topic": "Tornado Watch 287",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0870.html",
+      "summary": "A highly favorable and localized tornado corridor is evident in parts of southwest Kansas.",
+      "discussion": "A supercell has recently intensified at the nose of the strong/extreme surface-based instability over southwest KS. Here, the VNX/DDC VWPs are sampling a 40-50 kt low-level jet -- which is contributing to 350-400 m2/s2 0-500m SRH. This very high helicity and strong/extreme instability will favor a localized corridor for tornadoes -- some of which may be strong/intense if storms can remain surface-based. ..Weinman.. 05/19/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 871,
+      "issue_utc": "2025-05-19T03:05Z",
+      "topic": "Tornado Watch 291",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0871.html",
+      "summary": "An isolated tornado threat, along with potential for large hail and wind damage will continue across parts of north-central/central Kansas and southern Nebraska.",
+      "discussion": "The latest hi-resolution radar imagery from Hastings, Nebraska shows scattered severe storms ongoing across parts of southern and Nebraska and north-central Kansas. These storms are located along and to the east of an axis of moderate instability. The storms are also located along the western edge of a strengthening low-level jet. The latest WSR-88D VWP near Hastings, Nebraska is sampling the low-level jet well, with strong directional shear in the lowest 2 kilometers and 0-3 km storm-relative helicity near 600 m2/s2. This will continue to be favorable for tornadoes, mainly further south into north-central and central Kansas, where instability is stronger and storms are more likely to be surface-based. Very large hail and wind damage will be possible with supercells. Further west into parts of northwest Kansas and southwest Nebraska, a line of strong to severe storms is developing along a frontal boundary. As this line intensifies, a wind-damage threat may increase over the next few hours. ..Broyles.. 05/19/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 872,
+      "issue_utc": "2025-05-19T04:41Z",
+      "topic": "Tornado Watch 291",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0872.html",
+      "summary": "A tornado threat will continue across parts of south-central Kansas over the next couple of hours. A strong tornado will be likely, and an EF3+ tornado could occur.",
+      "discussion": "An intense tornadic supercell is ongoing about 50 statute miles to the west-northwest of Wichita, KS. This storm is located just to the east of an axis of moderate instability, where the RAP is analyzing MLCAPE in the 3000 to 4000 J/kg range. This supercell is also located just to the southwest of the center of a 50 to 60 knot low-level jet. The low-level jet is creating very strong low-level shear, which is being sampled by the WSR-88D VWP at Wichita. This is creating a long looped hodograph and 0-3 km storm-relative helicity of near 650 m2/s2. This environment will be favorable for tornadoes, and a EF3+ tornado will be possible. In addition to the tornado threat, forecast soundings have 700-500 mb lapse rates near 8 C/km, which will be favorable for large hail. Hailstones of greater than 2 inches in diameter may also accompany the more intense cores."
+    },
+    {
+      "year": 2025,
+      "number": 873,
+      "issue_utc": "2025-05-19T04:53Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0873.html",
+      "summary": "A potential for severe gusts and hail will continue over the next couple of hours across northeast Mississippi and northwest Alabama. The threat will likely remain isolated, and watch issuance is not expected.",
+      "discussion": "The latest radar imagery shows a small cluster of strong to severe storms over northeastern Mississippi. This activity is located just to the north of a pocket of moderate instability, where MLCAPE is estimated by the RAP in the 2000 to 2500 J/kg range. The storms are being supported by large-scale ascent associated with a subtle shortwave trough, and by warm advection. The RAP also has moderate deep-layer shear, which is sampled by the GWX WSR-88D VWP in northeast Mississippi. The environment will support isolated severe wind gusts and hail. However, the severe threat is expected to remain too isolated for weather watch issuance."
+    }
+  ]
+}

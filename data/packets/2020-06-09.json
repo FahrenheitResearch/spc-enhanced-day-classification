@@ -1,0 +1,140 @@
+{
+  "convective_day": "2020-06-09",
+  "valid_start": "2020-06-09T12:00Z",
+  "valid_end": "2020-06-10T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-06-09",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-06-09T13:00Z",
+      "valid_end": "2020-06-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200609_1300.html",
+      "summary": "Scattered severe thunderstorms capable of large hail, damaging winds, and a few tornadoes are expected this afternoon and evening across parts of the central Plains and Missouri Valley. Other isolated severe storms including the possibility of a few tornadoes are expected across the Midwest and Ohio Valley.",
+      "sections": [
+        {
+          "title": "Central Plains/Missouri Valley",
+          "text": "Have upgraded parts of the region for a focused severe risk that is anticipated to be maximized generally near the southeast Nebraska/northeast Kansas border vicinity this afternoon/early evening. A shortwave trough located along the Colorado/northern New Mexico Front Range this morning will continue eastward and reach eastern Kansas/southeast Nebraska by evening. Strong height falls will precede this upper trough, along with the exit region of a cyclonically curved mid/high-level jet, which will overspread a moderate to strongly unstable air mass ahead of an eastward-moving front/surface low. In particular, a surface low will develop east-northeastward across central/northeast Kansas this afternoon. Substantial surface heating ahead of the low and cold front should contribute to strong buoyancy arcing across eastern Kansas into southeast Nebraska, which will be just to the north of the surface low. Forecast soundings feature MLCAPE values in excess of 3000 J/kg across this region with minimal inhibition by early afternoon. Latest thinking is scattered supercells should first develop immediately east/northeast of the surface low, within the focused exit region of the 80kt+ mid-leve"
+        },
+        {
+          "title": "Midwest/Lower Ohio Valley/Mid-South",
+          "text": "A mid-level dry slot on the southern fringe of the Cristobal should continue to develop east-northeastward over southeast Missouri and western portions of Kentucky/Tennessee toward Illinois/Indiana through the afternoon. With a very moist air mass (low 70s F surface dewpoints) also developing northward, dry slot-related cloud breaks and diurnal heating will contribute to weakening inhibition and moderate buoyancy by afternoon, particularly across Illinois into western/central Indiana. The north/northeastward-expanding core of strongest low/mid-level winds will also reside within this same corridor, including an increasing mid-level westerly component this afternoon, which could boost the potential for somewhat longer duration/semi-discrete updraft rotation. A few tornadoes may occur across the region, along with isolated thunderstorm-related wind damage. Portions of Illinois (roughly the eastern half) into Indiana will be reevaluated in subsequent outlooks for a possible tornado-related risk upgrade (10% Enhanced). Farther north, a transient supercell/brief tornado risk cannot be ruled out as far north as eastern Iowa/southeast Minnesota and western/southern Wisconsin this afternoo"
+        },
+        {
+          "title": "South Texas",
+          "text": "A southeastward-moving cold front will overtake a pre-frontal dryline/surface trough later today. Strong surface heating, with temperatures warming to near 100F, near and ahead of the front will weaken the cap and a few high-based thunderstorms may develop by late afternoon. These storms would be capable of severe wind gusts and hail. Any such storms would likely persist and propagate southward tonight across Deep South Texas and the Rio Grande Valley with an isolated severe threat potentially continuing through the evening and possibly early in the overnight. ..Guyer/Leitman.. 06/09/2020"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-06-09",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-06-09T16:30Z",
+      "valid_end": "2020-06-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200609_1630.html",
+      "summary": "Scattered severe thunderstorms capable of large hail, damaging winds, and a few tornadoes are expected this afternoon and evening across parts of the central Plains and Missouri Valley. Other isolated severe storms including the possibility of a few tornadoes are expected across the Midwest and Ohio Valley.",
+      "sections": [
+        {
+          "title": "Northeast KS/southeast NE this afternoon/evening",
+          "text": "An unusually amplified pattern persists for early June, with a deep midlevel trough moving eastward from CO/NM toward KS/OK, and the remnants of tropical cyclone Cristobal (now west of Saint Louis) moving north-northeastward toward WI/Upper MI by tonight. In advance of the deep midlevel trough now approaching western KS and the TX Panhandle, a 995 mb surface cyclone is expected to move eastward from north central KS this morning to northeast KS by this evening, as a trailing cold front surges eastward across OK/TX. A corridor of 68-70 F boundary-layer dewpoints will arc back northwestward to the surface cyclone this afternoon, beneath a remnant EML plume, which will result in MLCAPE of 1500-2500 J/kg. Surface heating/mixing and low-level convergence near the cyclone, in combination with divergence aloft in the exit region of the mid-upper jet, will all result in removal of convective inhibition. Thunderstorm development is expected by about 20z near the surface low, with subsequent new storm development eastward near the KS/NE border. Deep-layer southerly flow (effective bulk shear near 50 kt) and the moderate buoyancy will support supercells, along with substantial low-level shear"
+        },
+        {
+          "title": "Western KY/IL/IN this afternoon/evening",
+          "text": "Tropical depression Cristobal is moving north-northeastward just to the west of Saint Louis, and will continue toward WI/Upper MI overnight. East of the cyclone center, low-mid 70s dewpoints are spreading northward into southern IL/western KY, and will reach IL this afternoon. A belt of 40-50 kt low-midlevel flow around the eastern periphery of the system will contribute to sufficient vertical shear for rotating storms. The primary uncertainty is the degree of surface heating/destabilization within the richer moisture plume where clouds are widespread, which will be necessary for the formation of more cellular convection that could evolve into small supercells with an attendant tornado and damaging wind threat."
+        },
+        {
+          "title": "Eastern AR/northern LA to south TX this evening/early tonight",
+          "text": "A strong late-season cold front will surge eastward-southeastward across AR/LA/TX through tonight. The cold front will likely remained capped until this evening or early tonight, when it encounters richer low-level moisture and a broken band of storms could form on the boundary. Isolated strong/damaging gusts will be the main threat. Farther southwest, a cluster of storms could also form where the front interacts with the higher terrain in northeast Mexico, and some of this convection could spread into adjacent areas of south TX this evening/early tonight. ..Thompson/Lyons.. 06/09/2020"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-06-09",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-06-09T20:00Z",
+      "valid_end": "2020-06-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200609_2000.html",
+      "summary": "Scattered severe thunderstorms capable of large hail, damaging winds, and a few tornadoes are expected this afternoon and evening across parts of the central Plains and Missouri Valley. Other isolated severe storms including the possibility of a few tornadoes are expected across the Midwest and Ohio Valley.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "No appreciable changes are being made to the outlook at this time, as both areas and meteorological reasoning as laid out in prior forecasts appears to remain representative of current expectations. Storms are forecast to continue to increase in coverage/intensity over the southeast Nebraska/northeast Kansas vicinity over the next few hours, hence the recent issuance of Tornado Watch 273 in this area. For additional short-term information, please refer to SWOMCD #889. Elsewhere, convection -- along with local tornado/wind potential -- remains evident over portions of the Midwest vicinity in proximity to the remnants of Cristobal this afternoon and into this evening. ..Goss.. 06/09/2020 .PREV DISCUSSION... /ISSUED 1125 AM CDT Tue Jun 09 2020/"
+        },
+        {
+          "title": "Northeast KS/southeast NE this afternoon/evening",
+          "text": "An unusually amplified pattern persists for early June, with a deep midlevel trough moving eastward from CO/NM toward KS/OK, and the remnants of tropical cyclone Cristobal (now west of Saint Louis) moving north-northeastward toward WI/Upper MI by tonight. In advance of the deep midlevel trough now approaching western KS and the TX Panhandle, a 995 mb surface cyclone is expected to move eastward from north central KS this morning to northeast KS by this evening, as a trailing cold front surges eastward across OK/TX. A corridor of 68-70 F boundary-layer dewpoints will arc back northwestward to the surface cyclone this afternoon, beneath a remnant EML plume, which will result in MLCAPE of 1500-2500 J/kg. Surface heating/mixing and low-level convergence near the cyclone, in combination with divergence aloft in the exit region of the mid-upper jet, will all result in removal of convective inhibition. Thunderstorm development is expected by about 20z near the surface low, with subsequent new storm development eastward near the KS/NE border. Deep-layer southerly flow (effective bulk shear near 50 kt) and the moderate buoyancy will support supercells, along with substantial low-level shear"
+        },
+        {
+          "title": "Western KY/IL/IN this afternoon/evening",
+          "text": "Tropical depression Cristobal is moving north-northeastward just to the west of Saint Louis, and will continue toward WI/Upper MI overnight. East of the cyclone center, low-mid 70s dewpoints are spreading northward into southern IL/western KY, and will reach IL this afternoon. A belt of 40-50 kt low-midlevel flow around the eastern periphery of the system will contribute to sufficient vertical shear for rotating storms. The primary uncertainty is the degree of surface heating/destabilization within the richer moisture plume where clouds are widespread, which will be necessary for the formation of more cellular convection that could evolve into small supercells with an attendant tornado and damaging wind threat."
+        },
+        {
+          "title": "Eastern AR/northern LA to south TX this evening/early tonight",
+          "text": "A strong late-season cold front will surge eastward-southeastward across AR/LA/TX through tonight. The cold front will likely remained capped until this evening or early tonight, when it encounters richer low-level moisture and a broken band of storms could form on the boundary. Isolated strong/damaging gusts will be the main threat. Farther southwest, a cluster of storms could also form where the front interacts with the higher terrain in northeast Mexico, and some of this convection could spread into adjacent areas of south TX this evening/early tonight."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 889,
+      "issue_utc": "2020-06-09T19:03Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0889.html",
+      "summary": "Convective initiation is expected around 3pm CDT. A couple of supercells with an attendant tornado/hail threat will likely develop later this afternoon. A tornado watch will likely be needed by 230pm CDT.",
+      "discussion": "Visible satellite imagery shows a swelling cumulus field over north-central KS and southern NE as surface temperatures rise into the mid to upper 80s. Surface analysis places a boundary from 20 mi west of RSL to 40 mi northwest of CNK to 40 mi east-southeast of GRI. KTWX VAD shows low-level veering flow in the lowest 1-2 km and RAP forecast soundings show sickle-shaped hodographs in the lowest 8km but some backing aloft. Additionally, the deepening boundary layer evident in the RAP sounding data suggests CINH will largely erode during the next 1-2 hours. Short-term guidance suggests a couple of storms will preferentially develop near the boundary during the mid-late afternoon with subsequent development farther southeast over northeast KS/far southeast NE towards early evening. The tornado risk will probably focus in the vicinity of the boundary but on the immediate warm sector side where large CAPE is co-located with ample surface vorticity. Large to very large hail will be possible with the more dominant/persistent updrafts."
+    },
+    {
+      "year": 2020,
+      "number": 890,
+      "issue_utc": "2020-06-09T20:54Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0890.html",
+      "summary": "A few surface based storms may develop across SW Illinois this evening with a conditional threat for a brief weak tornado. There is considerable uncertainty on thunderstorm initiation and a watch is unlikely.",
+      "discussion": "Visible satellite indicates clearing has occurred west of the cloud shield from the remnants of TD Cristobal. Surface heating is occurring here over a very moist tropical air mass with dewpoints in the mid to upper 70s F. Continued advection of warmer temperatures and low-level moisture will likely result in continued destabilization through late this afternoon and evening. MLCAPE has already begun to increase, with SPC mesoanalysis currently indicating 1500-2500 J/kg. Favorable low-level shear, 0-1 km SRH 200-300 m2/s2, from the strong wind fields surrounding Cristobal will support updraft rotation with any surface based storms that may develop. There is considerable uncertainty on thunderstorm initiation across the area. The lack of any well defined surface boundaries suggests that any storm initiation will likely be due to local mesoscale convergence and or diurnal heating. A narrow window of opportunity for surface based convective development will exist before sunset. Should this occur, convective trends will be monitored, but a Tornado Watch seems unlikely at this time."
+    },
+    {
+      "year": 2020,
+      "number": 891,
+      "issue_utc": "2020-06-09T23:20Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0891.html",
+      "summary": "A brief, weak tornado or two are possible across northern Illinois/Indiana and possibly into far southwest Michigan. While the severe threat is likely isolated, trends will be monitored for a possible tornado watch.",
+      "discussion": "Tropical Depression Cristobal is continuing to move northward across the Midwest with a deep, well defined surface low in eastern Iowa/northwest Illinois. Breaks in the clouds across portions of central/northern Illinois/Indiana has led to some stronger instability with satellite/radar imagery showing a slight uptick in convection recently. Low-level shear remains strong with larger hodographs east of the surface low. Transient weak rotation has been observed with a few convective cells, but convection is remaining somewhat weak, with relatively narrow updrafts. However, given the presence of low-level helicity and potential convective intensification associated with increasing destabilization, a couple of brief, weak tornadoes and convectively-aided strong wind gusts are possible across the area this evening."
+    },
+    {
+      "year": 2020,
+      "number": 892,
+      "issue_utc": "2020-06-09T23:43Z",
+      "topic": "Tornado Watch 273",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0892.html",
+      "summary": "Threat for tornadoes continues across southeast NE and far northeast KS. convective trends will be monitored for additional storm development across far southwest IA and far northwest MO.",
+      "discussion": "A complex surface pattern persists across eastern NE southward into central and eastern KS. Recent surface analysis places a low about 20 miles west-southwest of CNK, with a dryline arcing eastward and then southeastward from the low to the central KS/MO border. Additionally, a cold front extends northeastward from the low through southeast NE into far western IA. Storms have been developing along these boundaries, but the quick northeastward progression of the dryline coupled with eastward movement of the cold front has led to undercutting and limited residence time in the warm-sector thus far. Several cells along the dryline have tried to organize, with several left splits noted, but the slower and slightly more eastward storm motion that results has been undercut thus far. Even so, strong vertical shear and robust buoyancy amid strong forcing for ascent will result in continual severe thunderstorm development and the potential for a tornado or two. Farther west, an evolving storm cluster is ongoing across Jefferson and Saline counties. This cluster has surged eastward with the cold front and a recent storm merger increased the storm intensity. Robust surface vorticity is in place near this storm, which likely contributed to recent tornadogenesis. Complex storm and boundary interactions are currently ongoing, but the threat for tornado should continue with this cluster for at least the next half hour or so. The warm sector is expected to become increasingly narrow over time. However, some low potential for additional storms exists within areas downstream of the watch (i.e. far northwest MO and far southwest IA) and convective trends will be monitored. ..Mosier.. 06/09/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 893,
+      "issue_utc": "2020-06-10T01:41Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0893.html",
+      "summary": "Storms are developing along a Pacific cold front as it pushes east-southeast across the region. Marginally severe hail and winds are possible, a watch issuance is unlikely.",
+      "discussion": "After numerous attempts of convective initiation along the Pacific cold front extending southwestward from southern Missouri through south Texas, a few storms have matured in the past 30-60 minutes. An increase of lightning activity and indications of marginally severe hail per radar/MESH data have recently occurred near the ArkLaTex. The stronger forcing for ascent is farther to the north across the Midwest, but daytime heating and enhanced surface convergence near the front has finally breached the cap. Given the influence of insolation and the lack of a stronger low-level jet supporting warm air advection aloft, these storms may be relatively short-lived, although a weak warm air advection signal is forecast across parts of Arkansas later into the evening. If a storm can establish itself, MLCAPE/MUCAPE of 2000+ J/kg may sustain storms past sunset."
+    },
+    {
+      "year": 2020,
+      "number": 894,
+      "issue_utc": "2020-06-10T02:21Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0894.html",
+      "summary": "Large hail and damaging wind gusts will remain a threat with the ongoing storms for the next hour or two. Thereafter, the loss of buoyancy with northward extent should lead to gradual weakening.",
+      "discussion": "Recent surface analysis places a low just south of OMA, along a cold front extending from south-central MN southwestward into central KS. A dryline arcs southeastward from this low into central MO and then back southward through southern MO. A warm front, delineated well by the 80 deg F isotherm, also extends east-southeastward from this low. The warm sector between this slow-moving warm front and the quickly northeastward progressing dryline has been narrowing throughout the evening. Strong forcing for ascent near the surface low continues to support strong to severe thunderstorms. Large hail and damaging wind gusts will remain a threat with these storms for the next hour or two. Thereafter, the increasingly limited area of strong buoyancy is expected to result in a gradual weakening of the ongoing storms as they continue northeastward into southeast IA. Several attempts at more robust convection have occurred farther southeastward along the dryline, but have yet to maintain strength, likely as a result of warm temperatures aloft."
+    }
+  ]
+}

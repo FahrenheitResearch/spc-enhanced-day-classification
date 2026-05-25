@@ -1,0 +1,113 @@
+{
+  "convective_day": "2022-03-17",
+  "valid_start": "2022-03-17T12:00Z",
+  "valid_end": "2022-03-18T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2022-03-18",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-03-18T01:00Z",
+      "valid_end": "2022-03-18T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220318_0100.html",
+      "summary": "Threats for severe thunderstorms are expected late this this evening over parts of Oklahoma and northeast Texas, where large hail and wind damage will be possible. A threat for tornadoes, wind damage and isolated large hail will be possible in parts of southern Louisiana and southern Mississippi after midnight.",
+      "sections": [
+        {
+          "title": "Oklahoma/Northeast Texas",
+          "text": "The latest water vapor imagery has a negatively tilted upper-level trough over the southern Plains. A broad plume of mid-level moisture extends from the Red River Valley northward into the central Plains, wrapping southwestward around the system into the southern and central High Plains. At the surface, a 999 mb low is locate in southwest Oklahoma. A narrow corridor of maximized low-level moisture is located from north-central Texas into central Oklahoma, where surface dewpoints range from the upper 40s to mid 50s F. The RAP is estimating MLCAPE along this corridor in the 1000 to 1200 J/kg range. Scattered thunderstorms have developed along the instability axis this evening. The storms will move north-northeastward across central Oklahoma and develop southeastward into southern Oklahoma and northeast Texas later this evening. In addition to moderate instability, RAP forecast soundings this evening in central and southern Oklahoma have 40 to 50 knots of 0-6 km shear with 700-500 mb lapse rates near 8.5 C/km. This environment will be favorable for supercells and large hail. Hailstones of greater than 2 inches in diameter will be possible with the more dominant cells. The potential fo"
+        },
+        {
+          "title": "Southern Louisiana/Southern Mississippi",
+          "text": "The upper-level trough in the southern Plains will move toward the Arklatex tonight as a 40 to 60 kt low-level jet strengthens in the lower Mississippi Valley. At the surface, a warm front will move from east Texas eastward across Louisiana tonight. Surface dewpoints along and southwest of the front will be in the 60s F, with MLCAPE likely reaching the 1500 to 2500 J/kg range. Thunderstorms are expected to form this evening in east Texas near the axis of the low-level jet and expand quickly in coverage, moving east-northeastward across the Arklatex tonight. Thunderstorms are also expected to develop southward across central and southern Louisiana after midnight. RAP forecast soundings along the most favorable corridor for severe from southern and central Louisiana eastward into southwest Mississippi late tonight have MLCAPE near 2500 J/kg, 0-6 km shear around 40 knots and 0-3 km storm relative helicities in the 275 to 325 m2/s2 range. This should be favorable for supercells and tornadoes. A strong tornado will be possible, mainly in southeast Louisiana and southwest Mississippi, after 08Z when low-level shear will become maximized across the lower Mississippi Valley. Supercells wil"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2022,
+      "number": 267,
+      "issue_utc": "2022-03-17T20:34Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0267.html",
+      "summary": "Storms are expected to form after about 22Z over southwest Oklahoma and far northwest Texas, and should expand northeastward across central Oklahoma. A few damaging gusts and hail appear likely.",
+      "discussion": "Visible satellite imagery shows CU developing within the surface lapse rates plume pushing into northwest TX behind a dryline, which is also beneath very cold temperatures aloft. Meanwhile, moisture return is underway through the I-35 corridor, with near-50 F dewpoints now into south-central OK. Precipitable water values have also been steadily increasing today, approaching 0.75\" west of I-35 into southern OK. Although moisture is limited, lapse rates are steep through a deep layer, and this will lead to increasing MUCAPE to over 1000 J/kg by early evening. Initial high-based activity will form near the surface low, and expand east and northeastward through early evening. Shear profiles (with strong midlevel backing atop marginal low-level SRH) are initially expected to favor mixed storm modes, with both damaging outflow and hail possible. Cold temperatures aloft should favor hail production, though total moisture content as well as storm mode may tend limit hail size initially. If storms can develop toward the Red River and persist into southeast OK and northeast TX during the late evening, the environment may better favor supercells."
+    },
+    {
+      "year": 2022,
+      "number": 268,
+      "issue_utc": "2022-03-17T22:55Z",
+      "topic": "Severe Thunderstorm Watch 48",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0268.html",
+      "summary": "A few strong to severe thunderstorms may develop across North TX over the next several hours.",
+      "discussion": "Recent visible satellite imagery shows increasingly agitated cumulus along the dryline moving into north TX. Forecast soundings in much of this region continue to show warm temperatures aloft, supporting convective inhibition. Most recent mesoanalysis estimates MLCIN is around -25 to -50 J/kg. Recent ACARS soundings from DAL also continue to show capping, with MLCIN around -30 to -35 J/kg. Even so, convergence along the boundary is quite strong and moisture advection continue in the downstream environment. Dewpoints have increased along the I-35 corridor 3-4 degrees over the past 3 hours. Given these improving thermodynamics and persistent low-level convergence, the potential exists for a few deeper, more sustained updrafts. Wind profiles show strong low-level veering but a pronounced weakness in the mid-levels. As a result, storm organization will likely be somewhat limited. Even so, a few strong to severe storms are possible and watch expansion southward may need to be considered soon. ..Mosier.. 03/17/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 269,
+      "issue_utc": "2022-03-18T00:10Z",
+      "topic": "Severe Thunderstorm Watch 48",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0269.html",
+      "summary": "Severe weather including large hail and damaging wind gusts will likely continue this evening.",
+      "discussion": "As of 00 UTC, regional radar imagery showed scattered thunderstorms ongoing east of dryline across central OK. Driven by 750-1000 J/KG of MLCAPE beneath a cold core upper low, rapid airmass modification is forecast to continue this evening ahead of the storms supporting a continued risk for large hail and damaging wind gusts. Regional VWPS show strongly veering wind profiles in the low-levels with significant backing evident above 3km. This will likely continue to support a mixed storm mode of supercell structures and line segments. Steep mid-level lapse rates (7.5-8.5 C/KM) will favor efficient hail growth within more isolated updrafts, especially those able to acquire some rotation. The cluster of storms ongoing northwest of OKC appear to be the most favorably positioned to produce severe hail over the next few hours. Otherwise, the mixed storm mode will support the potential for damaging wind gusts as additional storms continue to develop farther south along the dryline. Severe potential will continue eastward into central Oklahoma later this evening. Storms will eventually outrun the returning surface moisture/buoyancy after dark across eastern Oklahoma, decreasing the severe threat overnight. ..Lyons.. 03/18/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 270,
+      "issue_utc": "2022-03-18T01:30Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0270.html",
+      "summary": "A few thunderstorms capable of large hail may develop across portions of east TX into northwest LA and southwest AR over the next few hours. Limited coverage should preclude the need for a watch.",
+      "discussion": "Regional radar imagery has shown gradually increasing intensity and coverage of the elevated thunderstorms from east TX northeastward into far southwest AR. This area is characterized by surface temperatures in the upper 60s/low 70s and dewpoints ranging from the upper 50s across east TX to the lower 50s across northern LA and southwest AR. As sampled by the 00Z SHV sounding, these surface conditions do not result in surface-based buoyancy. However, persistent warm-air advection continues throughout the warm sector in the presence of steep mid-level lapse rates (i.e. 2-6 km max lapse rates around 8.5 deg C per km), fostering elevated thunderstorms. As the low-level moisture continues to gradually increase, the coverage and intensity of these storms has also increased. Overall expectation is for the majority of the storm to remain below severe limits. However, a few updrafts may become strong enough to briefly produce severe hail. This limited severe potential is expected to preclude the need for the watch, with a higher potential for surface-based storms anticipated south and southeast of this region later tonight."
+    },
+    {
+      "year": 2022,
+      "number": 271,
+      "issue_utc": "2022-03-18T02:22Z",
+      "topic": "Severe Thunderstorm Watch 48",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0271.html",
+      "summary": "Thunderstorm coverage and intensity is expected to gradually decrease over the next few hours. Even so, a few storms will still have the potential to produce hail and/or damaging wind gusts.",
+      "discussion": "A large area of thunderstorms continues to move gradually northeastward across central OK. These thunderstorms are currently in an area of modest buoyancy, with mesoanalysis estimating MUCAPE ranges from around 1000 across south-central OK to around 250 J/kg over north-central OK. The air mass downstream across northeast OK is currently stable, with no buoyancy indicated within mesoanalysis or forecast soundings. However, mid-level moistening associated with the approaching shortwave trough in tandem with some cooling aloft should result in modest buoyancy over the next few hours as the storms move into the region. Moderate to strong vertical deep-layer shear will remain over the region, although some weakness in the mid-level flow will persist. Given these environmental conditions, the expectation is for gradually diminishing storm intensity and coverage over the next few hours. Isolated hail will remain possible within the strongest updrafts, along with the potential for a few stronger wind gusts, particularly where the downdrafts augment the gusty winds along the front. ..Mosier.. 03/18/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 272,
+      "issue_utc": "2022-03-18T03:47Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0272.html",
+      "summary": "Conditions are expected to become more favorable for supercells capable of all severe hazards, including tornadoes, over the next few hours. A Tornado Watch will likely be needed to cover this threat.",
+      "discussion": "The air mass across southern LA continues to recover ahead of a shortwave trough moving across the southern Plains. Current surface observations show dewpoints ranging from the mid 60s across southwest LA into the upper 50s across south-central LA, amid surface temperatures in the upper 60s. As shown by the 00Z LCH sounding, these surface conditions do not yet result in surface-based buoyancy and all of the storms thus far appear to be rooted between 925 and 850 mb. The more buoyant air currently remains to the southwest of the region. However, it is expected to advect northward/northeastward over the next few hours, bringing mid to upper 60s dewpoints into the area. Surface-based buoyancy is anticipated as a result of this moisture increase. In addition to the improving thermodynamics, the kinematic environment is already quite impressive. Recent KLCH VAD profile sampled over 400 m2/s2 of 0-1 km storm-relative helicity. Some convective influence may be ongoing currently due to a nearby thunderstorm, but low-level curvature has been gradually increasing over the last few hours. Given these trends, the potential for supercells capable of all severe hazards, including tornadoes, is expected to increase over the next several hours. A Tornado Watch will likely be needed to address this increasing threat."
+    },
+    {
+      "year": 2022,
+      "number": 273,
+      "issue_utc": "2022-03-18T06:40Z",
+      "topic": "Tornado Watch 49",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0273.html",
+      "summary": "The greatest tornado threat in the next 1-2 hours should focus across parts of southern Louisiana.",
+      "discussion": "Mid to upper 60s surface dewpoints have advanced northward across parts of southern LA early this morning. A 40-50 kt south-southwesterly low-level jet is aiding mainly elevated storms from southern/eastern LA into far western MS. RAP/NAM forecast soundings suggest that around 64 to 65F surface dewpoints will be needed to support surface-based convection. The greatest severe potential in the next 1-2 hours will likely focus across parts of southern LA where surface-based storms appear most probable and in association with the focused low-level jet. A very favorable low-level hodograph, with 0-1 km SRH exceeding 300 m2/s2, indicates the potential for tornadoes with any storm that can remain surface based. Recent radar imagery shows low-level rotation with one such storm moving from Allen into Evangeline Parish as of 0640Z. ..Gleason.. 03/18/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 274,
+      "issue_utc": "2022-03-18T08:12Z",
+      "topic": "Tornado Watch 49",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0274.html",
+      "summary": "An isolated threat for tornadoes and damaging winds should continue to shift eastward across southern Louisiana/Mississippi. Downstream watch issuance will probably be needed.",
+      "discussion": "Ongoing low-level warm advection related storms have struggled to intensify over the past couple of hours. This is likely due to most convection moving quickly northward into a less unstable airmass in southern MS. Still, a gradual increase in low-level moisture has occurred ahead of these storms, with 08Z surface observations indicating low to mid 60s dewpoints have advanced into parts of southeastern LA and southern MS. It remains unclear when, or if, this convection will become truly surface based, with latest RAP forecast soundings across this region continuing to suggest mid 60s surface dewpoints will be needed for this to occur. Even so, recent VWPs from KLIX/KDGX show impressive low-level hodograph curvature, with 0-1 km SRH exceeding 400 m2/s2. If updrafts can overcome the lingering boundary-layer inhibition, then they would be capable of low-level rotation and producing a few tornadoes. Given the strength of the low-level winds (40-50 kt), isolated strong to damaging winds may also occur. It appears that the best forcing associated with the low-level jet and an ejecting shortwave trough farther west may tend to remain displaced to the north of the greatest low-level moisture/surface warm sector. Still, some overlap of weak but sufficient boundary layer instability coupled with strong low-level and deep-layer shear should support a continued severe threat with eastward extent across southern LA/MS/AL over the next several hours. Accordingly, a downstream Tornado Watch will probably be needed."
+    },
+    {
+      "year": 2022,
+      "number": 275,
+      "issue_utc": "2022-03-18T10:48Z",
+      "topic": "Tornado Watch 50",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0275.html",
+      "summary": "A threat for isolated damaging winds and a few tornadoes should persist with storms moving eastward this morning.",
+      "discussion": "Convection across parts of southern LA into southern/central MS has grown upscale into a bowing line over the past couple of hours. Based on the progression of this line, latest surface observations, and most recent MLCAPE fields from mesoanalysis, it still appears that this activity is outpacing the greater low-level moisture return occurring along the central Gulf Coast. There has been a notable lack of severe wind/damage reports thus far, and much of the ongoing convection may still be rooted slightly above the surface. Even with these considerations, damaging wind gusts will remain possible with the line, as low-level winds are quite strong per recent VWPs from KLIX/KMOB. Favorable low-level shear and enlarged hodographs in the boundary layer should also support embedded rotation within the line, and a threat for a few tornadoes. The primary uncertainty remains whether any portion of the line will be able to become truly surface based and pose a greater severe threat. Surface dewpoints in the mid 60s will likely be needed for this to occur as storms move eastward into parts of western/southern AL over the next couple of hours. ..Gleason.. 03/18/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "convective_day": "2019-07-19",
+  "valid_start": "2019-07-19T12:00Z",
+  "valid_end": "2019-07-20T12:00Z",
+  "max_risk": "MDT",
+  "product_counts": {
+    "ENH": 1,
+    "MDT": 4
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2019-07-19",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-07-19T12:00Z",
+      "valid_end": "2019-07-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190719_1200.html",
+      "summary": "Thunderstorms capable of all severe threats, including large hail, strong wind gusts, and tornadoes, are possible across portions of the Upper Midwest and Upper Great Lakes today.",
+      "sections": [
+        {
+          "title": "Upper Midwest...Upper Great Lakes",
+          "text": "Showers and isolated thunderstorms will likely be ongoing at the beginning of the period over portions of the Upper Great Lakes, supported by a modest low-level jet. These showers and thunderstorms are expected to dissipate by the early morning as the low-level jet weakens. A very moist air mass is currently in place over the Upper Midwest/Upper Great Lakes, with even better moisture upstream across the Middle MS Valley. This air mass will remain over the region today with some modest moist advection possible. As a result, dewpoints are expected to be mid to upper 70s across a large portion of the Upper Midwest and Upper Great Lakes. Dewpoints around 80 may be realized across southern MN near a weak surface low. Surface temperatures are also expected to climb into the 90s as the boundary layer mixes. These very warm and moist conditions will exist beneath relatively cool mid-level temperatures, resulting in very steep (i.e. 8-8.5 deg C per km) mid-level lapse rates. As a result, an extremely buoyant thermodynamic environment (i.e. 4000+ J/kg of MLCAPE) will be in place. Highest buoyancy will likely occur across northern IA, southern MN, and west-central WI. In these areas MLCAPE co"
+        },
+        {
+          "title": "Lower Great Lakes...Northeast",
+          "text": "Weak convectively induced shortwave trough is expected to progress over the Lower Great Lakes this afternoon, providing enough lift for thunderstorm development. Air mass over the region will be moderately unstable but weakly sheared. Expectation is for predominantly multicellular, outflow-dominant storms capable of isolated damaging wind gusts."
+        },
+        {
+          "title": "SD",
+          "text": "A strong low-level jet will develop across the Plains tonight with the resulting warm-air advection supporting thunderstorm development across SD. These initially elevated storms could produce isolated large hail. As they move eastward, low-probability potential exists for a few downdrafts intense enough to produce strong wind gusts at the surface. ..Mosier/Bentley.. 07/19/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-07-19",
+      "hhmm": "1300",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2019-07-19T13:00Z",
+      "valid_end": "2019-07-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190719_1300.html",
+      "summary": "A regional outbreak of severe thunderstorms with strong tornadoes and potentially widespread significant wind damage may occur from central Minnesota across northern Wisconsin during the mid-afternoon to evening.",
+      "sections": [
+        {
+          "title": "Upper Midwest/Great Lakes",
+          "text": "Upgrading to Moderate Risk this outlook for the potential threats of multiple strong tornadoes and a derecho later this afternoon and evening. CAPE/shear/SRH parameter space in this region is forecast to be exceptionally rare for mid July amid a predominately zonal flow regime across the northern states. A convective cluster is ongoing across north-central SD aided by warm/moist advection around 700 mb along a pronounced baroclinic zone. 00Z CAM guidance had a decent handle on this activity earlier this morning and are consistent with a decaying trend through late morning as advection shifts east amid pronounced MLCIN as sampled by the 12Z Aberdeen sounding. There is a low confidence scenario that a strong enough cold pool is becoming established with this early-day cluster such that total decay does not occur. If this occurs, robust boundary-layer heating downstream may be sufficient for an increasing threat during the afternoon of strong to severe wind gusts. This could still yield a scattered to widespread damaging wind scenario, albeit in an earlier time frame than progged by guidance. The more probable scenario is for an extremely unstable air mass (MLCAPE > 4000 J/kg) to beco"
+        },
+        {
+          "title": "Lower Great Lakes",
+          "text": "An MCV progressing east over the Lower Great Lakes this afternoon should provide enough lift for scattered thunderstorms development. Air mass over the region will be moderately to strongly unstable but modestly sheared. Expectation is for predominantly multicellular, outflow-dominant storms capable of isolated damaging wind gusts."
+        },
+        {
+          "title": "SD tonight",
+          "text": "Another round of 700-mb warm/moist advection will occur tonight within a tight baroclinic zone well north of a surface front arcing across NE into northeast WY. Large elevated buoyancy and strong effective shear will support a risk for isolated large hail. The risk for severe wind will likely be tempered by a more stable sub-cloud layer in the second convective round. ..Grams/Gleason.. 07/19/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-07-19",
+      "hhmm": "1630",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2019-07-19T16:30Z",
+      "valid_end": "2019-07-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190719_1630.html",
+      "summary": "A regional outbreak of severe thunderstorms with the possibility of strong tornadoes and widespread significant wind damage is expected from central Minnesota across northern Wisconsin during the mid/late afternoon into tonight.",
+      "sections": [
+        {
+          "title": "Upper Midwest/Great Lakes",
+          "text": "A regional outbreak of severe thunderstorms is expected later this afternoon into tonight. That said, some specific uncertainties remain with the timing details/exact sub-regional corridor of peak severe-weather risk given capping/warm temperatures aloft and uncertainty with the decay of the cloud shield from the earlier MCS across South Dakota. A very strong summertime belt of westerlies exists across the northern tier of the CONUS, with 50-100 kt westerlies noted between 500/250 MB in 12Z upper-air data spanning Montana to the Dakotas/Minnesota. Where storms develop/increase later today, this very strong belt of winds aloft will be influential in storm organization including supercells and potential evolution of a fast-moving MCS (possible if not likely derecho) later today/tonight. Consult Mesoscale Discussion 1523 regarding midday details across western Minnesota. Additional surface-based thunderstorm development may emanate from the ascent/differential heating related to the MCS remnants, focusing downstream surface-based severe potential across central Minnesota. An extremely unstable air mass (MLCAPE >4000 J/kg) will continue to become established from southeast Southeast So"
+        },
+        {
+          "title": "Lower Great Lakes/Northeast States",
+          "text": "Have upgraded parts of the region for thunderstorm-wind related potential this afternoon into evening. This will be related to the possible east-southeastward persistence of a complex of storms across Ontario and additional scattered development that is expected in the lee of the Lower Great Lakes. The ambient air mass will be moderately to strongly unstable but the region will generally be south of the stronger westerlies aloft. The overall expectation is for predominantly multicellular, outflow-dominant storms capable of isolated damaging wind gusts this afternoon and evening."
+        },
+        {
+          "title": "South Dakota tonight",
+          "text": "Another round of 700-mb warm/moist advection will occur tonight within a tight baroclinic zone well north of a surface front arcing across Nebraska into northeast Wyoming. Large elevated buoyancy and strong effective shear will support a risk for isolated large hail. While storms will generally tend to be elevated, there may be some wind damage potential if upscale quasi-linear growth occurs late tonight as storms progress east-southeastward across South Dakota. ..Guyer/Wendt.. 07/19/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-07-19",
+      "hhmm": "2000",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2019-07-19T20:00Z",
+      "valid_end": "2019-07-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190719_2000.html",
+      "summary": "A regional outbreak of severe thunderstorms with the possibility of strong tornadoes and widespread significant wind damage is expected from central Minnesota across northern Wisconsin during the mid/late afternoon into tonight.",
+      "sections": [
+        {
+          "title": "DISCUSSION",
+          "text": "The only change to the outlook is to remove thunder from parts of North Dakota. A post-frontal airmass across North Dakota will make thunder less likely in some areas tonight. ..Broyles.. 07/19/2019 .PREV DISCUSSION... /ISSUED 0105 PM CDT Fri Jul 19 2019/"
+        },
+        {
+          "title": "Upper Midwest/Great Lakes",
+          "text": "A regional outbreak of severe thunderstorms is expected later this afternoon into tonight. That said, some specific uncertainties remain with the timing details/exact sub-regional corridor of peak severe-weather risk given capping/warm temperatures aloft and uncertainty with the decay of the cloud shield from the earlier MCS across South Dakota. A very strong summertime belt of westerlies exists across the northern tier of the CONUS, with 50-100 kt westerlies noted between 500/250 MB in 12Z upper-air data spanning Montana to the Dakotas/Minnesota. Where storms develop/increase later today, this very strong belt of winds aloft will be influential in storm organization including supercells and potential evolution of a fast-moving MCS (possible if not likely derecho) later today/tonight. Consult Mesoscale Discussion 1523 regarding midday details across western Minnesota. Additional surface-based thunderstorm development may emanate from the ascent/differential heating related to the MCS remnants, focusing downstream surface-based severe potential across central Minnesota. An extremely unstable air mass (MLCAPE >4000 J/kg) will continue to become established from southeast Southeast So"
+        },
+        {
+          "title": "Lower Great Lakes/Northeast States",
+          "text": "Have upgraded parts of the region for thunderstorm-wind related potential this afternoon into evening. This will be related to the possible east-southeastward persistence of a complex of storms across Ontario and additional scattered development that is expected in the lee of the Lower Great Lakes. The ambient air mass will be moderately to strongly unstable but the region will generally be south of the stronger westerlies aloft. The overall expectation is for predominantly multicellular, outflow-dominant storms capable of isolated damaging wind gusts this afternoon and evening."
+        },
+        {
+          "title": "South Dakota tonight",
+          "text": "Another round of 700-mb warm/moist advection will occur tonight within a tight baroclinic zone well north of a surface front arcing across Nebraska into northeast Wyoming. Large elevated buoyancy and strong effective shear will support a risk for isolated large hail. While storms will generally tend to be elevated, there may be some wind damage potential if upscale quasi-linear growth occurs late tonight as storms progress east-southeastward across South Dakota."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-07-20",
+      "hhmm": "0100",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2019-07-20T01:00Z",
+      "valid_end": "2019-07-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190720_0100.html",
+      "summary": "Significant wind gust are still expected across central and northeast Wisconsin this evening.",
+      "sections": [
+        {
+          "title": "01Z Update",
+          "text": "...Northern/Central WI...Upper/Lower MI... Strong mesoscale convective system continues to organize as it moves across northern WI at 40-45 kt. Air mass ahead of the line is currently characterized by temperatures in the mid 80s, dewpoints in the mid 70s, effective bulk shear around 50 kt, and strong buoyancy. Expectation is for the ongoing line to continue organizing while moving quickly eastward and for strong wind gusts to become more common as the rear-inflow jet strengthens. A corridor of significant wind gusts (i.e. 74+ mph) is probable. Current radar signature and recent NSSL Warn-on-Forecast ensemble data suggest the most likely location for this corridor during the next hour is across Lincoln, Langlade, Marathon, Wood, and Portage Counties in central WI. QLCS tornadoes are also possible within the line. PDS Severe Thunderstorm Watch 525 remains in effect for Northern WI until 06Z. ..Mosier.. 07/20/2019"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2019,
+      "number": 1522,
+      "issue_utc": "2019-07-19T12:08Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1522.html",
+      "summary": "An isolated damaging wind and hail threat may continue into northeastern South Dakota this morning. Watch issuance remains unlikely.",
+      "discussion": "A long-lived supercell that initiated in southeastern MT earlier this morning has recently merged into a small bowing cluster with other storms across north-central SD. At 12Z, strong inbound velocities around 5000-7000 ft AGL have been observed from the KABR radar with this convection, and a few measured wind gusts to 59-64 mph have occurred over the past couple of hours across north-central SD. With 50+ kt of effective bulk shear present over this region, a isolated strong to damaging wind threat may continue through mid morning as this activity spreads eastward across northeastern SD. It remains unclear when/if this cluster will weaken, but most short-term guidance suggests gradual weakening should occur no later than 14-16Z as it encounters greater convective inhibition observed on the 12Z sounding from Aberdeen SD. Marginally severe hail is also possible in the short term. This wind/hail threat should remain quite isolated through the morning, and watch issuance remains unlikely."
+    },
+    {
+      "year": 2019,
+      "number": 1523,
+      "issue_utc": "2019-07-19T16:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1523.html",
+      "summary": "Trends around a dying MCS are being monitored for eventual supercell development later today.",
+      "discussion": "A small but impressive MCS has finally died over northeast SD into west-central MN, and is now producing northerly outflow winds. Soundings indicate this complex was being sustained by elevated parcels as the boundary layer remains capped this morning. Given decreasing near-term trends, the large cirrus canopy is expected to thin on the southern fringe which will aid insolation. In addition, the outflow should modify as well. This residual outflow may serve as the storm initiation zone later this afternoon as the air mass becomes very unstable upstream, and southwest winds create lift. A lone cell currently exits along the SD/MN border in the wake of the MCS. This general zone, and extending east along a modifying outflow boundary, will be the primary area of concern through early afternoon. In the near term, the outflow boundary will be monitored as the air mass continues to heat and destabilize. Any signs of surface-based development would likely require a watch for a tornado and wind threat."
+    },
+    {
+      "year": 2019,
+      "number": 1524,
+      "issue_utc": "2019-07-19T17:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1524.html",
+      "summary": "A WW will be possible this afternoon as storms move into western NY/PA out of southern Ontario. Marginally organized storms will be capable of damaging wind gusts.",
+      "discussion": "Ongoing storms in southern portions of Ontario related to an MCV have begun to organize into a linear complex over the past hour. Updrafts have continued to deepen with an increase of 50 dBZ areal extent noted on the MRMS 5 and 9 km CAPPI. The downstream environment continues to destabilize with dewpoints broadly in the mid/upper-70s F and temperatures rising into the 80s F. By afternoon, temperatures rising into the upper 80s to low 90s F will support 2500-3000 J/kg MLCAPE. Modest shear profiles (25-30 kts 0-6 km) will support marginal storm organization. The main threat with this activity will be damaging wind gusts as objective mesoanalysis depicts 1000-1300 J/kg DCAPE. Downdraft potential will likely increase as low-level lapse rates steepen as surface heating continues this afternoon. Weak low-level rotation may occur with storms interacting with the lake breeze front. Overall tornado potential will be low, however. A WW is possible later this afternoon."
+    },
+    {
+      "year": 2019,
+      "number": 1525,
+      "issue_utc": "2019-07-19T17:57Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1525.html",
+      "summary": "Rapid storm development appears underway in southeastern Lower Michigan, per visible satellite imagery. Weak deep-layer shear will limit storm organization. Damaging wind gusts are possible as storms collapse. A WW is possible this afternoon.",
+      "discussion": "Strong destabilization has occurred in southeastern Lower Michigan as temperatures have rising into the upper-80s F to lower 90s F. With dewpoints holding in the upper-70s F, 3000-4000 J/kg of MLCAPE has developed across the area. A 7.6 C/km mid-level lapse rate was sampled by the 12Z DTX sounding indicating potential for rapidly developing storms. The limiting factor for this activity will be the relatively week deep-layer shear (around 20-25 kts). Nonetheless, strong to extreme buoyancy will support strong storms capable of damaging wind gusts as they collapse. With scattered storm coverage expected, a WW is possible this afternoon."
+    },
+    {
+      "year": 2019,
+      "number": 1526,
+      "issue_utc": "2019-07-19T18:53Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1526.html",
+      "summary": "Storms are expected to form over west-central Minnesota around 20-21Z, with supercells possible initially. Tornadoes and large hail are likely. A damaging wind threat is expected later today as storms merge into an MCS.",
+      "discussion": "The combination of satellite imagery and surface observations show an east-west oriented outflow boundary across southern MN, with low pressure over east-central SD into southwest MN. A very warm, moist, and unstable air mass exists along and south of the boundary where temperatures continue to rise above 90 F. While temperatures north of the boundary are relatively cooler, rapid recovery will occur due to southwest flow just above the surface combined with mixing. Substantial pressure falls are occurring over the cooler air, mainly due to warm advection just off the surface. Deep, moist convergence is currently centered over west-central MN, and this is where several models suggest initiation will occur. This seems reasonable, especially once warmer temperatures > 90 F arrive. Backed surface winds are contributing to 0-1 SRH values in excess of 300 m2/s2, with relatively low LCLs near the boundary, and extreme instability. This will certainly support supercells and tornadoes, assuming discrete cells. As such, a tornado watch will be needed soon. Eventually, storms will merge into an MCS with a damaging wind threat."
+    },
+    {
+      "year": 2019,
+      "number": 1527,
+      "issue_utc": "2019-07-19T20:40Z",
+      "topic": "Severe Thunderstorm Watch 523",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1527.html",
+      "summary": "Threat for a few damaging wind gusts continues in WW 523. Degree of threat contingent upon cold pool organization. Western portions of WW 523 may see very little storm coverage.",
+      "discussion": "Storms approaching from Ontario have generally weakened after interacting with relatively stable air over Lake Erie/Ontario. Ahead of this activity, scattered thunderstorms have developed from a combination of lake breeze convergence as well as convective temperature being breached. So far, this multicellular activity has remained rather disorganized. As storms move farther south and east, deep-layer shear will decline with only 20-25 kts being objectively analyzed by mesoanalysis. DCAPE around 1000 J/kg will continue to support a threat for a few damaging wind gusts until boundary layer stabilization occurs early this evening. Enough storm coverage exists that a cold pool may develop and mature, which would lead to a locally enhanced wind gust threat. Farther west, in northeastern Ohio, activity within southeastern Lower Michigan has been slow to move to the southeast. It is unlikely this activity will move into portions of northeastern Ohio given the weak deep-layer and a weak lake breeze front in the region decreases confidence in development along the Lake Erie shore. A relative minimum in storm coverage is expected in western portions of WW 523. ..Wendt.. 07/19/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1528,
+      "issue_utc": "2019-07-19T20:53Z",
+      "topic": "Tornado Watch 524",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1528.html",
+      "summary": "Severe storms are taking shape across Minnesota into northwest Wisconsin, with a corridor of damaging storms expected to develop over the next several hours.",
+      "discussion": "A east-west line of cells, including supercells, is rapidly developing across central Minnesota, and is likely to grow upscale and turn east/southeastward over the next several hours. While storm mode is cellular as of 21Z, backbuilding is likely due to an influx of extremely moist and unstable air, aided by 35+ kt southwest 850 mb winds. Storms are currently situated along the instability gradient, and will likely grow upscale and accelerate with a corridor of widespread wind damage possible. In addition, a tornado or two remains possible with the individual cells over Minnesota, and before outflows eventually merge. ..Jewell.. 07/19/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1529,
+      "issue_utc": "2019-07-19T22:15Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1529.html",
+      "summary": "Supercells will transition into bowing segments late this afternoon. Expect intense bow to track southeast across parts of northern/central WI this evening and a downstream watch will be needed soon.",
+      "discussion": "Earlier discrete supercells across northern/central MN have begun to transition into bowing clusters late this afternoon. Visible satellite presentation has been impressive over the last hour or so, with extreme instability apparent in thick HCR/cloud street CU field streaming into ongoing convection. Pressure falls to the southeast of ongoing convection across west-central WI over the last couple of hours have resulted in increasing southeasterly low level inflow and convection has started developing into this inflow. 2-6 km lapse rates greater than 8 C/km are aiding in large hail potential and several reports of 2+ inch hail have already been reported. This hail threat may continue for another couple of hours, but as storms continue to transition from supercells into a bow echo, the hail threat will diminish some with an increasing threat for damaging winds. Given the degree of instability with upper 70s to low 80s surface dewpoints and a 40-50 kt increasing southwesterly low level jet this evening, some wind gusts could be significant (possibly even greater than 80 mph). In addition to intense wind potential, QLCS tornadoes through mesovortex processes also will be possible. Region VWP wind profiles show enhanced vertically veering profiles with mesoanalysis indicating a large area of effective SRH greater than 250 m2/s2 across the region. Latest storm track brings the lead supercell/bowing segments across Sawyer County WI to the edge of WW 524 by 23z and a downstream watch will be need across parts of northern/central WI."
+    },
+    {
+      "year": 2019,
+      "number": 1530,
+      "issue_utc": "2019-07-19T22:54Z",
+      "topic": "Severe Thunderstorm Watch 523",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1530.html",
+      "summary": "Strong to occasionally severe storms will continue through the evening. No downstream watch is expected.",
+      "discussion": "A east to west oriented line of single cell and multicell storms has produced occasional damaging winds this afternoon in southern New York and northern Pennsylvania in an environment with around 2000 to 3000 J/kg of MLCAPE and effective shear around 20 knots. These instances of damaging winds have been associated with several storm collapses. This threat is expected to continue for a few more hours, but recent radar trends suggest the greatest threat was likely this afternoon and additional damaging winds should be more isolated. Therefore, no downstream watch is expected."
+    },
+    {
+      "year": 2019,
+      "number": 1531,
+      "issue_utc": "2019-07-19T23:09Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1531.html",
+      "summary": "A cluster of storms will continue through the evening with a threat for isolated large hail and damaging winds.",
+      "discussion": "A cluster of storms has developed in southern Michigan in an area of extreme instability (4000 to 4500 MLCAPE). While shear is mostly weak across this area (20 kts or less per area VWPs), these storms will pose at least some severe threat given the instability. In fact, evidence of the extreme buoyancy compensating for the lack of shear can bee seen in the cell in eastern Livingston county where mid-level rotation suggests a supercell has developed within the cluster. This storm will likely pose the greatest severe threat for the next hour or two as it dives southward toward the better instability. The primary threat will be large hail and damaging winds. The localized threat area will likely preclude the need for a severe thunderstorm watch, but trends will be monitored for a potential small watch if the threat extends beyond this one storm or it appears the threat may persist beyond an hour or two."
+    },
+    {
+      "year": 2019,
+      "number": 1532,
+      "issue_utc": "2019-07-19T23:53Z",
+      "topic": "Tornado Watch 524",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1532.html",
+      "summary": "The main severe threat across eastern portions of WW 524 will shift east into WW 525 over the next 1-2 hours.",
+      "discussion": "A large, HP supercell over west-central WI continues a transition into a bow echo early this evening. Latest radar velocity trends from KDLH and KARX show increasing midlevel velocities greater than 80 kts in the 8-12 kft layer. This is a good indicator that downdrafts are increasing and a rear inflow jet may be developing. KARX VWP is also showing the increasing low level jet nicely, with 35-50 kt southwesterly winds in the 1-3 km layer. As the bow becomes better organized, expect the southeasterly motion to become more east/southeast as storms track into WW 525. Trends will be monitored closely and WFO ARX could expand WW 525 southward if needed. Otherwise, the main threat will be shifting east of WW 524 over the next hour or two. Some additional development is possible on the western flanks of the main bowing segment across far east-central MN, but forcing for ascent is weakening further west and somewhat drier air will filter into the region on the back side of the quasi-stationary boundary. Some threat for hail and gusty winds could accompany storms further west into the evening, but the main severe threat will remain confined to the southeastward propagating bow. ..Leitman.. 07/19/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1533,
+      "issue_utc": "2019-07-20T01:26Z",
+      "topic": "Severe Thunderstorm Watch 525",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1533.html",
+      "summary": "Intense winds expected across Menominee, Oconto and Marinette Counties over the next 30-60 minutes. Severe threat will continue across broader northern/central WI this evening.",
+      "discussion": "An intense bow echo continues to shift east/southeast across northern/central WI this evening. While measured severe wind gusts have been few, many wind damage reports have been received this evening. Additionally, radar observations suggest that several corridors of intense winds are occurring as the bow evolves. Most recently, a corridor of intense wind is expected to move across Langlade County toward Menominee, Oconto and Marinette Counties over the next 30-60 minutes. This is evident in the intense bow surging across Langlade County with a very sharp reflectivity gradient shown from the Green Bay 88-D. Additionally, radar velocities have increased to 80-90 kt at around 5 kft. This is the most intense and well defined evidence of a descending rear inflow jet so far this evening. Expect intense wind threat to continue across WW 525. ..Leitman.. 07/20/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1534,
+      "issue_utc": "2019-07-20T02:11Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1534.html",
+      "summary": "Damaging wind threat is expected to continue downstream of WW 525 into portions of lower MI. A new severe thunderstorm watch is expected in the next hour or so.",
+      "discussion": "An intense bow echo continues to rapidly shift east/southeast across northern WI this evening. Latest track information brings the bow across Lake Michigan around 04z. A very unstable airmass remains downstream of the bow, with temperatures still in the 80s and dewpoints in the mid to upper 70s across much of northern and central lower MI this evening. A southwesterly low level jet of 40-50 kt is being sampled by regional VWPs and effective shear greater than 40 kts will continue to stream across the upper Great Lakes region overnight. Furthermore, a well-defined rear inflow jet is noted in KGRB 88-D data. An unconfirmed measured 80 mph wind gust along with numerous reports of damage have occurred with the most intense portion of the bow, now moving across Oconto and Marinette Counties in northeast WI. Given the favorable environmental parameters and the organized nature of the ongoing bow, expect the threat will continue downstream into portions of lower MI and a severe thunderstorm watch will likely be needed in the next hour or so."
+    },
+    {
+      "year": 2019,
+      "number": 1535,
+      "issue_utc": "2019-07-20T03:33Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1535.html",
+      "summary": "Thunderstorms will increase in coverage and intensity the next few hours. The strongest storms may produce large hail. Trends will be monitored for possible watch issuance.",
+      "discussion": "Convection is developing late this evening in moist upslope flow coincident with warm advection atop a surface cold front and EML located around the 850-700 mb layer. The 00z UNR RAOB showed steep midlevel lapse rates above the EML with moderate instability across the MCD area. Effective shear is quite strong this evening, with 50+ kt indicated in 00z RAOBs and depicted by 03z mesoanalysis, which will support organized cells/clusters. Long, straight hodographs will increase potential for hail in the strongest storms, though the elevated nature of convection should temper damaging wind threat the next several hours. However, some guidance suggest some potential for upscale growth into forward propagating clusters/bowing segments overnight. If this occurs, damaging wind potential could increase after 06-07Z. Given a lack of strong upper level forcing, there is some uncertainty in the exact evolution of the threat and how widespread severe potential will be. Trends will continue to be monitored for possible watch issuance in the next couple of hours."
+    },
+    {
+      "year": 2019,
+      "number": 1536,
+      "issue_utc": "2019-07-20T05:50Z",
+      "topic": "Severe Thunderstorm Watch 526",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1536.html",
+      "summary": "Isolated damaging wind threat continues across parts of Lower MI. Greatest threat area appears to be over parts of southwestern Lower MI in the next hour or so, including Grand Rapids.",
+      "discussion": "The northern portion of a long-lived bow echo has rapidly weakened across northern/central parts of Lower MI. However, recent radar trends have shown a slight uptick in convective intensity within the southern flank of the line across portions of southwestern Lower MI. Even with some convective inhibition present, strong (40-50+ kt) inbound velocities noted on the KGRR radar should be capable of reaching the surface in the short term given the presence of a very moist low-level airmass and related moderate to strong instability. It remains unclear how far south this isolated damaging wind threat will extend, but given current observational trends this threat should continue for at least the next hour or so. But, overall gradual weakening should occur as the line approaches the MI/IN border. ..Gleason.. 07/20/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1537,
+      "issue_utc": "2019-07-20T07:00Z",
+      "topic": "Severe Thunderstorm Watch 527",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1537.html",
+      "summary": "Isolated large hail should continue to be the main threat across Severe Thunderstorm Watch 527, although strong/gusty winds cannot be ruled out.",
+      "discussion": "A few supercells have developed in a strongly sheared environment early this morning across northwestern SD. A surface front is located across eastern WY into NE, well south of this ongoing convection. These storms will likely remain elevated above a surface inversion, with large hail around 1-1.5 inches in diameter being the main threat given 50-60+ kt of effective bulk shear. A notable instability gradient exists across SD, with most of these storms located on the northern extent of sufficient buoyancy to support strong to severe thunderstorms. Recent radar trends have shown a tendency for storm mergers, and a small cluster may ultimately develop and move eastward into central SD. Isolated strong to damaging winds cannot be completely ruled out if storms grow upscale, although the low levels are not as unstable early this morning compared to yesterday morning. ..Gleason.. 07/20/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1538,
+      "issue_utc": "2019-07-20T09:02Z",
+      "topic": "Severe Thunderstorm Watch 527",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1538.html",
+      "summary": "Isolated hail/wind threat may persist mainly across parts of central South Dakota for the next hour or so. Severe Thunderstorm Watch 527 may be allowed to expire at 10Z if current trends continue.",
+      "discussion": "Storms have formed into a couple of small line segments across central SD over the past couple of hours to the north of a front. This activity will remain elevated above a near-surface stable layer, although two recent measured gusts to 70 and 76 mph in central SD suggest there is still some potential for isolated severe winds to reach the surface. Marginally severe hail may also occur with the strongest cores for the next hour or so as persistent strong shear allows for some updraft organization. Recent radar trends have shown a gradual decrease in strong reflectivity cores aloft, and the overall severe threat should remain quite isolated across central into eastern SD through the rest of the early morning. Unless observational trends suggest otherwise in the next hour, Severe Thunderstorm Watch 527 may be allowed to expire as scheduled at 10Z. ..Gleason.. 07/20/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1539,
+      "issue_utc": "2019-07-20T10:02Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1539.html",
+      "summary": "Isolated large hail may occur with storms developing across southeastern South Dakota into southwestern Minnesota. Other storms moving into eastern South Dakota may produce isolated severe wind gusts. Watch issuance is possible.",
+      "discussion": "Lift associated with warm air advection mainly in the 850-700 mb layer has recently encouraged isolated elevated thunderstorms to develop near the SD/MN border. A large reservoir of instability is present above 850 mb (MUCAPE of 3000-4000+ J/kg) across parts of southeastern SD into southwestern MN. Although this area lies on the southern fringe of enhanced mid/upper-level westerlies, there should be enough speed shear present in the cloud-bearing layer to support organized updrafts. Isolated large hail may occur with initially semi-discrete storms across this region, and perhaps into northwestern IA as well. A small line segment that has produced multiple measured severe wind gusts across central SD will continue eastward this morning. As this convection moves along a strong instability gradient, it may have the potential to produce additional isolated severe/damaging wind gusts for the next few hours into parts of eastern SD. Severe Thunderstorm Watch issuance is possible to account for both the hail and wind threat associated with these two regimes."
+    }
+  ]
+}

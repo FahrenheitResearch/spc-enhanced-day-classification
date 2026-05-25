@@ -1,0 +1,190 @@
+{
+  "convective_day": "2019-08-29",
+  "valid_start": "2019-08-29T12:00Z",
+  "valid_end": "2019-08-30T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2019-08-29",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-08-29T20:00Z",
+      "valid_end": "2019-08-30T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190829_2000.html",
+      "summary": "Scattered severe thunderstorms are expected this afternoon into tonight from far southern Nebraska across much of northern Kansas with damaging winds and hail. A few severe storms are also possible over southeast Wisconsin and far northern Illinois.",
+      "sections": [
+        {
+          "title": "Southern NE into northeast KS",
+          "text": "The air mass continues to destabilize across the region, with ample low-level moisture beneath steep lapse rates aloft. Visible imagery shows towering CU near the boundary from eastern CO into northwest KS where temperatures continued to rise into the lower 90s F. Rapid storm development is expected once the cap is completely breached, with additional development likely to follow along the primary east-west boundary over southern NE. Supercells are expected initially with very large hail, with an increasing damaging wind threat as storms bow toward the east/southeast. A more pronounced turn to the southeast is expected later tonight as activity develops into eastern KS, with a continued wind threat. For more information, see mesoscale discussion 1886."
+        },
+        {
+          "title": "WI and IL",
+          "text": "Outflow from earlier activity has created a relatively stable area from southeast IA into western IL and northeast MO. Given the progressing cold front just west of this area, it is unlikely that much severe activity will occur there. The best chance of a few severe storms, including a supercell or brief tornado, will be over southeast Wisconsin where the best combination of instability and shear exist. For more information see mesoscale discussion 1885. ..Jewell.. 08/29/2019 .PREV DISCUSSION... /ISSUED 1129 AM CDT Thu Aug 29 2019/"
+        },
+        {
+          "title": "WI/Lower MI this afternoon/evening",
+          "text": "Within a belt of broadly cyclonic flow aloft, an embedded shortwave trough/speed max will move over WI/Upper MI this afternoon, driving a surface cold front southeastward across WI/MI. A band of elevated thunderstorms immediately precedes the front across WI as of late morning, and some form of this convection is likely to persist into the afternoon into southeast WI and Lower MI. The degree of surface destabilization prior to frontal passage is the primary concern across WI/Lower MI this afternoon/evening, as the stronger forcing for ascent appears likely to overspread northeast WI/northern Lower MI, just northeast of the more substantial destabilization. Vertical shear profiles will favor supercells if sufficient destabilization can occur prior to frontal passage, though storm coverage is also in doubt northeast of the IA cluster and south of the stronger ascent. Farther southwest, a persistent cluster of thunderstorms will likely be maintained into early afternoon from southeast IA to northeast MO, in a zone of low-level warm advection. Additional storm development is expected west of this cluster late this afternoon/evening as the surface cold front reaches southern IA/northern"
+        },
+        {
+          "title": "Southern NE/northern KS this afternoon through tonight",
+          "text": "An embedded speed max over southern WY will translate east-southeastward to the NE/KS border region by early tonight. At the surface, a weak lee cyclone near the southwest NE/northwest KS border this morning will develop southward across western KS by this evening, as a cold front likewise moves southward in the wake of the upper Great Lakes shortwave trough. Strong surface heating is expected beneath steep midlevel lapse rates, and convective inhibition will be largely removed once surface temperatures reach the lower 90s F. Boundary-layer dewpoints of 65-72 F from the cold front/dryline triple point eastward along the front will contribute to strong buoyancy this afternoon (MLCAPE 3000-4000 J/kg), in an environment with effective bulk shear around 35 kt. Thus, a mix of supercells and multicell clusters appears probable, with an attendant threat for large hail and damaging winds. Steep lapse rates will favor a threat for both isolated very large hail with initial supercells, and isolated significant gusts with either supercells or cell mergers this evening into early tonight. Some upscale growth into one or more MCSs appears likely tonight from northwest MO into northern KS with m"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-08-30",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-08-30T01:00Z",
+      "valid_end": "2019-08-30T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190830_0100.html",
+      "summary": "Severe storms with hail and wind damage will be possible this evening from parts of northwest Kansas into west-central Missouri. A few marginally severe storms may also occur across parts of lower Michigan.",
+      "sections": [
+        {
+          "title": "Lower Michigan",
+          "text": "The latest water vapor imagery shows an upper-level trough moving through the western Great Lakes. A line of thunderstorms has formed in a zone of large-scale ascent along a pre-frontal trough across south-central Lower Michigan. Surface dewpoints along the pre-frontal trough are near 60 F which is resulting in weak instability. This combined with 50 kt of deep-layer shear, evident on the Detroit WSR-88D VWP, should be enough for marginally severe wind gusts and hail for another hour or two this evening. ..Broyles.. 08/30/2019"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2019,
+      "number": 1884,
+      "issue_utc": "2019-08-29T15:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1884.html",
+      "summary": "Strong storms may pose at least some risk for severe hail and strong surface gusts into midday, before diminishing. Due to the expected marginal and short-lived nature of this threat, a severe weather watch is not anticipated, but trends will be monitored.",
+      "discussion": "A sustained area of thunderstorm development has been spreading east-southeastward across southern Iowa, likely primarily supported and rooted within an area of forcing for ascent associated with warm advection accompanying a 30-35 kt west-northwesterly 850 mb jet. Inflow of air originating from the moist and warming boundary layer over the mid Missouri Valley probably has contributed to recent intensification near the northern Missouri state border, southwest of Ottumwa IA. In the presence of strong deep-layer shear within the convective layer, inflow CAPE may now be in excess of 2000 J/kg, contributing to convection capable of producing severe hail. Some risk for strong surface gusts could eventually develop as activity continues to develop east-southeastward through midday. However, models suggest that the supporting forcing/low-level jet will gradually weaken while shifting across the remainder of southern Iowa into central Illinois. Current convective intensities and associated severe weather potential may be fairly short-lived. Some destabilization of the boundary layer is occurring to the south of the ongoing storm cluster, across northern Missouri into central Illinois, in response to insolation and low-level moisture advection. However, although not out of the question, it currently appears unlikely to destabilize rapidly enough to allow for convection to begin to take root within the boundary layer, along the developing cold pool, before the ongoing \"elevated\" activity begins to dissipate."
+    },
+    {
+      "year": 2019,
+      "number": 1885,
+      "issue_utc": "2019-08-29T18:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1885.html",
+      "summary": "Isolated severe thunderstorm development is possible across southeast Wisconsin by 3-4 PM CDT, with increasing thunderstorm activity possible across Lake Michigan into Lower Michigan by 6-7 PM EDT. It remains unclear whether a severe weather watch will be needed, due to a combination of uncertain storm coverage and intensity, but trends will continue to be monitored.",
+      "discussion": "A vigorous northwesterly mid-level jet (50-70+ kt at 500 mb) will continue to dig into and through portions of the Upper Midwest this afternoon. As it does, strongest associated forcing for ascent may remain near/north of the international border, but southwesterly low-level flow is forecast to strengthen (to 30-40 kt at 850 mb) ahead of a southeastward advancing cold front, across southeastern Wisconsin through western/northern Lower Michigan between now and 21-23Z. This will allow for substantive boundary layer warming and moistening within pre-frontal surface troughing, which may gradually become supportive of CAPE on the order of 500-1000 J/kg as far east as Lower Michigan. Mixed-layer CAPE already appears on the order of 1500-2000 J/kg across southwestern through central Wisconsin, where latest objective analysis suggests that inhibition for boundary layer parcels is beginning to weaken. Although this is south of the stronger mid/upper forcing for ascent, isolated to widely scattered intensifying thunderstorm development appears possible near/north and east of the Madison and Oshkosh WI vicinities during the next few hours. In the presence of strong deep layer and low-level shear, this may include an isolated supercell or two which could pose a risk for severe hail, locally strong surface gusts, and perhaps a tornado. Thereafter, models suggest that forcing for ascent could increase near or just ahead of the front, across Lake Michigan into western and northern lower Michigan. It appears that this will be accompanied by increasing thunderstorm development. Severe weather potential will largely be dependent on the extent of the preceding boundary layer destabilization, which remains a bit uncertain at the present time. However, stronger activity probably will still "
+    },
+    {
+      "year": 2019,
+      "number": 1886,
+      "issue_utc": "2019-08-29T19:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1886.html",
+      "summary": "Thunderstorms are expected to develop quickly after around 21Z or so, though convective trends are being monitored for a potentially earlier initiation. A WW issuance will probably be needed around the 21Z timeframe.",
+      "discussion": "Latest observations and objective analyses indicate the presence of a weak surface low near the KS/NE/CO border area, with a slowly moving surface boundary located just north of the KS/NE state line. Full insolation was occurring along this boundary and southward across the warm sector beneath very steep (8.5C/km) mid-level lapse rates, with point forecast soundings indicating relatively weak inhibition and strong to extreme instability (4000-5000 J/kg MUCAPE) amidst 60s to mid 70s F dewpoints. Meanwhile, a weak shortwave trough was located across southern Wyoming and vicinity and approaching the discussion area. Lift associated with this wave and insolation was contributing to a recent increase in cumulus across east-central Colorado and just north of the boundary across southwestern Nebraska. As the shortwave trough approaches the discussion area, sustained surface convergence near the boundary and cooling aloft will remove inhibition and result in scattered thunderstorm development. Vertically veering and strengthening flow will promote some organization in to loosely organized clusters over time - especially as cold pools merge and mature. A brief tornado cannot be ruled out especially along the surface boundary where easterly surface flow will enhance low-level vorticity. Storms should gradually grow upscale into one or two convective complexes and migrate east-southeastward across the discussion area. Large hail and severe wind (perhaps significant) will be the main threats with this activity. Given the forecast scenario, a WW issuance will probably be needed by 21Z or so and will be coordinated with affected local forecast offices."
+    },
+    {
+      "year": 2019,
+      "number": 1887,
+      "issue_utc": "2019-08-29T20:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1887.html",
+      "summary": "An isolated storm may continue to pose a risk for severe hail, before transitioning to more of a potentially damaging wind threat, through 5-6 PM. Unless activity shows signs of more substantive upscale growth, a severe weather watch might not be needed.",
+      "discussion": "Lingering warm advection along the southwestern flank of the convectively generated cold pool appeared to provide the support for redevelopment of ongoing isolated vigorous thunderstorm activity near Moberly. This is now likely rooted within a moist boundary layer air mass which appears characterized by CAPE in excess of 2000 J/kg, which has aided the evolution of supercell structure in the presence of favorable shear beneath 25-30+ kt northwesterly 500 mb flow. Models still suggest that west-southwesterly low-level flow will continue to generally weaken to the west the Mississippi River through late afternoon, and large-scale forcing for ascent to support maintenance of convection is unclear. However, given the boundary layer destabilization which has taken place, storm-scale processes could maintain the ongoing storm, which probably will tend to propagate south-southeastward, toward areas near/east of Columbia and Jefferson City through 21-23Z. If this occurs, activity may continue to pose a risk for severe hail, before perhaps transitioning to a severe wind threat."
+    },
+    {
+      "year": 2019,
+      "number": 1888,
+      "issue_utc": "2019-08-29T22:33Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1888.html",
+      "summary": "Storms may produce a few instances of hail and locally strong wind gusts across west central and southwest lower Michigan into early evening. A ww will probably not be needed unless convective trends begin to suggest otherwise.",
+      "discussion": "Early this evening storms continue developing from central lake MI into western lower MI within what appears to be a zone of pre-frontal warm advection and isentropic ascent associated with a 40 kt southwesterly low-level jet. Based on point forecast sounding and observational data, storms appear to be elevated with updrafts probably based near 800 mb where a layer of richer moisture has advected into this region. Moreover, storms are moving around 40 kt which is close to the mean wind between 800 and 400 mb. Latest objective analysis data show MUCAPE from 1000-1500 J/kg along with 6.5 C/km mid-level lapse rates. Effective bulk shear from 30-40 kt may support some updraft rotation, especially if storms can root closer to the surface. Cumulus development is more limited with southwestern extent probably due to warmer temperatures between 800 and 700 mb. Moreover, relatively weak forcing with limited frontal convergence and onset of nocturnal cooling suggest surface based development is becoming increasingly unlikely. Nevertheless, the thermodynamic and kinematic environment will remain sufficient for a few instances of hail and locally strong wind gusts into early evening."
+    },
+    {
+      "year": 2019,
+      "number": 1889,
+      "issue_utc": "2019-08-29T22:49Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1889.html",
+      "summary": "A couple of damaging wind gusts or instances of large hail may occur with the stronger storms over the next few hours. The brevity and localized nature of the severe threat precludes a WW issuance.",
+      "discussion": "A chaotic cluster of multicellular convection has become established across the southwest OK/northwest TX border area over the past couple of hours, with the aid of low-level lift supplied by both a confluence zone established across the area, and ample surface heating. These storms are continuing in an environment characterized by very strong buoyancy (up to 4000 J/kg MLCAPE), but relatively poor deep-layer shear (effective bulk shear values of 25-35 knots). Still, effective SRH values exceeding 100 m2/s2 combined with the aformentioned instability suggests that at least modest organization may occur with the stronger storms, perhaps allowing for the production of damaging wind gusts, given a relatively dry sfc-700 mb sub-cloud layer in place. In addition, a few large hail stones may also occur given the modest mid-level lapse rates in place. Given the likely diurnal dependencies of the ongoing convection and the limited areal coverage, the severe threat is expected to remain sparse and short-lived in nature. As such, a WW issuance is not expected."
+    },
+    {
+      "year": 2019,
+      "number": 1890,
+      "issue_utc": "2019-08-29T23:11Z",
+      "topic": "Severe Thunderstorm Watch 627",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1890.html",
+      "summary": "Storms are expected to continue developing from northwestern into east central Missouri, with gradual southward expansion with time.",
+      "discussion": "Storms continue developing from the intersection of a convective outflow boundary/cold front, southeastward along the outflow boundary into east central MO. The atmosphere remains strongly unstable with 4000 J/kg MLCAPE. This region remains south of stronger westerlies with weak winds through the lowest few km. Effective bulk shear from 25-35 kt will mostly support multicells, but some supercell structures will remain possible. Trend has been for storms to merge into line segments with eastern portion beginning to accelerate southward into central MO. Storms are expected to gradually develop southward along consolidated outflows with a continuing threat for isolated damaging wind and large hail next few hours. ..Dial.. 08/29/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1891,
+      "issue_utc": "2019-08-30T00:15Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1891.html",
+      "summary": "Semi-discrete storms will continue to grow upscale into an MCS through the evening hours across a large portion of Kansas with mainly a large hail and damaging wind threat. The severe threat will likely continue overnight, both with ongoing storms, and with new convection that is expected to initiate along a near stationary front in southern Nebraska. A downstream issuance of a Severe Thunderstorm Watch will likely be issued to account for these scenarios.",
+      "discussion": "A mature supercell thunderstorm has recently begun to grow upscale into a small bowing complex across the northwest KS/southwest NE border, with weaker, shorter-lived cells progressing south-southeastward across western KS. The developing MCS is moving into a strongly unstable environment (3000-4000 J/kg MLCAPE), with 35+ knots of effective bulk shear in place, supportive of continued severe potential, including damaging wind gusts and large hail. The boundary layer will gradually decouple with the loss of daytime heating. Nonetheless, a nocturnal LLJ is expected to develop and intensify across the central Plains over the next few hours. Ample low-level convergence along the terminus of the LLJ (particularly in proximity to a near-stationary west-east orient baroclinic boundary located just north of the KS/NE border) is expected to foster additional convective development ahead of the ongoing, mature convection later this evening. Here, new storms will mature in a modestly sheared environment, with ample elevated buoyancy available to support a continued damaging wind and large hail threat. Given the likelihood of convective development/expansion of potential severe coverage later this evening, a Severe Thunderstorm Watch issuance downstream of WW 0626 will likely be needed soon."
+    },
+    {
+      "year": 2019,
+      "number": 1892,
+      "issue_utc": "2019-08-30T00:30Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1892.html",
+      "summary": "Storms may continue through south central Missouri during the next couple hours, posing a risk for isolated strong wind gusts before weakening further toward mid evening. Due to anticipated limited spacial/temporal extent of the threat, a WW will probably not be needed south of WW 627.",
+      "discussion": "Storms continue developing along an outflow boundary moving south through central MO at around 25 kt. This activity will soon cross into the Springfield county warning area where based on the 00Z RAOB, the atmosphere remains moderately unstable with 2500 J/kg MLCAPE. These storms may continue to pose a threat for isolated strong wind gusts through 02Z. However, with the low-level jet evolving well west of this region, the primary forcing mechanism will be convergence along the southward-advancing gust front. This relatively shallow forcing may not be sufficient to sustain deep convection into the late evening given increasing convective inhibition associated with a stabilizing surface layer."
+    },
+    {
+      "year": 2019,
+      "number": 1893,
+      "issue_utc": "2019-08-30T02:52Z",
+      "topic": "Severe Thunderstorm Watch 626",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1893.html",
+      "summary": "Upscale growth of convection will continue over the next several hours, with damaging winds likely continuing overnight.",
+      "discussion": "Smaller linear segments of intense multicellular convection have been congealing over the past couple of hours due to cold pool mergers, and increased low-level ascent at the terminus of a developing LLJ. Though the boundary layer has recently begun to decouple, stabilization is expected to be gradual given the relatively deep moisture in place. Ample buoyancy, with up to 4000 J/kg MUCAPE noted across much of the discussion area, will continue to fuel vigorous updrafts. Meanwhile strong low-level shear, provided by the the developing LLJ, will mitigate cold pools from undercutting convection to a degree, suggesting that potentially long-lived MCS structures may be realized. As such, damaging wind gusts are expected to accompany the aforementioned linear segments for several more hours."
+    },
+    {
+      "year": 2019,
+      "number": 1894,
+      "issue_utc": "2019-08-30T03:53Z",
+      "topic": "Severe Thunderstorm Watch 627",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1894.html",
+      "summary": "Primary severe threat for remainder of WW 627 will exist across extreme northeast KS into extreme northwest MO through about 0430Z.",
+      "discussion": "An expansive outflow boundary from west central MO into northeast KS continues to surge west. The strongest storms are now developing over northeast KS along the intersection of the westward-advancing outflow boundary and a southward-moving east-west oriented outflow boundary. The atmosphere has been overturned and the boundary layer stabilized east of the boundary across much of MO including most of the remainder of WW 627, suggesting limited severe potential after 0430Z. ..Dial.. 08/30/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1895,
+      "issue_utc": "2019-08-30T04:29Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1895.html",
+      "summary": "Storms are expected to move into north central Oklahoma by 05Z, posing a risk for mainly isolated strong to damaging wind gusts and hail.",
+      "discussion": "Small cluster of storms persists over extreme southern KS moving southeast at 20-25 kt and is approaching the OK border. VWP data from Vance show a 40 kt southerly low-level jet which is augmenting convergence along the gust front, and this may help to maintain the storms into northern OK into the early morning hours. The atmosphere remains strongly unstable across northern OK. However convective inhibition is increasing substantially, and the storms have moved south of the stronger winds aloft with weak vertical shear. These factors should limit storm organization as activity develops south, but given degree of instability, a few instances of locally strong to damaging wind gusts and hail will be possible."
+    },
+    {
+      "year": 2019,
+      "number": 1896,
+      "issue_utc": "2019-08-30T04:47Z",
+      "topic": "Severe Thunderstorm Watch 628",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1896.html",
+      "summary": "Damaging wind will remain likely across eastern Kansas next several hours. Severe threat is expected to increase across northeast OK by 06-07Z.",
+      "discussion": "A nearly solid line of storms have evolved along outflow boundary from northeast KS to south central KS near Hutchinson. This line is moving southeast around 40 kt, while farther east an outflow boundary continues to move westward through northeast KS. These boundaries will soon merge over northeast KS including Pottawatomie and Wabaunsee counties. The warm sector remains very unstable with high precipitable water and good downdraft potential. Storms may briefly intensify further during the merger, but should subsequently begin to turn more decidedly south southeast. Based on motion of the southwestern flank of the line (around 40 kt), the severe threat should increase across northeast OK by 0630Z which will probably necessitate a WW for the Tulsa CWA. ..Dial.. 08/30/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1897,
+      "issue_utc": "2019-08-30T07:31Z",
+      "topic": "Severe Thunderstorm Watch 628",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1897.html",
+      "summary": "Strong to severe gusts are possible across southeast KS into adjacent portions of northeast OK and southwest MO in the short term. Trends will be monitored and a watch downstream of WW 628 may become necessary soon.",
+      "discussion": "A line of strong storms moving into southeast KS will continue to shift east/southeast into adjacent portions of southwest MO and northeast OK early this morning. Radar trends continue to fluctuate and surface observations south and east of Wichita KS have reported sub-severe gusts from around 35-48 mph. Further northeast near Emporia KS, several reports of severe gusts from near 70-90 mph were noted in the past hour. These strong gusts likely were facilitated in part by merging outflow boundary in the vicinity of an MCV over Osage County KS. Southward into OK, the Oklahoma Mesonet site at Newkirk reported a 71 mph gust at 0705z. While MLCIN has been increasing slightly, it will remain modest across parts of northeast OK into southwest MO. Surface dewpoints in the low 70s ahead of the bowing complex and steep 2-6 km lapse rates will maintain a reservoir of moderate instability ahead of the line. Additionally, a well established rear-inflow jet has been noted in regional VWP data. While thermodynamic parameters favor a continued downstream severe threat, the low level jet remains west of the bowing complex. As such, longevity and coverage of the severe threat remains in question. Nevertheless, at least a few damaging gusts appear possible in the short term and a new watch may be needed downstream if the recent re-intensification of the line persists."
+    },
+    {
+      "year": 2019,
+      "number": 1898,
+      "issue_utc": "2019-08-30T11:53Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1898.html",
+      "summary": "Sporadic strong wind gusts and isolated hail near 1 inch are possible for a few hours this morning. A watch is not expected at this time.",
+      "discussion": "Scattered elevated thunderstorms are ongoing across western OK this morning. This convection is developing in a warm advection regime as a shortwave impulse tracks eastward across KS. A 30 kt southwesterly low level jet is aiding in semi-organized clusters on the edge of steep midlevel lapse rates across the southern and central High Plains. Most recently, a 59 mph gust was observed by the Oklahoma Mesonet site at Weatherford. Other gusts in the region have been sub-severe over the last hour. In addition to gusty winds, isolated hail near 1 inch is possible with the strongest cells. As the low level jet weakens through the morning and the upper shortwave impulse shifts east into MO, isolated severe potential should decrease as well across western OK."
+    }
+  ]
+}

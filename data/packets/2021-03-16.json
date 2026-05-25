@@ -1,0 +1,179 @@
+{
+  "convective_day": "2021-03-16",
+  "valid_start": "2021-03-16T12:00Z",
+  "valid_end": "2021-03-17T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-03-16",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-03-16T16:30Z",
+      "valid_end": "2021-03-17T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210316_1630.html",
+      "summary": "Scattered severe storms with large hail (some significant), damaging winds, and a few tornadoes are expected tonight across the southern Great Plains to the Ark-La-Miss. Isolated severe storms will also be possible from southern Mississippi to central Georgia through this evening.",
+      "sections": [
+        {
+          "title": "Southern Great Plains to the Lower MS Valley",
+          "text": "A compact, deep mid-level low over central AZ will progress east, reaching the TX Panhandle overnight. Lee cyclogenesis is expected this afternoon near the NM/TX border, and the surface cyclone will move into west-central OK overnight. In advance of the cyclone, low-level moisture (boundary-layer dewpoints in the mid-upper 60s) will surge northward from south TX and LA to southern portions of OK/AR tonight on strengthening southerly low-level flow. This moistening will occur beneath a broad plume of steepening mid-level lapse rates between 8-9 C/km, yielding MUCAPE of 2000-3000 J/kg overnight. The boundary layer will be capped through the day, but continued destabilization and the approach of strong height falls/ascent from the west will likely support thunderstorm development by late evening from the eastern TX Panhandle into western OK and southern KS. The storms closer to KS will likely remain elevated north of the warm front, though wind profiles will favor several elevated supercells capable of mainly producing large hail, with isolated severe gusts still possible. Farther south in OK, storms should be rooted near the surface, with deep-layer shear and buoyancy favorable for s"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-03-16",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-03-16T20:00Z",
+      "valid_end": "2021-03-17T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210316_2000.html",
+      "summary": "Scattered severe storms with large hail (some significant), damaging winds, and a few tornadoes are expected tonight across the southern Great Plains to the Ark-La-Miss. Isolated severe storms will also be possible from southern Mississippi to central Georgia through this evening.",
+      "sections": [
+        {
+          "title": "20z Update",
+          "text": "The ongoing outlook remains on track, and no changes are needed with this update. For short-term severe thunderstorm threat information, reference MCD 184. ..Leitman.. 03/16/2021 .PREV DISCUSSION... /ISSUED 1128 AM CDT Tue Mar 16 2021/ ...Central/southern portions of MS/AL/GA to Ark-La-Tex/Ark-La-Miss... A cluster of non-severe convection persists across a swath of central AL to southern MS. The predominant WSW-ENE orientation and attendant anvil shading will limit stronger boundary-layer heating to the south of this convection to the Gulf Coast. This activity will likely continue through this afternoon into the evening, along the northern/northeastern MLCAPE gradient. The orientation of the clusters generally oriented parallel to the deep-layer shear vector should be a limiting factor despite 40-50 kt effective shear. Effective SRH of 100-150 m2/s2 is expected to persist and may support a few transient, low-end supercell structures from southern MS to the stationary front in central GA. Isolated damaging winds/severe hail and a tornado or two will all be possible. Closer to the Ark-La-Tex and Lower MS Valley, a confluence axis currently trails from the ongoing clusters and should "
+        },
+        {
+          "title": "Southern Great Plains to the Lower MS Valley",
+          "text": "A compact, deep mid-level low over central AZ will progress east, reaching the TX Panhandle overnight. Lee cyclogenesis is expected this afternoon near the NM/TX border, and the surface cyclone will move into west-central OK overnight. In advance of the cyclone, low-level moisture (boundary-layer dewpoints in the mid-upper 60s) will surge northward from south TX and LA to southern portions of OK/AR tonight on strengthening southerly low-level flow. This moistening will occur beneath a broad plume of steepening mid-level lapse rates between 8-9 C/km, yielding MUCAPE of 2000-3000 J/kg overnight. The boundary layer will be capped through the day, but continued destabilization and the approach of strong height falls/ascent from the west will likely support thunderstorm development by late evening from the eastern TX Panhandle into western OK and southern KS. The storms closer to KS will likely remain elevated north of the warm front, though wind profiles will favor several elevated supercells capable of mainly producing large hail, with isolated severe gusts still possible. Farther south in OK, storms should be rooted near the surface, with deep-layer shear and buoyancy favorable for s"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-03-17",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-03-17T01:00Z",
+      "valid_end": "2021-03-17T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210317_0100.html",
+      "summary": "Scattered severe storms with large hail (some significant), damaging winds, and a few tornadoes are expected tonight across the southern Great Plains to the Ark-La-Miss.",
+      "sections": [
+        {
+          "title": "01z Update",
+          "text": "No significant changes have been made to the 20z outlook other than to increase severe probabilities a bit across portions of central AR for late tonight. Leading edge of intense mid-level forcing is now spreading across NM into the TX Panhandle, per expanding mid-level cloud shield. Extensive dust, kicked up by 50kt+ surface winds across eastern NM, is now spreading northeast which supports this dynamic, progressive system. Boundary-layer moisture is advancing quickly northwest across north TX/southern OK and adequate buoyancy is now in place for thunderstorm initiation near CDS. As moisture surges northwest overnight, robust/severe thunderstorms are expected to develop ahead of the surface low, in line with earlier thinking. One minor change to the earlier outlook is to expand severe probabilities a bit downstream into portions of central AR. There is some concern that LLJ may strengthen across the Arklatex by sunrise. If so, a risk of tornadic supercells may begin by the end of the day1 period. This threat warrants a nudge up in severe probabilities. ..Darrow.. 03/17/2021"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 184,
+      "issue_utc": "2021-03-16T18:07Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0184.html",
+      "summary": "A severe storm or two is possible this afternoon from southeast MS across southern AL and into southwest GA. Damaging wind gusts and/or a brief tornado are the primary threats.",
+      "discussion": "Regional radar imagery has shown sporadic bouts of updraft intensification over the past hour or so, but little persistence has been noted thus far. The overall thermodynamic environment has improved slightly, mainly south of the effective warm front, which is stretched from MEI eastward/east-northeastward across central AL into central GA. The better flow aloft still remains north of this boundary, with the resulting dissociation between the buoyancy and vertical shear contributing to a generally marginal environment. General expectation is for warm-air advection to continue across the region with shallow cells developing south of the warm front and moving northward/northeastward. A narrow corridor exists within the vicinity of the front where buoyancy and vertical shear overlap enough to support a strong storm or two. Storm mergers could also lead to brief updraft intensification and the potential for a strong downdraft."
+    },
+    {
+      "year": 2021,
+      "number": 185,
+      "issue_utc": "2021-03-16T20:48Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0185.html",
+      "summary": "A few stronger storms capable of hail and/or damaging wind gusts are possible from north-central LA into central MS over the next few hours.",
+      "discussion": "Thunderstorm currently moving through Franklin Parish has recently strengthening after struggling to maintain updraft consistency over the past hour. This better organization may be a result of stronger deep-layer vertical shear and more buoyancy within the environment it now resides. A few cells to the east of this storm are also showing signs of strengthening as they too move into an area with slightly stronger deep-layer vertical shear. Buoyancy decreases with northern extent and the overall storm longevity will be mitigated by this decreasing buoyancy as well as the lack of stronger large scale support. Even so, instances of isolated severe hail are possible as well as the potential for a damaging wind gust or two."
+    },
+    {
+      "year": 2021,
+      "number": 186,
+      "issue_utc": "2021-03-16T23:02Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0186.html",
+      "summary": "A few strong to severe storms may develop across the Texas Panhandle and southwestern Oklahoma this evening. If storms can intensify, a risk for strong winds and large hail will be possible. Trends will be monitored for a possible watch.",
+      "discussion": "Recent visible satellite imagery showed deepening convective towers along a dryline and south of a warm front in the eastern Texas Panhandle. Storm initiation appears possible along this corridor over the next few hours as inhibition is diminished from increasing lift ahead of a compact shortwave trough ejecting east across the Rockies, and rapid low-level theta E advection across central Texas/Oklahoma. 22z SPC mesoanalysis/surface obs show low 50s and upper 40s dewpoints streaming northward ahead of the developing convection, resulting in 500-1500 J/kg of MLCAPE. Deep-layer shear of 40-50 kt, orthogonal to the dryline, will favor a somewhat high based supercellular mode with a risk of large hail and damaging wind gusts. If storms can develop, there is some uncertainty on the character of the severe threat into south-central Oklahoma where greater moisture and instability are likely to develop this evening. A watch may be needed, but is conditional upon strong storm development/longevity."
+    },
+    {
+      "year": 2021,
+      "number": 187,
+      "issue_utc": "2021-03-16T23:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0187.html",
+      "summary": "Elevated thunderstorms with a risk of severe hail are expected to form within the next 1 to 2 hours and track east northeast through this evening. A watch will likely be needed.",
+      "discussion": "2300z surface observations show a warm front extending from a rapidly deepening surface low across the Texas panhandle lifting northward into northern Oklahoma and southern Kansas. Elevated updrafts across the northern Texas Panhandle have been slowly increasing in intensity over the last hour. Elevated thunderstorms are expected to form to the east of the low along and north for the warm front through the next couple of hours as strong mid-level moisture advection and isentropic ascent begins to interact with the developing storms. SPC mesoanalysis/RAP soundings show 500-1000 J/kg of MUCAPE developing over the next several hours in a strongly sheared environment across northern Oklahoma and southern Kansas. The presence of steep mid-level lapse rates near 8 C/km, and the elevated nature of the developing convection suggests severe hail will be the primary risk factor this evening and into the overnight hours. However, very strong low-level shear profiles and rapid moistening may support some surface based convection overnight. A tornado or damaging wind gusts cannot be ruled out. A watch will likely be needed within the next 1 to 2 hours."
+    },
+    {
+      "year": 2021,
+      "number": 188,
+      "issue_utc": "2021-03-17T02:27Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0188.html",
+      "summary": "Severe storms are expected to develop from northwest Texas into the Hill country near or shortly after 03Z and spread east overnight. Damaging wind and large hail are the primary threats, but a couple of tornadoes are also possible.",
+      "discussion": "As of mid evening a cold front is advancing east through western Texas, and this boundary will soon merge with the dryline farther east. Low level moisture with upper 50s to low 60s F dewpoints is surging northwestward beneath steep mid-level lapse rates, and latest objective analysis show moderate instability with 1500-2000 J/kg MLCAPE east of the dryline. However, the 00Z RAOB data from Fort Worth and RAP point-forecast soundings indicate a capping inversion associated with warm air aloft at the base of an elevated mixed layer. This suggests initial storm development will likely remain confined to within the zone of forcing where the cold front intercepts the dryline. Moreover, WV imagery shows a corridor of deep forcing for ascent associated with a progressive shortwave trough spreading eastward through western TX. Current estimation is that storms will probably initiate near or shortly after 03Z. Some discrete modes are possible initially, but storms are expected to evolve into a dominant linear mode. Wind profiles with 50 kt effective bulk shear will support organized storms including bowing line segments and embedded supercells. Damaging wind and large hail will be the main threats, but a couple of tornadoes are also possible given sufficiently large low-level hodographs."
+    },
+    {
+      "year": 2021,
+      "number": 189,
+      "issue_utc": "2021-03-17T05:45Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0189.html",
+      "summary": "The threat for large hail and strong to severe wind gusts should increase early this morning. A tornado or two may also occur in eastern Oklahoma and vicinity. Watch issuance is likely.",
+      "discussion": "Ongoing strong to severe storms across western/central OK and south-central KS are occurring in a southerly low-level warm advection regime. 00Z sounding from KOUN indicated the presence of greater than 8 C/km mid-level lapse rates. As low-level moisture continues to advect northward early this morning across OK and into southern/eastern KS, MUCAPE will likely increase further into the 1000-2000+ J/kg range. Effective bulk shear of 35-50 kt preceding an ejecting mid/upper-level low over the southern/central High Plains will prove favorable for storm organization, including supercells. Convection in KS and most of northern OK will probably remain elevated to the north of a surface front. Still, these mainly elevated storms should pose a large hail threat. Some upscale growth also appears possible as ongoing storms move eastward over the next couple of hours, and strong to perhaps damaging winds may occur as the boundary layer does not appear overly stable. Potential for tornadoes remains unclear in eastern OK and vicinity as low-level moisture (at least low 60s surface dewpoints) returns northward. If storms can become truly surface based, then a tornado or two may occur across this area, as low-level shear will be quite favorable. Regardless, the increasing severe threat will likely warrant watch issuance soon."
+    },
+    {
+      "year": 2021,
+      "number": 190,
+      "issue_utc": "2021-03-17T06:32Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0190.html",
+      "summary": "If surface-based storms can develop, then a threat for large hail, damaging wind gusts, and a couple tornadoes would exist. Watch issuance is possible.",
+      "discussion": "An elevated storm in southern AR recently produced near-severe caliber hail before weakening. Additional convection has recently developed along the OK/AR border and northeast TX in a southerly low-level warm advection regime. It remains unclear whether surface-based storms will develop over the next couple of hours across the ArkLaTex vicinity, as stronger forcing associated with an ejecting upper low remains to the west (over the southern Plains). Regardless, surface dewpoints have generally increased into the mid to upper 60s across this region, and RAP forecast soundings suggest that any storms that do develop could become surface based. Deep-layer shear remains very favorable for supercells (45-50+ kt), and recent VWPs from KSHV show nearly 40 kt of 0-1 km shear and 250+ m2/s2 0-1 km SRH. Steep mid-level lapse rates noted on the 00Z SHV sounding combined with the favorable storm mode would support large hail. Given the enhanced low-level flow/shear, a couple tornadoes and isolated damaging winds may also occur. At this point, watch issuance remains uncertain, mainly because it is not clear how many storms will develop over the next couple of hours in the open warm sector."
+    },
+    {
+      "year": 2021,
+      "number": 191,
+      "issue_utc": "2021-03-17T06:56Z",
+      "topic": "Severe Thunderstorm Watch 22",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0191.html",
+      "summary": "Mainly a severe hail and wind threat continues across part of Oklahoma early this morning. Either a watch extension or new watch may be needed before 08Z (3 AM CDT).",
+      "discussion": "Multiple supercells are ongoing as of 0655Z across part of western/central OK. These mainly elevated storms are ongoing in a strong low-level warm advection regime, with 40+ kt of south-southwesterly flow noted in the 0-1 km layer per recent KTLX VWPs. Large hail should continue to be the main threat, as storms are tapping into steep mid-level lapse rates noted on the 00Z OUN sounding. This convection is expected to continue developing northeastward along an instability gradient, with MUCAPE of 2000-2500+ J/kg available to sustain robust updrafts. Low-level inflow of around 60F surface dewpoints into these storms appears marginal for strong/gusty downdraft winds to reach the surface. Still, given the steep lapse rates aloft and near-neutral boundary layer stability, isolated strong to severe wind gusts cannot be ruled out. A brief tornado also appears possible given the very favorable low-level shear. With Severe Thunderstorm Watch 22 scheduled to expire at 08Z (3 AM CDT) and storms moving fairly slowly northeastward across north-central OK, either an extension in time to the ongoing watch or a new watch will likely need to be considered in the next hour. ..Gleason.. 03/17/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 192,
+      "issue_utc": "2021-03-17T07:20Z",
+      "topic": "Severe Thunderstorm Watch 23",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0192.html",
+      "summary": "Mainly an isolated large hail and severe wind threat continues across Severe Thunderstorm Watch 23 early this morning.",
+      "discussion": "A small cluster of storms across part of central TX is expected to move eastward over the next couple of hours. Hail up to the size of golf balls occurred earlier with this convection, and large hail will remain possible given around 50 kt of deep-layer shear and the presence of steep mid-level lapse rates. Additional upscale growth along an eastward-moving composite dryline/Pacific cold front appears possible. Even though some MLCIN remains present ahead of this activity per latest mesoanalysis estimates, a large reservoir of instability (MLCAPE 2000-2500 J/kg) and steep lapse rates aloft may also support an increasing severe wind gust threat, particularly if convection becomes more linear with time. ..Gleason.. 03/17/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 193,
+      "issue_utc": "2021-03-17T09:04Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0193.html",
+      "summary": "Another watch downstream of Severe Thunderstorm Watch 23 will likely be needed. Large hail and damaging wind gusts should be the main threats, but a tornado or two may also occur.",
+      "discussion": "Strong to severe storms have organized into a broken line just west of the Metroplex as of 09Z. Inbound velocities from the KFWS radar show 50+ kt winds only two to three thousand ft above the surface. A couple measured severe wind gusts to 60-63 mph also occurred earlier with this activity. Current expectations are for storms to maintain their intensity and severe hail/wind threat as they move east-northeastward this morning, since a moderately to strongly unstable airmass (2000-2500 J/kg MLCAPE) exists downstream of the ongoing convection. Both low-level and deep-layer shear will also remain strong, supporting organized storm structures. A bore-like feature is noted ahead of the main line of storms. Slight veering of the low-level flow to a more southwesterly direction appears to be occurring behind this bore, with some modest reduction in effective SRH and low-level hodographs. The tornado threat remains unclear, especially given the mostly linear storm mode expected. Regardless, there is plentiful low-level shear across the warm sector owing to a 35-40 kt low-level jet, and a tornado or two may still occur. Given the overall increase in severe threat anticipated this morning across north-central/northeast TX into the southeastern OK, southwestern AR, and far northwestern LA, another watch will likely be needed."
+    },
+    {
+      "year": 2021,
+      "number": 195,
+      "issue_utc": "2021-03-17T10:18Z",
+      "topic": "Severe Thunderstorm Watch 24",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0195.html",
+      "summary": "An isolated large hail and strong/gusty wind threat continues across Severe Thunderstorm Watch 24.",
+      "discussion": "A messy, cluster storm mode has developed across northeastern OK into southeastern KS and southwestern/west-central MO. This convection will likely remain elevated this morning to the north of a surface boundary. Although storm mode is not overly favorable, occasional marginally severe hail will remain possible along an elevated instability gradient (MUCAPE 1000-2000 J/kg). Isolated strong/gusty winds may also occur as individual cells develop northeastward. Recently, additional convection has begun to develop farther south into northeastern OK along a low-level warm advection wing and where surface dewpoints are slightly higher (generally mid to upper 50s). It remains to be seen whether storms will be able to strengthen south of the ongoing band. If they do, then all severe hazards, including a brief tornado, would be possible. ..Gleason.. 03/17/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 196,
+      "issue_utc": "2021-03-17T10:34Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0196.html",
+      "summary": "An increasing severe threat, including the potential for a few tornadoes, may develop this morning. Watch issuance is likely.",
+      "discussion": "A supercell has recently strengthened over southeastern AR to the south of a warm front. A broad zone of low-level warm advection persists over the lower MS Valley vicinity this morning, and current expectations are for the low-level wind field to gradually strengthen from west to east over the next few hours as an upper low ejects over the southern Plains. The low-level profile will be quite favorable for updraft rotation, and a few tornadoes will be possible with any storms that can form along or south of the northward-moving warm front. MLCAPE of 1000-1500 J/kg should be sufficient in tandem with 45-55 kt of effective bulk shear to support large hail with any supercells. Isolated damaging wind gusts may also occur. Given the possibility of additional supercells developing this morning across southeastern AR into northern MS and southwestern TN, watch issuance will likely be needed."
+    },
+    {
+      "year": 2021,
+      "number": 197,
+      "issue_utc": "2021-03-17T11:40Z",
+      "topic": "Severe Thunderstorm Watch 25",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0197.html",
+      "summary": "A large hail and damaging wind threat continues across Severe Thunderstorm Watch 25. A tornado or two also remains possible. Additional watch issuance or expansion of an existing watch may be needed in western/central Arkansas as storms approach this region.",
+      "discussion": "A squall line has developed east of the Metroplex in east-central/northeast TX. Multiple measured wind gusts of 61-73 mph were reported with this line, along with 1-1.25\" diameter hail. A moderately to strongly unstable airmass (MLCAPE 1500-2500 J/kg) exists to the east of the ongoing convection in northeast TX and vicinity. Severe/damaging wind gusts should continue to be the main threat in the short term given the primarily linear mode and strong low to mid-level flow present. Isolated, marginally severe hail also appears possible, but this should be a secondary threat compared to the severe wind potential. The tornado threat across the ArkLaTex vicinity should increase later this morning as the boundary layer destabilizes, and the low/mid-level flow remains quite favorable for updraft rotation. Still, in the short term, the tornado threat may be somewhat limited by the linear storm mode. Additional convection along the OK/AR border has recently developed along an outflow/bore-like feature. This activity may also pose an isolated large hail and damaging wind threat if it can strengthen further. At this point, the need for an additional watch or expansion in area of an existing watch into western/central AR is unclear, but trends will be closely monitored. ..Gleason.. 03/17/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

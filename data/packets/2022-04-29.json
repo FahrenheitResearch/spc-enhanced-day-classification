@@ -1,0 +1,221 @@
+{
+  "convective_day": "2022-04-29",
+  "valid_start": "2022-04-29T12:00Z",
+  "valid_end": "2022-04-30T12:00Z",
+  "max_risk": "MDT",
+  "product_counts": {
+    "ENH": 1,
+    "MDT": 4
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2022-04-29",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-04-29T12:00Z",
+      "valid_end": "2022-04-30T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220429_1200.html",
+      "summary": "Severe thunderstorms capable of all hazards are possible Friday afternoon into Friday night across portions of the southern and central Plains into the lower Missouri Valley. A few strong tornadoes, very large hail, and damaging winds are possible.",
+      "sections": [
+        {
+          "title": "Central/Southern Plains",
+          "text": "Strong mid-level short-wave trough is currently digging east-southeast across the northern Great Basin toward the central Rockies. Latest model guidance suggest 70kt+ 500mb speed max will translate across southern CO during the afternoon before ejecting across KS into southeast NE by 06z. In response to this feature, lee surface cyclone will track across northwest KS into northeast KS by early evening. This evolution should encourage a well-defined dryline to mix into central KS-western OK by peak heating, trailing into northwest TX as post-dryline surface temperatures soar into the 90s. Early this morning, slow-moving MCS has propagated into southeast NE with scattered convection trailing west, just north of the KS border. This activity is expected to gradually wane/shift east by daybreak. Stronger-forced convection is now responding to the short wave over the NE Panhandle and this activity should gradually spread east through late morning. Latest thinking is low-level moisture should hold across southern NE, just north of the surface low as easterly boundary-layer component in the wake of the ongoing MCS will persist across this region. With upper 50s/lower 60s surface dew points"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-04-29",
+      "hhmm": "1300",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2022-04-29T13:00Z",
+      "valid_end": "2022-04-30T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220429_1300.html",
+      "summary": "A multi-outcome severe weather episode is forecast this afternoon into tonight across the central Great Plains vicinity. Conditionally, the threat for significant severe weather intensities is apparent which includes destructive wind and hail, along with a few strong tornadoes.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A negative-tilt shortwave trough over the northern/central Rockies will eject onto the central Great Plains by this evening before evolving into a closed low near the Mid-MO Valley overnight. A strong mid-level speed max in excess of 70 kts at 500-mb will eject through the basal portion tonight. Lee cyclone near the CO/KS/NE border will deepen as it tracks east towards far north-central KS through 00Z, before arcing northeast into the Mid-MO Valley as it weakens slightly overnight. At 00Z, a sharp dryline will arc south-southwest from this cyclone, with a pronounced cold front sweeping southeast across western KS. This cold front will progressively overtake the dryline from north to south through tonight."
+        },
+        {
+          "title": "Central Great Plains vicinity",
+          "text": "Multiple forecast scenarios are expected to unfold this afternoon and continue into tonight. Sufficient mesoscale confidence exists to warrant a wind-driven category 4/Moderate Risk along the NE/KS border, but not yet enough to include higher tornado probabilities farther south. Two primary corridors of scattered elevated thunderstorms are ongoing. The first across eastern KS into the Lower MO Valley will likely shift east and decay as a stout elevated mixed-layer expands east-northeast today. The second across west-central NE to the west-northwest of the initially quasi-stationary frontal zone may persist with continued isentropic ascent. Sustained severe thunderstorm development is most likely to occur to the south and east of this corridor of early-day convection near the surface cyclone track and associated frontal zone. Large-scale ascent will become quite strong along the northwest periphery of near 60 F surface dew points. Deep-layer shear profiles will initially be modest and tend to favor a cluster convective mode with a mix of severe hail and wind. In the late afternoon to early evening, this activity should impinge on larger buoyancy peaking near the south-central NE/nor"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-04-29",
+      "hhmm": "1630",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2022-04-29T16:30Z",
+      "valid_end": "2022-04-30T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220429_1630.html",
+      "summary": "A complex and significant severe weather episode is forecast this afternoon into tonight across the central Great Plains vicinity.",
+      "sections": [
+        {
+          "title": "Southeast NE/Northeast KS",
+          "text": "Morning water vapor imagery shows a negatively tilted upper trough over the central Rockies emerging into the High Plains. An associated 60+ knot mid-level jet will move across KS this afternoon, aiding surface cyclogenesis and resulting in a favorable setup for severe storm development. Backed low-level winds to the north/east of the surface low and warm front, along with persistent moisture convergence and mid-level capping through the early afternoon will result in a corridor of boundary layer moisture \"pooling\" roughly along the KS/NE border. Forecast soundings in this corridor show very favorable parameters for tornadic supercells, but given the strong forcing that will overspread the area, it is uncertain how long supercells can be maintained before linear structures develop. Regardless, significant tornadoes, destructive wind gusts, and very large hail are possible with the storms that move across southeast NE and far northeast KS this afternoon and evening."
+        },
+        {
+          "title": "Eastern KS along the dryline",
+          "text": "By late afternoon, the surface dryline is expected to extend from the surface low over north-central KS to near ICT. Temperatures west of the dryline will warm to near 90F, while mid 60s dewpoints are maintained to the east. While there is still uncertainty whether many storms form along this axis, most of the 12z CAM guidance now shows at least isolated supercell development over parts of this area. Strengthening southerly low-level flow/shear by early evening would support the potential for strong tornadoes, along with very large hail and damaging winds from the most intense storms. By mid-evening, the surface cold front will overtake the dryline, leading to widespread thunderstorms capable of large hail and damaging winds. The MDT risk area has been expanded slightly southward to include parts of this area, and a 15% tornado risk area has been added."
+        },
+        {
+          "title": "Central OK along the dryline",
+          "text": "The uncertainty of convective initiation increases south of the KS/OK border, but most CAM guidance shows one or more isolated supercells forming along the dryline somewhere over OK by late afternoon/early evening. Forecast soundings show an uncapped air mass along a somewhat convergent dryline, underscoring the potential for development. Have maintained the SLGT/ENH risk areas across this region with a conditional risk of very large hail and tornadoes from any supercell that can form on the dryline today. ..Hart/Weinman.. 04/29/2022"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-04-29",
+      "hhmm": "2000",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2022-04-29T20:00Z",
+      "valid_end": "2022-04-30T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220429_2000.html",
+      "summary": "A complex and significant severe weather episode is forecast this afternoon into tonight across the central Great Plains vicinity.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Only two minor changes were made to the previous convective outlook. 1) Made slight adjustments by sharpening the severe probability gradient for parts of the dryline to reflect dryline position and developing high-based cumulus. 2) Added low hail probabilities for parts of eastern CO. For short-term details regarding expected thunderstorm development and associated severe hazards, reference MCDs 580-582. ..Smith.. 04/29/2022 .PREV DISCUSSION... /ISSUED 1119 AM CDT Fri Apr 29 2022/"
+        },
+        {
+          "title": "Southeast NE/Northeast KS",
+          "text": "Morning water vapor imagery shows a negatively tilted upper trough over the central Rockies emerging into the High Plains. An associated 60+ knot mid-level jet will move across KS this afternoon, aiding surface cyclogenesis and resulting in a favorable setup for severe storm development. Backed low-level winds to the north/east of the surface low and warm front, along with persistent moisture convergence and mid-level capping through the early afternoon will result in a corridor of boundary layer moisture \"pooling\" roughly along the KS/NE border. Forecast soundings in this corridor show very favorable parameters for tornadic supercells, but given the strong forcing that will overspread the area, it is uncertain how long supercells can be maintained before linear structures develop. Regardless, significant tornadoes, destructive wind gusts, and very large hail are possible with the storms that move across southeast NE and far northeast KS this afternoon and evening."
+        },
+        {
+          "title": "Eastern KS along the dryline",
+          "text": "By late afternoon, the surface dryline is expected to extend from the surface low over north-central KS to near ICT. Temperatures west of the dryline will warm to near 90F, while mid 60s dewpoints are maintained to the east. While there is still uncertainty whether many storms form along this axis, most of the 12z CAM guidance now shows at least isolated supercell development over parts of this area. Strengthening southerly low-level flow/shear by early evening would support the potential for strong tornadoes, along with very large hail and damaging winds from the most intense storms. By mid-evening, the surface cold front will overtake the dryline, leading to widespread thunderstorms capable of large hail and damaging winds. The MDT risk area has been expanded slightly southward to include parts of this area, and a 15% tornado risk area has been added."
+        },
+        {
+          "title": "Central OK along the dryline",
+          "text": "The uncertainty of convective initiation increases south of the KS/OK border, but most CAM guidance shows one or more isolated supercells forming along the dryline somewhere over OK by late afternoon/early evening. Forecast soundings show an uncapped air mass along a somewhat convergent dryline, underscoring the potential for development. Have maintained the SLGT/ENH risk areas across this region with a conditional risk of very large hail and tornadoes from any supercell that can form on the dryline today."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-04-30",
+      "hhmm": "0100",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2022-04-30T01:00Z",
+      "valid_end": "2022-04-30T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220430_0100.html",
+      "summary": "A complex and significant severe weather episode is expected to continue tonight across the central Great Plains vicinity.",
+      "sections": [
+        {
+          "title": "01z Update",
+          "text": "Progressive short-wave trough has advanced across the central Rockies and now extends across the NE Panhandle, along the CO/KS border to near the latitude of the central TX Panhandle. Most significant height falls/forcing will spread across the central Plains toward the mid-MS Valley late tonight. Over the last few hours, expanding clusters/supercells have evolved ahead of the short wave over south-central NE into northeast KS. Substantial precipitation shield is developing in the wake of what appears to be a surging squall line from Madison County NE-York-Fillmore County NE. As LLJ increases across eastern KS into southeast NE this intensifying MCS should continue to expand as it surges toward the MO River. Have expanded higher wind probabilities immediately ahead of this activity across southeast NE to account for this organized cluster. More discrete supercells/clusters extend south across eastern KS ahead of the dryline/cold front. With time frontal convection should become more pronounced as it surges into a more moist/buoyant airmass north of the main mid-level jet core. Less certainty exists regarding convection at lower latitudes (OK/TX). Several attempts at sustained conve"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2022,
+      "number": 580,
+      "issue_utc": "2022-04-29T17:57Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0580.html",
+      "summary": "The initiation of at least one or two supercells appears possible by 3-5 PM CDT, accompanied by the potential for large hail and a couple of tornadoes.",
+      "discussion": "A plume of colder mid-level air (included 500 mb temps below -15C) is in the process of nosing east/southeast of the Colorado/Wyoming Rockies into the adjacent central Great Plains. Associated destabilization may have contributed to the recent transient intensification of thunderstorms near Imperial NE. Farther east, deepening convective development is already underway, in response to boundary-layer destabilization driven by insolation and perhaps ascent associated with low-level warm advection, to the north and northeast of a deepening surface low, from southeast of McCook NE toward the Concordia KS vicinity. Despite somewhat modest surface dew points, becoming maximized near 60F along and to the north of the developing warm front, beneath the northern periphery of the warmer and more strongly capping elevated mixed-layer air, boundary-layer based CAPE appears to be increasing to 1500-2000 J/kg. Further destabilization, and erosion of the mid-level inhibition, appears likely in response to continued daytime heating and eastward advection of the plume of cold mid-level air through 20-22Z. Latest Rapid Refresh and high-resolution Rapid Refresh output appears increasingly suggestive that this will support the initiation of isolated boundary-layer based storm development, to the north/northeast of the eastward migrating surface low center. Despite the rather modest deep-layer ambient wind fields across this region (including southerly flow at 500 mb around 30+ kt), veering profiles with height in lower to mid-levels to the north of the warm front, coupled with the higher boundary-layer moisture and ambient vertical vorticity, may prove conducive to supercells capable of producing tornadoes, in addition to severe hail."
+    },
+    {
+      "year": 2022,
+      "number": 581,
+      "issue_utc": "2022-04-29T18:52Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0581.html",
+      "summary": "Scattered thunderstorm development may gradually consolidate while spreading southeastward across the region through 3-5 PM MDT, posing some increase in potential for strong wind gusts, in addition to a risk for mostly small hail.",
+      "discussion": "Beneath the plume of stronger mid-level cooling, insolation and deep boundary-layer mixing are contributing to very steep low through mid-level lapse rates across much of the central high plains. In the wake of a southeastward advancing surface cold front, it appears that the boundary-layer moisture is sufficient to contribute to CAPE on the order of 500-1000+ J/kg, in a corridor east of Denver CO toward the Goodland KS vicinity, despite the cooler surface temperatures. This destabilization is already contributing to increasing thunderstorm development to the southeast of the Interstate 76 corridor of northeastern Colorado. Beneath modestly sheared westerly deep-layer mean flow (20-30+ kt), further intensification of these storms seems probable as they develop east-southeastward. Small to marginally severe hail is possible in stronger cells, along with locally strong surface gusts. It is possible that consolidating outflows could contribute to an upscale growing cluster with strong surface gusts at least approaching severe limits subsequently becoming a bit more widespread. However, it is not clear that a severe weather watch will be needed due to the general marginal nature of the threat."
+    },
+    {
+      "year": 2022,
+      "number": 582,
+      "issue_utc": "2022-04-29T19:23Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0582.html",
+      "summary": "Monitoring for supercell development along the dryline this afternoon. Strong tornadoes, very large hail, and damaging gusts will all be possible with this activity. A Tornado Watch will likely be needed for parts of the area.",
+      "discussion": "Water vapor imagery indicates a strong midlevel speed maximum approaching KS/OK, where modest midlevel height falls are occurring. As this speed maximum continues overspreading the area, a NNE-SSW oriented dryline will sharpen across east-central KS into north-central OK. The strengthening dryline circulation, combined with south-southwesterly low-level flow oriented largely parallel to the dryline should allow for isolated convective initiation between 20Z-23Z. Surface dewpoints in the middle/upper 60s F beneath very steep midlevel lapse rates will support a strongly unstable airmass (MLCAPE nearing 3000 J/kg), while effective bulk shear increases to around 40 knots. These factors, coupled with strongly veering wind profiles in the boundary-layer (200-300 m2/s2 effective SRH) would certainly favor supercells capable of strong tornadoes, very large hail, and damaging gusts. There is still some uncertainty in the overall coverage and location of the severe threat, though trends will continue to be monitored for Tornado Watch issuance for parts of this area."
+    },
+    {
+      "year": 2022,
+      "number": 583,
+      "issue_utc": "2022-04-29T21:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0583.html",
+      "summary": "There is increasing confidence in a storm or two initiating along the dryline in western Oklahoma. Very large hail and tornadoes will be possible. A tornado watch will likely be needed shortly.",
+      "discussion": "Temperatures west of the dryline Oklahoma and northwest Texas have risen to the upper 90s F to around 100 F near Altus, OK. Visible satellite continues to show towering cumulus developing from near Frederick, OK to near Watonga, OK. Given the nearly stationary nature of the dryline and the low-level parcel trajectories, it seems that residence time in the dryline circulation should be sufficient for a storm or two to develop this afternoon. Effective shear vectors are orthogonal to the boundary at 40-50 kts. Storms should be discrete. The 21Z OUN sounding showed a near 9 C/km lapse rate in the mid-levels. Furthermore, the capping inversion has weakened slightly. Very large hail will be a possibility. As dewpoints have largely remained in the mid/upper 60s F and the low-level jet expected to increase in central Oklahoma this evening, tornadoes, perhaps strong, are also possible. A tornado watch will likely be needed shortly."
+    },
+    {
+      "year": 2022,
+      "number": 584,
+      "issue_utc": "2022-04-29T22:55Z",
+      "topic": "Tornado Watch 157",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0584.html",
+      "summary": "The damaging-wind risk will likely increase this evening, in addition to the ongoing threat of hail and a few tornadoes.",
+      "discussion": "Intense thunderstorms have increased in coverage over the last 30-60 minutes across south-central NE into far north-central KS, in response to notable low-level moist advection occurring just to the north of a deepening surface cyclone. A favorably veering wind profile with height (noted on recent KUEX VWP) will continue to support supercell structures, though a continued tendency toward storm mergers and upscale growth appears likely, as storms consolidate along an accelerating cold front. The upscale evolution will likely lead to increasing risk of strong/damaging wind gusts, with one or more swaths of potentially significant wind (75 mph or greater) possible. Moderate buoyancy and downstream 0-1 km SRH in excess of 200 m2/s2 will also support a tornado risk with any embedded supercell structures, and potentially with any QLCS mesovortices that may evolve with time. ..Dean.. 04/29/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 585,
+      "issue_utc": "2022-04-29T23:54Z",
+      "topic": "Tornado Watch 158",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0585.html",
+      "summary": "A storm or two may still initiate along the dryline west of Wichita. Tornadoes and large/very-large hail would be possible with these discrete storms. Additional convection is possible as the cold front moves through the area later this evening. Convection along the cold front would pose more of a damaging-wind threat.",
+      "discussion": "Cumulus development has continued to increase to the west of Wichita. Recent KICT radar imagery shows weak, but steadily increasing reflectivity presentation with this activity. While upper-level forcing is not as strong as to the north, there remains a window over the next few hours where storms could mature this evening. The KICT VWP shows 0-1 km SRH in excess of 200 m2/s2. Tornadoes as well as large to very large hail would be possible with these discrete storms. There does remain some uncertainty on storm coverage as temperature in the warm sector have cooled slightly and objective analysis shows a coincident increase in MLCIN. Later this evening, the cold front, reinforced by convective outflow, will move through the area. Given the linear forcing, wind damage would then become the primary threat along with a more isolated risk for large hail and QLCS tornadoes. ..Wendt.. 04/29/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 586,
+      "issue_utc": "2022-04-30T00:08Z",
+      "topic": "Tornado Watch 158",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0586.html",
+      "summary": "The threat for tornadoes and very large hail continues. The damaging wind risk will likely increase with time this evening.",
+      "discussion": "At 00Z, a supercell cluster is moving into far southeast NE, with other potentially tornadic supercells ongoing across Washington County, KS, to the west of Wichita. Meanwhile, convection is rapidly increasing along an outflow which surged eastward and is intercepting the dryline. MLCAPE in excess of 2000 J/kg and 0-1 km SRH greater than 200 m2/s2 will support the risk of tornadoes (including a strong tornado) with any semi-discrete supercell this evening, especially as storms move near the warm frontal zone. Very large hail will also remain possible, as evidenced by a 4-inch diameter hail report near Enterprise, KS. A tendency toward upscale growth is expected as convective outflow and eventually the synoptic cold front overtake the region, posing an increasing risk of damaging wind with time this evening. ..Dean.. 04/30/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 587,
+      "issue_utc": "2022-04-30T01:05Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0587.html",
+      "summary": "The threat for damaging wind and perhaps a tornado or two will increase later tonight. Watch issuance is likely.",
+      "discussion": "At 01Z, a mix of small bowing segments and embedded supercells is ongoing across northeast KS. An evolution toward an increasingly linear mode is expected with time, as a cold front continues to overtake the ongoing storms. While lesser buoyancy and increasing MLCINH will characterize the downstream environment across northwest MO, an increasing low-level jet will help to sustain convection, with moderate deep-layer shear continuing to support organized structures. The linear mode will result in primarily a damaging wind risk later tonight, though a tornado or two will remain possible, as an increasing low-level jet maintains strong low-level shear/SRH across the region. Watch issuance is likely soon in order to cover these threats."
+    },
+    {
+      "year": 2022,
+      "number": 588,
+      "issue_utc": "2022-04-30T01:31Z",
+      "topic": "Severe Thunderstorm Watch 160",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0588.html",
+      "summary": "The threat for damaging wind will continue this evening as an organizing bow echo spreads eastward. A brief tornado is also possible across southeast Nebraska.",
+      "discussion": "At 0130Z, a well-organized thunderstorm line is moving eastward across eastern NE, while a small bowing segment that evolved out of a supercell cluster is moving northeastward across far southeast NE. While most of the ongoing convection is north of the warm front, steep midlevel lapse rates (as noted on the 00Z OAX sounding) and continued low-level moisture transport will support maintenance of vigorous convection through the remainder of the evening as storms spread generally eastward toward the Omaha/Council Bluffs area into western IA. Damaging wind is expected to be the primary threat into late evening, though increasing MLCINH may tend to mitigate the wind risk to some extent, especially later tonight. A brief tornado cannot be ruled out through around 0230Z with the cluster moving northeastward out of southeast NE, before this convection becomes increasingly removed from the warm frontal zone and is overtaken by storms approaching from the west. ..Dean.. 04/30/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 589,
+      "issue_utc": "2022-04-30T01:58Z",
+      "topic": "Tornado Watch 158",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0589.html",
+      "summary": "Wind damage is expected to become the primary risk with time as the cold front moves east. QLCS tornadoes will also remain possible. The greatest tornado risk in the short term will exist with discrete convection east of Wichita. A new watch south and east of these areas may be needed as the cold front moves into those areas.",
+      "discussion": "Convection has increased along the advancing cold front in easter Kansas. KTWX and KICT radars continue to show several line-embedded circulations. A few reported tornadoes have occurred along the line in the last hour. With the downstream environment remaining favorably sheared at low-levels, some threat for QLCS tornadoes will continue this evening. However, the primary threat with the linear convection should be damaging winds. Farther south, east of Wichita, two discrete supercells continue east-northeastward. One of these cells produced a tornado near Augusta, KS around 820 CDT and another near El Dorado around 847 CDT. These discrete storms will pose the greatest tornado threat over the next couple of hours. With time, the cold front will eventually undercut these storms. Again, damaging winds will become the primary threat as this occurs along with a secondary threat of QLCS tornadoes. The expectation is for the convection along the cold front to build southwestward to some degree later this evening. This will place a few strong to severe storms into parts of north-central and northeast Oklahoma towards midnight. However, with capping increasing with southward extent, it is not clear how far south this activity will reach. Nevertheless, there is potential for a new watch to be issued that would include parts of northern Oklahoma and southwest Missouri. ..Wendt.. 04/30/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 590,
+      "issue_utc": "2022-04-30T04:34Z",
+      "topic": "Severe Thunderstorm Watch 161",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0590.html",
+      "summary": "The threat for locally damaging wind and isolated hail will spread eastward overnight, though a general weakening trend is expected with time. Additional watch issuance is not expected downstream, but local watch extension may be needed depending on short-term trends.",
+      "discussion": "An extensive QLCS is ongoing at 0430Z from western IA into northern/western MO and southeast KS. The northern section of the QLCS across IA has shown signs of weakening over the last 1-2 hours as it moves into a less unstable environment. Isolated strong wind gusts cannot be ruled out across parts of central IA as the storms progress eastward, but a continued weakening and reduction of the severe threat is expected overnight. Further south, convection remains vigorous across parts of northern/western MO, to the south and east of Kansas City. Wind gusts of 40-50 kt were noted earlier across the KC metro as the system passed through. This portion of the QLCS is closer to the reservoir of stronger buoyancy emanating out of OK and southeast KS, with MUCAPE of 1000-1500 J/kg noted ahead of the line per recent mesoanalyses. This portion of the line may continue to pose a damaging-wind threat into parts of central MO before a more definitive weakening trend commences. Isolated hail also cannot be ruled out with any stronger updrafts near the gust front. Given the general weakening trend expected later tonight, downstream watch issuance is not currently expected, though local watch extensions may need to be considered based on short-term trends."
+    },
+    {
+      "year": 2022,
+      "number": 591,
+      "issue_utc": "2022-04-30T05:48Z",
+      "topic": "Severe Thunderstorm Watch 162",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0591.html",
+      "summary": "Damaging wind gusts and hail remain possible with the convective line moving across southeast KS and northeast OK into southwest MO.",
+      "discussion": "Regional radar imagery depicts an organized convective line from west-central MO southwestward into central OK. Most intense portion of this line in currently moving into northeast OK and far southeast KS, as evidenced by numerous updrafts producing radar reflectivities of 30 dbZ over 30kft. KINX VAD wind profiles are sampling a very strong low-level jet, with 78 kt recently sampled near 1 km AGL. This strong southerly flow veers more westerly in the mid-levels, and results in a large, looping hodograph. Storm-relative helicity (SRH) is over 700 m2/s2 from 0-1 km and over 1200 from 0-3 km. These values are higher than what is currently estimated from mesoanalysis, which estimates 500 and 700 from 0-1 km SRH and 0-3 SRH, respectively. However, radar signature of the line from KINX shows the strong updrafts lagging behind the surface gust front and recent RAP forecast soundings show significant MLCIN. This information, coupled with the fact that gusts have generally been around 40 to 45 mph thus far, suggests that the elevated character of the line could be limiting severity thus far. Even so, the overall environment will continue to support vigorous updrafts along the line and the potential for damaging wind gusts and isolated hail. Tornadoes also remain possible within the line, but the elevated storm character and boundary-layer stability, should keep the probability of occurrence low. ..Mosier.. 04/30/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "convective_day": "2025-03-16",
+  "valid_start": "2025-03-16T12:00Z",
+  "valid_end": "2025-03-17T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2025-03-16",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2025-03-16T13:00Z",
+      "valid_end": "2025-03-17T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250316_1300.html",
+      "summary": "Sporadic damaging wind swaths and a few tornadoes will be the primary threats this morning through dusk across a broad portion of the East.",
+      "sections": [
+        {
+          "title": "OH Valley/northern Middle Atlantic",
+          "text": "Water-vapor imagery this morning shows an upper trough over the MS Valley with an embedded mid-level vorticity maximum rotating northeastward over the lower OH Valley. This mid-level feature will be accompanied by an intense belt of flow (110+ kt at 500 mb) shifting eastward across the upper OH Valley/central Appalachians through the day. In the low levels, a surface low over southeast Lower MI will develop northward reaching the Quebec/Ontario border by late afternoon. A moist/weakly unstable warm sector to the southeast of the low will only slightly destabilize through peak heating. Yet, short-term model guidance indicates 200-500 J/kg MLCAPE will develop later this morning across the central Appalachians into the eastern OH/western PA border region. A strongly forced band of convection is forecast to gradually evolve over the upper OH Valley. Largely unidirectional southerly flow and elongated hodographs will support a risk for scattered damaging gusts (55-70 mph) and perhaps a couple of brief tornadoes with this activity. The area of greatest model agreement for a convective line posing a risk for severe appears most likely/concentrated across western into central parts of PA. "
+        },
+        {
+          "title": "Southeast",
+          "text": "The southern portion of a mid-level trough will continue east through the lower MS Valley into the Southeast today, as a low-level jet steadily shifts east across north FL through much of SC by mid-late afternoon while gradually weakening south of North Carolina. An ongoing broken band of pre-frontal strong to severe thunderstorms will move east into a weakly unstable airmass (reference the 12 UTC Charleston, SC raob). Prior to a gradual weakening of 850-mb flow by early to mid afternoon, adequately enlarged hodographs within a destabilizing airmass (1000-1500 J/kg MLCAPE across north-central FL with considerably weaker instability over the coastal Carolinas) will support organized storms, including line segments (mainly north) and some supercells (south). Scattered damaging gusts (55-70 mph) and a couple of tornadoes are possible as the severe threat shifts east through the period. ..Smith/Thompson.. 03/16/2025"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2025-03-16",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2025-03-16T16:30Z",
+      "valid_end": "2025-03-17T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250316_1630.html",
+      "summary": "Scattered damaging wind swaths and a few tornadoes will be the primary threats this afternoon and evening across parts of the Ohio Valley into the Mid-Atlantic and Southeast.",
+      "sections": [
+        {
+          "title": "Ohio Valley into the Mid-Atlantic",
+          "text": "A highly amplified upper trough over the MS Valley this morning will advance eastward over much of the eastern CONUS today. An embedded 100+ kt southwesterly mid-level jet and associated large-scale ascent will overspread the upper OH Valley and western Mid-Atlantic regions through this evening. The primary surface low over eastern Lower MI will develop northeastward into Ontario and Quebec through the day, while an attendant cold front sweeps eastward across the OH Valley/Mid-Atlantic through the period. Recent visible satellite imagery shows some clearing ahead of the synoptic cold front in eastern OH and western PA. Although low-level moisture will be somewhat limited, with surface dewpoints generally in the mid to upper 50s, cool mid-level temperatures will overspread the narrow warm sector this afternoon. This, combined with daytime heating, will support a narrow zone of up to 250-500 J/kg of MLCAPE just ahead of the cold front and/or pre-frontal trough, which should be sufficient for surface-based convection. Bands of low-topped thunderstorms have developed both along and just ahead of the cold front. This activity will move quickly east-northeastward across WV, western/centr"
+        },
+        {
+          "title": "Southeast/Carolinas",
+          "text": "The southern portion of the highly amplified upper trough will continue eastward across the lower MS Valley and Southeast today, as an intense southerly low-level jet shifts east across north FL and the Carolinas through this evening. Ongoing pre-frontal convection has mostly weakened late this morning/early afternoon, with a couple of stronger cells persisting over southeast GA and north FL where greater low-level moisture and instability is present. Adequately enlarged low-level hodographs within a gradually destabilizing airmass (1000-1500 J/kg MLCAPE across north-central FL, with weaker instability over the coastal Carolinas) should continue to support organized convection through the afternoon and evening, before activity eventually moves offshore. Broken line segments (mainly Carolinas) and some supercells (mainly southeast GA and north FL) will pose a threat for scattered damaging winds (peak gusts up to 55-70 mph) and a few tornadoes. ..Gleason/Squitieri.. 03/16/2025"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2025,
+      "number": 223,
+      "issue_utc": "2025-03-16T13:31Z",
+      "topic": "Tornado Watch 51",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0223.html",
+      "summary": "Damaging wind and tornado threat to continue through the morning.",
+      "discussion": "A line of storms with embedded supercells continues to move east across the Southeast. Instability is mostly weak (250-500 J/kg MLCAPE) ahead of this line with slightly better instability across north Florida where upper 60s dewpoints are present. This line of storms has now moved well ahead of the synoptic cold front. Therefore, given the weakening forcing, the strongest storms will likely be in north Florida this morning. However, very strong low-level shear is present ahead of the entire line of storms with over 400 m2/s2 0-1km SRH per CLX VWP where a 60 knot low-level jet is present. Given the strong low-level shear, damaging wind gusts and brief tornadoes will be possible through the morning despite the relatively weak instability and forcing."
+    },
+    {
+      "year": 2025,
+      "number": 224,
+      "issue_utc": "2025-03-16T13:49Z",
+      "topic": "Tornado Watch 51",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0224.html",
+      "summary": "Gradual destabilization is occurring across eastern North Carolina. A downstream tornado watch will eventually be needed.",
+      "discussion": "A broken line of storms, well oriented to the deep-layer shear vector, is moving across south-central North Carolina and northern South Carolina. Currently instability is relatively weak ahead of this line (MLCAPE <250 J/kg). However, visible satellite shows some breaks in the clouds and temperatures have already increased 1 to 2 degrees Fahrenheit across eastern North Carolina. If temperatures warm into the low 70s with the presence of low to mid 60s dewpoints already in place, sufficient instability should develop to maintain and perhaps strengthen this line of storms at is moves east through the morning and into the early afternoon. If weak destabilization occurs as current observational trends suggest, a downstream tornado watch will eventually be needed across eastern North Carolina and southeast Virginia."
+    },
+    {
+      "year": 2025,
+      "number": 225,
+      "issue_utc": "2025-03-16T14:04Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0225.html",
+      "summary": "A tornado watch is needed soon across eastern Ohio, western Pennsylvania, and much of West Virginia.",
+      "discussion": "An area of clearing has developed across eastern Ohio, West Virginia, and western Pennsylvania this morning. This clearing should permit a period of solar insolation which will destabilize much of the region by late morning. Minimal inhibition was present on the 12Z RAOBs from PIT and ILN. Therefore, only minimal heating should be required for a line of storms to develop. A very strong wind profile across the region will support organized storms and provide ambient synoptic flow which can easily mix damaging winds to the surface within any convection. In addition, low-level shear is very strong with over 450 m2/s2 0-1km SRH (per PBZ VWP). Damaging wind gusts are the primary concern from the fast moving squall line which is expected to develop. However, given the strong shear, some line-embedded tornadoes will also be possible. Initially, a line of storms will likely develop where some lightning has already occurred within a pre-frontal trough feature across eastern Ohio and into western West Virginia with an additional line of storms expected along the cold front which is currently moving through central Ohio and central Kentucky. Eventually expect the line of storms along the cold front to become the dominant squall line by this afternoon as these storms advance east."
+    },
+    {
+      "year": 2025,
+      "number": 226,
+      "issue_utc": "2025-03-16T14:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0226.html",
+      "summary": "Some damaging wind gusts are possible this morning to early afternoon across south-central and eastern Kentucky.",
+      "discussion": "A line of storms has developed along the cold front in central Kentucky. Ahead of these storms, dewpoints are in the mid 50s with abundant sunshine. MLCAPE is currently around 250 J/kg and may increase to around 500 J/kg by later this morning. The front is oriented parallel to the deep-layer flow across this region which is not overly favorable for a wind producing line of storms. However, strong lower tropospheric flow is present (vertically increasing to 60 knots by 3km per JKL VWP) and in the presence of thunderstorms and steepening low-level lapse rates, some of this stronger flow may mix to the surface. A watch is not anticipated."
+    },
+    {
+      "year": 2025,
+      "number": 227,
+      "issue_utc": "2025-03-16T15:39Z",
+      "topic": "Tornado Watch 52",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0227.html",
+      "summary": "The severe threat continues across Tornado Watch 52. Damaging gusts should be the main threat, though a couple of tornadoes still cannot be ruled out through at least early afternoon.",
+      "discussion": "Multiple thunderstorm clusters and transient supercells continue to progress across far southeast GA into the northern and central FL Peninsula, with additional storms over the eastern Gulf poised to move ashore over the next few hours. These storms are progressing toward a heated airmass, with surface temperatures already exceeding 80 F in multiple locales. Given 70+ F surface dewpoints, 1000+ J/kg MLCAPE is already in place. While strong flow aloft is contributing to 50+ kts of effective bulk shear, the northward advancement of the upper trough is resulting in deep-layer ascent and the accompanying low-level jet to drift away from the FL peninsula. Regional VADs show a slight decreasing trend in low-level shear. However, these VADs still show adequate hodograph elongation and curvature near the GA/FL border to support a couple of tornadoes. Otherwise, damaging gusts should remain the primary severe threat this afternoon. ..Squitieri.. 03/16/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 228,
+      "issue_utc": "2025-03-16T16:08Z",
+      "topic": "Tornado Watch 53",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0228.html",
+      "summary": "The threat for damaging winds and isolated tornadoes remains through mid-afternoon.",
+      "discussion": "A line of storms has now developed along the pre-frontal trough across West Virginia and eastern Ohio/southwest Pennsylvania. This line of storms is already starting to accelerate northeast. Visible satellite continues to show cloud breaks ahead of these storms which should allow for some destabilization immediately ahead of these storms. Damaging wind gusts and a few tornadoes remain the primary threat. These storms may reach the eastern edge of tornado watch 53 within the next 60 to 90 minutes. An additional watch may be needed soon across portions of central Pennsylvania and perhaps into southern New York."
+    },
+    {
+      "year": 2025,
+      "number": 229,
+      "issue_utc": "2025-03-16T17:13Z",
+      "topic": "Tornado Watch 51",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0229.html",
+      "summary": "The severe threat continues across Tornado Watch 51. A couple of additional damaging gusts or tornadoes cannot be ruled out. A WW replacement may be needed for eastern NC pending favorable convective trends.",
+      "discussion": "Loosely organized thunderstorm clusters across central NC continue to move eastward as a thunderstorm cluster over eastern SC approaches the shoreline. These storms are preceded by scant buoyancy (i.e. barely over 100 J/kg SB/MLCAPE, or 500 J/kg MUCAPE), which has likely limited severe potential thus far. However, strong flow aloft will continue over the eastern Carolinas as the low-level jet axis remains centered along the Carolina shoreline as the 500 mb wind maxima approaches from the west. As such, any robust updrafts that manage to become organized and robust may be accompanied by a threat for a few damaging gusts or tornadoes. The main question at the moment is appreciable coverage of organized storms given such scant buoyancy. Tornado Watch 51 is set to expire at 18Z, so a new Tornado Watch may be necessary under the condition that organized storms become apparent."
+    },
+    {
+      "year": 2025,
+      "number": 230,
+      "issue_utc": "2025-03-16T17:42Z",
+      "topic": "Severe Thunderstorm Watch 55",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0230.html",
+      "summary": "A severe thunderstorm watch was recently issues across western New York for an increasing damaging wind threat.",
+      "discussion": "A broken line of storms is starting to develop over eastern Lake Erie. This is expected to become more intense across western New York over the next 1 to 2 hours as it moves off the lake and into an airmass featuring temperatures in the low to mid 70s across western New York. Instability is expected to remain weak (250-500 J/kg MLCAPE), but should be sufficient for some damaging wind threat as this line of storms moves east. The severe potential will decrease substantially at some point late this afternoon as the boundary layer starts to cool. Therefore, it is unclear how far east the severe threat will persist across central New York. A watch has recently been issued for western New York to address this threat with later areal expansions into central New York possibly needed."
+    },
+    {
+      "year": 2025,
+      "number": 231,
+      "issue_utc": "2025-03-16T18:07Z",
+      "topic": "Tornado Watch 54",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0231.html",
+      "summary": "A line of storms producing damaging winds continues to move rapidly east across Pennsylvania.",
+      "discussion": "A line of storms has produced widespread damaging wind gusts across West Virginia and western Pennsylvania this morning and early afternoon with occasional large hail. Expect the damaging wind and perhaps a brief tornado threat to continue through the afternoon given the presence of weak instability (100-250 J/kg) and strong lower tropospheric flow (70 knots at 1km per CCX VWP) ahead of these storms. Eventually expect this line to weaken across eastern Pennsylvania given widespread cloud cover. This will prevent further destabilization, particularly as the boundary layer begins to cool by early evening. ..Bentley.. 03/16/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 232,
+      "issue_utc": "2025-03-16T18:21Z",
+      "topic": "Tornado Watch 52",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0232.html",
+      "summary": "A couple of damaging gusts or a tornado cannot be ruled out through the remainder of the afternoon. An extension to Tornado Watch 52 or a new watch may be needed if storms maintain their intensity.",
+      "discussion": "A line of thunderstorms continues across the northern and central portions of the FL peninsula. Upper support continues to drift away from FL, which may limit thunderstorm intensity and severe potential to some degree. However, downstream ample heating is boosting MLCAPE to over 2000 J/kg, with residual strong flow aloft still contributing to 40-50 kts of effective bulk shear. As such, it is unclear the extent of future severe potential. Local temporal extensions of Tornado Watch 52, or the issuance of a new WW, may be needed if storms show signs of further organization or intensity. ..Squitieri.. 03/16/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 233,
+      "issue_utc": "2025-03-16T20:02Z",
+      "topic": "Severe Thunderstorm Watch 55",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0233.html",
+      "summary": "The damaging wind gusts will persist for a few more hours across central New York before the threat wanes.",
+      "discussion": "A well-developed line of storms has produced numerous reports of damaging wind gusts and some measured severe wind gusts across western/central Pennsylvania and western New York. Some weak instability remains across central New York which may be sufficient to sustain these storms for a few more hours. Synoptic winds are gusting to 35-40 knots ahead of this line of storms and an 85 knot low-level jet is present on the BGM VWP around 2km. Therefore any surface based convection will likely have the potential for severe wind gusts this afternoon. Cloud cover is extensive ahead of this line of storms and the boundary layer will start to cool in the next 1 to 2 hours. Therefore, this line of storms is probably past its peak and should start to weaken in the next 1 to 2 hours. Severe thunderstorm watch 55 has been expanded ahead of these storms to cover this threat for that time period. While some local extensions of watch 55 may be necessary, no downstream watch is anticipated."
+    },
+    {
+      "year": 2025,
+      "number": 234,
+      "issue_utc": "2025-03-16T20:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0234.html",
+      "summary": "An isolated severe threat could materialize with any storms that manage to develop ahead of the lee trough and cold front, behind earlier storms. Given the sparse severe threat, a WW issuance is not expected.",
+      "discussion": "Earlier day showers and thunderstorms (which posed a severe threat) have generally cleared much of the east-central CONUS. However, ample diurnal heating is occurring behind these storms, in advance of an eastward drifting lee trough and surface cold front. Surface temperatures are exceeding 75 F in some spots, with dewpoints in the mid 50s to 60s F ahead of the lee trough, boosting low-level lapse rates to 8 C/km and MLCAPE to 500-1000 J/kg. Deep-layer ascent continues to drift away from the lee of the Appalachians, reducing the chances for thunderstorm redevelopment. However, with 50-80 kts of effective bulk shear overspreading this modified airmass, any thunderstorm that manages to develop and become sustained may produce strong wind gusts and perhaps some hail. Given the expected isolated nature of the severe threat, a WW issuance is not expected."
+    },
+    {
+      "year": 2025,
+      "number": 235,
+      "issue_utc": "2025-03-16T20:26Z",
+      "topic": "Tornado Watch 54",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0235.html",
+      "summary": "Sporadic damaging wind gusts are possible through the remainder of the afternoon. No watch is expected downstream of watch 54.",
+      "discussion": "Skies have cleared across northern Virginia into southern Pennsylvania over the past few hours which has allowed temperatures to increase into the 70s ahead of the line of storms. Despite the warming temperatures, instability has had little change as the warming has also started to mix out surface dewpoints with some sites across northern Virginia now falling into the mid 50s. MLCAPE around 250 J/kg should persist ahead of this line of storms for the next 1 to 2 hours which may allow for some sporadic damaging wind gusts from the more organized cells. In fact, a few weak supercell type structures have developed which will locally increase the damaging wind/brief tornado threat. Storm motions should keep these storms within watch 54 for the awhile longer. Therefore, by the time storms move east of the watch, stabilizing effects of early-evening transition should limit the surface-based instability. Therefore, no watch is anticipated downstream of watch 54 at this time."
+    },
+    {
+      "year": 2025,
+      "number": 236,
+      "issue_utc": "2025-03-16T22:17Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0236.html",
+      "summary": "A gradual increase in storms is expected this evening, and at least a few may become severe. Conditions remain favorable for a brief tornado or damaging gusts.",
+      "discussion": "Surface analysis shows rain-cooled air over much of southeast VA into northeast NC currently. However, also noted are mid 60s F dewpoints extending south of this region, and a plume of mid 70s F temperatures just west and ahead of the cold front. Given the progression of the cold front and a strong low-level jet this evening, some uptick in storm coverage is plausible. Hodographs from forecast soundings still show favorable hodographs for tornadoes and supercells, especially over the eastern half of VA and NC. As such, any robust storm that moves into the higher shear region may become capable of a tornado. Instability is not particularly strong, however, sufficient to support localized wind damage or tornado risk."
+    },
+    {
+      "year": 2025,
+      "number": 237,
+      "issue_utc": "2025-03-16T22:20Z",
+      "topic": "Severe Thunderstorm Watch 54",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0237.html",
+      "summary": "Isolated damaging winds remain possible as a line of storms moves into eastern New York state and northeast Pennsylvania. However, this line is expected to gradually weaken through the evening hours. Watch issuance downstream of WW 55 is not expected.",
+      "discussion": "Regional radars across NY and PA continue to show strong velocities within/behind a broken line of storms as it moves east/northeast and out of WW 55. This broken line continues to move out of the axis of sustainable buoyancy, and a downtrend in lightning counts has been noted over the past hour, indicative of an overall weakening trend. However, recent GOES imagery and lightning data have shown occasional transient updraft pulses embedded within the line, likely where storm-scale dynamic pressure perturbations are contributing to locally stronger updrafts. Surface observations within the past hour have measured gusts in the vicinity of these stronger segments between 40-45 knots, and the KBGM VWP recently sampled 50 knot winds near 1 km with the passage of the line. The overall weakening trend is expected to continue as the line migrates into a more stable air mass so watch issuance is not expected, but sporadic damaging gusts associated with these transient updrafts pulses will remain possible in the near term (next 1-2 hours) across eastern NY and northeast PA. ..Moore.. 03/16/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 238,
+      "issue_utc": "2025-03-17T03:16Z",
+      "topic": "Tornado Watch 56",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0238.html",
+      "summary": "Isolated severe storms may still occur over the area, though the probability is currently low.",
+      "discussion": "Earlier bursts of convection which produced large hail over central NC and rotation over southeast NC have diminished, though areas of showers and thunderstorms persist. Dewpoints are largely in the mid 60s, which is still resulting in MUCAPE of around 1000 J/kg in pockets. As the upper trough and associated cold front continue east, some increase in convection may yet occur due to cooling aloft atop the moist air mass. Deep-layer shear remains strong, and low-level shear with winds veering with height is still conditionally favorable for rotating storms and brief tornado risk. If an uptick in storm strength does not occur prior to 05Z, the watch will likely be allowed to expire. ..Jewell.. 03/17/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

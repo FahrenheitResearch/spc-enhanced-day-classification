@@ -1,0 +1,98 @@
+{
+  "convective_day": "2022-06-10",
+  "valid_start": "2022-06-10T12:00Z",
+  "valid_end": "2022-06-11T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2022-06-10",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-06-10T12:00Z",
+      "valid_end": "2022-06-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220610_1200.html",
+      "summary": "Severe thunderstorms with an accompanying damaging wind risk are expected across parts of Arkansas into the lower Mississippi Valley and central Gulf Coast vicinity, mainly this morning into the afternoon.",
+      "sections": [
+        {
+          "title": "Arkansas into the lower MS Valley/Middle Gulf Coast",
+          "text": "An MCS will likely be ongoing at the start of the period somewhere across eastern OK into AR. There is some uncertainty regarding the organization and severity of this MCS during the early morning, but some intensification is possible with time by late morning into the early afternoon as the system moves southeastward into a favorably moist and unstable environment. Moderate northwesterly midlevel flow will provide sufficient effective shear for storm organization through the day, and an organized MCS will potentially move southeastward through parts of AR and MS and reach the middle Gulf Coast by late afternoon. A swath of damaging wind gusts will be possible in association with this MCS, in addition to isolated hail and perhaps a brief tornado or two."
+        },
+        {
+          "title": "Eastern KS into MO",
+          "text": "Considerable uncertainty remains regarding the development of storms in the wake of the primary MCS. However, a few strong elevated storms could form along the instability gradient from eastern KS into parts of MO. Isolated hail and strong wind gusts will be possible if any redevelopment occurs. ..Dean/Weinman.. 06/10/2022"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-06-10",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-06-10T13:00Z",
+      "valid_end": "2022-06-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220610_1300.html",
+      "summary": "Severe thunderstorms with an accompanying damaging wind risk are expected across parts of Arkansas into the lower Mississippi Valley and central Gulf Coast vicinity, mainly this morning into the afternoon.",
+      "sections": [
+        {
+          "title": "AR/LA/MS/AL/FL",
+          "text": "A large and persistent MCS that affected OK overnight is beginning to re-intensify over southern AR. These storms will track southeastward across the ArkLaMiss region, where at least some daytime heating and dewpoints in the mid/upper 60s will be present. Low and mid-level wind fields are not particularly strong, but given the substantial mesoscale organization of this MCS, there will be a risk of damaging wind gusts and perhaps brief QLCS tornadoes along the leading edge of the storms. The activity is expected to track all the way to the Gulf Coast by early evening, ending the severe threat. ..Hart/Broyles.. 06/10/2022"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-06-10",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-06-10T16:30Z",
+      "valid_end": "2022-06-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220610_1630.html",
+      "summary": "Severe thunderstorms with an accompanying damaging wind risk are expected across parts of the lower Mississippi Valley and central Gulf Coast vicinity, mainly through this afternoon.",
+      "sections": [
+        {
+          "title": "AR/LA/MS/AL/FL Panhandle",
+          "text": "An organized severe MCS continues to move southeast at 40 to 45 kts across portions of MS/LA, with several reports of wind damage in association with this system since 12z. The MCS is along the southern periphery of stronger mid-level flow, however some augmentation of that flow is evident due to an MCV associated with overnight convection across OK. Continued heating downstream will result in additional destabilization, with MLCAPE of 2000 to locally 3000 J/kg expected. The MCS is expected to continue moving towards the coast this afternoon posing a risk for primarily damaging winds, although a brief tornado or two will remain possible with any transient embedded circulations. Some uncertainty exists regarding the intensity of the MCS as it moves towards the coast given ongoing and increasing thunderstorms over southeast LA and southern MS, however expect the overall damaging wind risk to remain given the current MCS structure and speed of movement. ..Bunting/Lyons.. 06/10/2022"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2022,
+      "number": 1112,
+      "issue_utc": "2022-06-10T12:52Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1112.html",
+      "summary": "A fast-moving line of thunderstorms will track into northeast LA and central MS later this morning, posing a risk of damaging wind gusts. A severe thunderstorm watch will likely be needed in the next hour or so.",
+      "discussion": "A long-lived and fast-moving MCS over southwest AR has recently re-intensified. The leading edge of the storms is now moving at 40+ knots and radar velocity structures suggest that the risk of damaging winds is increasing. These storms will track into northeast LA and central MS later this morning. Therefore, a new severe thunderstorm watch will likely be needed soon."
+    },
+    {
+      "year": 2022,
+      "number": 1113,
+      "issue_utc": "2022-06-10T15:21Z",
+      "topic": "Severe Thunderstorm Watch 342",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1113.html",
+      "summary": "The highest threat for strong to severe gusts (50-65 mph) and associated wind damage will likely exist with the bow-shaped portion of the squall line as it moves south-southeastward into southwest MS through 12pm CDT.",
+      "discussion": "Radar imagery shows an MCS over the lower MS Valley this morning. A continued south-southeastward surge in the squall line has resulted in a bow-shaped inflection, where the risk for damaging gusts will likely concentrate over the next 1-2 hours. The airmass south-southeast of the bow has warmed in the lower 80s F (as of 10am CDT), and additional heating into the mid 80s will occur prior to the arrival of the squall line. The steepening of low-level lapse rates plus a water-loading component to the thunderstorms, will facilitate the efficient transfer of strong to locally severe gusts to the surface. ..Smith.. 06/10/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1114,
+      "issue_utc": "2022-06-10T18:06Z",
+      "topic": "Severe Thunderstorm Watch 342",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1114.html",
+      "summary": "Several clusters of strong to severe thunderstorms from this mornings' MCS should continue to re-strengthen this afternoon across portions of the Gulf Coast. Damaging wind gusts and perhaps a brief tornado or two will remain possible with the more organized clusters. Some severe risk may continue later this afternoon, though uncertainty remains high.",
+      "discussion": "As of 18 UTC, regional radar analysis showed the remnant of an early Morning MCS persisting across portions of LA and MS. Of these storms, two more organized clusters are currently apparent, with additional organization/strengthening possible through this afternoon. To the east, the bowing segment across south-central MS is forecast to continue southeastward, toward far southern MS and possibly far southwestern AL in the next couple of hours. To the west, a smaller cluster has recently emerged across portions of northern and central LA. Recent IR and radar imagery show cooling cloud/echo tops indicating a general uptick in strength/organization of both clusters over the last hour. This trend should continue through this afternoon as continued warming and moistening of the boundary layer (70s F surface dewpoints) results in further destabilization. SPC mesoanalysis shows 2500-3000 J/kg of MLCAPE and 20-30 kt of effective shear resides over much of the region. This will continue to favor strong updrafts in a predominately linear mode. Heavily water loaded downdrafts and cold pool forcing will support the risk for severe gusts and perhaps a brief tornado or two through the early afternoon. Less certainty exists on the longevity of these thunderstorms clusters as they approach the immediate coast later this afternoon. Hi-res guidance hints that as storms continue south and east, they will outrun the stronger shear aloft and a decrease in storm organization will gradually occur. The degree of buoyancy may continue to support occasional stronger updrafts and some isolated wind damage potential, particularly with the eastern most cluster as it approaches far southern MS and southwestern AL. Conditions will be monitored for a small downstream watch across this region, though it"
+    },
+    {
+      "year": 2022,
+      "number": 1115,
+      "issue_utc": "2022-06-10T21:58Z",
+      "topic": "Severe Thunderstorm Watch 343",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1115.html",
+      "summary": "The threat for locally damaging wind may spread downstream of WW 343, but a general weakening trend is expected to continue.",
+      "discussion": "The leading edge of a long-lived MCS is currently moving into parts of southern AL and the FL Panhandle. Convection has become quite disorganized along the leading outflow, and a general weakening trend is expected to continue, due to increasingly weak deep-layer flow/shear downstream of the weakening system. However, moderate buoyancy across south AL into the FL Panhandle may support sporadic redevelopment along and ahead of the outflow as it moves eastward, which could pose a localized damaging wind threat. With the general weakening trend expected to continue, downstream watch issuance is not anticipated."
+    }
+  ]
+}

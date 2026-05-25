@@ -1,0 +1,100 @@
+{
+  "convective_day": "2025-09-23",
+  "valid_start": "2025-09-23T12:00Z",
+  "valid_end": "2025-09-24T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2025-09-23",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2025-09-23T16:30Z",
+      "valid_end": "2025-09-24T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250923_1630.html",
+      "summary": "Scattered severe thunderstorms are probable later this afternoon into the evening over portions of eastern Oklahoma into western Arkansas. The primary severe-weather risk will be the threat for a few tornadoes, with one or two of these tornadoes potentially being strong.",
+      "sections": [
+        {
+          "title": "Southern Plains into the Ozarks and Mid-South",
+          "text": "Water-vapor imagery shows an elongated, positively tilted mid-level trough centered over the eastern Great Basin/central Rockies. Of particular note, a mid-level vorticity maximum is indicated moving east from the OK-TX Panhandle region and embedded within a belt of slightly stronger 30-45 kt westerly flow. Radar/lightning data late this morning shows a few thunderstorm clusters over the Ozark Plateau along and north of a psuedo warm front/outflow boundary. This boundary has become quasi-stationary and is draped west to east from northeast OK across far northern AR east to the MS River. Surface streamline analysis indicates a 1007 mb low has begun to become better defined over north-central OK and this low will develop east along the boundary towards northwest AR by early evening. South of the composite outflow/warm front, a very moisture-rich airmass continues to heat/destabilize in eastern OK with surface temperatures and dewpoints in the mid 80s and mid 70s deg F, respectively. Model forecast soundings shows 1000-2000 J/kg MLCAPE over western and northern TX to upwards of 3000 J/kg over eastern OK. The latest model guidance shows sufficiently enlarged hodographs (150-250 m2/s2 e"
+        },
+        {
+          "title": "Mid-Atlantic",
+          "text": "Downstream of a broad/weak mid-level trough over the eastern CONUS, scattered thunderstorms should develop by early to mid afternoon within a moist/weakly unstable airmass. Around 20-25 kt of deep-layer shear may support loosely organized clusters with a risk of locally damaging winds before this activity weakens this evening. ..Smith/Wendt.. 09/23/2025"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2025-09-23",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2025-09-23T20:00Z",
+      "valid_end": "2025-09-24T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250923_2000.html",
+      "summary": "Scattered severe thunderstorms are probable this afternoon into the evening over portions of eastern Oklahoma into western Arkansas. The primary severe-weather risk will be the threat for a few tornadoes, with one or two of these tornadoes potentially being strong. Scattered damaging wind gusts will be possible as well.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "The primary change with this update was an expansion of the Enhanced Risk in east-central OK and west-central AR -- driven by 30-percent wind probabilities. Along/south of the convectively reinforced baroclinic zone draped across northeast OK into northwest AR, temperatures have warmed into the lower 90s amid middle 70s dewpoints. The resultant strong surface-based buoyancy will favor scattered damaging wind gusts (possibly up to 75 mph on an isolated basis) with a mix of semi-discrete supercells and upscale-growing clusters through the afternoon. For details on the near-term severe risk here, reference MCD #2123. Elsewhere, the Marginal Risk was expanded slightly northward into southern IL ahead of a band of approaching convection. Diurnal heating of a moist air mass beneath high-level clouds has contributed to weak surface-based buoyancy, which combined with strengthening deep-layer shear, will support a couple loosely organized storms capable of locally damaging winds. ..Weinman.. 09/23/2025 .PREV DISCUSSION... /ISSUED 1129 AM CDT Tue Sep 23 2025/"
+        },
+        {
+          "title": "Southern Plains into the Ozarks and Mid-South",
+          "text": "Water-vapor imagery shows an elongated, positively tilted mid-level trough centered over the eastern Great Basin/central Rockies. Of particular note, a mid-level vorticity maximum is indicated moving east from the OK-TX Panhandle region and embedded within a belt of slightly stronger 30-45 kt westerly flow. Radar/lightning data late this morning shows a few thunderstorm clusters over the Ozark Plateau along and north of a psuedo warm front/outflow boundary. This boundary has become quasi-stationary and is draped west to east from northeast OK across far northern AR east to the MS River. Surface streamline analysis indicates a 1007 mb low has begun to become better defined over north-central OK and this low will develop east along the boundary towards northwest AR by early evening. South of the composite outflow/warm front, a very moisture-rich airmass continues to heat/destabilize in eastern OK with surface temperatures and dewpoints in the mid 80s and mid 70s deg F, respectively. Model forecast soundings shows 1000-2000 J/kg MLCAPE over western and northern TX to upwards of 3000 J/kg over eastern OK. The latest model guidance shows sufficiently enlarged hodographs (150-250 m2/s2 e"
+        },
+        {
+          "title": "Mid-Atlantic",
+          "text": "Downstream of a broad/weak mid-level trough over the eastern CONUS, scattered thunderstorms should develop by early to mid afternoon within a moist/weakly unstable airmass. Around 20-25 kt of deep-layer shear may support loosely organized clusters with a risk of locally damaging winds before this activity weakens this evening."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2025,
+      "number": 2123,
+      "issue_utc": "2025-09-23T18:31Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md2123.html",
+      "summary": "Severe thunderstorm development is expected by mid to late afternoon across eastern Oklahoma into western Arkansas. Supercells posing a risk for a few tornadoes (one or two may be strong), large hail (up to 2 inch diameter) and damaging gusts to 70 mph are expected. Severe storms may also develop toward the Red River/far North Texas by early evening. One or more severe thunderstorm/tornado watches will likely be needed by 20-21z.",
+      "discussion": "At 18z, a surface low/cold front was located across central OK, and an outflow boundary extends west to east over extreme northeast OK/northwest AR. To the east and south of these features, pockets of clear to partly cloudy skies have allowed for strong surface heating and temperatures have climbed into the upper 80s to low 90s amid 68-76 F dewpoints. This is supporting a corridor of moderate instability (1500-2500 J/kg MLCAPE) across the region. Inhibition is also rapidly eroding, and visible satellite indicates increasing cumulus. Midlevel convection also has been increasing/deepening closer to the surface front, suggesting convection will likely increase in coverage/intensity over the next couple of hours. Wind profile data from the KINX VWP shows curved low-level hodographs, becoming elongated/straight aloft. As the surface low continues to develop east/northeast through the afternoon, low-level SRH is expected to increase, and likely become maximized within the surface outflow vicinity where backed low-level winds are noted. Tornado potential will be maximized within a a corridor near/north of I-40 across northeast OK/northwest AR. A tornado watch is likely for this area. Further south, vertical shear is expected to be weaker/less favorable but damaging gusts and large hail will still be possible as convection develop southward along the front toward the Red River, and a severe thunderstorm watch will likely be needed south of the tornado watch across southeast OK/southwest AR, and possibly far North Texas."
+    },
+    {
+      "year": 2025,
+      "number": 2124,
+      "issue_utc": "2025-09-23T20:40Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md2124.html",
+      "summary": "Large hail and severe gusts will be possible in parts of North Texas. A watch is not currently anticipated, but convective trends will be monitored for the possibility of a watch.",
+      "discussion": "South of the upper-level trough, forcing for ascent is weak. Even so, strong heating (temperatures near 100 F) have promoted deepening cumulus within a prefrontal confluence band as well as near a weak cold front/surface trough farther west. Given observational trends, it appears probable that a few storms are possible this afternoon. Coverage over the next two hours is not certain. It may take the front moving southward to provide enough lift for additional storms. A very moist airmass (upper 60s to low 70s dewpoints), moderately steep mid-level lapse rates sampled by the 12Z FWD sounding and recent TAMDAR soundings, and around 30 kts of effective shear suggests large hail would be possible. Severe gusts could also occur given steep low-level lapse rates. Limited coverage of storms may ultimately preclude a watch, but convective trends near the DFW metro will be monitored into the evening."
+    },
+    {
+      "year": 2025,
+      "number": 2125,
+      "issue_utc": "2025-09-23T22:30Z",
+      "topic": "Tornado Watch 618",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md2125.html",
+      "summary": "Strong to severe thunderstorm development posing a risk for severe hail and wind may continue to increase through 7-8 PM CDT across parts of west central Arkansas into southeastern Oklahoma. A tornado or two also appears possible, mainly near and east of the Fort Smith vicinity.",
+      "discussion": "Strongest thunderstorm development has been focused north through northeast of Fort Smith AR, along the trailing flank of a stalled outflow boundary across northern Arkansas. This likely is being aided by forcing for ascent associated with low-level warm advection, along a 20-30 kt southwesterly 850 mb jet axis. More recent, intensifying thunderstorm development is ongoing along a trailing pre-cold frontal low-level confluence axis, southwestward across the Poteau/McAlester OK into the Red River vicinity near Sherman TX. Aided by inflow of seasonably high moisture content characterized by sizable CAPE, further intensification appears possible into the 00-01Z time frame, as lift continues to overcome inhibition. This may include increasing potential for severe hail and locally damaging wind gusts. Tornadic potential is becoming a bit more unclear, as the stronger 850 jet is forecast to gradually shift north-northeastward to the cool side of the outflow boundary. However, the most favorable hodographs probably will remain focused in the vicinity of the boundary intersection, near and east of Fort Smith. ..Kerr.. 09/23/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 2126,
+      "issue_utc": "2025-09-24T07:24Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md2126.html",
+      "summary": "An isolated large hail and strong gust threat is possible with sporadic intensification and weakening of individual storm cells across southern Arkansas through the pre-dawn hours.",
+      "discussion": "Embedded within a broader swath of mainly weak convective and stratiform elements, one cell briefly intensified across southwest AR. Before pulsing down again, it did contain a robust MRMS MESH signature, hail spike, and CC min indicative of a large hail core in the mid levels. Stratiform immediately ahead of this cell has diminished, which may support another round or two of reintensification of this cell or other nearby updrafts over the next 2-3 hours. Background environment is characterized by very high PW values of 2-2.25 inches per GPS PW data, amid weak, moist-adiabatic tropospheric lapse rates. In addition, RAP forecast soundings appear to be slightly too strong with 6-9 km AGL winds per area VWP data. As such, large hail cores should struggle to be sustained, with peak sizes likely remaining in the quarter to golf ball range. Locally strong gusts, amid otherwise background light surface winds, are possible in collapsing cores."
+    },
+    {
+      "year": 2025,
+      "number": 2127,
+      "issue_utc": "2025-09-24T08:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md2127.html",
+      "summary": "A short-duration severe wind/hail threat remains possible during the pre-dawn hours across the Concho Valley.",
+      "discussion": "Merging cells fostered upscale growth into an elevated QLCS, with the southern portion showing a recent uptick in intensity. West-TX Mesonet gusts had been sub-severe (up to 50 mph) but not optimally located until it reached Sterling City where a 78 mph gust was recorded. This recent uptick may be related to the merging of eastward-moving convective outflow with a prior west-southwestward gravity wave evident in IR imagery after the collapse of central TX convection earlier this morning. MPAS-NSSL/GSL CAMs appear to have handled the intensification scenario well, but both suggest it will be short-lived. Convection should remain divorced from larger buoyancy across south/east TX and southwesterly winds at 1-km AGL are expected to become veered through sunrise with weakening low-level ascent."
+    }
+  ]
+}

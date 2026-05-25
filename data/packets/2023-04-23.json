@@ -1,0 +1,65 @@
+{
+  "convective_day": "2023-04-23",
+  "valid_start": "2023-04-23T12:00Z",
+  "valid_end": "2023-04-24T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2023-04-23",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-04-23T13:00Z",
+      "valid_end": "2023-04-24T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230423_1300.html",
+      "summary": "Severe wind gusts (some potentially exceeding 70 mph), large to very large hail, and a tornado or two are possible over south Texas into early/mid afternoon.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "The mid/upper-level pattern across the CONUS will continue to be dominated by a large, complex cyclone covering much of the Great Lakes, Ohio Valley, Upper Midwest, and ON. A weaker, but longer-lived circulation/vorticity center now moving northward from lake Huron is progged to move northward over Hudson Bay by the end of the period. Meanwhile, another low -- evident in moisture- channel imagery over ON just north of the MN border -- should meander erratically near its current position through tomorrow morning. These processes will maintain a broad swath of cyclonic flow from the Rockies across much of the Great Plains, Mississippi Valley and eastern CONUS. The most prominent embedded shortwave troughs -- initially over the lower Ohio Valley and lower Missouri Valley -- will pivot across the northern Appalachians and Ohio Valley, respectively. As that occurs, a surface occluded front -- analyzed at 11Z along the longitude of the Hudson Valley in NY -- will move slowly eastward over parts of New England, preceded by isolated thunderstorm potential in the elevated warm-advection conveyor. An offshore/triple-point low -- initially south of Long Island, will move eastward, with the tr"
+        },
+        {
+          "title": "South TX",
+          "text": "See SPC severe thunderstorm watch 164 and related mesoscale discussions for near-term guidance on convection organizing over south TX. An initially broken band of multicells and supercells between VCT, SAT and Maverick County is expected to expand and intensify through midday into a well-developed, bowing MCS, proceeding eastward to southeastward through downshear parts of south TX. Any sustained supercells in the meantime will pose a threat for large (perhaps significant/destructive) hail, severe gusts and a tornado or two. The major threat will become severe wind with time. Significant-severe (65+ kt) gusts may develop as the activity approaches the lower/middle TX Coast below VCT, and areas from Padre Island to the lower Rio Grande Valley. Forced ascent along the leading edge of the complex should encounter a favorably buoyant inflow environment mainly along and south of the quasistationary/marine front, with isolated large hail or strong- severe gusts possible north of the boundary. To its southeast, further low-level destabilization should occur in the lower Valley and near-coastal warm sector from diurnal heating. Accordingly modified RAOBs and forecast soundings show that th"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-04-23",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-04-23T16:30Z",
+      "valid_end": "2023-04-24T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230423_1630.html",
+      "summary": "The threat of damaging winds and large hail will continue over Deep South Texas through mid-afternoon.",
+      "sections": [
+        {
+          "title": "Deep South TX",
+          "text": "A long-lived linear MCS continues to progress southeastward across south TX this morning, with several reports of strong to severe wind gusts along the leading edge. Ample low level moisture and CAPE will allow these storms to persist through the day and eventually move off the south TX coast by mid/late afternoon - ending the threat. Refer to MCD #607 for further details. ..Hart/Wendt.. 04/23/2023"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2023,
+      "number": 607,
+      "issue_utc": "2023-04-23T14:59Z",
+      "topic": "Severe Thunderstorm Watch 164",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0607.html",
+      "summary": "The threat for damaging gust and large hail continues across south TX.",
+      "discussion": "Cluster of severe thunderstorms, anchored by the supercell moving through Webb County TX, continues to move southward across south TX. This cluster appeared to be elevated early this morning, but recent radar trends and observed gusts suggest that a transition to surface based is underway. A 47 kt gust was recently observed at LRD. The downstream air mass is moist and unstable, and the expectation is for this cluster to persist as it continues southward through Deep South TX. Strong outflow associated with this cluster will continue to pose a risk for damaging gusts, while large hail will remain possible as well. ..Mosier.. 04/23/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 608,
+      "issue_utc": "2023-04-23T17:55Z",
+      "topic": "Severe Thunderstorm Watch 164",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0608.html",
+      "summary": "Threat for strong to severe gusts will continue across the Lower Rio Grande Valley.",
+      "discussion": "An organized line of thunderstorms continues to push southward across Deep South TX at around 40 kt. This line has produced numerous strong to severe gusts over the last 2 hours. Time series of the CRP VAD shows a portion of rear-inflow jet that accompanies this line. The downstream air mass remains warm, moist, and unstable, with temperatures in the low 80s, dewpoints in the low/mid 70s, and MLCAPE over 2000 J/kg. Southerly winds ahead of the front are gusting 30 to 35 kt, with strong convergence ongoing along the storm outflow. The threat for severe winds gusts will continue over the next hour to hour and a half as the line moves through the Lower Rio Grande Valley. ..Mosier.. 04/23/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

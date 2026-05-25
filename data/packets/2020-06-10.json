@@ -1,0 +1,200 @@
+{
+  "convective_day": "2020-06-10",
+  "valid_start": "2020-06-10T12:00Z",
+  "valid_end": "2020-06-11T12:00Z",
+  "max_risk": "MDT",
+  "product_counts": {
+    "MDT": 4,
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-06-10",
+      "hhmm": "1200",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2020-06-10T12:00Z",
+      "valid_end": "2020-06-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200610_1200.html",
+      "summary": "Widespread severe thunderstorms are expected across portions of the Ohio Valley and lower Michigan region. Severe, damaging wind gusts are the main threat, though a few tornadoes and some hail threat are also possible.",
+      "sections": [
+        {
+          "title": "Lower Michigan/Ohio Valley",
+          "text": "Early this morning, water-vapor imagery depicted a strong upper low over northeastern KS, shifting east-northeast in line with late-evening model guidance. This feature is forecast to eject across the mid MS Valley during the day and become negatively tilted as strongest 500mb flow rotates through the base of the trough into the downstream position over central IL by 18z, then southern lower MI by 11/00z. At 0530z, remnants of Cristobal are lifting quickly north across the upper Great Lakes and it appears the wavelength between these two features is sufficient for modest boundary-layer heating ahead of the front, especially across IN into southern lower MI by 18z. Forecast soundings suggest surface temperatures will warm into the mid 80s by early afternoon as substantial mid-level drying should overspread this region allowing for partial sunshine. There is increasing confidence that scattered convection will initiate along/ahead of the cold front between 18-20z. While low-level SRH is not particularly high, it appears a mixed storm mode will evolve with supercells, short-line segments, and clusters ultimately maturing ahead of the short wave. Latest guidance indicates 12hr mid-leve"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-06-10",
+      "hhmm": "1300",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2020-06-10T13:00Z",
+      "valid_end": "2020-06-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200610_1300.html",
+      "summary": "Widespread severe thunderstorms are expected across portions of the Midwest and Ohio Valley today and tonight. Damaging thunderstorm wind gusts are the main threat, although a few tornadoes and severe hail are also possible.",
+      "sections": [
+        {
+          "title": "Midwest/Great Lakes/Ohio Valley",
+          "text": "No major changes to the prior outlook and associated reasoning with this update cycle (13z). A regional outbreak of severe thunderstorms, primarily in the form of widespread damaging winds, are expected across Lower Michigan and eastern Indiana into Ohio mainly this afternoon and evening. Morning water vapor imagery features a relatively compact mid-level shortwave trough centered near the Kansas City area in the predawn hours. As it ejects northeastward and takes on a negative tilt, this shortwave trough will increasingly phase with the remnants of Cristobal and a broad trough over northern Ontario/Lake Superior vicinity. The now extratropical remnants of Cristobal have contributed to a very moist air mass across the region, with lower 70s F surface dewpoints prevalent (as far north as northern Lower Michigan) to the east of an east-northeastward moving cold front. This advancing cold front will spread across Lower Michigan/Indiana and western Ohio/east-central Kentucky through peak heating/early evening. Mid-level height falls between 120-150m will overspread the region and large-scale forcing for ascent will encourage an upward-evolving pre-frontal convective corridor. Moderate "
+        },
+        {
+          "title": "Northeast States/north-central Appalachians",
+          "text": "A lead/weak belt of ascent and strong heating across the region will contribute to scattered thunderstorm development by early afternoon well ahead of the upstream upper trough and synoptic cold front. This activity will not be robustly forced, but moderate destabilization in the presence of 30-40 kt effective shear, which will be maximized across Pennsylvania and northern Maryland/southern New York, will allow for some risk for storms capable of isolated severe wind and possibly some hail."
+        },
+        {
+          "title": "Tennessee Valley/southern Appalachians/Deep South",
+          "text": "Multiple bands of showers and thunderstorms will occur in areas along and east of the east/southeastward-advancing cold front today. An intensification of storms is probable into the afternoon as the very moist air mass preceding the front diurnal destabilizes, particularly if cloud breaks become more prevalent. Only modest deep-layer shear (25-35 kt) will exist over the region, relatively strongest over the Tennessee Valley where a few supercells could occur. That said, multicells will be most common across the region with isolated damaging winds the most probable severe risk. Severe hail potential will tend to be limited by aforementioned modest deep-layer shear and weak mid-level lapse rates. ..Guyer/Leitman.. 06/10/2020"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-06-10",
+      "hhmm": "1630",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2020-06-10T16:30Z",
+      "valid_end": "2020-06-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200610_1630.html",
+      "summary": "Widespread severe thunderstorms are expected across portions of the Midwest and Ohio Valley today and tonight. Damaging thunderstorm wind gusts are the main threat, although a few tornadoes and severe hail are also possible.",
+      "sections": [
+        {
+          "title": "Great Lakes/OH Valley through this evening",
+          "text": "Thunderstorm development is already underway over southwest Lower MI with clusters/embedded bowing segments likely to persist through the afternoon as the storms spread northeastward. Farther south, thunderstorm development is also underway along the initial wind shift/convergence boundary across IN, in advance of the midlevel trough moving from MO to IL. A very moist boundary layer (dewpoints in the low 70s) is present east of the boundary, where surface temperatures are warming well into the 80s as of midday, which is resulting in MLCAPE greater than 2000 J/kg with very little convective inhibition. Storm coverage/intensity will increase through the afternoon across IN/OH and Lower MI in advance of the ejecting midlevel trough and surface boundary, and storm development southward into KY is also expected. Deep-layer vertical shear is favorable for both supercells and bowing segments, given effective bulk shear of 40-50 kt. Hodographs are relatively long but straight, with modest low-level shear. Therefore, fairly widespread damaging winds will be the main threat, though a couple of tornadoes and isolated large hail will also be possible. Convection is expected to evolve into more"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-06-10",
+      "hhmm": "2000",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2020-06-10T20:00Z",
+      "valid_end": "2020-06-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200610_2000.html",
+      "summary": "Widespread severe thunderstorms will continue across portions of the Midwest and Ohio Valley today and tonight. Damaging thunderstorm wind gusts remain the primary threat, although a few tornadoes and severe hail are also possible.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Aside from line tweaks to adjust the western fringe of the risk areas based on current convective progression, no changes to the outlook appear necessary, as prior reasoning appears to accurately reflect anticipated evolution of the risk. Strong/damaging winds will continue from parts of southeastern Lower Michigan southward to Kentucky, with less widespread severe risk as far east as Pennsylvania and New York this afternoon and evening -- and possibly into the overnight hours. ..Goss.. 06/10/2020 .PREV DISCUSSION... /ISSUED 1128 AM CDT Wed Jun 10 2020/"
+        },
+        {
+          "title": "Great Lakes/OH Valley through this evening",
+          "text": "Thunderstorm development is already underway over southwest Lower MI with clusters/embedded bowing segments likely to persist through the afternoon as the storms spread northeastward. Farther south, thunderstorm development is also underway along the initial wind shift/convergence boundary across IN, in advance of the midlevel trough moving from MO to IL. A very moist boundary layer (dewpoints in the low 70s) is present east of the boundary, where surface temperatures are warming well into the 80s as of midday, which is resulting in MLCAPE greater than 2000 J/kg with very little convective inhibition. Storm coverage/intensity will increase through the afternoon across IN/OH and Lower MI in advance of the ejecting midlevel trough and surface boundary, and storm development southward into KY is also expected. Deep-layer vertical shear is favorable for both supercells and bowing segments, given effective bulk shear of 40-50 kt. Hodographs are relatively long but straight, with modest low-level shear. Therefore, fairly widespread damaging winds will be the main threat, though a couple of tornadoes and isolated large hail will also be possible. Convection is expected to evolve into more"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-06-11",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-06-11T01:00Z",
+      "valid_end": "2020-06-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200611_0100.html",
+      "summary": "Severe thunderstorms will spread across portions of the upper Ohio Valley this evening. Damaging thunderstorm wind gusts remain the primary threat.",
+      "sections": [
+        {
+          "title": "Upper OH Valley",
+          "text": "Strong upper low has ejected into southern lower MI this evening and large-scale forcing for ascent is now spreading north of the international border, and east across the upper OH Valley. Squall line that developed in response to this forcing has progressed across all but eastern OH. 00z sounding at PIT was notably unstable with steep low-level lapse rates. Given the air mass observed immediately downstream, this well-developed MCS will continue to surge east and should remain organized and severe through at least the western portions of PA, and perhaps into western NY. Have adjusted 30 percent wind probs a bit downstream to account for this scenario. Farther east across central PA into the Hudson Valley region, earlier convection has stabilized the air mass considerably. Outflow has surged into western PA and this may influence the squall line as it spreads east of the Pittsburgh area. Will maintain SLGT Risk across this region due to strengthening shear and some uncertainty regarding the squall line interaction with cooler boundary layer. ..Darrow.. 06/11/2020"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 895,
+      "issue_utc": "2020-06-10T13:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0895.html",
+      "summary": "Storms will gradually intensify this morning and likely require a severe thunderstorm watch issuance by 11am-12pm EDT. Max thunderstorm gust potential will initially range 45-60 mph but strengthen into the 50-70 mph range towards midday as both the magnitude/coverage of damaging gusts increases.",
+      "discussion": "Radar mosaic shows a developing band of storms from east-central IL to the Chicago south side with another cluster of storms developing over northwest IN expected to move into southwest Lower MI during the next 1-2 hours. Visible-satellite imagery shows cloud streets across northern IN into southern Lower MI, indicative of a very moist boundary layer. Specifically regarding moisture, the 6am EDT Detroit, MI observed sounding showed a 16.3 g/kg lowest 100mb mean mixing ratio, a climatological maximum through June 15th during the period of record (since 1949). Pockets of strong heating per cloud breaks will contribute to a moderately unstable airmass by mid-late morning with little to any remaining convective inhibition as temperatures warm into the low-mid 80s. KIWX and KGRR show 30-40 kt in the 1-2 km AGL layer with 50 kt around 3km AGL at KGRR. As the mid-level migratory shortwave trough approaches the Great Lakes from MO today, additional storm development/strengthening is expected. As a result, damaging gusts will become more common as bands of storms intensify through the late morning and into the early afternoon. A tornado or two cannot be ruled out given the moist boundary layer and adequate speed shear in the lowest 1-2 km, but the general unidirectional southerly wind profile will tend to favor damaging gusts as the primary severe hazard."
+    },
+    {
+      "year": 2020,
+      "number": 896,
+      "issue_utc": "2020-06-10T15:22Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0896.html",
+      "summary": "Thunderstorms will likely initiate along the surface trough over southwest and west-central IN prior to 12pm EDT. Storms will develop/intensify as they move northeast during the early afternoon as they organize into clusters/bands of storms. Damaging gusts primarily in the 55-75 mph range are expected.",
+      "discussion": "Visible-satellite imagery shows towering cumulus from near Evansville north to Greencastle, IN along the wind shift boundary. Surface observations over IN have warmed into the mid 80s with dewpoints generally in the 73-74 deg F range (per reliable ASOS compared to AWOS showing artificially too high dewpoints 77-79 deg F). These surface conditions input into the 8am EDT Wilmington, OH observed sounding, are yielding around 3000 J/kg SBCAPE. KIND VAD shows around 50-55 kt in the 2-3 km AGL layer. Once storms develop and mature, water-loading and momentum transfer will favor damaging gusts with maximum wind speeds generally in the 55-75 mph range with the stronger downdrafts. The greatest coverage of severe gusts will likely focus in eastern IN/western OH where peak storm maturity, in the form of small bowing segments/cluster, is expected this afternoon."
+    },
+    {
+      "year": 2020,
+      "number": 897,
+      "issue_utc": "2020-06-10T16:17Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0897.html",
+      "summary": "A severe-wind bowing segment near Grand Rapids is projected to move into northern Lower MI and beyond severe thunderstorm watch 274 by 130pm EDT. A new severe thunderstorm watch will be needed from near Saginaw Bay northward encompassing much of northern Lower MI. A severe thunderstorm watch will also be needed for southeast Lower MI and may be issued in coordination with the Alpena and Detroit NWS Forecast Offices.",
+      "discussion": "Radar imagery from KGRR shows a severe bowing segment moving northeast at 60 mph. The Holland, MI ASOS (KBIV) observed a 63 kt gust at 1145am EDT with passage of this bow. The bowing segment and a cluster farther east near Lansing are projected to move east/north of the severe thunderstorm watch 274 by 130pm EDT. The airmass downstream of these storms over central and northern Lower MI has destabilized with surface temperatures in the upper 80s with dewpoints in the upper 60s to lower 70s deg F. RAP forecast soundings show 2000-2500 J/kg with 45 kt effective shear. The near-storm environment will continue to favor severe clusters capable of damaging gusts (55-75 mph), which will result in swaths of scattered to widespread wind damage."
+    },
+    {
+      "year": 2020,
+      "number": 898,
+      "issue_utc": "2020-06-10T17:39Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0898.html",
+      "summary": "Localized damaging gusts (50-60 mph) and transient low-level rotation are possible with the stronger storms this afternoon.",
+      "discussion": "Visible-satellite imagery shows a towering cumulus field evolving into a cellular band of storms over central PA. The airmass over central and eastern PA has destabilized with surface temperatures rising into the upper 80s with dewpoints in the lower 70s. Water-vapor imagery shows a mid-level ridge moving east over the Gulf Stream with a mid-level trough over the middle MS Valley. Modest southwesterly mid-level flow around 25 kt has been sampled by KCCX. Despite the lack of appreciable large-scale forcing for ascent due primarily to the displacement of the mid-level trough to the west, it appears storms are developing preferentially over the higher terrain in the eastern WV Panhandle north-northeast. Forecast soundings show appreciable low-level hodographs with 25-30 kt effective shear. The instability/shear will likely favor some storm organization in the form of strong to severe multicells and perhaps transient supercell structure with weak/intermittent low-level rotation with the strongest storm or two. Damaging gusts (50-60 mph), marginally severe hail, and perhaps a brief tornado are possible with the more intense thunderstorms."
+    },
+    {
+      "year": 2020,
+      "number": 899,
+      "issue_utc": "2020-06-10T17:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0899.html",
+      "summary": "A new Severe Thunderstorm Watch downstream of WW275 will likely be issued within the next hour. Severe thunderstorms capable of damaging wind gusts, isolated large hail, and a tornado or two will be likely through this afternoon.",
+      "discussion": "A broken line of thunderstorms over central Indiana has produced several reports of damaging winds over the last few hours. These storms are ongoing in a very moist environment (surface dewpoints in the low to mid 70s F) ahead of a pressure trough/wind shift emanating from a 983 mb cyclone over southern Ontario. 1500-2000 J/kg of MLCAPE, and 35-45 kt of effective shear as sampled by SPC mesoanalysis will support robust organized updrafts in the form of small bowing segments and supercells. Damaging winds will primarily be the main threat with the increase in storm coverage and interactions favoring strong downdrafts. However, the magnitude of instability/buoyancy will support some risk for isolated large hail with the strongest updrafts. Hodographs are expected to be relatively long but low-level flow is expected veer with time supporting the threat for one or two tornadoes given 0-1 km shear of 15-20 kt. A new Severe thunderstorm Watch will be needed within the next hour."
+    },
+    {
+      "year": 2020,
+      "number": 900,
+      "issue_utc": "2020-06-10T19:03Z",
+      "topic": "Severe Thunderstorm Watch 274",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0900.html",
+      "summary": "Numerous thunderstorms have coalesced into a loosely organized squall line across portions of northeast Indiana and southeast Lower Michigan. A focused corridor for damaging wind gusts may develop as storms intensify from Kalamazoo, east-northeast toward Detroit.",
+      "discussion": "A line of quasi discrete supercells have begun merging into a more linear organization across portions of northeast Indiana and southern half of Lower Michigan over the last hour. Several reports of wind damage have been received as outflow has become more coherent and better organized. The diagonal NE/SW orientation of the convective line lies along a corridor of backed mid and upper-level flow observed from the 18z Detroit special sounding. The orientation of the upper-level flow will likely support continued downdraft development and outflow aggregations given seeding from anvil precipitation being advected over downstream convection across portions of far northeast Indiana into southeast Lower Michigan. The main threat with storms will be damaging winds given 1200-1400 J/kg of DCAPE and strong mid-level flow of 50 to 60 kt. Large hail will be possible given MLCAPE of 1000-1500 J/kg supporting robust deep updrafts. However, the risk appears limited due to weaker lapse rates of 6 to 7 C/km and the predominately linear storm mode. The most favored corridor for severe wind will be with the stronger cells merging into southern Michigan toward Detroit. A few significant wind gusts will be possible with any stronger bowing structures that can develop."
+    },
+    {
+      "year": 2020,
+      "number": 901,
+      "issue_utc": "2020-06-10T21:02Z",
+      "topic": "Severe Thunderstorm Watch 275",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0901.html",
+      "summary": "A cluster of stronger storms including intermittent supercell structures will pose a threat for strong wind gusts and isolated large hail across northwestern portions of WW277. Across the rest of the watch, isolated severe weather remains possible.",
+      "discussion": "Thunderstorms continue to organize posing a threat for severe winds and isolated large hail across WW277. These storms are ongoing in a very warm and moist environment characterized by surface temperatures and dewpoints in the upper 80s to near 90 and low to mid-70s F respectively. Aloft, warmer temperatures have limited lapse rates to around 6.5 to 7.5 C/km. While modest, the lapse rates and high boundary-layer moisture are maintaining MLCAPE of 1500-2000 J/kg. Wind profiles from the KILN VAD show mostly unidirectional hodographs with limited shear above 6 km. The combination of shear and buoyancy should continue to support organized storms in the form of upscale growing clusters and intermittent supercells. The main threat is expected to be damaging winds given DCAPE values over 1000 J/kg. The moderate buoyancy may support isolated large hail, but competing updrafts, and warm 500 mb temps near -7 c should keep the threat secondary. A cluster of storms across portions of Auglaize, Shelby, and Logan counties will likely pose the most significant threat for damaging winds over the next few hours. Storms are forecast to continue growing upscale into a squall line through this evening with continued potential for damaging winds downstream."
+    },
+    {
+      "year": 2020,
+      "number": 902,
+      "issue_utc": "2020-06-10T22:23Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0902.html",
+      "summary": "Storms are developing just south/east of WW278 with a couple of weaker supercells in far western Virginia/vicinity. All severe threats are possible, but given the relatively isolated and marginal nature of the severe threat, a watch issuance is unlikely.",
+      "discussion": "Storms are developing ahead of a surface cold front and near a pre-frontal trough pushing through the Ohio and Tennessee Valleys towards the Appalachians. A few weaker supercells developed in far western Virginia/vicinity with some lower-end VROT values (15-20 knots) where surface winds have backed to the southeast. An isolated and relatively confined/marginal tornado threat exists in this area and immediately downstream. Marginally severe hail/wind are also possible with these storms. Farther west, storms are beginning to develop ahead of the surface cold front near a pre-frontal trough in Middle/eastern Tennessee. These storms may become capable of marginally severe wind/hail with effective bulk shear of 30-35 knots and MLCAPE of 1000-1500+ J/kg. Storms are likely to continue moving eastward and may continue over the Appalachians or with new development along/east across western North Carolina/Virginia."
+    },
+    {
+      "year": 2020,
+      "number": 903,
+      "issue_utc": "2020-06-10T22:35Z",
+      "topic": "Severe Thunderstorm Watch 277",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0903.html",
+      "summary": "An evolving squall line will overspread much of the region, including much of the Greater Cleveland area by 8-9 PM EDT, and perhaps Greater Pittsburgh by 9-11 PM EDT, accompanied by the risk for potentially damaging wind gusts. A new severe weather watch will probably be issued shortly.",
+      "discussion": "A narrow broken pre-frontal squall line continues to evolve, aided by inflow of seasonably moist boundary layer air characterized by CAPE in excess of 2000 J/kg. The line appears largely parallel to the 50-60 kt cyclonic, south-southwesterly deep-layer ambient mean flow, but given the strength of the slow, potential for severe gusts probably will continue in northeastward surging segments into the 01-03Z time frame. The line of storms appears to be in the process of continuing to fill in along the leading edge of consolidating cold pools, which appears to be propagating eastward at 30-35 kt. At this pace, activity should overspread much of the remainder of eastern Ohio, southern Lake Erie, portions of northwestern West Virginia, western Ohio and southwestern New York by 01-03Z ..Kerr.. 06/10/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 904,
+      "issue_utc": "2020-06-10T23:45Z",
+      "topic": "Severe Thunderstorm Watch 278",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0904.html",
+      "summary": "A broken line of storms continues to move east-northeast across eastern Kentucky. Marginally severe hail/wind are the main threats with these storms and they are likely to move outside the watch in the next 1-2 hours. A watch extension of WW278 and WW279 may be necessary.",
+      "discussion": "Cell motions are to the northeast with the line moving more east-northeast across eastern Kentucky along/ahead of a pre-frontal trough extending north-south across the Great Lakes/Ohio Valley. As the upper-level shortwave trough begins to pivot more to the northeast over the southern Great Lakes, the stronger flow/forcing for ascent will begin to lift northeast as well. However, strong enough flow remains to support 30-40 knots of effective bulk shear, and heights are continuing to fall along/just ahead of the current line of storms. The cold pool is weaker across this southern part of the line than farther north across Ohio, also indicating lower-end severe potential. Insolation and surface dewpoints in the low 70s F have resulted in MLCAPE of 1000-2000 J/kg and while longer term trends are working against severe potential, marginally severe storms could continue across this area for the next 1-3 hours. Given this temporal/spatial window, a local watch extension to WW278 and WW279 may be necessary, but the bulk of the storms should move into the current configuration of WW279."
+    },
+    {
+      "year": 2020,
+      "number": 905,
+      "issue_utc": "2020-06-11T01:03Z",
+      "topic": "Severe Thunderstorm Watch 279",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0905.html",
+      "summary": "Squall line progressing across the region may continue to pose a risk for damaging wind gusts another couple of hours, into 10-11 PM EDT time frame, before tending to weaken.",
+      "discussion": "The pre-frontal squall line has filled in over the past couple of hours, with a number of embedded bow/lewp radar reflectivity structures. Although activity has been generally maintaining strength, the boundary layer air mass ahead it is beginning to become less unstable with the onset of diurnal cooling. With the primary supporting short wave impulse tending to accelerate north-northeastward through lower Michigan, weakening trends could be fairly rapid as the convection begins to process more stable air. However, until this occurs, stronger convection may continue to pose a risk for potentially damaging wind gusts, and this includes the portion of the line which could impact the Greater Pittsburgh metro area by around 02Z. ..Kerr.. 06/11/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "convective_day": "2021-07-13",
+  "valid_start": "2021-07-13T12:00Z",
+  "valid_end": "2021-07-14T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-07-13",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-07-13T16:30Z",
+      "valid_end": "2021-07-14T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210713_1630.html",
+      "summary": "Thunderstorms capable of severe wind and hail are possible late this afternoon into the evening from southern Montana across northern and eastern Wyoming and the Black Hills area of South Dakota. Activity may spread farther east through southern South Dakota and northern Nebraska into tonight. Thunderstorms capable of locally damaging wind and a brief tornado will also be possible this afternoon across a portion of the Northeast. Sporadic strong storms may occur over parts of the Southwest as well as the Florida Peninsula.",
+      "sections": [
+        {
+          "title": "Northern Rockies into the Central Plains",
+          "text": "Within an evolving easterly upslope-flow regime, low-level dewpoints from the upper 40s to mid 50s F will be maintained beneath steep lapse rates, supporting MLCAPE from 1000-1500 J/kg as the boundary layer destabilizes this afternoon. Forcing for ascent associated with a low-amplitude shortwave trough now moving through western MT will contribute to a favorable environment for storms to develop over the higher terrain of southern MT into northern WY, and this activity will intensify as it spreads east into the High Plains during the evening. Effective bulk shear from 45-50 kt will promote some supercells with initial development before activity evolves into an organized MCS farther east toward the High Plains this evening. Large hail and damaging wind including potential for some significant severe gusts will be the main threats."
+        },
+        {
+          "title": "Northeast States",
+          "text": "A warm front extends through eastern NY into Ontario, while a cold front stretches from a surface low near Lake Michigan southward through eastern IL. The most unstable portion of the warm sector is expected to evolve from PA through western and central NY where ample boundary layer heating is already occurring within a boundary layer characterized by dewpoints in the low 70s F. MLCAPE from 1500-2000 J/kg is likely in this corridor. Meanwhile the gradient between upper high pressure off the east coast and a shortwave trough moving northeast through the OH valley is resulting in a belt of moderate mid-level flow and up to 30-40 kt 0-6 km shear. This environment will support both multicells and possibly some supercell structures, evolving into lines/clusters with time as storms develop in the weakly capped warm sector. Isolated damaging wind and some hail will be the main threats, though a tornado or two are also possible, especially with storms interacting with warm front."
+        },
+        {
+          "title": "Florida",
+          "text": "Mid-level temperatures are warmer than yesterday. Nevertheless, moderate instability and a destabilizing boundary layer will support potential for a few strong wind gusts as storms develop along west and northwest-moving sea breeze boundaries."
+        },
+        {
+          "title": "Southwest States",
+          "text": "Similar to the last several days, a hot and relatively moist (dewpoints in the 50s F) boundary layer will result in sufficient instability for afternoon/evening thunderstorms from southern NV into central and southern AZ. The upper wind fields will be rather weak and erratic, but several CAM solutions indicate the potential for storms persisting into the evening and spreading into the lower deserts. This would promote a risk of locally damaging wind gusts. ..Dial/Karstens.. 07/13/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-07-13",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-07-13T20:00Z",
+      "valid_end": "2021-07-14T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210713_2000.html",
+      "summary": "Thunderstorms capable of severe wind and hail are possible late this afternoon into the evening from southern Montana across northern and eastern Wyoming and the Black Hills area of South Dakota. Activity may spread farther east through southern South Dakota and northern Nebraska into tonight. Thunderstorms capable of locally damaging wind and a brief tornado will also be possible this afternoon across a portion of the Northeast. Sporadic strong storms may occur over parts of the Southwest as well as the Florida Peninsula.",
+      "sections": [
+        {
+          "title": "DISCUSSION",
+          "text": "The first change to the outlook is to expand the enhanced risk area across parts of the central and northern High Plains. The HRRR suggests that a linear MCS will move quickly east-southeastward from northeast Wyoming into southwest South Dakota and northern Nebraska from late afternoon into the mid evening. Significant wind gusts in excess of 70 knots will be possible along the leading edge of the MCS. The second change to the outlook is to add a 2 percent tornado from far southeast Montana east-southeastward into the northern Nebraska, along the track of the MCS. Otherwise, small adjustments were made to the thunder and probability lines but none that where significant. ..Broyles.. 07/13/2021 .PREV DISCUSSION... /ISSUED 1126 AM CDT Tue Jul 13 2021/"
+        },
+        {
+          "title": "Northern Rockies into the Central Plains",
+          "text": "Within an evolving easterly upslope-flow regime, low-level dewpoints from the upper 40s to mid 50s F will be maintained beneath steep lapse rates, supporting MLCAPE from 1000-1500 J/kg as the boundary layer destabilizes this afternoon. Forcing for ascent associated with a low-amplitude shortwave trough now moving through western MT will contribute to a favorable environment for storms to develop over the higher terrain of southern MT into northern WY, and this activity will intensify as it spreads east into the High Plains during the evening. Effective bulk shear from 45-50 kt will promote some supercells with initial development before activity evolves into an organized MCS farther east toward the High Plains this evening. Large hail and damaging wind including potential for some significant severe gusts will be the main threats."
+        },
+        {
+          "title": "Northeast States",
+          "text": "A warm front extends through eastern NY into Ontario, while a cold front stretches from a surface low near Lake Michigan southward through eastern IL. The most unstable portion of the warm sector is expected to evolve from PA through western and central NY where ample boundary layer heating is already occurring within a boundary layer characterized by dewpoints in the low 70s F. MLCAPE from 1500-2000 J/kg is likely in this corridor. Meanwhile the gradient between upper high pressure off the east coast and a shortwave trough moving northeast through the OH valley is resulting in a belt of moderate mid-level flow and up to 30-40 kt 0-6 km shear. This environment will support both multicells and possibly some supercell structures, evolving into lines/clusters with time as storms develop in the weakly capped warm sector. Isolated damaging wind and some hail will be the main threats, though a tornado or two are also possible, especially with storms interacting with warm front."
+        },
+        {
+          "title": "Florida",
+          "text": "Mid-level temperatures are warmer than yesterday. Nevertheless, moderate instability and a destabilizing boundary layer will support potential for a few strong wind gusts as storms develop along west and northwest-moving sea breeze boundaries."
+        },
+        {
+          "title": "Southwest States",
+          "text": "Similar to the last several days, a hot and relatively moist (dewpoints in the 50s F) boundary layer will result in sufficient instability for afternoon/evening thunderstorms from southern NV into central and southern AZ. The upper wind fields will be rather weak and erratic, but several CAM solutions indicate the potential for storms persisting into the evening and spreading into the lower deserts. This would promote a risk of locally damaging wind gusts."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 1269,
+      "issue_utc": "2021-07-13T16:48Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1269.html",
+      "summary": "Scattered storms developing will pose a risk for damaging winds and severe hail this afternoon/evening. A severe thunderstorm watch will likely be issued in the next hour.",
+      "discussion": "Visible satellite shows morning clearing has given way to widespread cumulus development across the region. Surface temperatures have warmed into the low to mid 80s F amid rich low-level moisture characterized by dew point temperatures in the low to mid 70s F. This has led to rapid destabilization, with MLCAPE values of 1500 J/kg being analyzed across the region, and approaching 2000-2500 J/kg across portions of south-central Pennsylvania. Isolated storms are already beginning to develop, with a severe/maturing convective cell noted in central New York. This trend is expected to continue, with scattered storms expected across the region by early to mid afternoon. With effective bulk shear of 35-40 kt, storms should organize into a mixture of multicells and supercells, posing a risk for mainly damaging winds and some severe hail, and a tornado or two is possible. Given these trends, a severe thunderstorm watch will likely be needed for the region in the next hour or so."
+    },
+    {
+      "year": 2021,
+      "number": 1270,
+      "issue_utc": "2021-07-13T19:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1270.html",
+      "summary": "A few strong thunderstorms are possible this afternoon, with a threat of isolated hail and damaging wind gusts.",
+      "discussion": "At 1930Z, scattered thunderstorms are moving eastward off of the higher terrain of far southeast WY/north-central CO. Downstream, strong heating is occurring across the lower elevations, though some MLCIN remains per recent mesoanalyses. As heating and destabilization continue this afternoon, ongoing convection may intensify into northeast CO and the NE Panhandle, or else redevelop later this afternoon as MLCIN continues to erode. MLCAPE increasing into the 1000-1500 J/kg range combined with effective shear of 30-40 kt will support the potential for a loosely organized cluster or perhaps a supercell or two, with an attendant risk of large hail and locally severe wind gusts. At this time, coverage of the severe threat is expected to remain too isolated for watch issuance."
+    },
+    {
+      "year": 2021,
+      "number": 1271,
+      "issue_utc": "2021-07-13T20:07Z",
+      "topic": "Severe Thunderstorm Watch 375",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1271.html",
+      "summary": "The severe threat continues across WW 375, with damaging winds the main threat.",
+      "discussion": "Regional satellite/radar depicts a few isolated storms over portions of southern New York and vicinity. Updrafts have largely been transient thus far, likely due to modest mid-level lapse rates amid abundant shear. However, recent scans/imagery suggest the intensity of these storms may be increasing somewhat as low-level lapse rates over the region remain supportive for convective development amid a weak cap. Farther west, a cluster of severe storms has emerged across portions of western Pennsylvania, with several damaging wind reports. This band of convection appears to be associated with a mid-level short-wave evident at 700 mb. Short-term convection-allowing models suggest these storms should continue moving northeast into western portions of the watch area across northwest Pennsylvania and southwestern New York. Additional storm development is possible along the southern flank of the line as the mid-level wave and associated ascent progresses through the region for the remainder of the afternoon and evening. Damaging winds remain the primary hazard, but severe hail and a tornado or two are possible, particularly with any discrete/supercell modes that may emerge. ..Karstens.. 07/13/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1272,
+      "issue_utc": "2021-07-13T20:21Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1272.html",
+      "summary": "The severe thunderstorm threat will gradually increase this afternoon, with isolated severe wind and hail possible. A more substantial threat for damaging wind is expected to develop by early evening. Watch issuance is likely for parts of the area by 21-22Z.",
+      "discussion": "A well-defined midlevel shortwave trough is noted across northwest MT at 20Z, with increasing cumulus and lightning activity in advance of the shortwave across south-central MT and north-central WY. Convection is expected to increase in coverage and intensity this afternoon as it moves east-southeastward into an increasingly unstable environment. Effective shear of 40+ kt will support organized storm structures as convection matures, with organized clusters and perhaps a supercell or two possible by late afternoon, posing a threat of locally severe wind and hail. With time, convection is expected to evolve into a large cluster and perhaps a well-organized MCS by early evening, as outflows consolidate within an environment characterized by steep low/midlevel lapse rates. As this occurs, the threat for more widespread damaging wind will increase from northeast WY into the Black Hills region of SD and Sand Hills region of NE, with some gusts in excess of 65 kt possible. Severe Thunderstorm Watch issuance for portions of the area is likely by 21-22Z."
+    },
+    {
+      "year": 2021,
+      "number": 1273,
+      "issue_utc": "2021-07-13T22:44Z",
+      "topic": "Severe Thunderstorm Watch 375",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1273.html",
+      "summary": "A broken line of storms in western New York into central Pennsylvania will continue east into a better thermodynamic environment. Damaging winds will continue to be the main thereat into the early evening. A localized tornado threat exists from central Pennsylvania into south-central New York.",
+      "discussion": "A broken line of storms continues eastward from western New York into central Pennsylvania. The most organized portion of the line is now just west of State College, PA, and will move into a better thermodynamic environment in the next 1-2 hours. Damaging winds will continue to be the primary hazard with this line into the early evening. Discrete storms modes may produce marginally severe hail, but this will generally be limited by modest mid-level lapse rates. While the overall tornado threat is low, a modest increase in 850 mb winds late this afternoon and early evening will enlarge low-level hodographs in central Pennsylvania and central New York. With the approach of the mid-level shortwave trough, surface winds east of State College, PA, to west of Binghamton, NY, have backed over the last hour. So long as a few discrete elements remain in the broken line, the tornado threat -- though low -- would be maximized in this region through 8-9 PM EDT. ..Wendt.. 07/13/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1274,
+      "issue_utc": "2021-07-13T22:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1274.html",
+      "summary": "Isolated hail and damaging downbursts are possible over the next few hours.",
+      "discussion": "Scattered thunderstorms continue to develop within the warm and modestly moist air mass across the Southwest. Storm motion has been predominantly westward, with the exception of the storms near PRC, which moved eastward. This varying motion is evidence of the weakly sheared environment void of strong steering flow. Additionally, this weak vertical shear is also resulting in short updraft duration. New development will likely continue to occur on storm outflow, but the overall severe threat appears limited due to the weak vertical shear and relatively modest instability. Even so, a few strong updrafts are still possible, mostly as a result of storm mergers, with the potential to produce isolated hail and damaging downburst winds."
+    },
+    {
+      "year": 2021,
+      "number": 1275,
+      "issue_utc": "2021-07-13T23:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1275.html",
+      "summary": "Strong wind gusts are possible across southern NV and southwest UT over the next few hours.",
+      "discussion": "Convective cluster moving through northern Lincoln County NV has shown an increase in southward forward propagation over the last half hour. Modest instability exists downstream across southern NV and adjacent southwest UT, suggesting additional development is possible along this boundary. These additional storms will develop in an environment characterized by a deeply mixed boundary layer and modest mid-level moisture. These conditions are conducive for further outflow development, helping reinforce the southward surging cold pool already in place. As such, strong wind gusts are possible across southern NV and southwest UT over the next few hours."
+    },
+    {
+      "year": 2021,
+      "number": 1276,
+      "issue_utc": "2021-07-14T01:12Z",
+      "topic": "Severe Thunderstorm Watch 375",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1276.html",
+      "summary": "An organized line of convection will be capable of strong/damaging wind gusts for another hour or two before encountering stable air within the Adirondacks and Delaware River Valley. No additional watches are expected this evening.",
+      "discussion": "A line of thunderstorms across central New York into central Pennsylvania has become somewhat more organized within the last 1-2 hours as cold pools have congealed. This has allowed portions of the line to surge out, which is most evident in north-central Pennsylvania. Occasional wind damage has been reported with one measured gust on the NY Mesonet of 78 mph at the Penn Yan site at 8:40 PM EDT. There is a narrow corridor of remaining buoyant airmass ahead of the line. Strong/damaging winds remain possible likely for another hour or two, particularly with any more pronounced bowing segments. Storms moving into the Adirondacks and Delaware River Valley will encounter much more stable surface conditions. Storms will quickly weaken as that occurs. No additional watches are expected this evening. ..Wendt.. 07/14/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1277,
+      "issue_utc": "2021-07-14T01:35Z",
+      "topic": "Severe Thunderstorm Watch 376",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1277.html",
+      "summary": "Damaging wind gusts remain possible within Severe Thunderstorm Watch 376 over northeast/east-central WY, southwest SD, and the western NE Panhandle.",
+      "discussion": "Two distinct storm clusters have developed within Severe Thunderstorm Watch 376. The northernmost cluster is moving southeastward through northern Campbell and Crook Counties in northeast WY. Storms within this cluster have produced measured wind gusts of 62 and 72 mph. Downstream air mass into southwest SD is not overly buoyant but continued low-level southeasterly flow should provide some low-level moisture advection as well as increase convergence on the leading edge of the cold pool. These factors should allow the cluster to persist as it moves southeastward, with an attendant threat for damaging wind gusts. The southernmost cluster is moving into Converse County in east-central WY. Storms within this cluster have weakened over the past hour or so. However, buoyancy increases modestly downstream into more of southeast WY and adjacent western NE Panhandle. Like the areas farther north, some increase in low-level moisture is possible here as well, contributing to enough buoyancy for additional updrafts within this cluster. Damaging wind gusts remain possible with this cluster. ..Mosier.. 07/14/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1278,
+      "issue_utc": "2021-07-14T04:30Z",
+      "topic": "Severe Thunderstorm Watch 376",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1278.html",
+      "summary": "Strong to severe gusts are possible across far southeast WY, southwest SD, and the western NE Panhandle for the next hour or so. Isolated hail could also occur. The need for a downstream watch is uncertain, but trends are being monitored.",
+      "discussion": "Two distinct thunderstorms clusters continue to evolve eastward/southeastward into southwest SD and the western NE Panhandle. Northernmost cluster moving into southwest SD has recently shown some new updrafts on its southwestern flank over Weston County WY as well as a modest increase in the overall forward progression of the cluster. Storm motion of the cluster also appears to have taken a more southerly component. These trends will likely continue given the more buoyant air mass in place south of the evolving line. Strong to severe gusts have been measured within this line and the expectation is for the damaging wind threat to persist as it move southward/southeastward. Southernmost cluster has recently shown a marked increase in updraft strength, particularly across its central and southern region (over Sioux and Scotts Bluff Counties in NE and Goshen County in WY). This is likely a result of increasing buoyancy with southeastward extent. Forward speed within the line has not noticeably increased yet. However, given the noted updraft strengthening, an increase in forward progression is likely. Low-level stability may temper the wind gusts realized at the surface, but some strong to severe gusts are still possible. Given the nocturnal stabilization, the need for a downstream watch is currently uncertain. However, convective trends will be monitored closely for signs that coverage of severe gusts will be high enough to merit watch issuance. ..Mosier.. 07/14/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

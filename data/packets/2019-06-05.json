@@ -1,0 +1,243 @@
+{
+  "convective_day": "2019-06-05",
+  "valid_start": "2019-06-05T12:00Z",
+  "valid_end": "2019-06-06T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2019-06-05",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-06-05T16:30Z",
+      "valid_end": "2019-06-06T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190605_1630.html",
+      "summary": "The greatest potential for severe thunderstorms today is for damaging wind and hail over the Ohio and middle Mississippi Valleys.",
+      "sections": [
+        {
+          "title": "MO/IL/IN/OH",
+          "text": "Water vapor imagery shows an elongated shortwave trough extending across parts of WI/IA/NE. This feature will track southeastward today across the mid MS and OH Valleys, with an associated cold front also sagging through the region. A small area of intense storms is ongoing this morning over southeast IA. This activity is likely to become more widespread and intense by early afternoon and affect much of eastern MO and central IL - building eastward into central IN. A few severe storms are expected to develop along the boundary as far east as northern OH. Rich low-level moisture and ample CAPE are in place over this area, along with sufficient westerly flow aloft to organize storms into bowing structures. Damaging winds are the main threat, although the large CAPE will also support hail in any rotating cells. Have upgraded to ENH in the corridor of highest confidence of storms later today. It is unclear how long the activity can maintain high intensity, but at least isolated severe storms could track into parts of KY after dark."
+        },
+        {
+          "title": "GA/SC/NC/VA",
+          "text": "Another convectively aided shortwave trough is noted over eastern KY/TN. This feature will track across the mountains and into southern VA and the Carolinas this afternoon. A very moist and moderately unstable air mass is present over this region, with sufficient daytime heating to help initiate storms. 12z CAMs are consistent in developing multiple lines of storms across this area later today. Sufficient westerly flow aloft and degree of CAPE suggest a risk of damaging winds and hail with the activity. Organized and occasionally severe storms are possible as far south as eastern GA today."
+        },
+        {
+          "title": "West TX",
+          "text": "A persistent upper low over the southwest states will finally slowly eject eastward today. Clear skies to the east of the system over eastern NM and west TX will result in strong heating and rapid destabilization, despite a slightly drier boundary layer compared to recent days. Cooling mid level temperatures (500mb temperatures of -10C to -12C over west TX) will promote steepening mid-level lapse rates. Forecast soundings suggest sufficient shear for multicell and isolated supercell storms capable of hail and damaging winds. ..Hart/Wendt.. 06/05/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-06-05",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-06-05T20:00Z",
+      "valid_end": "2019-06-06T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190605_2000.html",
+      "summary": "The greatest potential for severe thunderstorms with damaging winds and large hail this afternoon and evening remains across parts of the Ohio and middle Mississippi Valleys. Other more isolated severe storms may occur across parts of the Mid Atlantic into the Carolinas, and across parts of west Texas.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "A small cluster of storms across central IN should continue south-southeastward this afternoon and evening. MLCAPE around 1500-2000 J/kg and 30-35 kt of effective bulk shear will likely support continued organization of these storms as they move into southern IN and perhaps north-central KY and far southwestern OH later this afternoon and early evening. The Enhanced risk has been expanded slightly eastward to account for the damaging wind threat with this convection. Storms have recently formed along an outflow boundary across west-central IL into north-central MO and across southern IL. Although low-level flow remains weak, winds do gradually strengthen at mid/upper levels, and the airmass is strongly unstable across much of MO/IL (MLCAPE 2000-3000+ J/kg). The Marginal and Slight risks have been extended westward into more of northern MO and southward into more of southern MO/IL to account for an isolated hail/wind threat with this developing convection. Severe probabilities have been reduced behind ongoing convection across IA, northern IL/IN, and southern Lower MI. For more information on the short-term severe threat across parts of west TX, see Mesoscale Discussion 988. A Margi"
+        },
+        {
+          "title": "MO/IL/IN/OH",
+          "text": "Water vapor imagery shows an elongated shortwave trough extending across parts of WI/IA/NE. This feature will track southeastward today across the mid MS and OH Valleys, with an associated cold front also sagging through the region. A small area of intense storms is ongoing this morning over southeast IA. This activity is likely to become more widespread and intense by early afternoon and affect much of eastern MO and central IL - building eastward into central IN. A few severe storms are expected to develop along the boundary as far east as northern OH. Rich low-level moisture and ample CAPE are in place over this area, along with sufficient westerly flow aloft to organize storms into bowing structures. Damaging winds are the main threat, although the large CAPE will also support hail in any rotating cells. Have upgraded to ENH in the corridor of highest confidence of storms later today. It is unclear how long the activity can maintain high intensity, but at least isolated severe storms could track into parts of KY after dark."
+        },
+        {
+          "title": "GA/SC/NC/VA",
+          "text": "Another convectively aided shortwave trough is noted over eastern KY/TN. This feature will track across the mountains and into southern VA and the Carolinas this afternoon. A very moist and moderately unstable air mass is present over this region, with sufficient daytime heating to help initiate storms. 12z CAMs are consistent in developing multiple lines of storms across this area later today. Sufficient westerly flow aloft and degree of CAPE suggest a risk of damaging winds and hail with the activity. Organized and occasionally severe storms are possible as far south as eastern GA today."
+        },
+        {
+          "title": "West TX",
+          "text": "A persistent upper low over the southwest states will finally slowly eject eastward today. Clear skies to the east of the system over eastern NM and west TX will result in strong heating and rapid destabilization, despite a slightly drier boundary layer compared to recent days. Cooling mid level temperatures (500mb temperatures of -10C to -12C over west TX) will promote steepening mid-level lapse rates. Forecast soundings suggest sufficient shear for multicell and isolated supercell storms capable of hail and damaging winds."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2019,
+      "number": 983,
+      "issue_utc": "2019-06-05T15:03Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0983.html",
+      "summary": "A storm or two along a convective outflow boundary may produced occasionally large hail. This activity is expected to remain isolated until storms encounter an increasingly unstable airmass downstream later this afternoon. No WW is expected in the near term. Trends will continue to be monitored for WW issuance this afternoon for areas downstream.",
+      "discussion": "A line of storms that has been moving through Iowa has remained weak thus far. Outflow can be seen surging ahead of the line on KDVN radar imagery. The one exception is a supercell in Van Buren County, IA which has a storm motion that has allowed it keep from getting overrun by outflow. Given the 35-40 kts of effective deep-layer shear and 7-8 C/km mid-level lapse rates, this storm will be capable of large hail. Recent MRMS MESH data suggests hail of up to 1.5 inches and KDVN shows a TBSS signature. The current severe threat will continue to depend on whether this storm can keep from getting undercut by more stable air as well as some MLCIN remaining downstream. With time, surface heating will remove the inhibition and this activity is expected to increase in coverage and intensity. When this occurs is a bit uncertain. Guidance would suggest storms will become surface based by 1 PM CDT. A WW is not likely in the near term, but one will likely be needed by early afternoon for areas downstream."
+    },
+    {
+      "year": 2019,
+      "number": 984,
+      "issue_utc": "2019-06-05T16:52Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0984.html",
+      "summary": "Thunderstorms should undergo a gradual increase in coverage and intensity this afternoon from the Carolinas to the Middle Atlantic, posing a risk for mainly damaging wind and some hail. Trends are being monitored, and a WW will probably be needed for at least a part of this region by 18-19Z.",
+      "discussion": "This afternoon a warm front extends from central MD southwest as a stationary front through southwest VA and the western Carolinas. A moist warm sector with dewpoints around 70F have advected through this region, and as diabatic heating boosts temperatures into the mid 80s, MLCAPE should increase to around 2000 J/kg. Satellite and RAP analysis data show a shortwave trough (embedded within a broad upper trough) moving through the southern Appalachians. Ascent attending this feature along with orographic forcing should foster thunderstorm development over the higher terrain of the western Carolinas. Other storms will develop in the confluent flow regime present in the warm sector and along the stationary front. A belt of stronger winds in the 850-500 mb layer is spreading east in association with the shortwave trough and will contribute to 30-35 kt effective bulk shear. Mixed storm modes with mostly multicell line segments are expected, but some of the discrete storms could develop modest mid-level updraft rotation."
+    },
+    {
+      "year": 2019,
+      "number": 985,
+      "issue_utc": "2019-06-05T17:00Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0985.html",
+      "summary": "Initial signs of storm development are evident in northern Indiana/northwest Ohio. Initial storms will be capable of large hail and damaging wind gusts. Upscale growth is expected to occur quickly with this activity and linear segments that evolve will be primarily capable of damaging wind gusts. A WW will likely be needed in the next hour or two.",
+      "discussion": "Deepening cumulus clouds are evident across the IN/OH/MI border vicinity on visible satellite. Despite low-level cloud cover across Indiana and Ohio, enough heating and moisture advection has taken place to nearly erode MLCIN -- as suggested by modified 12Z ILN sounding. With continued surface heating in several pockets and dewpoints in the upper 60s to lower 70s F, buoyancy should continue to increase to 1000-1500 J/kg MLCAPE across a broad area. Storm coverage is expected to increase as mid-level ascent approaches from the northwest and a surface boundary continues to sag southward. Effective deep-layer shear of 30-40 kts will support a few rotating storms capable of large hail and damaging wind gusts. The hail threat should be limited to the more strongly rotating storms given more modest mid-level lapse rates. Shear vectors parallel to the boundary will likely mean rapid upscale growth into one or more linear segments that will primarily pose a threat for damaging winds. A brief tornado cannot be ruled out given moderate low-level veering present in KILN/KIND VAD profiles. Storm mode and weak low-level lapse rates will likely keep the tornado threat minimal. A WW will likely be needed in the next hour or two."
+    },
+    {
+      "year": 2019,
+      "number": 986,
+      "issue_utc": "2019-06-05T17:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0986.html",
+      "summary": "Storms are likely to form along a cold front from northern Missouri into central Illinois and northwest Indiana. Strong buoyancy, particularly in central/southern Illinois, will support intense storms capable of large hail and damaging winds. Upscale growth is expected to occur quickly with a continued threat for damaging winds. A WW is likely in the next 1-2 hours.",
+      "discussion": "Cumulus development has been increasing over the last hour ahead of a southward sagging cold from across northern Missouri into central Illinois and northern Indiana. Strong surface heating of a moist (low 70s F dewpoints) airmass has increased buoyancy across the discussion area to 2000-3000 J/kg MLCAPE. These large values of buoyancy should help to offset relatively modest effective deep-layer shear (25-35 kts) and mid-level lapse rates (6.5-7 per 18Z ILX sounding). Large hail and damaging wind gusts will be possible with storms that develop along the front. Deep-layer shear vectors parallel to the boundary will lead to rapid upscale growth into linear/bowing segments that will continue to pose a damaging wind gust threat with steep low-level lapse rates expected downstream. Some uncertainty still remains with regard to the timing of storm initiation. The 18Z ILX sounding would suggest that initiation is likely within an hour or two. Some elevated thunderstorms/ACCAS are noted south of Davenport, IA and moving toward Peoria, IL. While these will likely remain elevated for a time, they will eventually reach more unstable air in east-central Illinois and increase in intensity. A WW will likely be needed in the next hour or two."
+    },
+    {
+      "year": 2019,
+      "number": 987,
+      "issue_utc": "2019-06-05T18:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0987.html",
+      "summary": "A few storms capable of large hail, particularly over the Black Hills, and damaging wind gusts are possible this afternoon. Weak deep-layer shear will limit the threat as storms will struggle to organize. A WW is not expected.",
+      "discussion": "A few slow moving storms can be expected this afternoon as weak cold front moves southeastward. Steep mid-level lapse rates of 7-8 C/km will support the threat for large hail. Steep low-level lapse rates and a deeply mixed boundary layer will also foster a few stronger wind gusts. Dewpoints along the front are generally in the low 50s F, with mid to upper 50s farther east near the Black Hills. Buoyancy will be maximized in the Black Hills where higher boundary layer moisture at higher elevation will contribute to 1000-1500 J/kg MLCAPE. The hail threat will be maximized in this area. Outside the higher terrain, around 500 J/kg MLCAPE can be expected. Overall threat will be marginal given the very weak deep-layer shear. If storms can congeal and develop a mature cold pool, a more organized damaging wind gust threat would be possible. A WW is not expected."
+    },
+    {
+      "year": 2019,
+      "number": 988,
+      "issue_utc": "2019-06-05T19:02Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0988.html",
+      "summary": "Storms are expected to spread east into the High Plains of eastern New Mexico and west Texas from afternoon through early to mid evening. The stronger storms will pose a risk for isolated damaging wind and hail. Trends will continue to be monitored for a possible WW.",
+      "discussion": "This afternoon numerous storms are developing over the mountains of NM and in association with a corridor of ascent associated with vorticity maxima rotating through an upper low circulation. Farther downstream over the High Plains, mostly clear skies with strong diabatic heating is contributing to destabilization of the boundary layer where dewpoints are generally in the 50s F. Steep mid-level lapse rates (7.5-8.5 C/km) have spread across this region, and these factors should result in MLCAPE increasing to 1500-2000 J/kg. Winds aloft accompanying the upper low are weak with effective bulk shear expected to remain generally below 30 kt. Nevertheless, multicell storms may eventually organize into line segments as cold pools consolidate east of the higher terrain."
+    },
+    {
+      "year": 2019,
+      "number": 989,
+      "issue_utc": "2019-06-05T19:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0989.html",
+      "summary": "A couple of brief tornadoes are possible this afternoon and early evening over the southeast Texas and southwest Louisiana coast. A ww will probably not be necessary unless convective and mesoscale trends begin to suggest a more robust threat.",
+      "discussion": "This afternoon an area of low pressure with tropical characteristics has moved inland to just west of the Houston Galveston area. East of the center of circulation, a moist boundary layer with dewpoints in the low 70s have spread inland, but widespread clouds and showers are resulting in moist adiabatic lapse rates and limiting MLCAPE to below 500 J/kg. Nevertheless, a few stronger storms with supercell characteristics remain offshore, and a couple of these have moved inland before weakening. VWP from Houston has shown an increase in low-level shear near the coast with veering profiles and 0-1 km storm relative helicity around 200 m2/s2 for north-moving storms. This environment will continue to support mini supercells developing within the convergence bands offshore before spreading inland and weakening. In the process a couple of brief tornadoes will remain possible, mainly within a few miles of the coast."
+    },
+    {
+      "year": 2019,
+      "number": 990,
+      "issue_utc": "2019-06-05T19:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0990.html",
+      "summary": "Agitated cumulus/convective initiation is increasing in southern Illinois. Large buoyancy in place will support a threat for large hail and damaging winds. A WW may be needed soon.",
+      "discussion": "Agitated cumulus in southern Illinois have been increasing along what appears to be outflow from earlier convection. Convection also appears to have initiated in the Marion County, IL vicinity. Given the strong destabilization ahead of the activity (3000-3500 J/kg MLCAPE per mesoanalysis) rapid thunderstorm development is possible. Weak deep-layer shear will limited storm organization, but strong buoyancy will support intense storms capable of large hail and damaging wind gusts. A WW may be needed soon to address this threat."
+    },
+    {
+      "year": 2019,
+      "number": 991,
+      "issue_utc": "2019-06-05T20:35Z",
+      "topic": "Severe Thunderstorm Watch 329",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0991.html",
+      "summary": "Ongoing storms in central and northeast Ohio have remained more discrete. Damaging wind gusts and a brief tornado will be primary threats until storms move into more stable environment to east. Linear segments in central Indiana will move southward/southeastward in highly buoyant airmass and continue to pose damaging wind gusts threat through early evening.",
+      "discussion": "Storms within WW 329 appear to be occurring in two differing regimes. Linear segments in central Indiana will be moving southward into highly buoyant airmass characterized by 2500-3000 J/kg MLCAPE, per objective mesoanalysis. With the strong heating that has occurred across southern Indiana and north-central Kentucky, this activity will pose the greatest risk for damaging wind gusts at least until early evening. Farther northeast into Ohio, buoyancy has been more limited, but low-level and deep-layer shear have been marginally higher. Storms here have been able to remain quasi-discrete and exhibit modest low-level rotation. KILN VAD has shown some increase in 1-2 km flow over the past two hours which has been depicted in guidance into the early evening. As such, this region is where any brief tornado threat will be maximized this evening. A few water-loaded downdrafts may also produce a few damaging wind gusts as well. The environment downstream of the northern/central Ohio thunderstorms is less favorable for continued severe activity. Loss of daytime heating will likely mean a decrease in storm intensity as they progress eastward. ..Wendt.. 06/05/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 992,
+      "issue_utc": "2019-06-05T21:28Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0992.html",
+      "summary": "A watch will be needed soon downstream of watch 329 in eastern Ohio, northern West Virginia, and southwest Pennsylvania.",
+      "discussion": "A cluster of storms with some supercell structures is moving across north central Ohio with some reports of hail and one storm exhibiting moderate low-level rotation entering Holmes County, Ohio. While instability currently decreases significantly ahead of these storms, some breaks in the clouds will likely allow some additional destabilization which may help continue the threat eastward into the evening. Effective shear around 35 to 40 knots per CLE/PBZ VWP will support storm organization and some supercells structures. All severe weather types are possible including large hail, damaging winds and an isolated tornado. ..Bentley.. 06/05/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 993,
+      "issue_utc": "2019-06-05T21:33Z",
+      "topic": "Severe Thunderstorm Watch 330",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0993.html",
+      "summary": "Strong to severe storms, posing mainly a locally damaging wind threat, will persist across the remainder of WW 330 late this afternoon. An isolated threat may also extend east of WW 330 across parts of the NC coastal plain, but will be limited in time and space.",
+      "discussion": "Strong to severe storms continue to shift eastward toward the southern Chesapeake Bay/MD coast and eastern NC coast late this afternoon. Most recently, Norfolk VA gusted to 39 kt and Richmond VA gusted to 35 kt. These strong to severe storms will continue to the Atlantic coast over the next couple of hours and WFO AKQ has included the remainder of their warning area in WW 330. Further south, some intensification of storms across east-central NC has been noted as the storms interact with the westward advancing sea breeze boundary. There is some potential of upscale growth into small bowing segments through this interaction or favorable outflow/storm interactions as this activity spreads eastward to the coast. However, deep layer shear is weaker with southward extent and instability wanes toward the coast. As such, a gradual weakening trend is expected over the next couple of hours. An isolated severe threat may extend into portions of the MHX and/or ILM warning area, but overall threat is expected to be limited in time and space. As such a downstream watch is not expected. ..Leitman.. 06/05/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 994,
+      "issue_utc": "2019-06-05T22:14Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0994.html",
+      "summary": "A severe thunderstorm watch will likely be needed soon.",
+      "discussion": "A cluster of multicell and supercell thunderstorms are currently moving out of southeast Indiana toward the eastern portions of watch 332. Downstream of this watch, a new severe thunderstorm watch will likely be needed to cover the continued severe weather threat from these storms. In addition, storms have started to develop in central Kentucky with MESH approaching 1 inch in a few cells. Therefore, additional severe storms may be possible ahead of the ongoing activity. MLCAPE across this region is around 2000 to 2500 J/kg with effective shear around 35 to 40 knots (per RAP mesoanalysis). Mid-level lapse rates remain modest (~6.5 C/km), but the storm organization due to moderate shear should support a large hail threat. These storms will also be capable of producing damaging winds, especially if storms grow upscale as they move southeastward. Farther north, storms in central Ohio have struggled thus far, however, the area remains unstable with the cold front farther west and the shortwave trough still moving toward the area. Therefore, a severe weather threat remains for this region through the evening."
+    },
+    {
+      "year": 2019,
+      "number": 995,
+      "issue_utc": "2019-06-05T22:21Z",
+      "topic": "Severe Thunderstorm Watch 331",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0995.html",
+      "summary": "Isolated storms were continuing to develop westward across northwest MO into northeast KS late this afternoon. Some aerial extension of WW 331 may be needed across parts of northwest MO, but th severe threat should become more limited with westward extent into northeast KS.",
+      "discussion": "Towering CU and now a couple of lightning strikes along the cold front in northwestern MO into northeast KS were noted over the last 30 minutes. Some intensification of this convection is expected late this afternoon, especially across MO where an uncapped airmass exists ahead of the front. If this occurs and cells currently in Andrew and Gentry counties shift southward, an aerial extension of WW 331 may be needed. With westward extent, severe potential remains somewhat uncertain. While a moderately unstable airmass exists with modest midlevel lapse rates in place, effective shear is quite weak and will limit overall storm organization/longevity in absence of stronger ascent. Additionally, RAP forecast soundings suggest MLCIN will increase, both due to loss of daytime heating, but also as weak height rises impinge on the region ahead of the NM upper trough. Finally, any influence from stronger forcing associated with the shortwave trough over the Midwest will continue to diminish at that feature shifts eastward this evening. As such, any severe storms that develop in KS will likely remain limited in time as well as intensity. ..Leitman.. 06/05/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 996,
+      "issue_utc": "2019-06-05T23:01Z",
+      "topic": "Severe Thunderstorm Watch 331",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0996.html",
+      "summary": "Damaging wind potential may be increasing across portions of central MO into western IL.",
+      "discussion": "Latest surface analysis showed a cold pool developing in the wake of convection across northeast MO into western IL. Ahead of the line, temperatures from the upper 80s to low 90s were noted, while temperatures from the upper 60s to the lower 70s were observed in the rain-cooled environment behind the line. The line will be moving toward a very unstable airmass with surface dewpoints in the 70-75 deg F range and low level southwesterly winds around 10-20 kt. Additionally, latest VWP data from KLSX showed westerly winds increasing to around 30-40 kt above 3 km. This thermodynamic and kinematic environment will continue to foster an organized line of storms with increasing potential for damaging winds as the line shifts southward over the next few hours. Evidence of this increase in potential has also been noted in recent radar imagery across east-central MO just north of the I-70 corridor where convection has begun to bow and surge southward at around 35-40 kt. As such, expect damaging wind potential could be increasing across parts of central MO into the STL Metro-East vicinity of western IL over the next couple of hours. ..Leitman.. 06/05/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 997,
+      "issue_utc": "2019-06-06T00:13Z",
+      "topic": "Severe Thunderstorm Watch 334",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0997.html",
+      "summary": "A cluster of storms in northern Kentucky has congealed into somewhat of a bowing structure. This will pose a damaging wind threat as it moves southeastward toward eastern Kentucky. In addition, isolated supercells ahead of this activity in eastern Kentucky will continue to pose a threat for large hail and damaging winds.",
+      "discussion": "Storms in northern Kentucky have congealed into a bowing segment which is starting to accelerate southeastward toward eastern Kentucky. Storms farther west along this line of storms have been mostly outflow dominant, however, the orientation of the convection in north central Kentucky, in relation to the deep-layer shear vector, should be more favorable for cold pool balance. Therefore, there is a potential for an organized bowing segment of severe wind with this portion of the line, especially in the next 2 hours before the boundary layer begins to cool and stabilize. A few supercells in eastern Kentucky may continue for another hour or two but should weaken as the boundary layer stabilizes. ..Bentley.. 06/06/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 998,
+      "issue_utc": "2019-06-06T00:44Z",
+      "topic": "Severe Thunderstorm Watch 331",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0998.html",
+      "summary": "A gradual weakening trend is expected with ongoing storms across WW 331 and WW 332. A few strong to severe gusts remain possible in the short-term, but additional watch issuance is not expected.",
+      "discussion": "A band of convection from northwest MO into southern IL has generally shown a gradual weakening trend over the last hour. The strongest measured wind gusts recently have been near St. Louis, where 40 kt was observed. Another band of storms was arcing across southern IN into north-central KY this evening and also was producing sub-severe gusts. Storms will continue to shift southward this evening, and more southeasterly across KY and continue to gradually weaken as boundary layer CINH increases with loss of daytime heating. A few strong gusts could persist outside of WW 331 across MO, but with the overall threat diminishing, a new watch/aerial extension of the current watch are not expected. Stronger convection may tend to persist a bit longer across eastern portions of WW 332 where deep layer flow is stronger than further west, but the threat should remain contained by the current bounds of WW 332 or move into WW 334. ..Leitman.. 06/06/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 999,
+      "issue_utc": "2019-06-06T00:55Z",
+      "topic": "Severe Thunderstorm Watch 333",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0999.html",
+      "summary": "The severe weather threat has mostly ended across watch 333. The watch may be able to be canceled before the 03Z expiration time.",
+      "discussion": "Earlier storms in northeast Ohio dissipated as they moved into a more stable airmass. Occasional storms have developed in central portions of watch 333, but the intensity has remained well below severe criteria for awhile. The airmass is slightly more unstable in western portions of the watch where temperatures are in the mid 70s, which would support an isolated severe threat with any additional storms that can develop, but overall the severe threat has mostly ended. Convective trends will be monitored for the next hour and if no additional strong storms develop, the watch may be able to be cancelled before the 03Z expiration time. ..Bentley.. 06/06/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1000,
+      "issue_utc": "2019-06-06T01:10Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1000.html",
+      "summary": "A few strong to severe wind gusts are possible this evening. Overall threat should diminish with time over the next couple of hours and a watch is not expected.",
+      "discussion": "A squall line continues to progress eastward across the TX South Plains vicinity this evening. This line of convection has produced several severe wind gusts during the late afternoon hours. Most recently, gusts have ranged from around 40 mph to 60 mph per West Texas Mesonet obs. Radar presentation has shown a gradual weakening trend with occasional increases in individual cells at times. Additionally, outflow surging ahead of the line was noted in radar reflectivity data, further supporting a gradual weakening trend. That being said, an unstable and at least weak-CINH downstream environment exists ahead of the line with several outflow boundaries surging west and southwestward ahead of the convection. There is some potential that additional storms could develop along these myriad of boundaries this evening. Any cell that develops along these boundaries could produce strong gusts, especially given a weak shear environment supportive of downbursts. While an isolated severe threat could continue for another couple of hours, a watch is not anticipated at this time as increasing boundary layer inhibition and weak shear should temper the overall threat."
+    },
+    {
+      "year": 2019,
+      "number": 1001,
+      "issue_utc": "2019-06-06T04:27Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1001.html",
+      "summary": "A threat for an isolated/brief tornado may persist across parts of southern LA the next few hours. A watch is not expected at this time, though trends will be monitored.",
+      "discussion": "A supercell embedded in a storm cluster across eastern Cameron Parish southeast of Lake Charles LA has recently shown strong low level rotation after a couple of cell mergers. This storm was strengthening in the vicinity of a surface warm front ahead of a surface low near the southeast TX/LA coast. A narrow band of modest MLCAPE around 1000 J/kg and 40+ kt effective shear will continue to shift northeast across southern LA the next few hours. Latest VWP data from the LCH 88-D show enlarged, curved low level hodographs with greater than 400 m2/s2 0-3 km SRH with only slightly less favorable hodographs further north and east. Given a very moist airmass will reside over this region through the overnight hours and backed low level winds in the vicinity of the warm front will maximize low level SRH, at least a low-end threat for a brief tornado could persist into the overnight hours. The overall threat is expected to be confined to a narrow corridor ahead of the surface low, a watch is not expected at this time, though trends will be monitored."
+    },
+    {
+      "year": 2019,
+      "number": 1002,
+      "issue_utc": "2019-06-06T07:54Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1002.html",
+      "summary": "Risk for a brief tornado or two continues across a small portion of southwestern Louisiana. Limited spatial nature of the threat continues to preclude serious WW consideration.",
+      "discussion": "Latest LCH radar loop continues to show very weak rotation within numerous showers and thunderstorms moving northeastward out of the northwestern Gulf and onshore. Occasionally stronger circulations have been observed inland, across eastern Cameron/Jefferson Davis/Acadia Parishes over the past hour. The convection is ongoing just ahead of a weak surface low analyzed just west of the Sabine River in southeast Texas, near a warm front which extends eastward from the low across coastal areas of Louisiana. Here, a small warm sector has nosed inland across the LCH county warning area, supporting persistent convection. With low-level flow backed ahead of the low/near the warm front, veering flow with height through the lowest couple of km is yielding favorable shear (0-1 km shear in excess of 30 kt). Given this small area of favorable CAPE/shear, risk for a tornado or two will continue, possibly spreading gradually northeastward with time in conjunction with limited northward advance of the warm front. Still, with the area quite limited spatially, a tornado watch is not currently anticipated."
+    }
+  ]
+}

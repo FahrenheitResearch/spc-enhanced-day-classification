@@ -1,0 +1,170 @@
+{
+  "convective_day": "2024-11-03",
+  "valid_start": "2024-11-03T12:00Z",
+  "valid_end": "2024-11-04T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2024-11-03",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-11-03T16:30Z",
+      "valid_end": "2024-11-04T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20241103_1630.html",
+      "summary": "Multiple rounds of strong-severe thunderstorms are possible today through tonight over parts of the southern Plains. Tornadoes, damaging winds and large hail are possible.",
+      "sections": [
+        {
+          "title": "TX/OK/AR/MO",
+          "text": "Thunderstorms have begun to form along the surface boundary over parts of west TX. Broken clouds ahead of this activity, along with dewpoints in mid/upper 60s, will eventually lead to intensification and an increasing severe risk as a large upper trough digs into NM. A remnant outflow boundary from overnight storms extends from north TX into southeast OK. It is anticipated that storms to the west will interact with this boundary through the afternoon and evening, resulting in a corridor of enhanced risk of bowing/supercell structures capable of damaging wind gusts and a few tornadoes. Therefore have upgraded that small area to ENH risk. Recent CAM solutions suggest storms may maintain severe intensity into southwest MO and northwest AR late tonight, with a continued risk of damaging wind gusts. ..Hart/Moore.. 11/03/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-11-03",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-11-03T20:00Z",
+      "valid_end": "2024-11-04T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20241103_2000.html",
+      "summary": "Multiple rounds of strong-severe thunderstorms are possible today through tonight over parts of the southern Plains. Tornadoes, damaging winds and large hail are possible.",
+      "sections": [
+        {
+          "title": "20z Update",
+          "text": "No changes were made to the D1 Convective Outlook with this update. However, uncertainty lies in a the mesoscale details this evening as the warm front/remnant outflow drifts northward. Air mass recovery has been rapidly occurring across southwestern Oklahoma as observed in observations of theta-e advection from the Oklahoma Mesonet. Thunderstorms have increased in intensity across northwest Texas into southwestern Oklahoma near the Red River with occasional supercell development ahead of the more linear/bowing segments. For now, the richer SRH remains located along the Red River across the TX/OK border into southeastern Oklahoma with the main threat remaining damaging wind and large hail. Though, a tornado or two remain possible. See MCD2191 for more information. It is likely the tornado risk will increase through the afternoon/evening along this corridor with further strengthening of the low-level jet expected. Ahead of the air mass recovery across southwestern Oklahoma, elevated storms are ongoing across areas just north of the DFW metro into south-central/southeastern Oklahoma. Warm air advection into this region should allow for air mass recovery and potential for a few lead s"
+        },
+        {
+          "title": "TX/OK/AR/MO",
+          "text": "Thunderstorms have begun to form along the surface boundary over parts of west TX. Broken clouds ahead of this activity, along with dewpoints in mid/upper 60s, will eventually lead to intensification and an increasing severe risk as a large upper trough digs into NM. A remnant outflow boundary from overnight storms extends from north TX into southeast OK. It is anticipated that storms to the west will interact with this boundary through the afternoon and evening, resulting in a corridor of enhanced risk of bowing/supercell structures capable of damaging wind gusts and a few tornadoes. Therefore have upgraded that small area to ENH risk. Recent CAM solutions suggest storms may maintain severe intensity into southwest MO and northwest AR late tonight, with a continued risk of damaging wind gusts."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-11-04",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-11-04T01:00Z",
+      "valid_end": "2024-11-04T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20241104_0100.html",
+      "summary": "Multiple rounds of strong-severe thunderstorms remain possible tonight over parts of the southern Plains. Tornadoes, damaging winds and large hail are expected.",
+      "sections": [
+        {
+          "title": "01z Update",
+          "text": "Seasonally strong upper trough is advancing east across the Four Corners region early this evening. 90+kt 500mb speed max will rotate into the base of this feature over northern Mexico late tonight and into far West TX by sunrise. In response, LLJ is forecast to increase markedly across the southern High Plains later this evening, with the nose of the LLJ expected to focus into western OK by the end of the period. 20-30kt southerly 1km winds are currently noted at SJT/MAF/DYX, and higher PWs will begin to surge north over the next few hours into the TX South Plains. Scattered convection continues to trail southwest across the Big Country, but this activity is not currently strongly forced. However, low-level convergence should increase across northwest TX as the LLJ increases, and scattered strong/severe thunderstorms will likely develop late this evening into the early-morning hours as far northwest as the eastern portions of LBB CWA. Forecast soundings exhibit very steep 2-6km lapse rates, which contribute to MUCAPE approaching 3000 J/kg within an environment that will become increasingly sheared. Long hodographs appear favorable for very large hail with this activity. Additional"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2024,
+      "number": 2190,
+      "issue_utc": "2024-11-03T15:51Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2190.html",
+      "summary": "Thunderstorms are forecast to increase in coverage and intensity through the morning over parts of central and western North TX. A mix of supercells and linear segments may support a risk for all hazards. There remains significant uncertainty on the timing and intensity of the the threat, but the possibility of a WW is being monitored.",
+      "discussion": "As of 1545 UTC, regional radar and satellite imagery showed intensifying thunderstorms along a dryline across west-central TX. A second, semi-elevated cluster was also ongoing northwest of Killeen. Ascent, in the form of a broad area of height falls and weak DPVA should continue to overspread the Southern Plains this morning and afternoon ahead of a deepening upper trough. South of a well-defined outflow boundary/quasi warm front near the Red River, additional storm development appears likely over the next several hours. Surface temperatures in the mid 70s with surface dewpoints in the upper 60s to near 70F are allowing 1000-1500 J/kg of MLCAPE despite poor low and mid-level lapse rates. Weak inhibition is slowly diminishing with diffuse diurnal heating/low-level advection warming the air mass. As the upper trough approaches, moderate deep-layer shear should intensify, with 45-60 kt favorable for organized storms in the form of a mix of supercells and line segments. Additional storm development is likely south of the outflow along the dryline and potentially across the warm sector through this morning. As storms slowly mature, a risk damaging winds and hail appears likely given the favorable shear and buoyancy. The tornado threat is more nebulous, but somewhat enlarged low-level hodographs and stronger low-level shear near the effective warm front could support a risk for a few tornadoes. Eventually, one or more clusters/QLCS should emerge as upscale growth of numerous storms takes place. The primary uncertainty this morning is how quickly storm mature. Some CAM solutions are quite aggressive, suggesting storms quickly maturing over the next 1-2 hours. Others are more gradual with the greatest threat later this afternoon. Regardless, the environment is becoming more fav"
+    },
+    {
+      "year": 2024,
+      "number": 2191,
+      "issue_utc": "2024-11-03T19:13Z",
+      "topic": "Severe Thunderstorm Watch 701",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2191.html",
+      "summary": "Severe storms continue to organize early this afternoon. The risk for damaging winds, hail and a tornado or two should increase as storms grow upscale.",
+      "discussion": "Across WW701, intermittent heating amidst strong low-level warm air advection has resulted in several clusters of strong to severe storms across portions of western North TX. Within an unstable and moderately sheared environment, further intensification/development of new storms is expected this afternoon and evening across portions of northwest TX and southwest OK. Storm mode has been mixed with predominately linear elements near I-20 and a few more cellular structures farther north. Hi-res guidance suggests the additional storms that develop will prompt upscale growth into one or more linear clusters or a QLCS with time. Storms should spread over much of western North TX and into southwestern Oklahoma later this afternoon and evening. The potential for numerous storm interactions and upscale growth suggests the primary severe risk over the next few hours will be wind and hail. However, shear profiles are strong enough to support supercells, and some guidance does show more discrete development is possible ahead of the primary band of storms. Should this occur, a risk for a few tornadoes could materialize near the warm front where low-level hodograph curvature is maximized. ..Lyons.. 11/03/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2192,
+      "issue_utc": "2024-11-03T19:49Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2192.html",
+      "summary": "Storms moving into/developing in a strongly sheared air mass over parts of OK/TX may pose an increasing risk of tornadoes. A new Tornado Watch is likely needed.",
+      "discussion": "A robust cluster of storms is organizing west of a strongly sheared and destabilizing air mass across parts of southern OK and western North TX. While predominately linear, these storms are moving into a modified warm frontal zone with strong low-level effective helicity (0-1 km >350 ms2/s2 from the TLX VAD) sufficient for tornadoes. Diffuse heating and subtle confluence are also apparent ahead of the QLCS across western north TX. Hi-res guidance and observational trends suggests additional, more discrete, storms may develop/mature this afternoon. With moderate buoyancy and large-low level hodograph curvature, supercells and QLCS mesovorticies with the potential for tornadoes could materialize. A Tornado watch is likely."
+    },
+    {
+      "year": 2024,
+      "number": 2193,
+      "issue_utc": "2024-11-03T20:40Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2193.html",
+      "summary": "Thunderstorms will increase in coverage through the late afternoon and evening hours. Scattered strong to severe storms are expected and will pose a risk of large hail, damaging winds, and perhaps a tornado. Trends will be monitored for the need for a watch later this evening.",
+      "discussion": "Over the past hour, convection has increased in coverage across western OK along the I-40 corridor in response to strengthening low-level warm advection and steady destabilization. MRMS VII and cloud top temperature trends suggest that much of the activity along and north of I-40 remains sub-severe, but signs of intensification have been noted in a few cells. The expectation is thunderstorm coverage will continue to increase as this activity spreads from western OK into northwest OK and south-central KS through the late afternoon and evening hours. While most convection will likely remain elevated, steady warming/moistening in the low levels may support a few surface based storms - especially where temperatures and dewpoints can reach into the low 70s and upper 60s respectively. 40-60 knot mid and upper-level flow over the region is supporting elongated hodographs favorable for supercells with an attendant risk for large hail (most likely between 1.0-1.75 inches) and severe wind gusts. Additionally, the low-level warm advection regime is yielding 0-1 km SRH values between 200-300 m2/s2 (per regional VWPs), which will support a tornado threat if surface-based convection can be realized. While this potential is noted, weak inhibition and persistent ascent will promote scattered thunderstorms with a somewhat high probability for storm interactions and unfavorable storm modes as storms spread north/northeast with time. Trends will be monitored for the need for watch issuance if semi-discrete, surface-based convection can be realized and pose a greater severe threat."
+    },
+    {
+      "year": 2024,
+      "number": 2194,
+      "issue_utc": "2024-11-03T20:55Z",
+      "topic": "Tornado Watch 702",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2194.html",
+      "summary": "A maturing line of storms may pose a heightened threat for severe winds and a few tornadoes over the next 1-2 hours as it approaches I-35.",
+      "discussion": "As of 2050 UTC, KFDR and KTLX radar imagery showed a maturing thunderstorm cluster has become better organized over the last 30 minutes as it has moved across southwestern OK. Emerging from an initial group of several independent supercells, the storm mode has trended towards a bowing/line segment over time. This trend will likely continue as it tracks along and near the stalled frontal zone over central OK. Radar velocity measurements have shown periodic strong outflow surges with embedded mesovorticies. Large low-level streamwise vorticity and strong 0-3 km line-normal shear evident on the TLX VAD hodograph will continue to favor a balanced QLCS mode as convection approaches the I-35 corridor in the next 60-90 minutes. Given the strong shear, linear mode, and potential for mature mesovorticies, damaging winds (some 70+ mph) a few embedded tornadoes are likely in central OK in the next 1-2 hours. ..Lyons.. 11/03/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2195,
+      "issue_utc": "2024-11-03T21:19Z",
+      "topic": "Tornado Watch 702",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2195.html",
+      "summary": "A mature bowing segment and isolated leading storm will pose an increased risk for damaging winds and a few tornadoes in the next 1-2 hours.",
+      "discussion": "Across southern portions of Tornado Watch 70s, a mature bowing segment has maintained organization as it tracks along the Red River Valley in southern OK and north TX. The environment ahead of this convection remains unstable and strongly sheared suggesting a continued severe threat. Low-level shear is expected to increase as the bow approaches the modified outflow boundary/warm front in southern OK. More isolated convection has also slowly deepened ahead of the bow across parts of Carter and Love Counties in OK. There remains the potential for a supercell or two to evolve and strengthen within the strongly sheared air mass. Along with the risk for damaging winds (some 70+ mph), a few tornadoes are possible, both from embedded circulations and with any supercells able to become established. ..Lyons.. 11/03/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2196,
+      "issue_utc": "2024-11-03T22:52Z",
+      "topic": "Tornado Watch 702",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2196.html",
+      "summary": "The threat of damaging gusts and a couple tornadoes persists across the watch area, with perhaps a greater risk across the Red River Valley.",
+      "discussion": "A large mass of rain and thunderstorms currently extends form south-central OK into northern TX, oriented southwest to northeast and primarily north of the outflow boundary/stationary front. While favorable shear exists north of the boundary, cooler temperatures are mitigating the overall threat at this time. Farther south into TX, a very moist air mass is in place with PWAT ranging from 1.50 to 2.00\" into northeast TX. Given continued southerly low-level flow, this warm advection regime will persist across the stationary front, which eventually may return north later this evening. At this time, storms have shown a disorganized structure in terms of severe threat. However, the most favorable zone in a relative sense is across the Red River Valley and surrounding counties, as the ongoing activity translates east. Storm cores along the theta-e gradient may pose a risk of damaging winds with the bowing structures. Additional single-cells cannot be ruled out forming ahead of the main band of storms, as the air mass is uncapped. A brief tornado threat could occur with any activity interacting with the boundary. If the front begins moving north, then storms may acquire rotation along it over a longer period of time. ..Jewell.. 11/03/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2197,
+      "issue_utc": "2024-11-04T00:46Z",
+      "topic": "Tornado Watch 702",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2197.html",
+      "summary": "The threat of damaging winds and isolated tornadoes may persist through the evening, extending into far western Arkansas. Another watch will likely be needed prior to watch 702 expiration.",
+      "discussion": "An organized line of storms currently stretches from just south of the Tulsa area southwestward toward Durant OK, with significant lightning activity and cooling storm tops. Surface analysis shows that the boundary has not moved much, however, stronger elevated instability and moisture exists just above the cooler surface layer. GPS PWAT values are near 1.80\" at Ft. Smith AR, and the 00Z sounding from SHV measured over 2.00\". Given persistent southwest flow just off the surface, with around 40 kt at 850 mb, additional destabilization is possible ahead of the ongoing line of storms, and around the west side of the AR precipitation shield. Thus, theses storms may remain rather robust for several more hours, aided by substantial moisture flux and deep-layer shear. Even with somewhat cooler/skin layer temperatures, a few damaging gusts may occur. Tornadoes appear most likely as the main boundary gradually mixes north, and where it intersects the line of storms. ..Jewell.. 11/04/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2198,
+      "issue_utc": "2024-11-04T01:19Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2198.html",
+      "summary": "An isolated severe wind and hail risk may persist for a few more hours across portions of northwest Texas. The threat should remain too localized for a watch.",
+      "discussion": "A few loosely organized thunderstorm clusters are ongoing along a trailing northeast/southwest-oriented low-level confluence zone in northwest TX this evening. Nearby VWP data indicates around 50 kt of 0-6 km shear oriented parallel to the boundary, which combined with 1500 J/kg MLCAPE will continue to support loosely organized clusters for the next few hours. Isolated instances of severe hail (generally 1-1.75 inches) and locally severe gusts could accompany the stronger storms, though the risk appears too marginal/localized for a watch."
+    },
+    {
+      "year": 2024,
+      "number": 2199,
+      "issue_utc": "2024-11-04T03:59Z",
+      "topic": "Tornado Watch 703",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2199.html",
+      "summary": "Isolated severe storms remain possible near the warm front, but the overall risk has decreased compared to earlier this evening. However, trends will need to be monitored for changes in storm mode/structure.",
+      "discussion": "A line of storms, mostly elevated, moved across eastern OK and into western AR earlier this evening, outpacing the warm front to the south. Recently, observations indicate the front is making northward progress across southeast OK and into west-central AR. In addition, radar shows new development near this boundary. A rather tight temperature gradient still exists north of the boundary, suggesting a limited region for storms to produce tornadoes. However, this is also supporting lift and additional cells may regenerate over the next several hours. Given effective 0-1 SRH around 300 m2/s2 along the boundary, a brief tornado will be possible. ..Jewell.. 11/04/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2200,
+      "issue_utc": "2024-11-04T05:37Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2200.html",
+      "summary": "Scattered storms are likely to form after 06Z tonight over parts of west/northwest Texas and into southwest Oklahoma. Hail will be the primary risk.",
+      "discussion": "Height falls will persist tonight with the upper trough, while low pressure develops over western TX and into western OK through early morning. In response, low-level winds will increase out of the south, resulting in a northward return of theta-e and subsequent destabilization. Currently, modest moistening is occurring over parts of the Permian Basin, though GPS water vapor sensors show only minor increases in PWAT. However, this should evolve rapidly tonight as wind speeds increase. Given cool temperatures aloft, this warm/moist advection will likely yield a zone of thunderstorms developing from the South Plains into southwest Oklahoma late. Initial activity may not be severe, but as moisture accelerates northwestward overnight, severe hail is expected. Both cold air aloft, and lengthening hodographs with 60-70 kt deep-layer shear will favor hail. As such, trends will be monitored over the coming hours for a possible watch."
+    },
+    {
+      "year": 2024,
+      "number": 2201,
+      "issue_utc": "2024-11-04T11:01Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2201.html",
+      "summary": "Threat for damaging gusts is increasing across central Oklahoma, with some increase in the threat across southwest Oklahoma and adjacent far northwest Texas as well. Trends are being monitored for a possible watch.",
+      "discussion": "Recent surface analysis places a low between SNK and SWW in the Low Rolling Plains region of TX. A warm front extends northeastward from this low through northwest TX and south-central OK into southeast OK. Location of this front is roughly demarcated by the 70 deg F isotherm. Showers and thunderstorms are currently ongoing north of this boundary from far northwest TX into southwest OK, supported by both low-level warm-air advection and increasing large-scale ascent (attendant to the approaching shortwave trough). A few of the cells over west-central/southwest OK have become better organized over the past hour or so, with the cell in Tillman County exhibiting a notable forward surge while also producing a 55 kt gust at FDR. The threat for damaging gusts will continue with this developing line as it continues northeastward into central OK. The tornado threat should be limited by the low buoyancy and persisting modest convective inhibition. That being said, if this line is able to become surface-based, or even near-surface-based, there is enough low-level shear to promote circulations embedded within the line. While not evident at the moment, a similar evolution, where the elevated storms become organized into a more coherent line, is also possible farther south across far northwest TX. Overall convective trends will be monitored for a potential watch or watches across this region."
+    }
+  ]
+}

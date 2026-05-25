@@ -8,6 +8,8 @@ The page lets people inspect:
 - OFB/MCS boundary regime labels (`core`, `likely`, `possible`, `none`)
 - boundary drivers, storm modes, dominant hazards, and forecast challenges
 - short evidence snippets linked back to SPC Day 1 Outlooks and Mesoscale Discussions
+- per-day source packets with all attached outlook and MD links for audit/review
+- shareable day links like `#day=2024-05-06`
 - downloadable CSV/JSONL data and the classification schema
 
 ## Dataset
@@ -23,6 +25,7 @@ The page lets people inspect:
 - `data/all_classifications.csv`
 - `data/all_classifications.jsonl`
 - `data/classifications.json`
+- `data/packets/YYYY-MM-DD.json`
 - `data/ofb_mcs_boundary_cases.csv`
 - `data/CLASSIFICATION_SCHEMA.md`
 - `data/validation_summary.json`

@@ -1,0 +1,91 @@
+{
+  "convective_day": "2023-07-11",
+  "valid_start": "2023-07-11T12:00Z",
+  "valid_end": "2023-07-12T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2023-07-12",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-12T01:00Z",
+      "valid_end": "2023-07-12T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230712_0100.html",
+      "summary": "Supercells capable of large to very large hail continue to be possible in the High Plains this evening. Scattered damaging/severe wind gusts appear possible in north-central into northeast Nebraska this evening as convection near the Black Hills grows upscale into the overnight.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A potent shortwave trough continues to move southeastward through Montana into the Northern Plains this evening. Convection has developed within the higher terrain of Montana/Wyoming into the Black Hills. These supercells will continue to pose a threat of large to very large hail and isolated damaging/severe wind gusts. With a surface boundary draped from near the Black Hills southeastward into the Omaha, NE vicinity, there is increasing confidence that storms this evening will grow upscale and propagate along this boundary into the overnight. Strong flow aloft for this time of year will contribute to 50-60 kts of shear parallel to the surface boundary with a strengthening low-level jet helping to maintain moderate buoyancy across much of Nebraska even later tonight. Mid-level lapse rates and wind profiles observed at this evenings LBF and OAX soundings support the potential for scattered damaging/severe wind gusts to occur in parts of north-central and northeast Nebraska. While some surface cooling will occur, forecast soundings do not become overly stable and parcel should remain buoyant given the expected stronger cold-pool forcing. The eastward extent of the risk does remain so"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2023,
+      "number": 1497,
+      "issue_utc": "2023-07-11T17:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1497.html",
+      "summary": "A few strong thunderstorms are possible this afternoon.",
+      "discussion": "A broken line of thunderstorms has developed across Ontario along a cold front. 18Z Surface analysis shows this cold front extending across central Michigan. However, thunderstorm activity has been more sparse, likely related to weaker ascent away from the mid-level shortwave trough and weaker low-level convergence along the front. However, some destabilization has occurred south of this front with temperatures in the low to mid 80s and dewpoints in the mid 60s yielding around 1000 J/kg MLCAPE. The DTX VWP shows around 30 knots of westerly flow above 2km which will provide enough shear for some organization, but not enough for a more substantial threat. A few strong storms capable of isolated damaging winds are possible, but the expectation for mostly unorganized/weak intensity storms and the limited duration of the threat, make a severe thunderstorm watch unlikely."
+    },
+    {
+      "year": 2023,
+      "number": 1498,
+      "issue_utc": "2023-07-11T19:04Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1498.html",
+      "summary": "Storms capable of producing very large hail and severe winds should spread eastward across the area this afternoon and evening. A severe thunderstorm watch will likely be issued in the next hour or two.",
+      "discussion": "Latest visible satellite imagery shows gradually deepening boundary-layer cumulus and isolated convective development across parts of central into eastern MT this afternoon. Continued diurnal heating/destabilization of a moist air mass (lower 60s dewpoints) and DCVA preceding a shortwave trough over northwestern MT should allow for additional thunderstorm development during the next couple hours. 40-50 kt of midlevel westerly flow (per regional VWP data) atop low-level southeasterlies will yield a long/straight hodograph (45-55-kt effective shear) supportive of discrete /semi-discrete splitting supercells. Very large hail up to 2.5 inches in diameter and locally severe winds will be possible with these storms. With time, cell mergers and localized upscale growth into several organized clusters will be possible, with a continued risk of large hail and increasing damaging-wind threat. A severe thunderstorm watch will likely be issued during the next hour or two for parts of the area."
+    },
+    {
+      "year": 2023,
+      "number": 1499,
+      "issue_utc": "2023-07-11T19:41Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1499.html",
+      "summary": "A few strong to severe thunderstorms are possible this afternoon across northern Illinois and vicinity.",
+      "discussion": "Storms developed earlier this afternoon along the intersection of a lake breeze and cold front across northeast Illinois earlier this afternoon. Storm propagation quickly took these storms to the cool side of the boundary with a less unstable and more capped marine airmass. However, additional thunderstorms have now developed west of the lake breeze along the cold front in northern Illinois. These storms will have a longer residence time in the more unstable airmass and in the region of convergence along the surface front. Therefore, the chance for strong to isolated severe storms seems more likely than ongoing storms across northeast Illinois. Overall, weak shear (~15 knots per LOT VWP) should limit storm organization and intensity and thus a watch is unlikely."
+    },
+    {
+      "year": 2023,
+      "number": 1500,
+      "issue_utc": "2023-07-12T00:27Z",
+      "topic": "Severe Thunderstorm Watch 473",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1500.html",
+      "summary": "Severe thunderstorms will spread southeast across the northern High Plains this evening. Large hail will be common with this activity.",
+      "discussion": "Heights are being suppressed across MT/northern WY early this evening ahead of a pronounced short-wave trough that will soon begin to dig southeast toward the western Dakotas. Scattered severe supercells have evolved ahead of this feature across eastern MT into western SD and latest MRMS radar data suggest several updrafts are generating hail in excess of 2 inches. Later this evening LLJ should respond to the short wave and increase across western NE. This should encourage upscale growth as convection spreads southeast. Over the last hour or so, a few updrafts have struggled over Cherry County NE along the well-defined synoptic boundary. Given that surface temperatures are only in the 80s along this wind shift convection may continue to struggle to initiate. Even so, multiple thunderstorm clusters will spread across western SD toward northern NE later this evening. At that time a new watch may be warranted. ..Darrow.. 07/12/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1501,
+      "issue_utc": "2023-07-12T04:34Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1501.html",
+      "summary": "Severe thunderstorm watch will likely be warranted soon to account for convection spreading/developing east across South Dakota/northern Nebraska. Hail/wind are the primary risks.",
+      "discussion": "Short-wave trough over eastern MT is beginning to dig southeast toward the western Dakotas. Considerable amount of convection has developed ahead of this feature and currently extends from northeast WY into northern SD. While an MCS has not fully matured over this region, a weak MCV may be developing northeast of RAP which may encourage upscale growth over the next few hours into central SD, especially as LLJ strengthens in response to the approaching short wave. Several severe supercells persist across the Black Hills region and these are likely generating large hail. With time, some wind threat may develop if an MCS actually materializes across this region. New severe thunderstorm watch will likely be issued by 05z."
+    },
+    {
+      "year": 2023,
+      "number": 1502,
+      "issue_utc": "2023-07-12T07:39Z",
+      "topic": "Severe Thunderstorm Watch 475",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1502.html",
+      "summary": "A thunderstorm cluster near the Nebraska/South Dakota border is expected to pose a risk for damaging gusts greater than 65 mph through early morning.",
+      "discussion": "A cluster of storm over south-central SD/north-central NE has intensified over the past 30 minutes or so. Most recently, a severe gust to 62 kt was observed at KVTN. IR satellite imagery also is showing some modest cloud top cooling. This cluster is moving southeast into the axis of a stronger southerly low-level jet of around 25-30 kt. This should aid in further organization amid moderate to strong instability (2000-3000 J/kg MUCAPE) and effective shear magnitudes greater than 55 kt. This organizing cluster should promote development of a fast-moving bowing MCS, and the better chances for a swath of damaging gust potential will exist across southeast SD near the NE state line into north-central and northeast NE through early morning. ..Leitman.. 07/12/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1503,
+      "issue_utc": "2023-07-12T09:41Z",
+      "topic": "Severe Thunderstorm Watch 475",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1503.html",
+      "summary": "Severe thunderstorm gusts will continue across WW 475.",
+      "discussion": "A well organized bowing MCS will continue to track southeast into eastern NE/western IA this next few hours. A swath of intense gusts to 75 mph will be possible near the apex of a bowing segment from near Pierce and Madison Counties toward the Omaha vicinity through 12z. With time, gradual weakening of the bow is expected with south/east extent as the low-level jet weakens after 12z. However, given the well developed nature of convection and strong deep-layer northwesterly flow amid strong instability, severe potential could persist at least briefly beyond the eastern/southern bounds of WW 475. A downstream watch across parts of central IA likely will be needed. ..Leitman.. 07/12/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

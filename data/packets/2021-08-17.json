@@ -1,0 +1,122 @@
+{
+  "convective_day": "2021-08-17",
+  "valid_start": "2021-08-17T12:00Z",
+  "valid_end": "2021-08-18T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-08-17",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-08-17T20:00Z",
+      "valid_end": "2021-08-18T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210817_2000.html",
+      "summary": "Tornadoes may occur into tonight from parts of the western Carolinas into southwestern Virginia. Locally severe gusts may affect parts of the Great Basin.",
+      "sections": [
+        {
+          "title": "20z Update - GA/Carolinas/VA",
+          "text": "A 10% tornado probability/Enhanced risk has been added to portions of Upstate SC and western NC with the 20z update. Heating ahead of a band of storms arcing across central SC has resulted in moderate destabilization of the tropical airmass ahead of the remnants of Fred in a favorably sheared low-level environment. Cells within this band have shown low level rotation through the day, and several tornadoes have already been reported. This activity should continue for the next several hours as convection lifts generally north/northeast with the progression of the surface low/Fred. Reference MCD 1546 for more details in the short-term severe threat across the Carolinas. Severe probabilities have been removed from GA as convection has lifted north/northeast of the state. No other changes have been made to the outlook risk areas across the Great Basin or MT. ..Leitman.. 08/17/2021 .PREV DISCUSSION... /ISSUED 1110 AM CDT Tue Aug 17 2021/"
+        },
+        {
+          "title": "GA/Carolinas/VA",
+          "text": "The remnants of Fred are continuing to move slowly northward across GA. One primary band of stronger convection to the northeast of the circulation center is likely to maintain organization much of the day, affecting parts of western SC/NC. Vertical shear profiles are quite strong in this region, with visible/IR satellite imagery suggesting a clear slot impinging on the line. This may aid in the development of supercells and occasional tornadoes through the afternoon. Other more isolated cells may occur farther north over western NC and southern VA, with a risk of a tornado or two as well."
+        },
+        {
+          "title": "Great Basin",
+          "text": "Latest water vapor loop shows a well-defined shortwave trough moving across NV. Strong heating ahead of this feature will help temperatures to climb well into the 90s across eastern NV and much of UT, where dewpoints in are in the 40s to lower 50s. This will yield sufficient CAPE for rather widespread thunderstorm development by mid-afternoon. Inverted-V thermodynamic profiles coupled with sufficient westerly flow aloft will likely result in strong outflow winds near the more organized storm clusters."
+        },
+        {
+          "title": "MT",
+          "text": "Similar to yesterday, scattered afternoon thunderstorms are expected to develop over the mountains of southwest MT and spread rapidly eastward. A few of the storms will likely produce locally gusty/damaging wind gusts."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-08-18",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-08-18T01:00Z",
+      "valid_end": "2021-08-18T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210818_0100.html",
+      "summary": "A few tornadoes will remain possible this evening into tonight across portions of the western Carolinas and southwestern Virginia. Locally severe wind gusts may affect parts of the Great Basin.",
+      "sections": [
+        {
+          "title": "Carolinas and Virginia",
+          "text": "Tropical Depression Fred will continue northward and undergo an extra tropical transition across the central Appalachians tonight. As Fred's low-level circulation slowly fills, the accompanying mid-level speed max will move north across the western Carolinas and Virginia. Strong low-level shear (0-1 km SRH 150-300 m2/m2) remains in place as observed by 00Z regional soundings and VWPs. The favorable shear profiles and weak buoyancy should remain sufficient to support low-level mesocyclones and the potential for a few tornadoes this evening across the western Carolinas into southwest Virginia. Uncertainty remains high on the potential for tornadoes late tonight across western into central Virginia. Phased poorly with the diurnal cycle, already weak instability is forecast to diminish further overnight with northward extent. The strong shear and low-level moistening may compensate for this somewhat, but various forecast soundings across west-central Virginia show MUCAPE largely below 500 J/kg. A few mini-supercells may continue northward with a risk for a tornado or two closer to the center track of Fred where low-level shear should be the strongest."
+        },
+        {
+          "title": "Great Basin",
+          "text": "Within a relatively moist and unstable environment, scattered high-based storms ongoing across western Utah will likely continue eastward this evening ahead of a cold front and deepening shortwave trough. The cold front should sharpen as it moves to the south and east tonight, generating additional convection across central Utah. Despite the loss in diurnal heating, weak buoyancy will persist given increasing monsoon moisture and surface dewpoints near 55 F advecting northward into the Great Basin. Deep-layer shear will increase late this evening with the approach of the shortwave trough and associated 50-60 kt mid-level speed max. The ongoing storms and additional convective development should enhance already strong surface cold pools, likely supporting a few severe wind gusts across the Slight Risk area this evening before convection eventually weakens. ..Gleason.. 08/18/2021"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 1543,
+      "issue_utc": "2021-08-17T12:22Z",
+      "topic": "Tornado Watch 443",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1543.html",
+      "summary": "The development of isolated supercell structures with the potential to produce short-lived tornadoes remains possible to the northeast of the weakening remnants of Fred. This may gradually spread across the remainder of northeastern Georgia into Upstate South Carolina by 10 am-12 pm EDT. Trends are being monitored for the possibility of a new watch, but it is also possible that the threat may become marginal and/or isolated enough that a new watch may not be needed.",
+      "discussion": "More substantive central pressure rises have been occurring the past few hours as Fred migrates northward. A corresponding weakening of low-level wind fields has also been observed, and these trends are likely to continue as the depression progresses north-northeast of the Auburn, AL vicinity, toward the Greater Atlanta metro through 14-16Z. Mid-level subsidence warming nosing northeastward around the southern through eastern periphery of the circulation aloft is contributing to diminishing convective potential across the Warner Robins/Macon vicinity into the Greater Atlanta area, and this is forecast to continue spreading toward the Savannah River through mid to late morning. This also corresponds with a weak surface wind shift, and the onset more unidirectional shear in the near surface layer. Ahead of the wind shift, strongest mid/upper forcing for ascent, low-level convergence and largest clockwise-curved low-level hodographs will generally be focused in an area overspreading northeastern Georgia into Upstate South Carolina through 14-16Z. Although wind fields are gradually weakening, southerly 850 mb flow on the order of 30+ kt may still contribute to sufficiently large low-level hodographs to maintain at least some risk for the development of supercell structures with the potential to produce tornadoes. This probably will be aided by at least some further increase of surface dew points through the lower to mid 70s F across parts of the Piedmont. ..Kerr.. 08/17/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1544,
+      "issue_utc": "2021-08-17T16:35Z",
+      "topic": "Tornado Watch 444",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1544.html",
+      "summary": "The risk for a tornado will likely focus through the midday and into the early afternoon in two areas: 1) occasional strengthening of storm-scale rotation in the more prominent band east of the circulation center, and 2) with developing convection over west-central NC moving northwestward into a baroclinic zone.",
+      "discussion": "Midday surface analysis indicates a sharpening baroclinic zone over the western Carolinas in a north-south line from near/immediately east of Spartanburg, SC northward to 35 mi northeast of Hickory, NC. Temperatures east of the boundary have warmed into the upper 70s over SC Piedmont and slightly warmer farther north into NC with lower 80s observed near Charlotte. A very moisture rich airmass featuring mid 70s surface dewpoints in combination with some heating will yield sufficient buoyancy for sustained strong updraft development for a couple of storms. It seems the most vorticity rich low levels will continue to be near the boundary. The Greer, SC 88D VAD shows an enlarged hodograph with 100-150 m2/s2 0-1 km SRH when accounting for observed storm motions. Given the adequate buoyancy/SRH in place, a couple of supercells with an occasional tornado threat seems probable through the early and into the mid afternoon. ..Smith.. 08/17/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1545,
+      "issue_utc": "2021-08-17T18:49Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1545.html",
+      "summary": "Thunderstorms are expected to increase in coverage through the mid to late afternoon hours. Increasing instability and hot surface temperatures will support the potential for severe downburst winds. A watch is possible in the coming hours to address this concern.",
+      "discussion": "Latest surface observations across UT show temperatures climbing into the mid to upper 80s with a slight increase in dewpoints for some locations thanks to modest low-level moisture advection from AZ. This is allowing MUCAPE values to increase well above 1000 J/kg from southwest to central UT. This is priming the thermodynamic environment for thunderstorm development through the mid to late afternoon hours as an upper-level wave and attendant surface trough push into the region from the west. Growing cumulus fields across eastern NV and west/central UT and a few transient thunderstorms have been noted over the past 1-2 hours, and are further evidence of destabilization. Boundary-layer mixing is forecast to deepen substantially as temperatures warm into the low 90s due to an elevated mixed layer noted in the 12z SLC sounding. This will allow for efficient downward mixing and evaporative cooling conducive to severe downburst winds with any strong thunderstorm. Convective coverage may increase gradually through a combination of orographic ascent and more focused lift along the surface trough/ahead of the upper-level wave, but coverage may be sufficient to warrant a severe thunderstorm watch in the coming hours."
+    },
+    {
+      "year": 2021,
+      "number": 1546,
+      "issue_utc": "2021-08-17T19:25Z",
+      "topic": "Tornado Watch 444",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1546.html",
+      "summary": "The tornado threat continues across both WW 444 and 445, though the area of highest tornado potential over the next 1-2 hours will likely reside over northwestern South Carolina and adjacent areas of North Carolina.",
+      "discussion": "The environment over central to northwestern SC has been very productive for tornado generation over the past few hours despite the continued weakening of the remnants of TS Fred. This is likely attributable to a combination of higher low-level theta-e advection from the central Carolinas (where breaks in cloud cover have allowed temperatures to warm into the mid 80s), continued confluence along a residual rain band, and a persistent corridor of warm air advection between 925-850 mb from central to northwestern SC on the eastern side of the tropical low. In addition to providing lift and maintaining instability, this warm advection is supporting 150-250 m2/s2 of 0-1 km SRH, as observed by regional VWPs. This favorable environment is expected to be maintained through the late afternoon hours, which suggests that the associated tornado threat will persist as well - primarily along and north of the I-26 Corridor in northwestern SC and into western portions of NC. An upgrade to an Enhanced risk is planned for parts of this region for the 20z Convective outlook. ..Moore.. 08/17/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1547,
+      "issue_utc": "2021-08-17T20:21Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1547.html",
+      "summary": "Isolated to scattered thunderstorms may be capable of severe downburst winds across southwest to southern Montana this afternoon and evening. However, this threat will most likely remain too isolated to warrant a watch issuance.",
+      "discussion": "A few deeper convective towers with occasional lightning have emerged from a growing cumulus cluster over the terrain of the ID/MT border over the past hour. This is likely the result of increasing instability (MUCAPE values up to 1000 J/kg) and strengthening lift over the region as a surface low slowly deepens ahead of an approaching upper-level wave. As forcing for ascent and instability continue to increase through the late afternoon thunderstorm development will become more likely. Downstream of this cluster, temperatures across southern MT have warmed into the upper 80s ahead of an approaching cold front. Additional boundary-layer heating/mixing will help further steepen low-level lapse rates to near 9 C/km, which may already be achieved at a few sites where dewpoint depressions near 40 F are noted. Strong flow aloft may support some initial storm organization, and the low-level thermodynamic profiles will support a severe downburst potential with any strong thunderstorm. Scattered storm coverage is possible, but the combination of the approaching cold front and patchy cloud cover may spatially limit favorable boundary-layer profiles and the subsequent severe wind potential. Because of this limitation, a watch is not expected at this time. ..Moore.. 08/17/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1548,
+      "issue_utc": "2021-08-17T21:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1548.html",
+      "summary": "The threat for a few tornadoes is expected to persist this evening and overnight as Tropical depression Fred continues north. Replacement tornado watches are forthcoming.",
+      "discussion": "Latest track guidance from WPC placed the center of Tropical Depression Fred at 34.7N 83.9W, or about 90 miles WSW of Asheville, NC. Along Fred's southeastern flank, multiple bands and clusters of low-topped supercells have produced several reported tornadoes over the last couple of hours. As Fred continues northward across the western Carolinas, the environment is forecast to remain favorable for additional tornadoes this evening, and possibly overnight. SPC mesoanalysis and regional VAD wind profiles depict a corridor of strong low-level shear with 0-1km in excess of 200 m2/s2 from northwestern South Carolina to southwestern Virginia. While buoyancy is not overly strong, cloud breaks and tropical dewpoints near 75 F are supporting tall and skinny CAPE profiles with MLCAPE around 500-1000 J/kg. The combination of instability and low-level shear will continue to support a risk for mini-supercells with damaging wind gusts and tornadoes across the western Carolinas and southwestern Virginia this evening. A new Tornado Watch will be coordinated shortly ahead of the 23 UTC expiration of WW444 and WW445."
+    },
+    {
+      "year": 2021,
+      "number": 1549,
+      "issue_utc": "2021-08-18T02:04Z",
+      "topic": "Tornado Watch 446",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1549.html",
+      "summary": "A few tornadoes remain possible across WW462 this evening. As instability decreases the tornado threat should dampen some overnight.",
+      "discussion": "As of 0150 UTC, regional radar imagery showed a loosely organized rain band associated with tropical cyclone Fred extending south through the western Carolinas. Within the band, a mostly linear convective mode has limited the tornado potential somewhat over the last couple of hours. The local environment still remain favorable for updraft rotation and tornadoes with the FCX and TCLT VADs showing large low-level hodographs and 0-1km SRH greater than 250 m2/s2. While thermodynamically, the loss of diurnal heating has resulted in decreasing buoyancy, this will be offset somewhat by an increasingly moist airmass (75+ F dewpoints) associated with the warm core of Fred. MLCAPE values are generally expected to remain below 1000 J/kg across upstate North Carolina and southwestern Virginia, but this should remain adequate to support a few rotating storms through this evening into southern Virginia. ..Lyons.. 08/18/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

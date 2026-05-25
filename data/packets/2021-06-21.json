@@ -1,0 +1,206 @@
+{
+  "convective_day": "2021-06-21",
+  "valid_start": "2021-06-21T12:00Z",
+  "valid_end": "2021-06-22T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-06-21",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-06-21T16:30Z",
+      "valid_end": "2021-06-22T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210621_1630.html",
+      "summary": "Scattered severe thunderstorms are expected from the upper Ohio Valley and Mid-Atlantic into northern New England, capable of damaging gusts, sporadic severe hail, and perhaps a couple of tornadoes.",
+      "sections": [
+        {
+          "title": "Northeast States",
+          "text": "Water vapor imagery shows a broad upper trough digging across the Great Lakes region, with the associated cold front sweeping across southeast Ontario and OH. Mostly clear skies and dewpoints in the 60s to lower 70s ahead of the front, coupled with steep midlevel lapse rates shown on 12z raobs and model forecast soundings will yield a moderately unstable air mass by early afternoon (MLCAPE over 2000 J/kg). It appears thunderstorms will develop by early afternoon along the front - and in the free warm sector to the east. Vertical shear will be sufficient for a mix of multicell and occasional supercell structures, capable of damaging winds and large hail. Low level shear is strongest over Quebec, but may be sufficient over parts of VT/NY for an isolated tornado or two as well. Activity will sweep eastward across the ENH risk area through the early evening, before weakening as it approaches cooler marine-influenced air mass over eastern New England and NJ."
+        },
+        {
+          "title": "TN/KY/WV",
+          "text": "Thunderstorms are likely to develop southwestward along the front from eastern OH into KY/TN this afternoon. Vertical shear weakens with southward extent, but given the degree of instability and midlevel winds of 30-40 knots, will be sufficient for at least occasionally intense storms capable of damaging winds and hail. Therefore, have extended the SLGT farther southwest into these regions."
+        },
+        {
+          "title": "TX/OK/AR/LA",
+          "text": "Several clusters of thunderstorms are expected to develop today across a relatively large area of TX and the mid/lower MS Valley. CAPE will be sufficient for robust updrafts/downdrafts, but weak vertical shear will limit the convective organization. Nevertheless, the strongest cells will pose a risk of locally gusty/damaging winds and hail."
+        },
+        {
+          "title": "Northern CA/OR",
+          "text": "There continues to be a good signal in the 12z model guidance for a small area of strong thunderstorms this afternoon and evening over portions of northern CA into central OR. A deeply mixed boundary layer and inverted-v profiles suggest that locally damaging wind gusts are the main threat. ..Hart/Bentley.. 06/21/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-06-21",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-06-21T20:00Z",
+      "valid_end": "2021-06-22T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210621_2000.html",
+      "summary": "Scattered severe thunderstorms are expected from the upper Ohio Valley and Mid-Atlantic into northern New England, capable of damaging gusts, sporadic severe hail, and perhaps a couple of tornadoes.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "Widespread thunderstorm activity continues along and ahead a cold front extending from western NY southwestward into central TX. Several Severe Thunderstorm Watches are currently ongoing to address the current severe thunderstorm threat, which is expected to last throughout the afternoon and into the evening. Best environment for severe thunderstorms remains from central PA into northern NY and adjacent VT. In this region, 40-45 kt of effective bulk shear is in place amid 1500-2000 J/kg of MLCAPE. Additional short-term forecast information for this region can be found in MCD #1049. MCD #1050 was also recently issued for this region discussing short-term trends across western/central PA and western NY. In these areas, widely scattered strong to locally severe gusts (50-70 mph) are possible with the more intense thunderstorms as several linear segments/clusters move east towards the NY Finger Lakes southward into west-central PA over the next 1-2 hours. Only changes to previous outlook were to trim up the western edges based on current storm trends. ..Mosier.. 06/21/2021 .PREV DISCUSSION... /ISSUED 1114 AM CDT Mon Jun 21 2021/"
+        },
+        {
+          "title": "Northeast States",
+          "text": "Water vapor imagery shows a broad upper trough digging across the Great Lakes region, with the associated cold front sweeping across southeast Ontario and OH. Mostly clear skies and dewpoints in the 60s to lower 70s ahead of the front, coupled with steep midlevel lapse rates shown on 12z raobs and model forecast soundings will yield a moderately unstable air mass by early afternoon (MLCAPE over 2000 J/kg). It appears thunderstorms will develop by early afternoon along the front - and in the free warm sector to the east. Vertical shear will be sufficient for a mix of multicell and occasional supercell structures, capable of damaging winds and large hail. Low level shear is strongest over Quebec, but may be sufficient over parts of VT/NY for an isolated tornado or two as well. Activity will sweep eastward across the ENH risk area through the early evening, before weakening as it approaches cooler marine-influenced air mass over eastern New England and NJ."
+        },
+        {
+          "title": "TN/KY/WV",
+          "text": "Thunderstorms are likely to develop southwestward along the front from eastern OH into KY/TN this afternoon. Vertical shear weakens with southward extent, but given the degree of instability and midlevel winds of 30-40 knots, will be sufficient for at least occasionally intense storms capable of damaging winds and hail. Therefore, have extended the SLGT farther southwest into these regions."
+        },
+        {
+          "title": "TX/OK/AR/LA",
+          "text": "Several clusters of thunderstorms are expected to develop today across a relatively large area of TX and the mid/lower MS Valley. CAPE will be sufficient for robust updrafts/downdrafts, but weak vertical shear will limit the convective organization. Nevertheless, the strongest cells will pose a risk of locally gusty/damaging winds and hail."
+        },
+        {
+          "title": "Northern CA/OR",
+          "text": "There continues to be a good signal in the 12z model guidance for a small area of strong thunderstorms this afternoon and evening over portions of northern CA into central OR. A deeply mixed boundary layer and inverted-v profiles suggest that locally damaging wind gusts are the main threat."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 1045,
+      "issue_utc": "2021-06-21T15:59Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1045.html",
+      "summary": "A severe storm threat is expected to increase over the next 1 to 2 hours. A watch is likely.",
+      "discussion": "Showers have developed along the cold front in east-central Ohio. Expect these showers to develop into thunderstorms and strengthen as the boundary layer warms and destabilizes ahead of this activity. Dewpoints are in the upper 60s to low 70s across much of the Upper Ohio Valley and into the Northeast. 12Z RAOBs show deep moisture near the surface which suggests dewpoints likely won't decrease much, even as the boundary layer mixing deepens. Therefore, an unstable airmass is forecast with MLCAPE in excess of 2000 J/kg. The 1530Z VWP from KCLE observed the vertical wind profile well which, as expected, is similar to the PIT 12Z RAOB. Winds as high as 35 to 40 knots extend as low as 1 km with mid-level flow around 50 knots. This shear profile will be supportive of organized convection including supercells and bowing line segments. In addition, the strong flow within 1km of the surface should aid downward transport of strong winds. Therefore, damaging winds are expected to be the primary hazard. Large hail may also occur, especially with any supercells which may develop. In addition, strong speed shear in the low-levels could support the threat of a tornado or two, but veered surface flow will likely preclude a greater tornado threat."
+    },
+    {
+      "year": 2021,
+      "number": 1046,
+      "issue_utc": "2021-06-21T16:31Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1046.html",
+      "summary": "Storms are expected to develop in the next one to two hours. A watch is likely.",
+      "discussion": "A very moist airmass is in place across the Northeast with widespread dewpoints in the upper 60s to near 70. In addition, mostly sunny skies have allowed temperatures to quickly warm into the low to mid 80s. Despite this heating, dewpoints have not fallen appreciably as the moist airmass is quite deep across this region. This has already allowed for an erosion of MLCIN and MLCAPE around 1500 J/kg per SPC mesoanalysis. Additional warming and some cooling temperatures aloft should lead to additional destabilization with MLCAPE likely 2000 to 2500 J/kg. A cumulus field has already expanded across eastern New York and thunderstorms are expected to emerge from this cumulus field in the next 1 to 2 hours given the CINH is already limited and the boundary layer continues to warm. The KCYX WSR-88D VWP already shows 60 knots of flow around 2km with 40 knots at 1km. Additionally, the KBUF WSR-88D is sensing a 50 knot low-level jet at 1km. This matches 12Z guidance well which also show this low-level jet overspreading much of Vermont and northern New York this afternoon. This strong low-level wind profile will support a damaging wind threat from any storms, and especially where any bowing segments develop. In addition, the shear profile will support some supercells which will be capable of large hail, damaging winds and perhaps a tornado or two. Low-level flow will be mostly unidirectional, but low-level speed shear will be strong, and more backed surface flow is forecast in far northern New York and northern Vermont which could support a locally higher tornado threat, especially given the expectation for at least a few supercells. However, the greater tornado threat will likely remain north of the border in southern Quebec near the warm front."
+    },
+    {
+      "year": 2021,
+      "number": 1047,
+      "issue_utc": "2021-06-21T16:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1047.html",
+      "summary": "Storms along a cold front are expected to become more organized through the afternoon with a threat for some large hail and damaging winds.",
+      "discussion": "Storms have developed along the cold front from northern Kentucky into northeast Arkansas with some additional development occurring in the unstable airmass ahead of this activity. Mid-level flow is weaker in this region (~30-35 kts per area VWP) which yields around 20 to 25 knots of effective shear given the southwesterly surface winds. Therefore, storms have struggled to become organized thus far. However, the airmass ahead of this front is very unstable with MLCAPE around 2500 J/kg and increasing with surface dewpoints in the low to mid 70s. This instability and moderately steep mid-level lapse rates (~7 C/km per BNA 12Z RAOB) will support rapid updraft growth which may pose a threat for isolated damaging wind and large hail. As storms congeal, they may become better organized which could support a greater wind damage threat. If this occurs, a watch may need to be considered across at least parts of northern Tennessee and eastern Kentucky."
+    },
+    {
+      "year": 2021,
+      "number": 1048,
+      "issue_utc": "2021-06-21T17:51Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1048.html",
+      "summary": "Clusters of strong to severe thunderstorms capable primarily of isolated to widely scattered damaging gusts, are possible this afternoon into the early evening. A severe thunderstorm watch will likely be needed over most of the discussion area by mid afternoon.",
+      "discussion": "Visible-satellite imagery shows a cluster of strong to locally severe thunderstorms over WV moving eastward. This thunderstorm cluster will approach the eastern panhandle of WV and far western MD (to the east of severe thunderstorm watch #299) during the next few hours. A cumulus field has developed over the remainder of the discussion area from VA north to the NY/PA border. It seems possible convective initiation occurs over central PA near State College over the next hour. Surface analysis indicates the airmass has destabilized early this afternoon with temperatures generally in the upper 80s deg F with upper 60s to lower 70s dewpoints. Modifying the the Pittsburgh, PA 8am raob for current conditions over central PA yields around 2000 J/kg MLCAPE. The Dulles, VA 8am raob was noticeably less unstable this morning compared to the Pittsburgh, PA raob. However, strong heating and moistening of the boundary layer east of the higher terrain has resulted in moderate buoyancy over this area too. The strong heating across this broad region has steepened low-level lapse rates. As storms move into the region from the west, the lapse rate profiles will support the potential for strong downdrafts with the heavier water-loaded cores or small bow-shaped segments that may evolve. Peak gusts ranging from 50-70 mph are possible with the strongest storms. It is uncertain whether isolated storms will develop over eastern PA during the afternoon or whether the thunderstorm risk will be delayed until storms arrive from the west. This uncertainty is due in part to large-scale subsidence likely suppressing activity on the northwest periphery of Tropical Storm Claudette."
+    },
+    {
+      "year": 2021,
+      "number": 1049,
+      "issue_utc": "2021-06-21T19:35Z",
+      "topic": "Severe Thunderstorm Watch 300",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1049.html",
+      "summary": "The severe storm threat continues with a threat for damaging wind and possibly some large hail.",
+      "discussion": "Storm intensity has slowly increased across portions of northern New York. This process has likely been slowed by a pocket of drier air which advected into the region with dewpoints falling into the mid 60s at some sites. However, low-level moisture continues to advect northward and temperatures remain in the upper 80s to low 90s across the region with MLCAPE likely remaining in the 1500 to 2000 J/kg range into the evening. Even showers which have developed in the region have shown rotation, indicative of the favorable shear profile in the region. Therefore, once stronger updrafts develop, a few intense supercells will be possible with the threat for large hail and damaging winds. One such storm seems to have developed just north of the Canadian border north of the VT/NY border, possibly showing what may materialize farther south in the next few hours. The KCXX VWP continues to show 0-1 SRH in excess of 150 m2/s2 with mostly southerly winds across Vermont. Therefore, if these southerly surface winds can remain as storms develop and move into the area, a locally higher tornado threat may materialize."
+    },
+    {
+      "year": 2021,
+      "number": 1050,
+      "issue_utc": "2021-06-21T19:47Z",
+      "topic": "Severe Thunderstorm Watch 299",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1050.html",
+      "summary": "Widely scattered strong to locally severe gusts (50-70 mph) are possible with the more intense thunderstorms as several linear segments/clusters move east towards the NY Finger Lakes southward into west-central PA over the next 1-2 hours.",
+      "discussion": "Radar mosaic shows several linear segments and thunderstorm clusters moving east from the south shore of Lake Ontario south-southwestward to the Pittsburgh, PA metro. A moist and moderately unstable airmass ahead of the approaching thunderstorm activity will continue to support widely scattered strong gusts with isolated occurrences of gusts 60-70 mph. The Pittsburgh, PA 88D VAD shows 40-kt westerly flow at 3 km ARL. The Ithaca, NY ASOS recently measured a 46-kt gust at 1932 UTC (with an isolated storm to the east) and a NY Mesonet site in Wyoming County, NY measured a 49 mph gust with the squall line. Some of the stronger downdrafts will be capable of channeling this higher momentum to the surface in the form of strong to locally severe gusts through the remainder of the afternoon, as the activity moves east across western NY and western PA. ..Smith.. 06/21/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1051,
+      "issue_utc": "2021-06-21T20:03Z",
+      "topic": "Severe Thunderstorm Watch 301",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1051.html",
+      "summary": "The severe threat continues across WW 301. Damaging wind gusts remain the primary hazard, but instances of severe hail will remain possible through the late afternoon.",
+      "discussion": "Thunderstorms continue to develop along the surface cold front across KY and middle TN with only loose storm organization noted in regional radar imagery. In general, the somewhat weak and along-boundary shear is promoting numerous storm interactions that are limiting the severe threat to some degree. However, east/northeasterly 30 knot 0-3 km shear is noted in regional VWPs, suggesting that any north-south oriented cluster may become organized and pose a more robust damaging wind risk. New convective development is also noted ahead of the front within the open warm sector - primarily being driven by weak low-level theta-e advection and parcels reaching their convective temperatures as highs climb into the mid/upper 80s. This convection has primarily been discrete but short-lived with transient strong updrafts. Given favorable instability (around 2000 J/kg MLCAPE), this activity may pose a brief hail risk as well as a damaging wind risk amid low-level lapse rates between 7-8 C/km. In general, the severe threat should continue across northern TN and east/southeast KY for the next few hours. ..Moore.. 06/21/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1052,
+      "issue_utc": "2021-06-21T20:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1052.html",
+      "summary": "Supercells are expected to persist into the evening.",
+      "discussion": "Two strong supercells are ongoing across northern Maine. The northernmost storm is in a region of weaker instability, but has developed a strong mesocyclone and is near the warm front. The farther south supercell just entering Maine from Quebec appears very healthy with a 2+ inch MRMS MESH signature and an unstable downstream airmass. In addition, surface winds are backed in the region given the proximity to the warm front which does increase the chance of a tornado or two with both storms. Storm coverage has been isolated thus far and and it is unclear how it will evolve through the evening. If the greater threat remains confined to one or two supercells, a watch may not be necessary, but a greater storm coverage may necessitate a watch."
+    },
+    {
+      "year": 2021,
+      "number": 1053,
+      "issue_utc": "2021-06-21T21:59Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1053.html",
+      "summary": "Thunderstorms will continue to pose a risk for a few strong to damaging gusts through about 00Z, followed by an overall decrease in intensities. Due to the limited duration of remaining threat, a WW will probably not be necessary.",
+      "discussion": "Widely scattered to scattered thunderstorms continue developing in the pre-frontal warm sector across eastern TN where the atmosphere remains moderately unstable with up to 2000 J/kg MLCAPE. Latest VAD wind profile from Morristown shows unidirectional west southwest winds from 30-40 kt in the 2 - 6 km layer but with weak vertical shear. This environment is supportive of multicells capable of producing locally strong to damaging gusts. The primary threat should persist another couple of hours, but storms should begin a weakening trend after 00Z as the boundary layer stabilizes with loss of diurnal heating."
+    },
+    {
+      "year": 2021,
+      "number": 1054,
+      "issue_utc": "2021-06-21T22:15Z",
+      "topic": "Severe Thunderstorm Watch 302",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1054.html",
+      "summary": "A line of thunderstorms with a history of damaging wind gusts will track east over the next couple of hours. A continued threat for damaging gusts appears likely before storms move offshore around 00z.",
+      "discussion": "2215Z radar imagery showed a line of strong/severe thunderstorms and short bowing segments across portions of northeastern VA, MD, and southern PA. Several reports of tree and property damage have been received with this convective line over the last few hours. Recent lightning and satellite trends suggests some weakening of the line is occurring given lower flash rates and warmer cloud tops. This is likely the result of interference from the cooler maritime airmass near the Chesapeake Bay. However, SPC mesoanalysis shows a broad area of locally greater buoyancy (2000-2500 J/kg of MLCAPE) exists to the east across DE and southern NJ. While some weakening of the ongoing line will likely continue, damaging wind gusts from strong outflow winds will remain a threat. Some resurgence may occur after storms cross into more favorable thermodynamic profile east of the bay across WW302 and southern portions of 304. This threat will continue before storms move offshore around 00z. ..Lyons.. 06/21/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1055,
+      "issue_utc": "2021-06-21T22:29Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1055.html",
+      "summary": "Isolated to scattered thunderstorms will continue to develop along a surface cold front this evening. Storms may intensify enough to pose a hail/wind threat, but the risk should be limited enough to preclude a watch.",
+      "discussion": "Recent GOES imagery and GLM data show agitated cumulus and one or two convective towers with a few lightning strikes along the surface cold front that is zonally draped across TX. Ahead of this front, temperatures have warmed into the 90s with dewpoints in the upper 60s and low 70s. This boundary-layer warming has helped erode mixed-layer inhibition, and combined with steep lapse rates aloft is supporting 2000-3000 J/kg MLCAPE. Although some lingering inhibition remains, lift along the cold front should be sufficient for at least isolated to scattered thunderstorms over the next 1-2 hours from central to southwest TX. Despite somewhat weak wind shear (20-30 knots of effective bulk shear noted in recent analyses), this thermodynamic environment is supportive of at least a brief hail threat with strong updraft pulses, and 8-9 C/km low-level lapse rates may allow for a few damaging wind gusts. Although one or two organized cells are possible, the coverage of the severe threat is generally expected to be dispersed given the residual capping and somewhat weak deep-layer shear. Consequently, a watch is not expected."
+    },
+    {
+      "year": 2021,
+      "number": 1056,
+      "issue_utc": "2021-06-21T22:50Z",
+      "topic": "Severe Thunderstorm Watch 300",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1056.html",
+      "summary": "A line of severe thunderstorms with a history of severe gusts and wind damage will likely continue to pose a risk for damaging gusts and perhaps a tornado or two this evening. Additional storm development/consolidation across southern New York and northeast Pennsylvania will pose a risk for damaging winds.",
+      "discussion": "Ahead of the cold front moving across western New York, a line of thunderstorms near Syracuse has produced a measured severe gust and numerous reports of wind damage over the last hour. Radar data shows a well developed comma head/bowing segment developing east of the KTYX radar. Damaging winds will be likely with this cluster of thunderstorms as they track to the east northeast over the next couple of hours. Regional VWP data also suggests some mesovortex tornado threat may evolve with 0-1km SRH around 100 ms/s2 and 0-3km line normal shear around 30 kts. Some weakening of this portions of the line may occur closer to the border with Vermont as downstream convection has resulted in some airmass modification. Until then, a corridor of greater severe potential will likely evolve. To the south across portions of northeastern Pennsylvania and southern New York, several clusters of developing thunderstorms were noted along a line from Binghamton to Allentown. Additional storm development should consolidate into a linear mode with the potential for increasing damaging wind threat as storms track through northern New Jersey and southern New York this evening. ..Lyons.. 06/21/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1057,
+      "issue_utc": "2021-06-21T22:54Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1057.html",
+      "summary": "Isolated thunderstorms may pose a risk for hail and damaging winds this evening ahead of an approaching upper-level wave. A watch is not expected.",
+      "discussion": "A few lightning strikes have been noted in GLM data within a slowly deepening cluster of cumulus across south-central OR. Water vapor imagery also hints at deeper convective development within this cluster ahead of an approaching mid-level vorticity maximum. Dewpoints in the low to mid 40s and diurnal warming into the 90s have been sufficient to increase MUCAPE values into the 250-500 J/kg range (with a pocket of 500-1000 J/kg MUCAPE noted in recent analyses). Although some inhibition remains in place, increasing lift ahead of the wave combined with orographic ascent should support isolated thunderstorms during the early evening hours. Increasing deep-layer flow will augment effective bulk shear values to near 30-35 knots within the zone of instability, which may aid in storm organization and support at least a low-end hail threat. Additionally, high dewpoint depressions are noted and are indicative of a dry, well-mixed boundary layer that may allow for damaging wind gusts. Given the isolated nature of this threat, a watch is not expected."
+    },
+    {
+      "year": 2021,
+      "number": 1058,
+      "issue_utc": "2021-06-22T00:17Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1058.html",
+      "summary": "A line of thunderstorms moving across the lower Mississippi River Valley may produce sporadic wind damage, but the overall severe threat will remain low enough to preclude the need for a watch.",
+      "discussion": "Regional radar imagery has revealed a gradually organizing line from western/central LA into western MS along and ahead of a southeastward moving cold front. Although GOES IR imagery shows a few stronger updrafts within the line, no wind damage or strong wind reports have been noted thus far. However, the line is moving into a corridor of higher low-level theta-e air and better instability (upwards of 2000 J/kg MLCAPE), which may support some intensification in the next 1-2 hours prior to the onset of gradual boundary layer stabilization due to the loss of daytime heating. Generally weak deep-layer shear is noted over the region, and a slightly stronger line-normal component to the mid/upper-level flow is allowing the LA segment of the line to propagate to the southeast faster than the MS segment. This section may present a better wind threat in the near term, though the axis of instability ahead of this section is rather narrow. Overall, the low probability for a substantial severe threat and limited spatial extent of the threat preclude a watch."
+    },
+    {
+      "year": 2021,
+      "number": 1059,
+      "issue_utc": "2021-06-22T01:23Z",
+      "topic": "Severe Thunderstorm Watch 300",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1059.html",
+      "summary": "Radar and satellite trends suggests ongoing convective line will gradually weaken over the next couple of hours with the loss of diurnal heating. Isolated severe wind gusts will remain possible with the strongest storms through 0200-0300z. A downstream watch is unlikely given weakening trends and stabilizing surface conditions.",
+      "discussion": "Ahead of a broad upper trough over the northern US, 0120z observations show a loosely organized squall line stretching from northeastern PA through eastern NY into western VT. Infrared satellite trends over the last hour show cloud-top temperatures are slowly warming with the loss of diurnal heating. Surface obs indicate temperatures ahead of the ongoing storms across southern NH and portions of MA and CT have fallen into the 70s F, as the boundary layer has begun to separate. With weakening buoyancy and rapidly increasing inhibition, severe storm potential will diminish as storms track eastward. Isolated damaging wind gusts will likely remain possible with the strongest convective cores, particularly over southern NY, east of current active weather watches. However, widespread severe potential is rapidly decreasing. Convective trends will be monitored, but no downstream watches are currently planned owing to the limited nature of the severe threat with eastward extent."
+    }
+  ]
+}

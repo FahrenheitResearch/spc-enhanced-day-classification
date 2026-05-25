@@ -1,0 +1,148 @@
+{
+  "convective_day": "2021-03-18",
+  "valid_start": "2021-03-18T12:00Z",
+  "valid_end": "2021-03-19T12:00Z",
+  "max_risk": "MDT",
+  "product_counts": {
+    "MDT": 2,
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-03-18",
+      "hhmm": "1200",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2021-03-18T12:00Z",
+      "valid_end": "2021-03-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210318_1200.html",
+      "summary": "Scattered severe thunderstorms are expected today from portions of eastern Georgia, through the Carolinas into extreme southeast Virginia. All severe hazards are possible. Other isolated severe storms are possible from southern Ohio into the central Appalachians.",
+      "sections": [
+        {
+          "title": "Southeast",
+          "text": "Early this morning an organized squall line was advancing across northwest GA, arcing southwest into southern AL. This MCS is supported by a progressive trough with a strong 500mb jet that should translate across central GA into the western Carolinas by 18z. Latest trends suggest this convection should spread across much of western/northern GA by the start of the day1 period. Given the speed/movement of this squall line, the western edge of severe probabilities will be adjusted to reflect an earlier arrival. Latest short-range model guidance and HREF members are not particularly aggressive in destabilizing the Carolinas later today. This is reflected in several HREF individual members struggling to develop organized mesocyclones. While environmental shear will increase during the day, forecast soundings suggest thermodynamics may be a bit weaker than earlier expected. There is some concern this may influence storm coverage if the air mass does not destabilize sufficiently. Latest thinking is coastal southeast SC into southwest NC may exhibit better instability by early afternoon. 03z/RAP for ILM at 17z suggests SBCAPE may approach 2000 J/kg with strong, deep-layer shear, more than "
+        },
+        {
+          "title": "Oh Valley/Central Appalachians",
+          "text": "Exit region of upper jet will encourage vertical motion ahead of the surface low over northern KY early in the period. Models suggest strong boundary-layer heating across KY into western WV will generate steep lapse rates such that convective temperatures will be breached by 18z. Scattered supercells will likely develop ahead of the surface low, then track east toward the higher terrain of the central Appalachians. Hail, wind, and perhaps a few tornadoes can be expected with this strongly diurnal activity. ..Darrow/Lyons.. 03/18/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-03-18",
+      "hhmm": "1300",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2021-03-18T13:00Z",
+      "valid_end": "2021-03-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210318_1300.html",
+      "summary": "Scattered severe thunderstorms are expected through this evening from north Florida and south Georgia northeastward into the Carolinas and extreme southeast Virginia. All severe hazards are possible. Other isolated severe storms are possible from southern Ohio into the central Appalachians.",
+      "sections": [
+        {
+          "title": "Southeast Atlantic states through this evening",
+          "text": "In advance of a pronounced midlevel trough over the lower MS Valley, a surface cyclone will occlude across the OH Valley, and a surface cold front will move eastward from AL to GA this afternoon and across the Carolinas tonight. In advance of the front, a pre-frontal band of convection persists this morning from southwest GA into the FL Panhandle. Recent surface observations have revealed a mesolow with the convective cluster moving into southwest GA, and this may help maintain somewhat stronger vertical shear in the short term across southwest GA. Otherwise, the pre-frontal storms are likely to develop east-northeastward through the morning across southern/eastern GA and extreme north FL, and then into the eastern Carolinas later this afternoon/evening. As a coastal front moves northward today, low-level moisture will spread inland just in advance of the storms, and combine with some daytime heating to support MLCAPE of 500-1000 J/kg. Midlevel lapse rates are expected to remain rather modest, which will temper buoyancy, though CAPE will still be large enough given 0-1 km SRH of 100-200 m2/s2 just ahead of the convection. A few tornadoes, and perhaps an isolated strong tornado, alo"
+        },
+        {
+          "title": "OH Valley this afternoon/evening",
+          "text": "Near the weakening, occluded low, there could be pockets of surface heating this afternoon, on the nose of the midlevel dry slot. With some surface heating and cool midlevel temperatures, buoyancy should become sufficient for a few strong-severe storms this afternoon. This area will be on the northwest edge of the stronger flow/shear, where a mix of multicell clusters and low-end supercells will be possible. ..Thompson/Gleason.. 03/18/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-03-18",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-03-18T16:30Z",
+      "valid_end": "2021-03-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210318_1630.html",
+      "summary": "Scattered severe thunderstorms will likely be centered on the central and eastern Carolinas. A few tornadoes (a couple of which might be strong), damaging winds, and some hail remain possible. Other isolated severe storms are possible from southern Ohio into the central Appalachians, and across north Florida.",
+      "sections": [
+        {
+          "title": "Southeast",
+          "text": "Overall severe threat will likely focus in two corridors which are encompassed by the cat 3/ENH risk for tornado and wind. Initial broken band of non-severe convection is ongoing from south-central GA through the eastern FL Panhandle. This activity has struggled to intensify despite strong low to deep-layer shear as it impinges on a relative minimum in buoyancy sampled by the 12Z JAX sounding and evident in mesoanalysis time-series. However, destabilization is occurring downstream from north FL to the coastal Carolinas and redevelopment of severe storms is anticipated at some point this afternoon. The eastward translation of a 50-55 kt LLJ will support an enlarged hodograph favorable for a few supercells. Modest mid-level lapse rates will remain a limiting factor, though MLCAPE will be large enough given to support a few tornadoes and scattered damaging winds, with a strong tornado or two still possible. The separate area of potential severe should be coincident with the track of a mesolow from the northeast GA/northwest SC border across the Piedmont towards south-central VA. Here, MLCAPE will likely remain weak but cloud breaks just ahead of the low near the mid-level dry slot may"
+        },
+        {
+          "title": "OH Valley",
+          "text": "East and southeast of the weakening occluded cyclone, pockets of stronger boundary-layer heating are underway on the nose of the mid-level dry slot. In conjunction with cool mid-level temperatures, 500-1000 J/kg of MLCAPE will be sufficient for a few strong-severe storms later this afternoon. This area will be on the northwest edge of the stronger flow/shear, where a mix of multicell clusters and a few low-end supercells are probable. A tornado or two, large hail, and damaging winds will be possible. ..Grams/Broyles.. 03/18/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-03-18",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-03-18T20:00Z",
+      "valid_end": "2021-03-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210318_2000.html",
+      "summary": "Scattered severe storms remain possible this afternoon and evening mainly from a portion of South Carolina through central and eastern North Carolina and southeast Virginia. Other strong to severe storms are possible this afternoon over the southern Appalachian region as well as northern Florida.",
+      "sections": [
+        {
+          "title": "Southern Appalachian region",
+          "text": "Storms are developing within corridor of ascent just east of the progressive shortwave trough. Cold temperatures aloft, steep lapse rates and diabatic heating will continue to foster widely scattered storm development this afternoon. Isolated large hail and a few locally strong wind gusts are the main threats. Activity should diminish toward late afternoon or early evening. ..Dial.. 03/18/2021 .PREV DISCUSSION... /ISSUED 1133 AM CDT Thu Mar 18 2021/"
+        },
+        {
+          "title": "Southeast",
+          "text": "Overall severe threat will likely focus in two corridors which are encompassed by the cat 3/ENH risk for tornado and wind. Initial broken band of non-severe convection is ongoing from south-central GA through the eastern FL Panhandle. This activity has struggled to intensify despite strong low to deep-layer shear as it impinges on a relative minimum in buoyancy sampled by the 12Z JAX sounding and evident in mesoanalysis time-series. However, destabilization is occurring downstream from north FL to the coastal Carolinas and redevelopment of severe storms is anticipated at some point this afternoon. The eastward translation of a 50-55 kt LLJ will support an enlarged hodograph favorable for a few supercells. Modest mid-level lapse rates will remain a limiting factor, though MLCAPE will be large enough given to support a few tornadoes and scattered damaging winds, with a strong tornado or two still possible. The separate area of potential severe should be coincident with the track of a mesolow from the northeast GA/northwest SC border across the Piedmont towards south-central VA. Here, MLCAPE will likely remain weak but cloud breaks just ahead of the low near the mid-level dry slot may"
+        },
+        {
+          "title": "OH Valley",
+          "text": "East and southeast of the weakening occluded cyclone, pockets of stronger boundary-layer heating are underway on the nose of the mid-level dry slot. In conjunction with cool mid-level temperatures, 500-1000 J/kg of MLCAPE will be sufficient for a few strong-severe storms later this afternoon. This area will be on the northwest edge of the stronger flow/shear, where a mix of multicell clusters and a few low-end supercells are probable. A tornado or two, large hail, and damaging winds will be possible."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 221,
+      "issue_utc": "2021-03-18T14:34Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0221.html",
+      "summary": "At least isolated strong to severe storms are expected to develop along the warm front, in a corridor from northern Georgia into west-central North Carolina.",
+      "discussion": "Surface analysis shows a warm front extending from northern GA eastward into northern SC, with dewpoints into the lower 60s F to the south. Meanwhile, a dryline was developing across western GA in association with the midlevel dry slot. Surface observations also show an area of pressure falls, up to 1 mb/hr, just ahead of the dryline/warm front intersection. This is also where a line of thunderstorms currently exists, just east/northeast of the Atlanta area. As the warm front lifts north today, gradual destabilization is expected, mainly through advection early, but also with heating this afternoon as breaks in the clouds develop. Despite poor midlevel lapse rates south of the midlevel jet core, a favorable corridor of lift and low-level shear may support severe storms, including the threat of tornadoes and damaging wind gusts. Effective SRH exceeds 300 m2/s2 as of late morning, and although forecast to decrease throughout the day, will still be sufficient for tornadoes with 150-250 m2/s2 concentrated in the lowest 1km near the warm front."
+    },
+    {
+      "year": 2021,
+      "number": 222,
+      "issue_utc": "2021-03-18T15:05Z",
+      "topic": "Tornado Watch 39",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0222.html",
+      "summary": "Severe storms remain possible within WW 39, with a tornado or damaging wind threat shifting east into the afternoon. An additional watch is likely downstream of WW 39.",
+      "discussion": "A line of storms currently extends from central and southern GA into the eastern FL Panhandle. This activity has been a bit disorganized, with only brief areas of rotation or shear zones noted on radar. One notable cluster of storms was located over Laurens County GA as of 15Z. While these storms currently exist near the instability axis with MLCAPE at or above 500 J/kg, objective analysis shows only weak instability downstream into eastern GA and SC. With time, this area will destabilize as well as dewpoints rise and if pockets of heating develop. An axis of 200-300 m2/s2 effective SRH is forecast to remain ahead of the developing dryline, and will support a supercell and tornado threat later today. ..Jewell.. 03/18/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 223,
+      "issue_utc": "2021-03-18T18:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0223.html",
+      "summary": "Isolated large hail and wind damage will be possible this afternoon across parts of the upper Ohio Valley. As storm coverage increases, weather watch issuance will need to be considered across the region.",
+      "discussion": "The latest water vapor imagery shows an upper-level low in the mid Mississippi Valley. A pronounced dry slot extends around the eastern side of the system across much of the upper Ohio Valley. Beneath the dry slot, a thermal axis of 65 to 70 F temperatures is located very near to the location of a 1001 mb surface low. The warming surface temperatures are contributing to MLCAPE in the 500 to 750 J/kg range according to RAP analysis. Instability will continue to gradually increase across the upper Ohio Valley this afternoon. This combined with lift associated with the left exit region of a mid-level jet and moderate deep-layer shear will support scattered strong thunderstorm development. The stronger cells will rotate and have potential for isolated large hail. This cells could also produce a few damaging wind gusts. The ongoing threat in eastern Kentucky is expected to develop eastward into West Virginia this afternoon."
+    },
+    {
+      "year": 2021,
+      "number": 224,
+      "issue_utc": "2021-03-18T19:10Z",
+      "topic": "Tornado Watch 41",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0224.html",
+      "summary": "Storms will continue to develop east/northeast across the watch area, and a new watch could be needed into central North Carolina later this afternoon.",
+      "discussion": "A broken line of cells continues to progress east into northwestern SC, near the surface trough and along and north of the warm front. Surface analysis shows warming and destabilization continues south of this front, and this should allow these storms to persist and perhaps expand in coverage. The greatest severe risk appears to be along the warm front, where storms will experience enhanced lift. Strong deep-layer shear as well as effective SRH of 200-300 m2/s2 will favor supercells at times, with a threat of a brief tornado or damaging gusts. If storm trends continue up over the next few hours, an additional watch could be needed downstream into NC. ..Jewell.. 03/18/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 225,
+      "issue_utc": "2021-03-18T21:57Z",
+      "topic": "Tornado Watch 42",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0225.html",
+      "summary": "Tornadoes and damaging wind gusts are possible with clusters of ongoing convection. This threat will persist for at least the next couple of hours.",
+      "discussion": "Convection initially over north-central North Carolina has organized and acquired rotation while favorably interacting with a warm frontal zone over far southern Virginia. These storms are in a strongly sheared environment with lingering instability upstream from an undisturbed environment along/south of the front containing 1000-1500 J/kg MLCAPE. The general clustered nature of the convection suggests potential for several cell interactions, though the combination of shear, localized vorticity ingest along the front, and moderate instability suggests that the tornado threat will exist for at least the next couple hours. Hail is also possible near supercellular convection exhibiting stronger updrafts. Farther upstream, another quasi-linear segment was located very near the Greensboro, NC area and has also exhibited occasionally strong rotation on radar. Brief tornadoes and wind damage are likely as this area of convection migrates/propagates east-northeastward along the remnant frontal boundary in that area. More isolated cells farther southwest into north-central South Carolina may also exhibit a hail/wind and isolated tornado risk given the strong shear and weak instability downstream, although slightly veered low-level flow may temper the tornado threat in this area compared to farther downstream."
+    },
+    {
+      "year": 2021,
+      "number": 226,
+      "issue_utc": "2021-03-18T23:49Z",
+      "topic": "Tornado Watch 42",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0226.html",
+      "summary": "The severe threat continues across WWs 42 and 43.",
+      "discussion": "Based on latest trends, the highest tornado threat will continue with convection located along the lingering warm frontal zone from near AVC to RIC. Convection in north-central North Carolina has a history of possible tornado damage in the Greensboro area, and a continued risk for damaging winds and tornadoes will continue with this cluster of storms as it migrates east-northeastward along/near the NC/VA border area. Additional convection to the northeast (near Sussex/Surry counties in Virginia) and along the surface trough through north-central South Carolina will likely benefit from the influence of gradually strengthening low-level flow/helicity, but there are concerns that weaker instability and nocturnal cooling may result in slightly elevated, weakening convection. Convective trends are being monitored, though it appears that the ongoing severe threat will persist for at least the next couple of hours (through 02Z). WWs 42 and 43 both are scheduled to expire at 01Z, and local temporal extensions may be needed to address any lingering severe threat beyond that time. ..Cook.. 03/18/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "convective_day": "2022-03-31",
+  "valid_start": "2022-03-31T12:00Z",
+  "valid_end": "2022-04-01T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2022-03-31",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-03-31T16:30Z",
+      "valid_end": "2022-04-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220331_1630.html",
+      "summary": "Damaging thunderstorm gusts and a few tornadoes are possible today from parts of the Southeast into the Mid-Atlantic region and Hudson Valley.",
+      "sections": [
+        {
+          "title": "VA into NY",
+          "text": "Broad and strong southwesterly flow aloft is present today across much of the eastern US, with a strong shortwave trough moving across the upper OH Valley. Breaks in the clouds are resulting in pockets of heating across this area, which should yield at least marginal afternoon CAPE values. Storms have begun to strengthen along a pre-frontal axis over western PA. Model consensus shows multiple corridors of strengthening low-level winds through the day, which will help to enhance convergence and lead to more widespread intensifying thunderstorms by mid-afternoon. These fast-moving storms will pose a risk of damaging winds and isolated tornadoes. Have added an ENH risk area for this threat."
+        },
+        {
+          "title": "Southeast",
+          "text": "A broken line of thunderstorms extends from central GA into the FL Panhandle this morning. The air mass ahead of the line is moist and marginally unstable with dewpoints in the mid 60s to lower 70s and MLCAPE values around 500 J/kg. Shear remains very strong across the region, which may allow at least isolated cells to pose a damaging wind and tornado threat for much of the day as the low-level jet migrates northward into the Carolinas. Please refer to MCD #375 for further details. ..Hart/Wendt.. 03/31/2022"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-03-31",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-03-31T20:00Z",
+      "valid_end": "2022-04-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220331_2000.html",
+      "summary": "Damaging thunderstorm gusts and a few tornadoes will remain possible through this evening from parts of the Carolinas into the Mid-Atlantic region and Hudson Valley.",
+      "sections": [
+        {
+          "title": "Mid Atlantic and Carolinas",
+          "text": "Scattered thunderstorm development along a subtle pre-frontal confluence axis from central PA south into western VA and MD should continue and increase this afternoon and evening with the passage of an upper-level shortwave trough over northern NY. Marginal observed surface moisture (dewpoints in the upper 50s to low 60s F) should gradually improve ahead of these storms with dewpoints climbing into the low 60s F by this evening. While cloud cover has forestalled diurnal destabilization across eastern parts of PA and VA/MD so far, cloud breaks and improving surface moisture agree with regional RAP soundings showing the potential for weak destabilization (MLCAPE 250-500 J/kg) ahead of the developing storms farther west. VAD/VWPs show very strong wind fields with 0-1km flow of 50-60 kts. Despite the meager buoyancy and messy storm mode, bands of storms will be capable of producing damaging wind gusts and perhaps a couple of tornadoes as they move east into the ENH area and eventually offshore this evening. For more info see MCD #378. Farther south across the Carolinas and southern VA, early afternoon thunderstorm development ahead of a speed max embedded within southwesterly flow alof"
+        },
+        {
+          "title": "Northern Florida into southeast Georgia",
+          "text": "A band of thunderstorms off the northwest FL coast should continue to move east-northeast this afternoon and evening. Gradual weakening of the system is expected as storms move away from large-scale forcing for ascent and low-level surface flow veers. Damaging wind gusts and a tornado or two will be possible with any stronger linear segments or weak supercells able to develop. However, decreasing buoyancy and ascent this evening should slowly diminish the severe threat after sunset. ..Lyons/Gleason.. 03/31/2022 .PREV DISCUSSION... /ISSUED 1114 AM CDT Thu Mar 31 2022/"
+        },
+        {
+          "title": "VA into NY",
+          "text": "Broad and strong southwesterly flow aloft is present today across much of the eastern US, with a strong shortwave trough moving across the upper OH Valley. Breaks in the clouds are resulting in pockets of heating across this area, which should yield at least marginal afternoon CAPE values. Storms have begun to strengthen along a pre-frontal axis over western PA. Model consensus shows multiple corridors of strengthening low-level winds through the day, which will help to enhance convergence and lead to more widespread intensifying thunderstorms by mid-afternoon. These fast-moving storms will pose a risk of damaging winds and isolated tornadoes. Have added an ENH risk area for this threat."
+        },
+        {
+          "title": "Southeast",
+          "text": "A broken line of thunderstorms extends from central GA into the FL Panhandle this morning. The air mass ahead of the line is moist and marginally unstable with dewpoints in the mid 60s to lower 70s and MLCAPE values around 500 J/kg. Shear remains very strong across the region, which may allow at least isolated cells to pose a damaging wind and tornado threat for much of the day as the low-level jet migrates northward into the Carolinas. Please refer to MCD #375 for further details."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2022,
+      "number": 375,
+      "issue_utc": "2022-03-31T15:48Z",
+      "topic": "Tornado Watch 85",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0375.html",
+      "summary": "Isolated to widely scattered vigorous thunderstorm development, including the risk for supercells capable of producing tornadoes, appears increasing probable through 2-4 PM EDT. Trends are being monitored for the possibility that this may require a new severe weather watch.",
+      "discussion": "Within the pre-frontal plume of higher precipitable water content, which is generally aligned with the strong southerly low-level jet (including 50-60 kt around 850 mb), remnant convectively generated cloud cover and precipitation is widespread. However, breaks/thin spots in the overcast are allowing for weak destabilization of the moistening boundary layer, and this appears to be contributing to at least some intensification of embedded deeper convection. Most notably, currently, this includes an organizing cell to the west of Waycross GA, but similar intensification may be underway across the Piedmont of South Carolina. With increasing breaks in the cloud cover probable into early afternoon, these trends may continue. Model forecast soundings suggest that low-level hodographs near the strong 850 jet axis are in the process of becoming characterized by increasing clockwise curvature, conducive to the evolution of supercells with increasing risk to produce tornadoes. While these may remain isolated to widely scattered due to the limited instability, a new severe weather watch may be needed within the next couple of hours. ..Kerr.. 03/31/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 376,
+      "issue_utc": "2022-03-31T16:07Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0376.html",
+      "summary": "Isolated wind damage is possible early this afternoon as storm develop in western Pennsylvania/Maryland. Storm intensity is expected to increase later this afternoon into central/eastern Pennsylvania and adjacent areas of Maryland. Trends will continue to be monitored for a watch issuance.",
+      "discussion": "Cloud cover has continued to clear across West Virginia into western Pennsylvania as mid-level dry air overspreads the area. Though MLCAPE values remain below 300 J/kg, surface heating has brought temperatures in southwestern Pennsylvania into the upper 60s F. Low-level lapse rates are likely steepened enough to support a risk for damaging wind gusts given 50-60 kts of wind within the lowest 2 km on regional VAD winds. Into central Pennsylvania, more time will be require to destabilize as cloud cover has kept temperatures in the mid/upper 50s F. However, with the decreasing cloud cover expected, an increasing severe risk will probably occur by mid-afternoon. Southerly winds should advect increasing moisture into the area as well. Limited buoyancy and veered surface winds in western Pennsylvania will limit the tornado risk with early activity. Surface winds will remain more backed in central/eastern Pennsylvania along with greater 850 mb wind speeds. The greater tornado threat is likely to exist farther east and later this afternoon."
+    },
+    {
+      "year": 2022,
+      "number": 377,
+      "issue_utc": "2022-03-31T18:11Z",
+      "topic": "Tornado Watch 86",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0377.html",
+      "summary": "Organizing thunderstorm development possible through late afternoon, perhaps including a supercell or small evolving cluster with the potential to produce a couple of tornadoes and/or damaging wind gusts.",
+      "discussion": "An area of persistent stronger convective development, currently near Southern Pines NC, may be supported by forcing associated with a mid-level speed maximum nosing across and northeast of the Piedmont. Breaks/thin spots in cloud cover across the Piedmont into coastal plain continue to allow for weak destabilization of a moistening boundary, and if the mid-level forcing for ascent is maintained, inhibition associated with warm layers aloft may weaken sufficiently to support substantive further intensification during the next few hours. This still appears to generally coincide with the axis of 50-60 kt southerly 850 mb flow, and forecast soundings near the mid-level speed maximum still exhibit clockwise curved low-level hodographs becoming maximized. It is possible that this may provide the primary focus for organizing thunderstorms development, possibly including a supercell or two with the potential to produce tornadoes. ..Kerr.. 03/31/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 378,
+      "issue_utc": "2022-03-31T19:40Z",
+      "topic": "Severe Thunderstorm Watch 87",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0378.html",
+      "summary": "Threat for damaging wind gusts and a couple of tornadoes, particularly in parts of central/eastern Pennsylvania, will continue this afternoon/evening. A new watch will likely be needed into parts of southeast New York and New Jersey as activity continues to the east.",
+      "discussion": "Skies have remained relatively clear across parts of central/eastern Pennsylvania ahead of a line of convection that has shown increase in coverage and lightning activity. Surface observational trends have also shown a localized area of pressure falls ahead of this activity. Damaging wind gusts and isolated marginally severe hail will remain a concern as these storms continue eastward. Given the backed surface winds in eastern Pennsylvania and 850 mb winds that should remain strong to the east, there will also be a threat for QLCS circulations/tornadoes. As this activity is expected to continue into southeastern New York and New Jersey, a new watch will likely be needed this afternoon. ..Wendt.. 03/31/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 379,
+      "issue_utc": "2022-03-31T20:14Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0379.html",
+      "summary": "Strong thunderstorms may gradually spread inland through 6-8 PM EDT, accompanied by at least some potential for locally strong surface gusts and/or perhaps a tornado. It still appears unlikely that a severe weather watch will be needed, but trends will continue to be monitored.",
+      "discussion": "Downstream of the base of large-scale mid-level troughing near/east of the Mississippi Valley, forcing for ascent has maintained a sizable pre-frontal cluster of thunderstorms across the northeastern Gulf of Mexico. One embedded mesoscale convective vortex, which has evolved over the past several hours is now approaching coastal areas south of Cross City. Another appears to be developing along the trailing line of more intense storms, about 40 miles to the west-southwest. Embedded within 30-50 kt mean west-southwesterly flow (within the 850-500 mb layer), these circulations appear likely to continue inland across the peninsula, toward areas near and southwest of Daytona Beach through 22-00Z. Given the modest boundary-layer destabilization which has taken place over inland areas, including CAPE of 1000-1500 J/kg, there appear appears potential for for thunderstorm activity to remain vigorous and perhaps strengthen some, perhaps posing at least some risk for producing locally damaging wind gust and perhaps a tornado. Additional similar wave/mesoscale convective vortex evolution may occur farther offshore and gradually approach the Tampa area."
+    },
+    {
+      "year": 2022,
+      "number": 380,
+      "issue_utc": "2022-03-31T22:19Z",
+      "topic": "Tornado Watch 88",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0380.html",
+      "summary": "The potential for a brief tornado or two will continue through 8 PM EDT across the eastern Carolinas and far southeast Virginia. The greatest potential over the next two hours may reside over northeast North Carolina into southeast Virginia.",
+      "discussion": "Latest GOES imagery has continued to show shallow convection developing across north-central to northeast NC over the past hour. Despite limited instability (250-500 J/kg MLCAPE per latest RAP mesoanalysis), the KRAX VWP continues to show ample low-level shear with around 330 m2/s2 0-1 km SRH. Given this kinematic environment, weak convection may develop shallow mesocyclones supportive of brief, weak tornadoes. Low-level SRH may be enhanced along a subtle warm front/confluence axis noted in surface observations along the NC/VA border, which may support a locally elevated tornado potential that is conditional more robust convection. ..Moore.. 03/31/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 381,
+      "issue_utc": "2022-03-31T23:13Z",
+      "topic": "Severe Thunderstorm Watch 89",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0381.html",
+      "summary": "Strong wind gusts will remain possible for a few more hours this evening. Storms should gradually weaken after sunset as they move farther east.",
+      "discussion": "As of 2315 UTC regional RADAR analysis showed several broken bands of thunderstorms from east-central PA and the DelMarVa to southern New England. Ahead of the storms, the low-level airmass remains weakly unstable with surface dewpoints in the upper 50s and low 60s F. Farther east toward the coast, widespread cloud cover is present, limiting overall destabilization. Limited instability (MUCAPE less than 250 J/Kg) along the northern part of the convective line in eastern NY and southern New England should continue to wane as storms move eastward this evening. Robust environment winds (1km flow 60-70 kt) near the surface may support occasional strong wind gusts, but the overall severe threat should continue to decrease over the next few hours. Farther south across PA and VA, greater confidence in a continued severe risk exists for a few more hours. The ongoing strong/severe storms may persist longer given locally higher buoyancy (approx 500-1000 J/Kg MUCAPE) and surface moisture. Strong wind gusts will be the primary risk given very strong flow aloft. These storms should also begin to weaken after sunset as the boundary layer gradually begins to stabilize. ..Lyons.. 03/31/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 382,
+      "issue_utc": "2022-03-31T23:58Z",
+      "topic": "Tornado Watch 88",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0382.html",
+      "summary": "The threat for a brief tornado or two may continue for the next one or two hours for parts of eastern North Carolina.",
+      "discussion": "Latest GOES IR imagery and lightning data have shown a slight intensification of convection across eastern NC over the past 1-2 hours. A few transient convergence zones/weak mesocyclones have been noted with more discrete convection. Although consolidated cold pool amalgamation is likely underway within the loosely organized line based on latest KMHX velocity data, the noted convective trends hint that robust convection may persist for the next 1-2 hours. Given very strong veering in the 0-2 km layer (based on KMHX VWP obs), transient mesocyclones, either embedded within the line or associated with any discrete convection to the east of the line, are possible and may pose a tornado threat. However, storm motions along the axis of lift/oriented along the line cast uncertainty into this potential. ..Moore.. 03/31/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 383,
+      "issue_utc": "2022-04-01T01:43Z",
+      "topic": "Severe Thunderstorm Watch 87",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0383.html",
+      "summary": "The threat for isolated damaging winds will persist through about 03z, and then diminish by 04z.",
+      "discussion": "A pre-frontal band of convection, with some embedded bowing segments, will likely persist for another 1-2 hours across NJ and vicinity, before diminishing near the expiration time of watch 89 at 04z. Despite the loss of insolation, low-level moisture advection from the south will support modest increases in buoyancy as low 60s dewpoints spread northward across NJ. The moistening/weak destabilization will occur in a strongly sheared environment per local VWPs, with largely line-parallel shear of 40-50 kt in the lowest km above ground level. This convection appears to be coincident with a lead mid-upper speed max, and low-level flow is expected to veer in the next 2 hours and weaken with passage of this speed max aloft. In the interim, isolated damaging gusts will still be possible given the high-momentum (50-60 kt) southwesterly low-level flow and modest downdraft potential along the line (a little increase in DCAPE this evening). Farther west, a few storms have recently intensified near the synoptic cold front and in association with the speed max aloft, near the south central PA border. Some weak destabilization in the wake of the pre-frontal band could support a localized wind threat for 1-2 hours from south central into southeast PA. ..Thompson.. 04/01/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

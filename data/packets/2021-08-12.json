@@ -1,0 +1,172 @@
+{
+  "convective_day": "2021-08-12",
+  "valid_start": "2021-08-12T12:00Z",
+  "valid_end": "2021-08-13T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-08-12",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-08-12T16:30Z",
+      "valid_end": "2021-08-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210812_1630.html",
+      "summary": "Damaging winds will be the main threat with clusters of storms this afternoon/evening from eastern Ohio into Pennsylvania. More isolated severe storms with damaging winds will also be possible into New York and Vermont, and from northeast Kansas to central Illinois.",
+      "sections": [
+        {
+          "title": "OH/PA/NY/VT this afternoon/evening",
+          "text": "Regional 12z soundings and VWP observations show a belt of 35-50 kt flow near 700 mb/3 km AGL over the lower Great Lakes, likely related to remnant MCVs from prior convection. These embedded perturbations will move east-northeastward around the far southeastern periphery of the deep midlevel low over Hudson Bay. The development of scattered cells/clusters is expected by early afternoon from central NY toward VT in conjunction with weak ascent and differential heating on the east edge of the thicker clouds over western NY, with an attendant threat for occasional wind damage through the afternoon. Other storms are expected to form this afternoon from northwestern PA into northeastern OH, in association with remnant MCVs over IN and Lake Erie, and along a zone of remnant outflow and differential heating. Clusters evolving into line segments will be capable of producing damaging outflow gusts of 55-65 mph in an environment with MLCAPE of 2500-3500 J/kg, DCAPE in excess of 1000 J/kg, and 30+ kt westerly flow in the 700-500 mb layer."
+        },
+        {
+          "title": "Northern/central IL to northeastern KS through tonight",
+          "text": "A regime of cyclonic flow aloft will persist from the northern Plains to the Great Lakes, as subtle/embedded speed maxima rotate eastward through the base of the trough. An associated reinforcing frontal surge is moving southeastward across NE/IA/WI, while a diffuse pre-frontal outflow boundary extends eastward from southern IA to northern IL/IN. Despite weakening low-level warm advection, convection has expanded in coverage along this remnant boundary from southeast IA into east central IL. Isolated downbursts and/or marginally severe hail could accompany these storms, especially if they persist into the afternoon as the low levels warm/moisten to the south. North of the ongoing storms, there is growing concern that clouds and/or rain-cooled air may be sufficient to interfere with later storm development along the reinforcing front from southeast IA into northwest IL. MLCAPE of 3500-5000 J/kg is expected along and south of the boundaries based on mid 70s boundary-layer dewpoints beneath 8 C/km midlevel lapse rates. The thermodynamic environment will favor intense updrafts and precipitation-loaded downdrafts capable of producing wind damage with outflow winds of 60-70 mph, as well "
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-08-12",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-08-12T20:00Z",
+      "valid_end": "2021-08-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210812_2000.html",
+      "summary": "Damaging winds will be the main threat with clusters of storms this afternoon/evening across parts of the Northeast. A damaging gust or instance of marginally severe hail will remain possible from northern Kansas to the Ohio Valley through the remainder of the period.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "Primary change this outlook was to drop the Slight risk across portions eastern KS to central IL. Ongoing convection has failed to materialize a substantial cold pool thus far and continues to drift slowly southward while overturning the airmass ahead of the cold front. A damaging gust/instance of marginally severe hail remains possible through the evening, with the Marginal risk being maintained. Please see MCD #1500 for more details. Severe probabilities have also been trimmed across portions of western NY, as convective overturning has stabilized the airmass to an extent. Given the northward streaming of convective anvils over western NY, robust airmass recovery supportive of an organized severe threat is not anticipated. Otherwise, the forecast generally remains on track. The Enhanced risk continues across the portions of far east OH into PA in anticipation of a second round of storms materializing this afternoon. Please see MCD #1499 for more details. Isolated strong to potentially severe storms may also produce an instance or two of damaging gusts or marginally severe hail across the OH later this evening/tonight, as storms develop near the nose of a modest nocturnal low-leve"
+        },
+        {
+          "title": "OH/PA/NY/VT this afternoon/evening",
+          "text": "Regional 12z soundings and VWP observations show a belt of 35-50 kt flow near 700 mb/3 km AGL over the lower Great Lakes, likely related to remnant MCVs from prior convection. These embedded perturbations will move east-northeastward around the far southeastern periphery of the deep midlevel low over Hudson Bay. The development of scattered cells/clusters is expected by early afternoon from central NY toward VT in conjunction with weak ascent and differential heating on the east edge of the thicker clouds over western NY, with an attendant threat for occasional wind damage through the afternoon. Other storms are expected to form this afternoon from northwestern PA into northeastern OH, in association with remnant MCVs over IN and Lake Erie, and along a zone of remnant outflow and differential heating. Clusters evolving into line segments will be capable of producing damaging outflow gusts of 55-65 mph in an environment with MLCAPE of 2500-3500 J/kg, DCAPE in excess of 1000 J/kg, and 30+ kt westerly flow in the 700-500 mb layer."
+        },
+        {
+          "title": "Northern/central IL to northeastern KS through tonight",
+          "text": "A regime of cyclonic flow aloft will persist from the northern Plains to the Great Lakes, as subtle/embedded speed maxima rotate eastward through the base of the trough. An associated reinforcing frontal surge is moving southeastward across NE/IA/WI, while a diffuse pre-frontal outflow boundary extends eastward from southern IA to northern IL/IN. Despite weakening low-level warm advection, convection has expanded in coverage along this remnant boundary from southeast IA into east central IL. Isolated downbursts and/or marginally severe hail could accompany these storms, especially if they persist into the afternoon as the low levels warm/moisten to the south. North of the ongoing storms, there is growing concern that clouds and/or rain-cooled air may be sufficient to interfere with later storm development along the reinforcing front from southeast IA into northwest IL. MLCAPE of 3500-5000 J/kg is expected along and south of the boundaries based on mid 70s boundary-layer dewpoints beneath 8 C/km midlevel lapse rates. The thermodynamic environment will favor intense updrafts and precipitation-loaded downdrafts capable of producing wind damage with outflow winds of 60-70 mph, as well "
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 1497,
+      "issue_utc": "2021-08-12T15:03Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1497.html",
+      "summary": "A severe thunderstorm watch will most likely be needed by the early afternoon timeframe as storms develop/intensify. Strong/severe gusts (50-65 mph) will be possible with the more intense downdrafts.",
+      "discussion": "Visible-satellite imagery shows an MCV near the eastern shore of Lake Ontario quickly moving northeast and paralleling the international border. To the east through south of the mid-level feature, heating is occurring under mostly clear skies to areas of stratocumulus. Surface conditions as of 1050am on the NY Mesonet show temperatures ranging from the mid 70s beneath the cloud patches to lower 80s. Dewpoints range from 69-74 deg F. The Fort Drum, NY (KTYX) and Buffalo, NY (KBUF) VAD data show a belt of flow 35-50 kt around 3 km AGL. The VAD data is similar to the strength of flow (40-50 kt in the 850-700 mb layer) sampled by the 12z Buffalo, NY raob. As the airmass continues to destabilize and yield moderate buoyancy by midday (1000-2000 J/kg MLCAPE), expecting storms to develop and increase in coverage through mid afternoon across central/northern NY. Clusters of strong to severe storms are possible resulting in damaging/locally severe gusts (50-65 mph). Scattered wind damage will be possible with the more intense water-loaded downdrafts."
+    },
+    {
+      "year": 2021,
+      "number": 1498,
+      "issue_utc": "2021-08-12T16:19Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1498.html",
+      "summary": "Convective evolution is a bit uncertain but a gradual increase in storm coverage is expected. The environment will continue to destabilize and become more favorable for damaging and localized severe gusts through the mid afternoon.",
+      "discussion": "Visible-satellite imagery shows a cluster of intensifying thunderstorms near the northeast OH/northwest PA border moving east. A considerable patch of stratocumulus has been slow to erode through the midday hours due in part to the high-quality moisture present over the upper OH Valley east into central PA. Surface temperatures are gradually warming into the low 80s with dewpoints in the lower 70s. As temperatures warm into the mid-upper 80s, upwards of 3000+ J/kg MLCAPE is possible over southwest PA northeastward into central PA this afternoon. The southern fringe of stronger low- to mid-level flow is across western PA (around 30 kt at 3 km AGL). This slight enhancement in flow will aid in some thunderstorm organization in the form of coherent clusters. Strong to severe gusts (50-65 mph) will likely be the main threats with the stronger storms. Timing of when a more widespread severe threat will develop is a bit uncertain but it would seem a gradual increase in storm coverage/intensity would occur over the next couple of hours."
+    },
+    {
+      "year": 2021,
+      "number": 1499,
+      "issue_utc": "2021-08-12T19:17Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1499.html",
+      "summary": "Convective initiation is being monitored for over northeast OH during the through 4pm. If/once storms develop and subsequently intensify, the environment over adjacent parts of OH/WV/PA supports the stronger storms being capable of 55-65 mph gusts and wind damage.",
+      "discussion": "Visible satellite imagery shows a swelling cumulus field with the initial signs of glaciation occurring southwest of Cleveland as of 305pm. A series of gravity waves are implied in the cumulus field, but this seems to have little overall impact for convective initiation. More consequential, an MCV located over the northwest quadrant of OH will continue to move east towards northeast OH. Ascent associated with this feature appears to be having some influence in the onset of more appreciable convective development. With upper 80s surface temperatures and middle 70s dewpoints, the 17z run of the RAP appears to have an accurate depiction of the surface conditions. The RAP forecast soundings show around 3000 J/kg MLCAPE over northeast OH. The 30-40 kt flow in the 700-500 mb layer (per the RAP soundings) will aid in some multicellular organization once convective initiation occurs. The primary risks with the stronger storms will be gusts in the 55-65 mph range and perhaps marginally severe hail. The area from northeast OH into western PA is being considered for a severe thunderstorm watch."
+    },
+    {
+      "year": 2021,
+      "number": 1500,
+      "issue_utc": "2021-08-12T19:22Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1500.html",
+      "summary": "Isolated damaging wind gusts are possible through the afternoon and evening.",
+      "discussion": "Ongoing mid-level convection has been mostly a flash flood threat as storms were mostly training through the morning and early afternoon. However, recently outflow has pushed south from this activity into south-central Illinois where SPC mesoanalysis shows MLCIN has mostly eroded and a boundary layer cu field has developed. More robust convection has developed near the interaction of this outflow with the stronger instability (MLCAPE around 2500 to 3500 J/kg). Effective shear is only around 25 kts per ILX/IND VWP and given the speed of the outflow, storm organization and maintenance along the surging outflow boundary may be difficult. Therefore, isolated damaging wind gusts may occur near storm collapses, but a more organized severe weather threat seems unlikely and thus no watch is anticipated."
+    },
+    {
+      "year": 2021,
+      "number": 1501,
+      "issue_utc": "2021-08-12T19:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1501.html",
+      "summary": "A small severe thunderstorm watch is being considered for the areas east of an ongoing cluster near the VT/MA/NY border. This activity is expected to move to the I-95 corridor. Isolated strong to severe gusts are possible.",
+      "discussion": "Radar mosaic shows a cluster of storms near the VT/MA/NY border as of 345pm. This activity is located to the east of an eastward-moving MCV currently located over central NY. The Albany, NY ASOS recently observed a gust of 39 kt. The airmass over southern New England has warmed into the lower 90s with dewpoints generally in the lower 70s. It appears at least an isolated risk for strong to locally severe gusts will materialize east of severe thunderstorm watch 432. The overall coverage of damaging gusts is still in question but some risk appears to be increasing through the early evening."
+    },
+    {
+      "year": 2021,
+      "number": 1502,
+      "issue_utc": "2021-08-12T20:30Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1502.html",
+      "summary": "Isolated large hail and damaging wind gusts are possible into the evening across northeast Kansas and northern and central Missouri.",
+      "discussion": "Mid-level convection which has been present across northern Kansas and Missouri for much of the morning and early afternoon has started to sag south. As it does, it will continue to interact with a more unstable airmass. Effective shear is very weak across the region with mostly less than 20 knots of flow sampled through the troposphere from the KTWX VWP. However, the thermodynamic environment downstream is quite favorable with MLCAPE around 3500 J/kg, mid level lapse rates around 7.5 C/km, and DCAPE around 1300 J/kg per SPC mesoanalysis. Therefore, the weak shear should limit an organized severe threat, but the favorable thermodynamic profile could support isolated large hail and severe wind gusts. The isolated nature of the threat should limit the need for a watch, but trends will continue to be monitored."
+    },
+    {
+      "year": 2021,
+      "number": 1503,
+      "issue_utc": "2021-08-12T22:22Z",
+      "topic": "Severe Thunderstorm Watch 431",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1503.html",
+      "summary": "A cluster of strong to severe thunderstorms will continue to pose a risk for damaging wind gusts through early evening.",
+      "discussion": "As of 2200 UTC, regional radar and satellite imagery showed a cluster of strong to severe thunderstorms across eastern Ohio and western Pennsylvania. Ongoing along a weak stationary frontal zone and outflow from previous convection, a very buoyant airmass remains in place ahead of the cluster. 3000-3500 J/kg of MLCAPE but weak vertical shear will support robust multicell updrafts into early evening. Model soundings show steep low-level lapse rates and favoring strong downdrafts. As additional storm development reinforces the surface cold pool, a few severe gusts will remain possible this evening across WW433 and western portions of WW431. Storm should eventually begin to weaken across central PA with the loss of diurnal heating later this evening, reducing the risk for damaging wind gusts. ..Lyons.. 08/12/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1504,
+      "issue_utc": "2021-08-12T22:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1504.html",
+      "summary": "A cluster of thunderstorms west of Boston may pose a risk for a few damaging wind gusts early this evening. Weakening of the storms is ongoing and should continue limiting the threat.",
+      "discussion": "KBOX radar data showed a line of thunderstorms along the CT MA border moving east around 45 mph. SPC mesoanalysis indicates around 2000 J/kg of MLCAPE is present but decreases considerably near the Atlantic coast. Several measured severe wind gusts near Springfield MA in the last hour suggest a few instances of wind damage may still be possible with these storms as they track toward the east early this evening. However, radar echo tops have shown a considerable decrease in the last half hour as storms approached the Boston and Providence metro regions. This suggests storms are weakening rapidly as diurnal heating is diminishing. The weakening trend is forecast to continue, but a few strong wind gusts may still accompany thunderstorms through early evening. ..Lyons.. 08/12/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1505,
+      "issue_utc": "2021-08-12T23:06Z",
+      "topic": "Severe Thunderstorm Watch 434",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1505.html",
+      "summary": "A damaging wind swath will be possible through 00-01Z in association with a small bowing cluster.",
+      "discussion": "At 23Z, a loosely-organized thunderstorm cluster and an associated surging outflow was moving southeastward across east-central MO and far western IL, while another outflow was dropping southward in advance of the cluster. While vertical shear is weak across the region, the strong cold pool and renewed convective development along multiple outflow boundaries will likely maintain a short-term damaging wind threat into the St. Louis area and adjacent portions of western IL through 00-01Z. With time, the combining outflows will likely continue surging southward into this evening, potentially maintaining some damaging wind risk into southeast MO and southwest IL, even as convection eventually becomes more disorganized with time due to weak vertical shear and increasing MLCINH. ..Dean.. 08/12/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1506,
+      "issue_utc": "2021-08-13T00:20Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1506.html",
+      "summary": "A damaging wind threat will continue this evening, though a gradual weakening trend is expected with time.",
+      "discussion": "A large thunderstorm cluster is moving southward across central MO into extreme western IL at 0015Z, with the strongest portion of the cluster located near St. Louis, where observed wind gusts of 49-58 kt have been noted from observing sites in the area. The greatest short-term damaging wind threat will likely remain with this portion of the cluster, which will affect far southeast MO into southern IL and far western KY through mid-evening. While a weakening trend is eventually expected later this evening due to weak vertical shear and increasing MLCINH, some damaging wind threat is likely to be maintained for the next 2-3 hours before more substantial boundary-layer cooling occurs. New watch issuance is possible downstream by 01Z, depending on short-term observational trends as the bowing segment approaches the edge of WW 434."
+    },
+    {
+      "year": 2021,
+      "number": 1507,
+      "issue_utc": "2021-08-13T02:08Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1507.html",
+      "summary": "Cluster of storms ongoing across central PA may pose a risk for damaging wind gusts for a few more hours before weakening this evening.",
+      "discussion": "As of 0150 UTC, regional radar imagery showed a line of strong thunderstorms across north-central PA moving east at 45 mph. Associated with a large band of storms that has recently weakened farther west, some resurgence has been noted with the lead cluster west of Scranton, PA. Recent IR imagery showed a localized area of cooling cloud tops indicating some additional storm development/strengthening may briefly be possible over the next couple of hours. Ahead of the line, SPC mesoanalyis indicates an unstable environment is in place with 2500-3000 J/kg of MLCAPE. However, convective inhibition is also rapidly increasing as surface temperatures cool. Vertical shear while not strong at 25 kts is oriented perpendicular to the motion of the cold pool supporting strong convergence along the leading edge. Thus, it appears possible that some severe risk in the form of damaging wind gusts may continue for a few more hours before nocturnal stabilization diminishes the threat. ..Lyons.. 08/13/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1508,
+      "issue_utc": "2021-08-13T02:55Z",
+      "topic": "Severe Thunderstorm Watch 435",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1508.html",
+      "summary": "A localized damaging wind threat will continue tonight, though a gradual weakening trend is expected with time.",
+      "discussion": "The convective line that earlier produced measured severe wind gusts and wind damage around St. Louis has shown some signs of weakening over the last hour across southern IL, with warming cloud tops and weaker inbound winds from the KPAH radar compared to what was observed earlier from the KLSX radar. The gradual weakening trend is expected to continue as the boundary layer cools and stabilizes, but as a substantial cold pool continues to push southeastward in conjunction with this line, a localized damaging wind threat will continue downstream as long as convection remains active near the gust front. Further southwest, convection has recently increased in intensity across southeast MO, where somewhat greater buoyancy is in place per recent mesoanalyses. While this area is removed from the stronger cold pool surge to the east, a localized damaging wind risk may also materialize into far southeast MO and northeast AR into the late evening hours. ..Dean.. 08/13/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1509,
+      "issue_utc": "2021-08-13T03:20Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1509.html",
+      "summary": "Sporadic intense thunderstorm development may continue overnight, with a threat of isolated severe hail and wind.",
+      "discussion": "Periodic intense thunderstorm development has been noted for much of the evening across northeast KS and northwest MO, with a few reports of severe hail since 00Z. This activity is being supported by strong elevated buoyancy, as observed in the 00Z TOP sounding. While generally weak vertical shear will continue to limit storm organization, a modest low-level warm advection regime will continue to support occasional strong thunderstorm development overnight, with the strongest cells capable of hail and isolated strong wind gusts."
+    }
+  ]
+}

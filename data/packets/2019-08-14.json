@@ -1,0 +1,127 @@
+{
+  "convective_day": "2019-08-14",
+  "valid_start": "2019-08-14T12:00Z",
+  "valid_end": "2019-08-15T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2019-08-14",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-08-14T12:00Z",
+      "valid_end": "2019-08-15T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190814_1200.html",
+      "summary": "Scattered severe thunderstorms with very large hail and damaging winds are expected across the central High Plains this afternoon and evening. A few strong storms may be noted across the Gulf Coast to the southern Middle Atlantic.",
+      "sections": [
+        {
+          "title": "Central High Plains",
+          "text": "Large-scale pattern is forecast to change little across the western US through the day1 period. Broad upper ridging will hold across the Great Basin with seasonally strong mid-level flow extending from WA/OR, across the northern Rockies into the central Plains. It's not entirely clear whether a weak disturbance will affect the High Plains later today, however steep mid-level lapse rates persist across this region within broad northwesterly flow regime. Strong diurnal heating will once again contribute to significant buoyancy in the lee of the Rockies prior to convective initiation. In the absence of a meaningful short-wave trough, it appears surface heating will prove instrumental in thunderstorm development. It appears thunderstorms should develop by 21-22z as convective temperatures are breached. Latest CAMs support this scenario with scattered convection developing by late afternoon from southeast MT-eastern WY/CO. Forecast soundings across this region strongly favor supercells and steep lapse rates/bulk shear appear supportive of very large hail. Local hail algorithm generates hail in excess of 2\" with robust convection across the High Plains again this afternoon. Given the str"
+        },
+        {
+          "title": "Gulf States/Southeast-Middle Atlantic Coast",
+          "text": "Weak surface boundary will sag southeast during the day, extending from VA-Carolinas-central Gulf States by 18z. This boundary will serve as the focus for convection within a high-PW air mass characterized by generally weak shear. While lapse rates are not particularly steep, Isolated damaging winds could be noted with short-lived wet micro bursts. ..Darrow/Cook.. 08/14/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-08-14",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-08-14T13:00Z",
+      "valid_end": "2019-08-15T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190814_1300.html",
+      "summary": "Widely scattered severe thunderstorms with very large hail and damaging winds are expected across the central High Plains this afternoon and evening. A few strong storms may be noted across the Gulf Coast to the southern Middle Atlantic.",
+      "sections": [
+        {
+          "title": "Central High Plains this afternoon through tonight",
+          "text": "The larger-scale pattern is rather quiescent with a flat ridge over the Rockies and moderate west-northwest flow aloft over the central and northern High Plains. Subtle speed maxima embedded in the flow will crest the ridge and move over the High Plains, the first and most apparent of which will progress from central WY to the central Plains this afternoon. In the wake of a frontal passage and widespread convection last night across the central/southern High Plains, surface ridging extends from western SD to the TX Panhandle/NM border. West of the ridge, boundary-layer dewpoints in the mid 50s have spread west to the Front Range in CO on upslope flow, and slightly lesser moisture extends northward across eastern WY. Steep midlevel lapse rates above a seasonally moist boundary layer with daytime heating will result in a corridor of MLCAPE of 2000-3000 J/kg this afternoon from northeast CO across eastern WY. Forcing for ascent will be rather weak near the higher terrain, so storm coverage within the corridor most favorable for supercells is somewhat in question. Still, effective bulk shear of 40-50 kt with relatively straight hodographs will favor supercells capable of producing isol"
+        },
+        {
+          "title": "Gulf Coast to the Mid-Atlantic this afternoon",
+          "text": "The effective surface boundary, modulated by convective outflow, will continue to sag southward toward the Gulf Coast and southeastward toward the southeast Atlantic and Mid-Atlantic coasts. The richer moisture/buoyancy (PW greater than 2 inches and MLCAPE greater than 3000 J/kg) are expected along the southern fringe of the lingering clouds this morning, though vertical shear will be very weak and boundary/storm mergers will largely drive isolated downburst potential. Somewhat stronger deep-layer shear is expected farther north toward Chesapeake Bay, which could compensate some for the weaker buoyancy and poor midlevel lapse rates."
+        },
+        {
+          "title": "Northern IN and vicinity this afternoon",
+          "text": "A diffuse surface front will provide a focus for thunderstorm development this afternoon, as a midlevel trough approaches from WI. Lingering low-level moisture and surface heating will support MLCAPE of 1000-1500 J/kg, while deep-layer vertical shear will be at least marginally favorable for organized/supercell storms. Very weak low-level flow will greatly limit hodograph size/SRH magnitude, but there will be modest vertical vorticity along the surface boundary. A couple of storms could be strong with hail/wind near severe criteria, and a brief/weak tornado cannot be ruled out. ..Thompson/Kerr.. 08/14/2019"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2019,
+      "number": 1735,
+      "issue_utc": "2019-08-14T18:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1735.html",
+      "summary": "A few strong wind gusts will be possible through the afternoon from the central Gulf Coast vicinity northeast toward eastern South Carolina.",
+      "discussion": "Numerous thunderstorms have developed this afternoon along a southward-sagging cold front. Temperatures well into the 90s and dewpoints in the mid to upper 70s have resulted in moderate to strong instability, with 18z mesoanalysis indicating 2000-3000 J/kg MLCAPE. Effective shear is weak across the region and will limit sustained organized features. However, PW values over 2 inches and low level lapse rates around 7.5-8.5 C/km will support sporadic strong downbursts. A couple of locally damaging gusts will especially be possible if any clusters begin to surge/forward propagate through storm mergers and/or along outflow interactions. Overall, the threat will remain transient and a watch is not expected."
+    },
+    {
+      "year": 2019,
+      "number": 1736,
+      "issue_utc": "2019-08-14T19:54Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1736.html",
+      "summary": "A gradual increase in an isolated severe risk should occur this afternoon. Large hail, damaging winds, and perhaps a couple tornadoes will all be possible. Watch issuance may be needed by 22Z (4 PM MDT).",
+      "discussion": "Cumulus is slowly building across the Laramie Mountains of southeastern WY and the Front Range in northern/central CO. Current expectations are for convective inhibition to gradually erode through the remainder of the afternoon across eastern CO, southeastern WY, and parts of western NE. 19Z surface analysis shows a weak surface low over southeastern WY, with a front extending southeastward from this low across the central High Plains. Surface dewpoints across this region are several degrees lower than yesterday, generally in the mid to upper 50s, but up to the lower 60s along and just north of the surface boundary. Still, steep mid-level lapse rates emanating from the Rockies have overspread this area, which coupled with strong diurnal heating will likely support 1500-2500 J/kg of MLCAPE through peak heating. With modestly enhanced northwesterly flow persisting aloft, large-scale forcing for ascent will remain nebulous across the central High Plains this afternoon. This lends some uncertainty regarding overall storm coverage. Isolated storms should eventually form over the higher terrain and slowly move east-southeastward. Additional convective development may occur with weak low-level convergence along the surface boundary extending into parts of western NE. Rather weak low-level flow is expected to persist through the early evening, but northwesterly flow does increase above 3 km, which is promoting around 35-45 kt of effective bulk shear. The presence of steep mid-level lapse rates, moderate instability, and enough shear to support supercells suggests isolated large hail should be the primary threat initially. Very large hail, potentially in excess of 2 inches in diameter, could occur with the strongest storms. A couple of tornadoes may also be possible along and im"
+    },
+    {
+      "year": 2019,
+      "number": 1737,
+      "issue_utc": "2019-08-14T20:10Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1737.html",
+      "summary": "A couple of strong storms could produce marginal hail and gusty winds through the remainder of the afternoon.",
+      "discussion": "Isolated thunderstorms have increased in intensity this afternoon from Marshall to Allen counties in IN and Van Wert County in OH. The most intense cell currently is near Fort Wayne, where a cell has interacted with an outflow boundary from a previous decaying cell. This cell has shown some weak rotation, which has probably been enhanced by the interaction with the aforementioned boundary. Some strong gusts and marginal hail are possible with strongest cells this afternoon given around 30 kt effective shear and a weak mid/upper level impulse migrating through westerly deep layer flow. Midlevel lapse rates will remain poor and limit severe hail potential. Steep low level lapse rates and a deeply-mixed sub-cloud layer will favor some stronger downdrafts and gusty winds. Overall, the threat should remain limited in intensity and coverage and a watch is not expected."
+    },
+    {
+      "year": 2019,
+      "number": 1738,
+      "issue_utc": "2019-08-14T23:58Z",
+      "topic": "Severe Thunderstorm Watch 582",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1738.html",
+      "summary": "Isolated strong to severe storms with large hail and downburst winds will persist through about 02Z, followed by a diminishing trend.",
+      "discussion": "New storms have recently developed near the CO/northwest KS border along what appears to be the merger between a northwest-southeast oriented boundary and a southwest advancing outflow boundary. It remains possible that other isolated storms may develop farther northwest over the higher terrain and spread southeast. Vertical wind profiles with 40-50 kt effective bulk shear support potential for some supercell structures. Activity is developing within an environment characterized by weak forcing aloft suggesting storms are mostly diurnally driven and should remain isolated. Convective inhibition will increase substantially with onset of nocturnal cooling, and storms are expected to begin a gradual weakening trend by 02Z. ..Dial.. 08/14/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1739,
+      "issue_utc": "2019-08-15T02:14Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1739.html",
+      "summary": "Isolated storms may continue developing southeast through northeast Wyoming and western South Dakota this evening, posing a risk for isolated large hail and downburst winds. At this time it appears storm coverage will probably remain too sparse for a WW, but trends will continue to be monitored.",
+      "discussion": "As of mid evening a few storms persist over southeast MT, with the strongest storm having supercell characteristics approaching the northeast WY border. The downstream atmosphere is moderately unstable with 1500-2000 J/kg MUCAPE. A modest increase in convective inhibition is occurring with respect to surface-based parcels with onset of nocturnal cooling. However, a few storms may persist with slightly elevated updrafts having inflow rooted just above the surface. Thus isolated storms could persist into a portion of western SD and extreme northeast WY and pose a threat for large hail and downburst winds this evening. Stronger forcing accompanying a shortwave trough moving through eastern MT should remain north of this region. This along with the absence of a substantial low-level jet suggest storm coverage will probably remain very isolated."
+    },
+    {
+      "year": 2019,
+      "number": 1740,
+      "issue_utc": "2019-08-15T02:31Z",
+      "topic": "Severe Thunderstorm Watch 582",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1740.html",
+      "summary": "Severe thunderstorm watch will be allowed to expire at 03Z. Only one severe storm remains in the southeast part of the WW. This storm will continue to pose a threat for large hail and downburst winds as it moves into Kiowa and possibly Prowers County before diminishing. Another downstream WW is not anticipated.",
+      "discussion": "A lone supercell continues through east central CO. RAOB and PFC data show very warm air with 13-14C around 700 mb near or just above the base of an elevated mixed layer. It therefore appears convective inhibition will continue to increase substantially as surface temperatures fall through the 70s. While the pressure perturbations within the supercell will help to sustain the storm for a while longer, the increasingly hostile thermodynamic environment should result in a gradual weakening trend by 04Z. ..Dial.. 08/15/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1741,
+      "issue_utc": "2019-08-15T04:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1741.html",
+      "summary": "Storms may continue to pose a risk for large hail and locally strong to damaging gusts into the early morning hours. Trends are being monitored for a possible WW.",
+      "discussion": "Severe storms continue over northeast WY and western SD. Several CAM solutions maintain storms into the morning hours from southwest SD into western NE. The strongest forcing for ascent appears to remain in MT in association with a progressive shortwave trough. The surface layer has stabilized, but convective inhibition for parcels lifted from above the surface remains relatively weak. While larger-scale forcing appears rather nebulous and subtle, trend has been for storms to increase in coverage, and activity may continue southeast along the instability gradient. MUCAPE from 1500-2000 J/kg with 7.5-8 C/km mid-level lapse rates and effective shear from 40-45 kt is sufficient for updraft rotation and a threat for large hail."
+    },
+    {
+      "year": 2019,
+      "number": 1742,
+      "issue_utc": "2019-08-15T07:29Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1742.html",
+      "summary": "A relatively isolated, but intense storm probably will continue to pose at least a localized severe hail and wind threat across northern portions of the Nebraska panhandle through daybreak. Barring further upscale growth, it is not certain that a watch is needed, but trends will continue to be monitored.",
+      "discussion": "A number of generally low amplitude mid/upper waves appear to be progressing through broader-scale anticyclonic mid/upper flow across the northern Rockies and Plains. In association with one of these perturbations, forcing for ascent appears to be aiding ongoing thunderstorm development now south of the Black Hills, near the western Nebraska/South Dakota border area. The strongest convection, mainly limited to an isolated but sustained supercell, has been confined to areas west/southwest of the Black Hills during the past few hours, aided by inflow of moderate CAPE of 1500-3000 J/kg, in the presence of steep lower/mid-tropospheric lapse rates. Large-scale forcing for ascent associated with warm advection along a tightening mid-level thermal gradient (roughly around 700 mb) also appears to be providing support for this storm. This front extends east-southeastward across northern portions of the Nebraska panhandle, and may provide a continuing focus and support for the maintenance of intense convective development into areas northeast of Alliance NE through 9-11Z. Reflectivity associated with the isolated supercell has recently transitioned to more of a bowing structure, in the presence of strong deep-layer shear, likely accompanied by at least localized strong to severe surface gusts. This threat may continue, along with a risk for severe hail through daybreak."
+    }
+  ]
+}

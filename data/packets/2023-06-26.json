@@ -1,0 +1,393 @@
+{
+  "convective_day": "2023-06-26",
+  "valid_start": "2023-06-26T12:00Z",
+  "valid_end": "2023-06-27T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 5
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2023-06-26",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-06-26T12:00Z",
+      "valid_end": "2023-06-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230626_1200.html",
+      "summary": "Scattered severe thunderstorms are likely across the Mid-Atlantic states this afternoon and evening. Damaging gusts and large hail will be the primary hazards.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "Little change in the large-scale pattern is expected across the CONUS today. A relatively deep upper trough will remain over much of the eastern CONUS, as an embedded deep-layer cyclone approaches the upper Great Lakes region. An upper ridge will persist over the southern High Plains, while an upper trough remains over much of the West. A cold front will move across parts of the OH/TN Valleys, Mid Atlantic, and Northeast."
+        },
+        {
+          "title": "Mid Atlantic into parts of the Northeast",
+          "text": "Multiple rounds of thunderstorms will be possible later today across parts of the Mid Atlantic and Northeast, within a favorably unstable environment (with preconvective MLCAPE generally 1000-2000 J/kg) in advance of the cold front. The strongest deep-layer flow associated with the upper trough will be displaced well to the south and west, but 30-40 kt midlevel flow will support some modest effective shear across the region, especially where low-level flow remains somewhat backed. A mix of storm clusters and perhaps a few marginal supercells are expected through the afternoon into the early evening. Damaging winds are expected to be the most likely hazard, though any sustained discrete cells may also pose a threat of hail and perhaps a tornado or two."
+        },
+        {
+          "title": "Carolinas",
+          "text": "Somewhat stronger instability and deep-layer shear are expected across parts of the Carolinas later today (compared to areas farther north), though storm coverage may tend to decrease with southward extent. MLCAPE in excess of 2000 J/kg and effective shear of 30-40 kt will support some initial supercell potential, with relatively steep midlevel lapse rates supporting a hail threat, including the potential for isolated very large hail. A tornado or two will also be possible with any sustained supercell, though there will be a tendency for upscale growth into one or more clusters, with an increasing threat for damaging gusts as storms move eastward toward the coast."
+        },
+        {
+          "title": "Northern WY/Southeast MT into western SD/northwest NE",
+          "text": "A narrow zone of modest low-level moisture return and moderate destabilization is expected this afternoon across parts of the central/northern High Plains into southern MT, along the western periphery of a surface ridge. Effective shear is forecast to increase into the 30-40 kt range, as low-level southeasterly flow veers to modest southwesterlies aloft. Widely scattered thunderstorm development is possible late this afternoon into the evening, with a few supercells and/or modestly organized clusters possible. Large hail (possibly greater than 2 inches in diameter) and localized severe gusts are expected to be the primary threats."
+        },
+        {
+          "title": "Southeast OK into the ArkLaMiss region",
+          "text": "Strong to potentially severe storms may be ongoing at the start of the period this morning across the ArkLaMiss region, within an environment characterized by large elevated buoyancy and sufficient effective shear for storm organization. Some threat for hail and/or locally damaging gusts could linger through the morning, before storms weaken or move offshore of the Gulf Coast. Another round of somewhat elevated convection is possible late tonight near/north of the remnant surface boundary from southeast OK into the ArkLaMiss, within a weak low-level warm-advection regime. Strong elevated buoyancy and sufficient effective shear within a northwesterly flow regime may support a renewed risk of hail and locally damaging gusts into early Tuesday morning."
+        },
+        {
+          "title": "Southern High Plains",
+          "text": "Isolated storm development is possible across the southern High Plains, within a hot and well-mixed environment. Any deep convection would pose a threat for isolated downbursts. Any sustained cells could also eventually pose a hail threat, though storm longevity appears limited at this time within this weakly forced regime. ..Dean/Lyons.. 06/26/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-06-26",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-06-26T13:00Z",
+      "valid_end": "2023-06-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230626_1300.html",
+      "summary": "Scattered severe thunderstorms, with damaging to severe gusts and occasional large hail, are likely across the Mid-Atlantic States this afternoon and evening.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "In mid/upper levels, the pattern will remain broadly characterized by mean troughing in the West and East, and a ridge extending northward from a high over west TX to the northern High Plains and beyond. The eastern trough now is anchored by a low initially centered over Lower MI, and forecast to drift eastward over Lake Huron by the end of the period. Accompanying cyclonic flow will cover most of the CONUS east of the Mississippi River. Embedded small shortwaves and vorticity lobes will traverse the southern semicircle of the gyre, leading to amplification of the synoptic trough across the Carolinas and GA. The western trough is defined along a series of closed to nearly closed smaller circulations from southern AB across southeastern BC, the interior Pacific Northwest, northern CA, and Pacific waters well west of southern CA. A broad area of downstream southwest flow will spread over the Rockies and adjacent High Plains as the ridge shifts slowly eastward through tonight. At the surface, 11Z analysis showed an occluded low over northern Lower MI, and a cold front arching across eastern parts of OH/KY/TN, becoming quasistationary over northern MS, southern AR, to a low between SPS"
+        },
+        {
+          "title": "Mid-Atlantic/Northeast to Carolinas",
+          "text": "Several lines and clusters of thunderstorms are expected to develop throughout the day -- mainly over higher terrain to the west, near the surface trough, and around any boundaries left by ongoing cloud cover and precip. Resulting thunderstorms (including a few supercells) should become strong to severe as they move across the outlook area -- generally eastward over the Carolinas to north- northeastward across the NY/New England area. Activity will move into a diurnally destabilizing, favorably moist air mass with little or no MLCINH, leading to considerable overall convective coverage. Scattered damaging gusts and sporadic severe/50+ kt thunderstorm winds are possible, with the densest concentration expected in and near the \"enhanced\" area. Sporadic large hail also possible, especially from the Carolinas to eastern PA/NJ, with significant/ 2-inch-diameter hail a concern over the western/central Carolinas into parts of southern VA. A tornado or two also may develop, especially where storm/boundary interactions yield locally enhanced low-level shear. Given the geometry and positioning of the mid/upper-level cyclone, the strongest flow aloft, as well as the favorable/proximate left-e"
+        },
+        {
+          "title": "Northern High Plains/Black Hills and vicinity",
+          "text": "Multiple episodes of thunderstorms may move eastward to east- southeastward across this corridor, offering sporadic severe gusts and large hail through at least this evening. A plume of showers and widely scattered embedded thunderstorms is ongoing over parts of the region from northeastern WY east-southeastward across the western NE/SD border region, in a zone of low-level warm advection and moisture transport, underlying steep midlevel lapse rates. Isolated large hail and strong-severe gusts are the main concern this morning. See SPC Mesoscale Discussion 1278 for details. Additional convection may develop on the resulting outflow/ differential-heating boundary this afternoon, as well as in a zone behind the boundary and west of a lee trough, where enough easterly near-surface wind component will persist to support lift with orographic forcing (aided by diurnal heating). Mid 40s to mid-50s surface dewpoints away from the higher terrain will support around 1000-1500 J/kg MLCAPE. Long hodographs and 30-40 kt effective-shear magnitudes are expected over much of the area, as light boundary- layer winds veer strongly with height and increase to around 20-30 kt in midlevels. This will s"
+        },
+        {
+          "title": "Arklatex to Mississippi Delta region",
+          "text": "A southward-sagging, northwest/southeast-aligned belt of convection is ongoing across the outlook area, with large hail and sporadic severe gusts continuing as the main concerns. See Severe Thunderstorm Watch 390 and related mesoscale discussions (including 1279) for near-term concerns. This convection may persist at or near severe levels through much of the remainder of the morning. A second, similarly oriented round of strong-severe thunderstorms is possible tonight from southern AR across parts of northern LA and west-central/southwestern MS, also posing a threat for severe hail and isolated damaging gusts. This activity would arise from a similar regime of low-level warm advection and moisture transport, this time over the outflow boundary left by morning convection. The boundary should last all day, given the organization and likely persistent cloud cover associated with the ongoing convection. Westerly midlevel flow above the regime should advect more elevated mixed-layer air, maintaining steep lapse rates aloft, in support of MUCAPE in the 2500-4000 J/kg range. Given the organization of ongoing convection and potential for another round in nearly the same area tonight, the a"
+        },
+        {
+          "title": "Southern High Plains",
+          "text": "Isolated to widely scattered, high-based thunderstorms may develop near the dryline during mid/late afternoon and move a short distance eastward, with a threat for isolated severe gusts/hail. Though a strong EML has built up across the region, intense surface heating should be enough to reach convective temperature over parts of the region. A low-level moisture lobe will extend westward from OK north of the front, with easterly moist advection from areas of 50s to 60s F surface dewpoints helping to offset mixing, and maintain a moist axis across the TX Panhandle. Where convection can overcome the cap and reach maturity, 1500-2500 J/kg MLCAPE will be possible. Low-level flow will be modest in strength, but backed over most of the area, with deep shear increasing to supercell-favorable levels northward under stronger flow aloft. As such, large hail will be possible, as well as strong-severe gusts favored by the deep/well-mixed sub cloud layer. ..Edwards/Mosier.. 06/26/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-06-26",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-06-26T16:30Z",
+      "valid_end": "2023-06-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230626_1630.html",
+      "summary": "Scattered damaging winds are most likely from the Carolinas to parts of the Mid-Atlantic and Northeast States through this evening.",
+      "sections": [
+        {
+          "title": "Carolinas to southern VA",
+          "text": "The more favorable thermodynamic and kinematic environment will be across this portion of the broader severe threat in the East. In the wake of a couple MCVs progressing through the central portions of Carolinas and VA, nearly full insolation across the western portions of these states, coincident with moderately steep mid-level lapse rates around 7 C/km, will support moderate buoyancy with MLCAPE of 1500-2500 J/kg towards early evening. The most consistent signal for scattered thunderstorm development is across the higher terrain of western NC later this afternoon. While low-level shear will be weak, a belt of 35-45 kt 500-mb westerlies will support a few cells with mid-level updraft rotation, mainly early before convection tends to consolidate into one or more organized clusters. This will likely support multiple swaths of damaging winds, centered mainly on the Piedmont, before convection tends to gradually weaken across the coastal plain tonight."
+        },
+        {
+          "title": "Mid-Atlantic/Northeast States",
+          "text": "Mid-level westerlies should be weaker north of southern VA, and become increasingly meridional from PA northward, yielding a more marginal deep-layer shear environment relative to farther south. In addition, isolated to scattered thunderstorms are already ongoing across parts of NJ/NY/PA and this will tend to subdue greater destabilization with north and east extent. The primary severe threat within this region will likely emanate from a later afternoon round of thunderstorms that form over the higher terrain from central PA to western VA. Morning CAM guidance is more consistent with convection being maintained east across eastern PA/central MD and parts of the DE and Potomac Valleys where multicell clustering should support scattered damaging winds. An MCV over north-central VA and relative instability minimum in its vicinity may be suppressive to maintaining multicell clustering into the Delmarva region later today."
+        },
+        {
+          "title": "Lee of the north-central Rockies and Black Hills",
+          "text": "A narrow zone of moderate low-level moisture return is expected to persist over the central High Plains beneath a low-amplitude mid-level ridge. Isolated to scattered thunderstorms appear most likely to develop along the northern periphery of this confined buoyancy plume where steep mid-level lapse rates support MLCAPE of 1000-2000 J/kg. A belt of moderate westerly mid-level flow between strong jets over the Southwest and Mid-MS Valley should be adequate to support a few supercells. Significant severe hail will be the main threat initially, especially with potential for a long-track supercell. An attempt at clustering towards the Black Hills/NE Panhandle vicinity might occur as the High Plains low-level jet strengthens this evening, but the confined spatial extent of the buoyancy plume and nocturnal increase in MLCIN yields low confidence in maintaining severe coverage beyond an isolated threat tonight."
+        },
+        {
+          "title": "Ark-La-Tex vicinity",
+          "text": "In the wake of a decaying MCS over southeast LA (see MCD 1281 for near-term discussion), regenerative convection may yield an isolated severe hail threat for a few more hours, but convection should become more suppressed later this afternoon amid difluent low-level flow. A separate round of elevated convection is anticipated overnight with weak 850-700 warm theta-e advection. Isolated large hail may occur initially owing to the large elevated buoyancy, but deep-layer shear magnitude/orientation will tend to favor a predominant cluster mode which should serve to marginalize the overall severe hail threat and support isolated damaging winds."
+        },
+        {
+          "title": "Southern High Plains",
+          "text": "Isolated storm development is possible across the southern High Plains, within a hot and well-mixed environment. Any deep convection would pose a threat for microbursts and perhaps marginally severe hail, though storm longevity appears limited at this time within this weakly forced regime. ..Grams/Squitieri.. 06/26/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-06-26",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-06-26T20:00Z",
+      "valid_end": "2023-06-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230626_2000.html",
+      "summary": "Scattered damaging winds are most likely from the Carolinas to parts of the Mid-Atlantic and Northeast States through this evening. Minor adjustments to the marginal risk line were made across western PA as the stronger activity should remain east where watches are ongoing. The marginal risk area was also removed from southern LA as activity tonight will be focused farther north. Otherwise, a large area of instability remains from NY into the Carolinas, with scattered severe storms producing damaging wind gusts expected. For more information see MCDs 1283 1284 1285. ..Jewell.. 06/26/2023 .PREV DISCUSSION... /ISSUED 1129 AM CDT Mon Jun 26 2023/",
+      "sections": [
+        {
+          "title": "Carolinas to southern VA",
+          "text": "The more favorable thermodynamic and kinematic environment will be across this portion of the broader severe threat in the East. In the wake of a couple MCVs progressing through the central portions of Carolinas and VA, nearly full insolation across the western portions of these states, coincident with moderately steep mid-level lapse rates around 7 C/km, will support moderate buoyancy with MLCAPE of 1500-2500 J/kg towards early evening. The most consistent signal for scattered thunderstorm development is across the higher terrain of western NC later this afternoon. While low-level shear will be weak, a belt of 35-45 kt 500-mb westerlies will support a few cells with mid-level updraft rotation, mainly early before convection tends to consolidate into one or more organized clusters. This will likely support multiple swaths of damaging winds, centered mainly on the Piedmont, before convection tends to gradually weaken across the coastal plain tonight."
+        },
+        {
+          "title": "Mid-Atlantic/Northeast States",
+          "text": "Mid-level westerlies should be weaker north of southern VA, and become increasingly meridional from PA northward, yielding a more marginal deep-layer shear environment relative to farther south. In addition, isolated to scattered thunderstorms are already ongoing across parts of NJ/NY/PA and this will tend to subdue greater destabilization with north and east extent. The primary severe threat within this region will likely emanate from a later afternoon round of thunderstorms that form over the higher terrain from central PA to western VA. Morning CAM guidance is more consistent with convection being maintained east across eastern PA/central MD and parts of the DE and Potomac Valleys where multicell clustering should support scattered damaging winds. An MCV over north-central VA and relative instability minimum in its vicinity may be suppressive to maintaining multicell clustering into the Delmarva region later today."
+        },
+        {
+          "title": "Lee of the north-central Rockies and Black Hills",
+          "text": "A narrow zone of moderate low-level moisture return is expected to persist over the central High Plains beneath a low-amplitude mid-level ridge. Isolated to scattered thunderstorms appear most likely to develop along the northern periphery of this confined buoyancy plume where steep mid-level lapse rates support MLCAPE of 1000-2000 J/kg. A belt of moderate westerly mid-level flow between strong jets over the Southwest and Mid-MS Valley should be adequate to support a few supercells. Significant severe hail will be the main threat initially, especially with potential for a long-track supercell. An attempt at clustering towards the Black Hills/NE Panhandle vicinity might occur as the High Plains low-level jet strengthens this evening, but the confined spatial extent of the buoyancy plume and nocturnal increase in MLCIN yields low confidence in maintaining severe coverage beyond an isolated threat tonight."
+        },
+        {
+          "title": "Ark-La-Tex vicinity",
+          "text": "In the wake of a decaying MCS over southeast LA (see MCD 1281 for near-term discussion), regenerative convection may yield an isolated severe hail threat for a few more hours, but convection should become more suppressed later this afternoon amid difluent low-level flow. A separate round of elevated convection is anticipated overnight with weak 850-700 warm theta-e advection. Isolated large hail may occur initially owing to the large elevated buoyancy, but deep-layer shear magnitude/orientation will tend to favor a predominant cluster mode which should serve to marginalize the overall severe hail threat and support isolated damaging winds."
+        },
+        {
+          "title": "Southern High Plains",
+          "text": "Isolated storm development is possible across the southern High Plains, within a hot and well-mixed environment. Any deep convection would pose a threat for microbursts and perhaps marginally severe hail, though storm longevity appears limited at this time within this weakly forced regime."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-06-27",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-06-27T01:00Z",
+      "valid_end": "2023-06-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230627_0100.html",
+      "summary": "Scattered damaging winds and isolated large hail are most likely this evening from the Carolinas into southeast Virginia. Other more isolated damaging winds will be possible across the Mid Atlantic and Northeast. Storms capable of producing isolated very large hail will remain possible tonight from Wyoming into parts of the central High Plains.",
+      "sections": [
+        {
+          "title": "Carolinas/Southeast VA",
+          "text": "Storm coverage is increasing this evening across parts of the Carolina Piedmont, within a moderately unstable and favorably sheared environment. Discrete storms will continue to pose a hail threat this evening, before some upscale growth occurs and storms spread eastward with an increasing damaging-wind threat. Relatively favorable low-level shear/SRH (as noted on the 00Z MHX sounding) may also support a tornado or two with any persistent supercells and/or line-embedded circulations."
+        },
+        {
+          "title": "Mid Atlantic/Northeast",
+          "text": "Numerous thunderstorms are ongoing this evening across parts of the Mid Atlantic and Northeast, in advance of a mid/upper-level low across the Great Lakes. Generally weak deep-layer shear will limit storm organization, but weak to moderate buoyancy and modestly enhanced low-level flow may support a few stronger cells/clusters capable of locally damaging gusts and perhaps some marginal hail through much of the evening. A gradual weakening trend is expected with time in association with diurnal cooling/stabilization and widespread convective overturning."
+        },
+        {
+          "title": "Wyoming into the central High Plains",
+          "text": "Widely scattered supercells have developed across north-central into southeast WY, in advance of a midlevel shortwave trough approaching from the northern Great Basin. The 00Z RIW sounding depicts a favorable hail environment, with steep midlevel lapse rates, MUCAPE in excess of 1500 J/kg, and an elongated hodograph with 40+ kt of effective shear. Large hail (possibly in excess of 2 inches in diameter) will be possible as storms move eastward toward southwest SD and the NE Panhandle tonight. Very isolated storms are ongoing farther south into southeast CO and northeast NM, and recent runs of the HRRR suggest later development into east-central CO, as a strengthening low-level jet continues to transport moisture beneath steep midlevel lapse rates. Storm coverage is very uncertain south of NE, but any mature storm in this area could evolve into a supercell later this evening, with a threat of large hail."
+        },
+        {
+          "title": "ArkLaTex vicinity",
+          "text": "Elevated storm development remains possible very late tonight in the ArkLaTex vicinity, within a weak warm-advection regime. Rich low-level moisture and steep midlevel lapse rates will support strong elevated buoyancy, with sufficient deep-layer shear for some storm organization. An initial hail threat could develop with initial storms, before some clustering potentially leads to a risk of locally damaging gusts. ..Dean.. 06/27/2023"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2023,
+      "number": 1277,
+      "issue_utc": "2023-06-26T12:15Z",
+      "topic": "Severe Thunderstorm Watch 390",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1277.html",
+      "summary": "The threat for damaging gusts and isolated hail continues across northern and central LA.",
+      "discussion": "Recent radar imagery has shown an increase in forward propagation with the westernmost portion of the convective line extending across northern LA. Storm motion in this part of the line is now estimated around 45 kt. These storms continue to reside within the theta-e gradient between the mid to upper 70s dewpoints across west-central/central LA and the upper 60s dewpoints farther north. Outflow continues to push just ahead of these storms, although the recent southward surge has brought the leading edge of the higher reflectivity close to this boundary. Given these trends, the threat for damaging gusts has locally increased, particularly in the SHV vicinity. Additionally, the threat for damaging gusts will likely persist into more of central LA, and the watch has been extended in area to address that potential. ..Mosier.. 06/26/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1278,
+      "issue_utc": "2023-06-26T12:33Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1278.html",
+      "summary": "Isolated damaging gusts and hail are possible for the next hour or two.",
+      "discussion": "Low-level jet induced warm-air advection, coupled with subtle ascent attendant to a modest shortwave trough moving through WY, resulted in convective initiation across far east-central WY. Instability is modest, but strong vertical shear across the region contributed to quick updraft organization. The resulting storm cluster is now entering the northern NE Panhandle, with recent storm motion around 35 kt. Expectation is for this cluster to continue for at least the next few hours. Despite its elevated character, damaging gusts are still possible, with some isolated hail possible as well. Thereafter, the cluster is expected to weaken as the low-level jet decreases, and it enters an environment characterized by warm and drier midlevels."
+    },
+    {
+      "year": 2023,
+      "number": 1279,
+      "issue_utc": "2023-06-26T12:51Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1279.html",
+      "summary": "Ongoing convective line across northern LA is expected to continue southward into central LA. Some threat for damaging gusts may accompany this line, and trends will be monitored for possible watch issuance.",
+      "discussion": "Ongoing thunderstorm cluster across northern LA has shown a trend toward more southward forward propagation over the past hour. Updrafts within this cluster remain strong and several near-severe gusts were measured in the SHV vicinity as the line moved through. Forecast soundings downstream into more of central LA show a notable pocket of warm and dry conditions within the low to mid-levels. Consequently, mesoanalysis estimates greater convective inhibition across central LA than in areas farther north. As such, there is some question to how this cluster evolves as it moves into this less favorable air mass. However, given the ample low-level moisture, this convective inhibition will begin to decrease even under limited daytime heating. Convective trends will be monitored closely for potential watch issuance later this afternoon."
+    },
+    {
+      "year": 2023,
+      "number": 1280,
+      "issue_utc": "2023-06-26T13:37Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1280.html",
+      "summary": "Threat for hail and gusty winds winds will likely remain quite isolated in the short term. Watch issuance is not anticipated in the next hour or so.",
+      "discussion": "Widely spaced thunderstorms have developed this morning from parts of northern into eastern PA as modest large-scale ascent preceding an upper trough over the Great Lakes begins to overspread the Mid-Atlantic region. The airmass across this region is only weakly unstable at the moment, with MUCAPE generally 1250 J/kg or less. Still, some updraft organization may occur as stronger mid-level southwesterly winds associated with the upper trough develop eastward. Hail approaching severe limits may be possible with the more robust cores given modestly steepened mid-level lapse rates, along with occasional strong/gusty winds. Watch issuance is not anticipated in the next hour or so (through 15Z/11 AM EDT) due to the limited/isolated severe threat in the short term. But, more robust/severe thunderstorm development is still expected later this afternoon across this region."
+    },
+    {
+      "year": 2023,
+      "number": 1281,
+      "issue_utc": "2023-06-26T16:18Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1281.html",
+      "summary": "A damaging gust may accompany a line of storms before they move offshore. A Severe Thunderstorm Watch issuance is unlikely.",
+      "discussion": "The remnants of an MCS continue to propagate southeastward amid a weakly forced/sheared airmass. A slowly diminishing cold pool is the forward propagation mechanism. However, the airmass ahead of the storms has warmed to over 90F amid upper 70s F dewpoints, contributing to a very buoyant boundary layer (i.e. 4000+ j/kg SBCAPE/MUCAPE). As such, some of the cells along the leading line of the diminishing MCS may pulse in intensity to the point of supporting water loaded downdrafts that may produce a damaging gust or two. Since the threat for severe gusts should be very isolated, a Severe Thunderstorm Watch issuance is not expected."
+    },
+    {
+      "year": 2023,
+      "number": 1282,
+      "issue_utc": "2023-06-26T16:36Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1282.html",
+      "summary": "Scattered to numerous damaging winds and large hail will become an increasing concern this afternoon. Multiple Severe Thunderstorm Watches will likely be needed to address this severe threat over the next couple of hours.",
+      "discussion": "16Z surface analysis shows a surface low centered over Lower MI with a cold front extending southward from this low across the OH Valley. A weak pre-frontal trough is present along/near the Blue Ridge Mountains into western/central NC. Much of the Mid-Atlantic still has considerable cloudiness early this afternoon, which will hamper diurnal heating to some extent. The clouds across central/eastern VA into MD is associated with a remnant MCV/mid-level vorticity maximum, with weak subsidence noted behind it. Better heating will continue across southwest VA into western NC and much of SC, where less cloud cover exists. Still, a moist low-level airmass is present across the Mid-Atlantic/Carolinas, with generally mid 60s to low 70s surface dewpoints in place. Continued heating of this airmass will likely promote around 1000-2500 J/kg of MLCAPE by mid afternoon, with greater instability expected in the Carolinas where mid-level lapse rates are steepened. Current expectations are for thunderstorms to continue developing across the higher terrain of the Appalachians, and perhaps the surface lee trough, as weak ascent associated with an upper trough/low centered over the Great Lakes overspreads the Mid-Atlantic. Convection is already ongoing across parts of PA and western/southern NY, with a measured severe gust recently recorded at KDKK in far western NY. Weaker forcing across the Carolinas casts some uncertainty regarding overall thunderstorm coverage with southward extent. Better mid-level flow around the base of the upper trough/low should tend to remain over the Carolinas through the day. 30-40 kt of deep-layer shear across NC/SC will support some threat for supercells and large hail with initial development. Across the Mid-Atlantic, effective bulk shear should be somewhat "
+    },
+    {
+      "year": 2023,
+      "number": 1283,
+      "issue_utc": "2023-06-26T17:59Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1283.html",
+      "summary": "The severe threat will gradually increase through the afternoon, with a few damaging gusts/instance of large hail the primary concerns. The severe threat should remain isolated and a WW issuance is not currently anticipated.",
+      "discussion": "Ample surface heating of a moist boundary layer is supporting surface temperatures to exceed 90 F amid 70+ F dewpoints. Mixing of this boundary layer is resulting in 7-8 C/km 0-3 km lapse rates, over 3000 J/kg of SBCAPE/MUCAPE, and the development of a cumulus field. Convective initiation is already evident along the Thomas/Brooks County, GA border, and more storms are expected to initiate and intensify through the afternoon. The stronger buoyancy will support updrafts intense enough to foster brief damaging gust/large hail potential. However, weak winds throughout the troposphere will limit vertical shear and associated storm organization potential. Therefore, mainly pulse cellular convection is expected, and a few multicellular clusters may form. A few instances of damaging gusts/large hail may accompany the stronger storms. Nonetheless, the severe threat should remain isolated and a WW issuance is not expected."
+    },
+    {
+      "year": 2023,
+      "number": 1284,
+      "issue_utc": "2023-06-26T18:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1284.html",
+      "summary": "Isolated strong/gusty winds may occur with thunderstorms spreading northward this afternoon. Watch issuance will probably not be needed.",
+      "discussion": "Bands of loosely organized convection will continue to move northward this afternoon across parts of eastern/southern NY and New England. A 17Z special sounding from ALB, modified by current surface observations, shows a weakly unstable airmass with around 700 J/kg of MLCAPE. Both low-level and deep-layer shear remain quite weak however, with a notable drop off in wind speeds with height from the surface through 500 mb. With effective bulk shear remaining generally 20 kt or less, thunderstorm clusters should struggle to become more organized into bowing segments. Still, some filtered diurnal heating has occurred, and the observed sounding from ALB does show modestly steepened low-level lapse rates. This may be sufficient for isolated strong/gusty downdraft winds capable of producing mainly sporadic tree damage through the rest of the afternoon. Due to the weak shear and instability limiting updraft intensity and organization, it appears that watch issuance will probably not be needed."
+    },
+    {
+      "year": 2023,
+      "number": 1285,
+      "issue_utc": "2023-06-26T19:22Z",
+      "topic": "Severe Thunderstorm Watch 391",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1285.html",
+      "summary": "Damaging winds and hail will remain possible with thunderstorms across eastern Pennsylvania and New Jersey this afternoon.",
+      "discussion": "Numerous thunderstorms are ongoing at 1920Z across eastern PA into northern NJ. This activity may be tied to a 20-25 kt southerly low-level jet and related warm advection that is present along/near much of the Mid-Atlantic Coast. Latest surface observations show a weak surface front extends across southern NY and far northern NJ. This boundary will probably delineate the northern extent of appreciable severe threat in the short term. The ongoing convection along/south of this front has access to around 1500-2000 J/kg of MLCAPE, and steepened low-level lapse rates. Damaging winds may occur with the stronger downdrafts. 20-30 kt of effective bulk shear should continue to provide modest updraft organization, and a marginal supercell or two capable of producing hail remains possible. Backed/easterly low-level flow veering to south- southwesterly at mid levels in the vicinity of the surface boundary is aiding around 100-150 m2/s2 of effective SRH, perhaps locally stronger right along the southern NY/northern NJ border. Even so, modest low-level winds should tend to limit the tornado threat, but a brief tornado could still occur. ..Gleason.. 06/26/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1286,
+      "issue_utc": "2023-06-26T20:24Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1286.html",
+      "summary": "The severe threat is increasing across portions of the northern High Plains. A few supercells may develop, supporting a risk for large hail (including an instance or two of 2+ inch stones), as well as a couple of severe gusts. Convective trends are being monitored for the need of a Severe Thunderstorm Watch issuance later this afternoon.",
+      "discussion": "MRMS mosaic radar imagery and satellite data suggests that convection is gradually deepening along the higher terrain of the Rockies. Though convection has yet to move off of the higher terrain, stronger forcing should begin to overspread the northern High Plains in the next few hours in association with an approaching 500 mb vort max over northwestern UT. While low-level moisture is not overly rich, 8+ C/km lapse rates from the surface to 500 mb is supporting 2000+ J/kg SBCAPE/MUCAPE, which is adequate for supercell development given the presence of 40+ kt effective bulk shear values (driven by straight, long hodographs). The deep-layer speed shear may support sufficient enough hail growth for stones to exceed 1 inches in diameter, with a couple of 2+ inch diameter stones possible. A few severe gusts may also occur with the heavier supercell precipitation cores given the steep low-level lapse rates. It is unclear exactly when a significant uptick in convective intensity and relatively robust supercell development will occur. It is possible that such development may not occur for at least a few more hours. Nonetheless, Severe Thunderstorm Watch issuance will likely be needed at some point this afternoon or evening and convective trends are being monitored closely for more precise timing of the watch issuance."
+    },
+    {
+      "year": 2023,
+      "number": 1287,
+      "issue_utc": "2023-06-26T20:30Z",
+      "topic": "Severe Thunderstorm Watch 391",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1287.html",
+      "summary": "Thunderstorms will move eastward this afternoon and evening while posing a threat for severe hail and damaging winds.",
+      "discussion": "With around 25-35 kt of mid-level westerly flow present, mainly cellular convection has developed this afternoon over the higher terrain of south-central PA into MD/VA. Similar values of effective bulk shear are aiding updraft organization, with some supercells with hail cores noted. Severe hail may be the primary severe threat for the next hour or two as this activity develops eastward and off the higher terrain. It still seems probable that convection will eventually grow upscale and pose more of a damaging wind threat as it moves into northern/central VA, DC, central MD, and south-central PA over the next couple of hours. Continued steepening of low-level lapse rates and a well-mixed boundary layer should support this increasing wind threat with eastward extent across Severe Thunderstorm Watches 391, 392, and 393. ..Gleason.. 06/26/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1288,
+      "issue_utc": "2023-06-26T20:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1288.html",
+      "summary": "Trends are being monitored for signs of increasing thunderstorm coverage/intensity, which may eventually prompt watch issuance.",
+      "discussion": "A thunderstorm has recently formed in far southeast/coastal GA in a weak low-level confluence regime, with other towering cu also developing in recent visible satellite imagery. Around 1500-2000 J/kg of MLCAPE is present downstream into coastal/central SC and far southern NC, with a very moist low-level airmass in place. Weak surface winds gradually increase through the boundary layer to around 30 kt around 2-3 km AGL based on recent VWPs from KCLX/KLTX. This region is on the southern fringe of enhanced mid-level westerly winds associated with an upper trough/low centered over the Great Lakes. Even so, around 25-35 kt of effective bulk shear should foster some organization with any convection that can form and be sustained. If robust convection can develop, a mix of multicells and marginal supercells, with an associated hail/damaging wind threat, appear possible. High-resolution guidance shows varying solutions regarding the number of thunderstorms which may develop across this area. Trends will be monitored for signs of increasing thunderstorm coverage/intensity, which may eventually prompt watch issuance."
+    },
+    {
+      "year": 2023,
+      "number": 1289,
+      "issue_utc": "2023-06-26T22:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1289.html",
+      "summary": "A few storms are expected to develop over the Laramie Range and shift east-southeastward with time. Watch may need to be considered pending eventual storm coverage.",
+      "discussion": "Latest visible satellite loop shows multiple attempts at storm development over the Laramie Range, with indications that lightning may commence in the next half hour to hour. Just east of the terrain, daytime heating of the relatively moist boundary layer (generally upper 50s dewpoints) has resulted in development of 1000 to 1500 J/kg mixed-layer CAPE. Several CAMs continue to indicate a couple of supercells evolving across southeastern Wyoming, and then shifting southeastward across the Nebraska Panhandle, and persisting into mid-evening before diminishing. With low-level southeasterly flow indicated via surface analysis, beneath an anticyclonic belt of mid-level flow around 40 kt, this supports the idea of a couple of supercell storms possibly moving off the higher terrain early this evening, with attendant risk for large hail and a damaging gust or two. While the isolated nature of convection currently anticipated may mitigate need for WW issuance, we will continue to monitor the area for signs of development that may prove sufficient for WW consideration."
+    },
+    {
+      "year": 2023,
+      "number": 1290,
+      "issue_utc": "2023-06-26T22:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1290.html",
+      "summary": "Developing high-based storms may pose a risk for isolated damaging gusts and small hail this evening. Given isolated storm coverage, a WW is not expected.",
+      "discussion": "As of 2245 UTC, regional radar and satellite analysis showed initial updrafts were deepening across portions of the southern High Plains. Warm temperatures along a diffuse dryline have removed most inhibition from the higher terrain to the west. Some inhibition still remains farther east and may slowly diminish tonight. Isolated and high-based storm development is possible across the southern High Plains over the next couple of hours. Vertical shear varies intensity with portions of southeastern CO supporting 40+ kt and some potential for storm organization and supercells. However, much of warm and well mixed air mass farther south remains weakly sheared. With T/TD spread of 25-30+ degrees, damaging downbursts appear to be the primary threat, though some hail is possible if a sustained high-based supercell is able to become established. Given the weak broad-scale forcing, storm coverage should remain isolated and a WW appears unlikely."
+    },
+    {
+      "year": 2023,
+      "number": 1291,
+      "issue_utc": "2023-06-26T23:08Z",
+      "topic": "Severe Thunderstorm Watch 393",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1291.html",
+      "summary": "Severe threat -- including potential for large hail and a few damaging gusts -- continues across WW 393 and 394, and may spread eastward into the Chesapeake Bay region over the next couple of hours, possibly requiring new watch issuance east of WW 393.",
+      "discussion": "A band of strong/locally severe thunderstorms is ongoing from central Virginia southwestward to western North Carolina -- within WW 393 and 394. The storms are occurring with a moist/unstable environment near and ahead of the weak cold front moving slowly eastward across the area. Enhanced southwesterly/westerly flow aloft on the southeast periphery of the mid-level cyclone is providing shear sufficient for organized/rotating storms, with risk expected to continue locally over the next several hours. One cluster of storms in particular -- crossing Hanover/Goochland/Powhatan counties in central Virginia will approach eastern fringes of WW 393 in the next hour to hour-and-a-half. We will continue to monitor areas downstream across southeastern Virginia/the Chesapeake region for possible/additional WW issuance. ..Goss.. 06/26/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1292,
+      "issue_utc": "2023-06-27T00:03Z",
+      "topic": "Severe Thunderstorm Watch 391",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1292.html",
+      "summary": "Isolated severe storms will persist for a few more hours with a risk for damaging winds and occasional hail. Convection should begin to slowly weaken towards sunset.",
+      "discussion": "Across WW391 and 392, several clusters of strong to severe storms were ongoing this evening. Storms have slowly matured over the last hour or two with reports of damaging gusts and occasional hail. The air mass across the region remains moderately unstable with 1000-2000 J/kg of MLCAPE. Vertical shear is relatively modest suggesting storms will remain multicellular and somewhat limited in organization potential. Storms will likely remain capable of damaging gusts and occasional hail for a few more hours this evening. To the east of the ongoing storms, previous convection has resulted in some stabilization and much weaker buoyancy. Storms should begin to slowly downtrend later this evening as they encounter weaker buoyancy and increasing MLCIN from previous storms and nocturnal stabilization. Until then, the severe risk continues. ..Lyons.. 06/27/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1293,
+      "issue_utc": "2023-06-27T01:13Z",
+      "topic": "Severe Thunderstorm Watch 393",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1293.html",
+      "summary": "Severe risk continues locally across portions of Virginia and the Chesapeake Bay region.",
+      "discussion": "Latest radar loop shows clusters of strong/locally severe storms ongoing across the southern half of Virginia -- within parts of WW 393 and 395. With an amply unstable and sheared environment, risk is expected to continue over the next couple of hours. Watch 393 is currently set to expire at 27/02Z. Given persistence of isolated, vigorous storms within this watch, local extension of this watch, or possibly a westward extension of WW 395, may be considered to cover lingering risk. ..Goss.. 06/27/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1294,
+      "issue_utc": "2023-06-27T01:29Z",
+      "topic": "Severe Thunderstorm Watch 394",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1294.html",
+      "summary": "A cluster of severe storms is ongoing across portions of central North Carolina, with the convection expected to continue/expand eastward/southeastward with time. A new WW is anticipated, to cover areas east and south WW 394 in the next hour.",
+      "discussion": "Latest radar loop shows a cluster of strong/locally severe storms expanding/spreading eastward across the central North Carolina vicinity, where a moderately unstable remains in place (2000 to 2500 J/kg mixed-layer CAPE). Storms are being sustained by the available buoyancy, with organization being facilitated by shear associated with a belt of enhanced cyclonic/westerly deep-layer flow across this area, around the southern periphery of the Great Lakes mid-level cyclone. Given that the favorable environment extends to the coast, it appears that storms -- and associated/local severe risk -- will likely continue over the next several hours. As such, new WW issuance is likely to be required to cover areas east (eastern North Carolina) and south (parts of South Carolina) of the existing watch. Additionally, with WW 394 slated for expiration at 27/03Z, potential lingering risk across this portion of North Carolina could require temporal extension of the WW across some of the currently included counties. ..Goss.. 06/27/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1295,
+      "issue_utc": "2023-06-27T02:05Z",
+      "topic": "Severe Thunderstorm Watch 396",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1295.html",
+      "summary": "Severe risk -- including potential for large hail and damaging winds, and a tornado or two -- continues across parts of eastern Wyoming, and should expand east-southeastward across southern parts of the Nebraska Panhandle and northeastern Colorado. New WW issuance may be needed to extend a bit south and east of the Nebraska Panhandle/northeastern Colorado border.",
+      "discussion": "Latest radar loop shows isolated strong/locally severe storms occurring within an axis of instability extending from parts of northeastern Wyoming south-southeastward across northeastern Colorado and southern portions of the Nebraska Panhandle. The most substantial storm remains a supercell currently over central Kimball County Nebraska, that has produced a couple of tornadoes and 3-inch hail within the past hour. Expect severe risk to continue in general, but particularly ahead of this more intense cluster of Nebraska Panhandle storms, which is warranting consideration of new/downstream WW issuance. ..Goss.. 06/27/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1296,
+      "issue_utc": "2023-06-27T02:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1296.html",
+      "summary": "Ongoing cluster of severe storms will remain capable of isolated strong gusts as storms continue to slowly weaken this evening. A downstream watch is unlikely.",
+      "discussion": "As of 0240 UTC regional radar analysis showed a cluster of thunderstorms ongoing across northeastern DE and far eastern PA. Over the last hour these storms have produced occasional strong/damaging wind gusts, with a measured gust to 42 mph at KILG. A slow downtrend in convective intensity has been noted over the last 30-45 minutes with the loss of diurnal heating. This general weakening trend is expected to continue as the boundary layer cools and MLCINH exceeding -150 J/kg was noted on the latest SPC mesoanalysis. However, occasional strong gusts will remain possible as storms continue across far eastern PA and western NJ over the next hour. Given the weakening trend a downstream watch into southern NY is unlikely. ..Lyons.. 06/27/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1297,
+      "issue_utc": "2023-06-27T04:02Z",
+      "topic": "Severe Thunderstorm Watch 395",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1297.html",
+      "summary": "Local severe risk continues across southeastern Virginia and into the Delmarva Peninsula, where thunderstorms continue moving eastward across WW 395.",
+      "discussion": "Latest radar loop shows a cluster of vigorous storms moving across southeastern Virginia west of Chesapeake Bay, with more isolated storms extending eastward across the Bay into southern parts of the Delmarva Peninsula. Across this area, moderate instability persists per RAP-based objective analysis, and given moderate southwesterly flow through a deep layer (per recent AKQ WSR-88D VWP), sufficient for organized convection, occasional/local increases in storm intensity above severe levels will be possible over the next couple of hours. ..Goss.. 06/27/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1298,
+      "issue_utc": "2023-06-27T04:21Z",
+      "topic": "Severe Thunderstorm Watch 398",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1298.html",
+      "summary": "Severe risk persists across eastern North Carolina, and the northern half of South Carolina, ahead of ongoing storms. Locally gusty/damaging winds will be the primary severe risks over the next couple of hours.",
+      "discussion": "Latest radar loop shows two clusters of strong/locally severe storms -- one arcing band of storms cross the North Carolina Piedmont, and a second, west-to-east band of storms crossing parts of northern and central South Carolina. Given the pre-frontal axis of instability (mixed-layer CAPE in the 2000 to 2500 J/kg range), storms will likely continue over the next few hours, before eventually moving offshore. Until then, with ample shear being provided by the moderate deep-layer cyclonic westerlies aloft, potential for locally strong wind gusts will continue with the strongest storms/storm segments. ..Goss.. 06/27/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1299,
+      "issue_utc": "2023-06-27T04:26Z",
+      "topic": "Severe Thunderstorm Watch 396",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1299.html",
+      "summary": "Local risk for large hail and damaging wind gusts will continue with a couple of isolated storms over the next couple of hours.",
+      "discussion": "Latest radar shows a pair of isolated/supercell storms -- one moving east-southeastward across Niobrara County Wyoming, and the other crossing Cheyenne County Nebraska. The storms have exhibited gradual/subtle weakening over time, consistent with expectations and with CAM guidance -- and this trend should generally continue over the next couple of hours. Still, the storms remain fairly well-organized, and remain capable of producing large hail, and potentially a severe-caliber wind gust or two. ..Goss.. 06/27/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1300,
+      "issue_utc": "2023-06-27T08:15Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1300.html",
+      "summary": "Isolated strong to severe thunderstorms capable of large hail and damaging gusts will continue throughout the night.",
+      "discussion": "A moderate low-level jet, characterized by 850-mb wind speeds around 35 to 40 kt, extends from the TX Panhandle northward into southwest SD. Moderate low-level moisture exists within this corridor with surface dewpoints ranging from the low 60s across the TX Panhandle to the mid 50s across the NE Panhandle and southwest SD, and 850-mb dewpoints ranging from 18 deg C in the TX Panhandle to 13 deg C in southwest SD. This moisture lies beneath steep mid-level lapse rates, contributing to moderate to strong buoyancy. The low-level jet is expected to persist throughout the night, with some additional strengthening possible. Warm-air advection associated with this low-level jet, coupled with the favorable low-level moisture and moderate/strong buoyancy, is forecast to promote thunderstorm development throughout the night. Thunderstorm development will be favored along the outflow boundaries of the ongoing storms in the northern NE Panhandle and from southwest NE into central KS. Southerly low-level flow veers to more westerly aloft, supporting moderate to strong vertical shear across the entire region. Recent mesoanalysis shows a large area of 50 kt 0-6 km bulk shear across much of NE. Resulting combination of shear and buoyancy will support strong to severe storms. Large hail will be the primary threat, although some upscale growth is possible, and a few gusts could be strong enough to penetrate the low-level stability. Even so, overall severe coverage will be isolated and widely spaced, precluding the need for watch."
+    },
+    {
+      "year": 2023,
+      "number": 1301,
+      "issue_utc": "2023-06-27T09:34Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1301.html",
+      "summary": "Damaging gusts and isolated hail are possible as the storm cluster over the eastern TX Panhandle moves into southwest OK.",
+      "discussion": "An initially elevated thunderstorm cluster has grown upscale, organizing along its southeastward-progressing cold pool. Air mass downstream across southwestern OK has strong low-level stability (i.e. recent RAP soundings show -250 J/kg of MLCIN). Even so, moderate mid-level moisture is in place (i.e. 850-mb dewpoints around 20 deg C) beneath steep mid-level lapse rates, supporting strong buoyancy with recent mesoanalysis estimated MUCAPE exceeding 4000 J/kg. Effective bulk shear is also moderate, with 40 to 45 kt in place across much of western OK. All of these factors suggest some intensification of the ongoing cluster is possible, although questions remain if sufficient cold pool-vertical shear balance can be maintained given the strong low-level stability. Current expectations are for the low-level stability to contribute to gradually decreasing storm intensity. However, another scenario exists where the cluster is able to maintain a favorable cold pool balance and maintain its strength as it progress east-southeastward. Convective trends will be monitored closely for signs of a more persistent severe threat downstream."
+    }
+  ]
+}

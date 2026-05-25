@@ -1,0 +1,214 @@
+{
+  "convective_day": "2025-04-24",
+  "valid_start": "2025-04-24T12:00Z",
+  "valid_end": "2025-04-25T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2025-04-24",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2025-04-24T16:30Z",
+      "valid_end": "2025-04-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250424_1630.html",
+      "summary": "Scattered severe thunderstorms are forecast late this afternoon into tonight across the southern High Plains. Large to very large hail is likely with the stronger storms. A couple of tornadoes are possible, in addition to isolated severe wind gusts.",
+      "sections": [
+        {
+          "title": "Southern/Central Plains",
+          "text": "Visible-satellite imagery shows a modifying outflow boundary draped across the portions of the TX High Plains. The 12z Del Rio raob showed seasonably high boundary layer moisture (14.9 g/kg lowest 100-mb mean mixing ratio). This upper-air raob sampled the moist axis extending from the Rio Grande Valley northwestward through the Permian Basin, South Plains, and into the Panhandle. Water-vapor imagery shows a weak disturbance currently moving east across southern CO/northern NM. The timing of this disturbance appears favorably timed to influence thunderstorm development later this afternoon/evening in the vicinity of the dryline. Strong heating beneath a capping inversion and a moistening boundary layer will likely contribute to eroding CINH by mid afternoon. Forecast soundings show sufficient deep-layer westerly flow (25-kt at 500 mb increasing to 80-kt at 200 mb) for organized storms. Some relatively backed low-level south-southeasterly flow will probably be maintained east of the Caprock, aiding in some hodograph enlargement. Models show discrete storm development initially, with some of this activity perhaps merging into a cluster towards the evening over the eastern TX Panhandle"
+        },
+        {
+          "title": "Southeast Nebraska into Iowa",
+          "text": "A convectively augmented/low-amplitude shortwave trough will move northeastward from parts of southeast NE into IA and vicinity today. Although low-level moisture should remain fairly limited, it is forecast to gradually increase along/south of a front by this afternoon. Any thunderstorms that can develop and spread northeastward could pose an isolated hail/wind threat given sufficient deep-layer shear for updraft organization. ..Smith/Thornton.. 04/24/2025"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2025-04-24",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2025-04-24T20:00Z",
+      "valid_end": "2025-04-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250424_2000.html",
+      "summary": "Scattered severe thunderstorms are forecast late this afternoon into tonight across the southern High Plains. Large to very large hail is likely with the stronger storms. A couple of tornadoes are possible, in addition to isolated severe wind gusts.",
+      "sections": [
+        {
+          "title": "20z Update",
+          "text": "The primary change for this forecast update was the introduction of 15% wind probabilities (i.e. Slight risk) across portions of central and eastern TX downstream of an intensifying MCS with a history of measured severe gusts over the past couple of hours. A severe wind threat is expected to persist into the evening hours before the MCS gradually weakens late this evening/early overnight. See MCD #543 for additional details. Additionally, hail/wind risk probabilities were removed across portions of north/northeast TX and eastern OK. Latest RAP mesoanalysis estimates show a buoyancy minimum over the region in the wake of the ongoing MCS. Air mass recovery appears improbable given current cloud cover and observed temperature trends within the residual cold pool. Recent CAM guidance supports this idea and shows limited potential for additional robust convection during the overnight hours. Elsewhere, the forecast remains on track as outlined in the previous discussion below. ..Moore.. 04/24/2025 .PREV DISCUSSION... /ISSUED 1139 AM CDT Thu Apr 24 2025/"
+        },
+        {
+          "title": "Southern/Central Plains",
+          "text": "Visible-satellite imagery shows a modifying outflow boundary draped across the portions of the TX High Plains. The 12z Del Rio raob showed seasonably high boundary layer moisture (14.9 g/kg lowest 100-mb mean mixing ratio). This upper-air raob sampled the moist axis extending from the Rio Grande Valley northwestward through the Permian Basin, South Plains, and into the Panhandle. Water-vapor imagery shows a weak disturbance currently moving east across southern CO/northern NM. The timing of this disturbance appears favorably timed to influence thunderstorm development later this afternoon/evening in the vicinity of the dryline. Strong heating beneath a capping inversion and a moistening boundary layer will likely contribute to eroding CINH by mid afternoon. Forecast soundings show sufficient deep-layer westerly flow (25-kt at 500 mb increasing to 80-kt at 200 mb) for organized storms. Some relatively backed low-level south-southeasterly flow will probably be maintained east of the Caprock, aiding in some hodograph enlargement. Models show discrete storm development initially, with some of this activity perhaps merging into a cluster towards the evening over the eastern TX Panhandle"
+        },
+        {
+          "title": "Southeast Nebraska into Iowa",
+          "text": "A convectively augmented/low-amplitude shortwave trough will move northeastward from parts of southeast NE into IA and vicinity today. Although low-level moisture should remain fairly limited, it is forecast to gradually increase along/south of a front by this afternoon. Any thunderstorms that can develop and spread northeastward could pose an isolated hail/wind threat given sufficient deep-layer shear for updraft organization."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2025-04-25",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2025-04-25T01:00Z",
+      "valid_end": "2025-04-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250425_0100.html",
+      "summary": "Scattered severe thunderstorms remain possible this evening from from eastern Colorado and southwest Kansas into western Oklahoma, the Panhandles and West Texas. Very large hail is possible, along with a few tornadoes.",
+      "sections": [
+        {
+          "title": "Central and southern Plains",
+          "text": "Scattered severe storms persist this evening over West TX including the Panhandle, with very large/damaging hail in progress. Other severe cells, some with tornadic circulation, persist over northwest OK within a cluster, also with damaging hail and wind potential. Given the uncapped air mass across most of these areas, storms should persist for a few hours, and the increasing 850 mb winds out of the south may favor right moving supercells. The 00Z AMA sounding confirms the lack of inhibition, showing steep lapse rates through a deep layer. Isolated marginally severe storms also persist over eastern CO, and north of the tornadic northwest OK cluster into southwest KS. For more information, see mesoscale discussions 548, 549, 550, 551. ..Jewell.. 04/25/2025"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2025,
+      "number": 540,
+      "issue_utc": "2025-04-24T15:29Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0540.html",
+      "summary": "Ongoing thunderstorm development appears likely to persist, with at least a gradual continuing upscale growth, intensification and organization possible through 1-3 PM CDT. This may be accompanied by the risk for severe hail, and increasing potential for strong wind gusts later this afternoon. It is not certain if or when a severe weather watch will be needed, but trends are being monitored.",
+      "discussion": "Forcing for ascent, largely driven by lower/mid-tropospheric warm advection, is maintaining vigorous thunderstorm development across parts of west central Texas, near/south of Abilene toward the Stephenville area. This has been focused above relatively cool convective outflow, near the eastern periphery of a plume of warm and more strongly capping elevated mixed-layer air across the lower Rio Grande Valley through Texas South Plains. This plume is forecast to continue to slowly spread eastward across the southern Great Plains through mid afternoon. At the same time, however, a seasonably moist boundary layer to the south and east of the convective outflow will continue to destabilize with daytime heating, with CAPE likely to increase in excess of 1500 J/kg. As the forcing for ascent spreads slowly eastward, there appears potential for substantive intensification and upscale growth of ongoing convective development as southeasterly low-level updraft inflow continues to destabilize. However, the extent to which this may be countered by warming mid-levels remains unclear, but this may primarily just impact how soon this afternoon thunderstorm activity undergoes more notable intensification. Once this occurs, 20-25 kt westerly deep-layer mean flow is modestly sheared, and probably to sufficient to contribute to a risk for severe hail in the more discrete initial intensifying cells. Gradually, a growing cluster may begin to organize, including the evolution of an MCV and strengthening surface cold pool accompanied by increasing potential for strong surface gusts."
+    },
+    {
+      "year": 2025,
+      "number": 542,
+      "issue_utc": "2025-04-24T18:37Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0542.html",
+      "summary": "The initiation of isolated to widely scattered thunderstorms appears increasingly probable by 4-6 PM CDT, if not earlier. This may include rapidly intensifying supercells capable of producing large, potentially damaging hail, and localized severe wind gusts.",
+      "discussion": "In the presence of light southerly to southwesterly flow in the 850-700 mb layer, convergence within modest surface troughing, along a sharpening dryline, remains generally weak. However, initial attempts at deep convective development are ongoing near the higher terrain around Fort Stockton, where daytime heating is contributing to weakening low/mid-level inhibition. The seasonably moist boundary layer is becoming characterized by CAPE in excess of 2000 J/kg, with a significant fraction extending through the mid and upper troposphere. With additional insolation, various model output indicates that the initiation of isolated to widely scattered thunderstorms will become increasingly probable by/through the 21-23Z time frame, as far north as a remnant outflow boundary to the southwest of the Lubbock vicinity. Although the low to mid-level flow is weak, shear beneath 50-70 kt+ kt flow in the 300-250 mb layer, veering from west-southwesterly to westerly in the wake of a mid/upper wave progressing to the east of the Rockies, will be more than sufficient for supercells. Some of these may become capable of producing large hail in excess of 2 inches in diameter."
+    },
+    {
+      "year": 2025,
+      "number": 541,
+      "issue_utc": "2025-04-24T19:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0541.html",
+      "summary": "Supercell development is expected by 21-23z, capable of all hazard (tornadoes, very large hail, and severe wind). A Tornado Watch will be be needed later this afternoon.",
+      "discussion": "Cu development has steadily increased across the Oklahoma and Texas Panhandles this afternoon. MLCIN eroding with daytime heating and temperatures warming into the mid 70s. Supercell development is expected along the surface dryline and near Cap Rock between 21-23z. With additional daytime heating, a corridor of MLCAPE around 2000 J/kg will be in place across much of the TX/OK Panhandles. Shear profiles are sufficient, with deep layer shear around 30-35 kts. This will support robust scattered discrete supercell development, with potential for very large hail (some 2-3+\") initially, given steep low to mid-lapse rates. A more favorable corridor for tornadoes is possible from areas near Amarillo to the Cap Rock northeastward to the OK line. Within this region, backed surface flow will support larger low-level curvature of hodographs. This in combination with enhanced surface vorticity along the differential heating boundary and near the dryline may result in a tornado or two towards the late afternoon/evening. A Tornado Watch will likely be needed this afternoon to cover this potential."
+    },
+    {
+      "year": 2025,
+      "number": 543,
+      "issue_utc": "2025-04-24T19:33Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0543.html",
+      "summary": "A cluster of thunderstorms continues to organize, with signs of increasing potential to produce strong to severe gusts while propagating southeastward toward the mid/upper Texas coastal plain through 5-7 PM CDT.",
+      "discussion": "Forcing for ascent associated with lower/mid-tropospheric warm advection, and southeasterly updraft inflow of seasonably moist boundary-layer air (characterized by CAPE in excess of 2000 J/Kg), have maintained vigorous thunderstorm development. Activity has undergone notable intensification and increasing organization, and it appears that a meso-beta scale cyclonic circulation is becoming better-defined near the Waco vicinity, where a couple of 50+ kt surface gusts have recently been observed. Despite continued gradual warming around 700 mb, and some suggestion that the larger-scale forcing for ascent may weaken, the boundary-layer ahead of the storms remains potentially supportive of further intensification of the convective system, southeastward toward the mid/upper Texas coastal plain into early evening. Deep-layer mean flow and shear remain generally modest, as does the strength of the surface cold pool (as of 19Z observational data). However, with further strengthening of the mesoscale vortex and west-northwesterly rear inflow, there remains potential for a continued increase in risk for strong to severe gusts during the next few hours."
+    },
+    {
+      "year": 2025,
+      "number": 544,
+      "issue_utc": "2025-04-24T20:45Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0544.html",
+      "summary": "Some instances of severe hail and gusty winds possible this afternoon/evening.",
+      "discussion": "Thunderstorm activity is ongoing near and south of the Denver metro this afternoon. Moisture in this region is limited, with dew points in the upper 40s to 50s. Nonetheless, ongoing convection will have potential to produce instances of mainly sub-severe hail given steep lapse rates and cooling aloft. As this development and any additional development shifts further south and east, it will enter a region with temperatures in the low to mid 70s and dew points in the low to mid-50s near the CO/KS border MLCAPE around 500-1000 J/kg and deep layer shear around 30-35 kts is observed in surface objective analysis as of 20z. This environment may support some increase in coverage and intensity, with better potential for severe hail and wind. Trends will be monitored for potential watch issuance this evening."
+    },
+    {
+      "year": 2025,
+      "number": 545,
+      "issue_utc": "2025-04-24T21:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0545.html",
+      "summary": "Strong to locally severe storms remain possible into the early evening.",
+      "discussion": "Storms have recently intensified near Omaha (with reports of hail up to golf ball size noted), with other storms ongoing into southeast NE. This convection has developed near a surface front and is likely being aided by a convectively enhanced midlevel shortwave trough currently moving across eastern NE. Heating into the 70s F near the front has allowed for MLCAPE to increase to near 1000 J/kg, while veering flow with height (as noted on the KOAX VWP) will continue to support some storm organization, including continued potential for a supercell or two. Large hail and locally gusty winds are expected to be the most common hazards with the strongest storms into early evening. However, given the presence of a surface boundary and modestly enhanced low-level shear/SRH (with 0-1 km SRH near 100 m2/s2), a tornado also cannot be ruled out. With the threat potentially being rather limited in coverage and duration, the need for watch issuance is uncertain, but trends will be monitored for an uptick in coverage of organized storms."
+    },
+    {
+      "year": 2025,
+      "number": 546,
+      "issue_utc": "2025-04-24T22:11Z",
+      "topic": "Severe Thunderstorm Watch 170",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0546.html",
+      "summary": "Strong to severe storms will continue into early evening, with a primary large hail, isolated strong to severe gusts, and possibly a tornado.",
+      "discussion": "Storms have developed late this afternoon from far northwest OK into southwest KS, in the vicinity of a northwest to southeast oriented surface confluence zone. Deep-layer flow is rather modest, with effective shear of less than 30 kt per objective mesoanalyses, but the presence of ongoing supercells suggests that shear is locally greater near the surface boundary. The thermodynamic environment is favorable for hail production, with relatively steep midlevel lapse rates and MLCAPE near/above 1500 J/kg. Locally strong to severe gusts will also be possible, given the presence of a relatively well-mixed boundary layer. A tornado cannot be ruled out, especially with any sustained supercell that persists into the evening, when a modest increase in low-level shear/SRH is expected across the region. ..Dean.. 04/24/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 547,
+      "issue_utc": "2025-04-24T22:28Z",
+      "topic": "Severe Thunderstorm Watch 166",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0547.html",
+      "summary": "The threat for damaging straight line winds continues across WW 166 in portions of central and southeastern Texas. Trends will continue to be monitored for whether or not local watch extensions or re-issuance may be needed later this evening.",
+      "discussion": "A linear bowing convective complex is ongoing across east-central Texas, currently moving east-southeast towards the Louisiana border and the Gulf Coast. While surface observations from behind the convective outflow have generally remained below severe criteria, MLCAPE of 15000-2000 and 40 kts of deep-layer shear will continue to support storm organization and longevity into this evening. As the convective complex reaches the edge of WW 166, local watch extensions southeastward may be necessary. New WW issuance could be needed if the bowing segment continues to maintain its intensity into the evening, but this scenario remains uncertain at this time. ..Halbert.. 04/24/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 548,
+      "issue_utc": "2025-04-24T23:34Z",
+      "topic": "Tornado Watch 167",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0548.html",
+      "summary": "Supercells with very large hail and tornado potential may increase into this evening.",
+      "discussion": "A supercell northeast of Lubbock in Floyd County has recently intensified and turned right, with a confirmed tornado at around 2315 UTC. Other cells are gradually intensifying across the TX Panhandle and South Plains, within a weakly capped and strongly unstable (MLCAPE in excess of 2500 J/kg) environment. The 20Z AMA sounding was rather dry (with PW of 0.58 inches), but otherwise was quite favorable for organized storms with steep midlevel lapse rates and favorable deep-layer shear. Some increase in low-level moisture quality is expected due to backing surface winds, and multiple intense supercells may eventually evolve into early evening. Any mature supercell within this environment will pose a threat of very large hail (possibly baseball-size or larger), given the favorable thermodynamic profile. A strengthening low-level jet will also enlarge low-level hodographs, resulting in an increasing conditional tornado threat with time, if any supercells can propagate east-southeastward into an increasingly moist environment. ..Dean.. 04/24/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 549,
+      "issue_utc": "2025-04-24T23:56Z",
+      "topic": "Severe Thunderstorm Watch 168",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0549.html",
+      "summary": "Supercells with large to very large hail remain possible this evening.",
+      "discussion": "Scattered strong to severe storms are ongoing at 2345 UTC across the TX Permian Basin vicinity. Despite generally modest large-scale forcing, strong buoyancy (with MLCAPE of 2000-3000 J/kg) and moderate deep-layer shear will continue to support splitting supercells within the weakly capped environment through early evening. Large to very large hail will likely be the primary hazard, especially with any persistent left-movers, while strong to locally severe outflow winds will also be possible in the vicinity of the strongest cells. Increasing MLCINH should result in a gradual decrease in the severe threat later this evening. ..Dean.. 04/24/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 550,
+      "issue_utc": "2025-04-25T00:07Z",
+      "topic": "Severe Thunderstorm Watch 170",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0550.html",
+      "summary": "The severe weather threat for all hazards (hail, damaging winds, and a tornado or two) continues across WW 170, particularly where supercells have developed and begun to move east-southeast across portions of northern Oklahoma. This threat will continue into the early evening hours.",
+      "discussion": "Supercells along the Kansas/Oklahoma border have taken on an east-southeast storm motion as mid and low-level mesocyclones have matured. These storms are capable of all hazards, having already produced 2.5\" hail and a tornado. VAD wind profiles from KDDC and KVNX don't show an overall abundance of storm-relative helicity, but do indicate some curvature of the hodograph in the lowest levels. Additionally, current surface mesoanalysis indicates these storms exist within an area of locally enhanced surface vorticity. With the onset of the nocturnal low-level jet, in addition to the observed southeastward storm motion, SRH is expected to increase into the early evening and support a continued threat for all hazards, including tornadoes. The greatest short-term threat for continued tornado development will be with the southeastern-most storm, with unimpeded inflow and a favorable storm motion vector. The tornado threat will diminish into the evening hours as the nocturnal boundary layer stabilizes, but all supercells will be capable of 2.0+\" hail and 65-85 MPH wind gusts. ..Halbert.. 04/25/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 551,
+      "issue_utc": "2025-04-25T00:44Z",
+      "topic": "Tornado Watch 167",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0551.html",
+      "summary": "A localized threat of potentially strong tornadoes has evolved to the east/northeast of Lubbock, with very large to giant hail also possible.",
+      "discussion": "An intense supercell over Floyd and Motley Counties in Texas has propagated southeastward into an increasingly moist boundary layer, accompanied by a notable increase in low-level mesocyclone strength. Rotational velocity and environmental characteristics suggest a strong tornado may have occurred within the last 15-30 minutes. The presence of strong buoyancy (with MLCAPE greater than 3000 J/kg per the modified 00Z AMA sounding), favorable deep-layer shear, and enlarging low-level hodographs suggest a localized threat for strong tornadoes may continue with this cell, and also potentially with an intense supercell currently over Crosby County. Greater than 4 inch hail has also been reported in Floyd County, and a threat for very large to giant hail will likely persist for as long as the ongoing supercells remain semi-discrete this evening. ..Dean.. 04/25/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 552,
+      "issue_utc": "2025-04-25T01:13Z",
+      "topic": "Severe Thunderstorm Watch 169",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0552.html",
+      "summary": "The severe weather threat across WW 169 continues into the evening, with large hail and damaging winds the primary hazards. Some downstream watch extensions may be necessary as a linear convective segment matures moving into western Kansas.",
+      "discussion": "The severe weather threat for WW 169 continues this evening, particularly across northern portions of the watch area in southeastern Colorado, as thunderstorm clusters have begun to loosely organize into a linear convective segment. While the overall coverage of severe storms has been low thus far, SPC surface mesoanalysis data show MUCAPE increasing with eastward extent, coupled with deep-layer bulk shear of 40-45 kts. This should support continued organization of the linear convective complex as it moves into western Kansas, shifting gradually from a hail/wind threat to a primarily damaging wind threat later into the evening. ..Halbert.. 04/25/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 553,
+      "issue_utc": "2025-04-25T01:51Z",
+      "topic": "Tornado Watch 167",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0553.html",
+      "summary": "Supercells with very large hail and a tornado threat may continue into late evening.",
+      "discussion": "A cluster of supercells with a history of producing very large hail is ongoing at 0145 UTC across the northeast TX Panhandle. While MLCINH is gradually increasing, some rightward motion has recently been noted with these cells, indicative of some increase in cell organization. Some tornado threat may yet evolve with these cells, given the presence of strong instability and modestly enlarged low-level hodographs per the KAMA VWP. Otherwise, large to very large hail and localized severe gusts will remain possible with the strongest of these cells as they propagate southeastward. Farther south, a cell with notable deviant rightward motion is moving southward into Garza County. This cell has a history of producing tornadoes and is likely producing very large to giant hail. An imminent collision with a northeastward-moving left-mover may disrupt this cell, though the cell/outflow interaction may briefly lead to an uptick in tornado potential. The long-lived cell over southern Motley County may also continue to pose a threat of all severe hazards over the next 1-2 hours. Eventually, increasing MLCINH should lead to weakening of ongoing discrete storms, though some threat may still persist to near or after the 11 PM CDT expiration time of WW 167. ..Dean.. 04/25/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 554,
+      "issue_utc": "2025-04-25T03:35Z",
+      "topic": "Severe Thunderstorm Watch 170",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0554.html",
+      "summary": "Some severe threat will spread east/southeast late tonight, though the longevity of the threat is uncertain.",
+      "discussion": "After being confined to northwest OK for much of the evening, an long-lived storm cluster has shown some east-southeastward acceleration over the last hour. In the short term, this cluster may continue to pose a threat of hail, localized severe gusts, and possibly a tornado, as it moves through a moderately unstable and favorably sheared environment. However, increasing MLCINH with time and southeastward extent renders uncertainty regarding the longevity of the severe threat into the overnight hours. There may be some tendency for the ongoing cluster to propagate eastward along a weakly confluent surface boundary, with some potential for redevelopment of convection along/behind the trailing outflow. There is also some potential for ongoing convection in the TX Panhandle to eventually spread eastward into west-central/northwest OK, with at least an isolated severe threat. ..Dean.. 04/25/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 555,
+      "issue_utc": "2025-04-25T04:51Z",
+      "topic": "Severe Thunderstorm Watch 171",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0555.html",
+      "summary": "Some severe threat will persist into the overnight hours.",
+      "discussion": "Three long-lived supercells are ongoing late tonight across the northeast TX Panhandle, while convection in OK has evolved into more of a quasi-linear mode, though a couple of embedded supercells persist across western OK. While MLCINH is increasing region-wide, the best relative storm environment remains across the TX Panhandle into extreme western OK, where MLCAPE in excess of 1500 J/kg and favorable deep-layer shear will continue to support supercell potential into the overnight hours. While ongoing storms will struggle to remain surface-based with time, a substantial nocturnal strengthening of the low-level jet (as noted on the KAMA VWP) may support some tornado potential with ongoing supercells in the short term. Otherwise, large hail and localized severe gusts will remain a threat for as long as vigorous convection persists overnight. Farther northeast, a small bowing segment has evolved across north-central OK, which is moving eastward along a weak surface boundary. The longevity of this bowing segment may be limited by diminishing downstream instability and increasing MLCINH, but a severe-wind threat could reach portions of northeast OK with time overnight. ..Dean.. 04/25/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

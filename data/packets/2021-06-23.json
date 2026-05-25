@@ -1,0 +1,150 @@
+{
+  "convective_day": "2021-06-23",
+  "valid_start": "2021-06-23T12:00Z",
+  "valid_end": "2021-06-24T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-06-23",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-06-23T16:30Z",
+      "valid_end": "2021-06-24T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210623_1630.html",
+      "summary": "Strong to severe storms are expected late this afternoon into tonight across parts of the central Plains and Upper Midwest. Damaging winds and large hail should be the main threats.",
+      "sections": [
+        {
+          "title": "NE and vicinity",
+          "text": "Morning water vapor loop shows an upper ridge over the central High Plains region. Model guidance indicates that midlevel heights will continue to rise across this area through mid-afternoon, until a weak shortwave trough over WY/CO tops the ridge and begins to move into western NE. This will be coincident with peak heating and scattered thunderstorm development. These storms will likely become severe by early evening and track across much of NE through the night. Convection is expected to grow upscale during this period, with a fast-moving bowing complex capable of damaging winds. Therefore, have added a small ENH for this threat."
+        },
+        {
+          "title": "Northern MN/WI",
+          "text": "A strong shortwave trough is digging southeastward across Saskatchewan toward the northern Plains. The associated surface cold front will sweep into ND/MN this evening, where scattered thunderstorm development is expected. These storms will track southeastward across northern MN through the evening, and into northern WI overnight. Low-level moisture will be slowly recovering in this region, with the greatest moisture/CAPE values remaining south of the SLGT risk area. Nevertheless, a few intense cells will be possible, capable of large hail and damaging winds."
+        },
+        {
+          "title": "Southern MT into northeast WY",
+          "text": "Strong heating is occurring today across southern MT into northeast WY, where dewpoints are in the 40s and afternoon MLCAPE values are forecast to approach 1000 J/kg. Forecast soundings indicate a deeply mixed boundary layer, along with relatively strong westerly flow aloft. This may result in a few thunderstorms capable of gusty/damaging winds this afternoon and early evening across the region. ..Hart/Bentley.. 06/23/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-06-23",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-06-23T20:00Z",
+      "valid_end": "2021-06-24T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210623_2000.html",
+      "summary": "Strong to severe storms are expected late this afternoon into tonight across parts of the central Plains and Upper Midwest. Damaging winds and large hail should be the main threats, with the greatest damaging wind threat expected across central Nebraska tonight.",
+      "sections": [
+        {
+          "title": "Nebraska and vicinity",
+          "text": "The primary change for the 20Z outlook is to add a 10% significant wind area across portions of central NE. Development of a bowing complex still looks possible this evening, which would pose a threat of at least isolated significant (greater than 65 kt) wind gusts within a corridor of potentially damaging wind. The Marginal Risk has also been expanded somewhat to the north and east across southeast SD and western IA, in deference to some CAM guidance which suggests vigorous development is possible later tonight in these areas. ..Northern MN/WI... No changes have been made to this area. Widely scattered strong thunderstorms still appear possible by late afternoon along a cold front, and later tonight within a warm advection regime, posing a threat of large hail and damaging wind as convection spreads southeastward. ..Dean.. 06/23/2021 .PREV DISCUSSION... /ISSUED 1256 PM CDT Wed Jun 23 2021/"
+        },
+        {
+          "title": "NE and vicinity",
+          "text": "Morning water vapor loop shows an upper ridge over the central High Plains region. Model guidance indicates that midlevel heights will continue to rise across this area through mid-afternoon, until a weak shortwave trough over WY/CO tops the ridge and begins to move into western NE. This will be coincident with peak heating and scattered thunderstorm development. These storms will likely become severe by early evening and track across much of NE through the night. Convection is expected to grow upscale during this period, with a fast-moving bowing complex capable of damaging winds. Therefore, have added a small ENH for this threat."
+        },
+        {
+          "title": "Northern MN/WI",
+          "text": "A strong shortwave trough is digging southeastward across Saskatchewan toward the northern Plains. The associated surface cold front will sweep into ND/MN this evening, where scattered thunderstorm development is expected. These storms will track southeastward across northern MN through the evening, and into northern WI overnight. Low-level moisture will be slowly recovering in this region, with the greatest moisture/CAPE values remaining south of the SLGT risk area. Nevertheless, a few intense cells will be possible, capable of large hail and damaging winds."
+        },
+        {
+          "title": "Southern MT into northeast WY",
+          "text": "Strong heating is occurring today across southern MT into northeast WY, where dewpoints are in the 40s and afternoon MLCAPE values are forecast to approach 1000 J/kg. Forecast soundings indicate a deeply mixed boundary layer, along with relatively strong westerly flow aloft. This may result in a few thunderstorms capable of gusty/damaging winds this afternoon and early evening across the region."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-06-24",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-06-24T01:00Z",
+      "valid_end": "2021-06-24T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210624_0100.html",
+      "summary": "Severe storms remain possible tonight across parts of the central Plains and Upper Midwest. Damaging winds and large hail will be the main threats.",
+      "sections": [
+        {
+          "title": "Central Plains region",
+          "text": "Tendency has been for storms that developed earlier during the late afternoon to undergo a temporary weakening trend. The 00Z RAOB data from Omaha and North Platte indicate a strong capping inversion associated with warm air at the base of an elevated mixed layer. This suggests that stronger forcing will be needed to sustain organized convection into the overnight hours. A southerly nocturnal low-level jet will strengthen to in excess of 45 kt this evening. Meanwhile weak perturbations will move through the northern periphery of an upper ridge situated over the central Plains. Cold pools associated with high based convection currently moving east out of western NE will interact with the strengthening low-level jet, and this may provide the forcing needed to reinvigorate storms during the evening. Given very steep lapse rates and strong instability in place, the potential still exists for storms to organize into an MCS and produce significant wind gusts. ..Dial.. 06/24/2021"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 1067,
+      "issue_utc": "2021-06-23T20:51Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1067.html",
+      "summary": "Increasing storm coverage and intensity expected into the evening.",
+      "discussion": "A few towers have started to develop in the well-mixed air in the Nebraska Panhandle where temperatures are over 100 degrees and inhibition is eroded according to SPC mesoanalysis. MLCAPE is only around 500 J/kg in this region and thus, storms are expected to strengthen gradually. However, as this activity moves eastward and as the upper trough advances east toward the better instability, storm intensity/coverage is expected to increase. In addition, shear is relatively weak where early development has begun, but it is stronger across central and eastern Nebraska. This should also aid in storm intensity/organization as activity moves east. Additionally, the low-level jet is expected to strengthen substantially during the evening hours which should provide additional forcing for storm development. At some point during this evening, a severe thunderstorm watch will likely be needed, especially as storms organize into supercells/bowing segments. However, the timing of this transition remains unclear and thus storm trends will be monitored over the next few hours."
+    },
+    {
+      "year": 2021,
+      "number": 1068,
+      "issue_utc": "2021-06-23T22:16Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1068.html",
+      "summary": "Thunderstorm development along the cold front may pose a risk for isolated damaging winds early this evening. A greater threat may evolve with additional storm development near sunset. A watch is possible, but uncertainty remains high on the magnitude of the severe threat.",
+      "discussion": "Afternoon visible satellite and radar imagery showed thunderstorm development was increasing in vigor across portions of North Dakota and Minnesota. These storms have developed along and ahead of a cold front analyzed from southern Manitoba, through northeast North Dakota, and northwest Minnesota. Weak buoyancy has developed along the front with around 500 J/kg of MLCAPE observed from SPC mesoanalysis. 35-45 kts of 0-6km shear, sampled from regional VWPs, will support an organized severe risk in the form of supercells and short line segments. As the front surges southward, thunderstorms may pose a risk for damaging wind gusts given steep low-level lapse rates. To the east across north-central Minnesota, a more stable airmass is in place where deeper mixing has lowered surface dewpoints into the upper 40s and low 50s F. Uncertainty on the magnitude of the severe threat remains high as storms will likely weaken as they encounter lower buoyancy in this region. Some destabilization is possible later this evening as deeper surface moisture with dewpoints in the low 60s F is advected into the area ahead of the low-level jet. With the resurgence of low-level moisture, some CAM guidance suggests additional storms may form and grow upscale with the potential for damaging wind gusts into the overnight hours. With this uncertainty in mind, convective trends are being monitored for a possible weather watch."
+    },
+    {
+      "year": 2021,
+      "number": 1069,
+      "issue_utc": "2021-06-23T22:33Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1069.html",
+      "summary": "Isolated thunderstorms may pose a hail/wind risk this evening, but the overall threat will remain spatially limited. A watch is not expected.",
+      "discussion": "A single thunderstorm has developed over south-central MT over the past 30-45 minutes within a broad cluster of agitated cumulus. This storm has been slow to mature, owing mainly to weak instability (generally near 500 J/kg per RAP forecast soundings and mesoanalysis estimates). However, nearly 40 knots of 0-6 km bulk shear was recently sampled from the KBLX VWP, which matches well with mesoanalysis estimates of around 40-50 knots of effective bulk shear. The favorable deep shear coupled with a nearly uni-directional wind profile may compensate for the limited instability and support some storm organization. A severe hail threat is possible with any storm that can manage to mature, and steep low-level lapse rates near 9 C/km will support strong storm outflow and a damaging wind risk. GOES visible imagery shows several clusters of deepening cumulus, but weak forcing for ascent will likely result in isolated storm coverage. Given the low potential for a widespread severe threat a watch is not expected."
+    },
+    {
+      "year": 2021,
+      "number": 1070,
+      "issue_utc": "2021-06-23T23:13Z",
+      "topic": "Severe Thunderstorm Watch 306",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1070.html",
+      "summary": "Severe risk continues to increase locally over parts of north-central Nebraska. As convection shifts eastward -- spreading out of the WW in the next 1-2 hours -- a new WW may be needed into the northeastern Nebraska area.",
+      "discussion": "Latest radar loop shows hints that storms may begin to congeal across north-central Nebraska, as suggested by latest runs of the HRRR and which seems reasonable given downstream instability that is available. As a south-southwesterly low-level jet develops and then veers gradually through the evening, east-southeastward propagation of the convection seems likely. Presuming continued trends toward upscale growth, damaging wind potential will likely become more widespread. Otherwise, large hail will remain possible, with baseball-sized hail reported earlier in Keya Paha County. As storms near the eastern edge of WW 306, downstream watch issuance will likely be needed to encompass this threat."
+    },
+    {
+      "year": 2021,
+      "number": 1071,
+      "issue_utc": "2021-06-24T01:10Z",
+      "topic": "Severe Thunderstorm Watch 306",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1071.html",
+      "summary": "Storms increasing in coverage/intensity -- likely in response to the developing low-level jet -- suggest increasing severe potential over the next couple of hours. A new WW remains likely to be needed east of ongoing activity.",
+      "discussion": "After a brief decreasing trend in ongoing convection, storms have begun to increase in both coverage and intensity once again -- mainly across north-central Nebraska and into south-central and southeastern South Dakota. The convective uptick is apparently in response to increasing QG forcing, as a subtle feature aloft shifts into the Plains, along with associated/accompanying low-level jet increase. While low-level capping hindered more widespread diurnal surface-based activity, continued increases in slightly elevated but robust convection are expected. As convection shifts eastward/southeastward with time, a new WW east of WW 306 remains a likelihood this evening. ..Goss.. 06/24/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1072,
+      "issue_utc": "2021-06-24T03:12Z",
+      "topic": "Severe Thunderstorm Watch 306",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1072.html",
+      "summary": "Local severe risk continues across portions of Nebraska, and should continue for several hours. New WW issuance is likely across portions of central and eastern Nebraska, given the scheduled 24/04Z expiration of WW 306.",
+      "discussion": "Latest radar loop shows a pair of severe storms exiting Keya Paha County, and moving into Brown/Rock/Holt counties. The stronger/lead supercell has begun a decided east-southeastward advance, and this trend should continue over the next few hours as the developing low-level jet begins to veer gradually more southwesterly. With steep lapse rates aloft available to support continued vigorous updrafts, and associated risk for large hail, severe risk is forecast to continue across areas currently within eastern portions of WW 306 as well as areas to the east and southeast -- across eastern Nebraska. Additionally, some upscale/linear growth is still anticipated, which would suggest potential for an uptick in damaging wind potential. HRRR runs continue to suggest such linear evolution, and given the two observed/merging outflow boundaries across north-central Nebraska -- one moving eastward (in conjunction with Cherry County convection) and the other (emanating from the ongoing severe storms farther east) shifting southward -- this would seem to remain a reasonable expectation. Given this ongoing/anticipated potential, a new WW will likely be issued, prior to the expiration of WW 306, covering portions of central and eastern Nebraska. ..Goss.. 06/24/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1073,
+      "issue_utc": "2021-06-24T06:36Z",
+      "topic": "Severe Thunderstorm Watch 307",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1073.html",
+      "summary": "A potential for wind damage, isolated large hail and a brief tornado will likely continue for several more hours. As the MCS in northeast Nebraska moves southeastward toward the edge of weather watch 307, a new watch will need to be considered.",
+      "discussion": "The latest high-resolution radar imagery from Omaha shows a well-developed bowing line segment located in northeast Nebraska. A pronounced surface high-low couplet is evident behind the bowing segment. Surface dewpoints ahead of the line are generally in the lower 70s F, which is contributing to strong instability. The RAP is analyzing a pocket of MLCAPE between 4000 and 4500 J/Kg. In addition, the Omaha WSR-88D VWP shows strong directional shear in the low-levels with some speed shear in the mid to upper levels. This wind profile along with a strong rear inflow jet will continue support the bowing line segment as it moves quickly southeastward across eastern Nebraska over the next couple of hours. Wind damage will be likely along the leading edge with wind gusts above 70 knots possible. Recently, the BVN observing site reported a wind gust at 73 knots. Large hail and a brief tornado will also be possible with the more intense rotating cells embedded in the line. The line is expected to exit weather watch 307 by 09Z. As it approaches the edge of the watch, a new watch will need to be considered further downstream."
+    },
+    {
+      "year": 2021,
+      "number": 1074,
+      "issue_utc": "2021-06-24T10:02Z",
+      "topic": "Severe Thunderstorm Watch 308",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1074.html",
+      "summary": "An isolated wind-damage threat will likely continue for a few more hours across parts of the lower Missouri Valley. The threat should become increasingly marginal with time and new weather watch issuance downstream appears unlikely.",
+      "discussion": "The latest radar imagery from Omaha shows a well-developed bowing line segment in southwest Iowa and far northwest Missouri. This line is expected to remain intact for a few more hours, turning southeastward and moving across the remainder of southern Iowa and northwest Missouri. A wind-damage threat will likely continue for a few more hours. However, the RAP is showing much weaker instability across southeast Iowa and north-central Missouri, which is supported by cooler temperatures and lower dewpoints evident in the surface observations. As this convective line moves eastward toward the weaker instability, the severe threat should become increasingly marginal. Although the line may continue beyond the expiration of WW 308, new weather watch issuance will probably not be necessary. ..Broyles.. 06/24/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

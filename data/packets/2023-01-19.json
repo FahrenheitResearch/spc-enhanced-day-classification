@@ -1,0 +1,89 @@
+{
+  "convective_day": "2023-01-19",
+  "valid_start": "2023-01-19T12:00Z",
+  "valid_end": "2023-01-20T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2023-01-19",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-01-19T13:00Z",
+      "valid_end": "2023-01-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230119_1300.html",
+      "summary": "Scattered damaging thunderstorm gusts are possible this afternoon/evening across Ohio.",
+      "sections": [
+        {
+          "title": "OH area this afternoon/evening",
+          "text": "In the wake of early morning rainfall, some clearing is expected during the day from IN into OH. Residual boundary-layer dewpoints in the 40s, surface temperatures warming into the 50s, and cooling midlevel temperatures/steepening low-midlevel lapse rates will result in SBCAPE of 250-500 J/kg across OH this afternoon. Low-topped thunderstorm development is expected in a band near the IN/OH border by early-mid afternoon, along a surface cold front and in advance of a midlevel trough moving from eastern KS/western MO this morning to the OH Valley by this evening. The convection is expected to move quickly eastward across OH this afternoon, with an attendant threat for damaging winds given the steepening lapse rates and potential for downward transport of 50+ kt flow in the lowest 1-2 km. The convective band is expected to gradually weaken with eastern extent late this evening/early tonight into western PA where buoyancy will diminish and a stable layer will persist near the ground. ..Thompson/Dean.. 01/19/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-01-19",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-01-19T16:30Z",
+      "valid_end": "2023-01-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230119_1630.html",
+      "summary": "Low-topped thunderstorms are expected to develop over eastern Indiana and move rapidly east across Ohio this afternoon into early evening. Scattered severe wind gusts from 60-80 mph are most likely between 3 to 7 PM EST in western to central Ohio.",
+      "sections": [
+        {
+          "title": "Eastern IN and OH",
+          "text": "A potent mid-level vorticity maximum over IL, embedded within the broader central CONUS trough, will eject east into OH through this evening. This feature will aid in sharpening an associated surface cold front that will rapidly progress east. Low-topped thunderstorms are expected to initiate across eastern IN towards early to mid-afternoon in a broken arc along the front. Within the exit region of an intense mid-level jet, this convection is expected to race east across OH through the afternoon. While SBCAPE will likely be meager, holding at or below 500 J/kg, nearly full insolation across the Lower to Middle OH Valley will yield steep 0-3 km lapse rates. This should support downward momentum transport of 50+ kt low-level winds as convection matures. Some 12Z HREF members (HRW-ARW, HRRR, and NAM-Nest) suggest boundary-layer max winds may reach 65-70 kts within rear inflow, supporting peak surface wind gusts across western to central OH. The arcing convective band will weaken after sunset as surface-based instability dwindles, but strong gusts may persist until convection dissipates in the western to central PA vicinity. ..Grams/Flournoy/Gleason.. 01/19/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-01-19",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-01-19T20:00Z",
+      "valid_end": "2023-01-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230119_2000.html",
+      "summary": "Low-topped thunderstorms are expected to develop over eastern Indiana and move rapidly east across Ohio this afternoon into early evening. Scattered severe wind gusts from 60-80 mph are most likely through about 7 PM EST from western into central Ohio.",
+      "sections": [
+        {
+          "title": "Ohio and surrounding areas",
+          "text": "Convection is just now forming over Indiana, with an increase in lightning noted. Visible satellite imagery shows clear skies ahead of the cold front, and continued heating should yield a few hundred J/kg of SBCAPE by late afternoon. Pressure falls are expected to accelerate just ahead of the front as shallow convection amasses. Forecast soundings show appreciable cooling will continue around 700 mb which when coupled with surface heating will yield increasing updrafts. Wind speeds around 50 kt are noted at 850 mb in upstream VWPs, which appears to be a likely value for gusts along the developing line of thunderstorms. As temperatures are warming into the 60s F, boundary-layer lapse rates are becoming steep. Indeed, latest observations indicate temperatures commonly 3-4 F above point forecast sounding values. As a result, outflow production may be enhanced with isolated gusts over 65 kt possible. Despite the low dewpoints, strong shear/veering winds with height and increasing low-level parcel buoyancy may support transient areas of rotation, resulting in enhanced wind-gust corridors or perhaps a brief/weak tornado. More information can be found in mesoscale discussion 78. ..Jewell."
+        },
+        {
+          "title": "Eastern IN and OH",
+          "text": "A potent mid-level vorticity maximum over IL, embedded within the broader central CONUS trough, will eject east into OH through this evening. This feature will aid in sharpening an associated surface cold front that will rapidly progress east. Low-topped thunderstorms are expected to initiate across eastern IN towards early to mid-afternoon in a broken arc along the front. Within the exit region of an intense mid-level jet, this convection is expected to race east across OH through the afternoon. While SBCAPE will likely be meager, holding at or below 500 J/kg, nearly full insolation across the Lower to Middle OH Valley will yield steep 0-3 km lapse rates. This should support downward momentum transport of 50+ kt low-level winds as convection matures. Some 12Z HREF members (HRW-ARW, HRRR, and NAM-Nest) suggest boundary-layer max winds may reach 65-70 kts within rear inflow, supporting peak surface wind gusts across western to central OH. The arcing convective band will weaken after sunset as surface-based instability dwindles, but strong gusts may persist until convection dissipates in the western to central PA vicinity."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2023,
+      "number": 78,
+      "issue_utc": "2023-01-19T18:13Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0078.html",
+      "summary": "Potential for scattered strong/severe wind gusts will increase this afternoon in parts of the middle Ohio Valley. Though more marginal threats, a tornado or two and large hail may also occur. A watch is likely in the next hour.",
+      "discussion": "A compact shortwave trough is pivoting around the main upper-level low within the Upper-Midwest. Water vapor imagery shows this feature moving through central Illinois at present. At the surface, a broad area low pressure is present within the lower Great Lakes. A secondary cold front is now entering western Indiana with visible/infrared satellite indicating some gradual deepening of cumulus along the boundary. Temperatures have warmed into the upper 50s F and lower 60s F seem possible ahead of this activity. Even with these warmer temperatures than guidance forecast this morning, dewpoints have also mixed out into the low/mid 40s F. The net effect should should mean limited buoyancy of 250 to at most 500 J/kg MLCAPE. The primary concern with convection as it continues to deepen this afternoon will be strong to severe wind gusts. Storm motions coupled with 40-50 kts in the lowest 3 km (already sampled by KVWX VWP), will promote potential for wind gusts of 50-60 kts and isolated higher gusts possible. In response to the shortwave trough, some slight backing of surface winds has been noted in central Indiana. This trend should continue to the east as the wave progresses. As such, some potential for isolated tornado activity will exist. -25 C temperatures aloft could also promote marginally severe hail."
+    },
+    {
+      "year": 2023,
+      "number": 79,
+      "issue_utc": "2023-01-19T20:39Z",
+      "topic": "Severe Thunderstorm Watch 26",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0079.html",
+      "summary": "Strong/severe wind gusts are most likely in parts of northern Ohio over the next couple of hours.",
+      "discussion": "Strong mixing has lowered dewpoints across southern Ohio to the low/mid 30s F. Farther north, a longer duration of cloud cover has sheltered the area from mixing. Dewpoints in northern Ohio have remained in the low/mid 40s F. Observational trends indicate that the strongest portion of the frontal convection has been where dewpoints are in the mid 40s F. Though forcing from the shortwave trough will remain moderate/strong, it appears that the greatest threat for strong/severe wind gusts will be confined to where these greater dewpoints are in northern Ohio. ..Wendt.. 01/19/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 80,
+      "issue_utc": "2023-01-19T21:49Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0080.html",
+      "summary": "The highest potential for strong/severe winds gusts will likely exist near the shore of Lake Erie in northeast Ohio. Limited areal threat may preclude a separate downstream watch issuance. However, additional coordination with WFO Cleveland will occur and may result in local extension of WW 26.",
+      "discussion": "Dry air continues to advect into eastern Ohio/western Pennsylvania. Dewpoints are in the mid/upper 30s F with the exception of near the Lake Erie shore where low/mid 40s F remain. A couple of strong storms have recently developed in northwestern Ohio. Going forward, strong forcing from the eastward propagating shortwave trough will continue to bring potential for strong/severe wind gusts. The threat will be constrained to areas where moisture is greater which is currently along the lake shore. Given the limited area of concern, a downstream watch is not currently anticipated unless observational trends suggest a more organized wind threat."
+    }
+  ]
+}

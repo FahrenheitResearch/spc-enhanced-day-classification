@@ -1,0 +1,206 @@
+{
+  "convective_day": "2024-08-06",
+  "valid_start": "2024-08-06T12:00Z",
+  "valid_end": "2024-08-07T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2024-08-06",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-08-06T16:30Z",
+      "valid_end": "2024-08-07T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240806_1630.html",
+      "summary": "Severe thunderstorms capable of damaging winds, hail, and isolated tornadoes will affect areas from northern Ohio into New Jersey today. Others areas of concerns include much of Montana into western South Dakota, the coastal Carolinas, and across parts of Arizona.",
+      "sections": [
+        {
+          "title": "OH to NJ",
+          "text": "Recent water vapor loop shows a well-defined and fast-moving shortwave trough over Lower MI. This feature will track eastward across parts of OH/PA/NY today, along a corridor of strong heating/destabilization. This will lead to multiple clusters of intense convection capable of damaging winds, large hail. Winds aloft are seasonably strong, but low-level winds are relatively weak. Some increase in low-level winds/shear may occur later today, posing some risk of isolated tornadoes as well."
+        },
+        {
+          "title": "MT/WY/SD",
+          "text": "Multiple minor shortwave troughs will rotate through the top of the ridge over MT/WY today, while mid-level winds strengthen. A plume of mid-level moisture/lift ahead of these features will lead to scattered thunderstorms over the mountains of western MT by mid afternoon. This activity will spread into the adjacent Plains and intensify. Forecast soundings show sufficient deep-layer shear to support supercell storm structures capable of large hail and damaging wind gusts through the afternoon and evening."
+        },
+        {
+          "title": "AZ",
+          "text": "A weak upper low is present this morning over northern Mexico tracking slowly westward. Enhanced easterly mid level winds around the northern periphery of the low are spreading westward across AZ today. A few clusters of thunderstorms are likely to form over the mountains of eastern AZ and propagate westward through the evening into the lower deserts. This pattern appears favorable for a more organized damaging wind event across parts of AZ, although the details of thunderstorm coverage/intensity over the higher terrain of eastern AZ will help dictate the overall threat later today."
+        },
+        {
+          "title": "Carolinas",
+          "text": "TS Debby remains over southeast GA, with bands of offshore thunderstorms tracking inland along the coasts of SC/southeast NC. Sufficient low-level shear will remain in place through the afternoon and evening for a risk of transient mesocyclones and a few tornadoes through the forecast period. ..Hart/Halbert/Lyons.. 08/06/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-08-06",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-08-06T20:00Z",
+      "valid_end": "2024-08-07T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240806_2000.html",
+      "summary": "Severe thunderstorms capable of damaging winds, hail, and isolated tornadoes will continue across northern Ohio into New Jersey this afternoon and evening. Others areas of concern include much of Montana into western South Dakota, the coastal Carolinas, and across parts of Arizona.",
+      "sections": [
+        {
+          "title": "20z Update",
+          "text": "Minimal changes have been made to the current outlook to adjust for ongoing thunderstorms. Multiple rounds of strong to severe storms are ongoing over parts of the Upper OH valley and Great Lakes. Additional development is expected farther west this afternoon and evening with a risk for some upscale growth. The risk for damaging winds and a couple of tornadoes continues. Across the Carolinas, spiral bands associated with TS Debby will continue to mover inland as the central low drifts east/northeast. Minor clearing has been noted in the precip shield allowing for weak heating in between the better defined bands. Occasional stronger convective cells developing over the Atlantic will remain capable of a couple tornadoes as they move inland into relatively strong low-level shear near the NC/SC border. Thunderstorm developing off the higher terrain in central AZ will be capable of gusty winds and small hail as they move west/southwest later this afternoon. The Marginal area was shifted slightly north to better encompass some of the initial storm development. Otherwise the previous forecast areas remain largely unchanged, see the prior discussion for more information. ..Lyons.. 08/06/20"
+        },
+        {
+          "title": "OH to NJ",
+          "text": "Recent water vapor loop shows a well-defined and fast-moving shortwave trough over Lower MI. This feature will track eastward across parts of OH/PA/NY today, along a corridor of strong heating/destabilization. This will lead to multiple clusters of intense convection capable of damaging winds, large hail. Winds aloft are seasonably strong, but low-level winds are relatively weak. Some increase in low-level winds/shear may occur later today, posing some risk of isolated tornadoes as well."
+        },
+        {
+          "title": "MT/WY/SD",
+          "text": "Multiple minor shortwave troughs will rotate through the top of the ridge over MT/WY today, while mid-level winds strengthen. A plume of mid-level moisture/lift ahead of these features will lead to scattered thunderstorms over the mountains of western MT by mid afternoon. This activity will spread into the adjacent Plains and intensify. Forecast soundings show sufficient deep-layer shear to support supercell storm structures capable of large hail and damaging wind gusts through the afternoon and evening."
+        },
+        {
+          "title": "AZ",
+          "text": "A weak upper low is present this morning over northern Mexico tracking slowly westward. Enhanced easterly mid level winds around the northern periphery of the low are spreading westward across AZ today. A few clusters of thunderstorms are likely to form over the mountains of eastern AZ and propagate westward through the evening into the lower deserts. This pattern appears favorable for a more organized damaging wind event across parts of AZ, although the details of thunderstorm coverage/intensity over the higher terrain of eastern AZ will help dictate the overall threat later today."
+        },
+        {
+          "title": "Carolinas",
+          "text": "TS Debby remains over southeast GA, with bands of offshore thunderstorms tracking inland along the coasts of SC/southeast NC. Sufficient low-level shear will remain in place through the afternoon and evening for a risk of transient mesocyclones and a few tornadoes through the forecast period."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2024,
+      "number": 1841,
+      "issue_utc": "2024-08-06T12:57Z",
+      "topic": "Tornado Watch 603",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1841.html",
+      "summary": "Some tornado threat will persist through the morning.",
+      "discussion": "Early visible satellite imagery depicts widespread cloudiness across coastal SC/NC, which will tend to inhibit destabilization through the morning. However, dewpoints in the mid/upper 70s F across near-coastal areas will continue to support MLCAPE of around 500 J/kg (as noted on the 12Z MHX sounding). This will be sufficient for maintenance of at least transient small supercell structures, given the presence of 0-1 km SRH of 150-250 m2/s2 in the northeast quadrant of Tropical Storm Debby. The stronger wind field will gradually spread northeastward through the day, and some tornado threat may eventually spread out of WW 603 into a larger part of eastern NC, where somewhat stronger heating may occur through the morning. Eventual watch issuance north of WW 603 is possible if observational trends warrant."
+    },
+    {
+      "year": 2024,
+      "number": 1842,
+      "issue_utc": "2024-08-06T14:59Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1842.html",
+      "summary": "The severe threat should increase through early afternoon. Multiple rounds of storms are possible, with damaging gusts as the main threat, though a couple of tornadoes are also possible. A WW issuance will eventually be needed.",
+      "discussion": "Multiple rounds of thunderstorms are percolating in intensity as they traverse a pronounced west-to-east oriented baroclinic boundary positioned from eastern OH into central PA. With continued surface heating and the approach of a 500 mb vort max over the Great Lakes, storms should continue to increase in coverage and intensity into early afternoon. 40+ kts of effective bulk shear, driven by strengthening 700-500 mb flow approaching from the west, will support organized updrafts amid 1500-2000 J/kg MLCAPE. More discrete storms could become supercellular, posing the threat for damaging gusts and perhaps a couple of tornadoes or instances of large hail. It is also possible that an MCS (perhaps even a bow echo) could develop over central PA later today, which could support a corridor of narrow but focused damaging gusts along the baroclinic boundary. A WW issuance will likely be needed in the next couple of hours to address the increasing severe threat."
+    },
+    {
+      "year": 2024,
+      "number": 1844,
+      "issue_utc": "2024-08-06T17:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1844.html",
+      "summary": "The severe threat should increase through the afternoon, with multiple rounds of strong to severe thunderstorms expected. Damaging gusts are the main threat, though a couple instances of large hail or a tornado are also possible. A Severe Thunderstorm Watch issuance will eventually be needed.",
+      "discussion": "Multiple semi-discrete, robust updrafts (including supercells) have become established over western PA and are poised to track eastward through the afternoon. However, before these storms cross the Appalachians, at least scattered thunderstorms are expected to develop east of the Appalachians amid a destabilizing airmass. Visible satellite shows a rapidly expanding CU field, with MRMS mosaic radar data showing convective initiation potentially already underway. To the lee of the Appalachians, surface temperatures are already reaching 90 F amid 70+ F dewpoints, supporting 8 C/km boundary-layer lapse rates (per 16Z mesoanalysis). Though deep-layer shear should remain modest through at least early to mid afternoon (i.e. around 30 kts effective bulk shear), the steepening low-level lapse rates will support a damaging gust threat. Later this afternoon, as the stronger storms to the west approach the region, an instance or two of large hail and maybe even a tornado could occur as these storms traverse a baroclinic boundary, where low-level shear may be locally maximized. A Severe Thunderstorm Watch will be needed soon to address the impending severe threat."
+    },
+    {
+      "year": 2024,
+      "number": 1843,
+      "issue_utc": "2024-08-06T17:15Z",
+      "topic": "Tornado Watch 603",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1843.html",
+      "summary": "An isolated tornado threat continues across portions of the coastal Carolinas in association with Tropical Storm Debby. A few brief tornadoes may accompany the stronger storms through at least early afternoon.",
+      "discussion": "Multiple bands of stronger showers and thunderstorms are impinging on the counties in northern SC into southern NC that border the Atlantic in advance of the center of TS Debby, which continues to gradually drift north-northeastward this morning. Given poor tropospheric lapse rates and widespread, persistent cloud cover, overall buoyancy should remain modest (i.e. 500-1000 J/kg MLCAPE, supported mainly by mid to upper 70s F surface dewpoints). Around 200-300 m2/s2 of effective SRH may overspread the 80+ F surface temperatures along coastal NC later this afternoon, where a slight uptick in tornado potential may be realized. Otherwise, a persistent threat of a stray, brief tornado should persist while gradually shifting northward along the NC Outer Banks through the day. ..Squitieri.. 08/06/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1845,
+      "issue_utc": "2024-08-06T18:10Z",
+      "topic": "Severe Thunderstorm Watch 605",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1845.html",
+      "summary": "The severe threat continues across Severe Thunderstorm Watch 605. Damaging gusts should remain the primary threat, though a couple more instances of severe hail may occur and a tornado cannot be ruled out.",
+      "discussion": "Multicell clusters and supercells, with a history of damaging gusts and up to golfball sized hail, remain in progress across western into central PA. Meanwhile, thunderstorms are gradually increasing in both coverage and intensity across eastern PA and in far northwestern OH. As such, multiple rounds of strong to severe thunderstorms should simultaneously progress across Severe Thunderstorm Watch 605 through the afternoon. The greatest (and most immediate) threat for severe storms remains with the western PA cluster, which may grow upscale into an MCS given possible cold pool mergers. Should this occur, a focused corridor of damaging gusts and perhaps a QLCS tornado may result over central PA. Otherwise, more discrete development over northern OH may progress toward the OH/PA border. Damaging gusts are possible, and an instance of large hail or a tornado cannot be ruled out with these storms. Finally, a couple of wet downbursts may accompany preceding storms to the east of the Appalachians. ..Squitieri.. 08/06/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1846,
+      "issue_utc": "2024-08-06T19:58Z",
+      "topic": "Tornado Watch 603",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1846.html",
+      "summary": "An isolated tornado threat should continue through the afternoon across Tornado Watch 603. A replacement tornado watch may be needed.",
+      "discussion": "Occasionally transient supercells have produced brief bouts of appreciable low-level rotation over the past few hours along the NC coastline. However, no tornado reports have been received, or indicated via a TDS on radar. Given widespread cloud cover and precipitation, the inland airmass has struggled to destabilize. While regional VADs show curved low-level hodographs and potentially greater than 200 m2/s2 0-1 and 0-3 km SRH, the limited buoyancy may temper the tornado threat to a degree. Nonetheless, the stronger low-level shear will overspread existent buoyancy for several hours this afternoon, affording the opportunity for at least a couple of brief tornadoes to occur. As such, a replacement watch may be needed in the next hour, as Tornado Watch 603 expires."
+    },
+    {
+      "year": 2024,
+      "number": 1847,
+      "issue_utc": "2024-08-06T20:15Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1847.html",
+      "summary": "A severe thunderstorm watch may be needed across portions of central and western Montana, as well as portions of northern Wyoming, later this afternoon or early evening... primarily for damaging winds and hail.",
+      "discussion": "Scattered convection has developed over portions of Idaho and Montana ahead of a mid-level shortwave trough, progressing eastward from OR/WA. Current SPC Mesoanalysis and forecast proximity soundings suggests that the ongoing convection in Montana is rooted above the boundary-layer, but may later become surface based as the boundary-layer continues to mix throughout the afternoon. Recent satellite trends suggests additional convective development over far eastern ID and western MT is likely, which will move eastward into central MT this afternoon and evening. Ongoing convection in far northwestern WY, where surface-based CINH has eroded, will also move eastward into north-central and northeastern WY. Convection is expected to be high-based, with MLLCL heights ranging from 2-3 km in height due to modest dewpoints in the low-to-mid 50s F. However, MLCAPE values exceeding 1000 J/kg, coupled with deep-layer shear values between 35-45 kts (owing to mostly straight-line hodographs), will support organized convective clusters and high-based supercell thunderstorms. Due to the high based nature of convection, and relatively dry boundary layer profiles, damaging straight-line winds from thunderstorm outflow will be possible. Additionally, any organized supercells will be capable of large hail. A severe thunderstorm watch may be needed later this afternoon and into the evening."
+    },
+    {
+      "year": 2024,
+      "number": 1848,
+      "issue_utc": "2024-08-06T20:29Z",
+      "topic": "Severe Thunderstorm Watch 605",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1848.html",
+      "summary": "The severe threat continues across Severe Thunderstorm Watches 605-606. Damaging gusts should remain the primary threat, though a couple instances of large hail are possible and a tornado still cannot be ruled out.",
+      "discussion": "At least three linear convective complexes have organized across northern OH into PA and NJ over the last few hours, with the north OH and central PA complexes having a history of producing strong, damaging gusts. A radar-indicated tornado also occurred with a QLCS circulation just south of Cleveland, OH. The western lines of storms are progressive, with the central PA line of storms having the most residence time within an ambient unstable airmass characterized by 85-90 F surface temperatures and up to 2000 J/kg MLCAPE. However, the northern OH complex is poised to overspread a convectively overturned airmass over the next few hours, which may dampen the severe threat to a degree. In the meantime (i.e. next couple of hours), an additional QLCS tornado may still occur given the presence of mesovortices established in the leading-line of convection. Storms in southeast PA into NJ are not as progressive, and they have been overturning the airmass in the region, which may limit the severe threat with the central PA storms as they approach this worked over airmass. ..Squitieri.. 08/06/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1849,
+      "issue_utc": "2024-08-06T20:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1849.html",
+      "summary": "Some severe thunderstorms will be possible across central and southern Arizona this afternoon and evening, capable of primarily damaging straight-line winds. Watch issuance remains uncertain at this time, given uncertainty in future convective development and organization.",
+      "discussion": "Thunderstorms have developed over the Mogollon Rim in Arizona, where daytime heating has resulted in surface temperatures in the mid-to-upper 90s F at the top of the rim, and low-to-mid 100s F down in the lower desert. Deep inverted-v boundary-layer profiles and generally weak flow aloft will support damaging wind gusts from thunderstorm outflow. Current upper-air analyses and water vapor satellite trends suggest a belt of modest 20-25 kt easterly flow beginning to overspread central and southern Arizona, which could aid in convective organization and an increased severe threat. However, given convection has yet to move off of the Mogollon Rim, there is significant uncertainty in the magnitude of convective organization that can be expected."
+    },
+    {
+      "year": 2024,
+      "number": 1850,
+      "issue_utc": "2024-08-06T22:31Z",
+      "topic": "Severe Thunderstorm Watch 605",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1850.html",
+      "summary": "Gusty winds will accompany convection as it propagates east-southeast this evening. Some consideration is being given to a new WW into portions of northern MD/DE; however, ongoing convection may only clip adjacent regions just south of Severe Thunderstorm Watches 605/606.",
+      "discussion": "Considerable amount of convection has evolved along the southern portions of stronger westerly flow, immediately ahead of a progressive short-wave trough. Multiple clusters and several line segments extend across the OH Valley into eastern PA/northern NJ. One notable MCS is propagating across the southeast portions of ww605 into southwest ww606. Over the last hour or so the southern flank of this complex has gradually sagged to near the PA/MD border. It's very warm just south of this activity into northern MD where surface temperatures are holding in the 90s. There is some concern this MCS may propagate into northern MD/DE which is not currently in a Severe Thunderstorm Watch. Gusty winds should accompany these storms. Will continue to monitor for possible ww. ..Darrow.. 08/06/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1851,
+      "issue_utc": "2024-08-07T00:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1851.html",
+      "summary": "Marginal risk of hail and damaging wind.",
+      "discussion": "A broken line of thunderstorms is advancing southward out of Canada. This line is expected to continue into northwestern North Dakota, with potential for further development ahead of this line. Storms will continue southward into an environment characterized by MLCAPE around 1000-1500 J/kg and deep layer shear 50-55 kts. This will support a few organized cells capable of large hail (isolated up to 2 in) and damaging wind. MLCIN remains in place across much of central North Dakota, which may limit the severe potential with south and southeast extent. Due to the localized nature of this threat, a watch is unlikely to be needed."
+    },
+    {
+      "year": 2024,
+      "number": 1852,
+      "issue_utc": "2024-08-07T01:33Z",
+      "topic": "Severe Thunderstorm Watch 608",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1852.html",
+      "summary": "Severe threat continues within WW608.",
+      "discussion": "Two clusters of thunderstorms are ongoing across portions of southeastern Montana and northeastern Wyoming. Storms have produced severe gusts up to 68 mph and hail up to 1 inch in the last couple of hours. The greatest near term threat appears to be across northeastern Wyoming into western South Dakota. Lightning activity with this cluster of storms has been more frequent. With eastward extent, these storms will encounter a capped airmass across western South Dakota, with MLCAPE 500-1000 J/kg. Enhanced mid-level flow across this region is supporting 40-45 kts of deep layer shear, which may aid in maintaining organized storms in the near term. The 00z RAOB from Rapid City shows MLCIN to be generally weak amid steep low to mid-level lapse rates. Potential for strong to severe winds and large hail will continue across Wyoming into western South Dakota in the near term. ..Thornton.. 08/07/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1853,
+      "issue_utc": "2024-08-07T02:56Z",
+      "topic": "Severe Thunderstorm Watch 609",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1853.html",
+      "summary": "Damaging wind threat continues in WW609.",
+      "discussion": "A cluster of storms across northern Montana continues eastward, with a trend toward more linear storm mode. This will support increasing potential for strong to severe gusts. Radar from Great Falls (KTFX) shows an increase in winds 45-55 mph around 1 kft within the line northwest of Great Falls, with an increase in lightning activity over the last 30 minutes. Though the downstream environment is characterized as weakly unstable (MLCAPE around 250 J/kg), strong deep layer shear around 45-50 kts could continue to support a few organized segments with potential for strong to severe gusts. ..Thornton.. 08/07/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1854,
+      "issue_utc": "2024-08-07T04:25Z",
+      "topic": "Tornado Watch 607",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1854.html",
+      "summary": "Risk of tornadoes is gradually lowering across coastal portions of the Carolinas. New tornado watch is not currently expected.",
+      "discussion": "TS Debby remains located off the Carolina Coast south of CHS. Several broken convective bands persist within the eastern hemisphere of this cyclone with the most pronounced activity rotating inland from southeast SC into southern NC, within the main body of ww607. 00z soundings from CHS and MHX exhibit only modest shear with typical poor lapse rates and weak buoyancy. Earlier this evening several weak supercells were noted within the stronger bands, but updrafts appear to have weakened per radar and lightning data. Given the modest shear, and poor buoyancy, new Tornado Watch is not currently anticipated. ..Darrow.. 08/07/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1855,
+      "issue_utc": "2024-08-07T06:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1855.html",
+      "summary": "A brief tornado or two will be possible overnight.",
+      "discussion": "A band of convection along the east/northeast periphery of Tropical Storm Debby's circulation has become somewhat more well-defined early this morning. A theta-e/instability gradient persists near the coast, with a narrow inland zone of MLCAPE near 1000 J/kg noted (per recent objective mesoanalyses and a modified 06Z sounding from KMHX) where temperatures remain near 80 F. The 06Z MHX sounding and recent VWPs from KMHX/KLTX depict 0-1 km SRH of around 150-200 m2/s2 for observed cell motions, which is sufficient to support at least transient low-level rotation with the strongest cells. While ongoing convection has generally struggled to become organized, a brief tornado or two cannot be ruled out overnight as stronger embedded cells within the primary convective band move inland and cross the near-coastal baroclinic zone."
+    }
+  ]
+}

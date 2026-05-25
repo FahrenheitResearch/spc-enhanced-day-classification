@@ -1,0 +1,133 @@
+{
+  "convective_day": "2019-09-27",
+  "valid_start": "2019-09-27T12:00Z",
+  "valid_end": "2019-09-28T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2019-09-27",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-09-27T16:30Z",
+      "valid_end": "2019-09-28T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190927_1630.html",
+      "summary": "Scattered to numerous severe thunderstorms are possible, including a few tornadoes, mainly during the late afternoon and evening from northern Illinois to eastern Kansas.",
+      "sections": [
+        {
+          "title": "KS to Lower MI",
+          "text": "Elevated convection is ongoing within a low-level warm advection regime across the Mid-MO Valley and northern IL. Robust boundary-layer heating is underway in the wake of this morning activity beneath an elevated mixed layer that is attempting to advect northeast from the central Great Plains/Lower MO Valley. In conjunction with surface dew points increasing into the upper 60s to lower 70s surface dew points, a strongly unstable air mass with MLCAPE of 2500-3500 J/kg should develop ahead of a southwest-northeast cold front from eastern KS to the IA/IL/MO border area. Despite near-neutral mid-level height tendency, guidance is fairly consistent with the presence of a mid-level speed max developing across northeast KS this afternoon and reaching the IA/IL border area this evening. While the bulk of initial convective development may be atop a more stable boundary-layer from central IA to southern WI, sufficient convergence should exist for storm development along the front and into the warm sector from its intersection with the differential heating boundary in northern IL to the dryline intersection in south-central KS. The greatest convective coverage should reside near the IA/IL/MO"
+        },
+        {
+          "title": "Southeast NM and west TX",
+          "text": "A low-amplitude shortwave trough near the AZ/Sonora border should approach the TX Panhandle. Scattered storms should develop this evening into the overnight. Modest buoyancy, the bulk of which should remain below the strong speed shear from the mid to upper levels, will probably marginalize the overall severe hail and wind risk. ..Grams/Smith.. 09/27/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-09-27",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-09-27T20:00Z",
+      "valid_end": "2019-09-28T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190927_2000.html",
+      "summary": "Scattered to numerous severe thunderstorms are expected late this afternoon into the evening from northern Illinois, southern Iowa, northern Missouri and eastern Kansas. The primary threats are large hail and damaging wind, but a few tornadoes remain possible.",
+      "sections": [
+        {
+          "title": "Midwest through central Kansas",
+          "text": "Destabilization is occurring from KS, northern MO into southern IA in wake of a large MCS ongoing from northern IL into lower MI. As of mid-afternoon, objective analysis indicates a corridor of 2000-2500 J/kg MLCAPE from KS into northern MO and southern IA, but a warm elevated mixed layer has contributed to a cap in most of the warm sector. Water Vapor and objective analysis data show a weak, low-amplitude shortwave trough moving through the central Plains. Deeper forcing for ascent attending this feature will interact with the frontal zone, and thunderstorms should develop along and north of the front later this afternoon and evening from KS into northern MO and southern IA and spread east into northern IL. Effective-bulk shear from 35-45 kt within the frontal zone should support a few supercells with large hail as the initial storm mode. Many of these storms will be elevated above the stable surface layer, but any storms developing along the leading edge of the front will be near surface based. Tendency has been for low-level winds to veer to southwesterly in pre-frontal warm sector, reducing the size of low-level hodographs, but 0-1 km storm relative helicity from 150-200 m2/s2 "
+        },
+        {
+          "title": "KS to Lower MI",
+          "text": "Elevated convection is ongoing within a low-level warm advection regime across the Mid-MO Valley and northern IL. Robust boundary-layer heating is underway in the wake of this morning activity beneath an elevated mixed layer that is attempting to advect northeast from the central Great Plains/Lower MO Valley. In conjunction with surface dew points increasing into the upper 60s to lower 70s surface dew points, a strongly unstable air mass with MLCAPE of 2500-3500 J/kg should develop ahead of a southwest-northeast cold front from eastern KS to the IA/IL/MO border area. Despite near-neutral mid-level height tendency, guidance is fairly consistent with the presence of a mid-level speed max developing across northeast KS this afternoon and reaching the IA/IL border area this evening. While the bulk of initial convective development may be atop a more stable boundary-layer from central IA to southern WI, sufficient convergence should exist for storm development along the front and into the warm sector from its intersection with the differential heating boundary in northern IL to the dryline intersection in south-central KS. The greatest convective coverage should reside near the IA/IL/MO"
+        },
+        {
+          "title": "Southeast NM and west TX",
+          "text": "A low-amplitude shortwave trough near the AZ/Sonora border should approach the TX Panhandle. Scattered storms should develop this evening into the overnight. Modest buoyancy, the bulk of which should remain below the strong speed shear from the mid to upper levels, will probably marginalize the overall severe hail and wind risk."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-09-28",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-09-28T01:00Z",
+      "valid_end": "2019-09-28T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190928_0100.html",
+      "summary": "Scattered severe thunderstorms are expected to continue this evening along a corridor from central Kansas into northwest Indiana. Large hail and damaging winds are the primary threats, though a tornado or two can not be ruled out.",
+      "sections": [
+        {
+          "title": "01z Update",
+          "text": "Scattered severe thunderstorms have recently erupted along a pronounced frontal zone from central KS into northern MO. This activity extends northeast ahead of the front within a zone of strong low-level warm advection across northern IL into northwest IN. Steep lapse rates are contributing to robust updrafts that are efficient hail producers, as far east as northwest IL. Earlier severe probs reasonably reflect ongoing severe situation, though have opted to remove 10% Sig Hail as most stones should remain below 2\". Convective trends, along with fairly consistent CAMs, suggest a fairly active zone of severe along this corridor through late evening, possibly extending into the early morning hours. Otherwise, earlier thoughts regarding this severe event continue. ..Darrow.. 09/28/2019"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2019,
+      "number": 2026,
+      "issue_utc": "2019-09-27T20:01Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md2026.html",
+      "summary": "Potential for isolated to widely scattered discrete supercell development could increase as early as 5-7 PM CDT. A severe weather watch will probably be needed at some point, although timing still remains a little unclear.",
+      "discussion": "Although latest model output, including the Rapid Refresh, suggest that at least some weakening of the pre-frontal low-level jet is underway, flow around 850 mb appears to remain on the order of 40-50 kt along an axis south of Kansas City into northwest/west central Illinois. This is maintaining a zone of enhanced low-level warm advection and associated convective development, roughly along the Interstate 74 corridor of Illinois. On the southwestern flank of this activity, differential surface heating is contributing to a sharpening baroclinic zone, which may only very slowly begin to shift northeastward in advance of a low-amplitude mid-level wave emerging from the central Plains. Along and west of the boundary, a generally capped moist boundary layer now appears characterized by moderately large CAPE in excess of 2000 J/kg. Increasing inflow of this air could support intensification of ongoing convection rooted above the stable near surface air across central Illinois during the next few hours. Perhaps of greater concern, attempts at new thunderstorm development appear underway in closer proximity to the surface boundary, northeast of Quincy, with similar additional discrete storm development possible just ahead of a southward advancing cold front, from near the eastern Iowa/Missouri border area through adjacent portions of southeast Iowa and northwest Illinois by 22-00Z. Aided by large-scale forcing for ascent (and weakening of inhibition) associated with the approaching mid-level wave, and coinciding strengthening of west-southwesterly flow to 50-60+ kt in the 700-500 mb layer, the environment is expected to become increasingly conducive to discrete supercell development. It appears that this could pose the risk for a couple of tornadoes, in addition to large hail."
+    },
+    {
+      "year": 2019,
+      "number": 2027,
+      "issue_utc": "2019-09-27T22:37Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md2027.html",
+      "summary": "Storms are expected to develop along a cold front in the 23-00Z timeframe and will pose a risk of hail, strong wind gusts, and perhaps a tornado. A WW issuance will likely be needed by 00Z if not earlier.",
+      "discussion": "Latest satellite imagery and objective analyses indicate deepening cumulus along a front located from near P28 and south-central Kansas northeastward to near TOP, with additional convection forming across north-central Missouri near IRK. These storms are in a strongly unstable environment characterized by 3000-4000+ J/kg MUCAPE along with strong deep shear supporting organization once storms materialize. Point forecast soundings and satellite imagery indicate substantial mid-level inhibition, though this inhibition may be weak enough for storms to materialize near P28 and vicinity where boundary layer heating/mixing has removed capping. Mid/upper forcing for ascent is modest, however, and convective development will ultimately depend on continued convergence near the cold front. Once storms mature, large (perhaps significant) hail and damaging wind gusts will be the primary threats. A tornado or two cannot be completely ruled out in this regime given the magnitude of instability and 35-45 kt low-level flow. A Severe Thunderstorm Watch is expected to cover the eventual severe threat, and although specific timing of convection is not fully certain, this Watch may be needed between 2300-0000Z or so."
+    },
+    {
+      "year": 2019,
+      "number": 2028,
+      "issue_utc": "2019-09-27T23:21Z",
+      "topic": "Tornado Watch 665",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md2028.html",
+      "summary": "Severe risk -- mainly in the form of hail -- continues across Tornado Watch 665. Wind/isolated tornado potential has increased slightly across the far northeast Missouri and into adjacent northwest Illinois.",
+      "discussion": "Latest surface analysis shows a cold front advancing across eastern Iowa and northern Missouri at this -- into western portions of Tornado Watch 665. Meanwhile, a remnant outflow boundary is lying west-to-east across central Illinois, with some slow northward retreat now indicated. This boundary intersects the cold front roughly 35 miles south-southeast of OTM. The latest radar loop continues to show the bulk of the convection remaining elevated -- to the cool side of the cold front, and the outflow boundary. The strongest of this elevated convection remains over northern Illinois, where large hail remains the primary risk. With that said, new storm development has increased over the past half hour or so over northeastern Missouri, near the front/outflow intersection and southwestward for a short distance along the front. Though hail remains the main severe risk with these storms as well, the surface-based nature of these updrafts suggests some potential for damaging winds -- though wind risk will likely be brief with any updraft given the tendency for storms to become undercut by the advancing cold front shortly after initiation. Finally, while warm-sector flow is veered, reducing low-level shear, a tornado or two cannot be ruled out -- mainly with storms crossing to the cool side of the outflow boundary where backed/easterly low-level flow is enhancing low-level shear. ..Goss.. 09/27/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 2029,
+      "issue_utc": "2019-09-28T00:37Z",
+      "topic": "Severe Thunderstorm Watch 664",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md2029.html",
+      "summary": "Local severe risk continues -- particularly across portions of southern Iowa within WW 664.",
+      "discussion": "Latest radar loop shows the strongest convection within WW 664 occurring along the Iowa/Missouri border area, to the cool side of the southward-moving cold front. While slightly elevated, CAPE/shear environment remains supportive of stout/rotating updrafts, and attendant severe risk -- primarily in the form of large hail. Risk should linger for the next hour or so, but with continued frontal advance, most of the convection -- and attendant severe risk -- will shift out of WW 664 and into other/adjacent watches. ..Goss.. 09/28/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 2030,
+      "issue_utc": "2019-09-28T02:04Z",
+      "topic": "Severe Thunderstorm Watch 666",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md2030.html",
+      "summary": "The severe threat continues across WW 666.",
+      "discussion": "Storms have organized into a series of supercells and broken linear segments along and near the surface cold front, which bisects WW 666 from near ICT to MKC to IRK. Most of these supercells have been barely elevated atop the leading edge of the front, though occasional mesocyclogenesis near the boundary has also been noted. Additionally, a few left splits have occurred across central Kansas near SLN and near LWD. The combination of favorable storm mode, very steep (8-8.5C/km) lapse rates, and 40-45 knots of deep shear will favor large to occasionally significant hail - particularly with supercellular structures. Damaging wind gusts and perhaps a tornado are also possible - particularly near the Kansas Turnpike. This risk should continue over at least the next 2-3 hours. ..Cook.. 09/28/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 2031,
+      "issue_utc": "2019-09-28T02:18Z",
+      "topic": "Tornado Watch 665",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md2031.html",
+      "summary": "Severe risk continues across Tornado Watch 665.",
+      "discussion": "Latest radar loop shows some upscale growth/clustering of storms across the northern Illinois vicinity, near the steadily advancing cold front. Some hint that storms are becoming undercut by outflow is evident, which -- along with a gradually stabilizing boundary layer -- suggests that surface-based risk may be slowly diminishing. Still, along with hail potential, locally damaging winds and a brief tornado remain possible over the next couple of hours -- i.e. for the remainder of the WW valid time. ..Goss.. 09/28/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 2032,
+      "issue_utc": "2019-09-28T03:45Z",
+      "topic": "Tornado Watch 665",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md2032.html",
+      "summary": "Severe risk has diminished across WW 665, though limited hail/wind potential my linger beyond the scheduled 04Z WW expiration time.",
+      "discussion": "Latest radar loop shows that storms across the WW area continue to generally weaken, becoming increasingly undercut by outflow. An exception is over portions of western Illinois, where an evolving band of storms appears to be evolving toward a forward-propagating, arcing band. Should this evolution continue, risk for damaging winds may linger locally beyond 28/04Z. Still, given the stabilizing boundary layer, and rain-cooled environment now covering much of the region that remains within the WW, risk should remain localized, such that new WW issuance will not be required. ..Goss.. 09/28/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

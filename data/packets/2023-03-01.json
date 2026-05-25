@@ -1,0 +1,186 @@
+{
+  "convective_day": "2023-03-01",
+  "valid_start": "2023-03-01T12:00Z",
+  "valid_end": "2023-03-02T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2023-03-01",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-03-01T16:30Z",
+      "valid_end": "2023-03-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230301_1630.html",
+      "summary": "A focused corridor of severe potential is evident this afternoon through tonight from northeast Texas into the Mid-South and Tennessee Valley. Scattered large to very large hail, damaging winds, and tornadoes all appear possible. A strong tornado may also occur.",
+      "sections": [
+        {
+          "title": "Southern Plains into the Mid-South and Tennessee Valley",
+          "text": "A broad area of enhanced southwesterly mid-level flow will persist today through tonight across the southern Plains into the MS Valley and OH Valley. At the surface, a front extends from north TX into MO and the Midwest. Low-level moisture is forecast to gradually increase this afternoon and evening along/south of this boundary. A strong cap noted on the 12Z SHV sounding should inhibit robust convective development for at least a few more hours. Eventually, subtle large-scale forcing associated with a low-amplitude mid-level perturbation over TX, along with modest low-level convergence along the front, should support convective initiation over northeast TX/the ArkLaTex region by late this afternoon. Steep mid-level lapse rates, increasing low-level moisture, and filtered daytime heating should support moderate instability in a narrow corridor from northeast TX into the Mid-South. Deep-layer shear in excess of 50 kt will easily support organized thunderstorms, including supercells. Scattered large to very large hail will be threat with any initially discrete convection that develops. With time, thunderstorms should congeal into one or more bowing line segments as they spread eastwar"
+        },
+        {
+          "title": "Ohio Valley",
+          "text": "The cold front should advance quickly east-southeastward across the OH Valley through this evening. Low-level moisture will remain more limited compared to locations farther south. Still, steep lapse rates and ample daytime heating ahead of the front should aid in the development of weak instability this afternoon. Isolated strong to severe thunderstorms capable of producing both hail and damaging winds appear possible. ..Gleason/Thornton.. 03/01/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-03-01",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-03-01T20:00Z",
+      "valid_end": "2023-03-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230301_2000.html",
+      "summary": "A focused corridor of severe potential is evident this afternoon through tonight from northeast Texas into the Mid-South and Tennessee Valley. Scattered large to very large hail, damaging winds, and tornadoes all appear possible. A strong tornado may also occur.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "...Northeast TX through the Mid-South and TN Valley... Recent surface analysis reveals a weak low over north Texas, with a stationary front extending northeastward across central AR into far southern IL. This front has been sharpening over the past few hours as warm, moist air advects northward across central/east TX and Lower MS Valley but cooler, drier trajectories persist through OK and the Ozark Plateau. 18Z SHV sounding still showed substantial capping, but the increased lift evidenced by the lightning activity across southeast OK and new echoes over southwest AR should begin to erode some of this inhibition. Thunderstorm development is still anticipated later this afternoon and evening. Highest tornado potential is still expected to occur within a narrow zone from southwest AR into northern MS and southwestern TN. In this area, a few discrete supercells are possible. Additional thunderstorm development is possible across the TX Hill Country early tomorrow morning and hail/wind probabilities were extended southwestward to cover this potential."
+        },
+        {
+          "title": "NC",
+          "text": "A few stronger thunderstorms are possible early tomorrow morning within the strengthening warm-air advection across the region. Buoyancy will be modest and storms should be elevated, but shear will be strong enough to support a few more robust/organized updrafts. Primary severe risk would be hail. Uncertainty regarding coverage precludes introducing any probabilities. ..Mosier.. 03/01/2023 .PREV DISCUSSION... /ISSUED 1030 AM CST Wed Mar 01 2023/"
+        },
+        {
+          "title": "Southern Plains into the Mid-South and Tennessee Valley",
+          "text": "A broad area of enhanced southwesterly mid-level flow will persist today through tonight across the southern Plains into the MS Valley and OH Valley. At the surface, a front extends from north TX into MO and the Midwest. Low-level moisture is forecast to gradually increase this afternoon and evening along/south of this boundary. A strong cap noted on the 12Z SHV sounding should inhibit robust convective development for at least a few more hours. Eventually, subtle large-scale forcing associated with a low-amplitude mid-level perturbation over TX, along with modest low-level convergence along the front, should support convective initiation over northeast TX/the ArkLaTex region by late this afternoon. Steep mid-level lapse rates, increasing low-level moisture, and filtered daytime heating should support moderate instability in a narrow corridor from northeast TX into the Mid-South. Deep-layer shear in excess of 50 kt will easily support organized thunderstorms, including supercells. Scattered large to very large hail will be threat with any initially discrete convection that develops. With time, thunderstorms should congeal into one or more bowing line segments as they spread eastwar"
+        },
+        {
+          "title": "Ohio Valley",
+          "text": "The cold front should advance quickly east-southeastward across the OH Valley through this evening. Low-level moisture will remain more limited compared to locations farther south. Still, steep lapse rates and ample daytime heating ahead of the front should aid in the development of weak instability this afternoon. Isolated strong to severe thunderstorms capable of producing both hail and damaging winds appear possible."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-03-02",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-03-02T01:00Z",
+      "valid_end": "2023-03-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230302_0100.html",
+      "summary": "A focused corridor of severe potential remains in place through tonight from the Arklatex into the Tennessee Valley. Scattered large to very large hail, damaging gusts, and a few tornadoes all appear possible. A strong tornado cannot be ruled out.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "Scattered strong to potentially severe storms continue across portions of the MS Valley within a buoyant warm-air advection regime ahead of an approaching 60 kt 500 mb speed max, currently located over western OK. Convection should gradually increase in coverage and intensity through the evening as a southwesterly low-level jet intensifies. Though dynamic forcing is not overly robust (given the lack of a pronounced mid-level shortwave trough), adequate buoyancy and increasing low-level shear with a strengthening low-level jet should promote several hours of strong to severe storm potential from AR into the TN Valley through tonight, with elevated (hail producing) storms possible as far east as the Carolina Piedmont."
+        },
+        {
+          "title": "Texas to the TN/OH Valleys through tonight",
+          "text": "Relatively robust thunderstorms continue to intensify from the Arklatex into OH along a diffuse cold front, preceded by 7+ C/km mid-level lapse rates. Surface dewpoints in the 50s F across the OH Valley to near 70 F in northern LA are contributing to around 500 J/kg farther north, to about 2000 J/kg in TX. A broad 30 kt low-level jet already overspreads portions of the Lower MS Valley to the OH river, overspread by 50+ kts of 500 mb westerly flow, supporting 40+ kt effective bulk shear from TX to KY. The steeper lapse rates and shear will promote a large hail/damaging gust threat with any storm that can remain sustained through the evening. The greatest threat for severe storms remains across the Lower MS Valley, where discrete transient supercells have been occurring just behind a southward sagging outflow boundary. As the low-level jet intensifies through the evening, enlargement of hodographs should ensue, with strong enough low-level shear supporting the risk of very large hail and perhaps a few tornadoes, particularly with any storms that can get ahead of the outflow boundary. A strong tornado cannot be ruled out with any of the more dominant, discrete supercells that can trav"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2023,
+      "number": 213,
+      "issue_utc": "2023-03-01T13:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0213.html",
+      "summary": "A couple of strong to severe storms posing at least some risk for severe hail are possible this morning across across north central Texas. It remains unclear whether a severe weather watch will be needed in the near term, but trends will continue to be monitored for this possibility.",
+      "discussion": "Mid/upper flow is strong, and strengthening, but remains broadly anticyclonic across the much of the southern Great Plains, toward the southern Atlantic Seaboard, around the northern periphery of subtropical ridging centered over the Caribbean. However, a number of subtle perturbations are progressing through this regime, and the passage of one may be contributing to ongoing thunderstorm development near the Dallas-Fort Worth Metroplex. Based on comparison of Rapid Refresh and NAM forecast soundings, and the 12Z observed sounding from FTW, it remains unclear whether ongoing activity has been supported by destabilization associated with a more elevated moisture return, or deepening lower-level moisture return and forcing through a lingering capping layer centered near or above the 850 mb level. Guidance suggests that with time, it may be closer to the latter, in which case storm inflow may become characterized by sizable CAPE, beneath steep lower/mid-tropospheric lapse rates. As long as deep convection is maintained, and further warming aloft does not tend to suppress the thunderstorm development, stronger storms may eventually become capable of producing severe hail, in the presence of strong deep-layer shear."
+    },
+    {
+      "year": 2023,
+      "number": 214,
+      "issue_utc": "2023-03-01T15:02Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0214.html",
+      "summary": "The risk for large hail/damaging gusts may develop east into the Arklatex late this morning into the midday hours. An additional small severe thunderstorms watch is possible.",
+      "discussion": "Radar mosaic shows an intense thunderstorm over the Dallas metro as of 900am CST. This thunderstorm activity is occurring within a subtle forcing regime driven primarily be warm air advection across the southern Great Plains into the lower MS Valley. The 12 UTC Fort Worth raob showed relatively steep mid-level lapse rates (at or above 8 deg C/km in the 800-550 mb layer) within strong cloud-bearing shear. The Elevated Mixed Layer and associated plume of steep mid-level lapse rates extends east from the southern Great Plains into the lower MS Valley. The associated capping evident in the morning raobs over the Arklatex lends some uncertainty whether additional storms will develop over the next few hours. Additionally, longevity of the ongoing activity over north-central TX is in question whether it can persist into the midday hours and move downstream to the east of severe thunderstorm watch #49. With those concerns stated, will continue to monitor convective trends over the next few hours. A decision for an additional severe thunderstorm watch may be predicated on the intensity of the active thunderstorms as they move to the eastern counties of the Watch."
+    },
+    {
+      "year": 2023,
+      "number": 215,
+      "issue_utc": "2023-03-01T20:22Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0215.html",
+      "summary": "Severe storms are expected to develop and increase in coverage by the afternoon/evening. More discrete cells may pose risk of large hail and a few tornadoes. Tornado Watch likely needed by 21-22z.",
+      "discussion": "Current surface objective analysis and data from 18z soundings at SHV and LZK show some progress made in eroding CIN across the corridor from Louisiana, Arkansas, and Mississippi. However, daytime heating is well underway with surface obs showing temperatures across southern Louisiana and Mississippi approaching the upper 70s to lower 80s. Moisture is in place with mid to upper 60s dew points into central Arkansas and Tennessee. Trends within CAM guidance have been for development of more discrete cells initially across the Arklatex region by 21-23z, where the cap has been weakening within the last couple of hours. Once storms develop, initial discrete cells will be capable of large hail, given deep layer shear profiles of 60-65 kts. Any cells that can become surface based near the AR/LA border will support some risk for tornadoes given adequate low level shear. As the low level jet gradually strengthens late afternoon/evening, elongating shear profiles and increasing 0-1 km shear should support a greater risk for tornadoes. A Tornado Watch is likely by 21-22z."
+    },
+    {
+      "year": 2023,
+      "number": 216,
+      "issue_utc": "2023-03-01T22:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0216.html",
+      "summary": "Isolated to scattered thunderstorms developing along a diffuse cold front will pose a severe hail and damaging wind risk for the next several hours. Waning buoyancy heading into the late evening hours should limit the overall severe potential; watch issuance is not expected.",
+      "discussion": "IR satellite and regional radar trends show robust convection developing along a diffuse cold front across the lower OH River Valley region. This activity is developing within a regime featuring elongated hodographs with effective shear values near 40-50 knots, but somewhat marginal buoyancy (MLCAPE values near 500-1000 J/kg). However, the continued northward advection of upper 50s and low 60s dewpoints is gradually expanding the effective warm sector to the northeast, largely in tandem with the northeastward progression (and slight deepening) of a surface low over the OH River Valley. This will provide adequate buoyancy to maintain developing convection for the next several hours, and the favorable kinematic fields will support storm organization with an accompanying risk for severe hail and damaging winds. The influence of low-level moisture advection to the north/northeast will likely be modulated by diurnal cooling, which may limit overall convective intensity. Trends will continue to be monitored, but watch issuance is not expected at this time given the marginal thermodynamic environment expected downstream."
+    },
+    {
+      "year": 2023,
+      "number": 217,
+      "issue_utc": "2023-03-01T23:27Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0217.html",
+      "summary": "Conditional Risk of severe thunderstorms exists this evening from central into northeast Texas.",
+      "discussion": "Surface front has stalled across TX early this evening, currently extending from Paris-Terrell-LLano. Despite extensive cloudiness, boundary-layer heating has contributed to steeper low-level lapse rates across south-central TX. This has sufficiently weakened the cap along the boundary such that a lone thunderstorm has recently evolved over Burnet County. While 12z model guidance suggests a subtle mid-level speed max may be ejecting across this region at this time, it's not apparent any meaningful short wave is associated with this feature. Additionally, stronger low-level warm advection is focused from the Arklatex downstream into the mid South region where more concentrated convection is currently noted. Despite modest buoyancy, forecast soundings suggest updrafts may continue to struggle due to capping."
+    },
+    {
+      "year": 2023,
+      "number": 218,
+      "issue_utc": "2023-03-02T00:21Z",
+      "topic": "Tornado Watch 50",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0218.html",
+      "summary": "Severe risk -- including potential for a few tornadoes -- continues across much of WW 50.",
+      "discussion": "Latest radar loop shows storms scattered across much of Tornado Watch 50, from southern Arkansas eastward toward the Tennessee Valley. Recently, the strongest cell has been one moving quickly across Garland County AR, toward Hot Springs, where a tornado warning was recently in effect. This storm appears to be just north of -- but riding roughly along -- the surface warm front, but should move atop a slightly deeper stable layer over the next half hour which should limit tornado potential. Farther southwest, another strong cluster of storms that bears watching is moving across Sevier/Howard Counties in southwestern Arkansas. Another cluster of rotating storms is indicated either side of the Tennessee/Mississippi border, near the eastern edge of WW 50. A new watch farther downstream may be a consideration over the next hour or so. Overall, with a moist/amply unstable warm sector in place, and a wind field characterized by weakly veering but strongly increasing flow with height, potential for severe storms and local tornado risk will continue over the next few hours. ..Goss.. 03/02/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 219,
+      "issue_utc": "2023-03-02T02:44Z",
+      "topic": "Tornado Watch 50",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0219.html",
+      "summary": "Mature/intense supercell is moving across southeastern Arkansas, accompanied by very large hail and the potential to produce a tornado.",
+      "discussion": "A long-lived, strongly rotating supercell is currently moving east-southeastward across Lincoln County Arkansas at this time. The storm continues to exhibit a large/strongly rotating mesocyclone, per KLZK WSR-88D, and appears to be producing very large hail. The storm is moving along a low-level conglomerate/convective boundary lying west-to-east across southeastern Arkansas and northern Mississippi. Given the maximized baroclinic low-level vorticity along the boundary, there is some potential that this storm could produce a strong tornado over the next 30 to 60 minutes. ..Goss.. 03/02/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 220,
+      "issue_utc": "2023-03-02T03:38Z",
+      "topic": "Tornado Watch 50",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0220.html",
+      "summary": "Local risk for severe weather may continue for the next 1 to 2 hours across parts of northern Mississippi. An extension of the watch beyond the scheduled 04Z expiration may be needed.",
+      "discussion": "Latest radar shows a gradually weakening supercell crossing the Mississippi River and moving into Bolivar County Mississippi at this time. Though some weakening has occurred, this storm remains capable of producing severe wind/hail in the short term. With a surface boundary lying across northern Mississippi, and storms widespread near and north of this boundary, some risk for additional/briefly severe storms may persist for another 1 to 2 hours. ..Goss.. 03/02/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 221,
+      "issue_utc": "2023-03-02T04:09Z",
+      "topic": "Tornado Watch 51",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0221.html",
+      "summary": "Local risk for severe weather continues across northern Alabama and adjacent southern Middle Tennessee, within WW 51. With some risk possibly existing east of the existing watch, we are monitoring parts of southeastern Tennessee and northwestern Georgia for possible/new WW issuance.",
+      "discussion": "Latest radar loop shows strong thunderstorms crossing Tornado Watch 51 at this time, including intense/rotating storms across Madison County AL and Franklin/Marion County AL. As the low-level jet veers with time, expect ongoing storms to persist for at least another couple of hours, and given the fairly homogeneous airmass just east of the WW into the southern Appalachians as in areas farther west, some severe threat may expand into these areas, possibly warranting new WW issuance. ..Goss.. 03/02/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 222,
+      "issue_utc": "2023-03-02T04:21Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0222.html",
+      "summary": "Isolated severe storms -- capable of producing very large hail -- will be possible over the next few hours across parts of South Texas. The very isolated nature of the expected convection may preclude the need for WW issuance.",
+      "discussion": "Latest radar loop shows that a large/lone supercell has developed over Zavala County in South Texas, and is moving into southwestern Frio County at this time. The storm is occurring within a moderately unstable environment, where weak low-level flow but strong southwesterlies aloft are providing sufficient shear for this storm to acquire updraft rotation. Latest MRMS MESH continues to show very large hail with this storm, as it moves eastward. Though any more than very isolated/additional development appears unlikely, any storm across this area will be capable of producing very large/destructive hail, and possibly locally damaging wind gusts."
+    },
+    {
+      "year": 2023,
+      "number": 223,
+      "issue_utc": "2023-03-02T07:40Z",
+      "topic": "Tornado Watch 52",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0223.html",
+      "summary": "The risk for severe weather appears to have generally diminished, but a few strong gusts could accompany remnant thunderstorm activity spreading across the mountains into Piedmont of North Carolina through 3-5 AM EST.",
+      "discussion": "Within remnant convection spreading into the southern Appalachians, a lower/mid-tropospheric vorticity center appears to be weakening as it migrates east-northeast of the Chattanooga vicinity, into the mountains of western North Carolina. The risk for severe weather probably has diminished as well, particularly across southeastern Tennessee and much of northern Georgia. A jet streak, including west-southwesterly flow of 40-70+ kt in the 850-500 mb layer, is in the process of propagating across and to the lee of the southern Appalachians through 9-12Z, where some boundary-layer moistening is ongoing. However, based on forecast soundings, this is not expected to become sufficient to support more than very weak destabilization beneath relatively warm mid/upper levels with weak lapse rates. While it is possible that a few strong gusts may accompany convection spreading into the Carolina Piedmont during the next few hours, the risk for severe storms appears likely to remain generally low. ..Kerr.. 03/02/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 224,
+      "issue_utc": "2023-03-02T10:11Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0224.html",
+      "summary": "Isolated to widely scattered strong thunderstorm development may persist into mid morning, particularly across parts of the Hill Country into Edwards Plateau vicinity. While it is not clear that a severe weather watch will be needed, the most vigorous cells may continue to occasionally be accompanied by large hail.",
+      "discussion": "Warm air and moisture advection centered in a layer around 700 mb, and focused near the northern periphery of warmer and more strongly capping elevated mixed-layer air, currently extending in a corridor from near the Rio Grande River (south of Del Rio) east-northeastward toward areas west of Houston, has maintained vigorous convective development. This has generally been limited to isolated to scattered storms, but may persist with forcing perhaps shifting westward/northwestward through 14-15Z, as the strong upstream short wave trough and embedded mid-level low continue to dig across the Southwestern international border area. While CAPE for these elevated parcels is probably generally not as large as suggested by the objective analysis, MRMS data indicate that the steep mid-level lapse rates and strong shear in the cloud-bearing layer have been supporting at least marginally severe hail. This probably will continue as long as thunderstorm development is maintained. The strongest current cell, now developing east-northeastward away from the San Antonio vicinity, aided by the strong west-southwesterly mean flow, could begin to acquire inflow of better low-level moisture with larger CAPE during the next hour or two. However, warming aloft along this track might also tend to increase the mid-level inhibition. So the longevity of this storm remains unclear."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "convective_day": "2019-03-13",
+  "valid_start": "2019-03-13T12:00Z",
+  "valid_end": "2019-03-14T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2019-03-13",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-03-13T12:00Z",
+      "valid_end": "2019-03-14T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190313_1200.html",
+      "summary": "Severe thunderstorms associated with wind damage and an isolated tornado threat are expected to develop across parts of the lower to mid Mississippi Valley this afternoon and evening.",
+      "sections": [
+        {
+          "title": "East Texas/Arklatex/Lower to Mid Mississippi Valley",
+          "text": "A negatively tilted upper-level trough will move across the southern Plains this morning into the central Plains and lower Mississippi Valley this afternoon. At the surface, a powerful low pressure system will deepen across the central High Plains as a line of strong low-level convergence associated with thunderstorm development, moves eastward across the southern Plains. Ahead of this activity, a moist airmass will advect northward into the Arklatex and lower to mid Mississippi Valley. Surface dewpoints should increase into the lower to mid 60s F across northern Louisiana and eastern Arkansas. Weak instability is forecast to develop along this corridor of maximized low-level moisture by afternoon. As the line of thunderstorms moves eastward into the region, additional convection may develop ahead of the line in the lower to mid Mississippi Valley. By late afternoon, the line of storms from the west and band of storms near the Mississippi River are forecast to merge. This linear MCS should move east-northeastward into western portions of the Ohio and Tennessee Valleys by early evening. Concerning the severe threat, a marginal wind damage threat should accompany the line of storms m"
+        },
+        {
+          "title": "Southeast Nebraska/Far Northern Kansas",
+          "text": "An upper-level low will move northeastward into the central Plains today. Surface heating and strong large-scale ascent will be favorable for thunderstorm development this afternoon just to the southeast of the upper-level low track. Enough instability is expected to develop across southern Nebraska and northern Kansas for a marginal severe threat. This combined with steep mid-level lapse rates and cold air aloft may be sufficient for hail with the stronger updrafts. ..Broyles/Gleason.. 03/13/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-03-13",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-03-13T13:00Z",
+      "valid_end": "2019-03-14T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190313_1300.html",
+      "summary": "Severe thunderstorms associated with wind damage and an isolated tornado threat are expected to develop across parts of the lower to mid Mississippi Valley this afternoon and evening. Isolated severe storms are also possible over portions of northern Kansas and southern Nebraska.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "Upper-level low pressure over southeast Colorado will deepen early Wednesday while lifting northeast towards southeast Nebraska late Wednesday night. Intense surface low pressure will remain vertically aligned with the upper system, resulting in very strong low/mid-level wind fields across the central/southern Plains east to the lower/mid-Mississippi Valley region. An occluded front will arc northeast from the surface low across Iowa by 00Z and then extend south/southwest as a cold front from eastern sections of Missouri into western Louisiana."
+        },
+        {
+          "title": "East Texas/Arklatex to the mid-Mississippi Valley",
+          "text": "Remnants of overnight linear MCS should continue to weaken this morning as instability diminishes with eastward extent, however an isolated severe gust will remain possible as stronger convective elements developing ahead of the gust front transport higher momentum air to the surface in the presence of a very strong (60 kt) low-level jet. Despite generally weak mid-level lapse rates, a narrow corridor of lower 60s surface dew points will contribute to surface-based instability of 500 to locally 1000 J/kg by late afternoon/evening just ahead of the cold front from the vicinity of southeast Missouri southward. Strong wind fields will result in deep-layer shear on the order of 60 kts, with curved low-level hodographs supportive of supercells and bowing segments. One limiting factor remains the lack of greater instability, and with large-scale lift shifting north of the area with time, there remains uncertainty regarding storm coverage. High-resolution guidance suggests that redevelopment/re-intensification of thunderstorms with the cold front remains possible, along with more discrete thunderstorm development within the favorable shear-instability region preceding the front. Damaging "
+        },
+        {
+          "title": "Southeast Nebraska/northern Kansas",
+          "text": "Thunderstorms are expected to develop this afternoon northeast of the upper low within a region of weak instability resulting from cool mid-level temperatures and heating within the dry slot wrapping around the low. Severe hail will be the primary threat with the strongest storms developing in the vicinity of the occluded front, and backed surface winds could yield the potential for a tornado and have added low tornado probabilities in this area. ..Bunting/Mosier.. 03/13/2019"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2019,
+      "number": 196,
+      "issue_utc": "2019-03-13T20:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0196.html",
+      "summary": "Isolated, marginally severe thunderstorms are expected into the early evening from portions of north-central Kansas into south-central Nebraska. Locally strong winds and some hail are the primary threats.",
+      "discussion": "Strong boundary-layer heating has contributed to steep low-level lapse rates across western OK into extreme south-central NE, immediately ahead of an intense surface cyclone over southwest KS. Leading edge of large-scale forcing for ascent is spreading into this region with an arcing band of gradually deepening cumulus, with showers, now extending from Webster County NE-Saline County KS-Sumner County KS. Over the next few hours isolated thunderstorms should evolve within an strongly sheared environment characterized by surface-based cape on the order of 1000 J/kg. Given the strong shear, updrafts may struggle to organize due to the somewhat meager moisture/instability. Even so, robust updrafts should evolve with time and locally damaging winds and marginally severe hail should be the primary threats. At this time it appears the coverage/intensity of this activity will be insufficient to warrant a watch."
+    },
+    {
+      "year": 2019,
+      "number": 197,
+      "issue_utc": "2019-03-13T22:51Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0197.html",
+      "summary": "An evolving line of intensifying thunderstorms is possible near the Mississippi River through the 9-10 PM CDT time frame, in an environment conducive to the generation of potentially damaging wind gusts and perhaps a few tornadoes.",
+      "discussion": "A remnant, convectively reinforced surface front continues to advance very slowly eastward toward the Mississippi River, largely parallel to 50-60 kt deep layer ambient flow now present across much of the mid and lower Mississippi Valley. This front has generally cut-off the northward transport of richer boundary layer moisture, associated with a continuing return flow off the western Gulf of Mexico; but, mid 60s F surface dew points are still present in narrow corridor as far north as the Mississippi Delta region, with a narrowing plume of lower 60s extending northward toward the Missouri Bootheel. Model output, including the latest Rapid Refresh and HRRR, is suggestive that, as stronger mid-level height falls continue overspreading the region, cooling aloft will support further destabilization and potential for intensifying thunderstorm development along the boundary within the next hour or two. The evolution of a narrow squall line appears possible through 02-03Z. This may coincide with further strengthening of southerly low-level flow, including to in excess of 70 kt around 850 mb. Given the strong to extreme nature of the low-level wind fields and shear, the environment likely will be conducive to at least the risk for a few strong, damaging wind gusts. Due to the uncertain character of near surface thermodynamic profiles, tornadic potential is a little more unclear. However, low-level hodographs are supportive of potential for a strong tornado, particularly with any discrete storm development just ahead of, or within the line."
+    },
+    {
+      "year": 2019,
+      "number": 199,
+      "issue_utc": "2019-03-14T04:30Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0199.html",
+      "summary": "Thunderstorms may initiate near the Corsicana and Tyler vicinity by 1-3 AM, with a possible eastward and southeastward advancing squall line evolving thereafter. This probably will be accompanied by at least some risk for severe wind gusts, and perhaps some hail. The extent of this threat remains a bit uncertain, but it is possible that a severe weather watch may become necessary later tonight.",
+      "discussion": "Within strong, deep-layer cyclonic flow, an embedded short wave perturbation appears to be providing support for increasing large-scale ascent, now spreading northeast of the Edwards Plateau and Hill Country (based on latest water vapor imagery). At the same time, at least modest boundary-layer based destabilization appears to be ongoing in a corridor south/southeast of the Dallas-Fort Worth Metroplex, toward the Ark-La-Tex, where rapid surface dew point rises into the lower/mid 60s F have been evident this evening. This is occurring near the nose of a remnant elevated plume of warm air associated with deep daytime boundary-layer mixing, emanating from the Rio Grande Valley. Although the surface-based moistening appears somewhat shallow, it seems increasingly probable that it will be sufficient to support increasing thunderstorm development by the 06-08Z time frame. This may be initially aided by lift enhanced by low-level warm advection, in the vicinity of a strengthening low-level jet (in excess of 50 kt at 850 mb) across the Corsicana/Tyler vicinity. Thereafter, model output, including the convection allowing HRRR, suggests that low-level frontogenetic forcing may support the rapid evolution of a narrow squall line. Any initial warm advection driven storms may be accompanied by at least some risk for marginal severe hail, given the strong shear and thermodynamic profiles characterized by substantial convective instability and CAPE up to around 1000 J/kg. However, strong surface gusts, perhaps occasionally reaching severe limits, seems likely to become the primary potential hazard as the line of storms advances eastward and southeastward across northeastern Texas."
+    },
+    {
+      "year": 2019,
+      "number": 200,
+      "issue_utc": "2019-03-14T07:37Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0200.html",
+      "summary": "A few isolated damaging wind gusts are possible across far southern IN, western KY, and far northwest TN during the next hour or two.",
+      "discussion": "Predominately shallow convection ongoing across western KY and far northwest TN has shown some intensification over the past hour or so. Given that the overall thermodynamic environment has shown little improvement over the past few hours, this intensification is likely a result of stronger forcing for ascent and increased vertical shear associated with the approaching cyclone and strengthening mid-level flow. Regional radar imagery reveals a striated linear structure, with several elongated bands of higher reflectivity. Forecast soundings suggest this activity is elevated above a shallow stable layer and the general expectation is for this activity to have little notable impact at the surface. However, storm interactions may briefly result in strong enough downdrafts to penetrate the stable low-levels, resulting in isolated gusts at the surface. Coverage of any damaging wind gusts is expected to be very isolated. Duration is also expected to be limited, as the downstream, low-level air mass across central KY and south-central IN becomes increasingly more stable."
+    },
+    {
+      "year": 2019,
+      "number": 201,
+      "issue_utc": "2019-03-14T09:07Z",
+      "topic": "Severe Thunderstorm Watch 22",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0201.html",
+      "summary": "Threat for damaging wind gusts and hail will continue for the next several hours.",
+      "discussion": "Convective line continues to push steadily eastward/east-northeastward across east/southeast TX, far southwest AR, and far northwest LA. Northern portion of the line in the ArkLaTex is moving a bit faster than portions farther south in the Brazos Valley. This may bring that portion of the line to the edge of the watch within the next hour. As such, an areal extension may be needed across north-central LA. Thermodynamic environment ahead of the northern portion of the line (i.e. across far southwest AR, far northwest LA, and east-central TX) is currently characterized by temperatures in the low 70s and dewpoints in the mid to upper 60s. A similar thermodynamic environment exists farther south in southeast TX, only with slightly higher dewpoints. Some convective inhibition exists within this modestly moist air mass but forcing for ascent along the front will help overcome this inhibition, promoting the persistence of the line for the next several hours. Several strong updrafts exist within the line, one of which is located in Marion and Harrison counties in TX with another in Houston county TX. Hail is possible within these strong updrafts as well as with any new updraft development. Damaging wind gusts are also possible along the length of the line and near the strong updraft in particular. Strength of the low-level shear (near 40 kt from 0-1 km on the SHV VAD) may also promote the development of a brief QLCS tornado or two. ..Mosier.. 03/14/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 202,
+      "issue_utc": "2019-03-14T09:47Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0202.html",
+      "summary": "Convective trends are being monitored closely for potential Tornado Watch issuance across eastern AR, far southwest TN, and far northwest MS.",
+      "discussion": "Air mass recovery is underway across portions of eastern AR, far southwest TN, and far northwest MS. In this area, temperatures have increased by 3 to 5 deg F and dewpoints have increased by 2 to 4 deg F over the past two hours. This has resulted in an erosion of much of the convective inhibition downstream of the ongoing thunderstorms over central AR. Mesoanalysis estimates less than 25 J/kg of MLCIN exists with MLCAPE estimated to be around 1000 J/kg. In contrast to the only marginally favorable thermodynamics, the strong wind fields aloft coupled with strong (i.e. around 20 kt) southeasterly surface winds across the region are contributing to a strongly sheared environment. Recent NQA VAD profiles sampled over 50 kt of 0-1 km shear and 0-1 km SRH over 500 m2/s2. Given the marginal thermodynamics and unfavorable time of day, uncertainty regarding severe coverage is high. Even so, the strength of the shear merits concern and convective trends of the upstream storms will be monitored closely."
+    },
+    {
+      "year": 2019,
+      "number": 203,
+      "issue_utc": "2019-03-14T10:52Z",
+      "topic": "Severe Thunderstorm Watch 22",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0203.html",
+      "summary": "Threat for damaging wind gusts and hail will persist across northern/central LA and east-central/southeast TX for the next hour or so.",
+      "discussion": "Convective line continues to move east-southeastward at around 35-40 kt. Sporadic updraft intensification has been noted within the line over the past two hours with the strongest updraft currently located in San Augustine county TX. This trend is expected to continue as newly developed updrafts pulse up in before weakening as a result of dry air entrainment. Hail will be possible within these newly developed updrafts as well as a slightly higher wind damage potential than the rest of the line. Downstream air mass is moist but relatively warm temperatures around 850 mb support modest convective inhibition and a tempering of the overall instability. Even so, organized character to the convective line suggests it will continue gradually east-southward for the next hour or so. Downstream watch issuance is not currently anticipated for those portions of southeast TX and central/southwest LA not in Severe Thunderstorm Watch 22. Isolated hail and/or damaging winds gusts are possible in these areas but coverage is not expected to merit watch issuance. An extension in time may be warranted across northern LA to cover any severe threat persisting past 12Z. ..Mosier.. 03/14/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

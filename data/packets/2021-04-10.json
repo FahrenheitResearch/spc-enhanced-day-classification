@@ -1,0 +1,95 @@
+{
+  "convective_day": "2021-04-10",
+  "valid_start": "2021-04-10T12:00Z",
+  "valid_end": "2021-04-11T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-04-10",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-04-10T12:00Z",
+      "valid_end": "2021-04-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210410_1200.html",
+      "summary": "Scattered severe thunderstorms are expected from southeast Louisiana eastward to the Florida Panhandle, and northward into Alabama and western Georgia Saturday. Damaging wind appears to be the main threat, but a few tornadoes are also possible.",
+      "sections": [
+        {
+          "title": "Eastern Gulf States/Southeast",
+          "text": "Low-latitude short-wave trough is currently located over east TX. This feature will translate across the central Gulf States by 18z, then eject into the western Carolinas by 11/00z. This feature appears to be partly responsible for upscale convective growth across the lower MS Valley early this morning. Latest thinking (supported by the HREF) is a large complex of storms should propagate southeast across LA/MS/AL by sunrise. This activity should be aided by a maturing squall line, along a surging cold front, that will likely progress into southern LA by the start of the period. Much of the central Gulf States will have considerable convective overturning during the next 8 hours and the most buoyant, unobstructed air mass will be maintained across southeastern LA into the western FL Panhandle and southern AL. It appears a well-organized MCS will propagate off the central Gulf Coast early in the period as the aforementioned progressive short wave ejects rapidly east toward the southern Appalachians by mid day. Given the expected overturning, have lowered severe probabilities across northern AL but will maintain an Enhanced Risk for primarily damaging winds along the leading edge of t"
+        },
+        {
+          "title": "Elsewhere",
+          "text": "Strong mid-level height falls will spread across the mid MS Valley into the lower OH Valley during the day ahead of a strong short-wave trough. Notable surface low will respond to this feature and deepen over northern IL by 18z. Will maintain low severe probabilities for a few strong thunderstorms ahead of this feature; however, weak buoyancy will be the primary inhibiting factor in an otherwise synoptically favorable region for severe. ..Darrow/Squitieri.. 04/10/2021"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 359,
+      "issue_utc": "2021-04-10T12:10Z",
+      "topic": "Tornado Watch 89",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0359.html",
+      "summary": "A severe threat may continue for a few more hours across the eastern Gulf Coast. A tornado threat, along with the possibility of wind damage and hail may occur with the stronger thunderstorms. A small watch or local extension may be needed to the east of WW 89.",
+      "discussion": "The latest radar imagery shows a linear MCS from southern Alabama extending west-southwestward into southern Louisiana. A corridor of maximized low-level moisture is located just ahead of the line across the western Florida Panhandle. Surface dewpoints are in the upper 60s F with MLCAPE estimated by the RAP near 1500 J/kg. This combined with 0-6 km shear near 50 kt, evident on regional WSR-88D VWPs should support severe thunderstorms for a few more hours this morning. Wind damage will be possible along the leading edge of the faster-moving bowing line segments. A tornado will also be possible with cells that rotate within the ongoing quasi-linear convective system. However, instability weakens with eastward extent. The line of strong storms will eventually move into much weaker instability. For this reason, any severe threat may become more isolated with time. A local extension or small watch would be sufficient for any lingering severe threat. ..Broyles.. 04/10/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 360,
+      "issue_utc": "2021-04-10T13:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0360.html",
+      "summary": "Severe risk continues across the portions of WW 89 that remain in effect, with some risk evident eastward across the remainder of the Florida Panhandle. A new WW will likely be issued.",
+      "discussion": "Latest radar loop shows the northeastern portion of a northern Gulf of Mexico band of storms now crossing central portions of the Florida Peninsula west of Tallahassee. Gusty/damaging wind risk remains apparent -- per WSR-88D imagery, where outflow in excess of 50 kt is indicated just off the surface across parts of Washington and Bay counties. Very limited heating of the relatively moist airmass just downstream is supporting mixed-layer CAPE values of 500 to 1000 J/kg. While a more stable/drier airmass exists into the northern Florida Peninsula, it appears at this time that a sufficiently unstable environment downstream into the Big Bend region will support a continued eastward advance of storms. Locally damaging winds will remain the primary severe risk, though a QLCS-type tornado or two will remain possible. With storms expected to move out of the existing watch within the next hour, a new WW will be issued shortly."
+    },
+    {
+      "year": 2021,
+      "number": 361,
+      "issue_utc": "2021-04-10T15:49Z",
+      "topic": "Tornado Watch 90",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0361.html",
+      "summary": "Local severe risk -- mainly in the form of damaging wind gusts -- continues within WW 90.",
+      "discussion": "Latest radar loop shows a gradual decrease in overall intensity along the entire convective band. However, some organization persists within the onshore portion of the line from Grady County GA southward to Wakulla County FL. With a small corridor of 500 to 1000 J/kg mixed-layer CAPE persisting just ahead of the storms over eastern portions of the Panhandle, limited severe risk remains apparent over the next 1 to 2 hours. ..Goss.. 04/10/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 362,
+      "issue_utc": "2021-04-10T19:13Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0362.html",
+      "summary": "A couple of stronger storms withing an evolving convective band may produce locally gusty winds or a brief tornado. WW issuance is not expected at this time.",
+      "discussion": "Latest radar loop shows an uptick in the intensity of the ongoing convective band moving across northern Florida/southern Georgia. This has occurred as diurnal heating of the modestly moist boundary layer has pushed mixed-layer CAPE values up into the 500 to 1000 J/kg range ahead of the band, and west of the now inland sea-breeze boundary. With storms moving east-northeastward at roughly 35 kt, and a mixed sub-cloud layer, gusty winds can be expected within the band of storms. A stronger gust or two -- possibly approaching severe levels, cannot be ruled out; nor can a brief QLCS-type spin-up, as storms reach peak intensity over the next 1-2 hours. Interaction of this band of storms with the sea-breeze front may support a further/brief uptick in convective intensity, before storms begin moving offshore later this afternoon."
+    },
+    {
+      "year": 2021,
+      "number": 363,
+      "issue_utc": "2021-04-10T21:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0363.html",
+      "summary": "An uptick in storm coverage and intensity is possible over the next few hours, but the risk appears too low for watch consideration.",
+      "discussion": "An embedded lead wave is currently moving across northern GA and into the western Carolinas, with a concentration of shallow convection along the GA/SC border. Surface analysis shows temperatures in the 70s F ahead of this feature, with low 60s F dewpoints resulting in around 500 J/kg SBCAPE. Little lightning has been noted as of late, due to relatively warm midlevel temperatures and thus shallow nature of the convection. Effective SRH near 200 m2/s2 exists over the western Carolinas, along with 50 kt effective bulk shear. This may support weakly rotating storms over the next few hours, before the boundary layer stabilizes. ..Jewell.. 04/10/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 364,
+      "issue_utc": "2021-04-11T03:45Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0364.html",
+      "summary": "Shallow convection may increase in coverage as it moves across eastern North Carolina. Isolated strong gusts and/or brief regions of low-level rotation cannot be ruled out.",
+      "discussion": "A broken line of showers, perhaps soon to be thunderstorms, is currently developing into southern NC, near a surface trough. Dewpoints have been rising into the 63-65 F range, contributing to up to 500 J/kg MLCAPE. Minor cooling aloft is expected over the next few hours, and some of this convection could eventually produce lightning. If this area of convection continues to deepen, it may eventually incorporate the 200 m2/s2 0-1 km SRH, which may enhance wind gust potential and/or low-level rotation."
+    },
+    {
+      "year": 2021,
+      "number": 365,
+      "issue_utc": "2021-04-11T09:27Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0365.html",
+      "summary": "Isolated large hail will be possible across the northern Florida Peninsula over the next few hours. Weather watch issuance will need to be considered as cells gradually increase in coverage.",
+      "discussion": "Latest surface analysis shows 1009 mb low over the eastern Florida Peninsula. A moist airmass is located across much of the Florida Peninsula where surface dewpoints range from the mid 70s F in south Florida to the upper 50s F in north-central Florida. Thunderstorms have been developing in the northeast Gulf of Mexico in response to warm advection. Additional elevated storms are ongoing across the northern Florida Peninsula. The RAP shows effective shear in the 35 to 45 kt range over land but near 50 kt over the water where the CAPE is closer to surface-based. The RAP is also showing mid-level lapse rate near 7.5 C/km across north-central Florida. This environment should support isolated large hail with the stronger rotating storms. The hail threat may gradually increase as storm coverage expands over the next few hours."
+    }
+  ]
+}

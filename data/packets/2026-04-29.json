@@ -1,0 +1,144 @@
+{
+  "convective_day": "2026-04-29",
+  "valid_start": "2026-04-29T12:00Z",
+  "valid_end": "2026-04-30T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2026-04-29",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2026-04-29T20:00Z",
+      "valid_end": "2026-04-30T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2026/day1otlk_20260429_2000.html",
+      "summary": "Severe thunderstorms are forecast from parts of Texas to the Gulf Coast states today. Scattered large to very large hail and damaging winds are the primary risks, with giant hail possible in parts of south-central Texas.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "The primary change with this update was the addition of an Enhanced Risk for portions of the Edwards Plateau into south-central TX -- driven by a CIG2 (intensity level 2/2) hail area. The latest visible satellite imagery indicates an agitated boundary-layer cumulus field evolving east of Fort Stockton in Crockett County, where attempts at isolated convective initiation are underway. Current thinking is that continued diurnal heating of a moist air mass (lower 70s dewpoints) and upslope flow enhancements will result in isolated to widely scattered thunderstorms this afternoon into the evening. Current thinking is that storms will track/develop southeastward into a corridor of strong to extreme buoyancy -- driven by steep midlevel lapse rates (around 8.5 C/km per 12Z DRT sounding) atop the destabilizing PBL. This, combined with a long/straight hodograph (60-70 kt of effective shear) and modest forcing for ascent will favor intense discrete/splitting supercells. Given the modest forcing for ascent, it is unclear how many storms will form in this corridor, though any sustained supercells will pose a risk of very large to giant hail (3-4+ inches in diameter). ..Weinman.. 04/29/2026 .PRE"
+        },
+        {
+          "title": "Texas into the Lower Mississippi Valley/Southeast",
+          "text": "Satellite imagery late this morning indicates high momentum quasi-zonal flow from TX eastward across the central Gulf Coast. An upstream perturbation over Chihuahua is forecast to move quickly east today reaching central TX late this afternoon. Isolated to scattered thunderstorms are forecast to increase in coverage/intensity mainly along/near a surface front draped from west-central TX to southern AR. A moisture-rich airmass featuring lower 70s deg F surface dewpoints south of the front, coupled with a plume of 8 deg C/km 700-500 mb lapse rates and some diurnal heating, will contribute to 2000-4000 J/kg of MLCAPE decreasing with east extent. A few initial thunderstorms clusters north of the surface front over TX are expected to gradually intensify through early afternoon. The moderate to very unstable airmass will combine with elongated/nearly straight hodographs to support supercell development with the stronger updrafts and an associated risk for large to very large hail (1 to 3 inches in diameter). Have extended the 15-percent hail and CIG1 hail delineation farther east into northeast TX and western LA. For short-term forecast details, please refer to MCD #615. Eventually upsca"
+        },
+        {
+          "title": "Upper OH Valley into the Mid-Atlantic/North Carolina",
+          "text": "Within large-scale upper troughing over the Great Lakes/Midwest, an embedded mid-level shortwave trough will move northeastward across the Mid-Atlantic this afternoon/evening in tandem with an eastward-moving surface cold front. Only modest boundary layer moisture is present across the region, with surface dewpoints generally in the 50s. Forecast soundings over western PA show some low-level hodograph curvature within a moist environment. Main uncertainty across the upper OH Valley is the magnitude of destabilization in this area given ongoing scattered showers and widespread cloud cover. Nonetheless, a couple of stronger storms could yield an isolated risk for wind damage and perhaps a brief tornado later this afternoon, especially near/southeast of a weak surface low. Farther south, isolated wind/hail will be possible with the stronger thunderstorms through the late afternoon/early evening."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2026,
+      "number": 615,
+      "issue_utc": "2026-04-29T15:21Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0615.html",
+      "summary": "Severe-weather potential is expected to increase across the discussion area this morning with the primary hazards being large to very large hail and damaging wind gusts. Convective trends are being monitored for a possible watch.",
+      "discussion": "A small cluster of elevated thunderstorms has persisted this morning in far northeast TX, west of Texarkana, with recent intensification noted in a couple of the cells. While forcing for ascent remains nebulous, the 12z FWD sounding sampled a weakly capped and strongly unstable environment (MUCAPE of 3000-3500 J/kg) for parcels lifted from around 850 mb. Moreover, the kinematic environment from that sounding featured an effective bulk shear magnitude of 60+ kt, more than supportive of supercell storm modes, especially given the strong buoyancy. A number of CAMs suggest the continued intensification of the ongoing storms into supercells by late morning or early afternoon with subsequent upscale growth into a surface-based line of storms as the activity crosses the surface cold front and roots in the very moist and unstable air mass south of the boundary. In that scenario, large to very large hail (2-3\" in diameter) will be the primary hazard initially, with damaging wind gusts becoming more likely as storms become surface based, and a more organized cold pool can develop. Convective trends are being monitored for further storm intensification, which would necessitate a watch issuance. ..Mead.. 04/29/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 616,
+      "issue_utc": "2026-04-29T17:00Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0616.html",
+      "summary": "At least isolated severe storms appear probable across the discussion area this afternoon. Damaging winds and large hail are the primary hazards. Convective trends are being monitored for a possible Severe Thunderstorm Watch.",
+      "discussion": "Mosaic radar data as of 1700z indicate showers gradually increasing in areal coverage from northeast LA into west-central MS, along and ahead of a slow-moving cold front. Breaks in the clouds have allowed for stronger daytime heating to occur within the pre-frontal warm sector as of late morning. When coupled with dewpoints in the low 70s, the air mass is already moderately unstable with estimated MLCAPE of 2000-2500 J/kg, per objective analysis. Current thinking is that the ongoing showers will deepen into thunderstorms within the next hour as growing cold pools and frontal lift allow parcels to fully realize the available instability. While the low-level wind field is expected to remain relatively weak (ref. current KDGX VWP), the presence of strong, westerly mid/upper-level winds is yielding sufficient deep-layer shear for organized storm modes. Modest mid-level lapse rates should temper overall hail sizes; however, hail stones up to 1.00-1.75\" in diameter will be possible with any supercell structures. Damaging wind gusts will also be a concern, driven largely by precipitation-loaded downdrafts. The main uncertainty at present is areal coverage of the severe-weather threat. Convective trends are being monitored for a possible Severe Thunderstorm Watch. ..Mead.. 04/29/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 617,
+      "issue_utc": "2026-04-29T17:48Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0617.html",
+      "summary": "An increase in thunderstorm coverage is expected over the next couple of hours across the Upper Ohio River Valley, with stronger thunderstorms posing an isolated risk for strong wind gusts and a brief tornado or two.",
+      "discussion": "Latest surface analysis depicts a weak surface low along the Pennsylvania/Ohio border, with a trailing cold front extending southwestward into the mid-Ohio Valley. In the wake of morning precipitation, filtered diurnal heating ahead of this front coupled with dewpoints in the upper-50s F to near 60 are supporting weak buoyancy (around 500 J/kg MLCAPE per latest mesoanalysis). While the magnitude of additional destabilization remains uncertain, upper-level ascent ahead of an approaching shortwave trough coupled with favorable jet streak dynamics are expected to promote an increase in thunderstorm coverage along/ahead of the approaching cold front this afternoon. Effective bulk shear of 35-40 kts (per latest mesoanalysis) will be sufficient to support more organized convection, with potential for the development of a linear segment and/or low-topped supercells. Low-level hodograph curvature evident in the PBZ/RLX/CCX VAD profiles and 17z special sounding will likely support the potential for isolated strong wind gusts and a brief tornado or two with any stronger convection that can develop. Trends will continue to be monitored, and a small convective watch may be issued for a portion of the area."
+    },
+    {
+      "year": 2026,
+      "number": 618,
+      "issue_utc": "2026-04-29T17:54Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0618.html",
+      "summary": "The threat for severe storms capable of large to very large hail and severe wind gusts is expected to increase across the discussion area this afternoon. Convective trends are being monitored for a possible Severe Thunderstorm Watch.",
+      "discussion": "A couple of thunderstorms have recently intensified over Kimble and Edwards Counties, along and in the immediate wake of a cold front moving south through the area. A small pocket of clearing has developed to the immediate east of that convection, which should allow for locally strong diabatic heating to occur. The 12z DRT sounding sampled a formidable cap at the base of EML; however, latest objective analysis suggests that cap is eroding in the vicinity of the ongoing storms. If the current activity can become rooted in the boundary layer, the colocation of a moderate to strongly unstable air mass (MLCAPE of 2500-3000 J/kg) with effective bulk shear magnitudes of 50-55 knots would support evolution into longer-lived supercell structures. The predominant hazard would be large to very large hail (2.5-3.5\" in diameter), with more sporadic occurrences of severe wind gusts. While a tornado or two is possible, the overall potential will be limited by relatively weak low-level shear and undercutting nature of the cold front. Convective trends are being monitored for a possible Severe Thunderstorm Watch."
+    },
+    {
+      "year": 2026,
+      "number": 619,
+      "issue_utc": "2026-04-29T18:37Z",
+      "topic": "Severe Thunderstorm Watch 180",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0619.html",
+      "summary": "Large hail remains the predominant severe-weather threat in the near term. The hail threat is developing to the west of the current watch across portions of north Texas, and a local extension in area may be need.",
+      "discussion": "As of 1925z, mosaic radar data showed a broad zone of elevated thunderstorms extending from the Brownwood, TX vicinity into the ArkLaTex region. The most intense storms were located over Cass and Marion Counties in northeast TX, and Claiborne Parish in northwest LA with recent reports of 1.0-1.5\" diameter hail with those storms. Modest low-level warm advection atop a stable, near-surface layer (per KFWD VWP) will continue to sustain the ongoing storms within a moderately unstable and strongly sheared environment. As such, the setup will remain favorable for embedded supercell structures capable of large hail up to 2.5\" in diameter. The large-hail threat may materialize to the west of the current watch area, and a local extension may be required. Given the relatively closer proximity of the northwest LA storms to the surface front, the threat for severe wind gusts may increase as that activity continues southeast toward the boundary. ..Mead.. 04/29/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 620,
+      "issue_utc": "2026-04-29T18:45Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0620.html",
+      "summary": "Isolated to widely scattered thunderstorm development is expected this afternoon along/ahead of an approach cold front. A couple of stronger storms may pose an isolated risk for marginally severe hail, strong wind gusts, and a brief tornado. Watch issuance is not anticipated at this time.",
+      "discussion": "Latest regional radar imagery has shown transient strengthening of ongoing convective cores in the vicinity of Charleston, West Virginia, over the past 30-60 minutes. Latest high-res guidance continues to suggest additional development is likely across the northern Cumberland and central/southern Blue Ridge Mountains through the afternoon ahead of an approaching cold front. Continued diurnal heating amid scattered cloud cover and dewpoints in the upper-50s to lower-60s F are expected to promote marginally greater buoyancy compared to areas farther north, with latest forecast soundings indicating the presence of 500-1000 J/kg MLCAPE by later this afternoon. Elongated hodographs and 35-45+ kts of effective bulk shear amid strong flow aloft will support the potential for marginally severe hail with any stronger convective cores. Isolated strong wind gusts will also be possible given the presence of drier mid-level air, and a brief tornado cannot be ruled out given modest low-level hodograph curvature evident in regional VWPs. Watch issuance is not anticipated at this time given the overall expectation for limited threat coverage and magnitude."
+    },
+    {
+      "year": 2026,
+      "number": 621,
+      "issue_utc": "2026-04-29T20:02Z",
+      "topic": "Severe Thunderstorm Watch 181",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0621.html",
+      "summary": "The potential for more widespread wind damage is expected to increase across portions of central and southern Mississippi into southwest Alabama over the next 2-3 hours.",
+      "discussion": "A west-to-east-oriented band of strong to severe storms is ongoing just south of the I-20 corridor in MS and northeast LA as of 20z. Occurrences of hail to 1\" and thunderstorm wind damage have been reported in the Jackson, MS vicinity within the past hour. Additional elevated storms ongoing to the west of the watch area across northern LA are expected to merge with the predominant band of storms over the next hour, which should enhance overall cold pool strength. That process may lead to an accelerated southeastward motion of the convective band from central into southern MS and southwest AL with an attendant risk for more widespread damaging winds. Isolated occurrences of large hail will remain possible, especially on the western flank of the convective system where mid-level lapse rates are steeper. ..Mead.. 04/29/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 622,
+      "issue_utc": "2026-04-29T22:20Z",
+      "topic": "Severe Thunderstorm Watch 180",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0622.html",
+      "summary": "Some risk of severe hail, and perhaps damaging winds, persists across portions of WW 180 in central Louisiana. Additionally, conditions are being monitored along and south of an outflow boundary for additional development within a buoyant air mass.",
+      "discussion": "Organized convection with a history of producing severe hail continues to traverse far eastern TX and western LA. Although this activity will likely remain elevated behind a surface front/outflow boundary, the downstream environment continues to feature sufficient MUCAPE (around 1500 J/kg) and deep-layer wind shear for organized convection, including the potential for elevated supercells. Consequently, the primary hazard will most likely be large hail (most likely in the 1 to 1.75 inch range, though hail stones up to 2 inches appear possible given favorably weak low-level shear and strong flow aloft). Sporadic damaging winds also appear possible given the relatively warm (albeit still stable) surface conditions. Further south, trends are being monitored as new convection attempts to develop along and ahead of the front/outflow boundary. Convection developing towards the south will mature in a similarly favorable environment and will pose a severe hail threat. New convection may develop to the south of the current bounds of WW 180 depending on the southward propagation of the outflow. If this occurs, downstream watch issuance may be needed. ..Moore.. 04/29/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 623,
+      "issue_utc": "2026-04-29T22:43Z",
+      "topic": "Severe Thunderstorm Watch 181",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0623.html",
+      "summary": "Damaging winds remain possible as an MCS slowly pushes south across far southeast Louisiana and southern Mississippi and Alabama. Trends are being monitored for the need for a downstream watch issuance across parts of the Florida Panhandle.",
+      "discussion": "A squall line continues to push south/southeast with a few wind damage reports noted over the past 1-2 hours. More recently, observed winds have largely been near 35-40 mph and MRMS echo tops shows a slight weakening trend over the past half hour. Additionally, anvil shading downstream of the MCS is cooling surface temperatures, resulting in a gradual decrease in surface-based and mixed-layer CAPE in recent mesoanalyses. Despite this weakening trend, a narrow plume of 1000-1500 J/kg remains in place immediately downstream of the MCS, so some re-intensification appears plausible over the next hour or so before the MCS reaches the coast. Consequently, the potential for damaging winds (most likely between 40-60 mph) will likely persist for the short-term. Further east, the primary bowing segment of the MCS is beginning to approach the Mobile, AL area. Based on recent storm tracks, is appears possible that this section of the line moves into the far western FL Panhandle within the next 1-2 hours. This may require a watch extension or targeted watch issuance if re-intensification of the MCS occurs. ..Moore.. 04/29/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 624,
+      "issue_utc": "2026-04-29T22:50Z",
+      "topic": "Severe Thunderstorm Watch 182",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0624.html",
+      "summary": "The severe risk (primarily for large hail) continues across WW182 this evening.",
+      "discussion": "A cluster of storms remains ongoing along the modified outflow/cold front in northern portions of WW182. So far, these storms have remained on the cool side of the slowly sagging boundary with little intensification noted. Still, some storm-scale rotation and presence of large MUCAPE (3000-4000 J/kg) amid favorable deep-layer shear for supercells will support severe potential, mainly in the form of large to very large hail. An uptick in severe potential could occur if these storms are able to move onto the warm side of the boundary. This would also support some risk for an isolated tornado and damaging gusts, but this remains uncertain. Additional development has been noted farther northwest along the boundary into Terrell and Crockett Counties. CAM guidance and observational trends suggest a similar severe risk is possible with these storms as they mature this evening. Given the extremely unstable and strongly sheared environment, the severe risk continues across WW182. ..Lyons.. 04/29/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 625,
+      "issue_utc": "2026-04-29T23:26Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0625.html",
+      "summary": "A few strong to severe thunderstorms appear plausible across far eastern Mississippi into central Alabama as a front pushes south. Confidence in the coverage of thunderstorms is uncertain, and watch issuance is not expected at this time.",
+      "discussion": "Shallow convection has been percolating across central to northeast AL over the past hour, likely being driven by low-level ascent along a southward moving cold front. This front is migrating towards a fairly unstable air mass across central AL where temperatures remain in the upper 70s, MLCAPE has recently been analyzed near 2000 J/kg, and mid/upper-level flow is between 50-60 knots (per regional VWPs). Given these trends, development along the front appears plausible in the coming hours and may pose some threat for severe hail and wind. Latest high-res guidance suggests the favorable convective environment across central AL will likely linger through 02 UTC, though the overall updraft/UH signal in these solutions appears modest (including output from the typically bullish RRFS), possibly due to somewhat weak low-level convergence along the front. Consequently, confidence in the severe threat is limited and watch issuance is not anticipated, but trends will be monitored."
+    },
+    {
+      "year": 2026,
+      "number": 626,
+      "issue_utc": "2026-04-30T01:39Z",
+      "topic": "Severe Thunderstorm Watch 182",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0626.html",
+      "summary": "Isolate to widely scattered elevated supercells will continue to pose a risk for severe hail this evening.",
+      "discussion": "As of 0135 UTC, regional radar analysis showed several new storms had developed across WW182 in the last two hours. Organization has been noted with several of these storms displaying fairly strong mid-level rotation. These storms are likely elevated, north of the sagging front/outflow. Still, a broad reservoir of elevated buoyancy remains in place across southwest TX with 3000-5000 J/kg of MUCAPE and steep mid-level lapse rates (DRT/MAF RAOBs). Effective shear is also robust with 50-60 kt of deep-layer zonal flow overspreading the region. This should continue to support supercells with significant hail potential (2-3\") along the Rio Grande Valley and Southwest TX this evening. ..Lyons.. 04/30/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "convective_day": "2024-08-28",
+  "valid_start": "2024-08-28T12:00Z",
+  "valid_end": "2024-08-29T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2024-08-28",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-08-28T16:30Z",
+      "valid_end": "2024-08-29T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240828_1630.html",
+      "summary": "Severe thunderstorms are expected across parts of the Dakotas and from the Ohio Valley to the Mid-Atlantic Coast.",
+      "sections": [
+        {
+          "title": "Dakotas",
+          "text": "Have upgraded portions of south-central North Dakota/north-central South Dakota to a categorical Enhanced Risk for what should be a relatively greater likelihood and concentration of severe storms late this afternoon through early/mid-evening. A prominent upper-level trough centered over western Montana and southern Alberta will continue generally eastward over the Canadian Prairies and toward the northern High Plains, with a trough-preceding/basal upper-level jet resulting in considerably strengthening southwesterly winds aloft by peak heating into tonight. This will be atop an increasingly moist boundary layer (dewpoints increasing through the 60s F) ahead of a surface low across South Dakota and a front extending northward into North Dakota. Thunderstorms should develop near the front by late afternoon/early evening, perhaps initially across North Dakota where overall forcing will be greater, and subsequently southward into South Dakota where richer low-level moisture and greater buoyancy will reside. Given steep lapse rates and the reservoir of instability, these initial storms should be supercells capable of very large hail amidst strengthening flow aloft. Large to very large "
+        },
+        {
+          "title": "Midwest/Ohio Valley to Mid-Atlantic States",
+          "text": "Widely scattered to scattered thunderstorms will pose a risk for damaging winds particularly mid/late afternoon through early/mid-evening regionally. Some hail may also occur on a more marginal and isolated basis. This severe risk will primarily span parts of Indiana/Ohio eastward to the coastal Mid-Atlantic/Delmarva vicinity, although the overall extent and magnitude of today's risk is still a bit uncertain. The boundary layer will not be overly moist by late-summer standards, particularly across the middle Ohio River Valley, but a relatively richer moist axis (through the lowest 2-3 km AGL) extends this morning from the upper Ohio Valley eastward toward the coastal Mid-Atlantic/Northeast. The boundary layer will also not be overly unstable later today, with severe-adequate MLCAPE generally limited to 2000 J/kg MLCAPE. Aside from differential heating related to last night's convection across the Midwest, several impetuses for thunderstorm development to the south of the primary Great Lakes front may include the eastward transitions of MCVs across southeast Lower Michigan and north-central Illinois, which should be influential into the Lake Ontario/New York/northern Pennsylvania an"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-08-28",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-08-28T20:00Z",
+      "valid_end": "2024-08-29T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240828_2000.html",
+      "summary": "Severe thunderstorms are expected across parts of the Dakotas and from the Ohio Valley to the Mid-Atlantic Coast this afternoon through this evening.",
+      "sections": [
+        {
+          "title": "20z Update",
+          "text": "No substantial changes have been made to the prior outlook. Storm coverage should gradually increase over parts of the OH Valley and Mid Atlantic through this afternoon. Damaging gusts will be possible with the stronger clusters of storms, potentially focused from eastern OH into WV and PA. To the west, supercell development is expected near the surface low and along the trialing surface trough/wind shift across western SD/ND late this afternoon. Moderate mid-level ascent overspreading a warming and moistening air mass across the Dakotas will allow for rapid storm development and intensification as CINH is removed. Large hail remains the primary threat, along with damaging gusts, given strong buoyancy and robust supercell wind profiles. However, strong low-level turning may support a risk for a couple of tornadoes with the more discrete supercells, especially near the warm front. Most short-term guidance does show gradual upscale growth this evening and into the early overnight period across the eastern Dakotas. Should this occur, the risk for damaging winds may increase with the greater organized/persistent clusters before they move into more stable air across parts of western MN."
+        },
+        {
+          "title": "Dakotas",
+          "text": "Have upgraded portions of south-central North Dakota/north-central South Dakota to a categorical Enhanced Risk for what should be a relatively greater likelihood and concentration of severe storms late this afternoon through early/mid-evening. A prominent upper-level trough centered over western Montana and southern Alberta will continue generally eastward over the Canadian Prairies and toward the northern High Plains, with a trough-preceding/basal upper-level jet resulting in considerably strengthening southwesterly winds aloft by peak heating into tonight. This will be atop an increasingly moist boundary layer (dewpoints increasing through the 60s F) ahead of a surface low across South Dakota and a front extending northward into North Dakota. Thunderstorms should develop near the front by late afternoon/early evening, perhaps initially across North Dakota where overall forcing will be greater, and subsequently southward into South Dakota where richer low-level moisture and greater buoyancy will reside. Given steep lapse rates and the reservoir of instability, these initial storms should be supercells capable of very large hail amidst strengthening flow aloft. Large to very large "
+        },
+        {
+          "title": "Midwest/Ohio Valley to Mid-Atlantic States",
+          "text": "Widely scattered to scattered thunderstorms will pose a risk for damaging winds particularly mid/late afternoon through early/mid-evening regionally. Some hail may also occur on a more marginal and isolated basis. This severe risk will primarily span parts of Indiana/Ohio eastward to the coastal Mid-Atlantic/Delmarva vicinity, although the overall extent and magnitude of today's risk is still a bit uncertain. The boundary layer will not be overly moist by late-summer standards, particularly across the middle Ohio River Valley, but a relatively richer moist axis (through the lowest 2-3 km AGL) extends this morning from the upper Ohio Valley eastward toward the coastal Mid-Atlantic/Northeast. The boundary layer will also not be overly unstable later today, with severe-adequate MLCAPE generally limited to 2000 J/kg MLCAPE. Aside from differential heating related to last night's convection across the Midwest, several impetuses for thunderstorm development to the south of the primary Great Lakes front may include the eastward transitions of MCVs across southeast Lower Michigan and north-central Illinois, which should be influential into the Lake Ontario/New York/northern Pennsylvania an"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-08-29",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-08-29T01:00Z",
+      "valid_end": "2024-08-29T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240829_0100.html",
+      "summary": "Severe thunderstorm threat continues across parts of the Dakotas this evening.",
+      "sections": [
+        {
+          "title": "01z Update",
+          "text": "Strong mid-level short-wave trough is well evident in satellite imagery, extending from the AB/SK border, south into eastern ID. This feature will shift into eastern MT/WY by the end of the period as a 70kt+ 500mb speed max translates across western ND into southwest MB. Scattered supercells have developed ahead of this short wave from near Minot ND to just north of Mobridge SD. Latest model guidance suggests a weak surface low, or at least a wave, will track northeast along the surface front into southeast ND by 29/12z. Over the next few hours, LLJ will increase across the eastern Dakotas and this should encourage eastward propagation of convection within a concentrated zone of low-level warm advection. Latest diagnostic data suggests ongoing storms are rooted within the main corridor of instability, and peak updraft intensity may linger through 03-04z before a more hostile environment is encountered downstream. Very large hail may be noted for the next hour or two, along with some risk for a tornado, then hail/wind threat will linger into the late-evening hours. ..Darrow.. 08/29/2024"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2024,
+      "number": 2024,
+      "issue_utc": "2024-08-28T20:51Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2024.html",
+      "summary": "Scattered severe storms are likely to develop over the next couple hours, with very large hail, damaging gusts, and a tornado or two expected.",
+      "discussion": "Surface analysis shows a low over west-central SD, with a pre-frontal trough extending northward into western ND. A cold front continues to surge eastward across the western Dakotas, enhancing low-level convergence. Meanwhile, a warm front currently extends from near Bismarck into northeast SD, with upper 60s to near 70 F dewpoints nearby. The combination of daytime heating and the moist air mass had led to a pocket of strong destabilization with several thousand MUCAPE despite mediocre midlevel lapse rates. Visible imagery show rapidly develop cumulus fields in the warmer air near the surface low, and farther north into central ND where convergence is maximized along the boundaries. Given the continued heating and convergence, storms are expected to form within the next couple hours. Veering winds with height along with the approaching upper trough will favor slow-moving supercells at first, producing very large hail and perhaps a tornado or two. With time, a linear storm mode is likely with damaging winds."
+    },
+    {
+      "year": 2024,
+      "number": 2025,
+      "issue_utc": "2024-08-28T23:52Z",
+      "topic": "Tornado Watch 661",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2025.html",
+      "summary": "Supercell development likely will persist near the Dakotas state border vicinity between Jamestown ND and Mobridge SD through 8-9 PM CDT. These storms will pose a continuing risk for large hail in excess of 2 inches in diameter, with at least some further increase in tornadic potential possible.",
+      "discussion": "Intense thunderstorm initiation has been focused along surface troughing across the central Dakotas, most notably near and just north of the state border vicinity. This is near the nose of stronger surface heating characterized by temperatures approaching 90 F, in the presence of lower/mid 70s F dew points. Coupled with forcing for ascent, this has been sufficient to overcome mid-level inhibition associated with warm and capping elevated mixed-layer air. At least some attempt at upscale growth is underway north of the sustained supercell development to the southwest of Fort Yates, across and north of the Bismarck vicinity. However, the mid-level cold core of the slow moving upstream low, progressing eastward along the central Montana international border area, will remain displaced well to the west of the weak southeastward advancing cold front. Strongest low-level forcing, in the form of lower/mid-tropospheric warm advection, appears likely to remain focused near the North and South Dakota state border area, between Jamestown ND and Mobridge SD, aided by an intensifying southerly low-level jet (to 50+ kt around 850 mb) through 01-02Z. This probably will maintain evolving supercell structures, perhaps within a small upscale growing cluster. Aided by southeasterly inflow of air characterized by CAPE in excess of 3000-4000 J/kg, in the presence of moderate southwesterly deep-layer shear, activity will continue to pose a risk for large hail. As clockwise-curved low-level hodographs slowly enlarge, the potential for tornadoes may still increase a bit further early this evening. ..Kerr.. 08/28/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2026,
+      "issue_utc": "2024-08-29T02:41Z",
+      "topic": "Tornado Watch 661",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2026.html",
+      "summary": "Thunderstorm development, in general, is beginning to weaken, with the risk for tornadoes likely to become increasingly negligible through 10-11 PM CDT. Some risk for severe hail and, perhaps, localized strong wind gusts may persist into the overnight hours across parts of the central and eastern Dakotas. However, a new severe weather watch is not currently anticipated.",
+      "discussion": "Ongoing convection appears to be undergoing notable weakening trends, including the the isolated supercell just south of the state border vicinity, across eastern Campbell county South Dakota. This has occurred as the loss of daytime heating has resulted in increasing inhibition for the seasonably moist boundary parcels near the surface trough across the central Dakotas. However, forcing associated with strong low-level warm advection may maintain at least a severe hail threat with the Campbell county storm as it accelerates north-northeastward, and becomes increasingly rooted above the boundary layer during the next hour or two. Strongest potential instability remains focused near a weak surface low, centered within the surface trough to the north-northwest of Pierre SD. However, as the slow moving upstream low, now centered over southern Saskatchewan just to the north of the international border, continues east-northeastward, models suggest that warming elevated mixed-layer air will gradually advect across the central North and South Dakota state border area through 04-05Z. As this occurs, the potential for renewed thunderstorm development rooted within the unstable boundary layer is expected to diminish. ..Kerr.. 08/29/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2027,
+      "issue_utc": "2024-08-29T05:47Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2027.html",
+      "summary": "A few supercells across central North Dakota are expected to persist into eastern North Dakota early this morning with a threat or isolated large hail and severe wind gusts.",
+      "discussion": "Regional radar composite shows a decaying MCS across southeast North Dakota as this cluster moves east of the better instability. Across western and central North Dakota, a significant increase in convection has occurred during the last hour within the post-frontal airmass due to a combination of strengthening isentropic ascent and DCVA ahead of the approaching mid-level trough. Between this post-frontal convection and the decaying MCS a locally favorable environment exists. MUCAPE around 2000 to 3000 J/kg on the apex of a strengthening low-level jet and strong shear (50-60 knots per BIS VWP) will support strong to severe supercells. While this environment will be quite favorable for the next 1 to 2 hours, expect storms to quickly outpace this better environment and thus weaken across eastern/northeast North Dakota. Due to the limited temporal nature of the threat, no severe thunderstorm watch is justified."
+    }
+  ]
+}

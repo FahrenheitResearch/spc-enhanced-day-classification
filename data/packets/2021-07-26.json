@@ -1,0 +1,218 @@
+{
+  "convective_day": "2021-07-26",
+  "valid_start": "2021-07-26T12:00Z",
+  "valid_end": "2021-07-27T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 4
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-07-26",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-07-26T13:00Z",
+      "valid_end": "2021-07-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210726_1300.html",
+      "summary": "Supercells with very large hail near the size of baseballs and damaging winds are expected this afternoon/evening from eastern North Dakota into northern Minnesota, and the storms could grow into a cluster or two while spreading southeastward tonight.",
+      "sections": [
+        {
+          "title": "Eastern ND/MN/northern WI/Upper MI this afternoon into tonight",
+          "text": "A subtle midlevel shortwave trough will crest the large-scale ridge over the Rockies and move southeastward from SK this morning to the upper Great Lakes by Tuesday morning. At the surface, a remnant lee cyclone in southwest ND will develop slowly eastward across ND along a baroclinic zone. The eastern extent of this front will shift northward as a warm front today across MN/WI. In the wake of some lingering, elevated convection this morning, strong surface heating and deep mixing are expected near the front in ND and northern MN, which will reduce convective inhibition and boost buoyancy. Though low-level flow is expected to remain relatively weak, 40-50 kt midlevel flow from the west-northwest will contribute to effective bulk shear of 40-50 kt and long hodographs favoring supercells with initial storm development this afternoon/evening from eastern ND across northern MN. Storms that form along the front this afternoon/evening will be capable of producing very large hail (near baseball size), given the supercell wind profiles with strong vertical shear aloft, steep lapse rates, and MLCAPE of 2000-3000 J/kg. The warm surface temperatures/steep low-level lapse rates will also favor"
+        },
+        {
+          "title": "VA/NC this afternoon/evening",
+          "text": "On the southern fringe of the midlevel trough over the Great Lakes/Northeast, a weak surface cold front will drift southeastward across the Appalachians. Surface heating/mixing and ascent along the front, as well as a diffuse lee trough from VA into NC, will support scattered thunderstorm development by early afternoon. Effective bulk shear of 20-30 kt may support some transient cluster or cell organization, and precipitation loading and downdraft potential will support the threat for isolated downbursts with wind damage this afternoon/evening."
+        },
+        {
+          "title": "ME area today",
+          "text": "In the wake of morning convection, clearing will allow some destabilization this afternoon across northern New England. Forcing for ascent and storm coverage both appear somewhat nebulous for this afternoon, and midlevel lapse rates will be rather poor. However, storms that do form will have some potential to produce isolated wind damage given steep low-level lapse rates and effective bulk shear around 30 kt. ..Thompson/Gleason.. 07/26/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-07-26",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-07-26T16:30Z",
+      "valid_end": "2021-07-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210726_1630.html",
+      "summary": "Supercells and bowing structures with large hail and damaging winds are expected this afternoon/evening from eastern North Dakota into northern Minnesota. Other locally severe storms capable of damaging winds will affect portions of Virginia and North Carolina. ..Eastern ND/MN/northern WI/Upper MI this afternoon into tonight... A broad upper ridge is prominent across much of the CONUS today, with stronger westerly flow stretching from MT to the Great Lakes region. At the surface, a moist air mass with dewpoints in the mid 60s extends as far north as ND/MN, where strong daytime heating will yield MLCAPE values of 1500-2500 J/kg. Deep-layer shear profiles will also be quite strong across this region, with effective shear values around 40 knots. These parameters will result in a conditionally favorable environment for supercells and bowing storm complexes capable of very large hail and damaging winds. The primary forecast uncertainty involves the timing and placement of storms later today. 12z CAM guidance shows considerable diversity, and given the subtle/weak forcing mechanisms, confidence in the 30% hail area is not particularly high. Nevertheless, a few HREF members continue to in",
+      "sections": [
+        {
+          "title": "VA/NC",
+          "text": "A hot and very humid low-level air mass is present today over southern VA and northern NC, with dewpoints in the mid 70s. Strong heating will result in an axis of MLCAPE over 2500 J/kg from western NC into south-central VA, where scattered afternoon thunderstorms are expected. Vertical shear is not particularly strong, but may be sufficient for a few convective clusters to become organized and pose a risk of damaging winds and hail. Activity will persist into the early evening and the onset of diurnal cooling."
+        },
+        {
+          "title": "Northern New England",
+          "text": "Moderately strong west-northwesterly mid-level flow stretches across the northeast states today, where mostly clear skies are present. This will allow for the development of relatively steep low-level lapse rates. Isolated thunderstorms are expected to form over the region, and across eastern ON/QB and move across the MRGL risk area. The strongest cells could produce locally gusty winds."
+        },
+        {
+          "title": "NV/UT",
+          "text": "The corridor of enhanced mid-level winds has shifted northward into NV/UT today. Yesterday's convection over this region may limit high temperatures somewhat and lessen the damaging wind potential. But given the mostly clear skies and consistent forecast of an axis of thunderstorm development later today, will add a MRGL risk for locally damaging winds. ..Hart/Wendt.. 07/26/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-07-26",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-07-26T20:00Z",
+      "valid_end": "2021-07-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210726_2000.html",
+      "summary": "Supercells and bowing structures with large hail and damaging winds are expected this afternoon/evening from eastern North Dakota into northern Minnesota. Other locally severe storms capable of damaging winds will affect portions of Virginia and North Carolina.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Only change this outlook update is to include 5-percent wind probabilities in central OK into far south-central KS. The 18z Lamont, OK raob showed a very unstable airmass with an 18 g/kg lowest 100 mb mean mixing ratio and 3300 J/kg MLCAPE. Despite very weak flow through the troposphere and indicative of a pulse thunderstorm mode, the steepened 0-2 km lapse rates and high PW will favor water-loaded wet microbursts (localized gusts up to 65 mph) with the most intense cores. This activity will diminish by early/mid evening. ..Smith.. 07/26/2021 .PREV DISCUSSION... /ISSUED 1148 AM CDT Mon Jul 26 2021/ ..Eastern ND/MN/northern WI/Upper MI this afternoon into tonight... A broad upper ridge is prominent across much of the CONUS today, with stronger westerly flow stretching from MT to the Great Lakes region. At the surface, a moist air mass with dewpoints in the mid 60s extends as far north as ND/MN, where strong daytime heating will yield MLCAPE values of 1500-2500 J/kg. Deep-layer shear profiles will also be quite strong across this region, with effective shear values around 40 knots. These parameters will result in a conditionally favorable environment for supercells and bowing storm c"
+        },
+        {
+          "title": "VA/NC",
+          "text": "A hot and very humid low-level air mass is present today over southern VA and northern NC, with dewpoints in the mid 70s. Strong heating will result in an axis of MLCAPE over 2500 J/kg from western NC into south-central VA, where scattered afternoon thunderstorms are expected. Vertical shear is not particularly strong, but may be sufficient for a few convective clusters to become organized and pose a risk of damaging winds and hail. Activity will persist into the early evening and the onset of diurnal cooling."
+        },
+        {
+          "title": "Northern New England",
+          "text": "Moderately strong west-northwesterly mid-level flow stretches across the northeast states today, where mostly clear skies are present. This will allow for the development of relatively steep low-level lapse rates. Isolated thunderstorms are expected to form over the region, and across eastern ON/QB and move across the MRGL risk area. The strongest cells could produce locally gusty winds."
+        },
+        {
+          "title": "NV/UT",
+          "text": "The corridor of enhanced mid-level winds has shifted northward into NV/UT today. Yesterday's convection over this region may limit high temperatures somewhat and lessen the damaging wind potential. But given the mostly clear skies and consistent forecast of an axis of thunderstorm development later today, will add a MRGL risk for locally damaging winds."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-07-27",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-07-27T01:00Z",
+      "valid_end": "2021-07-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210727_0100.html",
+      "summary": "Supercells and bowing structures with large hail and damaging winds are expected overnight from eastern North Dakota into northern Wisconsin.",
+      "sections": [
+        {
+          "title": "ND to WI",
+          "text": "Weak mid-level disturbance appears to be affecting northern MN this evening. This feature will track southeast toward northern Lake MI overnight with mid-level height rises expected in its wake across the upper MS Valley. Several clusters of severe thunderstorms have evolved across northern MN and this activity is propagating southeast at 30-35kt toward the western portions of Lake Superior/northwestern WI. Latest thinking is this convection will continue to grow upscale as a reservoir of buoyancy currently extends ahead of this activity downstream across northern WI. Severe damaging winds and large hail are likely with this evolving complex of storms. Across eastern ND, strong surface heating allowed temperatures to rise well into the 90s to near 100F ahead of the surface low. Isolated thunderstorms have developed along the boundary west of JMS but updrafts are currently struggling. It's not entirely clear how much additional convection will develop along the front, but a very unstable air mass does exist across eastern ND/western MN. Any storms that mature in this environment may produce damaging winds/hail. ..Darrow.. 07/27/2021"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 1350,
+      "issue_utc": "2021-07-26T17:03Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1350.html",
+      "summary": "Scattered storms are developing along the Blue Ridge and will pose a threat for damaging winds as they move east/southeastward this afternoon. The threat will be maximized with any clusters that can develop. A severe thunderstorm watch is likely for parts of Virginia/North Carolina.",
+      "discussion": "Scattered thunderstorms are in the process of forming along the Blue Ridge. With temperatures in the mid/upper 80s F and dewpoints in the low/mid 70s, 1500-2000 J/kg MLCAPE has already developed. Continued heating this afternoon will probably bring temperatures near to just above 90 F in spots. Given the depth of the moist layer on 12Z observed regional soundings, dewpoints should generally hold steady as well. Despite weak deep-layer shear, storm coverage and congealing cold pools seem likely to lead to a few semi-organized clusters capable of damaging wind gusts. Slightly cooler temperatures aloft in Virginia give slightly higher confidence to more intense/organized activity than farther to the south. A severe thunderstorm watch will likely be needed this afternoon as activity continues to slowly intensify over the next few hours."
+    },
+    {
+      "year": 2021,
+      "number": 1351,
+      "issue_utc": "2021-07-26T19:29Z",
+      "topic": "Severe Thunderstorm Watch 392",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1351.html",
+      "summary": "Damaging winds will remain possibly through early evening. A cluster of storms near Richmond, VA poses the greatest short-term threat. Further clustering of storms may occur this afternoon near the Blue Ridge.",
+      "discussion": "Scattered thunderstorms continue to move south and east off of the Blue Ridge as well as near Richmond, VA. The cluster near Richmond recently produced a 36 kt gust and has shown increasing potential for damaging wind gusts on recent KAKQ radar velocity imagery. This cluster will continue south-southeastward into a weakly sheared, but moderately unstable, airmass in southeastern Virginia. Local extensions in area of WW 392 may be needed for this activity. Storms near the Blue Ridge have shown less organization over the past couple hours, but still have produced occasional wind damage reports and marginally severe hail. The potential for, primarily, damaging wind gusts is expected to continue through early evening as temperatures continue to warm into the upper 80s F to low 90s F in the region. ..Wendt.. 07/26/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1352,
+      "issue_utc": "2021-07-26T21:31Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1352.html",
+      "summary": "Isolated severe storms may pose a large hail and damaging wind threat over the next 1 to 2 hours.",
+      "discussion": "Temperatures have warmed into the mid 80s with dewpoints in the mid 60s across north central Wisconsin. This destabilization has been sufficient to erode surface inhibition according to SPC mesoanalysis with MLCAPE around 1500 J/kg. Flow is less than 30kts in the lowest 5km, but strengthens to near 50 knots above 8km per KGRB VWP. Given storm depth around 12km, and the observations from the VWP, the effective shear is probably greater than the 25 knots shown on SPC mesoanalysis. Stronger effective shear would also explain the organization of the large supercell north of Green Bay. This supercell currently shows MESH around 1.5 inches. This cell has turned right and may try to continue southward along the instability gradient. However, expect this supercell to eventually move eastward over Lake Michigan and into an airmass with decreasing instability and increasing inhibition which should limit storm intensity. Given the small temporal and areal threat from this storm activity, no watch is anticipated, but some large hail and damaging winds may be possible over the next 1 to 2 hours."
+    },
+    {
+      "year": 2021,
+      "number": 1353,
+      "issue_utc": "2021-07-26T21:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1353.html",
+      "summary": "Thunderstorms may develop this afternoon across central and eastern North Dakota. Very large hail and strong thunderstorm outflow winds will be possible with any thunderstorm. A watch may become necessary should confidence in initiation increase.",
+      "discussion": "Recent visible satellite imagery depicts clumping cumulus developing across Burleigh and Morton counties in central North Dakota. This is in response to sustained low-level convergence along a weak surface boundary within a broad area of lower pressure across the northern Plains. Surface temperatures in the mid-to-upper 90s F coupled with dewpoints in the mid-60s to around 70 F have resulted in a very unstable airmass, characterized by most-unstable CAPE values in excess of 3500 J/kg and decreasing convective inhibition. Some high-resolution guidance develops robust convection within this area of sustained low-level convergence and decreasing inhibition over the next couple of hours. Strong deep-layer shear greater than 40 knots and mid-level lapse rates around 8 C/km will support vigorous updrafts capable of producing very large hail and gusty thunderstorm winds with any thunderstorm. If confidence in convective initiation increases, a watch may be required for portions of eastern North Dakota. This area will continue to be monitored."
+    },
+    {
+      "year": 2021,
+      "number": 1354,
+      "issue_utc": "2021-07-26T21:43Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1354.html",
+      "summary": "There will be an isolated damaging wind threat across far southeast Virginia and far northeast North Carolina over the next 1 to 2 hours. No watch is anticipated.",
+      "discussion": "The cluster of storms which produced some damaging wind across eastern Virginia has shown some weakening as it moves southward toward areas with decreasing effective shear. However, the airmass ahead of these storms is still quite unstable with MLCAPE around 2500 J/kg. Therefore, an isolated severe wind threat may persist as this activity moves southeastward out of watch 392. However, a more organized threat is not anticipated, and therefore, no downstream watch is planned."
+    },
+    {
+      "year": 2021,
+      "number": 1355,
+      "issue_utc": "2021-07-26T22:00Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1355.html",
+      "summary": "Thunderstorms capable of very large hail, gusty thunderstorm winds, and a tornado or two will be possible across the area this afternoon and evening. A watch will likely be needed for portions of the area later today.",
+      "discussion": "A cluster of thunderstorms persist across north-central Minnesota this afternoon associated with modest warm-air advection along a west-northwest to east-southeast warm-front draped across northern Minnesota. Although temperatures have warmed into the mid-to-upper-80s F along both sides of the warm front, surface moisture, as measured by dewpoints, dramatically increases to the south, rising from mid 50s F north to mid 60s F south. The result is a strongly unstable airmass along and south of the warm front. Strong deep-layer shear across the region will likely sustain thunderstorm intensity and organization into he evening hours, with supercell thunderstorms possible. Warm-air advection is expected to continue through the evening hours, even strengthening after 00Z. The result should be one or more rounds of thunderstorms across the region. Given the degree of instability and strong shear, very large hail and gusty thunderstorm winds will be likely with any intense thunderstorm. Additionally, the presence of a warm-front across the area will result in the potential for a tornado or two with any surface-based or near-surface-based supercell that interacts with the warm front. A watch will likely be needed this afternoon or evening across portions of the area."
+    },
+    {
+      "year": 2021,
+      "number": 1356,
+      "issue_utc": "2021-07-26T22:01Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1356.html",
+      "summary": "Thunderstorm clusters capable of locally strong/severe wind gusts and perhaps some hail will continue through the afternoon.",
+      "discussion": "A few areas of stronger thunderstorms have developed across portions of southwest UT into southern NV, within an environment characterized by MLCAPE of 1000-1500 J/kg and effective shear generally ranging from 15-25 kt, per recent objective mesoanalyses. While this environment is only supportive of transient storm organization, modestly-enhanced steering flow to the north of the weak midlevel trough over southern CA may support a couple of outflow-driven clusters capable of isolated strong/severe wind gusts. Instability may also be sufficient to support a marginal hail risk with the strongest updrafts."
+    },
+    {
+      "year": 2021,
+      "number": 1357,
+      "issue_utc": "2021-07-26T22:03Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1357.html",
+      "summary": "Isolated large hail or a damaging wind gust is possible this evening.",
+      "discussion": "Storms have developed in eastern Ontario and St. Lawrence counties over the past few hours. These storms have stayed below severe limits thus far and are mostly expected to remain that way given the somewhat weak shear and MLCAPE only around 500 to 1000 J/kg. If storms congeal/collide, a stronger updraft may be possible which could pose a threat for isolated damaging winds/large hail. Overall, expect most of these storms to produce sub-severe winds/hail over the next few hours."
+    },
+    {
+      "year": 2021,
+      "number": 1358,
+      "issue_utc": "2021-07-27T00:12Z",
+      "topic": "Severe Thunderstorm Watch 393",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1358.html",
+      "summary": "The threat for very large hail and locally damaging wind continues with ongoing supercell cluster across northeast MN. This cluster will likely spread into northwest WI, where new watch issuance is likely by 01Z.",
+      "discussion": "At 00Z, an intense thunderstorm cluster with embedded supercells is ongoing across northeast MN. The strongest cell within this cluster earlier produced baseball-size hail, damaging wind, and a tornado across northern MN. MLCAPE in excess of 1500 J/kg and effective shear of 40-50 kt will continue to support supercell structures as the cluster spreads southeastward, with renewed development possible along the southwestern flank as the low-level jet gradually increases this evening. Some uncertainty remains regarding whether this cluster will evolve into a forward propagating MCS, or persist as a supercell cluster. In either case, a significant hail and wind threat is expected to spread into northwest WI this evening, with a tornado or two also possible if the supercell mode is maintained. A new severe thunderstorm watch will likely be issued for northwest WI by 01Z."
+    },
+    {
+      "year": 2021,
+      "number": 1359,
+      "issue_utc": "2021-07-27T00:40Z",
+      "topic": "Severe Thunderstorm Watch 393",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1359.html",
+      "summary": "The severe weather threat may be waning in the western half of watch 393.",
+      "discussion": "At least one supercell formed along the surface front in central North Dakota, but any additional attempts struggled. In the last 30 minutes this supercell has weakened and is now gone. Additional convection is trying to form along the front, but considering the history of the recent supercell which was able to seemingly reach maturity during peak surface instability, the chance for additional storms may be waning, especially as the boundary layer begins to cool. The primary low-level jet axis is east of this area with any additional isentropic ascent expected to be focused across eastern Minnesota and northern Wisconsin. Therefore, without any additional sources for ascent, the window for severe storms across the western half of watch 393 is waning. Trends will continue to be monitored for another hour or two, but portions of watch 393 may be cancelled early if a lack of severe storms becomes increasingly obvious."
+    },
+    {
+      "year": 2021,
+      "number": 1360,
+      "issue_utc": "2021-07-27T01:41Z",
+      "topic": "Severe Thunderstorm Watch 393",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1360.html",
+      "summary": "The threat for hail and damaging wind continues with ongoing thunderstorm cluster. Watch issuance downstream is possible by 02-03Z if the short-term intensity of this cluster is maintained.",
+      "discussion": "At 0130Z, a long-lived thunderstorm cluster is approaching northwest WI from northeast MN. While MLCINH will increase with time across the region, the intensity of this cluster may be maintained into a larger portion of northwest WI, where somewhat stronger heating occurred earlier in the day and the environment may still support near-surface-based updrafts for another 2-3 hours. Even if the system becomes somewhat elevated, MUCAPE in excess of 1500 J/kg and effective shear of 40+ kt will continue to favor organized storm structures through the evening. Recent radar trends indicate that the cluster is taking on more of a linear mode as the system accelerates southeastward. As a result, the primary threat may be transitioning to damaging wind, though some hail remains possible with the strongest embedded cores. New watch issuance downstream is possible by 02-03Z if the short-term intensity of the cluster is maintained this evening."
+    },
+    {
+      "year": 2021,
+      "number": 1361,
+      "issue_utc": "2021-07-27T04:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1361.html",
+      "summary": "Strong wind gusts embedded within a progressive linear segment should persist for another couple hours, but an overall weakening trend is anticipated overnight. Tree and power line damage are the main threats across northeast WI into parts of MI. Isolated severe hail may persist within a narrow corridor across northwest WI.",
+      "discussion": "Overall CAPPI trends, echo tops, and IR cloud top temperatures, along with increasing discontinuities in 45-dBZ reflectivities suggest the southeast-progressing MCS is in a large-scale decaying phase. Nevertheless, the 45-50 kt forward progression along with several measured gusts of 35-50 kt suggest that scattered tree damage should persist in the near-term across northeast WI into southern Upper MI. The more prominent wind damage threat should exist across northeast WI where residual steep low-level lapse rates persist atop the nocturnal boundary-layer, as this region had warmed through the 80s earlier today. Expectation is for this MCS to weaken more abruptly as it reaches Lake MI and further decay with a stable air mass farther east into Lower MI. Isolated severe hail may continue within the low-level warm-advection regime in the wake of this MCS across northwest WI. Overall spatial extent of this threat will probably remain too limited to warrant another severe thunderstorm watch. ..Grams.. 07/27/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1362,
+      "issue_utc": "2021-07-27T09:00Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1362.html",
+      "summary": "A threat for mainly isolated large hail may exist early this morning with elevated storms. The coverage and intensity of these storms remain uncertain, and watch issuance appears unlikely at this time.",
+      "discussion": "A couple of storms have recently developed across parts of east-central MN in a low-level warm advection regime characterized by 25-35 kt of west-southwesterly flow in the 0-2-km layer AGL per recent VWP estimates from KMPX. This convection is currently located near a surface front/composite outflow boundary from earlier storms across WI, and is likely slightly elevated. If these storms can be maintained and move southward over the next couple of hours, they will encounter a rather unstable airmass with MUCAPE around 1500-3000 J/kg. The flow above the boundary layer veers quickly to northwesterly while also strengthening, and about 45-50 kt of effective bulk shear will easily support supercell structures. Steep mid-level lapse rates noted on the 00Z ABR/MPX soundings, coupled with the rather favorable thermodynamic and kinematic environment, suggest an isolated threat for large hail with any supercell that can be sustained. Occasional strong to severe wind gusts also appear possible given the moderate to strong instability south of the boundary. However, considerable uncertainty remains regarding storm coverage and intensity, as large-scale forcing for ascent at mid levels remains nebulous. Given these uncertainties, watch issuance appears unlikely at this time, but observational trends will be closely monitored."
+    }
+  ]
+}

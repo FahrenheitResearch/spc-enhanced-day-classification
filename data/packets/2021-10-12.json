@@ -1,0 +1,235 @@
+{
+  "convective_day": "2021-10-12",
+  "valid_start": "2021-10-12T12:00Z",
+  "valid_end": "2021-10-13T12:00Z",
+  "max_risk": "MDT",
+  "product_counts": {
+    "ENH": 3,
+    "MDT": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-10-12",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-10-12T12:00Z",
+      "valid_end": "2021-10-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20211012_1200.html",
+      "summary": "Severe thunderstorms are expected this evening/overnight across portions of the central and southern Plains, where an all-hazards severe risk is anticipated.",
+      "sections": [
+        {
+          "title": "Central/Southern Plains",
+          "text": "Early-morning water-vapor imagery depicts a well-defined upper trough beginning to advance east across the lower CO River Valley. This feature will eject northeast soon as a strong 500mb speed max translates through the base of the trough across NM into southeast CO by 13/00z, then into eastern NE by the end of the period. Strong 12hr mid-level height falls will precede this negative-tilt trough and large-scale forcing for ascent should overspread the High Plains by late afternoon. In response to this short wave, LLJ is beginning to strengthen across the High Plains but will shift a bit eastward across western OK-KS-NE-SD prior to convective initiation. Boundary-layer moisture has yet to move appreciably inland over the Coastal Plain of TX, with the leading edge of maritime-tropical air mass having advanced to COT-VCT (70F Td) at 05z. Water-vapor imagery depicts a weak disturbance over northeast Mexico ejecting northeast toward this region and this feature should encourage moisture to begin surging inland later today. Even so, higher-quality moisture should struggle to advance farther north than the eastern TX Panhandle/western OK prior to sunset; though further advection is expect"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-10-12",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-10-12T13:00Z",
+      "valid_end": "2021-10-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20211012_1300.html",
+      "summary": "Severe thunderstorm gusts, large hail and tornadoes are possible mainly this evening into tonight, across parts of the central and southern Plains.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "The dominant mid/upper-level feature for convective/severe potential today will be a synoptic-scale cyclone initially centered over the UT/AZ border region. The associated 500-mb low is forecast to eject northeastward through the period, reaching northwestern/north- central CO by 00Z, with the trough across south-central/southeastern CO to northern/western NM. By 12Z, the low aloft should move to near CDR, with 500-mb trough arching southeastward then southwestward over the central plains and southern High Plains. At the surface, 11Z analysis showed an area of low pressure over central/western CO and eastern UT, with cold front southward across western NM and southeastern AZ. A dryline -- initially developing over the lower Pecos Valley and Permian Basin regions of west TX on the northwestern rim of substantial Gulf moisture return -- should sharpen from south to north today across the TX/OK Panhandles and into western KS. This will occur as low-level moist advection occurs out of a source region of 60s to 70s F surface dew points initially located south of about an SJT-ACT-SHV line. Meanwhile, the primary surface low related to the cyclone aloft should reorganize/consolidate and d"
+        },
+        {
+          "title": "Central/southern Plains",
+          "text": "Thunderstorms should develop initially late this afternoon over the central High Plains, then as deep-layer forcing for ascent and low-level moisture each increase with southward extent after sunset, additional convection should form southward over more of western KS into the eastern TX Panhandle and western OK. Supercells are possible in the first few hours of convective activity across a given mesobeta-scale area -- some discrete or nearly so with large to very large hail, severe gusts and tornadoes most probable in a corridor from western KS to the eastern Panhandles and western OK. A supercell or two may pose a threat for significant (EF2+ damage) tornadoes, in addition to very large hail. This will be of greatest concern during a time window this evening defined by: 1. Warm-sector hodographs enlarging substantially with the influence of an LLJ strengthening to 50-65 kt, 2. Moist/warm advection near the surface maintaining surface-based effective inflow parcels to partly offset gradual diabatic cooling, and 3. Convection isn't yet solidly linear and lacking embedded supercells. Forecast soundings indicate such conditions at least briefly collocated with effective SRH of 300-500"
+        },
+        {
+          "title": "South TX",
+          "text": "Some concern also exists for convection to develop in the high terrain (Serranias del Burro and vicinity) of northern Coahuila late this afternoon or early evening, and subsequently spread east- northeastward to northeastward across the adjoining Rio Grande Valley, into portions of south TX near severe levels. At least isolated severe hail/gusts are possible in a CAPE/shear parameter space favorable for either supercells or upscale-expanding clusters. Thick mid/upper-level cloud cover should spread northeastward across this region today and especially this afternoon/evening, with increasing contribution to that moisture from eastern Pacific Hurricane Pamela. While this should limit intensity of diurnal heating, a weak perturbation now apparent in moisture-channel imagery north/northeast of Pamela and northern Coahuila may become enhanced convectively over western/northern MX today. This perturbation then may move northeastward into the southeastern fringe of the favorable mid/upper flow, supplying large-scale lift aloft. Meanwhile, evening dryline retreat and related moist advection will lead to increasing low-level theta-e over higher terrain, along with weaker MLCINH and storm-in"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-10-12",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-10-12T16:30Z",
+      "valid_end": "2021-10-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20211012_1630.html",
+      "summary": "Scattered to numerous severe thunderstorms are expected to begin late this afternoon, peak this evening, and continue into tonight across parts of the central and southern Great Plains. Several tornadoes, a couple of which may be strong, along with destructive hail and wind are possible.",
+      "sections": [
+        {
+          "title": "Central/southern Great Plains",
+          "text": "Thunderstorms should initially develop during the late afternoon/early evening over the central High Plains. As deep-layer forcing for ascent and low-level moisture each increase with southward extent after sunset, additional convection should form southward over more of western KS into the eastern TX Panhandle and western OK. Numerous supercells are expected, some discrete or nearly so with significantly large hail, severe gusts, and tornadoes most probable in a corridor from western KS to the eastern Panhandles and western OK. A couple supercells may pose a threat for significant tornadoes. This will be of greatest concern during a time window around 01-05Z. Warm-sector hodographs will be enlarging substantially with the influence of a LLJ strengthening to 50-65 kt. The leading edge of the rich boundary-layer moisture plume (characterized by mid 60s surface dew points) has reached the Permian Basin/Big Country/Low Rolling Plains regions of west to northwest TX. This moisture plume will continue to advect north, likely spreading into southern KS by later this evening. Guidance has spatiotemporal timing differences which should be crucial to the degree of surface-based CAPE/CIN thi"
+        },
+        {
+          "title": "South TX",
+          "text": "Isolated severe thunderstorms will be possible this afternoon into tonight, but mostly anticipated this evening. A series of weak perturbations emanating northeast from eastern Pacific Hurricane Pamela should aid in multiple bouts of convective potential through the period. While the low-level forcing mechanisms should remain nebulous and mid-level lapse rates will not be as steep as a typical severe setup, very rich boundary-layer moisture will remain prevalent and maintain a broad plume of 2000-3000 J/kg MLCAPE through dusk, before waning tonight. Effective bulk shear will be adequate for a conditional supercell risk, perhaps somewhat more favorable in the Edwards Plateau region this evening. If confidence increases in a relative concentration of severe threat within this regime, an upgrade may be needed in a succeeding outlook. ..Grams/Lyons.. 10/12/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-10-12",
+      "hhmm": "2000",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2021-10-12T20:00Z",
+      "valid_end": "2021-10-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20211012_2000.html",
+      "summary": "Scattered to numerous severe thunderstorms are expected to begin late this afternoon, peak this evening, and continue into tonight across parts of the central and southern Great Plains. Several tornadoes, some of which may be strong, along with destructive hail and wind are possible.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Forecast thinking from the previous outlook is on track regarding the overall scenario, and confidence has increased for several long-track supercells capable of a couple strong and perhaps an intense tornado this evening/tonight. As a result, this outlook update is introducing a 15-percent tornado probability and an associated Moderate Risk for portions of the northeast TX Panhandle and far northwest OK, and areas to the north-northwest into southwest KS. Storm-simulated model guidance continues to show quasi-discrete convective mode with storms that develop initially near the dryline and move east into richer low-level moisture and high SRH this evening. Forecast soundings strongly favor discrete supercells and long-track, fast-moving supercells appear likely to traverse across the Moderate Risk. Linear forcing and slightly drier/less unstable air will probably favor upscale growth into a band of storms in northwest KS and northeast CO, limiting the tornado risk. Have adjusted the southeastern bound of the 10-percent tornado area to be farther northwest and mainly be confined to western and northwestern OK. ..Smith.. 10/12/2021 .PREV DISCUSSION... /ISSUED 1130 AM CDT Tue Oct 12 2"
+        },
+        {
+          "title": "Central/southern Great Plains",
+          "text": "Thunderstorms should initially develop during the late afternoon/early evening over the central High Plains. As deep-layer forcing for ascent and low-level moisture each increase with southward extent after sunset, additional convection should form southward over more of western KS into the eastern TX Panhandle and western OK. Numerous supercells are expected, some discrete or nearly so with significantly large hail, severe gusts, and tornadoes most probable in a corridor from western KS to the eastern Panhandles and western OK. A couple supercells may pose a threat for significant tornadoes. This will be of greatest concern during a time window around 01-05Z. Warm-sector hodographs will be enlarging substantially with the influence of a LLJ strengthening to 50-65 kt. The leading edge of the rich boundary-layer moisture plume (characterized by mid 60s surface dew points) has reached the Permian Basin/Big Country/Low Rolling Plains regions of west to northwest TX. This moisture plume will continue to advect north, likely spreading into southern KS by later this evening. Guidance has spatiotemporal timing differences which should be crucial to the degree of surface-based CAPE/CIN thi"
+        },
+        {
+          "title": "South TX",
+          "text": "Isolated severe thunderstorms will be possible this afternoon into tonight, but mostly anticipated this evening. A series of weak perturbations emanating northeast from eastern Pacific Hurricane Pamela should aid in multiple bouts of convective potential through the period. While the low-level forcing mechanisms should remain nebulous and mid-level lapse rates will not be as steep as a typical severe setup, very rich boundary-layer moisture will remain prevalent and maintain a broad plume of 2000-3000 J/kg MLCAPE through dusk, before waning tonight. Effective bulk shear will be adequate for a conditional supercell risk, perhaps somewhat more favorable in the Edwards Plateau region this evening. If confidence increases in a relative concentration of severe threat within this regime, an upgrade may be needed in a succeeding outlook."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-10-13",
+      "hhmm": "0100",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2021-10-13T01:00Z",
+      "valid_end": "2021-10-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20211013_0100.html",
+      "summary": "Scattered to numerous severe thunderstorms are expected tonight across parts of the central and southern Great Plains. Several tornadoes, some of which may be strong, along with destructive hail and wind are possible.",
+      "sections": [
+        {
+          "title": "01z Update",
+          "text": "Leading edge of large-scale forcing has progressed to the western edge of returning moisture across the central High Plains. This is reflected in latest radar/satellite imagery where deep convection, in the form of a squall line, has emerged from southwestern NE-CO/KS border-northwestern TX Panhandle. A very narrow corridor of higher-quality boundary-layer moisture extends across western KS into the northern portions of this maturing squall line. Over the next few hours buoyancy will improve ahead of the convection which should aid further upscale growth of this linear MCS. Wind profiles certainly favor supercells but convection has responded in a linear fashion, and this will likely be the predominant storm mode the rest of tonight. 00z sounding from DDC was strongly capped and pre-frontal activity may be difficult in the absence of higher surface dew points. Farther south across the southern High Plains, maritime tropical air mass has advanced into extreme southwestern OK where surface dew points are in the lower 70s. This has aided a few discrete supercells within a strongly sheared environment. As this moisture advances across western OK into southwestern KS there is some conce"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 1838,
+      "issue_utc": "2021-10-12T19:29Z",
+      "topic": "Outlook upgrade Valid 121929Z - 122000Z SUMMARY",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1838.html",
+      "summary": "An upgrade to Category 4/Moderate risk will be introduced in the 20Z Day 1 Convective Outlook to reflect a greater risk for strong tornadoes.",
+      "discussion": "The latest high-resolution/convection allowing model guidance consensus has been generally trending upward in the intensity and longevity of deep, moist convection over portions of the southern High Plains. Potential exists for multiple discrete/semi-discrete supercells to develop ahead of a Pacific front late this afternoon/evening. These storms are expected to progress eastward into an ambient environment characterized by very strong low-level shear, resulting in large, curved hodographs and effective SRH values exceeding 400 m2/s2, especially across portions of southwest KS/northwest OK/far northeast TX Panhandle. Here, potential exists for at least a few intense, cyclical tornadic supercells to develop, and a long-tracked tornado or two cannot be ruled out. As such, portions of the central Plains will be upgraded to Category 4/Moderate risk in the upcoming 20Z Day 1 Convective Outlook."
+    },
+    {
+      "year": 2021,
+      "number": 1839,
+      "issue_utc": "2021-10-12T20:08Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1839.html",
+      "summary": "Strong ascent ahead of an advancing upper low will support rapid destabilization and storm development late this afternoon and into this evening. Supercells with all hazards including tornadoes are possible. A tornado watch is likely late this afternoon.",
+      "discussion": "As of 1955 UTC, a well-defined upper low was located on WV imagery near the Four Corners region moving east. To the south of the low, an 80-100 kt mid-level speed max was observed rounding the base and ejecting into southern CO. To the north and east of the low, strong ascent (90-120 DM 12 hr H5 height falls) is supporting widespread precipitation across the central and northern Rockies. In response to the powerful dynamics aloft, already strong low-level pressure gradients are forecast to strengthen rapidly allowing a relatively warm/moist surface airmass to advect ahead of the dryline/surface trough supporting destabilization late this afternoon. Mid and lower 50s F surface dewpoints at the nose of deeper surface moisture, have already been observed across southwestern KS as far north as TQK. Continued warm/moist advection beneath the cold-core of the upper low will support rapid destabilization (MLCAPE values of 500-1250 J/kg) by 23-01z given steep mid-level lapse rates near 8.5 C/km. Late afternoon/early evening model soundings also show very strong and veering wind profiles developing beneath the mid-level jet, with largely boundary-normal effective shear values of 60-70 kt supportive of discrete supercells. Low-level shear is also likely to be strong beneath a 50-60 kt low-level jet. Model soundings show large looping hodographs (ESRH 300-400 M2/s2) favorable for strong low-level mesocyclone development. Given the overall parameter space and potential for strong supercells, a risk for tornadoes (some significant), large hail, and damaging winds appears likely to develop by 22-00z. Latest observational trends suggest hi-res guidance remains too cool and dry across much of the High Plains where rapid warming/moistening is occurring. This lends high confidence in eve"
+    },
+    {
+      "year": 2021,
+      "number": 1840,
+      "issue_utc": "2021-10-12T20:14Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1840.html",
+      "summary": "A few supercells may develop through evening, from the eastern Texas Panhandle into far western Oklahoma. Tornadoes, perhaps strong, and very large hail will be possible.",
+      "discussion": "Surface analysis shows a front extending from northern TX into southwest OK which is becoming more diffuse with heating. This boundary separates a cooler/capped air mass over much of OK from a destabilizing air mass over northwest TX and into the TX Panhandle. Meanwhile, a dryline stretches from north to south across the TX Panhandle and South Plains. Visible satellite shows stable billow clouds north of the boundary, but these are gradually eroding from south to north as temperatures warm into the lower 80s F. A growing CU field is also evident over northwest TX, where MLCAPE is in the 1500-2000 J/kg range. Backed surface winds on the cool side of the boundary are contributing to 100-150 m2/s2 0-1 km SRH per FDR VWP. Although convergence is currently weak, it is expected to increase around 00Z and into the evening as the dryline eventually pushes east with the upper trough. A few more hours of air mass modification will occur, including moistening. In addition, the low-level jet will continue to increase to over 50 kt, further enhancing shear. Assuming a cell or two can form, they should quickly acquire rotation, with tornadoes and hail likely. Any lone cells that can maintain access to the warm side of the boundary will have the potential for a strong tornado."
+    },
+    {
+      "year": 2021,
+      "number": 1841,
+      "issue_utc": "2021-10-12T23:22Z",
+      "topic": "Tornado Watch 522",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1841.html",
+      "summary": "Storms are expected to continue a gradual increase in intensity next couple hours from northeast CO through southwest NE and western KS. All severe hazards are possible including tornadoes, large hail and damaging wind.",
+      "discussion": "Early this evening a Pacific cold front is in the process of overtaking the dryline across eastern CO. A warm front extends from a surface low in northeast CO, southeast through western KS. The warm sector is fairly narrow through western KS into northeast CO, but dewpoints will continue to rise through the 50s F along the strengthening southerly low-level jet. The VWP data already indicate 40+ kt southeasterly winds at 1 km. Scattered storms are developing across western KS along the warm conveyor belt as well as along the front in northeast CO within a corridor of up to 1000 J/kg MLCAPE. The boundary layer should become more favorable for tornadoes this evening as dewpoints continue to increase. Large low-level hodographs and 50+ kt effective bulk shear will support supercells with low-level mesocyclones. As corridor of deeper ascent along the cold front begins to overtake greater low-level moisture, storms should eventually evolve into lines later this evening. ..Dial.. 10/12/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1842,
+      "issue_utc": "2021-10-13T00:30Z",
+      "topic": "Tornado Watch 523",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1842.html",
+      "summary": "The severe weather threat continues across WW 523. The greatest near-term threat will remain across western OK associated with isolated supercells, but a second round of storms remains likely later this evening.",
+      "discussion": "Latest regional radar imagery shows a few supercells moving north/northeastward across far north Texas and western Oklahoma. The west-central OK supercell has exhibited strong low-level rotation, indicating that the ample low-level shear over the region (200-300 m2/s2 0-1 km SRH sampled by the KFDR VWP and analyzed in recent RAP mesoanalysis) is compensating for lingering mixed-layer inhibition. The tornado threat associated with this storm will continue for the near term, and may persist into the late evening hours as low-level wind fields strengthen in response to the deepening surface low to the north. Additional discrete cells are possible across southwest OK and/or the eastern TX Panhandle along the warm front within the next 1-2 hours, but weak forcing for ascent, substantial mid-level dry air entrainment, and the onset of diurnal cooling make confidence in discrete storm coverage uncertain. Latest hi-res guidance has depicted this potential, but run-to-run consistency has been somewhat poor, further reducing confidence. Additional storms are likely later this evening/overnight as stronger lift associated with the approach of the main upper-level wave (manifesting as increasing showers and weak convection over the southern High Plains) overspreads the region. Increasingly meridional flow along the initiating cold front will support mostly linear storm modes, but increasing low-level shear within the warm sector should maintain a QLCS tornado threat over the watch area. ..Moore.. 10/13/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1843,
+      "issue_utc": "2021-10-13T01:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1843.html",
+      "summary": "Line of storms across western KS is expected to persist into the overnight through central KS. Damaging wind should be the main threat, but at least a couple of tornadoes will also be possible.",
+      "discussion": "Line of storms from just east of Goodland to west of Garden City is moving east at around 35 kt. Embedded organized structures continue to be observed. Moisture will continue to return northward through the downstream warm sector with dewpoints likely to rise into the low 60s F across southern KS and 50s farther north. Even with this return of low-level moisture, forecast soundings indicate a near-surface stable layer, suggesting inflow to the storms will probably remain just above the surface. Northward destabilization with time with MUCAPE from 1500-2000 J/KG along with large low-level hodographs and strong effective shear will continue to support embedded organized storms with damaging wind the main threat. However, given degree of effective storm relative helicity, at least a couple of tornadoes will remain possible, especially over the southern half of KS with any embedded supercells or meso-vortices despite the sub-optimal near-surface layer."
+    },
+    {
+      "year": 2021,
+      "number": 1844,
+      "issue_utc": "2021-10-13T02:18Z",
+      "topic": "Tornado Watch 523",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1844.html",
+      "summary": "The threat for tornadoes and severe wind continues across WW 523. The greatest near-term threats will reside with a pair of supercells across western OK, as well as intensifying storms across the OK/TX Panhandles.",
+      "discussion": "Vertical wind profilers from across the southern Plains have shown strengthening flow in the lowest 2-3 km over the past hour as the surface low across the southern/central High Plains continues to deepen and the main synoptic wave ejects into the Plains. This has boosted effective SRH to around 400 m2/s2 across much of WW 523, and aided in the organization and longevity of a pair of tornadic supercells across western OK. These two cells will continue to pose a tornado threat for the next 1-2 hours, but the longevity of the threat is uncertain due to a less favorable thermodynamic environment with eastern extent. Additional discrete cells ahead of the approaching cold front remain possible, but appears unlikely given recent failed attempts at initiation near Woodward, OK. To the west, convection along the Pacific cold front is intensifying as the front encounters a more unstable air mass. Severe winds have already been reported with this line across the Panhandles, and will continue to be possible as convection continues to intensify over the coming hours. Given the strongly sheared environment ahead of this line, QLCS tornadoes will also be possible - especially in the vicinity of any northwest to southeast surges where line-normal 0-3 km bulk shear values will be maximized to near 40-45 knots. ..Moore.. 10/13/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1845,
+      "issue_utc": "2021-10-13T04:34Z",
+      "topic": "Tornado Watch 524",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1845.html",
+      "summary": "Threat for damaging wind and a couple of tornadoes will persist into the early morning hours across central through south central Kansas.",
+      "discussion": "Line of storms with organized structures including bowing segments and occasional mesovortices continues through central KS at around 40 kt. Latest objective analysis indicates up to 1500 J/kg MLCAPE, and dewpoints continue to rise through the 50s F and even lower 60s across southern KS. A weakly stable near-surface layer is still evident on forecast soundings, which is an overall limiting factor for a more robust tornado threat. Nevertheless, very large low-level hodographs with up to 500 m2/s2 0-1 km storm relative helicity will continue to support some potential for occasional mesovortices and a few QLCS tornadoes as dewpoints increase a bit further. Otherwise, damaging wind remains likely with the stronger more organized storms as activity continues east next few hours. ..Dial.. 10/13/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1846,
+      "issue_utc": "2021-10-13T05:54Z",
+      "topic": "Severe Thunderstorm Watch 525",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1846.html",
+      "summary": "Isolated strong to severe wind gusts should remain the primary threat with storms moving eastward across north-central Kansas early this morning.",
+      "discussion": "A north-south oriented line of storms will continue to move eastward across north-central KS ahead of a cold front over the next couple of hours. Recent VWPs from KUEX and KTWX show very strong flow associated with a southerly low-level jet in the 0-3-km layer, and 0-1 km shear exceeding 50 kt ahead of the line. Strong deep-layer shear associated with an upper trough/low ejecting over the High Plains is also present over this region. Given the strength of the low-level flow, occasional strong to severe wind gusts from convective downdrafts should be the main threat with these storms in the short term. The primary limiting factor for a more robust severe threat will continue to be the marginal thermodynamic environment. Surface temperatures in the mid 60s with dewpoints in the mid 50s are yielding only around 250-500 J/kg of MLCAPE along and just ahead of the line. Convective inhibition also increases markedly into northeastern KS per latest mesoanalysis estimates. This suggests storms will probably weaken later this morning with eastward extent as they outpace the better low-level moisture return occurring farther south across central/southern KS. ..Gleason.. 10/13/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1847,
+      "issue_utc": "2021-10-13T06:18Z",
+      "topic": "Tornado Watch 526",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1847.html",
+      "summary": "A broken line of storms capable of producing scattered severe wind gusts, isolated large hail, and occasional tornadoes will continue into western Oklahoma early this morning.",
+      "discussion": "Strong to severe storms have mostly grown upscale into a broken line across the far eastern TX Panhandle and northwestern OK along and just ahead of a surface cold front. A rather moist low-level airmass is present ahead of this activity, with surface dewpoints generally in the upper 60s to around 70F. But, RAP forecast soundings from across this area show a shallow near-surface stable layer present in low levels, which is contributing to weak convective inhibition per latest mesoanalysis estimates. Regardless, recent radar data from KVNX show strong inbound velocities associated with the segment of the line across far northwestern OK. A measured severe wind gust to 60 mph was recorded earlier at the OK Mesonet site in Buffalo, OK as the line moved through. Scattered severe/damaging wind gusts will likely remain the primary severe threat with the line, as MLCAPE of 1500-2000 J/kg and 50+ kt of effective bulk shear will continue to support storm organization and intensity. Farther south across the far eastern TX Panhandle, a couple of supercells are present in a broken line. Isolated large hail will be possible with this activity in the short term in addition to severe downdraft winds. Given the strength of the low-level flow (55+ kt in the 0-1-km layer per recent KFDR VWP) and a very favorable, curving hodograph in the boundary layer, occasional tornadoes may occur with any supercells that can remain at least semi-discrete, as well as with low-level circulations embedded within the QLCS. ..Gleason.. 10/13/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1848,
+      "issue_utc": "2021-10-13T06:52Z",
+      "topic": "Tornado Watch 524",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1848.html",
+      "summary": "Scattered severe/damaging winds and a tornado or two remain possible with a line of storms moving eastward across central/south-central Kansas early this morning.",
+      "discussion": "A robust line of storms is progressing quickly eastward around 40-50 kt across central and south-central KS. A measured severe wind gust to 71 mph was recently recorded at an OK Mesonet site very near the OK/KS border in Woods County OK. Other estimated winds around 70-75 mph have been reported with this line in KS. In the short term, scattered severe winds will likely remain the threat given the linear nature of the ongoing storms and the rather strong low-level inflow associated with a 50-60 kt southerly low-level jet. But, an embedded tornado or two also remains possible with very favorable low-level shear. The line is currently processing the best boundary-layer instability over south-central KS, where around 1000-2000 J/kg of MLCAPE is present. Boundary-layer instability weakens fairly quickly into southeastern KS, but low-level moistening owing to the ongoing strong low-level warm advection may offset this to some extent. With favorable low-level and deep-layer shear present across this region, storms will probably be able to maintain their intensity for at least a couple more hours. Accordingly, Tornado Watch 524 has been locally extended eastward a few counties by WFO ICT. ..Gleason.. 10/13/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1849,
+      "issue_utc": "2021-10-13T07:54Z",
+      "topic": "Severe Thunderstorm Watch 525",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1849.html",
+      "summary": "Isolated strong/gusty winds remain possible in the short term. Downstream watch issuance into more of northeastern Kansas appears unlikely at this time.",
+      "discussion": "The northern portion of a squall line has recently weakened as it moved from north-central into northeastern KS. This is occurring largely due to a less favorable thermodynamic environment with eastward extent across northeastern KS. Fairly strong MLCIN should continue to temper updraft strength, even though low-level warm/moist advection is occurring with a stout, 50-60+ kt southerly low-level jet. Recent radar data from KTWX shows some strong inbound velocities within the line, and isolated strong/gusty winds may continue in the short term even with the marginal thermodynamic environment. At this point, it does not appear that the warm/moist advection at low levels will be enough to offset the nocturnal increase in convective inhibition. Accordingly, the overall severe threat should remain rather isolated/marginal, and downstream watch issuance appears unlikely at this time. ..Gleason.. 10/13/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1850,
+      "issue_utc": "2021-10-13T08:26Z",
+      "topic": "Tornado Watch 524",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1850.html",
+      "summary": "Mainly an isolated strong to severe wind threat continues with a line of storms moving eastward.",
+      "discussion": "Observations from the OK Mesonet and other sites in OK/KS show that the wind gusts associated with an extensive squall line have largely remained sub-severe over the past hour or so, with a wind gust to 50 kt at KICT at 0810Z being the exception. While there is at least moderate boundary-layer instability ahead of the line per mesoanalysis, there is likely also a shallow near-surface stable layer which is inhibiting convective downdraft potential to some extent. Even so, there is still some chance for occasional strong to severe wind gusts to breach this stable layer and reach the surface given the strength of the low/mid-level flow present across OK/KS. Both low/deep-layer shear vectors are becoming oriented increasingly parallel to the squall line (see recent VWPs from KFDR, KVNX, and KICT). This should tend to limit the potential for low-level circulations embedded within the QLCS, but a brief tornado still remains possible given the strength of the low-level flow associated with a strong, 50-60+ kt southerly low-level jet. ..Gleason.. 10/13/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1852,
+      "issue_utc": "2021-10-13T10:16Z",
+      "topic": "Tornado Watch 526",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1852.html",
+      "summary": "Occasional strong to severe wind gusts and perhaps a brief tornado may occur with a line of storms in the short term, but downstream watch issuance will probably not be needed.",
+      "discussion": "The line of storms moving eastward across central/northern OK and southeastern KS has mostly produced sub-severe wind gusts over the past couple of hours. This is largely due to the influence of a near-surface stable layer limiting convective downdraft potential. Still, there is plentiful low-level flow per the KTLX VWP, and occasional strong to severe wind gusts will remain possible in the short term. Additionally, a low-level circulation embedded within the QLCS has recently strengthened over the OKC metro. With effective SRH exceeding 400 m2/s2, a brief tornado also appears possible. Regardless of the near-term severe potential, the overall threat appears increasingly marginal/isolated with eastward extent across OK/KS early this morning. At this point, downstream watch issuance does not appear likely. ..Gleason.. 10/13/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

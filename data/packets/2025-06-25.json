@@ -1,0 +1,278 @@
+{
+  "convective_day": "2025-06-25",
+  "valid_start": "2025-06-25T12:00Z",
+  "valid_end": "2025-06-26T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2025-06-25",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2025-06-25T16:30Z",
+      "valid_end": "2025-06-26T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250625_1630.html",
+      "summary": "Severe wind gusts are possible from parts of the Carolinas into the Southeast, with widely scattered strong to severe storms possible from the northern High Plains eastward to the Mid Atlantic.",
+      "sections": [
+        {
+          "title": "Southeast US",
+          "text": "An unusually favorable thermodynamic pattern has evolved across the southeast US today, with very steep mid-level lapse rates, cool temperatures aloft, and strong daytime heating. Surface dewpoints in the 70s will yield afternoon MLCAPE values over 3500 J/kg. Large scale forcing is weak, suggesting convective initiation will be poorly focused. However, most 12z CAM solutions show several clusters of storms through the afternoon spreading southward from NC into SC and eastern GA. Vertical shear is rather weak, suggesting storms will be rather disorganized. However, there is a conditional risk for an active day across the ENH risk, with considerable coverage of damaging wind reports possible. As storms spread southwestward this evening across GA, the risk of locally damaging wind gusts will continue."
+        },
+        {
+          "title": "NE/IA/MN",
+          "text": "Visible satellite imagery shows a developing differential heating zone extending from south-central NE into central IA. Full sun to the south of this zone will lead to strong instability and scattered afternoon thunderstorm development. A band of 30-40 knot southwesterly flow aloft atop this zone, coupled with strengthening southerly low-level winds, will encourage organized/bowing clusters of storms capable of damaging winds and some hail. A tornado or two cannot be ruled out."
+        },
+        {
+          "title": "CO/KS",
+          "text": "Thunderstorms will once again develop off the higher terrain of CO/WY this afternoon and spread into the Plains. Model guidance suggests steep low-level lapse rates and sufficient CAPE for severe wind potential as these storms track toward northwest KS/southwest NE by early evening."
+        },
+        {
+          "title": "OH/WV",
+          "text": "Hot and humid conditions are present today across much of southern OH into northern WV. Visible satellite imagery shows a developing CU field, which may result in scattered slow-moving afternoon thunderstorms. Winds aloft are rather weak, but the strongest cells in this corridor may be capable of locally damaging wind gusts. ..Hart.. 06/25/2025"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2025-06-25",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2025-06-25T20:00Z",
+      "valid_end": "2025-06-26T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250625_2000.html",
+      "summary": "Severe wind gusts are expected from parts of the Carolinas into the Southeast, with widely scattered strong to severe storms possible from the northern/central High Plains eastward to the Mid Atlantic.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "The primary change with this update was the addition of 5-percent tornado probabilities along the warm front in southeast MN, northeast IA, and far west-central WI. Here, a moist boundary layer (lower 70s dewpoints) is gradually destabilizing amid diurnal heating within cloud breaks. This continued destabilization and clockwise-curved low-level hodographs (sampled by ARX/MPX VWPs) should support a locally favorable corridor for a couple supercell tornadoes -- especially with additional strengthening of the low-level jet. For details on the severe risks in the Southeast and central Plains, see Severe Thunderstorm Watches 459 and 460. ..Weinman.. 06/25/2025 .PREV DISCUSSION... /ISSUED 1125 AM CDT Wed Jun 25 2025/"
+        },
+        {
+          "title": "Southeast US",
+          "text": "An unusually favorable thermodynamic pattern has evolved across the southeast US today, with very steep mid-level lapse rates, cool temperatures aloft, and strong daytime heating. Surface dewpoints in the 70s will yield afternoon MLCAPE values over 3500 J/kg. Large scale forcing is weak, suggesting convective initiation will be poorly focused. However, most 12z CAM solutions show several clusters of storms through the afternoon spreading southward from NC into SC and eastern GA. Vertical shear is rather weak, suggesting storms will be rather disorganized. However, there is a conditional risk for an active day across the ENH risk, with considerable coverage of damaging wind reports possible. As storms spread southwestward this evening across GA, the risk of locally damaging wind gusts will continue."
+        },
+        {
+          "title": "NE/IA/MN",
+          "text": "Visible satellite imagery shows a developing differential heating zone extending from south-central NE into central IA. Full sun to the south of this zone will lead to strong instability and scattered afternoon thunderstorm development. A band of 30-40 knot southwesterly flow aloft atop this zone, coupled with strengthening southerly low-level winds, will encourage organized/bowing clusters of storms capable of damaging winds and some hail. A tornado or two cannot be ruled out."
+        },
+        {
+          "title": "CO/KS",
+          "text": "Thunderstorms will once again develop off the higher terrain of CO/WY this afternoon and spread into the Plains. Model guidance suggests steep low-level lapse rates and sufficient CAPE for severe wind potential as these storms track toward northwest KS/southwest NE by early evening."
+        },
+        {
+          "title": "OH/WV",
+          "text": "Hot and humid conditions are present today across much of southern OH into northern WV. Visible satellite imagery shows a developing CU field, which may result in scattered slow-moving afternoon thunderstorms. Winds aloft are rather weak, but the strongest cells in this corridor may be capable of locally damaging wind gusts."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2025-06-26",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2025-06-26T01:00Z",
+      "valid_end": "2025-06-26T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250626_0100.html",
+      "summary": "Damaging outflow gusts and isolated large hail will remain possible for the next several hours from South Carolina to southern Alabama. A couple of tornadoes will be possible in the short term in the vicinity of southwest Wisconsin.",
+      "sections": [
+        {
+          "title": "Southeast tonight",
+          "text": "Clusters of storms are ongoing across SC, where outflow mergers have led to consolidation of a cold pool. The storms will likely persist for several more hours while spreading southwestward over the coastal plains of SC/GA, sustained by steeper-than-usual midlevel lapse rates and strong buoyancy. Isolated large hail of 1-1.5 inches in diameter will remain a possibility with the stronger embedded storms (especially with mergers), but damaging outflow gusts will be the main threat with collapsing cores in the steep lapse rate environment with strong downdraft potential (as suggested by DCAPE of 1000-1500 J/kg). Farther southwest, a few strong-severe storms will be possible through about 02-03z along the conglomerate outflow from southwest GA into southern AL."
+        },
+        {
+          "title": "Southwest WI/southeast MN/northeast IA this evening",
+          "text": "Several tornadoes have been reported with supercells in a broken band from northeast IA across far southeast MN into southwest WI. These storms have trended toward a more linear mode over time and the tornado threat appears to have already peaked. Prior to the storms weakening early tonight, the potential for a couple of tornadoes will persist for another 1-2 hours with the stronger embedded supercells interacting with the warm front, where low-level hodograph curvature/shear are maximized."
+        },
+        {
+          "title": "Eastern NE/western IA this evening",
+          "text": "Convection has been largely undercut by convective outflow from eastern NE into western IA. Moderate buoyancy remains immediately to the south of the aggregate outflow/effective frontal boundary, and profiles will remain sufficiently moist to maintain elevated convection into the overnight hours. However, the potential for severe storms appears to be diminishing with time, with only isolated strong outflow gusts and/or marginally severe hail expected beyond 01z."
+        },
+        {
+          "title": "Northern High Plains through early tonight",
+          "text": "Widely scattered storms, some with supercell structure, will be possible through about 03z. Thereafter, convection is expected to weaken consistently with diurnal stabilization. In the interim, isolated large hail of 1-1.5 inches in diameter will be possible. ..Thompson.. 06/26/2025"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2025,
+      "number": 1432,
+      "issue_utc": "2025-06-25T15:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1432.html",
+      "summary": "Damaging downburst/outflow winds and isolated hail are possible into this afternoon.",
+      "discussion": "Morning soundings depict a rather volatile thermodynamic environment across parts of the Southeast this morning. A remnant EML and seasonably cold midlevel temperatures atop 70s F dewpoints are already supporting MLCAPE of 3000-4000 J/kg. Temperatures will warm through the 90s F this afternoon, resulting in very steep low-level lapse rates. Low-level flow will generally remain weak, but modest northeasterly midlevel flow between a weakening upper ridge and an upper low near south FL could support weakly organized storms. However, even relatively disorganized storms in this regime will be capable of producing damaging/potentially severe downbursts and isolated hail, given the very favorable thermodynamic environment. Storm coverage remains somewhat uncertain into mid afternoon. The highest confidence is short-term development is across the higher terrain over western NC and vicinity, where isolated initiation is underway. The need for short-term watch issuance is uncertain, but will become increasingly possible with time, especially across south/east portions of the MCD area."
+    },
+    {
+      "year": 2025,
+      "number": 1433,
+      "issue_utc": "2025-06-25T16:17Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1433.html",
+      "summary": "While timing is uncertain, potential for damaging downburst/outflow winds and isolated hail will increase through the afternoon.",
+      "discussion": "A volatile thermodynamic environment is in place across the Carolinas early this afternoon. Morning soundings across the region depict very steep midlevel lapse rates atop a richly moist boundary layer, and strong to extreme buoyancy (with MLCAPE of 3000-4500 J/kg) is already in place across the region. With rather nebulous large-scale ascent, storm coverage is somewhat uncertain in the short-term, though should generally increase through the afternoon. Some initiation is underway near a weak surface confluence zone across northeast NC. While deep-layer shear is rather weak, the very favorable thermodynamic environment will support damaging/potentially severe downbursts. Relatively cool temperatures aloft could also support at least a brief hail threat with the strongest updrafts. With time, some outflow consolidation could occur, resulting in potential for more concentrated swaths of wind damage. One or more watches will likely be issued across the region this afternoon, though timing is uncertain and related to trends regarding storm development and coverage."
+    },
+    {
+      "year": 2025,
+      "number": 1434,
+      "issue_utc": "2025-06-25T17:22Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1434.html",
+      "summary": "Localized damaging wind is possible this afternoon.",
+      "discussion": "Widely scattered storm development is underway early this afternoon from the eastern WV Panhandle into northern VA/MD. Midlevel lapse rates are notably weaker compared to areas farther south. However, strong heating of a richly moist airmass has allowed MLCAPE to increase into the 1500-2500 J/kg range. Storm organization will be limited by weak deep-layer flow/shear, though weak unidirectional west-northwesterly flow may allow for small southeastward-moving clusters if sufficient outflow consolidation can occur. Even in the absence of any organized clustering, very steep low-level lapse rates will result in potential for localized damaging downburst/outflow winds through the afternoon."
+    },
+    {
+      "year": 2025,
+      "number": 1435,
+      "issue_utc": "2025-06-25T18:22Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1435.html",
+      "summary": "Isolated damaging wind is possible this afternoon.",
+      "discussion": "Scattered storms are ongoing this afternoon in a corridor from central IN/OH into southwest PA and northern WV, along the northern periphery of an upper ridge centered over parts of KY/TN. Midlevel lapse rates are weak, but low-level lapse rates have steepened as temperatures have warmed into the 90s F. Deep-layer flow is also weak, but unidirectional westerly 10-20 kt flow in the lowest 3 km could support a few loosely organized east-southeastward moving cells/clusters capable of isolated damaging wind through the remainder of the afternoon."
+    },
+    {
+      "year": 2025,
+      "number": 1436,
+      "issue_utc": "2025-06-25T18:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1436.html",
+      "summary": "Scattered thunderstorm development is increasingly probable through 3-5 PM CDT, including a few evolving supercell structures with potential to produce tornadoes.",
+      "discussion": "Near the southern periphery of a dissipating convective precipitation shield, strengthening differential surface heating appears likely to contribute to a better-defined warm frontal zone across southern Minnesota into adjacent portions of Wisconsin, near/south of the Redwood Falls, Rochester into La Crosse vicinities. In the presence of seasonably high boundary-layer moisture content, including surface dew points around or above 70 F, it appears that increasing insolation will contribute to rapid destabilization. Although lapse rates are generally rather modest on the northwestern periphery of prominent mid-level ridging still centered across the Tennessee Valley, forecast soundings suggest that warming, but moist relatively-saturated, boundary-layer parcels will become characterized by CAPE increasing in excess of 1500 J/kg. It appears that this destabilization will coincide with enlarging, clockwise curved low-level hodographs, beneath a strengthening southwesterly 850 mb jet (20-30 kt), which is forecast to nose northeastward out of northwestern Iowa during the next few hours. Decreasing mid/upper-level inhibition with the low-level warming is expected to lead to deepening convective development and the initiation of scattered thunderstorm activity through 20-22Z, in an environment increasingly conducive to the evolution of low-level mesocyclones. Aided by low-level stretching supported by the high-boundary-layer moisture content/near-surface CAPE, a few of these may occasionally intensify and become capable of producing tornadoes."
+    },
+    {
+      "year": 2025,
+      "number": 1437,
+      "issue_utc": "2025-06-25T19:16Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1437.html",
+      "summary": "A corridor of increasing thunderstorm development, including gradually organizing clusters with increasing potential for strong to severe surface gusts, through 4-6 PM CDT.",
+      "discussion": "In the wake of one low-amplitude short-wavelength perturbation migrating through the Upper Midwest toward adjacent Great Lakes vicinity, a similar strength perturbation is gradually migrating north-northeastward through the central high plains, around the northwestern periphery of the prominent mid-level ridge centered over the Tennessee Valley. Downstream of this feature, forcing for ascent has maintained an arcing band of precipitation across Nebraska, which is preceded by a seasonably high moisture content boundary-layer that is destabilizing beneath relatively warm and dry layers aloft associated with the ridging. Within the strengthening zone of differential surface heating to the east of the precipitation band, mixed-layer CAPE is beginning to increase in excess of 2000 J/kg, beneath a modest belt of southwesterly mid-level flow which includes speeds of 30-40 kt in the 700-500 mb layer. Although mid/upper-level lapse rates are weak, as low-level lapse rates continue to steepen and inhibition erodes further, a corridor of increasing thunderstorm development appears probable across Nebraska, from the Lexington NE toward Sioux City IA vicinity, through 21-23Z. As this occurs, heavy precipitation loading and evaporative cooling in downdrafts may gradually contribute to downward momentum transfer accompanied by increasing potential for a few strong to severe severe gusts, in slowly organizing clusters."
+    },
+    {
+      "year": 2025,
+      "number": 1438,
+      "issue_utc": "2025-06-25T19:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1438.html",
+      "summary": "Additional storm development is possible through late afternoon, with a continued threat of damaging wind and isolated hail.",
+      "discussion": "Widely scattered storms are ongoing this afternoon across the FL Panhandle into southwest GA, with additional cumulus development noted northeast of the ongoing convection. Relatively steep lapse rates and cool temperatures aloft are supporting strong to extreme buoyancy, with MLCAPE generally in the 3000-4000 J/kg range. Deep-layer flow is rather weak, though modest midlevel northeasterlies on the periphery of an upper ridge will support 20-25 kt of effective shear through the afternoon, which may support modest storm organization given the very favorable instability. Potential will continue this afternoon for southwestward moving clusters capable of damaging downburst/outflow winds and isolated hail. There is some potential for loosely organized outflow-driven clusters to develop, which could produce more concentrated areas of wind damage, though this scenario remains somewhat uncertain. Uncertainty regarding severe coverage renders the need for short-term watch issuance uncertain, but trends will be monitored for an uptick in coverage through the remainder of the afternoon."
+    },
+    {
+      "year": 2025,
+      "number": 1439,
+      "issue_utc": "2025-06-25T20:40Z",
+      "topic": "Severe Thunderstorm Watch 459",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1439.html",
+      "summary": "The damaging wind threat may gradually increase into the early evening. Isolated hail also remains possible.",
+      "discussion": "Extensive convection is ongoing late this afternoon across parts of eastern NC, with additional storms in western NC, and developing cumulus into parts of SC and east-central/northeast GA. Additional storm development is possible into early evening, within a very unstable (MLCAPE of 3000-4000 J/kg) environment. Generally weak deep-layer shear continue to hamper storm organization, but the strong instability and steep midlevel lapse rates will continue to support vigorous updrafts. Outflow is gradually expanding across eastern NC, and there may be some tendency for a loosely organized storm cluster to propagate south/southwestward with time, as outflow impinges upon a hot and very moist environment. A similar evolution could take place with ongoing storms across western NC. This could lead to more concentrated areas of damaging wind with time. The strongest updrafts will also continue to be capable of producing isolated hail. ..Dean.. 06/25/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 1440,
+      "issue_utc": "2025-06-25T21:21Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1440.html",
+      "summary": "A few instances of severe hail or wind may accompany the stronger multicell or supercell structures over the next several hours. However, the overall severe threat should remain isolated.",
+      "discussion": "Multiple multicells and supercells have developed and intensified over the last few hours given the combination of low-level upslope flow and diurnal heating. Surface temperatures are in the 70s F amid 50 F surface dewpoints over the higher terrain, to low 60s F dewpoints farther to the east into western SD. This moisture, overspread by 7-8 C/km mid-level lapse rates, yields 1000-1500 J/kg MLCAPE amid 40 kts of effective bulk shear. Hodographs, evident via 21Z mesoanalysis, are mainly straight and elongated, suggesting that multicells and splitting supercells should remain the primary modes of convection. Severe wind and hail will be the main convective hazards, though the overall modest buoyancy/shear parameter space and forcing for ascent suggests that the severe threat should be isolated."
+    },
+    {
+      "year": 2025,
+      "number": 1441,
+      "issue_utc": "2025-06-25T21:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1441.html",
+      "summary": "An uptick in severe coverage may occur over the next few hours, especially if storms can merge into one or more MCSs. Severe wind and is the main severe threat, though a couple instances of severe hail may also occur. Convective trends are being monitored for the need of a Severe Thunderstorm Watch.",
+      "discussion": "Multiple multicells and short line segments have developed over the past few hours amid low-level upslope flow. Though considerable cloud cover precedes these storms, 7-8 C/km mid-level lapse rates over the Rockies are gradually overspreading the central High Plains, atop 80s/60s F surface temperatures/dewpoints, yielding 1000-1500 J/kg MLCAPE. Modest southwesterly mid-level flow, beneath the right-entrance region of a 300 mb jet streak, is overspreading the central High Plains warm sector, contributing to elongated hodographs and 40+ kts of effective bulk shear. As such, multicells and transient supercells may continue over the next few hours with at least an isolated severe wind and hail threat. If storms can grow upscale into one or more MCSs, a relatively greater severe wind risk may materialize. As such, convective trends will be monitored for the need of a Severe Thunderstorm Watch issuance."
+    },
+    {
+      "year": 2025,
+      "number": 1442,
+      "issue_utc": "2025-06-25T22:00Z",
+      "topic": "Tornado Watch 461",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1442.html",
+      "summary": "A tornado and severe gust risk will continue with ongoing storms. The best chance for tornadoes will exist with low-topped supercells traversing a diffuse baroclinic boundary.",
+      "discussion": "Multiple low-topped supercells have developed and are traversing a diffuse west-to-east baroclinic boundary, where strong low-level shear is in place. The most recent ARX VAD shows a sizeable, curved hodograph and nearly 200 m2/s2 in the surface-500 m layer. As such, tornadoes and severe gusts remain a concern with the stronger storms, particularly with any low-topped supercells that continue to traverse the boundary, where maximum ingestion of streamwise vorticity may be realized. ..Squitieri.. 06/25/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 1443,
+      "issue_utc": "2025-06-25T22:19Z",
+      "topic": "Severe Thunderstorm Watch 459",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1443.html",
+      "summary": "The threat for damaging/severe winds is expected to increase over the next couple of hours across central South Carolina as thunderstorm clusters begin to merge within a very unstable environment.",
+      "discussion": "Two convective clusters have now become apparent over the Carolinas. The first, propagating south/southwest closer to the Carolina coast, appears to be well-balanced with new, deep updrafts developing along the leading edge of a consolidating cold pool. To the west, a secondary cluster is moving south off of the higher terrain and into deeper low-level moisture. Despite being outflow dominant, GOES 1-minute imagery shows robust convection erupting on the immediate cool side of the outflow boundary, hinting that this cluster may attain a more balanced updraft/downdraft convergence zone in the near future as additional cells develop along the leading edge of the cold pool. Both of these clusters are propagating into an environment characterized by MLCAPE values upwards of 3500 J/kg, and while some anvil shading is occurring immediately ahead of the clusters, the lack of widespread boundary-layer cumulus and dewpoints falling into the upper 60s across central SC suggests a dry, deeply mixing environment is downstream of both clusters. These low-level thermodynamic conditions should be very favorable for downdraft accelerations and damaging to severe downburst winds. The severe threat may be maximized where the two clusters merge in the coming 1-2 hours, and potentially along a subtle low-level confluence zone draped across the state. ..Moore.. 06/25/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 1444,
+      "issue_utc": "2025-06-25T22:24Z",
+      "topic": "Severe Thunderstorm Watch 460",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1444.html",
+      "summary": "Strong thunderstorms will persist with a severe gust threat over the next few hours, and a couple instances of severe hail cannot be ruled out.",
+      "discussion": "Several strong thunderstorms continue to consolidate along a frontal boundary over NE into IA. While merging their cold pools, several of these storms have become outflow dominant, given that the stronger (i.e. 40 kts) effective bulk shear is lagging in the post-frontal boundary airmass. Storms should remain loosely organized along the frontal boundary, where 2500 J/kg MLCAPE will support a continued risk for some severe gusts and perhaps a couple instances of hail over the next few hours. ..Squitieri.. 06/25/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 1445,
+      "issue_utc": "2025-06-25T22:51Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1445.html",
+      "summary": "A few strong storms may mature along a warm front, accompanied by damaging wind gusts and perhaps an isolated tornado.",
+      "discussion": "Small supercell structures have recently developed along a warm front across southern Wisconsin, where 1000-2000 J/kg MLCAPE is in place. The latest MKX VAD data shows a modestly curved low-level hodograph and over 400 m2/s2 of 0-3km SRH, which suggests that any supercell that can remain sustained will have a fair chance at producing a tornado. Convective trends will be monitored for the need of a watch issuance."
+    },
+    {
+      "year": 2025,
+      "number": 1446,
+      "issue_utc": "2025-06-25T23:38Z",
+      "topic": "Tornado Watch 461",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1446.html",
+      "summary": "A couple of additional tornadoes are possible with supercells along a warm front over southwestern WI over the next few hours.",
+      "discussion": "A pair of supercells with a history of tornadoes continues to traverse a warm front, along the MN/WI border. Surface temperatures/dewpoints in the upper 80s/mid 70s F is contributing to 1500-2000 J/kg MLCAPE on the immediate side of the warm front. Latest KARX NEXRAD data shows that the ongoing supercells may be crossing to the immediate cool side of the front. Furthermore, the warm front becomes more south-southeasterly with eastward extent, suggesting that storms moving east to east-northeast will have more of a crosswise component of vorticity to ingest, which may lessen tornado potential to a degree. Nonetheless, Regional VADs across southern WI continue to show strong low-level shear via sizeable/curved low-level hodographs. As such, a couple of additional tornadoes remain possible with any storms that manage to anchor along the warm front over the next few hours. ..Squitieri.. 06/25/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 1447,
+      "issue_utc": "2025-06-26T00:07Z",
+      "topic": "Severe Thunderstorm Watch 459",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1447.html",
+      "summary": "An loosely organized MCS will continue to pose a damaging wind threat for the next several hours into southern South Carolina and far eastern Georgia.",
+      "discussion": "Regional radar imagery has shown an uptick in convection as two clusters begin to merge across central SC. The confluence/merging zone of the two outflow boundaries will locally enhance low-level ascent, and will likely result in a corridor of very strong convection over the next hour or so. Correspondingly, there will likely be a downstream corridor where severe/damaging wind gusts and/or surging outflow will be more likely owing to enhanced water-loading from the stronger convection. Away from this corridor, damaging wind gusts will remain likely as the cold-pool driven MCS continues to propagate to the south/southwest. Assessment of latest surface observations and high-res guidance suggests that the MCS will likely propagate along and east of a weak surface confluence zone/buoyancy gradient into eastern GA over the next 2-3 hours. ..Moore.. 06/26/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 1448,
+      "issue_utc": "2025-06-26T01:21Z",
+      "topic": "Severe Thunderstorm Watch 459",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1448.html",
+      "summary": "A loosely organized MCS will migrate southeast into southeast and southern Georgia through the evening hours. Downstream watch issuance is likely.",
+      "discussion": "An outflow-dominant MCS continues to push south/southeast across southern SC. Although most measured wind gusts have been in the 40-55 mph range, a few severe gusts have been noted along with multiple reports of wind damage. Additionally, new convective cores continue to develop immediately behind the outflow boundary and are supporting swaths of stronger winds within the line. Downstream of the MCS, surface temperatures are falling with the onset of nocturnal cooling, but rich low-level moisture (dewpoints in the low to mid 70s) will likely modulate the influence of low-level stabilization to some degree. Additionally, a reservoir of around 3000-4000 J/kg MLCAPE remains downstream across southern GA that has been relatively untouched by afternoon convection. The expectation is that the MCS will likely continue to propagate southwestward into this reservoir along a weak confluence axis and/or along a sea-breeze boundary moving inland from the coast. Damaging gusts with a few severe wind swaths will remain the primary hazard. Some uncertainty regarding the longevity of this threat remains given the surging outflow and increasing MLCIN heading later into the overnight hours, but downstream watch issuance is likely if the MCS can maintain intensity over the next hour or so as it nears the edge of WW 459. ..Moore.. 06/26/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 1449,
+      "issue_utc": "2025-06-26T03:12Z",
+      "topic": "Severe Thunderstorm Watch 459",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1449.html",
+      "summary": "A convective line will continue to push into eastern Georgia with a damaging wind and severe hail threat for the next few hours.",
+      "discussion": "A loosely organized MCS continues to push southwest into eastern GA with a recent history of producing 40-50 mph winds and swaths of wind damage. Additionally, a few severe hail reports have been noted with some of the deeper cores. However, the MCS remains outflow dominant, and GOES IR imagery over the past 2 hours shows slowly warming cloud-top temperatures, indicative of a gradual weakening trend. In general, the MCS should continue to slowly weaken over the next several hours as MLCIN slowly increases via continued nocturnal cooling. In the short term (next 1-2 hours), stronger embedded cells within the line will remain possible, as evidence by recent echo tops briefly reaching up to 50 kft, and transient, but intense, updrafts developing downstream across southern GA. These short-term trends suggests that the near-storm/downstream environment will continue to support deep convection. As such, the expectation is for a continuation of the MCS with embedded swaths of stronger winds and sporadic large hail associated with the development (and collapse) of deeper updrafts embedded within the line. ..Moore.. 06/26/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 1450,
+      "issue_utc": "2025-06-26T03:44Z",
+      "topic": "Severe Thunderstorm Watch 462",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1450.html",
+      "summary": "Outflow boundaries pushing into an unstable environment will promote an increase in thunderstorm coverage over the next few hours. Transient, but strong thunderstorms will support damaging downburst winds and isolated large hail.",
+      "discussion": "Thunderstorm coverage continues to slowly increase across central GA as two outflow boundaries - one associated with an MCS moving across eastern GA, and another pushing north out of a convective cluster originating in the FL Panhandle/southwest GA - continue to push into a very unstable air mass. Based on the 00 UTC FFC sounding, mid-level lapse rates on the order of 7.5 C/km reside over the region, and little in the way of convective overturning has occurred thus far. Based on surface observations, nocturnal cooling has resulted in a relatively shallow stable layer near the surface, but the depth/intensity of the outflows will continue to be sufficient to lift surface-based parcels to their LFCs. As such, additional thunderstorm development is anticipated across central GA. Weak deep layer shear is promoting transient cells/clusters with the potential for damaging downbursts and perhaps sporadic large hail. The severe threat will be locally maximized where the two outflow boundaries converge, which based on recent storm tracks, will likely occur in the vicinity of the I-75 corridor in the coming hours. ..Moore.. 06/26/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 1451,
+      "issue_utc": "2025-06-26T05:53Z",
+      "topic": "Severe Thunderstorm Watch 462",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md1451.html",
+      "summary": "Strong/damaging gusts remain possible, particularly where temperatures have remained in the upper 70s/low 80s F.",
+      "discussion": "Two clusters of thunderstorms continue southwestward tonight. The most organized linear segment is moving into southern Georgia. While diurnal cooling will occur, the very moist airmass will slow this process. The potential for strong surface gusts will be maximized with the convection moving into south-central Georgia as temperatures are still in the mid 70s to around 80 F. Farther northwest, cooler temperatures are in place as convection had impacted those areas earlier this evening. The general expectation is for convection to gradually weaken over time. Occasional strong/damaging gusts will remain possible, however. ..Wendt.. 06/26/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

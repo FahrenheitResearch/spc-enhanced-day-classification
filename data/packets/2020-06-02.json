@@ -1,0 +1,228 @@
+{
+  "convective_day": "2020-06-02",
+  "valid_start": "2020-06-02T12:00Z",
+  "valid_end": "2020-06-03T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 5
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-06-02",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-06-02T12:00Z",
+      "valid_end": "2020-06-03T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200602_1200.html",
+      "summary": "Severe thunderstorms are expected later today from the middle Missouri and upper Mississippi Valleys into the Great Lakes. Damaging wind gusts, large hail and a couple of tornadoes are possible, with the greatest threat expected from southern Minnesota/northern Iowa into central Wisconsin.",
+      "sections": [
+        {
+          "title": "Middle MO Valley to Upper Great Lakes",
+          "text": "Early-morning water-vapor imagery depicts a strong short-wave trough along the AB/SK border, extending into western MT. Southern extent of this feature is forecast to move across the Dakotas later today which will flatten the northern Plains ridge, then advance into the upper Great Lakes tonight. In response, synoptic front is forecast to move across northwestern WI - into southern MN - southeastern SD by 18z, then drape itself from central WI - MN/IA border - central NE by early evening. Latest model guidance strongly suggests surface-based parcels will remain capped through 22z but convection could begin to develop along the cool side of the front a few hours earlier where short-wave forcing is more notable. Latest CAMs suggest isolated elevated thunderstorms could initiate over eastern SD by early afternoon, then spread/develop east along/near the frontal zone into southern MN. A corridor of strong instability is expected across this region into central WI and there is increasing confidence that early-afternoon convection will eventually take advantage of this downstream buoyancy and ingest moist/unstable boundary-layer inflow. If so, robust convective updrafts are likely with a"
+        },
+        {
+          "title": "Eastern WY",
+          "text": "Surface front is forecast to settle south across the High Plains of eastern WY with northeasterly upslope flow expected to develop by late afternoon. Boundary-layer heating and orographic forcing suggest isolated supercells may develop along the southern fringe of modest westerly mid-level flow. This activity should spread southeast toward the NE Panhandle during the evening. ..Darrow/Lyons.. 06/02/2020"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-06-02",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-06-02T13:00Z",
+      "valid_end": "2020-06-03T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200602_1300.html",
+      "summary": "Severe thunderstorms are expected from the Middle Missouri and Upper Mississippi Valleys to the Great Lakes. Damaging wind gusts, large hail and a tornado or two are possible, with the greatest threat expected from southern Minnesota/northern Iowa to central/southern Wisconsin.",
+      "sections": [
+        {
+          "title": "Upper Midwest from South Dakota/Minnesota to Lower Michigan",
+          "text": "An initial concern will be the possibility of isolated severe hail early today from ongoing elevated storms along the North Dakota/South Dakota border vicinity. Hail aside, if storms persist into late morning/early afternoon, some stronger wind potential could also materialize across far southeast North Dakota/northeast South Dakota into west-central/southwest Minnesota given a relatively dry sub-cloud layer within the post-frontal environment (reference 12Z observed Aberdeen SD sounding). For additional short-term details, see Mesoscale Discussion 780. To the southeast of this early day storms, of greater concern will the potential for deep convective development across southern Minnesota and possibly far southeast South Dakota by around 3-5 pm CDT. A very unstable air mass (3500-4500 J/kg MLCAPE) is expected across the region in vicinity of a surface front that will extend from near the southeast South Dakota/northeast Nebraska border east-northeastward across southern Minnesota and south-central Wisconsin at mid-afternoon. This development will be influenced by a progressive low-amplitude shortwave trough/speed max along the International Border toward Lake Superior vicinity. De"
+        },
+        {
+          "title": "North-central/eastern Wyoming",
+          "text": "A front will settle south across the High Plains of interior/eastern Wyoming with northeasterly low-level upslope flow expected to develop by late afternoon/early evening. Boundary-layer heating and orographic forcing suggest isolated supercells may develop along the southern fringe of modest westerly mid-level flow. Isolated large hail should be the primary hazard, but some severe-caliber wind gusts could occur. This activity should spread east-southeastward toward the Black Hills/northwest Nebraska Panhandle during the evening/late night hours."
+        },
+        {
+          "title": "New York/Pennsylvania",
+          "text": "Warm/moist advection focused to the east of a warm front will support scattered showers and possibly a thunderstorm or two early today, although this activity should tend to wane during the morning as a passing subtle mid-level impulse shifts away from the region. The region will otherwise be dry/capped much of the afternoon, although strong/severe thunderstorms could develop into the region late this evening into the overnight. Storms may develop southeastward late tonight out of Ontario in vicinity of the warm front/nearby warm sector, including parts of western New York and northwest/north-central Pennsylvania. Although nocturnal influences may keep storms slightly elevated, strong deep-layer/low-level shear could support supercells with a hail/wind and non-zero tornado risk. There is the also the possibility that storm clusters emanating from the Upper Midwest/southern Lake Michigan vicinity will move into the region late tonight/early Wednesday with some wind-related risk. This region will be reevaluated throughout the day for a possible categorical Slight Risk upgrade. ..Guyer/Gleason.. 06/02/2020"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-06-02",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-06-02T16:30Z",
+      "valid_end": "2020-06-03T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200602_1630.html",
+      "summary": "Severe thunderstorms are most likely across parts of the Upper Midwest centered on southern portions of Minnesota and Wisconsin beginning after 4 PM CDT, eventually spreading into at least Lower Michigan overnight. Damaging to destructive winds and large hail will be the primary hazards.",
+      "sections": [
+        {
+          "title": "Upper Midwest",
+          "text": "Primary changes are to add a significant severe wind area within a portion of the category 3/Enhanced risk for the potential of wind speed damage estimates exceeding 75 mph and to expand category 3 severe risk into west-central Lower MI. Convective initiation is expected by late afternoon as low-level convergence strengthens along a surface front extending southwest and east-northeast of a cyclone expected to be over southeast SD. The NAM appears overdone with mean mixing ratios and resultant progs of extreme buoyancy given 12Z observed soundings and GOES PW imagery. RAP/ARW-SREF guidance and 16Z surface obs suggest a hot and well-mixed boundary layer will instead be prevalent. A plume of MLCAPE from 2500-3500 J/kg is anticipated by peak heating. With a low-amplitude shortwave trough moving east-southeast from Manitoba across northern Ontario, the peripheral belt of moderate mid-level westerlies will largely remain north of the MN/IA to WI/IL border area. Thus, the most likely corridor for a few initial supercells should be confined to southern MN with some risk for very large hail. Upscale growth into outflow-dominated clusters appears probable, increasing the potential for severe"
+        },
+        {
+          "title": "Lower Great Lakes",
+          "text": "Primary change is to expand category 2/Slight risk for the potential of a few supercells this evening and a separate MCS approaching the region near the end of the period. Strengthening low-level warm/moist advection tied to a shortwave impulse moving southeast from northeast to far eastern Ontario should yield convection spreading east of the Lower Great Lakes after 00Z. While the NAM appears overdone with the degree of boundary-layer moistening, RAP soundings suggest convection will be rooted from parcels around 850 mb above a nocturnal near-surface inversion. Hodographs will be quite elongated given low-level westerlies veering to northwesterly with height amid strong speed shear. This setup should foster a risk for a few supercells with severe hail probably being the primary threat centered on western NY into northern PA. In addition, the propagation of the MCS from Lower MI might reach the region towards 12Z with a risk for strong gusts and locally damaging winds. ...East-central WY to the western NE Panhandle. A front will settle south across the High Plains of interior/eastern WY with northeasterly low-level upslope flow expected to develop by late afternoon/early evening. B"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-06-02",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-06-02T20:00Z",
+      "valid_end": "2020-06-03T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200602_2000.html",
+      "summary": "Severe thunderstorms are most likely across parts of the Upper Midwest, centered on southern portions of Minnesota and Wisconsin by early this evening, eventually spreading into at least Lower Michigan overnight. Damaging winds and large hail will be the primary hazards.",
+      "sections": [
+        {
+          "title": "20Z Outlook Update",
+          "text": "Changes to the outlook mostly concern adjustments to the categorical (10 percent) thunderstorm line across the southern tier of the United States. East of the Rockies, lower/mid tropospheric ridging remains prominent across much of the Gulf Coast states, with appreciable risk for weak thunderstorm activity generally confined to pockets of modest boundary-layer destabilization and weak large-scale forcing for ascent. Otherwise, across the Upper Midwest, insolation and low-level moistening are contributing to large CAPE beneath a plume of warm and capping elevated-mixed layer air. Boundary-layer destabilization appears focused along and south of a front enhanced by overnight convection, now extending across the upper peninsula of Michigan through north central Wisconsin and southern Minnesota. While this front may still be advancing southeastward across Michigan and northeastern Wisconsin, it has become quasi-stationary across southern Minnesota, where it could become a focus for intense convective development late this afternoon or early evening. It now appears that this could mostly take place after 00Z, as the leading edge of mid-level cooling (supporting vigorous ongoing convecti"
+        },
+        {
+          "title": "Upper Midwest",
+          "text": "Primary changes are to add a significant severe wind area within a portion of the category 3/Enhanced risk for the potential of wind speed damage estimates exceeding 75 mph and to expand category 3 severe risk into west-central Lower MI. Convective initiation is expected by late afternoon as low-level convergence strengthens along a surface front extending southwest and east-northeast of a cyclone expected to be over southeast SD. The NAM appears overdone with mean mixing ratios and resultant progs of extreme buoyancy given 12Z observed soundings and GOES PW imagery. RAP/ARW-SREF guidance and 16Z surface obs suggest a hot and well-mixed boundary layer will instead be prevalent. A plume of MLCAPE from 2500-3500 J/kg is anticipated by peak heating. With a low-amplitude shortwave trough moving east-southeast from Manitoba across northern Ontario, the peripheral belt of moderate mid-level westerlies will largely remain north of the MN/IA to WI/IL border area. Thus, the most likely corridor for a few initial supercells should be confined to southern MN with some risk for very large hail. Upscale growth into outflow-dominated clusters appears probable, increasing the potential for severe"
+        },
+        {
+          "title": "Lower Great Lakes",
+          "text": "Primary change is to expand category 2/Slight risk for the potential of a few supercells this evening and a separate MCS approaching the region near the end of the period. Strengthening low-level warm/moist advection tied to a shortwave impulse moving southeast from northeast to far eastern Ontario should yield convection spreading east of the Lower Great Lakes after 00Z. While the NAM appears overdone with the degree of boundary-layer moistening, RAP soundings suggest convection will be rooted from parcels around 850 mb above a nocturnal near-surface inversion. Hodographs will be quite elongated given low-level westerlies veering to northwesterly with height amid strong speed shear. This setup should foster a risk for a few supercells with severe hail probably being the primary threat centered on western NY into northern PA. In addition, the propagation of the MCS from Lower MI might reach the region towards 12Z with a risk for strong gusts and locally damaging winds. ...East-central WY to the western NE Panhandle. A front will settle south across the High Plains of interior/eastern WY with northeasterly low-level upslope flow expected to develop by late afternoon/early evening. B"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-06-03",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-06-03T01:00Z",
+      "valid_end": "2020-06-03T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200603_0100.html",
+      "summary": "Severe thunderstorms are most likely across parts of the Upper Midwest, centered on southern portions of Minnesota and Wisconsin by early this evening, eventually spreading into at least Lower Michigan overnight. Damaging winds and large hail will be the primary hazards.",
+      "sections": [
+        {
+          "title": "Great Lakes Vicinity",
+          "text": "Severe probabilities have been trimmed and are inline with line of severe line of convection from parts of northern IA/far southeast MN eastward across central WI. There have been many reports in the last 60-90 minutes of measured wind speeds from 60-75 mph all along this line of storms. Intense winds could continue for a few more hours as convection continues to shift east/southeast this evening. While large hail was reported earlier during the late afternoon, most recent reports have been marginal. Thus, the 30% SIG hail has been removed. Severe storms should continue into tonight across parts of central lower MI."
+        },
+        {
+          "title": "OH/PA/NY",
+          "text": "Storms are currently developing over Ontario and should progress southeastward through tonight, emerging over portions of western NY and possibly northwestern PA/northeast OH after 03z. This convection will mainly be capable of locally damaging gusts and hail."
+        },
+        {
+          "title": "Eastern WY...Northeast CO...NE Panhandle and Southwest SD",
+          "text": "Storms continue to move off of higher terrain this evening. These storms will mainly be capable of hail and locally strong gusts. The Marginal and Slight risk area was trimmed some across central WY to account for latest trends in observational data and CAMs. For more details reference MCD 786. ..Leitman.. 06/03/2020"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 780,
+      "issue_utc": "2020-06-02T12:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0780.html",
+      "summary": "Ongoing storms may pose an isolated large hail and wind threat as they move eastward this morning. A watch will probably not be needed, but trends will be closely monitored.",
+      "discussion": "Ongoing storms across far south-central ND should continue eastward in tandem with a shortwave trough over the northern Plains and central Canada. Steep mid-level lapse rates were observed on the 12Z ABR sounding, along with around 40 kt of effective bulk shear. An elevated instability gradient exists roughly parallel to the ND/SD border and into west-central MN. These storms may persist for the next couple of hours as they move along this gradient. 500-1500 J/kg of MLCAPE coupled with sufficient shear for continued supercell structures suggests that storms may not weaken as quickly as most recent short-term convection-allowing model guidance would suggest. An isolated large hail threat continues in the near term with the lead supercell in south-central ND. Even though locations downstream of this storm are to the north of a weak surface front, clear skies should allow for diurnal heating and some steepening of low-level lapse rates over the next couple of hours. Strong to perhaps occasional severe/damaging winds may occur if this convection can become surface based. At this point, it remains unclear if the overall coverage of storms will increase enough to warrant watch issuance. Observational trends will continue to be closely monitored."
+    },
+    {
+      "year": 2020,
+      "number": 781,
+      "issue_utc": "2020-06-02T18:27Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0781.html",
+      "summary": "Thunderstorms capable of isolated hail will continue across central MN for the next few hours.",
+      "discussion": "Storm cluster that was decaying/weakening as it moved into central MN early this morning has recently shown a strengthening trend as new storms develop along its southwestern flank. This re-strengthening may be a result of increasingly buoyant air being advected northward over the cold front into the vicinity of the storm cluster. Given the overall progression of this cluster, the potential for storms in far northeast SD remains low, with the higher probability for thunderstorms across west-central into southwest MN. Several storms within the cluster have shown mid-level rotation, although persistence of this rotation has been somewhat transient. Destabilizing air mass downstream suggests that thunderstorms will likely persist across west-central/central MN for at least the next hour or two. Vertical shear will remain modest (i.e. 0-6 km bulk shear around 30 kt) but still strong enough when coupled with the steep mid-level lapse rates (9 deg C per km on the 18Z MPX sounding) to support occasional updraft rotation with an attendant threat for isolated hail."
+    },
+    {
+      "year": 2020,
+      "number": 782,
+      "issue_utc": "2020-06-02T20:23Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0782.html",
+      "summary": "Thunderstorm development is possible in the next 1-3 hours across central Wyoming. Any storms that do develop will pose an isolated wind and hail threat. A severe thunderstorm watch is possible if warranted by storm coverage.",
+      "discussion": "Recent visible satellite trends have shown gradual vertical development of cumulus developing off of the higher terrain of western WY. A few lightning strikes have been noted in the past hour that suggest that attempts at convective initiation have been made, but radar imagery from KRIW shows no sustained convection. Despite sufficient MUCAPE, convective initiation failure so far is likely attributed to lingering mixed-layer inhibition. These trends suggest that sustained convection should hold off for at least another hour. Sustained convection will become more likely heading towards 00 UTC due to the approach of a trailing trough axis associated with a passing upper-level shortwave across Canada. Although confidence remains somewhat low on the coverage of storms, any storm that can move into eastern WY will move into a more favorable environment with 40-50 knots of effective bulk shear and increasing instability with eastward extent. This will support an isolated hail and wind threat with any storm that can make it into the eastern environment. A severe thunderstorm watch is possible later this evening if the coverage of convection is sufficient."
+    },
+    {
+      "year": 2020,
+      "number": 783,
+      "issue_utc": "2020-06-02T20:52Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0783.html",
+      "summary": "Thunderstorm coverage is expected to gradually increase over the next few hours with the potential for hail and damaging wind gusts. Severe thunderstorm watch is likely, especially along MN/IA border vicinity into west-central WI.",
+      "discussion": "A cluster of thunderstorms continues to move across central MN. Recent radar imagery has shown increased southward/southeastward motion with this eastern part of this cluster as well as a surface-wind direction change as the leading edge moved through. The cluster has struggled to organize thus far but there is still enough vertical shear for occasional updraft rotation robust enough for hail. Air mass downstream continues to destabilize with temperatures across southern MN in the 90s and dewpoints in the low to mid 60s. Slightly cooler temperatures and dewpoints exist farther northeast into west-central WI and farther southwest in far southeast SD. Convective inhibition remains in place across all of these areas, but is gradually eroding. Agitated cumulus continues to develop along the wind-shift boundary, with convective initiation eventually expected to occur over the next hour or two. Steep lapse rates and resulting strong instability should result in robust storm development once convective initiation occurs. Initial development will pose a risk for severe hail with a trend towards damaging wind gusts as the storms become outflow-dominant. Potential exists for upscale growth, with the resulting system then tracking southeastward."
+    },
+    {
+      "year": 2020,
+      "number": 784,
+      "issue_utc": "2020-06-02T21:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0784.html",
+      "summary": "Recent visible satellite imagery shows updrafts deepening near a frontal zone across portions of Nebraska and Colorado. Moderate destabilization may support a few storms capable of severe hail and damaging winds through this afternoon and into the evening. Trends will be monitored, but storm coverage and intensity are not expected to be great enough to justify a watch at this time.",
+      "discussion": "A few deep updrafts have been noted between a quasi stationary front and a surface trough. Dewpoints in the upper 50s to low 60s F along and behind the front are contributing to moderate destabilization, with 2000-3500 J/kg of MLCAPE. Shear is forecast to remain relatively weak, at or about 25 kt, and mostly on the cooler side of the boundary. This suggests a few multicell storms capable of severe hail and strong downdraft winds may develop this afternoon/evening. Hi-res guidance suggests some clustering of stronger cells near the front this evening, but the lack of appreciable deep layer shear suggests that the threat and coverage of any severe weather may be relatively brief. A weather watch is not anticipated."
+    },
+    {
+      "year": 2020,
+      "number": 785,
+      "issue_utc": "2020-06-02T22:32Z",
+      "topic": "Severe Thunderstorm Watch 239",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0785.html",
+      "summary": "Damaging hail and wind is expected to spread east/southeast from southern Minnesota across northern Iowa, and into much of Wisconsin where an additional watch may be needed.",
+      "discussion": "Cells have become severe over southern MN near the wind shift, and approaching the surface pressure trough where temperatures are hot. The deeply mixed boundary-layer, substantial instability, and influence of the approaching shortwave trough support increasing storm trends this evening as they continue east/southeast into northern IA and western WI. Other storms north of the wind shift over northwest WI may eventually become better rooted in the boundary-layer as outflow deepens and supports propagation. Eventually, these storm systems may merge outflow boundaries. Central and southern WI is strongly unstable, and should support a continued severe threat as storms approach this evening. As such, an additional watch may be needed. ..Jewell.. 06/02/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 786,
+      "issue_utc": "2020-06-03T00:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0786.html",
+      "summary": "Storms forming along a stationary front may continue to pose a risk for severe hail and wind across portions of eastern Wyoming and northeast Colorado this evening. Uncertainty in the coverage and severity of storms suggests a watch is not needed.",
+      "discussion": "A recent uptick in convective intensity has been noted with storms across eastern Wyoming and northeastern Colorado. 00z surface analysis shows a stationary front draped across southeastern Wyoming and northern Colorado. Low-level upslope flow is occurring on the cool side of the boundary where dewpoints in the low to mid 50s F are supporting MLCAPE of 500-1500 J/kg. 30-45 kt of effective shear may support some storm organization in the form of multicell clusters and or a supercell this evening. Large hail will be the primary threat given steep mid-level lapse rates of 7.5-8.5 C/km. Some additional storm development is possible across the northern portions of the MD area near CPR to DGW. Visible satellite shows some cumulus towers deepening along the northern Laramie range. Hi-res guidance does support this scenario, with some SPC HREF members developing additional storms in the next hour or two. Should this occur, the primary threat will again be severe hail with the stronger storms. Given the uncertainty in storm coverage and limited longevity of the threat with the loss of daytime heating, a watch appears unlikely. However, trends will be monitored."
+    },
+    {
+      "year": 2020,
+      "number": 787,
+      "issue_utc": "2020-06-03T01:26Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0787.html",
+      "summary": "At least isolated strong to severe thunderstorms will be possible this evening as they develop out of southwest Ontario. Large hail appears to be the primary concern.",
+      "discussion": "A low-amplitude upper trough is currently interacting with an unstable air mass over southwest Ontario, also in a zone of low-level warm advection with 30-40 kt westerly 850 mb flow. The 00Z DTX sounding shows over 2300 J/kg MLCAPE, and veering/increasing winds with height favoring supercell potential. As the upper wave continues southeast across the area, hodographs will lengthen further, and there may be an uptick in instability due to the warm advection. Increasing storm coverage is possible, and a few could be severe producing large hail or isolated wind gusts. However, loss of heating will gradually stabilize the surface layer, and MLCIN will increase with time. Therefore, a brief window may exist for surface-based convection with better supercell potential, with a trend toward partially elevated storms."
+    },
+    {
+      "year": 2020,
+      "number": 788,
+      "issue_utc": "2020-06-03T02:28Z",
+      "topic": "Severe Thunderstorm Watch 240",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0788.html",
+      "summary": "Strong to severe storms producing damaging winds are possible extending into at least western Lower Michigan this evening.",
+      "discussion": "An organized line of storms over southeast Wisconsin will continue east over Lake Michigan, and will likely emerge intact over land. While shear is not particularly strong, 00Z soundings indicate sufficient instability to sustain these storms prior to MLCIN becoming too strong. As such, a watch may be needed for parts of Lower Michigan soon, mainly for localized damaging wind gusts. ..Jewell.. 06/03/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 789,
+      "issue_utc": "2020-06-03T05:56Z",
+      "topic": "Severe Thunderstorm Watch 241",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0789.html",
+      "summary": "Isolated strong/gusty wind threat may continue in the short term. Overall severe risk should continue to slowly diminish.",
+      "discussion": "Outflow has surged well ahead of a complex of storms across Lower MI early this morning, with storms showing less signs of organization/intensity than earlier. Although some instability is present downstream of this ongoing activity, convective inhibition remains quite strong. This suggests that any potential for strong/gusty downdraft winds should remain quite isolated, and the overall severe risk should continue to slowly diminish over the next couple of hours. Accordingly, downstream watch issuance into eastern Lower MI (to the east of ongoing Severe Thunderstorm Watch 241) is not expected. ..Gleason.. 06/03/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 790,
+      "issue_utc": "2020-06-03T09:12Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0790.html",
+      "summary": "Storms crossing Lake Erie may pose an isolated hail/wind risk for the next couple of hours. Still, watch issuance appears unlikely at this time.",
+      "discussion": "A compact mid-level jet over Lower MI early this morning has likely been convectively enhanced by prior storms, with recent VWPs from KDTX showing 50-60+ kt of westerly flow roughly in the 2-6 km layer. Once storms moving quickly eastward over Lake Erie and southern Ontario reach western NY and northwestern PA, they may encounter a marginally supportive thermodynamic environment. 09Z surface observations generally indicate temperatures remain in the mid 60s to low 70s, with dewpoints in the mid 50s to low 60s. Another storm is developing over northeastern OH along the lake shore as of 09Z. Strong shear associated with the mid-level jet should support storm organization, with both isolated hail and strong/gusty winds possible. The factors that may limit a greater severe risk in the short term include poor low-level lapse rates owing to a modest inversion, and weak instability with MLCAPE generally around 500-1000 J/kg. At this point, the expectation for fairly isolated storm coverage and the marginal thermodynamics suggest a watch will probably not be needed in the next couple of hours."
+    },
+    {
+      "year": 2020,
+      "number": 791,
+      "issue_utc": "2020-06-03T09:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0791.html",
+      "summary": "An isolated large hail and strong/gusty wind threat may persist for the next couple of hours. Watch issuance is unlikely.",
+      "discussion": "Storms have recently intensified along a weak front across parts of central/eastern IA. A weak surface low is present over central IA per recent mesoanalysis, with a feed of rich low-level moisture present along/south of the front. Steep mid-level lapse rates observed on the 00Z OAX sounding are still likely present over IA, which coupled with the low-level moisture are supporting generally 1000-2000 J/kg of MUCAPE. This instability gradually weakens towards the IA/IL border. Enhanced mid-level flow remains mostly displaced to the north of ongoing convection. Still, recent VWPs from KDMX show around 25-30 kt of westerly flow at mid levels, which should be sufficient to maintain some updraft intensity and organization. Isolated instances of large hail should be the main threat for the next couple of hours, with a few recent 1-1.5 inch MESH cores from MRMS. Occasional strong/gusty downdraft winds also cannot be ruled out given the amount of instability present. Current expectations are for the hail threat to remain rather isolated in the short term, with watch issuance unlikely."
+    }
+  ]
+}

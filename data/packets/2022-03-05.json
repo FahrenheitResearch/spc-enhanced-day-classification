@@ -1,0 +1,179 @@
+{
+  "convective_day": "2022-03-05",
+  "valid_start": "2022-03-05T12:00Z",
+  "valid_end": "2022-03-06T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2022-03-05",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-03-05T16:30Z",
+      "valid_end": "2022-03-06T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220305_1630.html",
+      "summary": "Severe thunderstorms are expected this afternoon through tonight across the lower Missouri Valley into southern portions of the Great Lakes region. Damaging wind gusts, a few tornadoes and large hail will be likely portions of Iowa and Missouri. Isolated damaging gusts and hail will also be possible later tonight toward the Great Lakes.",
+      "sections": [
+        {
+          "title": "Midwest/Lower Missouri Valley to Great Lakes",
+          "text": "A negatively tilted shortwave trough and attendant 70-80 kt H5 jet streak visible across the central High Plains on morning water vapor imagery are forecast to rapidly eject northeastward reaching the upper Midwest/Great Lakes over the next 12-16 hours. Strong dynamic lift associated with this trough/jet and a 40-50 kt low-level jet have advected modest (50-55 F) dewpoints across eastern KS, northern MO and far southern IA. As the trough continues northeastward during the day, a deepening surface cyclone will continue pulling moisture northward, toward a slowly advancing warm front stretching from the low northeastward into central IA. North of the warm front, a band of elevated convection is ongoing within the strong warm advection regime at the nose of the low-level jet. Modest buoyancy aloft may favor some potential for isolated severe hail trough the morning, before these storms move far enough north and eastward away from the jet and into more stable conditions. Behind the initial convection, strong dynamic lifting from the approaching trough and isolated cloud breaks should work to destabilize the boundary-layer ahead of a fast moving cold front/dryline near the low across no"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-03-05",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-03-05T20:00Z",
+      "valid_end": "2022-03-06T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220305_2000.html",
+      "summary": "Severe thunderstorms are expected this afternoon through tonight across the lower Missouri Valley into southern portions of the Great Lakes region. A few tornadoes, damaging winds, and large hail will be likely in portions of Iowa and northern Missouri. Isolated damaging gusts will be possible through tonight toward the Great Lakes.",
+      "sections": [
+        {
+          "title": "Midwest/Lower MO Valley to Great Lakes",
+          "text": "Previous forecast reasoning remains largely on-track with somewhat greater confidence in the number of discrete supercells developing along and just east of the MO River into southern IA and northern MO. Increasingly agitated CU/CB development is ongoing near the surface cyclone across southeast NE and northeast KS with around 100 miles of clearing immediately east. Further destabilization through boundary-layer heating and cooling mid-level temperatures will support a narrow corridor of MLCAPE reaching 1000 J/kg. Despite boundary-layer dew points only in the mid to locally upper 50s, low to mid-level lapse rates greater than 8 C/km and enlarging low-level hodographs suggests a few tornadoes appear likely. See MCD 194 for additional near-term discussion. Only other change is to expand lower tornado probabilities eastward across northern IL to southern Lower MI. Environment should remain favorable for a conditional tornado threat in addition to damaging winds, although the bulk of CAMs still suggest convection should nocturnally weaken later this evening. ..Grams.. 03/05/2022 .PREV DISCUSSION... /ISSUED 1029 AM CST Sat Mar 05 2022/"
+        },
+        {
+          "title": "Midwest/Lower Missouri Valley to Great Lakes",
+          "text": "A negatively tilted shortwave trough and attendant 70-80 kt H5 jet streak visible across the central High Plains on morning water vapor imagery are forecast to rapidly eject northeastward reaching the upper Midwest/Great Lakes over the next 12-16 hours. Strong dynamic lift associated with this trough/jet and a 40-50 kt low-level jet have advected modest (50-55 F) dewpoints across eastern KS, northern MO and far southern IA. As the trough continues northeastward during the day, a deepening surface cyclone will continue pulling moisture northward, toward a slowly advancing warm front stretching from the low northeastward into central IA. North of the warm front, a band of elevated convection is ongoing within the strong warm advection regime at the nose of the low-level jet. Modest buoyancy aloft may favor some potential for isolated severe hail trough the morning, before these storms move far enough north and eastward away from the jet and into more stable conditions. Behind the initial convection, strong dynamic lifting from the approaching trough and isolated cloud breaks should work to destabilize the boundary-layer ahead of a fast moving cold front/dryline near the low across no"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-03-06",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-03-06T01:00Z",
+      "valid_end": "2022-03-06T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220306_0100.html",
+      "summary": "An organizing cluster of thunderstorms is expected to pose increasing potential to produce damaging wind gusts across parts of eastern Iowa and northeastern Missouri into northern Illinois and southern Wisconsin this evening, and perhaps continue eastward into southern portions of the Great Lakes region overnight.",
+      "sections": [
+        {
+          "title": "01Z Outlook Update",
+          "text": "Thunderstorm activity appears in the process of consolidating into at least a broken squall line, extending from near/northeast of the deepening cyclone center over central Iowa, southward ahead of the trailing cold front. This appears focused near the leading edge of the -20 to -24C 500 mb cold core of the short wave trough accelerating east-northeastward toward the Great Lakes region tonight. As the surface cyclone center migrates northeastward toward the Upper Great Lakes vicinity, models continue to indicate considerable intensification of cyclonic, west-southwesterly mid-level flow from the Iowa/Missouri border vicinity through northern Illinois this evening, into Lower Michigan overnight. This is forecast to include speeds increasing up to 70-90+ kt centered around the 700 mb level. Despite the loss of daytime heating, steepening low-level lapse rates beneath the mid-level cooling and modest boundary-layer moisture ahead of the evolving squall line seem likely to maintain vigorous convection at least into and through much of northern Illinois and southern Wisconsin by 04-06Z. Aided by the intensifying mid-level environmental flow to the rear of the evolving cluster, convectio"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2022,
+      "number": 194,
+      "issue_utc": "2022-03-05T19:20Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0194.html",
+      "summary": "Storms are expected to gradually increase in coverage and intensity this afternoon. A few tornadoes, damaging winds, and large hail all appear possible. Watch issuance is likely in the next couple of hours.",
+      "discussion": "An area of precipitation with embedded storms is ongoing early this afternoon across parts of western/central IA and vicinity. This activity is being aided by strong low-level warm and moist advection occurring with a 40-50+ kt south-southwesterly low-level jet. As pronounced ascent associated with a shortwave trough ejecting across the central Plains overspreads the warm sector across IA and northern MO, additional convection is forecast to develop over the next couple of hours. The airmass across this region is gradually destabilizing, with surface temperatures generally in the mid 50s to upper 60s, and dewpoints in the low to mid 50s. Around 500-1000 J/kg of MLCAPE may ultimately develop as modest diurnal heating through cloud breaks occurs, as mid-level temperatures are expected to rapidly cool with the approach of the shortwave trough. Deep-layer shear of 50+ kt will favor supercells with a threat for both large hail and damaging winds. There is still some uncertainty in the coverage and intensity of severe storms later this afternoon owing to the modest instability and leading band of ongoing storms, which may hamper additional diurnal heating. Potential does exist for this leading band to strengthen as it moves across central/eastern IA while posing a threat for mainly hail and strong/gusty winds. Current expectations are for a greater severe threat to develop with supercells that should form near the NE/IA/MO border, in close proximity to the surface low over northeastern KS. This activity should have access to slightly greater instability and low-level moisture, with a better chance for these storms to become surface based and produce isolated large hail. Strong low-level wind fields and 200-300 m2/s2 of effective SRH should prove favorable for updraft rotation"
+    },
+    {
+      "year": 2022,
+      "number": 195,
+      "issue_utc": "2022-03-05T21:46Z",
+      "topic": "Tornado Watch 27",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0195.html",
+      "summary": "Ongoing severe storms should continue to track east northeast over the next several hours across IA and northern MO. Damaging wind gusts, large hail and a few tornadoes will be possible. Some upscale growth is expected as storms track farther east into central and eastern Iowa later this evening.",
+      "discussion": "As of 21:45 UTC, a semi-discrete band of supercells were ongoing across far southwestern IA and northwestern MO. In the wake of early-day storms, clearing ahead of a strong surface cyclone and upper trough have allowed weak destabilization (500-1000 J/kg) of MLCAPE to propagate ahead of the cells ongoing across central IA and northern MO. These storms should continue to keep pace with the rapidly recovering warm sector posing a risk for all hazards over the next few hours. Initial storm mode has been messy with multiple updrafts in close proximity across western IA. This is likely a result of relatively-long straight-line hodographs above weekly veered surface flow. Additional upscale growth appears likely with these storms as they track northeastward. All hazards, including damaging wind gusts, and a few tornadoes will however remain possible given strong low-level shear (0-1km srh 150-200 m2/s2) supporting small mesocyclones. Farther south, more discrete convection across northern MO were tracking toward southern IA. Greater residence time within the expanding warm sector and resulting stronger low-level mesocyclones may result in a locally greater risk of tornadoes over the next several hours. Upscale growth into more linear segments with a risk of damaging gusts appears possible into portions of eastern Iowa where an additional watch may be needed later this afternoon/evening. ..Lyons.. 03/05/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 196,
+      "issue_utc": "2022-03-05T22:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0196.html",
+      "summary": "An increase in thunderstorms expected over the next 1 to 2 hours will likely require tornado watch issuance.",
+      "discussion": "Latest radar loop shows convection slowly developing across northwestern Missouri and adjacent northeastern Kansas -- as far south as the Kansas City metro area. The convection is evolving ahead of the eastward-moving cold front, within a thermodynamic environment comprised of 500 to 1000 J/kg mixed-layer CAPE, and weak capping. As the front advances, ascent -- aided by the mid-level short-wave trough crossing Nebraska/Kansas -- will support development of additional/more widespread storms over the next couple of hours. With weak low-level veering and a substantial increase in wind speed with height, shear favoring supercells will support severe potential with stronger storms, including risk for a couple of tornadoes. As such, a new tornado watch will likely be required for portions of northwestern Missouri."
+    },
+    {
+      "year": 2022,
+      "number": 197,
+      "issue_utc": "2022-03-05T23:33Z",
+      "topic": "Tornado Watch 27",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0197.html",
+      "summary": "The tornado threat will be focused in parts of central and southeast Iowa this evening. This threat may extend beyond the WW 27 and an additional downstream tornado watch will likely be considered this evening.",
+      "discussion": "A strong supercell continues to move through southern suburbs of Des Moines. This storm has had consistent rotational velocities in the 55-70 kt range over the past hour. Other discrete storms are moving out of north-central Missouri into south-central Iowa. At least one tornado was reported in Wayne County, IA, with this activity. These storms are moving into a similar environment and will continue to pose a threat for tornadoes over the next 1-2 hours. To the west of these discrete storms, a more broken line of convection has developed along the cold front. This activity will pose greater threats for large hail and damaging winds than tornadoes. Farther to the north and east, earlier cloud cover and precipitation has limited destabilization. For parts of eastern Iowa and perhaps far northeastern Missouri, an additional downstream tornado watch will need to be considered this evening. ..Wendt.. 03/05/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 198,
+      "issue_utc": "2022-03-06T00:33Z",
+      "topic": "Tornado Watch 28",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0198.html",
+      "summary": "Severe/isolated tornado potential continues across northern Missouri.",
+      "discussion": "Isolated, pre-frontal convective cells have remained somewhat subdued over the past hour, in terms of both coverage and intensity. However, as the cold front continues moving east of the Kansas City metro area, linear convective development/organization is ongoing. This line of storms should continue advancing eastward over the next few hours, and will likely exit the watch between 02 and 0230Z per latest extrapolation, with the northern -- and likely to be stronger -- portion of the line then entering newly issued Tornado Watch 29 over northeastern Missouri. We will continue to monitor areas south of these two watches, but current thinking is that a more anafrontal/undercut nature will prevail with southward extent, which should limit severe potential. ..Goss.. 03/06/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 199,
+      "issue_utc": "2022-03-06T01:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0199.html",
+      "summary": "Risk for locally damaging wind gusts may increase over the next couple of hours, which could warrant WW issuance.",
+      "discussion": "Latest radar loop shows a narrow, frontal band of convection moving across western Missouri at this time, with a portion of this band extending south of Tornado Watch 28. While an increasingly anafrontal character is expected to evolve with southward extent into the Ozark Plateau later this evening/overnight, some potential for damaging winds is apparent just south of WW 28/29, given ample instability in tandem with very strong lower and mid-level winds across the area. This potential is hinted at by RUC-based guidance valid over the next few hours. With the degree and coverage of wind potential a concern, the need for WW issuance likely remains a bit uncertain. We will continue to monitor convective evolution, with respect to potential need for a severe thunderstorm watch."
+    },
+    {
+      "year": 2022,
+      "number": 200,
+      "issue_utc": "2022-03-06T01:51Z",
+      "topic": "Tornado Watch 29",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0200.html",
+      "summary": "Storm mode has trended more linear in WW 29. Low-level wind fields will still support damaging wind gusts and brief tornadoes.",
+      "discussion": "Modest destabilization continues ahead of a broken line of quasi-linear storms in eastern Iowa and far northeastern Missouri. Though storm mode has trended less discrete, regional radar velocity data has shown periodic embedded circulations developing within the line segments. A couple of measured severe gusts were reported within the last hour in eastern Iowa. Given the strong low-level shear and veering seen on the KDVN VWP, there will be continued potential for this sort of activity. Damaging winds and brief tornadoes will be the primary threats. The observed DVN 00Z sounding showed an 8 C/km mid-level lapse rate which would also support marginally severe hail, despite the less favorable storm mode. ..Wendt.. 03/06/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 201,
+      "issue_utc": "2022-03-06T02:09Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0201.html",
+      "summary": "A severe thunderstorm watch will be considered for portions of northern and central Illinois. Strong wind fields will support damaging wind gusts despite weaker thermodynamics.",
+      "discussion": "Strengthening 850 mb winds have been observed by regional VWP with winds reaching 50-60 kts. Cooling aloft and modest moisture transport into Illinois and southern Wisconsin should support areas of increasing, but weak, buoyancy this evening. As convection moves eastward out of Iowa, the trend in storm mode is expected to become more linear. At present, a line of storms nearing the Mississippi River in southeastern Iowa has shown an increase in linear organization and has had measured severe winds within the last hour. While there are some uncertainties as to how organized this activity remains, even modest buoyancy is expected to support severe wind gust potential given the strong wind fields just a above the surface. Brief tornadoes within QLCS circulations are possible, but are not expected to be the main threat. A severe thunderstorm watch is possible later this evening."
+    },
+    {
+      "year": 2022,
+      "number": 202,
+      "issue_utc": "2022-03-06T04:32Z",
+      "topic": "Severe Thunderstorm Watch 30",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0202.html",
+      "summary": "Risk for damaging winds, and a brief tornado, continues across WW 30.",
+      "discussion": "Latest radar loop shows a semi-continuous line of thunderstorms moving east-northeastward at around 50kt across southern Wisconsin and northern Illinois. The storms remain west of the Milwaukee and Chicago metro areas, but will affect these areas within the next hour. While instability continues to gradually diminish, now at or below 500 J/kg mixed-layer CAPE, very strong southwesterly flow aloft -- in excess of 60 kt at 1 km and increasing to 80 kt at mid levels -- will support continued risk for damaging winds. Observation sites over northern Illinois have reported gusts in the 55 to 70 kt range in the past half hour, and expect severe-caliber gusts to affect the Milwaukee area soon, and portions of the Chicago suburbs shortly thereafter. ..Goss.. 03/06/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 203,
+      "issue_utc": "2022-03-06T05:53Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0203.html",
+      "summary": "Thunderstorms moving across Illinois and western Lake Michigan may continue to pose local risk for damaging winds as they move into southwestern Lower Michigan and western Indiana. New WW issuance may be needed.",
+      "discussion": "Latest radar loop continues to show a band of thunderstorms moving eastward at around 50kt, across Illinois and western Lake Michigan. Instability continues to diminish with time, and also with eastward extent per RUC-based objective analysis, and diminishing lightning flash counts support this. With that said, very strong flow aloft is supporting not only rapid storm motion, but damaging surface wind gusts as well -- with several measured gusts near and above severe criteria across parts of northern Illinois over the past half hour. As such, despite increasingly unfavorable thermodynamics, severe-caliber wind gusts may remain possible locally for another couple of hours as storms move into southwestern Lower Michigan and western Indiana. This may warrant consideration of new WW issuance prior to the top of the hour."
+    },
+    {
+      "year": 2022,
+      "number": 204,
+      "issue_utc": "2022-03-06T07:26Z",
+      "topic": "Severe Thunderstorm Watch 31",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0204.html",
+      "summary": "A fast-moving convective line capable of strong wind gusts continues to move across central IN.",
+      "discussion": "Convective line extending across west-central IN continues to progress quickly eastward. Recent storm motion was estimated at 55 kt, which takes the line to the edge of Severe Thunderstorm Watch 31 between 0800-0830Z. The airmass downstream of the line is only modestly unstable, but the organized character of the line and the very strong low to mid-level flow (i.e. recent KIND VAD sampled 70 kt at 1 km AGL) suggests the threat for damaging wind gusts will continue. Current KIND radar imagery shows strong inbound velocities entering Montgomery County IN, near a surging portion of the convective line. As a result, a corridor with slightly more potential for severe wind gusts exists from Montgomery County IN northeastward into more of central IN. ..Mosier.. 03/06/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 205,
+      "issue_utc": "2022-03-06T08:11Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0205.html",
+      "summary": "The convective line currently moving across IN could continue to pose a threat for damaging wind gusts across western OH. Trends are being monitored for a possible watch.",
+      "discussion": "A well-developed convective line continues to push quickly eastward across central and eastern IN. This line has had history of producing severe wind gusts. Current storm motion estimates take this line to the IN/OH border around 0930Z. Downstream thermodynamic conditions across western OH are less favorable than those across IN, with the lower dewpoints contributing to less overall buoyancy. Even so, the organized character of the line coupled with the very strong low to mid-level could still contribute to the potential for a few damaging wind gusts. Overall severe coverage is uncertain but trends are being monitored for possible downstream watch across portions of western OH."
+    },
+    {
+      "year": 2022,
+      "number": 206,
+      "issue_utc": "2022-03-06T10:18Z",
+      "topic": "Severe Thunderstorm Watch 32",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0206.html",
+      "summary": "A few damaging wind gust remain possible across west-central and central OH.",
+      "discussion": "Overall intensity of the convective line moving eastward across northwest/west-central OH has decreased over the past half hour, as evidenced by less lightning and reflectivity structure. Even so, a few damaging wind gusts still remain possible when downward momentum transfer brings the very strong low to mid-level flow to the surface. Most probable location for a strong gust or two appears to be over far west-central OH (Darke and Miami County vicinity) where the line still has a bit more intensity. The diminishing trend is forecast to continue over the next hour as the line continues eastward into a less favorable thermodynamic environment. ..Mosier.. 03/06/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

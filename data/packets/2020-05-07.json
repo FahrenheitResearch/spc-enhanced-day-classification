@@ -1,0 +1,163 @@
+{
+  "convective_day": "2020-05-07",
+  "valid_start": "2020-05-07T12:00Z",
+  "valid_end": "2020-05-08T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-05-07",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-05-07T20:00Z",
+      "valid_end": "2020-05-08T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200507_2000.html",
+      "summary": "Severe gusts, including localized swaths of wind damage near hurricane force, and damaging hail are expected late this afternoon into tonight across parts of the southern to central Plains.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Based on visible satellite imagery and recent/consistent signals in short-term convection-allowing model guidance (e.g., experimental WoFs), confidence has increased to include a focused corridor with 30-percent significant hail probabilities over the area near southwest OK and adjacent parts of TX. ---The major change this outlook update is to include a focused corridor of higher coverage, severe-wind potential from parts of central OK southeastward into south-central OK. Short-term model guidance (e.g., hrrr time-lagged) shows the development of intense thunderstorms over northwest OK and a gradual upscale growth to this convection during the evening into the overnight hours. Additional warm sector development is possible over central OK ahead of the developing band of storms forecast to rapidly move to the southeast across OK overnight. Therefore, have included probability upgrades for 1) 30-percent significant wind and, 2) 5-percent tornado risk within the aforementioned focused corridor. Large to giant hail is possible with the evening discrete supercell activity over the High Plains before a large to very large hail threat materializes later this evening with the above-descri"
+        },
+        {
+          "title": "TX Panhandle into southwest OK",
+          "text": "Morning surface analysis shows southerly low level winds throughout TX/OK, with dewpoints in the 50s in most areas. A dryline is expected to become established later today from the eastern TX panhandle southward, with a narrow of axis of dewpoints in the 60s to the east, and temperatures in the mid/upper 90s to the west. A weak surface low is also expected to form near Amarillo this afternoon, helping to enhance convergence along the dryline and support the risk of isolated thunderstorm development. Any storm that forms will likely become supercellular and be capable of very large hail. Damaging winds and a tornado or two are also possible. Activity will track east-southeastward into western north TX and southwest OK this evening before slowly weakening."
+        },
+        {
+          "title": "KS/OK/TX this evening",
+          "text": "Water vapor loop shows a shortwave trough digging southeastward across CO and western KS. This feature should help to initiate thunderstorms along an approaching cold front this evening across parts of southern KS and northern OK - perhaps into the northeast TX panhandle. Current indications are that this activity will not initiate until near/after dark. Early storms will primarily pose a large hail threat. During the evening, 12z guidance continues to build consensus that an MCS will track southeastward across OK, with an increasing risk of damaging wind gusts along with hail. Did not upgrade to ENH at this time due to remaining uncertainty of where the corridor of risk will be concentrated - but this will be re-considered at 20z."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-05-08",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-05-08T01:00Z",
+      "valid_end": "2020-05-08T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200508_0100.html",
+      "summary": "An evolving cluster of thunderstorms may pose a risk for strong, potentially damaging wind gusts and severe hail across parts of western and central Oklahoma late this evening into the overnight hours.",
+      "sections": []
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 545,
+      "issue_utc": "2020-05-07T18:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0545.html",
+      "summary": "A few storms may become severe with large hail the primary concern later this afternoon, from south-central Kansas into northeast Oklahoma.",
+      "discussion": "Storms persist as of 18Z over parts of central/south-central KS, north of a surface warm front but in a zone of warm advection up to 600 or 700 mb. The storms are being fed by southwesterlies aloft, and supported by elevated instability with the MUCAPE axis from central KS into the OK/TX Panhandles. As the upper trough approaches from the northwest, large-scale lift will continue to be favorable, and forecast soundings indicate that moisture in the 800-700 mb layer will become better established. This may support a few severe storms capable of hail, as deep-layer effective shear also is enhanced. It is unclear at this time whether storm coverage will necessitate a watch this afternoon."
+    },
+    {
+      "year": 2020,
+      "number": 546,
+      "issue_utc": "2020-05-07T19:40Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0546.html",
+      "summary": "A storm or two capable of strong/severe wind gusts will occur this afternoon. Isolated large hail may also occur. No WW anticipated.",
+      "discussion": "A storm has initiated along a subtle bulge in the dryline north of Fort Stockton as temperatures to the west have risen to the low 100s F. There appears to be a narrow window where storms will intensify as they move east into mid/upper 50s F dewpoints. The boundary layer is deeply mixed up to and even above 500 mb. A storm or two this afternoon will primarily be capable of strong to severe caliber outflow winds. Large hail will also be possible on an isolated basis given cold temperatures aloft and marginal effective shear values. A greater hail threat will be limited by capping east of the dryline where moisture/buoyancy is greater. Activity is expected to remain isolated and it is uncertain how far east it will persist given increased MLCIN and no upper-level support. No WW is anticipated."
+    },
+    {
+      "year": 2020,
+      "number": 547,
+      "issue_utc": "2020-05-07T20:49Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0547.html",
+      "summary": "Storm initiation is probable within the southeastern Texas Panhandle into southwestern Oklahoma. Large/very large hail will be possible. There is potential for 3+ inch hailstones. Severe wind gusts are also possible. A brief tornado cannot be ruled out. Storm coverage is uncertain, but any storm is likely to be intense. A WW may be needed. Trends will be monitored.",
+      "discussion": "The coverage of high-based cumulus clouds has increased over the past hour from near Amarillo to Childress. West Texas Mesonet observations have shown a rapid veering of winds west of Amarillo coincident with this development. Surface dewpoints are generally in the low/mid 50s F across the region, though an area of upper 50s to low 60s F dewpoints are still in place near the Childress vicinity into far southwestern Oklahoma. Given the slightly better moisture and increased convergence, this zone appears to be the most probable area of storm initiation within a couple of hours. This has been supported by several CAM solutions today. The 19Z AMA sounding sampled steep low/mid-level lapse rates with 50-60 kts of effective shear. Storms in this environment will be supercellular and capable of large to very large (potentially 3+ inches) as well as severe wind gusts. Modest low-level veering of winds may support a brief tornado. A greater tornado threat should be limited by less than favorable low-level moisture. Storm coverage is uncertain given the lack of upper-level forcing. However, storms that develop are likely to be intense. Trends will be monitored for a possible WW."
+    },
+    {
+      "year": 2020,
+      "number": 548,
+      "issue_utc": "2020-05-07T21:57Z",
+      "topic": "Severe Thunderstorm Watch 170",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0548.html",
+      "summary": "An intense supercell or two will likely develop in the Childress vicinity and spread east-southeast. A swath of large to very large hail appears likely and an upgrade to an Enhanced Risk for severe storms has occurred.",
+      "discussion": "Storm initiation is underway near Childress within an environment highly favorable for mid-level updraft rotation. Within a plume of low 60s surface dew points, these higher-based storms should quickly become supercells. Around a 100-mile wide corridor of weaker MLCIN should support a 3-4 hour duration of potentially strong supercell activity. Recent WoFS-NSSL output has been consistent in indicating at least one longer-tracked supercell with large 2-5 km UH into western north TX. ..Grams.. 05/07/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 549,
+      "issue_utc": "2020-05-07T23:04Z",
+      "topic": "Severe Thunderstorm Watch 170",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0549.html",
+      "summary": "Very large to occasionally giant hail likely for the next 2 hours across far southwest Oklahoma and west North Texas.",
+      "discussion": "A supercell near Childress has recently split with the left split moving northeastward in southwest Oklahoma. This storm split was well advertised by the NSSL Warn-on-Forecast system while most other short term guidance including the HRRR and HRRR-P suggest storm initiation should just be getting started now. In addition, the WoFS suggests the strongest updraft helicity may occur in the next 1 to 2 hours. Current observations and short-term mesoscale evolution of the environment (strengthening LLJ and northward moisture advection) also support this, indicating that hail even larger than the 3.25\" that has been reported so far, may be possible as the supercell further intensifies. The left-mover will likely only persist for another county or two before encountering less buoyant air as it continues northeast. ..Bentley.. 05/07/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 550,
+      "issue_utc": "2020-05-07T23:43Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0550.html",
+      "summary": "Severe thunderstorm watch will likely be issued by 01z. Hail and wind are expected with convection this evening.",
+      "discussion": "Agitated cu field is slowly expanding in areal coverage across portions of southwestern KS, extending north along sharpening cold front. This is partly due to low-level moisture advancing rapidly north across western OK into southwest KS (surface dew point is now 54F at DDC). Mid-level heights will continue falling across the central Plains this evening and large-scale forcing for ascent should aid convective development along the frontal zone over the next few hours. Once convection develops, an upward-evolving thunderstorm cluster is expected to propagate southeast along a warm front that is currently draped from southwest KS into southeast OK. With time, LLJ will increase markedly into central OK late this evening and a more expansive southeast-moving MCS should spread toward the Oklahoma City metro. Large hail will be common with supercells and damaging wind threat should increase as MCS becomes more linear in nature."
+    },
+    {
+      "year": 2020,
+      "number": 551,
+      "issue_utc": "2020-05-08T01:05Z",
+      "topic": "Severe Thunderstorm Watch 170",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0551.html",
+      "summary": "Severe threat will spread southeast across northwest into portions of north-central TX. Hail and damaging winds are expected.",
+      "discussion": "Lone supercell that formed near CDS late this afternoon has matured and turned southeast into Baylor/Wilbarger County region. This storm has produced large-giant hail, in excess of 3 inches, along with strong winds. Over the next hour or so this supercell will approach the southeastern corner of ww170 and the main question is how far downstream severe convection will propagate. 00z sounding from FWD was strongly capped, but warm advection is increasing across the southern Plains. Latest WoFS takes this storm across Young into Parker County by 03z before appreciable weakening occurs. This forecast seems reasonable but there is considerable uncertainty whether organized severe will actually spread into the western portions of the Metroplex before updraft weakening. Will continue to monitor for possible small ww into north-central TX. ..Darrow.. 05/08/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 552,
+      "issue_utc": "2020-05-08T02:24Z",
+      "topic": "Severe Thunderstorm Watch 171",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0552.html",
+      "summary": "Large to isolated very large hail expected for the next 1 to 2 hours.",
+      "discussion": "Storm coverage has increased significantly in the last 15 minutes along and ahead of a cold front moving into northwest Oklahoma. Expect storm coverage to continue to increase over the next 1 to 2 hours as the low-level jet strengthens across the area and moisture continues to advect northward. The primary threat will be large hail (some very large) in the next 2 hours given around 2000 J/kg of MUCAPE per SPC mesoanalysis, mid-level lapse rates around 9 C/km per area 00Z RAOBs, and effective shear around 60 knots supporting supercellular storm mode. The extensive storm coverage will likely lead to significant storm interference and cold pool development by 04Z at which time the primary threat will likely start to transition to damaging winds. ..Bentley.. 05/08/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 553,
+      "issue_utc": "2020-05-08T02:53Z",
+      "topic": "Severe Thunderstorm Watch 172",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0553.html",
+      "summary": "The ongoing supercell is expected to gradually weaken by 04Z. Large to very large hail is still ongoing.",
+      "discussion": "The long-track supercell which has dropped very large hail across a long swath from near Childress to areas just west of the metroplex is still ongoing with golfball to baseball hail recently reported in Jack County. WoFS has been consistently weakening this storm considerably across Parker County for several runs. Given the extreme capping inversion seen on the 00Z FWD sounding, it seems unlikely this supercell will continue much longer. However, intense and long-lived supercells with strong internal pressure perturbations such as this have been known to persist well into a capped/stable airmass. Therefore, while the very large hail is expected to wane by the time the supercell enters Tarrant county, it is certainly possible it may last 1 or 2 counties farther east than anticipated which would impact at least portions of the the western metroplex. Therefore, Tarrant county has been added to severe watch 172. ..Bentley.. 05/08/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 554,
+      "issue_utc": "2020-05-08T04:12Z",
+      "topic": "Severe Thunderstorm Watch 171",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0554.html",
+      "summary": "Severe squall line with damaging winds and some large hail will spread across Oklahoma tonight.",
+      "discussion": "Deep convection is gradually organizing along a sharpening frontal surge from southern KS - northwest OK - eastern TX Panhandle. LLJ has increased markedly across northwest TX into southwest OK over the last few hours and this should aid squall line intensification into the early-morning hours. A well-defined warm front has evolved over southern OK and strong low-level warm advection is expected to enhance maturation over the next few hours. Latest WoFS has been consistent regarding the possible evolution of a squall line with damaging winds surging southeast just north of the warm front. Latest radar trends support this scenario and a squall line should surge toward the Oklahoma City metro around 06z. Increasing confidence in a damaging squall line will necessitate a new severe thunderstorm watch soon. ..Darrow.. 05/08/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 555,
+      "issue_utc": "2020-05-08T06:22Z",
+      "topic": "Severe Thunderstorm Watch 171",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0555.html",
+      "summary": "Risk for damaging winds will continue spreading southeastward across south-central and southeastern Oklahoma over the next couple of hours.",
+      "discussion": "The latest radar loop shows an strengthening, bowing convective cluster moving southeastward across southwestern Oklahoma at 50 kt, while other, smaller bowing clusters organize within the pre-existing convective band over central Oklahoma. Ahead of the convection, a zone of 1000 J/kg mixed-layer CAPE is indicated by RUC-based objective analyses, which should support a continuation of robust convection over the next few hours. Convective organization is being aided by a wind profile that veers and increases with height from southeasterly at 10 to 20 kt at the surface, to west-northwesterly at 50 kt at mid levels. This kinematic environment is supporting the fast, southeasterly storm motion, along with strong/potentially damaging outflow winds -- including a recent gust of 62 MPH at Ft. Cobb, OK. Expect the risk for damaging winds -- and some hail -- to continue as convection crosses the southern half of Oklahoma over the next few hours. ..Goss.. 05/08/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 556,
+      "issue_utc": "2020-05-08T07:30Z",
+      "topic": "Severe Thunderstorm Watch 173",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0556.html",
+      "summary": "Risk for locally damaging winds and marginal hail is expected to spread into areas downstream of existing WW 173. This may require new WW issuance.",
+      "discussion": "Latest radar loop shows a large bow continuing to organize over south central and southeast Oklahoma, along the northern fringe of an axis of 500 to 1500 J/kg mixed-layer CAPE across central and north Texas. RUC-based objective analyses indicate continued increases in capping into northeastern Texas -- i.e. downstream of the bow -- but the well-organized nature of the convective band suggests that at least local/occasional gusts to severe levels will remain possible as storms continue moving east-southeastward at 50 kt. Given the potential that at least local wind/hail risk will spread out of the exist WW, a new watch may be required downstream, across parts of northeastern Texas and into the Arklatex region. ..Goss.. 05/08/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 557,
+      "issue_utc": "2020-05-08T10:22Z",
+      "topic": "Severe Thunderstorm Watch 174",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0557.html",
+      "summary": "Risk for locally damaging wind gusts continues within WW 174.",
+      "discussion": "Latest radar loop shows the primary surge of the bowing convective band now moving across the Arklatex region, near the northeastern fringe of the Texas instability axis. The surging portion of the bow recently passed through Texarkana, producing a near-severe-level wind gust of 47 kt. As the bow continues moving southeastward at near 50 kt, additional strong wind gusts remain possible locally. With that said, uncertainty exists with respect to the southeastward extension of any severe wind risk. Based on current extrapolation, the leading edge of the bow will begin to near the edge of the watch within about an hour (roughly 1130Z). An areal extension of the watch -- or new WW issuance downstream -- is not out of the question, though trends suggest that severe risk may continue to gradually diminish with time. ..Goss.. 05/08/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

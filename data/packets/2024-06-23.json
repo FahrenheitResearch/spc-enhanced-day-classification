@@ -1,0 +1,224 @@
+{
+  "convective_day": "2024-06-23",
+  "valid_start": "2024-06-23T12:00Z",
+  "valid_end": "2024-06-24T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 4
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2024-06-23",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-06-23T12:00Z",
+      "valid_end": "2024-06-24T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240623_1200.html",
+      "summary": "Scattered damaging winds and a few tornadoes are likely across parts of the Northeast into the OH/TN valleys, this afternoon and evening. Isolated severe storms are also possible over parts of the central and northern Plains.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "Mostly zonal mid-level flow is forecast to remain over the northern third of the US as a shortwave trough moves east across parts of WA and the southern Canadian Rockies. To the east, a low-amplitude shortwave trough embedded within broader zonal flow aloft over the Great Lakes and southern Ontario is expected to consolidate and strengthen as flow aloft increases over much of New England. A secondary trough over the upper MS River Valley is also expected to amplify as zonal flow aloft becomes southwesterly over the Northeast. Height falls and increasing DPVA will aid in strong surface cyclogenesis over the lower St Lawrence Valley. To the east of the deepening surface cyclone, a warm front will extend eastward across New England to the Atlantic coast, while a cold front and surface trough trails toward the southwest into the OH valley."
+        },
+        {
+          "title": "New England to the Mid Atlantic",
+          "text": "At the start of the forecast period, scattered thunderstorms are likely to be ongoing near the warm front from southern Quebec southeastward to southern New England. Insentropic ascent along the front from a 30-40 kt LLJ will continue to support scattered storms near the frontal zone through the morning hours as rich boundary-layer moisture (dewpoints in the upper 60s to low 70s F) are advected northward. In the wake of the early morning convection, filtered solar heating will allow for moderate destabilization over much of New England. Most guidance shows 1500-2000 J/kg of MLCAPE developing by early to mid afternoon despite only modest low and mid-level lapse rates. More than sufficient for strong updrafts, scattered storm development is expected first near the warm front and subsequently along the trailing surface trough. Deep-layer shear profiles of 45-60 kt support both supercells and short line segments. With a favorable parameter space for organized storms, damaging winds, isolated hail and a few tornadoes are possible. Confidence in a corridor of locally greater severe risk remains highest across portions of southern ME, VT, NH and west-central MA. Here, area model soundings"
+        },
+        {
+          "title": "Upper OH to the Mid TN Valleys",
+          "text": "Ahead of the trailing cold front, scattered thunderstorm development is expected during the afternoon. Despite veered surface flow west of the surface trough over the Mid Atlantic, rich boundary-layer moisture will support a broad plume of moderate instability. Several bands of thunderstorms should track east southeast along the southern periphery of the enhanced flow aloft. Sufficient for some storm organization, 20-30 kt of effective shear should support a few clusters capable of damaging gusts and isolated hail."
+        },
+        {
+          "title": "Northern Plains",
+          "text": "Accompanying the wave over southern Canada and the Northwest, a deepening surface cyclone with a cold front trailing southward into MT will serve as a focus for isolated storm development this afternoon and evening. Low-level southeasterly flow will transport a confined plume of modest low-level moisture into parts of east MT, resulting in a corridor of MLCAPE from 500-1500 J/kg. Deep-layer shear will be favorable for organized convection capable of isolated damaging winds and hail, but large-scale ascent attendant to the shortwave trough may tend to remain north of the international border. Development of a severe storm or two across east MT is possible by early evening, which would then potentially spread into northwest ND later into the evening and overnight hours."
+        },
+        {
+          "title": "Central Plains",
+          "text": "Very warm temperatures are expected along a lee trough across the central Plains this afternoon. With temperatures near 100 F, scattered high-based thunderstorms are likely over parts of eastern CO, southwest NE and western KS. Deep inverted-v profiles will support a risk for severe gusts with strong downdrafts. Located on the southern periphery of the stronger upper-level flow, these storms may persist into early evening despite the lack of stronger forcing for ascent. ..Lyons/Wendt.. 06/23/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-06-23",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-06-23T13:00Z",
+      "valid_end": "2024-06-24T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240623_1300.html",
+      "summary": "Scattered damaging winds and a few tornadoes are likely across parts of the Northeast and New England, with additional severe storms expected across the Ohio Valley, Mid-Atlantic region, as well as the Northern High Plains.",
+      "sections": [
+        {
+          "title": "Northeast/New England",
+          "text": "Negligible Outlook changes are warranted, with an active severe-weather day still expected regionally. Rich boundary-layer moisture (dewpoints in the upper 60s to low 70s F) will advect northward, and in the wake of morning convection, filtered solar heating will allow for moderate destabilization over much of New England. Most guidance shows 1500-2000 J/kg of MLCAPE developing by early to mid afternoon despite only modest low and mid-level lapse rates. More than sufficient for strong updrafts, scattered storm development is expected first near the warm front and subsequently along the trailing surface trough. Strong deep-layer shear of 45-60 kt will support both supercells and short line segments. With a favorable parameter space for organized storms, damaging winds, some hail and a few tornadoes are all expected. A corridor of locally greater severe risk remains apparent across portions of southern Maine, VT, NH and west-central Massachusetts. this is were forecast soundings show large curved hodographs with ESRH of 250-350 m2/s2 and STP values of 1.5-3. With the potential for a mix of supercells and line segments, the risk for tornadoes will exist. Eventual upscale growth into a"
+        },
+        {
+          "title": "Mid-Atlantic States",
+          "text": "More isolated storm coverage is expected with southward extent. Displaced from the main lobe of ascent from the passing shortwave trough, convection may take longer to organize owing to the warmer mid-level temperatures and weaker synoptic forcing. Still, deep-layer shear and buoyancy are favorable for organized multicell clusters and a few supercells. Damaging winds, and occasional hail are the most likely threats, though a tornado could occur with any sustained supercell."
+        },
+        {
+          "title": "Upper Ohio Valley/Tennessee Valley",
+          "text": "Ahead of the trailing cold front, scattered thunderstorm development is expected during the afternoon. Rich boundary-layer moisture will support a broad plume of moderate instability. Several bands of thunderstorms should track east southeast along the southern periphery of the enhanced flow aloft. Sufficient for some storm organization, 20-30 kt of effective shear should support a few clusters capable of damaging gusts and isolated hail."
+        },
+        {
+          "title": "Northern Plains including eastern Montana to North Dakota",
+          "text": "Accompanying the wave over southern Canada and the Northwest, a deepening surface cyclone with a cold front trailing southward into Montana will serve as a focus for isolated storm development this afternoon and evening, with the highest probability for storms closer to the international border where a Slight Risk has been introduced. Low-level southeasterly flow will transport a confined plume of modest low-level moisture into parts of east Montana, resulting in a corridor of MLCAPE from 500-1500 J/kg. Deep-layer shear will be favorable for organized convection capable of isolated damaging winds and hail."
+        },
+        {
+          "title": "Central High Plains",
+          "text": "Very warm temperatures are expected along a lee trough across the central Plains this afternoon. With temperatures near 100 F, scattered high-based thunderstorms are expected over parts of eastern Colorado, southwest/south-central Nebraska and western Kansas. Deep inverted-v profiles will support a risk for severe gusts with strong downdrafts. Located on the southern periphery of the stronger upper-level flow, these storms may persist through early evening before weakening. ..Guyer/Mosier.. 06/23/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-06-23",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-06-23T16:30Z",
+      "valid_end": "2024-06-24T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240623_1630.html",
+      "summary": "Scattered damaging winds and a few tornadoes are likely across parts of the Northeast and New England, with additional severe storms expected across the Ohio Valley, Mid-Atlantic region, as well as the Northern High Plains.",
+      "sections": [
+        {
+          "title": "New England",
+          "text": "Visible satellite imagery shows broken clouds across central/eastern NY and parts of southern/western New England, where dewpoints are in the upper 60s to lower 70s. This is resulting in rapid destabilization of the air mass, with a corridor of ~2000 J/kg and little inhibition. This should lead to scattered thunderstorm development early this afternoon over central/eastern NY, tracking rapidly eastward into VT/NH and northern MA. Forecast soundings show substantial vertical shear in this region, as storms develop beneath the mid-level jet axis. A remnant surface boundary currently extends from northeast VT into northeast MA. As storms interact with this boundary, locally enhanced low-level shear may result in a more focused risk for a few tornadoes. Otherwise, damaging wind gusts and some hail are the main threats."
+        },
+        {
+          "title": "Upper OH Valley",
+          "text": "An axis of warm/humid conditions is present today from KY northeastward into western PA, where temperatures will warm through the 80s with dewpoints in the lower 70s. Model guidance suggests at least widely scattered afternoon thunderstorms will form. Relatively steep low level lapse rates, significant water-loaded downdrafts, and favorably strong low/mid level wind fields will pose a risk of locally damaging wind gusts in the stronger cells through the afternoon and early evening."
+        },
+        {
+          "title": "MT/ND",
+          "text": "Model guidance continues to show the potential for a supercell storm or two to form over southern Manitoba and track near/across the international border, affecting parts of northeast MT and northwest ND tonight - mainly after dark. Sufficient CAPE/shear parameters would support a risk of large hail in these storms. ..Hart/Weinman.. 06/23/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-06-23",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-06-23T20:00Z",
+      "valid_end": "2024-06-24T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240623_2000.html",
+      "summary": "Scattered damaging winds and a few tornadoes remain possible across parts of the Northeast and New England, with additional severe storms expected across the Ohio Valley, Mid-Atlantic region, as well as the Northern High Plains.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "Only appreciable categorical change with this outlook has been to begin reducing severe risks behind the cold front in OH to the MS/OH River confluence. Otherwise, have maintained the rest of the categorical severe as-is. Please see MCD 1385 for short-term forecast information across parts of the Northeast. ..Grams.. 06/23/2024 .PREV DISCUSSION... /ISSUED 1113 AM CDT Sun Jun 23 2024/"
+        },
+        {
+          "title": "New England",
+          "text": "Visible satellite imagery shows broken clouds across central/eastern NY and parts of southern/western New England, where dewpoints are in the upper 60s to lower 70s. This is resulting in rapid destabilization of the air mass, with a corridor of ~2000 J/kg and little inhibition. This should lead to scattered thunderstorm development early this afternoon over central/eastern NY, tracking rapidly eastward into VT/NH and northern MA. Forecast soundings show substantial vertical shear in this region, as storms develop beneath the mid-level jet axis. A remnant surface boundary currently extends from northeast VT into northeast MA. As storms interact with this boundary, locally enhanced low-level shear may result in a more focused risk for a few tornadoes. Otherwise, damaging wind gusts and some hail are the main threats."
+        },
+        {
+          "title": "Upper OH Valley",
+          "text": "An axis of warm/humid conditions is present today from KY northeastward into western PA, where temperatures will warm through the 80s with dewpoints in the lower 70s. Model guidance suggests at least widely scattered afternoon thunderstorms will form. Relatively steep low level lapse rates, significant water-loaded downdrafts, and favorably strong low/mid level wind fields will pose a risk of locally damaging wind gusts in the stronger cells through the afternoon and early evening."
+        },
+        {
+          "title": "MT/ND",
+          "text": "Model guidance continues to show the potential for a supercell storm or two to form over southern Manitoba and track near/across the international border, affecting parts of northeast MT and northwest ND tonight - mainly after dark. Sufficient CAPE/shear parameters would support a risk of large hail in these storms."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2024,
+      "number": 1382,
+      "issue_utc": "2024-06-23T16:01Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1382.html",
+      "summary": "A tornado watch is likely by early afternoon.",
+      "discussion": "A mid-level jet streak can be seen on water vapor crossing southern Ontario late this morning. As this spreads east through the afternoon, expect thunderstorm development along a pre-frontal trough, which is currently crossing Lake Ontario. A very moist airmass is present across eastern New York with upper 60s to low 70s dewpoints. In addition, some heating has occurred between broken cloudcover with temperatures now in the upper 70s to low 80s. Some additional heating, combined with cooling temperatures aloft, should combine to increase MLCAPE from around 500 J/kg as of 15Z to around 1200-1500 J/kg by 17-18Z. This instability combined with a favorable supercell wind profile (45-50 knots of 0-6km shear per TYX VWP) should result in severe storms by early to mid afternoon. Some hail is possible given supercell storm mode, but the warm lower troposphere (14kft freezing temps) may limit the hail threat somewhat. The greater threat is expected to be damaging wind gusts and a few tornadoes. Veered surface flow is the primary mitigating factor to a greater/more intense tornado threat given the supercell storm mode and 170 m2/s2 0-1 SRH (per TYX VWP). However, despite the somewhat veered surface flow, the low-level jet is expected to strengthen through the afternoon/evening which will support the threat. A tornado watch will likely be issued by 17Z."
+    },
+    {
+      "year": 2024,
+      "number": 1383,
+      "issue_utc": "2024-06-23T17:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1383.html",
+      "summary": "Severe storm risk will gradually increase through the afternoon, with damaging winds being the primary concern. A watch will likely be issued for parts of the area in the next few hours.",
+      "discussion": "Ahead of a northeast/southwest-oriented cold front draped across the OH River Valley, a corridor of upper 60s to lower 70s dewpoints and pockets of heating will contribute to moderate surface-based instability -- despite poor midlevel lapse rates sampled by 12Z observed soundings. As modest midlevel height falls overspread the region, surface-based thunderstorms should gradually increase in coverage along/ahead of the cold front. Storms should slowly increase in intensity as they track eastward and intercept the destabilizing warm/moist sector. Given ample deep-layer westerly flow/shear (around 35-kt effective shear) roughly perpendicular to the front, a mix of loosely organized clusters and transient supercells are expected. Steepening low-level lapse rates and the enhanced low/midlevel flow will favor locally damaging gusts as the primary concern, especially with any localized upscale growth. However, marginally severe hail and a tornado or two cannot be ruled out, especially with any sustained semi-discrete supercells. A watch (potentially two separate watches) will likely be issued for parts of the area in the next few hours."
+    },
+    {
+      "year": 2024,
+      "number": 1384,
+      "issue_utc": "2024-06-23T18:37Z",
+      "topic": "Tornado Watch 448",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1384.html",
+      "summary": "Storms forming across eastern New York into north-central Vermont have the greatest severe weather potential over the next 1 to 2 hours.",
+      "discussion": "Storms have developed from eastern New York to north-central Vermont. These storms have developed within a locally more favorable environment featuring southerly surface winds and temperatures in the mid 80s with dewpoints in the low to mid 70s. In close proximity to the eastward/northeastward advancing warm front and in terrain favored locations where more backed winds can remain, a greater tornado threat may exist through the afternoon. ..Bentley.. 06/23/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1385,
+      "issue_utc": "2024-06-23T19:23Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1385.html",
+      "summary": "The area is being monitored for a few strong to severe storms this afternoon. Damaging winds and perhaps a tornado or two appear to be the main concerns. Convective and environmental trends are being monitored for a possible watch for parts of the area.",
+      "discussion": "Strong diurnal heating within cloud breaks from eastern PA northeastward across southern New England is supporting steep low-level lapse rates amid lower 70s boundary-layer dewpoints. While large-scale ascent is generally weak across the area, convection approaching from the west and potentially new development along mesoscale/differential heating boundaries could become strong to severe, given 40 kt of deep-layer shear per regional VWP. Ample low/midlevel flow and the steepened low-level lapse rates will favor a damaging-wind risk, and sufficient low-level hodograph curvature could support a brief tornado or two with any sustained supercell structures. Overall, confidence in the development of persistent strong/severe updrafts is low owing to the weak forcing for ascent, though convective and environmental trends are being monitored for a possible watch this afternoon."
+    },
+    {
+      "year": 2024,
+      "number": 1386,
+      "issue_utc": "2024-06-23T20:32Z",
+      "topic": "Tornado Watch 448",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1386.html",
+      "summary": "Strong to severe storms should continue into the evening across Vermont and New Hampshire and perhaps northern Massachusetts.",
+      "discussion": "Isolated to scattered strong to severe storms have produced isolated wind damage across parts of eastern New York and Vermont this afternoon. The environment across the region has continued to improve with mid 70s dewpoints now into southern Vermont and New Hampshire and some stronger low-level flow across the same region. The ENX VWP shows over 200 m2/s2 0-1km SRH which will continue to support organizing low-level updrafts and some tornado threat into the evening. Several rounds of severe weather are possible with another round of storms near the NY/VT border which may intensify as they move east, and another cluster in central New York which may strengthen as it moves into the improving environment farther east this evening. ..Bentley.. 06/23/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1387,
+      "issue_utc": "2024-06-23T22:28Z",
+      "topic": "Tornado Watch 448",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1387.html",
+      "summary": "The tornado threat is becoming more spatially confined late this afternoon. A tornado or two may still occur with the stronger supercells before a weakening trend is expected as they encounter a less favorable thermodynamic environment.",
+      "discussion": "A couple of stronger discrete supercells are continuing eastward from northeast of Hartford, CT and east of Manchester, NH. The greatest short term tornado threat will exist with the storm northeast of Hartford as this storm will have a longer duration in marginally greater buoyancy. The KBOX VAD continues to display ample low-level hodograph curvature. A tornado or two will remain possible for the next couple of hours. Additionally, isolated damaging winds and marginally severe hail could occur as well. The main limiting factor this evening will be decreasing buoyancy with eastward extent given cooler temperatures/marine influence. ..Wendt.. 06/23/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1388,
+      "issue_utc": "2024-06-23T23:20Z",
+      "topic": "Severe Thunderstorm Watch 449",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1388.html",
+      "summary": "An appreciable increase in severe weather potential appears unlikely, but localized damaging wind gusts remain possible in isolated stronger cells spreading across and east of the Allegheny Mountains through 8-10 PM EDT.",
+      "discussion": "Despite the development of fairly numerous thunderstorms across the Allegheny Plateau and mountains late this afternoon, activity has struggled to substantively intensify in the presence of rather modest deep tropospheric lapse rates, and relatively weak large-scale forcing for ascent. It is not clear that this will change appreciably during the next few hours, as the boundary-layer gradually cools. However, downward mixing of 30-40 kt mean west-southwesterly lower/mid-tropospheric flow in isolated stronger cells could continue to pose a risk for localized damaging wind gusts as activity advects eastward through 00-02Z. ..Kerr.. 06/23/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1389,
+      "issue_utc": "2024-06-23T23:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1389.html",
+      "summary": "Isolated supercell development appears possible near and north of the Missouri River through 8-11 PM MDT. It is not clear that a severe weather watch will be needed due to localized nature of the threat, but trends will continue to be monitored.",
+      "discussion": "At least attempts at sustained deep convective development appear underway west of Glasgow MT. This appears near the southern edge of the onset of mid-level height falls associated with an upstream short wave trough progressing across the Canadian and adjacent northern U.S. Rockies. At lower levels this is focused near/east of a weak surface low embedded within lee surface troughing, aided by lift associated with low-level convergence and warm advection. Near the northern periphery of a plume of very warm elevated mixed-layer air advecting northeast of the northern Rockies, the approach of convective temperatures may also be a contributing factor. Based on various model output, this convective development may be maintained into and through the 02-05Z time frame, though it may remain isolated in nature to the south of the Saskatchewan border. In the presence of strong deep-layer shear, beneath 50+ kt westerly flow in the 500-300 mb layer, the environment is supportive of an evolving supercell. A hot and deeply mixed boundary-layer appears characterized by CAPE in excess of 1000 J/kg, sufficient to support a risk for large hail and locally severe wind gusts."
+    },
+    {
+      "year": 2024,
+      "number": 1390,
+      "issue_utc": "2024-06-24T03:32Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1390.html",
+      "summary": "Lingering isolated supercell development may approach the north central North Dakota international border area by 1-2 AM CDT, accompanied by continuing risk for large hail and locally strong surface gusts. But it seems probable that this activity will tend to weaken as it progresses south of the border overnight.",
+      "discussion": "The southernmost cell of an initial cluster of supercells over southern Saskatchewan has been maintaining considerable strength while steadily propagating east-southeastward within strongly sheared 35-40 kt west-southwesterly deep-layer mean flow. It appears that this is being supported be seasonably moist updraft inflow, rooted within large-scale ascent associated with low-level warm advection, above a stable boundary layer to the east of the lee surface trough, but still characterized by CAPE on the order of 1000-2000+ J/kg. Based on its current motion, it would begin propagating across the international border to the north of Minot by 06-07Z. However, the northern/northeastern periphery of a plume very warm and more strongly capping elevated mixed-layer air is also in the process of advecting across this region, downstream of a mid/upper trough progressing across the Canadian Rockies into the Canadian Prairies. This may tend to finally suppress any stronger convection attempting to cross the international border."
+    },
+    {
+      "year": 2024,
+      "number": 1391,
+      "issue_utc": "2024-06-24T06:40Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1391.html",
+      "summary": "A few instances of large hail are possible across eastern Montana and western North Dakota over the next few hours.",
+      "discussion": "Warm-air advection across a frontal zone across eastern MT has contributed to an increase in elevated thunderstorm activity over the past hour or so. Significant buoyancy exists downstream across far eastern MT and into western ND, supported primarily by steep mid-level lapse rates (i.e. 8.5 to 9 deg C per km) and modest mid-level moisture. Based on recent mesoanalysis, 0-6 km bulk shear is around 40 to 50 kt, with the resulting combination of vertical shear and buoyancy supportive of organized updrafts and a few elevated supercells. Given the buoyancy downstream, this activity may persist for the next few hours into far eastern MT and western ND, although the overall coverage may begin to decrease as storms become displaced east of the more favorable warm-air advection. Large hail is possible within the more organized storms, but the overall severe risk should remain isolated, likely precluding the need for a watch."
+    },
+    {
+      "year": 2024,
+      "number": 1392,
+      "issue_utc": "2024-06-24T08:13Z",
+      "topic": "Severe Thunderstorm Watch 450",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1392.html",
+      "summary": "Large hail remains possible with the pair of supercells moving southeastward across north-central North Dakota.",
+      "discussion": "Elevated supercells continue to progress gradually southeastward across north-central North Dakota. Current storm motion with the storm over Bottineau County is around 35 kt. The storm farther west just crossing the international border is moving a bit slower, with its motion estimated at closer to 30 kt. Both of these supercells remain organized and intense, with recent MESH indicating severe hail (particularly with the westernmost cell). The lead/easternmost cell may begin weakening soon as it moves into a less buoyant airmass, although the organized character of this cell may allow it to persist farther east into greater stability than would usually be expected. The westernmost cell should be able to maintain it intensity for at least the next hour or so before it too begins to weaken. Large hail will remain possible with these storms, particularly the westernmost cell, for the next hour or two. Given the forecast weakening of these storms with eastern extent, a downstream watch is not currently anticipated, but convective trends will still be monitored closely. ..Mosier.. 06/24/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

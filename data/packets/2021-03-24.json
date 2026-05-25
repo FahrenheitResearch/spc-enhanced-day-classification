@@ -1,0 +1,163 @@
+{
+  "convective_day": "2021-03-24",
+  "valid_start": "2021-03-24T12:00Z",
+  "valid_end": "2021-03-25T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-03-24",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-03-24T16:30Z",
+      "valid_end": "2021-03-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210324_1630.html",
+      "summary": "Severe thunderstorms capable of large hail, damaging winds, and isolated tornadoes will be possible over parts of the southern Plains into the Arklatex, mainly this evening into tonight.",
+      "sections": [
+        {
+          "title": "North-Central TX this afternoon",
+          "text": "Latest visible satellite loop shows relatively clear skies across much of north-central and northeast TX, with temperatures warming through the 60s. Meanwhile, a surface warm front is lifting northward into this area, with 50s dewpoints now as far north as ACT. This destabilizing process will continue through the afternoon, yielding MLCAPE values over 1000 J/kg. Forecast soundings show little cap, and CAM guidance indicates the likely development of scattered thunderstorms across the warm sector and in vicinity of the warm front. Supercell structures are expected with large hail being the main threat. As the low-level moisture continues to improve through the evening, isolated tornadoes will also be possible as activity spreads into northeast TX."
+        },
+        {
+          "title": "Central TX tonight",
+          "text": "Water vapor imagery shows a shortwave trough over northern Mexico rounding the base of the larger-scale trough. This feature will emerge into southwest TX after dark, leading to the development of scattered thunderstorms. Similar to farther north, supercells capable of large hail and a tornado or two appears to be the main threat, although the potential for damaging winds could also increase with time. This cluster of storms is expected to track east-northeastward through the pre-dawn hours into east TX, with a continued severe risk."
+        },
+        {
+          "title": "Southern AR/northwest MS",
+          "text": "A surface warm front is forecast to become better defined by evening over central MS/LA and lift northward overnight. Thunderstorms are expected to develop along and north of this boundary after midnight. Meanwhile, model guidance is consistent in a strengthening low-level jet late tonight across this region - yielding enlarged hodographs and considerable low-level shear. It is unclear if the convection along the immediate warm front will be surface-based. However, if these storms can be rooted in the boundary-layer, the potential exists for supercells and bowing structures capable of damaging winds or an isolated tornado. ..Hart/Moore.. 03/24/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-03-24",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-03-24T20:00Z",
+      "valid_end": "2021-03-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210324_2000.html",
+      "summary": "Severe thunderstorms capable of large hail, damaging winds, and isolated tornadoes will be possible over parts of the southern Plains into the Arklatex, mainly this evening into tonight.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "Based on latest short-term guidance, the Slight and Enhanced Risk areas for hail have been expanded a little west-southwestward in central TX. Potential for multiple supercells developing this evening into tonight ahead of a mid-level shortwave trough and surface cold front remains apparent, with scattered large hail and a couple tornadoes possible. With steep mid-level lapse rates supporting moderate instability and very strong deep-layer shear, isolated very large hail may occur early in the convective life cycle before storms potentially grow upscale into one or more small bowing clusters with more of a damaging wind threat. ..Gleason.. 03/24/2021 .PREV DISCUSSION... /ISSUED 1118 AM CDT Wed Mar 24 2021/"
+        },
+        {
+          "title": "North-Central TX this afternoon",
+          "text": "Latest visible satellite loop shows relatively clear skies across much of north-central and northeast TX, with temperatures warming through the 60s. Meanwhile, a surface warm front is lifting northward into this area, with 50s dewpoints now as far north as ACT. This destabilizing process will continue through the afternoon, yielding MLCAPE values over 1000 J/kg. Forecast soundings show little cap, and CAM guidance indicates the likely development of scattered thunderstorms across the warm sector and in vicinity of the warm front. Supercell structures are expected with large hail being the main threat. As the low-level moisture continues to improve through the evening, isolated tornadoes will also be possible as activity spreads into northeast TX."
+        },
+        {
+          "title": "Central TX tonight",
+          "text": "Water vapor imagery shows a shortwave trough over northern Mexico rounding the base of the larger-scale trough. This feature will emerge into southwest TX after dark, leading to the development of scattered thunderstorms. Similar to farther north, supercells capable of large hail and a tornado or two appears to be the main threat, although the potential for damaging winds could also increase with time. This cluster of storms is expected to track east-northeastward through the pre-dawn hours into east TX, with a continued severe risk."
+        },
+        {
+          "title": "Southern AR/northwest MS",
+          "text": "A surface warm front is forecast to become better defined by evening over central MS/LA and lift northward overnight. Thunderstorms are expected to develop along and north of this boundary after midnight. Meanwhile, model guidance is consistent in a strengthening low-level jet late tonight across this region - yielding enlarged hodographs and considerable low-level shear. It is unclear if the convection along the immediate warm front will be surface-based. However, if these storms can be rooted in the boundary-layer, the potential exists for supercells and bowing structures capable of damaging winds or an isolated tornado."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-03-25",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-03-25T01:00Z",
+      "valid_end": "2021-03-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210325_0100.html",
+      "summary": "Severe thunderstorms capable of large hail, damaging winds, and isolated tornadoes will be possible over parts of the southern Plains into the Arklatex, this evening into tonight.",
+      "sections": [
+        {
+          "title": "Southern Plains/Arklatex",
+          "text": "Latest water vapor imagery shows an upper-level trough in northwest Mexico with southwest mid-level flow over the southern Plains. At the surface, a cold front is located in northern and central Texas with a 995 mb low located to the south of the front in far northern Mexico. Strong to potentially severe thunderstorms are ongoing near and to the east of the cold front across north-central and northeast Texas. The convection is located along the western edge of a corridor of moderate instability. The RAP is estimating MLCAPE along this corridor to be from 1200 to 1800 J/kg. This combined with 0-6 km shear in the 50 to 65 kt range will be favorable for supercells with large hail. Hailstones of greater than 2 inches in diameter will be possible across parts of north-central Texas this evening where instability is a bit stronger than in areas to the northeast. Some convective allowing models suggest that bowing structures will develop across north-central and northeast Texas from late this evening into tonight. These structures would be capable of producing wind damage. A tornado or two may also occur. Further to the southwest into the southwestern Texas Hill Country, the RAP is analyz"
+        },
+        {
+          "title": "Lower Mississippi Valley",
+          "text": "Southwest mid-level flow will remain in place across the southeastern U.S. this evening into tonight, as an upper-level trough moves into the southern High Plains. In response to the approaching system, moisture advection will take place across the lower Mississippi Valley this evening. Thunderstorm development may continue across parts of southeast Louisiana, southern Mississippi and southern Alabama as the low-level jet gradually strengthens this evening. These storms are forecast to move northward across central Mississippi and west-central Alabama later tonight as warm advection continues across the region. Although the convection should be primarily elevated, a few marginally severe wind gusts and hail will be possible. ..Broyles.. 03/25/2021"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 242,
+      "issue_utc": "2021-03-24T20:22Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0242.html",
+      "summary": "Thunderstorm development is anticipated this evening across western portions of central and north-central TX. Threat for large hail, damaging wind gusts, and perhaps a tornado or two will accompany this storms as they move northeastward into more of central and north-central TX. Trends are being monitored for possible watch issuance.",
+      "discussion": "Recent surface analysis places a weak low just southeast of BWD in central TX. A warm front extends eastward from this low, demarcated well by both the 56 deg F isodrosotherm and the edge of the cloud shield in visible satellite imagery. A surface trough also extends southwestward from this low before arcing back northwestward south of SJT into the TX Permian Basin. The air mass south of the warm front also continues to destabilize, particularly over the TX Hill County in the vicinity of the low. Recent mesoanalysis suggests MLCAPE around 500 J/kg near the low, increasing to over 1000 J/kg over in the region between Del Rio and San Antonio. Continued destabilization is expected as the warm front continue to move northward. At the same time, persistent low-level convergence in the vicinity of the low and its associated surface trough is expected to result in eventual convective initiation. Visible satellite imagery has shown several attempts at deep convection, although none have succeeded thus far. Current attempt is underway over McCulloch County. In addition to this mesoscale forcing, large-scale forcing for ascent is gradually increasing across the region as a shortwave trough approaches from the west. Once convective initiation is realized, the environment is favorable for maturation into supercells. Primary hazard throughout the evening will be large hail while some damaging downburst winds are also possible. Gradually strengthening low-level could also result in a tornado or two."
+    },
+    {
+      "year": 2021,
+      "number": 243,
+      "issue_utc": "2021-03-24T23:10Z",
+      "topic": "Tornado Watch 47",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0243.html",
+      "summary": "The severe threat continues across WW 47.",
+      "discussion": "Scattered cellular convection, including a few supercells, have evolved near/just east of the DFW metro area over the past hour. Additionally, a longer-lived supercell over San Saba/Mills/Hamilton counties has recently produced 1.5-1.75 inch hail. Additional shallow convection has deepened in the past 15 minutes along the I-35 corridor between Waco and Hillsboro. The storms are in a favorable environment for updraft rotation, with southeasterly low-level flow veering strongly with height amid weak to moderate instability. Additionally, the cells just east of DFW appear to be interacting favorably with a warm front lifting northward along the I-20 corridor in that area. As gradual low-level moistening continues, surface-based convection is expected to continue to pose a risk for tornadoes in addition to hail (potentially significant near supercells). A greater tornado risk may evolve after the 00Z time frame pending backing of low-level wind fields due to cyclogenesis along the Rio Grande/Big Bend area. ..Cook.. 03/24/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 244,
+      "issue_utc": "2021-03-25T00:37Z",
+      "topic": "Severe Thunderstorm Watch 48",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0244.html",
+      "summary": "The greatest severe threat in the near term is across the eastern half of WW 48 and areas downstream.",
+      "discussion": "An ongoing cluster of thunderstorms (a few with marginally strong supercellular structures) continues to migrate northeastward across the eastern half of WW 48. Hail as large as 1.75 inches in diameter was reported with one dominant cell over Van Zandt County earlier. Most of the severe threat exists with cells that can acquire rotation, with pressure perturbations processes amid weak to moderate instability fostering hail production. These cells are also lifting northeastward in tandem with a warm front subjectively analyzed near the I-30 corridor in northeast Texas. Cells that interact favorably with this boundary will continue to pose a hail/wind and brief tornado risk. Furthermore, increasing low-level flow may aid in maintenance of ongoing cells despite a general tendency toward more elevated convection over time. This could maintain a hail risk just beyond the confines of WW 48 over time. Western portions of WW 48 (generally west of I-35) are currently experiencing a lull in the severe weather risk. Despite appreciable deep shear, relatively meager mid-level lapse rates seem to be the primary limiting factor for a more robust threat. This may change over the next couple of hours as ascent now approaching the Texas Big Country/southwest Texas vicinity approaches the region later tonight."
+    },
+    {
+      "year": 2021,
+      "number": 245,
+      "issue_utc": "2021-03-25T01:15Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0245.html",
+      "summary": "Additional storm development is likely by mid to late evening. All severe hazards (hail, wind, tornado) are possible. A new watch will likely need to be coordinated before 10pm prior to expiration of tornado watch #47. The type of watch (severe thunderstorm, tornado) is still a bit uncertain.",
+      "discussion": "Visible/IR satellite imagery during the past 1.5 hours has shown the development of a mid-level cloud patch straddling the Rio Grande from parts of Terrell and Val Verde counties. The cloud development is likely in response to stronger forcing for ascent beginning to spread east towards the west edge of the moist/unstable sector located over the TX Hill Country. As the upward vertical motion continues to move east, concurrent with a strengthening low-level jet, expecting the gradual development of additional thunderstorms initially near Val Verde, Sutton, and Edwards counties. As this activity matures, an accompanying severe risk is probable given strong vertical shear and ample instability. Large hail and severe gusts appear to be the primary risk. However, some recent CAM model runs have shown the development of strong simulated supercells. Although the low-level shear is not currently forecast to be very strong, a conditional risk for a few low-level mesocyclones and an attendant tornado risk could materialize. Nonetheless, vigorous storms capable of hail/wind will likely develop and a severe risk will probably linger into the overnight."
+    },
+    {
+      "year": 2021,
+      "number": 246,
+      "issue_utc": "2021-03-25T02:27Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0246.html",
+      "summary": "An isolated severe storm may develop within a warm advection regime across the region tonight. A WW issuance is not anticipated.",
+      "discussion": "Showers and isolated thunderstorms have maintained themselves over the past several hours within a broad warm-advection regime just north of a front near the coast. The frontal zone itself separates an unstable and weakly capped regime with 400-600 m2/s2 0-3km SRH noted via the wind profiler at KLIX recently. Most of the convection is slightly elevated atop the warm frontal zone, though recent indications are that a couple of cells have acquired right-moving characteristics. Storms that can move right of the mean storm motion vector may pose a risk for hail and damaging wind gusts, though their slightly elevated nature may limit a more robust tornado threat. As low-level wind fields increase to around 60 knots, the warm frontal regime and isolated severe risk should gradually shift northward toward the I-20 and U.S. 84 corridors over the next few hours."
+    },
+    {
+      "year": 2021,
+      "number": 247,
+      "issue_utc": "2021-03-25T03:28Z",
+      "topic": "Tornado Watch 49",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0247.html",
+      "summary": "A focused corridor for higher hail potential appears to be maximizing over parts of the Edwards Plateau through 1100-1130pm CDT. Very large hail (2-3 inches in diameter) is possible with the stronger supercells embedded within this thunderstorm cluster.",
+      "discussion": "MRMS MESH and single site WSR-88D imagery recently showed a very intense supercell over Kimble County, TX with hail potentially 2-3 inches in diameter. This storm has formed on the southern periphery of a cluster of convection near the front draped southwest to northeast. Additional storm development is likely on the southwestern flank as storms break the cap near Val Verde County. The latest RAP forecast sounding for Junction, TX shows strong effective shear (55+ kt) with a 500 mb temperature at -19 deg C---very favorable for supercell hail production. A long hodograph supported by 135 kt 300 mb flow (reference the 02 UTC Junction RAP sounding) will favor ample updraft venting and hail production with the more dominant cells over the next hour. The very large hail threat may gradually wane beyond 1130pm as the convective mode/cell interference lessens the risk. ..Smith.. 03/25/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 248,
+      "issue_utc": "2021-03-25T04:37Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0248.html",
+      "summary": "Occasional instances of large hail are expected across the discussion area for the next few hours. A WW issuance is not anticipated for this activity.",
+      "discussion": "Persistent, occasionally severe thunderstorms have resulted in reports of 1-1.75 inch diameter hail in southwest Arkansas recently, and newer convection is developing near the Arkadelphia area. Additional convection is also migrating eastward into the discussion area from southeastern Oklahoma and northeastern Texas. The storms are in an environment characterized by relatively weak instability - especially north of a warm front extending from near Hugo to Arkadelphia and Monticello. However, forcing for ascent associated with increasing low-level flow (around 850 mb) and fairly steep lapse rates (ranging from 7.5-8 deg C/km based on point forecast soundings) are supporting occasional hail formation especially within updrafts that can obtain rotation aloft. This general regime should continue over the course of the next few hours, with convection continuing to spread northeastward - perhaps toward central Arkansas and vicinity. The overall regime does not merit a WW issuance due to the sporadic nature of the hail threat. If convection can become rooted nearer the surface, a wind/brief tornado threat would emerge, although this scenario is in doubt."
+    },
+    {
+      "year": 2021,
+      "number": 249,
+      "issue_utc": "2021-03-25T04:42Z",
+      "topic": "Tornado Watch 49",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0249.html",
+      "summary": "Focused potential for 60-70 kt gusts over the next 1-2 hours as remnant supercell cores consolidate further into a band and maintain some supercell characteristics. The strongest gusts will likely accompany the precipitation-loaded rear flank downdrafts as this activity gradually pushes eastward over the next 1-2 hours.",
+      "discussion": "Radar mosaic shows the early stages of upscale growth over central TX with remnant supercell cores. Area VAD data (reference KEWX and KGRK) have shown a 10-15 kt increase during the past hour at 3 km AGL (roughly 700 mb). The storm cores will continue to encounter a richer low-level airmass with surface dewpoints in the lower 60s deg F. As the cores continue to become more precipitation loaded over the next hour, expecting a transition from mainly a hail threat to a combination of hail/wind. The wind risk will seemingly maximize in the vicinity of where stronger internal dynamic storm scale processes occur, and thereby favor increasing potential for stronger gusts at the surface. Given the strengthening low to mid-level wind field and a favorable convective mode transition, expecting an increased threat for 60-70 kt gusts over the next 1-2 hours as this band of storms moves east. ..Smith.. 03/25/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 250,
+      "issue_utc": "2021-03-25T06:40Z",
+      "topic": "Tornado Watch 49",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0250.html",
+      "summary": "Overall severe potential is gradually diminishing across WW 49. An isolated threat for large hail may persist in the short term across south-central TX. A downstream watch is not expected.",
+      "discussion": "Strong MLCIN is noted in 06z mesoanalysis data, as well as in the 00z CRP RAOB. Furthermore, convection across north Texas has become undercut by the cold front and has since weakened. To the south, toward the Edwards Plateau vicinity, convection is mainly along the cold front, but regional radar reflectivity shows outflow has surged ahead of this convection. While a corridor of relatively weaker MLCIN exists across south-central Texas, the environmental conditions will quickly become more hostile as storms approach the edge of WW 49. Steep lapse rates and strong shear exist, so some large hail potential may persist another 1-2 hours, along with some gusty winds with outflow, but overall severe threat appears to be diminishing. ..Leitman.. 03/25/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

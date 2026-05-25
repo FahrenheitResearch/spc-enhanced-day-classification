@@ -1,0 +1,229 @@
+{
+  "convective_day": "2020-08-10",
+  "valid_start": "2020-08-10T12:00Z",
+  "valid_end": "2020-08-11T12:00Z",
+  "max_risk": "MDT",
+  "product_counts": {
+    "ENH": 1,
+    "MDT": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-08-10",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-08-10T13:00Z",
+      "valid_end": "2020-08-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200810_1300.html",
+      "summary": "Severe thunderstorms capable of damaging winds are forecast to move across parts of Iowa, Illinois, and southern Wisconsin through this afternoon. Other scattered strong to severe thunderstorms will be possible later today over portions of Kansas and Missouri.",
+      "sections": [
+        {
+          "title": "IA/IL",
+          "text": "Morning water vapor loop shows a progressive shortwave trough digging southeastward across parts of ND/SD. A cluster of thunderstorms formed overnight ahead of this system along the NE/SD border. Recent trends in this activity suggest a developing bow echo, with an increasing risk of damaging winds. Recent CAM solutions suggest this MCS will persist through the day and track eastward across much of IA and into IL. The storms are currently behind a surface cold front, which may temper the downdraft potential through mid-morning. However, it is likely that the storms will catch up to the front by early afternoon over central/eastern IA, when a more widespread damaging wind threat may ensue. Very large CAPE values and sufficient deep-layer shear will help maintain the storms across IL and perhaps into IN before weakening this evening."
+        },
+        {
+          "title": "Southern WI this morning",
+          "text": "A small cluster of intense storms is currently near LaCrosse WI. These storms may persist and track across southern WI this morning, posing a risk of locally damaging wind gusts and hail. Please refer to MCD #1446 for further details."
+        },
+        {
+          "title": "KS/MO",
+          "text": "Strong heating will result in a corridor of very unstable air across parts of KS/MO this afternoon, with SBCAPE of 3000-4000 J/kg around max heating. Scattered afternoon and evening multicell thunderstorms are expected to develop, with the strongest cells capable of damaging wind gusts and hail. ..Hart/Mosier.. 08/10/2020"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-08-10",
+      "hhmm": "1630",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2020-08-10T16:30Z",
+      "valid_end": "2020-08-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200810_1630.html",
+      "summary": "A derecho producing widespread damaging winds, some of which should be intense, is expected to persist and expand east from Iowa into parts of the Midwest through this evening.",
+      "sections": [
+        {
+          "title": "IA to the Midwest",
+          "text": "A pair of impulses embedded within a shortwave trough over the Upper Midwest will rapidly progress east. A 50+ kt jetlet should persist from eastern SD into southern WI through early evening. An intense MCS with a well-developed rear-inflow jet is ongoing to the south of the mid-level jet across central IA. Very steep mid-level lapse rates around 9 C/km per 12Z OAX and DVN soundings along with robust boundary-layer heating ahead of it should support maintenance of this MCS this afternoon. On the fringe of the stronger mid-level westerlies, a pronounced bow should sweep eastward across eastern IA and the northern IA vicinity. The MCS should enlarge as well as convection develops northeast along a surface front into southern WI. For more in-depth discussion of the short-term severe threat, please see MCD 1450. Given large buoyancy and steep low to mid-level lapse rates within the gradient of moderate to strong mid-level westerlies, potential will exist for a derecho with intense severe gusts and widespread wind damage across parts of central to eastern IA into northern IL and far southern WI. The MCS will likely persist east into Lower MI and IN while developing southwestward into a "
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-08-10",
+      "hhmm": "2000",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2020-08-10T20:00Z",
+      "valid_end": "2020-08-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200810_2000.html",
+      "summary": "A derecho producing significant damaging winds will persist across much of northern Illinois and possibly far southern Wisconsin, and into northern Indiana and southern Lower Michigan this evening.",
+      "sections": [
+        {
+          "title": "IA to the Midwest",
+          "text": "A pair of impulses embedded within a shortwave trough over the Upper Midwest will rapidly progress east. A 50+ kt jetlet should persist from eastern SD into southern WI through early evening. An intense MCS with a well-developed rear-inflow jet is ongoing to the south of the mid-level jet across central IA. Very steep mid-level lapse rates around 9 C/km per 12Z OAX and DVN soundings along with robust boundary-layer heating ahead of it should support maintenance of this MCS this afternoon. On the fringe of the stronger mid-level westerlies, a pronounced bow should sweep eastward across eastern IA and the northern IA vicinity. The MCS should enlarge as well as convection develops northeast along a surface front into southern WI. For more in-depth discussion of the short-term severe threat, please see MCD 1450. Given large buoyancy and steep low to mid-level lapse rates within the gradient of moderate to strong mid-level westerlies, potential will exist for a derecho with intense severe gusts and widespread wind damage across parts of central to eastern IA into northern IL and far southern WI. The MCS will likely persist east into Lower MI and IN while developing southwestward into a "
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 1447,
+      "issue_utc": "2020-08-10T12:46Z",
+      "topic": "Severe Thunderstorm Watch 424",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1447.html",
+      "summary": "Threat for isolated hail and damaging wind gusts continues. A watch extension may be needed if more southerly storm motion continues and additional strengthening occurs.",
+      "discussion": "Recent KFSD radar imagery shows the outflow outrunning the northern portion of the line in far southeast SD and adjacent far northeast NE. Additionally, the southern portion of the cluster has a more multicellular structure consistent with warm-air advection over a boundary, suggesting little organization in this area of the line as well. In between (roughly over Cedar, Wayne, and Dixon Counties in NE) some better organization and faster forward storm motion has been noted. While likely still slightly elevated, this portion of the line currently poses the highest potential to produce damaging wind gusts. Recent storm motion of 45 kt takes this portion of the line to the NE/IA border around 13Z. Additionally, if the current motion continues, the line could reach the southern edge of Severe Thunderstorm Watch 424 by 13-1330Z. As a result, a local extension may be required if trends merit. ..Mosier.. 08/10/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1448,
+      "issue_utc": "2020-08-10T13:40Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1448.html",
+      "summary": "A severe/damaging wind threat should increase across parts of western/central IA this morning. Watch issuance will likely be needed soon.",
+      "discussion": "A small, bowing MCS along the NE/IA border has recently produced a measured 50 kt wind gust at KSUX. Very steep mid-level lapse rates observed on the 12Z OAX sounding are supporting ample instability downstream of this convection across much of western/central IA. Even though outflow from prior convection has surged southward across this area, it still appears probable that strong to severe wind gusts will be able to penetrate the shallow near-surface stable layer and reach the surface given the large reservoir of instability present. The stronger mid-level flow associated with an upper trough will generally remain across MN and northern IA, but there should still be sufficient enhancement to the mid-level winds across central IA for continued organization/maintenance of the ongoing MCS. Accordingly, the threat for severe/damaging wind gusts is expected to increase across parts of western/central IA, and a new Severe Thunderstorm Watch downstream is likely soon."
+    },
+    {
+      "year": 2020,
+      "number": 1449,
+      "issue_utc": "2020-08-10T14:45Z",
+      "topic": "Severe Thunderstorm Watch 425",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1449.html",
+      "summary": "The greatest severe/damaging wind threat will focus over central Iowa, including the Des Moines metro area, over the next hour or two.",
+      "discussion": "Numerous measured severe wind gusts have been observed across eastern NE and western IA over the past hour in association with a small MCS. As this bow moves quickly eastward (around 45-50 kt) into central IA this morning, it will encounter an increasingly unstable airmass. A focused corridor of severe/damaging winds of 60-70+ mph appears likely given recent radar trends, with the development of a real-inflow jet and strong inbound velocities noted on the KDMX radar. This corridor will likely include the Des Moines metro area, with extrapolation of current storm motion suggesting arrival in this area around 16Z (11 AM CDT). ..Gleason.. 08/10/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1450,
+      "issue_utc": "2020-08-10T15:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1450.html",
+      "summary": "Widespread damaging winds, some potentially significant (75+ mph), will become increasingly likely as a line of storms moves quickly eastward this afternoon. A Severe Thunderstorm Watch will be needed to address this threat, and an upgrade to Moderate Risk (for significant severe/damaging winds) will be issued with the upcoming 1630Z update to the Day 1 Convective Outlook.",
+      "discussion": "A compact MCS moving into central IA as of 1540Z has recently produced numerous severe/damaging wind gusts. Recent radar trends suggest this system has already become very well organized, with the development of an 80-100+ kt rear-inflow jet only a couple thousand feet off the surface per KDMX velocity data. The airmass downstream of this MCS into eastern IA, southern WI, and northern/central IL is already quite unstable, with MLCAPE of 2000-2500 J/kg present per 15Z mesoanalysis estimates. Additional diurnal heating of this airmass is expected to yield very strong to potentially extreme instability by this afternoon, with MLCAPE potentially reaching the 3500-5500 J/kg range by peak heating. Recent VWPs from the KDMX radar show sufficient mid-level flow (around 30-35 kt) to support the continued intensity of the ongoing MCS. Additional storms have recently formed across parts of north-central into northeastern IA along a weak cold front. Current expectations are for the MCS in central IA to eventually merge with the new development in north-central/northeastern IA. Result of this will likely be a large, very well organized bow echo producing widespread severe and damaging wind gusts across parts of eastern IA into southern WI, and northern/central IL. The forecast combination of very strong to extreme instability with adequate deep-layer shear downstream of the ongoing MCS strongly suggests that a swath of potentially significant severe wind gusts of 75+ mph is becoming increasingly likely this afternoon across parts of these areas. A new Severe Thunderstorm Watch will be needed downstream of the current watch in central IA within the next hour or two. An upgrade to Moderate Risk for numerous significant severe/damaging wind gusts will be issued with the 1630Z update of"
+    },
+    {
+      "year": 2020,
+      "number": 1451,
+      "issue_utc": "2020-08-10T16:00Z",
+      "topic": "Severe Thunderstorm Watch 425",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1451.html",
+      "summary": "A swath of significant severe/damaging wind gusts appears likely across and to the east of the Des Moines metro area.",
+      "discussion": "Latest velocity data from the KDMX radar shows an impressive significant wind signature with the ongoing MCS, with 80-115+ kt inbound velocities noted only 500-1000 ft AGL. These very likely severe winds will move across the Des Moines metro area shortly, and they will be capable of producing widespread, destructive damaging winds of 70-80+ mph as the MCS races eastward at 50-60 kt. ..Gleason.. 08/10/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1452,
+      "issue_utc": "2020-08-10T17:14Z",
+      "topic": "Severe Thunderstorm Watch 425",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1452.html",
+      "summary": "Widespread damaging winds of 70-100 mph are expected to continue eastward across central/eastern Iowa over the next hour or so. These winds will likely impact Cedar Rapids/Iowa City, and eventually the Quad Cities area.",
+      "discussion": "A small but potent bow echo will continue rapidly eastward across eastern IA in the next hour or so. The apex of this bow is moving eastward around 55-60 kt, and the potential for widespread damaging winds remains apparent. A recent measured severe wind gust of 99 mph was reported at the Marshalltown ASOS associated with this bow, and a couple other gusts up to 100 mph have also been noted. Current expectations are for this bow echo to maintain its intensity across eastern IA, with 2500-3000 J/kg of MLCAPE present downstream. A swath of 70-100+ mph wind gusts producing destructive damage appears likely to impact the Cedar Rapids/Iowa City area within the next hour, eventually reaching the Quad Cities area around 1800-1830Z. ..Gleason.. 08/10/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1453,
+      "issue_utc": "2020-08-10T17:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1453.html",
+      "summary": "Conditions becoming more favorable for convective development this afternoon, with a risk for damaging winds and large hail. Severe Thunderstorm Watch likely.",
+      "discussion": "Visible satellite shows some clearing occurring across parts of central Wisconsin, allowing for some diabatic heating and temperatures into the mid 80s F amid rich boundary layer moisture (dew point temperatures in the low to mid 70s). This has resulted in moderate destabilization of the atmosphere, with MLCAPE nearing 2500 J/kg. Westerly flow aloft combined with low-level southerly flow is producing 30-35 kt of effective bulk shear across the region. Given the thermodynamic and kinematic environmental indices, any storms that develop in this region would pose a threat for damaging winds and isolated large hail. Recent CAM guidance supports the notion of convection developing and becoming more widespread in coverage by mid-afternoon. Therefore, conditions will continue to be monitored for probable watch issuance in the next 1-2 hours."
+    },
+    {
+      "year": 2020,
+      "number": 1454,
+      "issue_utc": "2020-08-10T18:17Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1454.html",
+      "summary": "Pulse storms developing with a few damaging wind gusts possible, watch issuance unlikely.",
+      "discussion": "Visible satellite/radar trends show widespread convective development occurring in response to strong diabatic heating. Ample ambient low-level moisture (dew point temperatures in the low to mid 70s) combined with day time heating has resulted in MLCAPE of 1500-2000 J/kg across the region. Despite moderate instability, flow throughout the troposphere is generally weak. Thus, pulse convection is expected to be the predominant mode, although some merging of outflow may allow the convection to coalesce. These outflows may produce sporadic damaging winds gusts with the strongest cells. However, widespread coverage is not expected, and therefore watch issuance is unlikely for the remainder of the afternoon."
+    },
+    {
+      "year": 2020,
+      "number": 1455,
+      "issue_utc": "2020-08-10T18:36Z",
+      "topic": "Severe Thunderstorm Watch 426",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1455.html",
+      "summary": "The potential for widespread and destructive damaging wind gusts of 70-100+ mph and perhaps a tornado or two will continue as a line of storms moves quickly eastward across northern Illinois. This line will likely impact the Chicago metro area around 2000-2030Z (3 to 3:30 PM CDT).",
+      "discussion": "The bow echo over eastern IA has developed a comma head structure on its northern flank and very large rear-inflow jet, with measured wind gusts of 97 and 112 mph recently reported in the vicinity of Cedar Rapids IA. The 17Z sounding from DVN observed steep 700-500 mb lapse rates of 8.5 C/km. These lapse rates combined with strong heating of a very moist low-level airmass is supporting 3000-3500 J/kg of MLCAPE downstream of the bow. The 25 kt of effective bulk shear also observed on the 17Z sounding is somewhat marginal for storm organization. Regardless, with the bow echo already very well developed/organized, confidence remains high that a swath of widespread, destructive damaging winds of 70-100+ mph will sweep eastward across northern IL and vicinity over the next hour or two. If the current fast eastward motion of the bow (around 60 kt) holds steady, then the widespread damaging wind threat will increase across the Chicago metro area by 2000-2030Z (3 to 3:30 PM CDT). In addition to the substantial straight-line wind threat, some increase in the tornado threat may be developing on the northern flank of the bow, where mid-level rotation has recently been noted. Other cells have also formed ahead of the line across far southern WI and northern IL along a weak warm front, and this convection will pose a threat for isolated large hail, damaging winds, and perhaps a tornado or two. ..Gleason.. 08/10/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1456,
+      "issue_utc": "2020-08-10T19:28Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1456.html",
+      "summary": "A substantial severe wind threat will likely increase this afternoon across parts of southern Lower Michigan and into northern/central Indiana with a line of storms moving quickly eastward. A Severe Thunderstorm Watch will be needed.",
+      "discussion": "A bow echo will continue moving rapidly eastward across northern IL and far southern WI this afternoon while producing widespread damaging winds of 70-100 mph. The airmass across southern Lower MI and northern/central IN continues to destabilize this afternoon, with surface temperatures having warmed into the mid to upper 80s, and surface dewpoints in the low to mid 70s. Steeper mid-level lapse rates observed on the 18Z ILX sounding have likely spread over at least the western portions of southwestern MI and western IN. Resultant MLCAPE of 2000-3500 J/kg and around 25-30 kt of effective bulk shear will likely support the maintenance of the severe bow echo as it moved eastward across these areas this afternoon and early evening. Severe wind gusts, some 75+ mph, will likely produce numerous to widespread damaging winds, and a tornado or two cannot be ruled out with circulations embedded within the line. This substantial severe wind risk is expected to increase within the next couple of hours, and a Severe Thunderstorm Watch will be issued to address this threat."
+    },
+    {
+      "year": 2020,
+      "number": 1457,
+      "issue_utc": "2020-08-10T19:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1457.html",
+      "summary": "A few multi-cell clusters should develop this afternoon, with damaging winds/hail possible. Trends will be monitored for possible watch issuance across parts of the region.",
+      "discussion": "Regional satellite/radar trends show a variety of convective development processes occurring across the region. 1) An early morning band of severe convection continues to move northeastward into northeast Missouri, where outflow from the ongoing MCS has largely stabilized the atmosphere. These storms may end up merging with the MCS across this area into central Illinois, where MLCAPE of 3000-4000 J/kg resides. 2) A persistent band of elevated convection from northwest Missouri into southeast Kansas is beginning to show signs of rooting into the boundary layer. This uptick in intensity is also evident in visible satellite. This trend appears to pose the greatest short-term threat. 3) Boundary layer cumulus is developing across south-central Missouri amid strong diabatic heating (temperatures in the low 90s F) and rich low-level moisture (dew point temperatures in the low to mid 70s F). This process has yielded MLCAPE of 2500-3000 J/kg. Given the widespread destabilization that has occurred, and the convective trends noted, convection should become more widespread throughout the afternoon. Despite ample instability, winds aloft are generally weak, with only about 20 kt of effective bulk shear present, with perhaps some enhancement near the MCS in central Illinois. Thus storms should form into a few mutli-cell clusters, posing a threat damaging winds and large hail. Convective trends will be monitored for potential watch issuance this afternoon."
+    },
+    {
+      "year": 2020,
+      "number": 1458,
+      "issue_utc": "2020-08-10T20:36Z",
+      "topic": "Severe Thunderstorm Watch 426",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1458.html",
+      "summary": "A widespread severe/damaging wind threat continues with a line of storms moving quickly eastward. A tornado also remains possible. The greatest threat for 70-80+ mph wind gusts will likely focus over the Chicago metro area over the next hour.",
+      "discussion": "Latest velocity data from KLOT shows somewhat less extreme inbound velocities (generally 50-80 kt) compared to earlier. Even so, the overall bow echo remains well organized, and it is moving through a very strongly unstable airmass (3500-4000+ J/kg MLCAPE). A severe wind gust to 54 kt was observed in Aurora IL at 2016Z. The northern portion of the bow will have the best potential to continue producing widespread damaging wind gusts as it moves across the Chicago metro area over the next hour, with some possibly still significant (75-80+ mph). A tornado or two embedded within the line also remains possible across this area, but the primary risk is still widespread damaging straight-line winds. This substantial severe wind threat will likely continue across southern Lake Michigan and into southwestern Lower MI and northwestern IN late this afternoon and into the early evening given a favorable combination of moderate to strong instability present across these areas. The southern portion of the line into central IL has shown less intensity recently, with outflow beginning to surge southeastward ahead of the updrafts. This is likely due to weaker mid-level flow with southward extent across central IL (see recent VWPs from KILX). Still, isolated damaging winds will remain possible across this area in the short term. ..Gleason.. 08/10/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1459,
+      "issue_utc": "2020-08-10T20:46Z",
+      "topic": "Severe Thunderstorm Watch 427",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1459.html",
+      "summary": "The threat for damaging winds/hail continues across WW 427. A downstream watch may be needed.",
+      "discussion": "Regional radar shows a few strong to severe storms have developed across central/northern parts of WW 427, with convective activity associated with a severe MCS now moving into southern parts of the watch area. This activity is occurring in an environment characterized by MLCAPE of 2000-2500 J/kg and 30-35 kt of effective bulk shear, which is sufficient to sustain organized convection capable of damaging winds and severe hail. Storms are expected to continue moving from west to east across the watch area in advance of a cold front, with perhaps some increase in coverage. Uncertainty exists in whether or not the convection will persist as it crosses northern parts of Lake Michigan and entering into the L.P. of Michigan. Presently there exists a corridor of enhanced instability (MLCAPE near 2000 J/kg) and nearly homogeneous effective shear (30-35 kt). These conditions are forecast to persist into the evening hours. Thus, should trends in convective coverage/intensity persist, a downstream watch may be considered for parts of the region. ..Karstens.. 08/10/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1460,
+      "issue_utc": "2020-08-10T21:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1460.html",
+      "summary": "Vigorous convective development and intensification is underway across parts of the southern Plains. Damaging gusts are the primary threat, with some severe hail possible as well. Convective trends will be monitored for the need of one or more WWs to address the increasing severe threat.",
+      "discussion": "Rapid pulse cellular and multicellular development has been underway over the past couple of hours, situated within an instability axis ahead of a southward sagging cold front. Steep lapse rates (7.5-9 C/km) throughout a deep layer of the troposphere are currently supporting up to 3000 J/kg MLCAPE. While tropospheric flow is weak overall, noticeable veering in the sfc-700 mb layer is promoting some deep-layer shear for marginal storm organization. Upscale growth of a few convective clusters via cold pool mergers are possible, where more concentrated damaging wind threats may ensue. As such, convective trends will continue to be monitored for upscale organization and the need of potential WW issuance over the next couple of hours."
+    },
+    {
+      "year": 2020,
+      "number": 1461,
+      "issue_utc": "2020-08-10T22:17Z",
+      "topic": "Severe Thunderstorm Watch 428",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1461.html",
+      "summary": "Widespread damaging wind gusts will continue across WW 428 and 429, and eventually will spread into adjacent/downstream areas. One or more new WW issuances may be needed to cover the fast-moving threat.",
+      "discussion": "Latest radar loop shows a well-defined bowing MCS moving quickly eastward/southeastward at 40 to 45 kt across the Midwest, with the main convective line now east of Chicago, and moving toward Grand Rapids/Indianapolis/St. Louis. While moderate instability remains just downstream of the convection, which will allow storms to remain intense over the next hour, instability lessens with eastward and southeastward extent east of the existing watches. Still, given the very well-organized nature of this convective system, an organized/bowing band is likely to continue east and southeast of the existing watches. While severe risk should begin to diminish/become more isolated this evening, a new WW issuance -- into eastern lower Michigan and western Ohio, may be required. Some risk may also spread southeast of the existing watches across the Ohio River into northern Kentucky as well --- which could also require WW consideration. ..Goss.. 08/10/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1462,
+      "issue_utc": "2020-08-11T00:10Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1462.html",
+      "summary": "An isolated severe threat persists across portions of the TX and OK Panhandles into western OK. There is some chance for a brief uptick in severe wind and possibly hail should short-term upscale growth continue. A WW may be needed to address this scenario.",
+      "discussion": "Multicellular complexes, with a history of occasional severe wind/hail, persist across the TX/OK/KS border area. Latest mosaic composite radar imagery suggests that upscale growth of two separate clusters into a single cluster remains possible over the next hour or so as cold pools potentially merge, as also suggested by the last couple runs of the HRRR. Should this merger transpire, relatively steep low-level lapse rates (7.5-8.5 C/km per latest Mesoanalysis) would encourage additional evaporative cooling and efficient downward momentum transport to promote a brief but organized threat of damaging gusts, before instability wanes. Given that uncertainty in this scenario remains, convective trends will continue to be monitored for the possibility of a small, short-term WW issuance."
+    },
+    {
+      "year": 2020,
+      "number": 1463,
+      "issue_utc": "2020-08-11T00:16Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1463.html",
+      "summary": "A increase in strong/locally severe storm coverage is expected over the next 1 to 2 hours, before convection spreads across Lake Huron and into Ontario later tonight. WW issuance is not expected, due to marginal/local/isolated nature of the risk for wind damage.",
+      "discussion": "Latest radar loop shows convection increase across northern Lower Michigan, north and northeast of the comma head of the well-defined, bowing MCS crossing the southern half of the state. Instability (1500 to 2000 J/kg mixed-layer CAPE) across this region remains sufficient to support vigorous storms, but with rather modest (20 to 30 kt) deep-layer west-southwesterly flow across the area per latest APX WSR-88D VWP and model analyses, storms should remain only loosely organized. While some attendant risk for gusty/possibly damaging winds may occur with the strongest storms, risk should remain limited/isolated such that WW issuance will likely not be needed. ..Goss.. 08/11/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1464,
+      "issue_utc": "2020-08-11T00:29Z",
+      "topic": "Severe Thunderstorm Watch 428",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1464.html",
+      "summary": "Risk for locally damaging winds continues with the large, bowing MCS crossing the Midwest/Ohio Valley.",
+      "discussion": "Latest radar loop shows the still-well-organized bowing MCS crossing the Midwest/Ohio Valley region. Some weakening has been noted over the past 1 to 2 hours with northern portions of the line -- i.e. lower Michigan, eastern Indiana, and now western Ohio. Here, weaker instability is indicated with eastward extent. Thus, while locally gusty/damaging winds will likely persist with stronger updrafts within the convective band, risk should remain limited/isolated for the next few hours, before further weakening occurs. Meanwhile, a pool of moderate mixed-layer CAPE (3000 to 3500 J/kg) extends from southeastern Missouri into southern portions of Illinois and Indiana and the western half of Kentucky. Here, the convective band remains stronger, moving southeastward toward the Ohio River at this time. However, the deep-layer wind field weakens with southward extent, which should temper the overall severe risk somewhat, despite favorable instability. Still, locally damaging winds will likely continue for at least the next few hours as convection gradually spreads into/across the northern/western Kentucky vicinity. ..Goss.. 08/11/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

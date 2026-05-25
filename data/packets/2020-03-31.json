@@ -1,0 +1,91 @@
+{
+  "convective_day": "2020-03-31",
+  "valid_start": "2020-03-31T12:00Z",
+  "valid_end": "2020-04-01T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-03-31",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-03-31T16:30Z",
+      "valid_end": "2020-04-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200331_1630.html",
+      "summary": "Thunderstorms capable of a few tornadoes and damaging winds are possible today from southeast Alabama and north Florida into parts of southern Georgia southern South Carolina.",
+      "sections": [
+        {
+          "title": "Southeast States",
+          "text": "A line of fast-moving thunderstorms extends from the Mobile, AL area northeastward to near Atlanta, GA. Several bowing segments along the line are posing a risk of locally damaging wind gusts. This threat will likely persist for much of the day as storms track eastward across the remainder of central/southern GA and into SC. The surface air mass ahead of the line of storms is quite moist and marginally unstable across southeast AL, the FL Panhandle, and southwest GA with dewpoints in the mid 60s to lower 70s. Here, several supercell storms have developed in the last couple hours - both along the primary line and in a zone of low-level warm advection farther east. Local VAD profiles show substantial low-level shear and helicity in this region. Given trends and parameters, have upgraded to 10% tornado probabilities and ENH risk for this area. The main tornado risk should focus now through mid afternoon. Please refer to MCD #275 for further details. ..Hart/Bentley.. 03/31/2020"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 274,
+      "issue_utc": "2020-03-31T12:53Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0274.html",
+      "summary": "Threat for damaging downburst winds and brief tornadoes will continue across southeast MS and southern AL this morning. Trends will be monitored for possible watch issuance.",
+      "discussion": "12Z surface analysis places a frontal low just north of NMM along the central MS/AL. A warm front extends southwestward from this low into the western FL Panhandle and then back east-northeastward across southern GA. Air mass south of this warm front is characterized by temperatures in the upper 60s/low 70s, dewpoints in the mid 60s, and modest instability (i.e. MLCAPE 500-800 J/kg). 12Z LIX sounding sampled this air mass well and shows poor lapse rates mitigating buoyancy in an otherwise warm and moist environment. Regional radar imagery shows a convective line extending from central AL southwestward into southwest MS ahead of a cold front moving through the region. Portions of this line in MS have shown some modest intensification over the past hour or so as a result of the more favorable thermodynamic environment. General expectation is for this convective line to continue eastward with theta-e advection persisting ahead of it, allowing for continued surface-based development. Moderate to strong low/mid-level flow will also remain co-located with the convective line, supporting enough low-level shear for some updraft organization. As such, the threat for damaging downburst winds and brief tornadoes will continue. Convective trends will be monitored throughout the morning for potential watch issuance."
+    },
+    {
+      "year": 2020,
+      "number": 275,
+      "issue_utc": "2020-03-31T15:42Z",
+      "topic": "Tornado Watch 77",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0275.html",
+      "summary": "Tornado risk appears to be maximized across southern portions of the WW area.",
+      "discussion": "Latest radar loop shows a discontinuous band of thunderstorms extending from near the Alabama/Georgia state line southwest of Atlanta, southwestward to extreme southeastern Mississippi, just ahead of a similarly oriented cold front advancing across the area. The strongest portion of the band extends from roughly Troy County AL to near Mobile, with several cells exhibiting low-level rotation -- both within the broken band of storms, as well as with cells which continue to increase ahead of the line over the Panhandle and into far southeast Alabama. The two storms which appear to have the strongest/deepest rotational radar signatures are one crossing central Escambia County at this time which is embedded within the main band, and a second/lone cell crossing Geneva County Alabama. Storms over the southern portion of the watch -- where the greatest (500 to 1000 J/kg) mixed-layer CAPE and low-level moisture (upper 60s to near 70 dewpoints) exist -- have shown a tendency to acquire rotation fairly rapidly upon corresponding increases in radar reflectivity. As such, and with 0-1km shear supportive of this tendency for low-level rotation, tornado probability will be increased to 10%/ENH risk in the upcoming 1630Z Day 1 outlook update. ..Goss.. 03/31/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 276,
+      "issue_utc": "2020-03-31T16:20Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0276.html",
+      "summary": "Risk for locally gusty/damaging winds is expected to increase as storms move rapidly eastward across northern GA. A severe thunderstorm watch is being considered.",
+      "discussion": "Despite a dearth of instability, a coherent, arcing band of storms is moving rapidly eastward across the northern half of Georgia at 50 to 55 kt. With very strong flow aloft (west-southwesterlies near 50 kt at 3km), expect the rapid storm movement to continue to contribute to areas of local wind damage with the low-topped band of convection, despite the weakly buoyant environment across the area, near and north of the west-to-east warm front."
+    },
+    {
+      "year": 2020,
+      "number": 277,
+      "issue_utc": "2020-03-31T17:09Z",
+      "topic": "Tornado Watch 77",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0277.html",
+      "summary": "The damaging wind/tornado threat continues into the afternoon across southeast Alabama, southwest Georgia, and portions of the FL panhandle.",
+      "discussion": "A combination of QLCS and line embedded supercells have produced several apparent tornadoes this morning across southern Alabama with peak Vrot between 45 and 50 kts in a STP 1-2 environment and multiple TDS signatures. This is consistent with tornadic damage in the 100 to 140 mph range. The environment ahead of these storms will continue to be favorable for tornadoes, likely with similar intensities, as low-level flow continues to strengthen (1km flow near 50 knots per MOB/EOX VWP), and the upstream environment continues to destabilize. Thus far, numerous showers and thunderstorms ahead of the main line have exhibited moderately strong low-level rotation, but there has not been any evidence of tornadoes with this activity thus far. However, as this activity continues to mature, it will also pose a tornado threat. Mostly veered low-level flow is the primary limiting factor to a greater strong/long-lived tornado threat. Most guidance continues to keep low-level flow out of the southwest. However, trends will continue to be monitored as any localized low-level backing may increase the strong tornado potential. NWS TAE recently expanded WW 77 farther east to cover the near term threat, but another tornado watch may be needed later this afternoon east of the current watch. ..Bentley.. 03/31/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 278,
+      "issue_utc": "2020-03-31T20:40Z",
+      "topic": "Tornado Watch 78",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0278.html",
+      "summary": "Risk for locally damaging winds and a couple of tornadoes continues across valid portions of the watch, with greatest risk apparent over northwestern Florida at this time.",
+      "discussion": "Latest radar loop shows storms becoming a bit more organized over the past hour or so -- particularly over northern Florida and adjacent southeastern Georgia. In particular, WSR-88D VWP data indicated two tornadoes in Madison County at one point in the past 15 minutes -- one over central portions of the county and one to the south. This portion of the convective band appears to be moving through a maximized area of low-level moisture (low 70s dewpoints) and correspondingly greater CAPE (an axis of 1000 J/kg mixed-layer CAPE per the most recent RUC-based surface OA data). Though low-level flow has becoming increasingly veered/west-southwesterly ahead of the storms, ample low-level shear persists -- suggestive that tornado risk will persist over the next hour. ..Goss.. 03/31/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 279,
+      "issue_utc": "2020-03-31T22:38Z",
+      "topic": "Tornado Watch 78",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0279.html",
+      "summary": "Threat for damaging wind and a tornado or two will persist across northern Florida through at least 00Z.",
+      "discussion": "Broken line of storms continues moving east southeast through northern FL at around 35 kt. VWP data show the low-level winds have veered to west southwesterly, reducing hodograph size somewhat. However, 0-1 km storm relative helicity on the order of 150-200 m2/s2, 50 kt 0-6 km shear, and 800-1200 J/kg MLCAPE will likely continue to support embedded organized structures, including bowing segments and a supercell or two during the next couple of hours. ..Dial.. 03/31/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 280,
+      "issue_utc": "2020-04-01T00:43Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0280.html",
+      "summary": "Very isolated large hail/strong gusts may occur with a small supercell across southern North Dakota through about 0130z.",
+      "discussion": "An isolated supercell has developed along a surface boundary with substantial convergence/vertical vorticity, along the northeast edge of the steeper low-level lapse rates. This corridor is characterized by weak buoyancy and sufficient vertical shear/hodograph curvature for right-moving supercells. Relatively steep midlevel lapse rates and cool profiles will favor large hail in the short term, though hail size may be limited some by modest moisture content in the storm inflow. As the boundary layer begins to cool this evening, convective inhibition will increase, thus reducing storm longevity and the duration of any hail/wind threat locally. ..Thompson.. 04/01/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

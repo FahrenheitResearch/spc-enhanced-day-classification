@@ -1,0 +1,202 @@
+{
+  "convective_day": "2022-07-12",
+  "valid_start": "2022-07-12T12:00Z",
+  "valid_end": "2022-07-13T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2022-07-12",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-07-12T13:00Z",
+      "valid_end": "2022-07-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220712_1300.html",
+      "summary": "Thunderstorms, accompanied by a risk for damaging winds, are expected from New England through the Mid-Atlantic States into the central Appalachian region and Tennessee Valley, especially this afternoon and early evening. A few strong storms may also be noted across the Upper Midwest and over the central High Plains.",
+      "sections": [
+        {
+          "title": "New England/Mid-Atlantic/Central Appalachians",
+          "text": "A relatively favorable setup for severe weather is in place across the region, and portions of the Mid-Atlantic/Delmarva have been upgraded to an Enhanced Risk with a somewhat higher/semi-focused corridor of likely severe storms mainly capable of wind damage. Early this morning, a notable shortwave trough/speed max are crossing the Lower Great Lakes/southern Ontario vicinity and will reach northern New England later today. 12z regional observed soundings already sample strong westerlies aloft at locations such as IAD/BUF/PIT, with the Pittsburgh (PIT) sounding also sampling a plume of relatively steep mid-level lapse rates that will advect eastward today. Surface heating will lead to steep low-level lapse rates ahead of the eastward-advancing front and near a pre-frontal surface trough. This will likely lead to scattered convective development ahead of the front by midday, which will spread into New England later in the afternoon. Scattered convection may be delayed a few hours across the middle Atlantic into the central Appalachians as large-scale forcing will be negligible at lower latitudes. Even so, ample buoyancy will be noted across the warm sector and forecast shear should s"
+        },
+        {
+          "title": "Upper Midwest/western Great Lakes",
+          "text": "A secondary clipper-type shortwave trough will dig southeastward over the region later this afternoon into tonight. Low-level moisture will be limited, but cooling temperatures aloft and strong surface heating could support some stronger semi-low-topped storms this afternoon through early evening. Locally damaging winds and possibly hail could occur particularly across northern/eastern Minnesota into northern Wisconsin."
+        },
+        {
+          "title": "Central High Plains",
+          "text": "Moderate northwesterly flow aloft will exist on the northern/eastern periphery of an upper ridge centered near the Four Corners area. Scattered thunderstorms are expected to develop by mid/late afternoon and spread southeastward across southeast Wyoming and northeast Colorado into the Nebraska Panhandle. While PW values are not particularly high across this region, SBCAPE values could approach 1500 J/kg, which should be enough to warrant at least some threat for several hail and gusty winds. ..Guyer/Leitman.. 07/12/2022"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-07-12",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-07-12T16:30Z",
+      "valid_end": "2022-07-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220712_1630.html",
+      "summary": "Thunderstorms, accompanied by a risk for damaging winds, are expected from New England through the Mid-Atlantic States into the central Appalachian region and Tennessee Valley, especially this afternoon and early evening. A few strong storms may also be noted across the Upper Midwest and over the central High Plains.",
+      "sections": [
+        {
+          "title": "Appalachians/Mid-Atlantic/Northeast this afternoon/evening",
+          "text": "No changes to the previous outlook. Within a broad midlevel trough over the Great Lakes, an embedded speed maximum will eject eastward/northeastward from the central Appalachians/lower Great Lakes to the Mid-Atlantic and New England this afternoon/evening, as an associated surface cold front likewise moves eastward/southeastward from the upper OH Valley and western PA/NY. Destabilization will proceed from west-to-east through the afternoon in advance of the front in conjunction with low-level moisture advection and surface heating, and visible satellite imagery suggests that multiple cells/small clusters will form along and ahead of the cold front by early-mid afternoon from central PA/NY eastward. MLCAPE of 1000-2000 J/kg and relatively long/straight hodographs with effective bulk shear of 35-50 kt is expected from the Mid-Atlantic northward, along with DCAPE near 1000 J/kg. The near-storm environment and expected convective mode will favor clusters and supercells capable of producing damaging winds, though isolated large hail and an isolated tornado or two may also occur with the strongest storms. Some upscale growth into line segments will be possible, which would favor damaging"
+        },
+        {
+          "title": "Ozarks to TN Valley this afternoon through late evening",
+          "text": "Vertical shear will weaken with southwestward extent along a cold front moving slowly southward into TN/AR. Surface temperatures will warm into the 95-100 F range by late afternoon, with steep low-level lapse rates and moderate buoyancy immediately ahead of the front. Widely scattered thunderstorm development is expected by late afternoon/evening along the front, and the strongest storms will be capable of producing isolated strong/damaging downburst winds from late afternoon into this evening."
+        },
+        {
+          "title": "Central High Plains this evening",
+          "text": "Boundary-layer dewpoints in the mid-upper 50s reside across eastern CO as of mid morning, though some vertical mixing is expected this afternoon along with strong surface heating. A few high-based storms are expected to form late this afternoon/evening immediately east of the higher terrain, along a developing surface lee trough from southeast WY into northeast CO. Deep-layer northwesterly shear will be sufficient for some storm organization/supercell structures, while the steep lapse rates and modest buoyancy support the threat for isolated strong-severe outflow winds and marginally severe hail for a few hours late this afternoon/evening."
+        },
+        {
+          "title": "MN/WI this afternoon/evening",
+          "text": "An embedded shortwave trough will move southeastward from southern MB/far western ON across northern MN and WI through this evening. Surface heating and residual low-level moisture, beneath cool midlevel temperatures (near -15 C at 500 mb), will result in MLCAPE of 500-1000 J/kg this afternoon with minimal convective inhibition. Thus, scattered thunderstorm development is expected from northeast MN into northern WI, where the modest buoyancy and deep-layer west-northwesterly shear will be sufficient for clusters and low-end supercells capable of producing marginally severe hail and outflow gusts for a few hours later this afternoon/evening. ..Thompson/Squitieri.. 07/12/2022"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-07-12",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-07-12T20:00Z",
+      "valid_end": "2022-07-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220712_2000.html",
+      "summary": "Thunderstorms capable of producing locally damaging winds are expected to continue from New England through the Mid-Atlantic States into the central Appalachian region and Tennessee Valley, this afternoon and early evening. A few strong storms may also be noted across the Upper Midwest and over the central High Plains.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Convection continues to evolve as expected/forecast per prior outlooks, with the only appreciable changes that appear necessary at this time are to adjust western portions of the thunder/severe risk areas to account for eastward advance of the cold front/convective initiation zone. Otherwise, severe risk remains greatest from New England across the central Appalachians, where a zone of storms continues to evolve at this time. Lesser risks persist across the Upper Mississippi Valley/western Upper Great Lakes area, and over parts of the central High Plains. ..Goss.. 07/12/2022 .PREV DISCUSSION... /ISSUED 1117 AM CDT Tue Jul 12 2022/"
+        },
+        {
+          "title": "Appalachians/Mid-Atlantic/Northeast this afternoon/evening",
+          "text": "No changes to the previous outlook. Within a broad midlevel trough over the Great Lakes, an embedded speed maximum will eject eastward/northeastward from the central Appalachians/lower Great Lakes to the Mid-Atlantic and New England this afternoon/evening, as an associated surface cold front likewise moves eastward/southeastward from the upper OH Valley and western PA/NY. Destabilization will proceed from west-to-east through the afternoon in advance of the front in conjunction with low-level moisture advection and surface heating, and visible satellite imagery suggests that multiple cells/small clusters will form along and ahead of the cold front by early-mid afternoon from central PA/NY eastward. MLCAPE of 1000-2000 J/kg and relatively long/straight hodographs with effective bulk shear of 35-50 kt is expected from the Mid-Atlantic northward, along with DCAPE near 1000 J/kg. The near-storm environment and expected convective mode will favor clusters and supercells capable of producing damaging winds, though isolated large hail and an isolated tornado or two may also occur with the strongest storms. Some upscale growth into line segments will be possible, which would favor damaging"
+        },
+        {
+          "title": "Ozarks to TN Valley this afternoon through late evening",
+          "text": "Vertical shear will weaken with southwestward extent along a cold front moving slowly southward into TN/AR. Surface temperatures will warm into the 95-100 F range by late afternoon, with steep low-level lapse rates and moderate buoyancy immediately ahead of the front. Widely scattered thunderstorm development is expected by late afternoon/evening along the front, and the strongest storms will be capable of producing isolated strong/damaging downburst winds from late afternoon into this evening."
+        },
+        {
+          "title": "Central High Plains this evening",
+          "text": "Boundary-layer dewpoints in the mid-upper 50s reside across eastern CO as of mid morning, though some vertical mixing is expected this afternoon along with strong surface heating. A few high-based storms are expected to form late this afternoon/evening immediately east of the higher terrain, along a developing surface lee trough from southeast WY into northeast CO. Deep-layer northwesterly shear will be sufficient for some storm organization/supercell structures, while the steep lapse rates and modest buoyancy support the threat for isolated strong-severe outflow winds and marginally severe hail for a few hours late this afternoon/evening."
+        },
+        {
+          "title": "MN/WI this afternoon/evening",
+          "text": "An embedded shortwave trough will move southeastward from southern MB/far western ON across northern MN and WI through this evening. Surface heating and residual low-level moisture, beneath cool midlevel temperatures (near -15 C at 500 mb), will result in MLCAPE of 500-1000 J/kg this afternoon with minimal convective inhibition. Thus, scattered thunderstorm development is expected from northeast MN into northern WI, where the modest buoyancy and deep-layer west-northwesterly shear will be sufficient for clusters and low-end supercells capable of producing marginally severe hail and outflow gusts for a few hours later this afternoon/evening."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2022,
+      "number": 1454,
+      "issue_utc": "2022-07-12T15:40Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1454.html",
+      "summary": "The overall severe threat should gradually increase into the afternoon, with both damaging winds and hail possible. One or more Severe Thunderstorm Watches will probably be needed.",
+      "discussion": "An upper trough evident on water vapor satellite imagery over the Great Lakes and Ontario/Quebec will continue eastward across the Northeast and Mid-Atlantic today. Rather strong mid-level flow of 45-55+ kt will accompany the upper trough, and aid in strong effective bulk shear and updraft organization. Partly to mostly sunny conditions are ongoing across much of NY/VT into PA. Continued diurnal heating will likely result in surface temperatures increasing into well into the 80s and lower 90s later this afternoon. MLCAPE around 1000-2000 J/kg should develop ahead of a poorly defined cold front. Weak convergence along/ahead of this boundary and ascent associated with the upper trough will aid robust thunderstorm development over the next couple of hours. Deep-layer shear of 45-50+ kt will support some potential for supercells with both a hail and damaging wind threat. Still, most guidance suggests that a line of convection should eventually consolidate with eastward extent into eastern NY/PA later this afternoon. If this evolution occurs, then damaging winds should become the primary severe hazard. One or more Severe Thunderstorm Watches will probably be needed from parts of northern NY/VT into PA and vicinity to address this gradually increasing severe threat."
+    },
+    {
+      "year": 2022,
+      "number": 1455,
+      "issue_utc": "2022-07-12T16:48Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1455.html",
+      "summary": "A threat for scattered damaging winds and isolated hail should increase this afternoon. A Severe Thunderstorm Watch will probably be needed.",
+      "discussion": "A couple of thunderstorms have developed as of 1645Z near the OH/WV border. This activity is occurring just ahead of a weak surface cold front. These thunderstorms and additional convective development should spread eastward across much of WV through the afternoon. With robust diurnal heating occurring and the presence of modestly steepened mid-level lapse rates, around 1500-2000 J/kg of MLCAPE is expected to be present across the warm sector ahead of this activity. This region will be on the southern periphery of a strong mid-level jet over the Northeast, but modestly enhanced mid-level westerlies should still support around 30-40 kt of deep-layer shear. A mix of multicell clusters and marginal supercells should occur given the favorable shear. Thunderstorms may also develop along a pre-frontal trough over parts of northern VA/western MD and vicinity later this afternoon as residual convective inhibition eventually erodes. As low-level lapse rates steepen and DCAPE increases, damaging downdraft winds will become a concern as thunderstorms gradually increase in coverage and intensity. Some severe hail may also occur with any cells that can remain discrete given the modestly steepened mid-level lapse rates aloft. A Severe Thunderstorm Watch will probably be needed in the next couple of hours as more convection develops."
+    },
+    {
+      "year": 2022,
+      "number": 1456,
+      "issue_utc": "2022-07-12T17:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1456.html",
+      "summary": "Isolated large hail and damaging gusts may occur through the afternoon with the stronger storms. A WW issuance is unlikely given the sparse nature of the severe threat.",
+      "discussion": "Multicellular storms have recently developed near the international border as the boundary layer has sufficiently heated and convective temperatures have been breached. These storms are developing within a deep-layer northwesterly flow regime, with a 500 mb wind max currently overspreading the region, contributing to 40+ kts of effective bulk (speed) shear. As such, the stronger storms have the potential to organize into longer-lived multicellular complexes, transient supercells, or short line segments. RAP forecast soundings show 8+ C/km lapse rates extending from the surface up to 700 mb, contributing to 1000+ J/kg MLCAPE and associated potential for damaging gusts. -20C temperatures around 500 mb also suggest that a couple brief instances of severe hail are also possible. The relatively highest severe potential may be realized in a few hours as a more organized cluster/line of storms across southwest Ontario crosses the border and moves into central MN in the 19-20Z time frame. Nonetheless, the overall severe threat should remain isolated and a WW issuance is not currently expected."
+    },
+    {
+      "year": 2022,
+      "number": 1457,
+      "issue_utc": "2022-07-12T18:32Z",
+      "topic": "Severe Thunderstorm Watch 460",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1457.html",
+      "summary": "A threat for damaging winds and hail should spread eastward this afternoon. An areal extension of Severe Thunderstorm Watch 460 and/or a downstream watch may be needed.",
+      "discussion": "Convection has gradually intensified over the past hour or so across eastern NY. Strong effective bulk shear of 50+ kt associated with an enhanced mid-level jet remains more than sufficient for supercells, with multiple attempts at discrete thunderstorms noted. Even with mid-level lapse rates remaining poor, diurnal heating of a moist low-level airmass has contributed to around 500-1000 J/kg of MLCAPE in a narrow corridor along and just ahead of the ongoing activity. Some recent clustering has also occurred in far eastern NY, and current expectations are for a mix of multicells and supercells to spread eastward into parts of New England over the next few hours. Both damaging winds and hail should remain a threat with this activity. Based on current thunderstorm motions around 35-40 kt, an areal extension of Severe Thunderstorm Watch 460 to include more of eastern NY and southern VT may be needed. A downstream watch into parts of New England where sufficient destabilization has occurred is also possible."
+    },
+    {
+      "year": 2022,
+      "number": 1458,
+      "issue_utc": "2022-07-12T19:10Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1458.html",
+      "summary": "A threat for mainly damaging winds may develop this afternoon. Watch issuance is possible.",
+      "discussion": "Convection is gradually increasing in coverage across parts of central/eastern KY this afternoon along and near a weak cold front. A very moist low-level airmass is present to the south of this boundary, with dewpoints generally in the upper 60s to mid 70s. Modestly steepened mid-level lapse rates and diurnal heating of this moist airmass are contributing to around 1500-2500 J/kg of MLCAPE per recent mesoanalysis estimates. This region remains on the southern periphery of an upper trough over the Northeast. But, mid-level west-northwesterly flow does increase to around 30-35 kt based on latest VWP estimates from KLVX/KJKL. Similar values of deep-layer shear should be enough for modest updraft organization, with loosely organized multicells possible. Occasional damaging wind gusts should be the main threat as these thunderstorms develop southeastward across eastern KY and vicinity through the rest of the afternoon. It remains unclear whether sufficient thunderstorm coverage and intensity will be realized to justify a watch. But, observational trends will be closely monitored."
+    },
+    {
+      "year": 2022,
+      "number": 1459,
+      "issue_utc": "2022-07-12T19:29Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1459.html",
+      "summary": "A few stronger storms may mature along/ahead of a southward sagging cold front this afternoon, with isolated damaging gusts possible. A WW issuance is not currently anticipated given the expected isolated nature of the severe threat.",
+      "discussion": "A relatively diffuse cold front continues to sag southward, with convective initiation underway across the TN Valley. Stronger storms have already materialized across central KY (see Mesoscale Discussion 1458 for more details) and additional storms may develop farther southwest along the front through the afternoon. Deep-layer shear and ascent is expected to be weaker compared to points farther northeast as the mid-level trough continues track northeast across the Mid Atlantic/New England. Nonetheless, strong heating is underway along the TN/KY border contributing to 3000+ J/kg MLCAPE amid minimal convective inhibition. As such, a couple of damaging gusts may accompany the stronger storms despite weaker tropospheric shear. Given the expected sparse coverage of severe, a WW issuance is not currently expected."
+    },
+    {
+      "year": 2022,
+      "number": 1460,
+      "issue_utc": "2022-07-12T20:02Z",
+      "topic": "Severe Thunderstorm Watch 460",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1460.html",
+      "summary": "The threat for severe winds and hail will develop eastward this afternoon across the Mid-Atlantic. A downstream watch may be needed for parts of southern New York, New Jersey, and the Delmarva Peninsula.",
+      "discussion": "At 20Z, a robust supercell with intense inbound velocities per recent KLWX radar data is present over the far eastern WV Panhandle. This thunderstorm will be capable of producing both large hail and severe wind gusts in the short term as it continues eastward into far northern VA and approaches the DC metro and eventually parts of central MD. Additional strong to severe thunderstorms are ongoing along/near the MD/PA border. The environment downstream of this activity into central MD and northern VA will likely remain favorable for maintaining intense updrafts, with MLCAPE of 1000-2000 J/kg and deep-layer shear of 40-50 kt both present. Severe/damaging wind gusts should become the main severe threat as convection grows upscale into one or more bowing clusters, but isolated large hail may also occur with any supercell that can persist. Convection in eastern PA has struggled to strengthen so far this afternoon, even though the environment remains favorable for strong to severe thunderstorms. If activity in eastern PA does eventually intensify, it would pose some severe threat into NJ and perhaps southern NY. The thunderstorms moving into central MD should eventually pose mainly a damaging wind threat with eastward extent into the Delmarva Peninsula later this afternoon and evening. A downstream watch may be needed for parts of southern NY, NJ, and the Delmarva Peninsula."
+    },
+    {
+      "year": 2022,
+      "number": 1461,
+      "issue_utc": "2022-07-12T21:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1461.html",
+      "summary": "Sporadic strong to severe storms will likely continue through the evening hours and will pose a risk of severe hail and downburst winds in the immediate lee of the Rockies. This threat will most likely remain fairly isolated, and a watch is not expected.",
+      "discussion": "VWPs along the high Plains of CO and southeast WY show relatively weak flow throughout most of the column. Despite the poor deep-layer shear across the region, thunderstorms that have developed off the high terrain over the past couple of hours are effectively utilizing the 1000-1500 J/kg MUCAPE and steep mid-level lapse rates (between 8-9 C/km per latest RAP forecast soundings). Short-lived, but intense updrafts in the lee of the Rockies have produced several one-inch hail stones over the past hour or so. This trend will likely continue through the remainder of the evening hours. In additional to severe hail, steep low-level lapse rates near 9 C/km may also support the potential for strong downburst winds. Storm propagation into the CO Plains appears possible if a consolidated outflow can become established, otherwise lingering MLCIN may confine this threat to the immediate lee of the terrain features. Overall, the limited longevity of individual cells and spatial confinement mitigate the need for a watch."
+    },
+    {
+      "year": 2022,
+      "number": 1462,
+      "issue_utc": "2022-07-12T22:01Z",
+      "topic": "Severe Thunderstorm Watch 463",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1462.html",
+      "summary": "Thunderstorms capable of damaging winds and severe hail will continue to move across portions of Maine and towards the New England coast over the new few hours.",
+      "discussion": "Regional radar mosaics continue to track several strong to severe thunderstorms from northern ME into the New England region. Several wind damage reports have been noted with this activity, including a few reports of 1-1.25 inch hail. RAP mesoanalysis suggests that some of these storms will approach the eastern extent of favorable buoyancy as they approach the coast; however, many of these cells are exhibiting signs of mid-level rotation and/or organized outflow with balanced UDCZs. This favorable storm organization, coupled with strong deep-layer shear as sampled by regional VWPs, should support storm maintenance for the next couple of hours as storms approach the coast. Regional VWPs are also sampling winds in the lowest 1-2 km between 30-40 mph, which will maintain somewhat high potential for wind damaging with the stronger cells. ..Moore.. 07/12/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1463,
+      "issue_utc": "2022-07-12T22:11Z",
+      "topic": "Severe Thunderstorm Watch 462",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1463.html",
+      "summary": "Strong to severe gusts (50-70 mph) are probable with a small-scale bow as it moves across the northern portion of Chesapeake Bay and into the MD Eastern Shore and southern half of DE.",
+      "discussion": "Radar imagery shows a small-scale bow moving east at 35kt over Washington D.C. as of 6pm. KJYO (Leesburg, VA) and KIAD (Dulles, VA) ASOS's both measured 54kt and 53kt, respectively, in the last hour. The airmass over the Chesapeake Bay vicinity is characterized as warm/very moist with temperatures near 90 deg F and dewpoints in the lower 70s. RAP forecast soundings indicate around 2000 J/kg MLCAPE and KLWX VAD data indicated around 35kt 0-6 km shear. In summary, the near-storm environment and convective mode (small bow) remains favorable for strong to severe gusts (50-70 mph) in a swath from D.C. to Chesapeake Bay through 7pm. It seems plausible/increasingly likely the intensity of the bow will more or less be maintained as it moves across the Eastern Shore and the southern half of DE in the 7-8pm timeframe. ..Smith.. 07/12/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1464,
+      "issue_utc": "2022-07-13T00:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1464.html",
+      "summary": "Isolated damaging gusts (50-60 mph) are possible to the southeast of severe thunderstorm watches 464, 465.",
+      "discussion": "Radar mosaic shows a couple of broken linear thunderstorm clusters over northern VA extending east to the Delmarva and farther southwest into southwest VA. This activity is moving east-southeastward and will likely exit the existing severe thunderstorm watches over the next 60-90 minutes (prior to 10pm). However, a gradually cooling boundary layer will likely lead to a slow but notable decrease in both the coverage and intensity of the stronger gusts. A recent measured severe gust (60 mph) at Quantico, VA was observed at 810pm, along with a 49 mph gust at Roanoke, VA. Current expectation is for strong to locally severe gusts to perhaps continue a little beyond the existing severe thunderstorm watches. However, the coverage/intensity of gusts will likely lessen by 10pm and likely preclude the need for a small severe thunderstorm watch."
+    },
+    {
+      "year": 2022,
+      "number": 1465,
+      "issue_utc": "2022-07-13T00:30Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1465.html",
+      "summary": "Isolated to scattered thunderstorms across western Nebraska and into northeast Colorado will continue to pose a hail/wind threat into the late evening hours. This threat should remain too limited to necessitate a watch.",
+      "discussion": "Across northern NE, a lone supercell has developed along a diffuse warm front over the past hour with weaker convection developing on the periphery of this cell. This activity is maturing in an environment that remains relatively uncapped with around 1300 J/kg SBCAPE (per the 00 UTC LBF sounding). The sampled wind over the region show a modest supercell profile with veering winds in the lowest 3 km that is aiding in cell organization. Cells developing along the front may mature enough for cell propagation to the south/southeast over the next 1-2 hours. If this occurs, a hail/wind threat will be likely. Given the weak forcing for ascent, thunderstorm coverage is expected to be minimal. To the southwest across northeast CO, reflectivity and velocity data from KCYS and KFTG show thunderstorm development along an outflow boundary that is propagating to the south/southeast. Individual cells will likely pose a brief window for severe hail while convectively reinforcing the cold pool to sustain propagation. Latest hi-res guidance suggests that this activity may become sufficiently organized to pose a slightly more robust severe wind risk across parts of northeast CO within the next few hours. However, confidence in the coverage of this threat remains limited the propensity for destructive storm interactions observed over the past 30-60 minutes and diminishing instability in the downstream environment."
+    }
+  ]
+}

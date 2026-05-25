@@ -1,0 +1,110 @@
+{
+  "convective_day": "2020-03-24",
+  "valid_start": "2020-03-24T12:00Z",
+  "valid_end": "2020-03-25T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-03-24",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-03-24T16:30Z",
+      "valid_end": "2020-03-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200324_1630.html",
+      "summary": "The threat for tornadoes, large hail, and damaging winds will be focused this afternoon and evening across the Tennessee Valley.",
+      "sections": [
+        {
+          "title": "TN Valley this afternoon/evening",
+          "text": "A midlevel shortwave trough over AR/MO this morning will move eastward to the TN Valley by this evening, as an associated surface cyclone in OK develops eastward along a rain-reinforced boundary near the southern TN border. Along and south of this surface boundary, dewpoints will remain in the mid 60s through the afternoon, beneath midlevel lapse rates of 7-8 C/km per 12z soundings. The net result with daytime heating in cloud breaks will be moderate buoyancy (MLCAPE 1000-1500 J/kg) within the warm sector, in advance of the surface cyclone/midlevel trough. In the wake of the elevated convection this morning, additional thunderstorm development is expected by mid afternoon in the vicinity of southwestern TN/northern MS, south of the ongoing elevated storms in the left-exit region of the midlevel jet over northeast AR. Storms will subsequently spread eastward across northern AL and southern middle TN through the evening. Strong deep-layer vertical shear with long hodographs and effective bulk shear of 50-60 kt, as well as low-level hodograph curvature with 0-1 km SRH near 200 m2/s2, will favor supercells. Low-level shear could be enhanced some along the residual rain-cooled boundary "
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-03-24",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-03-24T20:00Z",
+      "valid_end": "2020-03-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200324_2000.html",
+      "summary": "The threat for tornadoes, large hail, and damaging winds will be focused this afternoon and evening across the Tennessee Valley.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "As a convective increase is gradually underway over the Tennessee Valley area, short-term severe potential is increasing. As such, aside from some trimming on the western fringes of the risk areas near and west of the Mississippi River, no substantive changes are being made. Potential for a couple of tornadoes, along with damaging winds and hail, remains evident. Meanwhile, thunder areas are being removed from the north-central U.S., where earlier lightning has dissipated, and from the Pacific Northwest, where only sporadic flashes at best are now anticipated. ..Goss.. 03/24/2020 .PREV DISCUSSION... /ISSUED 1115 AM CDT Tue Mar 24 2020/"
+        },
+        {
+          "title": "TN Valley this afternoon/evening",
+          "text": "A midlevel shortwave trough over AR/MO this morning will move eastward to the TN Valley by this evening, as an associated surface cyclone in OK develops eastward along a rain-reinforced boundary near the southern TN border. Along and south of this surface boundary, dewpoints will remain in the mid 60s through the afternoon, beneath midlevel lapse rates of 7-8 C/km per 12z soundings. The net result with daytime heating in cloud breaks will be moderate buoyancy (MLCAPE 1000-1500 J/kg) within the warm sector, in advance of the surface cyclone/midlevel trough. In the wake of the elevated convection this morning, additional thunderstorm development is expected by mid afternoon in the vicinity of southwestern TN/northern MS, south of the ongoing elevated storms in the left-exit region of the midlevel jet over northeast AR. Storms will subsequently spread eastward across northern AL and southern middle TN through the evening. Strong deep-layer vertical shear with long hodographs and effective bulk shear of 50-60 kt, as well as low-level hodograph curvature with 0-1 km SRH near 200 m2/s2, will favor supercells. Low-level shear could be enhanced some along the residual rain-cooled boundary "
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 226,
+      "issue_utc": "2020-03-24T16:27Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0226.html",
+      "summary": "A gradual increase in severe weather potential appears possible through 2-3 PM CDT, in association with an evolving cluster of thunderstorms overspreading the region. It is not clear that a watch is needed in the near term, but trends will continue to be monitored for this possibiity.",
+      "discussion": "At least some increase/intensification of thunderstorm development appears ongoing near the northeastern Arkansas/Missouri state border area into northwestern Tennessee. This convection is rooted within a zone of enhanced lower/mid tropospheric warm advection, roughly near the nose of a 40 kt southwesterly 850 mb jet, and within the left exit region of an associated 80 kt westerly 500 mb jet streak. The mid-level jet may weaken some into mid afternoon, but is forecast to continue to propagate from north central Arkansas through western into middle Tennessee by 19-20Z. Most unstable CAPE within the inflow layer of the convection may be increasing in excess of 500 J/kg. Coupled with strong shear within the convective layer, the environment may be conducive to support gradual further upscale convective growth and organization during the next few hours. Based above a residual surface-based stable layer, large hail seems the primary initial severe hazard. However, downstream, the surface front already appears to have shifted to the north of Memphis TN, Muscle Shoals and Huntsville AL, and, at some point, the potential for strong surface gusts may increase as activity becomes increasingly rooted closer to the surface. While convection may largely remain focused just to the cool side of the surface front, into areas near/south of the western Kentucky/Tennessee border, it is possible that storms on the southwestern flank of the evolving cluster may eventually become rooted within the unstable boundary layer, along and just south of the front. If/when this occurs, sizable clockwise curved low-level hodographs probably will support a risk for supercells with potential to produce tornadoes."
+    },
+    {
+      "year": 2020,
+      "number": 227,
+      "issue_utc": "2020-03-24T17:19Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0227.html",
+      "summary": "A few marginally severe hailstones are possible. Conditional threats for wind damage and a weak, brief tornado may exist later in the afternoon. No WW is currently anticipated.",
+      "discussion": "A cluster of storms has formed along a slowly northward progressing warm front in response to a weak mid-level wave upstream. These storms currently reside north of the boundary and are somewhat elevated. Morning regional RAOB data show mid-level lapse rates of around 7 C/km. Combinded with effective deep-layer shear of 40-50 kts will support a few organized storms that will primarily pose a threat for marginally severe hail. Current MUCAPE is fairly low, but modest mid-level cooling with time may increase values to 750-1000 J/kg. The overall threat for damaging wind gusts is presently low. However, should some upscale growth occur or the boundary lift northward and allow for surface-based storms a greater threat for wind damage would materialize. The tornado threat is similarly low given how weak low-level winds are. A narrow window of opportunity for a weak, brief tornado will be possible later in the afternoon when a modest increase in 850 mb winds will occur in conjunction with a storm or two potentially becoming surface-based near the boundary. Given the marginal and conditional nature of the severe threat, no WW is currently expected."
+    },
+    {
+      "year": 2020,
+      "number": 228,
+      "issue_utc": "2020-03-24T19:34Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0228.html",
+      "summary": "The risk for severe thunderstorms is expected to increase during the next few hours. By 5-7 PM CDT, this probably will include potential for supercells capable of producing tornadoes, particularly near/northeast of Tupelo MS into areas near and northwest of Muscle Shoals AL, Huntsville AL and the Shelbyville, Tullahoma area of southern Middle Tennessee.",
+      "discussion": "As one weakening mid-level jet streak continues to propagate across the Mid South, toward the southern Appalachians, the exit region of another (70+ kt at 500 mb) is forecast to dig east-southeast of the Ark-La-Tex through central Mississippi by 23-00Z. As this occurs, weak to modest mid-level height falls appear likely to overspread a destabilizing boundary layer, along and south of a surface frontal zone now near/just north of Memphis TN, Muscle Shoals and Huntsville AL. Insolation and surface dew point increases through the lower/mid 60s appear to be contributing to mixed-layer CAPE in excess of 1000 J/kg, with remaining inhibition becoming increasingly negligible. In the presence of strong deep-layer shear, the environment is becoming conducive to organized severe thunderstorm development, including discrete supercells. While the front may become a focus for this convective development, model output suggests additional discrete storm development is possible along the low-level jet axis extending southward across at least much of northern Mississippi. As a weak frontal wave redevelops eastward from parts of northern Arkansas into northern middle Tennessee, the latest Rapid Refresh forecast soundings continue to suggest that low-level hodographs will become most conducive to tornadic supercells near/northeast of Tupelo MS, into the Muscle Shoals and Huntsville TN vicinities, and areas near/west of Tullahoma TN by 5-7 PM CDT. This will include potential for an isolated strong tornado or two."
+    },
+    {
+      "year": 2020,
+      "number": 229,
+      "issue_utc": "2020-03-24T22:35Z",
+      "topic": "Tornado Watch 61",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0229.html",
+      "summary": "Tornado potential will likely maximize through 8pm CDT near the AL/TN border. A strong tornado is possible.",
+      "discussion": "Trends in KHTX VAD data show a strengthening of the wind field in the 2-3km layer during the past 1-2 hours. This trend seemed to be necessary in order for more organized low-level mesocyclone development. The intensification of flow is resulting in around 300 m2/s2 0-1km SRH per observed storm motions. Surface observations show temperature/dewpoint spreads around 10 deg F and reduced mixing compared to areas farther south. It continues to appear that the corridor for greatest tornado risk will focus near the AL/TN border with the stronger updrafts/supercells through the early evening. ..Smith.. 03/24/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 230,
+      "issue_utc": "2020-03-25T00:05Z",
+      "topic": "Tornado Watch 61",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0230.html",
+      "summary": "A new convective watch is possible to the east of Tornado Watch #61. A tornado risk will continue this evening for portions of northern AL and southern middle TN.",
+      "discussion": "Trends in KHTX VAD show further intensification of the low-level wind profile during the past 1-2 hours. 0-1 km SRH has increased from around 300 m2/s2 to over 600 m2/s2. Surface analysis indicates the area with the lowest temperature/dewpoint spreads (10 deg F) is in the counties adjacent to the TN border in northern AL. Farther south, warmer temperatures have resulted in spreads in the 15-20 deg F range which would lessen but not nullify tornado potential. Given the strengthening low-level shear for mesocyclone organization/persistence, it seems plausible the tornado risk will eventually include the eastern counties of Tornado Watch #61 later this evening. An additional convective watch issuance is possible to the east of the ongoing watch during the next hour or so. ..Smith.. 03/25/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 231,
+      "issue_utc": "2020-03-25T00:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0231.html",
+      "summary": "Isolated, low-topped supercells will persist for a couple more hours before remaining instability wanes. Some of the strongest storms may support marginally severe hail or perhaps a damaging gust. The isolated nature of the severe threat precludes a WW issuance.",
+      "discussion": "Isolated convection, including a few low-topped (20-30 kft high) supercells, have become established ahead of a cold front across southeast Arkansas. These storms sustaining themselves in a modestly buoyant airmass, characterized by 500-1000 J/kg MLCAPE driven by 0-3km lapse rates and mid-upper 60s dewpoints. 50 knot speed-shear-driven bulk effective shear values suggest that storms should remain organized and maintain at least modest mid-level rotation given remaining buoyancy. The organized nature of the storms may result in brief instances of marginally severe hail and perhaps a damaging gust. As the boundary layer continues to stabilize later this evening, gradual weakening of convection is expected, as depicted by latest HRRR runs. Given the short-term and isolated nature of the severe threat, a WW issuance is not expected. ..Squitieri.. 03/25/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 232,
+      "issue_utc": "2020-03-25T02:45Z",
+      "topic": "Tornado Watch 62",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0232.html",
+      "summary": "If current storm-scale and near-storm environmental trends continue, the tornado watch can likely be cancelled within the next hour prior to watch expiration time, which is currently scheduled for 1am EDT/12am CDT.",
+      "discussion": "Radar imagery during the past hour has shown diminishing echo tops and storm weakening across northern AL and into adjacent parts of TN/GA. Surface observations over northeast AL to the south of the convective cluster have shown a gradual veering in flow. The 00z Atlanta observed sounding showed less than 300 J/kg MLCAPE and buoyancy has likely lessened owing to cooling of the near-surface layer. Given the aforementioned trends/factors, current thinking is the potential for severe will continue to lessen, particularly the tornado risk. As a result, the watch may be cancelled early if trends continue. ..Smith.. 03/25/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

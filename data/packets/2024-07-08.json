@@ -1,0 +1,180 @@
+{
+  "convective_day": "2024-07-08",
+  "valid_start": "2024-07-08T12:00Z",
+  "valid_end": "2024-07-09T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 4
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2024-07-08",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-07-08T12:00Z",
+      "valid_end": "2024-07-09T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240708_1200.html",
+      "summary": "Several tornadoes will be possible today, in association with Tropical Cyclone Beryl, from far east Texas into northwest Louisiana and far southwest Arkansas. Hail and gusty winds will also be possible in Far West Texas.",
+      "sections": [
+        {
+          "title": "East Texas/Ark-La-Tex/Ozarks/Lower to Mid Mississippi Valley",
+          "text": "Hurricane Beryl is forecast by NHC to move inland across the middle to upper Texas Coast this morning. Rainbands in associated with Beryl will overspread much of east Texas and western Louisiana during the day as the cyclone moves northward across east Texas. The northeast quadrant of Beryl is forecast to move into a moderately unstable airmass across the Ark-La-Tex during the mid to late afternoon. RAP forecast soundings near Shreveport, Louisiana from 21Z to 00Z increase 0-3 km storm-relative helicity into the 300 to 400 m2/s2 range, and have large looping hodographs. In addition, the HRRR solution suggests that semi-discrete cells will develop within the eastern most rainband of Beryl. This, combined with the strong low-level shear, should be favorable for rotating storms capable of producing tornadoes. The greatest tornado threat is expected to coincide with the strongest instability, which should peak during the 17Z and 01Z temporal window. An isolated tornado threat should continue through the evening and into the overnight period as the remnants of Beryl moves into the Ozarks and mid Mississippi Valley."
+        },
+        {
+          "title": "Far West Texas",
+          "text": "At the surface, a cold front is forecast to move across west Texas today. South of the front in the vicinity of Big Bend, surface dewpoints are likely to be from the mid 50s to the lower 60s F. As surface temperature warm across this relatively moist airmass, MLCAPE is expected to peak in the 1000 to 1200 J/kg range. Increasing low-level convergence along the front during the afternoon should enable scattered thunderstorms to develop. In addition to the instability, forecast soundings increase 0-3 km lapse rates into the 8 to 8.5 C/km range by late afternoon. This, combined with about 30 knots of deep-layer shear, should be enough for a marginal severe threat. Hail and strong gusty winds will be the primary threats. ..Broyles/Thornton.. 07/08/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-07-08",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-07-08T13:00Z",
+      "valid_end": "2024-07-09T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240708_1300.html",
+      "summary": "Several tornadoes will be possible today, in association with Tropical Cyclone Beryl, from southeast Texas into northwest Louisiana and far southwest Arkansas.",
+      "sections": [
+        {
+          "title": "East Texas/Ark-La-Tex/Ozarks/Lower to Mid Mississippi Valley",
+          "text": "Tropical Cyclone Beryl will continue moving north across southeast/east TX through the day before moving north-northeast into the Ark-La-Tex tonight per the latest NHC forecast. The extensive rain shield has yielded intermittent periods of transient mini supercell structures within the convective bands early this morning. Thinking this trend will continue during the day across southeast/east TX into western portions of LA. Ample low-level shear for hodograph enlargement will reside over the right-front quadrant of Beryl. Less certain will be the development of moderate buoyancy within the rain shield. Nonetheless, some evolution into more coherent convective banding is expected during the diurnal heating cycle (midday into the early evening) when the risk for several supercell tornadoes will probably be greatest. An isolated tornado threat should continue through the evening and into the overnight period as this risk shifts northward coincident with the movement of Beryl."
+        },
+        {
+          "title": "Southwest Texas",
+          "text": "At the surface, a cold front is forecast to move across west Texas today. South of the front in the vicinity of Big Bend, surface dewpoints are likely to be from the mid 50s to the lower 60s F. As surface temperature warm across this relatively moist airmass and yield moderate buoyancy. Increasing low-level convergence along the front during the afternoon should enable scattered thunderstorms to develop. A couple of the stronger storms may result in a localized hail/wind risk before this activity weakens this evening."
+        },
+        {
+          "title": "Northern NM",
+          "text": "Water-vapor imagery this morning shows an upper trough from the Upper Midwest extending southwestward into the CO/NM vicinity. A belt of moderate north-northwest flow will gradually pivot away from the region during the day. However, a relatively moist airmass via easterly upslope/post-frontal flow will combine with strong heating to yield around 1000 J/kg MLCAPE. A few stronger storms may develop with a possible localized hail/wind risk for a few hours late this afternoon. ..Smith/Bentley.. 07/08/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-07-08",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-07-08T16:30Z",
+      "valid_end": "2024-07-09T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240708_1630.html",
+      "summary": "Several tornadoes are possible today and tonight in association with Tropical Cyclone Beryl, from eastern Texas into western/northern Louisiana and southern/central Arkansas.",
+      "sections": [
+        {
+          "title": "East Texas/ArkLaTex/Ozarks/Lower to Mid Mississippi Valley",
+          "text": "Tropical Storm Beryl will continue north-northeastward today across southeast/east Texas and toward the ArkLaTex tonight, with its eastern-peripheral low/mid-level wind field remaining strong through tonight. Embedded circulations continue to occur within the modestly broken convective bands, that will northward-transition and potentially diurnally expand somewhat from east Texas into western/northern Louisiana, and the ArkLaTex vicinity this evening. Several tornadoes are possible especially through early evening, but some tornado/wind damage risk will linger/transition northeastward through late tonight across additional parts of Arkansas/Mid-South and Mississippi Valley. For additional short-term details, see Mesoscale Discussion 1558."
+        },
+        {
+          "title": "Southwest Texas",
+          "text": "A cold front will continue to surge southward across the region, with stronger heating and moderate destabilization occurring across parts of the Transpecos and Big Bend vicinity in the presence of upper 50s/lower 60s F surface dewpoints. Increasing low-level convergence along the front and differential heating over higher terrain should lead to increasing thunderstorm development this afternoon, with some of these storms potentially posing large hail and strong wind gust risks."
+        },
+        {
+          "title": "Northern New Mexico/far Southern Colorado",
+          "text": "A considerable westward surge of moisture has occurred since yesterday, with the 12z Albuquerque sounding featuring 0.80 inch Precipitable Water. Terrain influences/differential heating over interior New Mexico/southern Colorado will lead to increasing thunderstorm development this afternoon in the presence of as much as 500-1000 J/kg MLCAPE. Storm organization will likely be aided by a moderately strong belt of north-northwesterly winds aloft. Isolated instances of severe hail are expected this afternoon through early evening, along with the possibility of severe-caliber wind gusts."
+        },
+        {
+          "title": "Northern Lower Michigan/Lake Michigan vicinity",
+          "text": "Gradual destabilization is expected this afternoon in the wake of early day cloud cover and some outflow across the middle part of Lower Michigan. This be within a moist air mass (mid/upper 60s F surface dewpoints) ahead of an eastward-moving/weakening front, as a shortwave trough otherwise moves eastward over Lake Superior and northern Ontario. Modestly long/semi-straight hodographs with 30-35 kt effective shear could support some sustained storms/multicells, with a couple instances of wind damage/sub-severe hail possible through early evening. ..Guyer/Wendt.. 07/08/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-07-08",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-07-08T20:00Z",
+      "valid_end": "2024-07-09T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240708_2000.html",
+      "summary": "Several tornadoes are possible today and tonight in association with Tropical Cyclone Beryl, from eastern Texas into western/northern Louisiana and southern/eastern Arkansas.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "...East/Northeast TX into Northwest/Central LA and Southern/Eastern AR... Several low-topped supercells have developed with a convective band arcing from Rusk and Gregg Counties in northeast TX to Natchitoches and Winn Parishes in central LA. This intensification appears to be associated with greater low-level convergence and increased buoyancy (particularly in the 0-3 km layer) amid already strong low to mid-level flow. Recently issued MCD #1560 discusses the short-term trends within this area as well. Beryl is forecast to continue northeastward, potentially taking this area of greater storm production into southern/eastern AR. The 5% tornado probabilities were expanded northeastward to account for some increased tornado potential as this area of Beryl moves into more of northeast AR later this evening and tonight."
+        },
+        {
+          "title": "Elsewhere",
+          "text": "As mentioned in recently issued MCD #1559, isolated and marginally severe hail and strong/severe wind gusts are possible as storms develop and move southeastward across north-central NM. Isolated severe thunderstorms are still anticipated across southwest TX this afternoon and evening, with some large hail and damaging gusts possible. Isolated thunderstorms capable of damaging gusts also remain possible this afternoon and evening from northern WI into northern Lower MI. ..Mosier.. 07/08/2024 .PREV DISCUSSION... /ISSUED 1130 AM CDT Mon Jul 08 2024/"
+        },
+        {
+          "title": "East Texas/ArkLaTex/Ozarks/Lower to Mid Mississippi Valley",
+          "text": "Tropical Storm Beryl will continue north-northeastward today across southeast/east Texas and toward the ArkLaTex tonight, with its eastern-peripheral low/mid-level wind field remaining strong through tonight. Embedded circulations continue to occur within the modestly broken convective bands, that will northward-transition and potentially diurnally expand somewhat from east Texas into western/northern Louisiana, and the ArkLaTex vicinity this evening. Several tornadoes are possible especially through early evening, but some tornado/wind damage risk will linger/transition northeastward through late tonight across additional parts of Arkansas/Mid-South and Mississippi Valley. For additional short-term details, see Mesoscale Discussion 1558."
+        },
+        {
+          "title": "Southwest Texas",
+          "text": "A cold front will continue to surge southward across the region, with stronger heating and moderate destabilization occurring across parts of the Transpecos and Big Bend vicinity in the presence of upper 50s/lower 60s F surface dewpoints. Increasing low-level convergence along the front and differential heating over higher terrain should lead to increasing thunderstorm development this afternoon, with some of these storms potentially posing large hail and strong wind gust risks."
+        },
+        {
+          "title": "Northern New Mexico/far Southern Colorado",
+          "text": "A considerable westward surge of moisture has occurred since yesterday, with the 12z Albuquerque sounding featuring 0.80 inch Precipitable Water. Terrain influences/differential heating over interior New Mexico/southern Colorado will lead to increasing thunderstorm development this afternoon in the presence of as much as 500-1000 J/kg MLCAPE. Storm organization will likely be aided by a moderately strong belt of north-northwesterly winds aloft. Isolated instances of severe hail are expected this afternoon through early evening, along with the possibility of severe-caliber wind gusts."
+        },
+        {
+          "title": "Northern Lower Michigan/Lake Michigan vicinity",
+          "text": "Gradual destabilization is expected this afternoon in the wake of early day cloud cover and some outflow across the middle part of Lower Michigan. This be within a moist air mass (mid/upper 60s F surface dewpoints) ahead of an eastward-moving/weakening front, as a shortwave trough otherwise moves eastward over Lake Superior and northern Ontario. Modestly long/semi-straight hodographs with 30-35 kt effective shear could support some sustained storms/multicells, with a couple instances of wind damage/sub-severe hail possible through early evening."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2024,
+      "number": 1557,
+      "issue_utc": "2024-07-08T12:53Z",
+      "topic": "Tornado Watch 513",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1557.html",
+      "summary": "The tornado threat with Beryl continues today.",
+      "discussion": "Currently the primary tornado threat is associated with a few bands of supercells across southeast Texas. Some guidance indicates more cellular convection across southwest Louisiana and eastern Texas by later this morning which could pose some tornado threat given the wind profile shown by the LCH VWP. Therefore, when tornado watch 513 expires at 15Z, a new watch may be needed which may also need to be expanded farther inland to cover this threat as it develops northward through the day."
+    },
+    {
+      "year": 2024,
+      "number": 1558,
+      "issue_utc": "2024-07-08T16:19Z",
+      "topic": "Tornado Watch 514",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1558.html",
+      "summary": "Within and ahead of outer bands of Beryl, the risk for supercells with potential to produce tornadoes may undergo a substantive increase through 1-3 PM CDT.",
+      "discussion": "The low-level circulation center of Beryl is progressing slowly northward, near/west through north of the Houston Intercontinental vicinity. VWP data from KGHX indicates that low-level wind fields have veered to a south-southwesterly component with hodographs becoming more linear, and downward mixing of drier air is lowering surface dew points into the lower 70s F across much of the Greater Houston area. On the eastern to northeastern periphery of Beryl, surface dew points continue to rise through the upper 70s F, in the presence of enlarging clockwise-curved low-level hodographs closer to the Sabine River and into southwestern and west central Louisiana. Coupled with further boundary-layer destabilization, aided by daytime heating beneath the eastern periphery of the mid-level warm core, the potential for tornadoes may begin to substantively increase through 18-20Z. This may include with evolving supercells within the north-northeastward pivoting outer bands, and perhaps discretely to their north and east. ..Kerr.. 07/08/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1559,
+      "issue_utc": "2024-07-08T18:33Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1559.html",
+      "summary": "Isolated, marginally severe hail and strong/severe wind gusts are possible as storms develop and move southeastward. A watch is not likely.",
+      "discussion": "Surface dewpoints have help in the upper 40s to low 50s F in north-central New Mexico. With very modest mid-level ascent along the base of the departing upper-level trough, a few storms have deepened early this afternoon within the terrain. Effective shear of 30-35 kts will promote some storm organization. Much of the shear is concentrated in the lowest 6 km with fairly minimal shear above that level. Despite steep mid-level lapse rates, hail size should be tempered by this less favorable wind profile. Steep low-level lapse rates will support isolated strong/severe wind gusts as well. Cloud cover and drier air moving into the northeastern plains will likely limit how far southeast this activity will progress this afternoon."
+    },
+    {
+      "year": 2024,
+      "number": 1560,
+      "issue_utc": "2024-07-08T19:48Z",
+      "topic": "Tornado Watch 514",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1560.html",
+      "summary": "An area of potentially tornadic supercells probably will be maintained while spreading north-northeastward in advance of the remnants of Beryl through 4-6 PM CDT. An additional tornado watch may be needed across parts of southwestern into central Arkansas shortly.",
+      "discussion": "The low-level circulation center of Beryl is now migrating north-northeast of Huntsville, with strongest 2 hour surface pressure rises now inland of the upper Texas coast and falls north of Huntsville shifting toward the Ark-La-Tex. Beneath the mid-level warm core, evaporatively cooled air is spreading out at the surface and stabilizing an enlarging area of eastern Texas. However, upper 70s surface dew points on its northeastern and eastern periphery are maintaining weak to moderate CAPE, in the presence of large clockwise-curved low-level hodographs beneath 50+ kt south to southeasterly flow around 850 mb. This has contributed to the evolution of a number of confirmed and potentially tornadic supercells, largely focused within the more strongly convergent right front quadrant (with respect to storm motion). While this forcing spreads north through east of the Shreveport vicinity through much of southwestern Arkansas by 21-23Z, the risk for tornadoes appears likely to persist in the peak late afternoon boundary-layer instability. ..Kerr.. 07/08/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1561,
+      "issue_utc": "2024-07-08T23:29Z",
+      "topic": "Tornado Watch 514",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1561.html",
+      "summary": "Tornado threat will be most concentrated from northern Louisiana into central Arkansas this evening.",
+      "discussion": "Center of TS Beryl is lifting northeast across northeast TX early this evening. Latest radar data suggests the remnant circulation is just south of Longview. As such, strongest low-level shear is now focusing across the ArkLaTex, especially into southern AR where values continue to increase. Latest VWP data from SHV depicts weakening 0-3km SRH values, while 0-3km values are showing a marked increase as far northeast as LZK (300 m2/s2). While a few supercells linger at lower latitudes over central LA, the strongest longer-lived supercells are now concentrated from northwest LA into southwest AR. Over the next several hours the primary corridor of concern will orient itself from north of SHV toward LIT. ..Darrow.. 07/08/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1562,
+      "issue_utc": "2024-07-09T04:27Z",
+      "topic": "Tornado Watch 515",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1562.html",
+      "summary": "Tornado threat continues across central and eastern Arkansas.",
+      "discussion": "TS Beryl circulation has progressed into northeast TX, just southwest of Texarkana, and is gradually weakening as it ejects northeast into the lower MS Valley. Strongest low-level shear is now focused across central AR where 0-3km SRH at LZK is on the order of 650 m2/s2. Even so, low-level shear has gradually decreased ahead of this feature, and nocturnal cooling is notably affecting buoyancy in the lower troposphere. As a result, supercell structures are considerably fewer than earlier this evening, though several embedded longer-lived circulations are noted within a larger cluster of convection currently lifting north across central AR. Tornado threat continues with this activity and a local extension to Tornado Watch 0515 may be needed by 05z. ..Darrow.. 07/09/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1563,
+      "issue_utc": "2024-07-09T06:59Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1563.html",
+      "summary": "Low tornado threat may persist through the early morning hours. No additional tornado watch is anticipated early this morning.",
+      "discussion": "Tornado watch 515 will be allowed to expire at 07Z. Occasional low-level circulation has been evident from the KLZK and KNQA WSR-88Ds, but storm activity is becoming increasingly concentrated within weaker buoyancy and heavy rain where more robust updrafts are less likely. Given the favorable low-level shear apparent on the KNQA VWP, intermittent stronger low-level rotation remains possible, but expect the primary tornado threat to have diminished. A downstream/replacement tornado watch is not expected."
+    }
+  ]
+}

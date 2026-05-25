@@ -1,0 +1,152 @@
+{
+  "convective_day": "2020-08-08",
+  "valid_start": "2020-08-08T12:00Z",
+  "valid_end": "2020-08-09T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-08-08",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-08-08T16:30Z",
+      "valid_end": "2020-08-09T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200808_1630.html",
+      "summary": "Severe thunderstorms with a risk for large hail and severe wind gusts appear most likely to initially develop across parts of western and central Nebraska during the late afternoon and evening. This activity may evolve into a severe wind-producing MCS northeastward across southern to eastern South Dakota into southwest Minnesota tonight.",
+      "sections": [
+        {
+          "title": "Western NE to MN",
+          "text": "The southern fringe of modest mid-level west-southwesterlies will remain prevalent across the region to the north of a mid-level anticyclone centered on the southern Great Plains. A surface front will stall across northern MN into northeast SD. Trailing portion of this boundary will develop into a warm front advancing into ND late tonight downstream of a shortwave trough amplifying across the Canadian Rockies into the Prairie Provinces. An initial composite front/outflow surge should stall from southwest into north-central NE. This boundary and the presence of an MCV drifting east into the NE Panhandle should serve as the primary focus for late afternoon to early evening thunderstorm development. Rich low-level moisture characterized by upper 60s to mid 70s surface dew points to the east/south of both boundaries beneath very steep mid-level lapse rates of 9-9.5 C/km will foster a broad plume of MLCAPE in excess of 3000 J/kg. Convection that initiates in vicinity of western and central NE should tend to evolve northeast into north-central NE and southern SD. Around 25-35 kt effective shear should foster a few supercells before relatively quick growth into a predominant cluster mode."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-08-08",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-08-08T20:00Z",
+      "valid_end": "2020-08-09T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200808_2000.html",
+      "summary": "Severe thunderstorms with a risk for large hail and severe wind gusts appear most likely to initially develop across parts of western and central Nebraska during the late afternoon and evening. This activity may evolve into a severe wind-producing MCS northeastward across southern to eastern South Dakota into southwest Minnesota tonight.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "The previous convective outlook is largely on track. The only minor change was to include parts of southern Minnesota in 15-percent wind probabilities ahead of an eastward-moving thunderstorm cluster. ..Smith.. 08/08/2020 .PREV DISCUSSION... /ISSUED 1130 AM CDT Sat Aug 08 2020/"
+        },
+        {
+          "title": "Western NE to MN",
+          "text": "The southern fringe of modest mid-level west-southwesterlies will remain prevalent across the region to the north of a mid-level anticyclone centered on the southern Great Plains. A surface front will stall across northern MN into northeast SD. Trailing portion of this boundary will develop into a warm front advancing into ND late tonight downstream of a shortwave trough amplifying across the Canadian Rockies into the Prairie Provinces. An initial composite front/outflow surge should stall from southwest into north-central NE. This boundary and the presence of an MCV drifting east into the NE Panhandle should serve as the primary focus for late afternoon to early evening thunderstorm development. Rich low-level moisture characterized by upper 60s to mid 70s surface dew points to the east/south of both boundaries beneath very steep mid-level lapse rates of 9-9.5 C/km will foster a broad plume of MLCAPE in excess of 3000 J/kg. Convection that initiates in vicinity of western and central NE should tend to evolve northeast into north-central NE and southern SD. Around 25-35 kt effective shear should foster a few supercells before relatively quick growth into a predominant cluster mode."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-08-09",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-08-09T01:00Z",
+      "valid_end": "2020-08-09T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200809_0100.html",
+      "summary": "Severe thunderstorms with a risk for large hail and severe wind gusts are developing across parts of western and central Nebraska this evening. This activity may evolve into a severe wind-producing MCS and expand northeastward across southern to eastern South Dakota into southwest Minnesota later tonight.",
+      "sections": [
+        {
+          "title": "Nebraska to Minnesota",
+          "text": "Earlier thoughts regarding the possible evolution of a wind-producing MCS appear to be on track. Over the last few hours convection has gradually matured as it spread across eastern WY into western SD/northwest NE Panhandle. Southern flank of this activity has a bow-type structure that recently produced 72kt wind gust at CDR. With the synoptic front draped from eastern SD into northeast CO, easterly low-level inflow is noted north of boundary ahead of this maturing MCS. While LLJ is not particularly noteworthy, the air mass is quite unstable downstream with MLCAPE values of 4000-5000 J/kg. 00z sounding from LBF is sampling the western edge of this higher buoyancy with 3500 J/KG MLCAPE, but only 20kt of sfc-6km bulk shear. Even so, observed wind fields appear adequate for a long-lived MCS that should track along the SD/NE border region. Additionally, new robust convection is gradually increasing along the surface front over southwest NE, with towering cu field extending northeast toward ONL. This activity should continue to deepen and a secondary corridor of focused severe convection is expected, as currently depicted by latest ENH risk. Severe storms should propagate toward southwe"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 1422,
+      "issue_utc": "2020-08-08T17:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1422.html",
+      "summary": "A threat for isolated large hail and severe wind gusts may persist through the early afternoon with widely spaced storms. Watch issuance appears unlikely for now, but trends will be closely monitored.",
+      "discussion": "Convection has persisted through the morning along or just behind a surface cold front across far eastern SD and northern MN. An MCV from earlier storms currently over southeastern ND should continue east-northeastward into northern/central MN this afternoon. The 12Z sounding from ABR shows a very strong cap in the low levels, and the storms occurring across far eastern SD may remain elevated through much of the day. RAP forecast soundings suggest the low-level inversion is less pronounced with northward extent into northern MN, and there may be a slightly better chance for surface-based storms across this area. Steep mid-level lapse rates have overspread the frontal zone, and 2000-3000 J/kg of MLCAPE is already present at 17Z. Modestly enhanced mid-level winds associated with the MCV and shown in recent VWPs from KABR should promote storm organization with any storms that can persist or develop along/near the front this afternoon. Given this favorable combination of moderate to strong instability and sufficient deep-layer shear, isolated instances of large hail and severe wind gusts appears to be the primary threats with the more robust storms. Main uncertainty is overall storm coverage along the front given the pronounced cap, especially with southward extent. Widespread cloudiness across western/central MN may also limit the development of steep low-level lapse rates, slow diurnal heating, and delay the erosion of the cap. Given these uncertainties, watch issuance does not seem likely at this time, although observational and convective trends will be closely monitored."
+    },
+    {
+      "year": 2020,
+      "number": 1423,
+      "issue_utc": "2020-08-08T18:26Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1423.html",
+      "summary": "A threat for damaging winds and large hail may continue this afternoon with a small cluster of storms moving eastward. Watch issuance is possible.",
+      "discussion": "A small cluster of storms has persisted early this afternoon into parts of southwestern MN. Evidence of mid-level rotation, the development of a rear-inflow jet, and a couple recent tree damage reports all suggest that some of the stronger downdraft winds associated with this cluster are reaching the surface. Even with low clouds remaining prevalent downstream across southern MN, steep mid-level lapse rates and modest diurnal heating of a moist low-level airmass are supporting MLCAPE of 3000-3500 J/kg per latest mesoanalysis estimates. Though uncertainty regarding cap strength remains, there is increasing concern that this small cluster may continue eastward across parts of southern MN through the afternoon given the large reservoir of buoyancy available. Damaging, severe wind gusts and isolated large hail would be the main threats. If this ongoing convection can maintain itself over the next hour or so, then a small Severe Thunderstorm Watch may need to be considered downstream."
+    },
+    {
+      "year": 2020,
+      "number": 1424,
+      "issue_utc": "2020-08-08T18:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1424.html",
+      "summary": "Thunderstorms are expected to develop and increase in coverage and intensity this afternoon into the evening. Large hail and damaging thunderstorm winds will be the primary threats. A severe thunderstorm watch will likely be needed this afternoon.",
+      "discussion": "Satellite imagery continues to show bubbling mid-level cumulus/ACCAS across northwest Kansas and western Nebraska, with episodic updrafts strengthening enough for lightning across west-central Nebraska. Here, steep mid-level lapse rates approaching, and locally exceeding, 9 C/km currently exist atop surface dewpoints ranging from low 50s F across northwest Kansas to near 70 F across central Nebraska. Surface temperatures currently range from the mid 80s F to low 90s F. At the base of the steep mid-level lapse rates, and above the boundary layer, a warm nose on the order of 25 C exists, resulting in a strongly unstable environment, with most-unstable CAPE ranging from near 3000 J/kg to 5000 J/kg, albeit a capped environment, with convective inhibition on the order of 200-250 J/kg. Continued diurnal heating this afternoon will result in an increasingly well-mixed boundary layer, allowing for temperatures to warm into the 90s F to near 100 F across the area which will act to weaken surface-based inhibition. An increase in mid-level cloudiness across eastern Colorado depicted in recent satellite imagery suggests western Kansas and Nebraska are immediately downstream of a mid-level tough and associated ascent. As the mid-level ascent overspreads the highlighted area, the combination of warming low-level temperatures and the ascent/cooling of the warm nose should weaken convective inhibition sufficiently to allow for sustained thunderstorm updrafts. The most likely time for more robust thunderstorm initiation will be in the 20-22Z time period. Given the degree of instability and steep mid-level lapse rates, coupled with increasing effective shear in excess of 30 knots, thunderstorms will pose a large hail and damaging wind threat initially. With time, increasing cold pool mer"
+    },
+    {
+      "year": 2020,
+      "number": 1425,
+      "issue_utc": "2020-08-08T19:31Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1425.html",
+      "summary": "Thunderstorms are expected to develop across southeast Wyoming over the next couple of hours before moving east with time. A wind and hail threat may develop and the area will be monitored for a possible severe thunderstorm watch.",
+      "discussion": "Thunderstorms are expected to develop in the next couple of hours across southeast Wyoming and southwest South Dakota associated with favorable terrain-driven diurnal circulations, augmented by mid-level ascent associated with an approaching trough. Although the environment here will become increasingly unstable from east-to-west as low-level moisture is advected in from the east-northeast, a deep, well-mixed boundary layer will limit how far west favorable instability profiles will exist. The result will be most-unstable CAPE values increasing from 250 J/kg near the higher terrain of eastern Wyoming to near 5000 J/kg across the Nebraska Panhandle. Effective deep-layer shear between 40-50 knots will support thunderstorm organization/longevity for robust updraft pulses. As thunderstorms attempt to move east off the terrain toward the Nebraska Panhandle, the threat for hail and wind will increase given the better thermodynamic environment. The main concern/limiting factor will be the number of storms that are able to persist into this better environment. The area will continue to be monitored for a potential severe thunderstorm watch this afternoon."
+    },
+    {
+      "year": 2020,
+      "number": 1426,
+      "issue_utc": "2020-08-08T21:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1426.html",
+      "summary": "Isolated severe thunderstorms are possible into early evening, with a threat of locally severe wind gusts and perhaps marginally severe hail. Watch issuance is unlikely.",
+      "discussion": "At 2145Z, thunderstorms have recently developed from extreme east-central CO into northwest KS near a surface boundary, with strong heating on either side of the boundary continuing to erode SBCINH across the area. While this area is south of the stronger flow, mid/upper-level southwesterlies are sufficiently strong to support effective shear of 20-30 kt, which will support at least brief updraft organization with any sustained cells. A hot, well-mixed boundary layer and steep low-level lapse rates will support a threat of gusty outflow winds (potentially severe) with the strongest storms. Some hail cannot be ruled out as well, especially with any cells that can move eastward or northeastward into a region of somewhat greater buoyancy (MLCAPE of 1500-2000 J/kg versus 500-1000 J/kg where storms have initiated). Given the marginal deep-layer shear and greater downstream CINH, the magnitude and areal extent of the threat are expected to remain rather limited, so watch issuance is considered unlikely."
+    },
+    {
+      "year": 2020,
+      "number": 1427,
+      "issue_utc": "2020-08-08T22:00Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1427.html",
+      "summary": "A few damaging wind gusts and occasional large hail may accompany an eastward moving thunderstorm cluster. The severe threat is expected to remain isolated enough to preclude a WW issuance.",
+      "discussion": "A convective cluster, forward propagated by an eastward surging cold pool, is currently traversing a quasi-stationary baroclinic zone. Localized forcing for ascent along this boundary will likely support continued eastward movement of the aforementioned convective cluster, with potential renewed multicellular development along the clusters forward flank in the near term. Given the overall weak shear profile, severe potential is expected to remain relatively limited. Nonetheless, steep lapse rates throughout a deep layer of the troposphere are contributing to well over 3000 J/kg MLCAPE. Downdrafts contributing to the aforementioned cold pool will have the greatest potential to support a few damaging gusts, while the most vigorous updrafts along the forward flank of the cluster will have the greatest potential to produce severe hail. Nonetheless, while the latest high-resolution model guidance has not depicted the ongoing cluster relatively well, synoptic scale forcing is not strong. When also considering the weak shear environment, the severe threat is expected to remain isolated overall, and a WW issuance is not currently anticipated."
+    },
+    {
+      "year": 2020,
+      "number": 1428,
+      "issue_utc": "2020-08-09T01:58Z",
+      "topic": "Severe Thunderstorm Watch 421",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1428.html",
+      "summary": "The severe wind/hail threat continues in and near WW 421 this evening. The primary threat may transition to more of a damaging wind risk later tonight, focused across north-central NE into south-central SD. Downstream watch issuance may be required later tonight.",
+      "discussion": "Multiple thunderstorm clusters have produced severe wind and hail in and near WW 421 since 23Z. Isolated reports of very large hail were reported earlier across western SD/NE, and measured severe wind gusts (including 72 kt at Chadron, NE) have been noted across northwest NE in association with a small bowing segment. The strongest convection as of 0145Z is ongoing across southwest SD into northwest NE. The evolution of convection this evening remains somewhat uncertain. Very steep midlevel lapse rates and strong buoyancy noted in 00Z soundings from UNR and LBF will continue to support a conditional risk of severe wind with any organized convection that persists, and a conditional hail risk with any discrete cells that can be maintained. The low-amplitude shortwave trough that helped to initiate storms will continue to move across SD/NE, which should help to maintain convection into late tonight. The reasonably strong cold pool noted across northwest NE/southwest SD will likely continue to support a modestly organized MCS into the late evening across south-central SD/north-central NE, with a continued threat of severe wind gusts. A concentrated corridor of potentially damaging wind will be possible as this occurs, though increasing MLCINH and only a modest low-level jet response may temper the threat to some extent. Downstream watch issuance may be required later tonight to address the severe wind threat spreading into a larger portion of southern and eastern SD into northern NE."
+    },
+    {
+      "year": 2020,
+      "number": 1429,
+      "issue_utc": "2020-08-09T04:51Z",
+      "topic": "Severe Thunderstorm Watch 421",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1429.html",
+      "summary": "The threat for primarily damaging wind will continue into the overnight hours.",
+      "discussion": "At 0445Z, the longer-lived thunderstorm cluster that moved across southwest SD/northwest NE and the more recent intense development across central NE have consolidated into a loosely organized MCS that is moving into north-central NE/south-central SD. This MCS should continue to propagate northeastward into eastern SD/northeast NE, where MLCAPE is maximized (2500-4000 J/kg) and MLCINH is a relative minimum per recent mesoanalyses. This system recently produced a 53 kt gust at KICR in south-central SD, and at least sporadic severe gusts should continue overnight given strong instability and presence of a relatively organized cold pool. There remains some potential for a corridor of more concentrated damaging wind, though the system may struggle to maintain organization given relatively weak low-level inflow and deep-layer shear and increasing MLCINH with time as the boundary layer continues to cool. Some hail cannot be entirely ruled out given the strong instability, though the increasingly linear storm mode should maintain damaging wind as the primary threat overnight. ..Dean.. 08/09/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1430,
+      "issue_utc": "2020-08-09T06:46Z",
+      "topic": "Severe Thunderstorm Watch 422",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1430.html",
+      "summary": "Threat for strong wind gusts will continue across southeast SD and far northeast NE, and into far southwest MN and far northwest IA over the next hour or so.",
+      "discussion": "Organized convective line continues to move northeastward across southeast SD and adjacent far northeast NE. Recent storm motion was estimated at 45-47 kt, bringing the line to the SD/MN/IA border intersection a little after 07Z. Echo tops have remained fairly consistent over the past hour or so, with the strongest cores currently arcing from Hutchinson County SD to Boone County NE. Near-severe gusts of 49 kt and 41 kt were recently measured at KHON and KYKN, respectively. Low-level stability exists downstream, but the organized character of the convective line (evidenced by the well-defined rear-inflow jet on radar imagery) and steep mid-level lapse suggest the line should maintain its intensity for at least the next hour or so. As a result, the severe wind threat is expected to persist into far southwest MN and far northwest IA. ..Mosier.. 08/09/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1431,
+      "issue_utc": "2020-08-09T08:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1431.html",
+      "summary": "A few strong storms are possible over southeast NE and northeast KS during the next few hours.",
+      "discussion": "A line of multicellular storms, extending from roughly 35 miles east of HSI (in southeast NE) southward to about 20 miles northeast of HUT (in central KS), has developed and intensified over the past hour or so. This line developed along the leading edge of modest low-level jet extending from the TX Panhandle into central KS. Steep mid-level lapse rates are supporting moderate buoyancy and initially strong updrafts. However, vertical shear is modest and overall storm organization is weak. That trend is generally expected to continue, resulting in brief, strong updrafts with little severe potential. Given the hostile low-level thermodynamic environment and lack of more favorable vertical shear, these storms will likely dissipate within the next two hours or so."
+    }
+  ]
+}

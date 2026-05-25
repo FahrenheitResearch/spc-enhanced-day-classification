@@ -1,0 +1,391 @@
+{
+  "convective_day": "2026-04-14",
+  "valid_start": "2026-04-14T12:00Z",
+  "valid_end": "2026-04-15T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 5
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2026-04-14",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2026-04-14T12:00Z",
+      "valid_end": "2026-04-15T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2026/day1otlk_20260414_1200.html",
+      "summary": "Severe thunderstorms are expected this afternoon through tonight from the southern Plains to the Great Lakes. Large to very large hail, a few tornadoes (some strong), and damaging wind gusts will be possible, particularly across parts of eastern Iowa, northern Illinois, and southern Wisconsin. Additional severe storms, mainly producing strong wind gusts, will be possible across parts of the Northeast this afternoon.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "An upper wave is evident in recent water-vapor imagery across the southern Great Basin. This trough will translate east into the Plains through today, reaching the Great Lakes region by tonight. This will support slight deepening of a diffuse surface low analyzed over the central High Plains as it drifts east towards the lower MO River Valley. Ahead of the low, an expansive warm sector (characterized by widespread mid to upper 60s dewpoints) remains in place from the southern Plains northeastward into the upper MS Valley region. Strong to severe thunderstorms are expected along a composite outflow boundary/warm front from eastern IA into southern WI/northern IL as well as along a dryline draped from eastern KS into OK and TX. Further east, a mid-level wave associated with ongoing convection over the Great Lakes will support re-intensification/re-development of strong/severe storms across the Northeast."
+        },
+        {
+          "title": "Midwest",
+          "text": "An outflow boundary emanating from the ongoing MCS across the Great Lakes will likely be draped across the Midwest early this morning. This boundary is forecast to drift northward within a southerly flow regime as an effective warm front ahead of the approaching surface low and upper wave. Latest guidance generally depicts this boundary stalling across eastern IA into southern WI by late afternoon when daytime heating and ascent ahead of the upper wave will erode inhibition and promote convective initiation along the boundary. Dewpoints in the mid to upper 60s coupled with steep mid-level lapse rates (already noted in upstream 00z RAOBs) will support MLCAPE values near 2500 J/kg by late afternoon. Moderate buoyancy combined with 45-55 knots of effective bulk shear will be highly favorable for organized convection. Capping at the base of the EML should initially limit thunderstorm coverage and favor discrete supercells along the boundary. In addition to very large hail (possibly up to 2-3 inches in diameter), enhanced low-level SRH along the boundary may support a corridor of locally higher tornado potential, including the potential for significant tornadoes. With time, easterly sto"
+        },
+        {
+          "title": "Kansas into Oklahoma and Texas",
+          "text": "Modest height falls across the central to southern Plains combined with weak convergence along the dryline will likely support isolated to perhaps scattered thunderstorms from eastern KS southward into TX this afternoon. Consensus among latest HREF/REFS guidance is that initiation is most probable across northwest TX into central OK - possibly ahead of a subtle mid-level wave, though in reality the unfocused nature of the broad-scale ascent suggests that initiation will be possible anywhere along the dryline where low-level convergence can be maximized. Regardless, ample buoyancy within the warm sector (2500-3000 J/kg MLCAPE sampled in evening RAOBs) coupled with 30-40 knots of effective bulk shear will support supercells with an attendant threat for large hail (possibly exceeding 2 inches in diameter). Some tornado threat will likely materialize around and after 00 UTC as the nocturnal jet strengthens and enlarges low-level hodographs."
+        },
+        {
+          "title": "Northeast",
+          "text": "A low-amplitude upper wave associated with an ongoing MCS across the Great Lakes will migrate eastward towards the Northeast through the day. Residual convection associated with the MCS may linger through morning before re-intensifying by early afternoon as daytime heating supports steepening low-level lapse rates and increasing MLCAPE values (likely up to the 500-1000 J/kg range). While buoyancy will likely remain weak, 35-40 knot bulk shear through the CAPE-bearing layer and focused ascent ahead of a low-amplitude upper wave will likely support organization of convective bands with an attendant threat for strong to severe winds. ..Moore/Wendt.. 04/14/2026"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2026-04-14",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2026-04-14T13:00Z",
+      "valid_end": "2026-04-15T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2026/day1otlk_20260414_1300.html",
+      "summary": "Severe thunderstorms are expected this afternoon through tonight from the southern Plains into the Midwest. Large to giant hail, several tornadoes (some strong), and severe gusts will be possible, particularly from Iowa into the southern Great Lakes.",
+      "sections": [
+        {
+          "title": "Midwest",
+          "text": "An MCV near the IL-IN border this morning and southward-moving outflow are linked to thunderstorms over parts of the eastern Corn Belt. This outflow boundary will likely stall with the western portion of the boundary advancing northward within a strengthening warm conveyor this afternoon. Guidance generally depicts this boundary stalling across eastern IA into southern WI by late afternoon when daytime heating and ascent ahead of the upper wave will erode inhibition and promote convective initiation along the boundary. A moist airmass upstream over the lower MO Valley will advect northeast beneath steep 700-500 mb lapse rates (reference the 12 UTC Topeka, KS raob). MLCAPE at or above 2500 J/kg is forecast by mid-late afternoon from IA into the IA-WI-IL border vicinity. Initial storms later this afternoon will rapidly become supercells with all severe hazards possible. Large to giant hail and an intense tornado will be possible with the more mature/strongest supercells where SRH is locally maximized near the boundary. Upscale growth into a severe cluster is forecast to eventually evolve during the evening aided by a strong southwesterly LLJ into the southern Great Lakes. If a superc"
+        },
+        {
+          "title": "Kansas into Oklahoma and Texas",
+          "text": "Modest height falls across the central to southern Plains combined with weak convergence along the dryline will likely support scattered thunderstorms from eastern KS southward into western north TX this afternoon into the evening. Aligning with earlier thinking, strong heating and perhaps weak ascent tied to a subtle mid-level wave, will favor storm development by 20-22z as convective inhibition erodes. A very unstable airmass characterized by 2500-3000 J/kg MLCAPE and elongated hodographs will strongly favor supercells. The strength of low-level shear remains unclear during the early evening, when the tornado risk could maximize. Nonetheless, increased confidence in widely scattered to scattered supercells yielding a risk for large to giant hail prompted an increase in hail and hail-intensity highlights this outlook update."
+        },
+        {
+          "title": "Northeast",
+          "text": "A low-amplitude disturbance associated with an ongoing MCS near Lake Ontario this morning will move east into the Northeast during the day. Cloud breaks and low-level warm/moist advection will contribute to a destabilizing airmass by midday. Veering and strengthening winds with height will support storm organization, including the potential for supercells. Eventually a band of storms is forecast to evolve by mid-late afternoon with wind damage being the primary risk. Have introduced low hail/tornado probabilities to account for hazards associated with supercells. ..Smith/Dean.. 04/14/2026"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2026-04-14",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2026-04-14T16:30Z",
+      "valid_end": "2026-04-15T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2026/day1otlk_20260414_1630.html",
+      "summary": "Severe thunderstorms are expected this afternoon through tonight from the southern Plains into the Midwest. Large to giant hail, several tornadoes (some strong), and swaths of severe/damaging gusts are all likely, particularly from Iowa into the southern Great Lakes.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "An active severe weather day is anticipated for much of the southern/central Plains into the Midwest/Great Lakes and parts of the Northeast. The primary upper trough centered over the Four Corners late this morning will eject east-northeastward towards the southern/central Plains by this evening, while a separate mid-level shortwave trough over the northern Plains/Upper Midwest will also move east-northeastward across the Upper Great Lakes into Ontario. Another convectively enhanced low-amplitude shortwave trough will also develop eastward across the Lower Great Lakes into the Northeast. Recent surface analysis indicates multiple surface lows, with one over southern Ontario and another over southeast NE/northeast KS. A seasonably rich/moist low-level airmass exists to the south of a front extending between these two lows, with surface dewpoints already in the low to mid 60s across much of the southern/central Plains to the east of a dryline. Both the dryline in the southern/central Plains and developing warm front in the Midwest/southern Great Lakes will likely serve as foci for intense thunderstorms this afternoon and evening, including the potential for several supercells."
+        },
+        {
+          "title": "Midwest/Ohio Valley/Great Lakes",
+          "text": "A complex scenario for severe thunderstorms remains apparent across the Midwest/OH Valley into the southern Great Lakes today, with multiple outflow boundaries from earlier convection rendering greater than usual uncertainty with the southward extent of possible thunderstorm development in IL/IN/OH. In general, continued low-level warm advection from the central Plains into the Midwest/OH Valley will support a moistening/destabilizing airmass through the afternoon as a northern-stream shortwave trough moves eastward across the Upper Midwest. A surface warm front will extend northeastward from a weak surface low in IA across southern WI and Lower MI. It still appears likely that multiple intense supercells will develop by 20-21Z along/near this boundary in IA/southern WI/northern IL in a very favorable airmass for significant severe hail given strong deep-layer shear and the presence of steep mid-level lapse rates. Low-level shear is expected to gradually strengthen through the evening in tandem with a modestly increasing south-southwesterly low-level jet. Any supercells than can remain on the warm/south side of the front will be capable of producing tornadoes, a few of which could "
+        },
+        {
+          "title": "Southern/Central Plains",
+          "text": "12Z observed soundings from DRT/MAF/FWD/OUN/TOP show the presence of steep mid-level lapse rates atop rich low-level moisture (generally 14-15 g/kg mean mixing ratios) along/east of the surface dryline. Southwesterly mid-level flow and modest ascent preceding the upper trough over the Southwest/southern Rockies will gradually overspread the warm sector by mid to late afternoon. Moderate to strong instability (MLCAPE around 2000-3000 J/kg, locally stronger possible) and 35-45 kt of deep-layer shear will support multiple intense supercells. Explosive convective initiation across parts of western OK into south-central/southeast KS is expected by 20-21Z as lingering MLCIN erodes with filtered daytime heating and as convective temperatures are breached. The overall thermodynamic and kinematic environment appears quite favorable for very large to potentially giant hail (up to 3-4 inches in diameter) with any supercells that spread east-northeastward through the afternoon/evening. A gradually strengthening low-level jet across OK/KS by 00Z will also support a threat for a few tornadoes, a couple of which could be strong as low-level hodographs become enlarged. Gradual upscale growth/clust"
+        },
+        {
+          "title": "Northeast",
+          "text": "Ongoing convection across southern Ontario and the Lower Great Lakes will continue to track eastward this afternoon into NY and parts of New England in tandem with a low-amplitude shortwave trough. Gradual clearing of low/mid-level clouds has already encouraged surface temperatures to warm into the 70s along/south of west-east oriented front. Thunderstorms are expected to gradually increase in coverage and intensity as weak to locally moderate instability and strong deep-layer shear support organized updrafts, including the potential for some supercells initially. The greatest severe risk will probably be scattered damaging winds given a tendency for convection to consolidate into one or more clusters. But, an isolated severe hail threat may exist with any sustained supercell, along with some chance for a tornado or two near the front where low-level shear will be locally enhanced. ..Gleason/Chalmers.. 04/14/2026"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2026-04-14",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2026-04-14T20:00Z",
+      "valid_end": "2026-04-15T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2026/day1otlk_20260414_2000.html",
+      "summary": "Severe thunderstorms are expected this afternoon through tonight from the southern Plains into the Midwest. Large to giant hail, several tornadoes (some strong), and swaths of severe/damaging gusts are all likely, particularly from Iowa into the southern Great Lakes.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "A complex yet active severe weather day remains in the forecast for portions of the Midwest-OH Valley into the Southern Plains this afternoon into early tonight. While several lines were slightly adjusted to account for the latest guidance consensus, the following substantial changes and/or decisions were made: 1.) 30 percent wind probabilities were expanded southwestward into southwest and central OK to account for the possibility of more rapid upscale growth into one or more wind-producing MCSs or linear segments. 2.) Category 1/Marginal Risk probabilities for severe wind and hail were expanded west-southwest into NE along a frontal boundary to account for two possible scenarios. First, an isolated strong storm may develop within the next few hours along the boundary as a consequence of strong diurnal heating. Second, late tonight, there is low potential for gravity-wave associated convection on the immediate cool side of the frontal boundary, atop a stable boundary layer. 3.) Confidence is still too low for supercells across the Midwest to remain discrete for long periods of time, which would warrant a Categorical Moderate risk upgrade. Nonetheless, should a dominant supercell b"
+        },
+        {
+          "title": "Synopsis",
+          "text": "An active severe weather day is anticipated for much of the southern/central Plains into the Midwest/Great Lakes and parts of the Northeast. The primary upper trough centered over the Four Corners late this morning will eject east-northeastward towards the southern/central Plains by this evening, while a separate mid-level shortwave trough over the northern Plains/Upper Midwest will also move east-northeastward across the Upper Great Lakes into Ontario. Another convectively enhanced low-amplitude shortwave trough will also develop eastward across the Lower Great Lakes into the Northeast. Recent surface analysis indicates multiple surface lows, with one over southern Ontario and another over southeast NE/northeast KS. A seasonably rich/moist low-level airmass exists to the south of a front extending between these two lows, with surface dewpoints already in the low to mid 60s across much of the southern/central Plains to the east of a dryline. Both the dryline in the southern/central Plains and developing warm front in the Midwest/southern Great Lakes will likely serve as foci for intense thunderstorms this afternoon and evening, including the potential for several supercells."
+        },
+        {
+          "title": "Midwest/Ohio Valley/Great Lakes",
+          "text": "A complex scenario for severe thunderstorms remains apparent across the Midwest/OH Valley into the southern Great Lakes today, with multiple outflow boundaries from earlier convection rendering greater than usual uncertainty with the southward extent of possible thunderstorm development in IL/IN/OH. In general, continued low-level warm advection from the central Plains into the Midwest/OH Valley will support a moistening/destabilizing airmass through the afternoon as a northern-stream shortwave trough moves eastward across the Upper Midwest. A surface warm front will extend northeastward from a weak surface low in IA across southern WI and Lower MI. It still appears likely that multiple intense supercells will develop by 20-21Z along/near this boundary in IA/southern WI/northern IL in a very favorable airmass for significant severe hail given strong deep-layer shear and the presence of steep mid-level lapse rates. Low-level shear is expected to gradually strengthen through the evening in tandem with a modestly increasing south-southwesterly low-level jet. Any supercells than can remain on the warm/south side of the front will be capable of producing tornadoes, a few of which could "
+        },
+        {
+          "title": "Southern/Central Plains",
+          "text": "12Z observed soundings from DRT/MAF/FWD/OUN/TOP show the presence of steep mid-level lapse rates atop rich low-level moisture (generally 14-15 g/kg mean mixing ratios) along/east of the surface dryline. Southwesterly mid-level flow and modest ascent preceding the upper trough over the Southwest/southern Rockies will gradually overspread the warm sector by mid to late afternoon. Moderate to strong instability (MLCAPE around 2000-3000 J/kg, locally stronger possible) and 35-45 kt of deep-layer shear will support multiple intense supercells. Explosive convective initiation across parts of western OK into south-central/southeast KS is expected by 20-21Z as lingering MLCIN erodes with filtered daytime heating and as convective temperatures are breached. The overall thermodynamic and kinematic environment appears quite favorable for very large to potentially giant hail (up to 3-4 inches in diameter) with any supercells that spread east-northeastward through the afternoon/evening. A gradually strengthening low-level jet across OK/KS by 00Z will also support a threat for a few tornadoes, a couple of which could be strong as low-level hodographs become enlarged. Gradual upscale growth/clust"
+        },
+        {
+          "title": "Northeast",
+          "text": "Ongoing convection across southern Ontario and the Lower Great Lakes will continue to track eastward this afternoon into NY and parts of New England in tandem with a low-amplitude shortwave trough. Gradual clearing of low/mid-level clouds has already encouraged surface temperatures to warm into the 70s along/south of west-east oriented front. Thunderstorms are expected to gradually increase in coverage and intensity as weak to locally moderate instability and strong deep-layer shear support organized updrafts, including the potential for some supercells initially. The greatest severe risk will probably be scattered damaging winds given a tendency for convection to consolidate into one or more clusters. But, an isolated severe hail threat may exist with any sustained supercell, along with some chance for a tornado or two near the front where low-level shear will be locally enhanced."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2026-04-15",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2026-04-15T01:00Z",
+      "valid_end": "2026-04-15T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2026/day1otlk_20260415_0100.html",
+      "summary": "Severe thunderstorms are expected through tonight from the southern Plains into the Midwest. Large hail, several tornadoes (some strong), and swaths of severe/damaging gusts are all likely, particularly from eastern Iowa into the southern Great Lakes.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "Scattered discrete/semi-discrete supercells are ongoing across eastern Iowa, far northern Illinois, and southern Wisconsin along a diffuse warm frontal zone stretching eastward from weak surface low analyzed over eastern NE/western IA. The primary severe risk through the overnight hours will be associated with this activity as it spreads southeast through early morning. Further south across the central/southern Plains, poorly organized convection casts uncertainty in the nocturnal severe threat; however, a favorable environment will remain in place through Wednesday morning and could support severe convection."
+        },
+        {
+          "title": "Midwest/Great Lakes",
+          "text": "01 UTC regional radar mosaics show semi-discrete supercells ongoing across far eastern IA, northern IL, and southern WI with the early stages of upscale growth evident as storms interactions increase. This trend will continue through the overnight hours as this activity propagates east/southeast into lower MI and northern IN. The recent 00z DVN RAOB sampled a convective environment highly favorable for organized convection, which will maintain the potential for significant hail and tornadoes in the near term (most likely through 03 UTC) before a full transition to a linear mode takes place. Once this transition occurs, severe winds (including the potential for significant gusts in excess of 75 mph) and embedded circulations appear probable for areas downstream."
+        },
+        {
+          "title": "Southern Iowa into Kansas",
+          "text": "Thunderstorm development along a southward sagging cold front is anticipated in the coming hours across northeast KS into southern IA. Regional soundings sampled adequate buoyancy and strong deep-layer wind shear (around 50 knots) that will likely support organized convection along the front for a few hours. Storm motions along the boundary may foster clustering/upscale growth, but a severe wind, hail, and perhaps tornado threat is expected to materialize through the night."
+        },
+        {
+          "title": "Oklahoma into Texas",
+          "text": "Convective evolution thus far across western OK into northwest TX has been relatively lackluster given the otherwise buoyant and strongly sheared environment sampled by the 00z OUN sounding. This is likely due to expansive convective outflows resulting in undercutting and clustered storm modes as well as the presence of a subsidence inversion (also noted in the 00z sounding). It remains unclear whether or not this activity will be able to re-intensify through the late evening hours given. However, strengthening flow fields through 06 UTC may support some degree of improved organization and a more robust severe threat. This potential is hinted by recent HRRR solutions, but overall confidence is limited. Based on these trends, opted to remove the 30% hail/wind probabilities given low confidence in severe coverage. Further south into western TX, attempts at sustained convection have been noted over the past hour along the dryline, but downstream inhibition may limit overall storm coverage. ..Moore.. 04/15/2026"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2026,
+      "number": 418,
+      "issue_utc": "2026-04-14T16:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0418.html",
+      "summary": "The severe risk will gradually increase across the Northeast through the afternoon. The primary concern will be damaging wind gusts, though isolated severe hail and some tornado threat is also possible. While timing is uncertain, a watch may eventually be needed for parts of the area.",
+      "discussion": "Water-vapor and mosaic radar imagery depict a convectively augmented low-amplitude impulse advancing eastward across parts of Ontario into Quebec. As this feature continues eastward, an accompanying weak surface cyclone/frontal wave will evolve eastward along an east/west-oriented quasi-stationary front extending across northern NY/VT/NH this afternoon. Preceding the midlevel impulse and frontal wave, widely scattered thunderstorms should continue spreading/developing eastward across western/central NY, as well as along the quasi-stationary boundary farther north. Continued diurnal heating amid upper 50s to near 60 dewpoints and increasing low-level warm advection will destabilize the downstream air mass, yielding a gradual increase in thunderstorm coverage and intensity with eastward extent this afternoon. Despite only weak to locally moderate surface-based buoyancy, ample deep-layer shear (around 40 kt of effective shear) will promote a mix of organized clusters/line segments and a couple supercell structures (especially initially). The primary risk will be damaging wind gusts, though isolated severe hail and perhaps some tornado risk will also be possible (especially with any supercells that evolve). Given fairly nebulous large-scale forcing for ascent (especially with southward extent), overall storm coverage (and to some extent intensity) is a bit uncertain. While substantial cloud coverage farther north along the quasi-stationary boundary will limit destabilization compared to areas farther south, enhanced low-level SRH along the boundary will conditionally support a risk of organized clusters/supercells. Any storms that can become surface-based here will be capable of damaging wind gusts and potentially a locally greater tornado risk, though this is uncertain. De"
+    },
+    {
+      "year": 2026,
+      "number": 419,
+      "issue_utc": "2026-04-14T17:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0419.html",
+      "summary": "The risk of supercells capable of producing several tornadoes (some strong to intense), giant hail, and severe wind gusts will increase by around 19-22Z. A tornado watch is likely within the next couple hours.",
+      "discussion": "The latest surface analysis depicts a quasi-stationary boundary extending from central/northern IA into southern/central WI, with an additional composite outflow boundary farther south from northeast IA into northern IL. Over the next few hours, continued diurnal heating of a moist air mass (upper 60s dewpoints) should erode remaining inhibition at the base a substantial EML, resulting in the development of strong surface-based buoyancy (upwards of 3000-3500 J/kg MLCAPE). As this occurs, initial thunderstorm development is expected across parts of central/eastern IA near the intersecting boundaries by around 19-22Z -- aided by a subtle frontal wave tracking eastward along the quasi-stationary boundary. The strongly unstable air mass coupled with 40-50 kt of effective shear will favor rapid thunderstorm organization/intensification into semi-discrete supercells and organized clusters. Initially, very large to giant hail (2-3+ inches in diameter) and severe wind gusts will be the main concern with potentially splitting supercells -- given a mostly straight hodograph. However, a south-southwesterly low-level jet will strengthen across the area later this afternoon into the evening and likely favor a transition to dominant right-moving supercells with a quickly increasing tornado risk. The strong buoyancy and 200-300+ m2/s2 effective SRH will support strong to intense tornadoes with any longer-lived supercells, along with a continued risk of giant hail and severe gusts. Eventually, thunderstorms may have a tendency of growing upscale into clusters with eastward extent, which will yield an increasing risk of damaging wind swaths. A tornado watch will be issued within the next couple hours."
+    },
+    {
+      "year": 2026,
+      "number": 420,
+      "issue_utc": "2026-04-14T18:03Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0420.html",
+      "summary": "Multiple damaging gusts may accompany an MCS over the next few hours. While the efficiency in severe gust production is in question, convective trends will be monitored for the need of a Severe Thunderstorm Watch issuance.",
+      "discussion": "Deep-moist convection has developed and become established immediately ahead of an eastward tracking MCV. This MCS will track eastward along a corridor of modest deep-layer shear and 500-1000 J/kg MLCAPE. Given the relatively lower-end buoyancy/shear parameter space, it is not clear how efficient the MCS will be at producing damaging or especially severe gusts. However, KCLE cross-sectional storm relative velocity data does depict weak descending rear-inflow features, and the deep-layer shear vector is oriented roughly normal to the orientation of the leading line. As such, some damaging (and perhaps severe) gust potential exists. There is also a chance for an instance or two of hail. Convective trends will continue to be monitored for the need of a WW issuance, but the severe threat may be too isolated to warrant an issuance."
+    },
+    {
+      "year": 2026,
+      "number": 421,
+      "issue_utc": "2026-04-14T18:24Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0421.html",
+      "summary": "Thunderstorms developing along/ahead of a dryline this afternoon will pose a risk for large to very large hail and perhaps a tornado or two. A watch will likely be needed within the next couple of hours.",
+      "discussion": "Latest regional radar imagery and GLM Flash data indicate ongoing thunderstorm development across the Chisos Mountains within the Texas Big Bend region. Additional thunderstorm development is expected this afternoon along a dryline across much of West Texas and across the Sierra del Carmen in northern Mexico. Ahead of this dryline, surface temperatures in the low/mid-80s F and dewpoints in the mid-60s F underneath steep mid-level lapse rates are supporting 1500-2500 J/kg MLCAPE (locally greater). Effective bulk shear of 35-45+ kts and straight, elongated hodographs will support supercells (both left- and right-moving) capable of large to very large hail of 2-3+ inches in diameter and severe wind gusts. A gradually strengthening nocturnal low-level jet will likely support at least some increase in the tornado threat later this evening, especially with any persistent, discrete supercell(s); however, the core of the low-level jet is forecast to be displaced farther to the northeast. Thus, the magnitude of the tornado threat remains somewhat uncertain at this time. Regardless, watch issuance will likely be needed by 21z. With time, some gradual upscale growth/clustering should occur with ongoing storms, with an associated increase in the potential for severe wind gusts."
+    },
+    {
+      "year": 2026,
+      "number": 422,
+      "issue_utc": "2026-04-14T18:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0422.html",
+      "summary": "The area is being monitored for an increasing severe risk. While confidence in overall storm development/coverage and evolution remains uncertain, a watch issuance is possible this afternoon.",
+      "discussion": "In the vicinity of a remnant/increasingly diffuse outflow boundary draped across parts of northern/central IL, weak low-level warm advection is promoting gradually deepening cumulus and isolated convective initiation in central IL. Based on the motion of these echoes and character of the cumulus on day cloud phase imagery, this activity may be rooted above the boundary layer. Nevertheless, temperatures climbing into the lower 80s amid middle/upper 60s dewpoints will continue to erode inhibition at the base of the EML and could eventually support a transition to surface-based updrafts. If this were to occur, 2000-3000 J/kg MLCAPE and 40-50 kt of effective shear (characterized by a long/mostly straight hodograph) would initially favor discrete/semi-discrete supercells and clusters -- with a risk of very large hail (some 2+ inches in diameter) and severe wind gusts. With time, a strengthening low-level jet will result in enlarging clockwise-curved hodographs (200-300 m2/s2 effective SRH) and an increasing supercell-tornado risk. With all that said, the limited/nebulous synoptic and mesoscale ascent casts uncertainty on storm development/coverage and overall evolution -- especially given lingering inhibition. Convective and environmental trends are being monitored, and a watch issuance is possible this afternoon."
+    },
+    {
+      "year": 2026,
+      "number": 423,
+      "issue_utc": "2026-04-14T19:39Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0423.html",
+      "summary": "Severe thunderstorms expected to develop along a dryline this afternoon will bring the potential for all severe hazards. A Tornado Watch will be needed by 21z.",
+      "discussion": "Latest surface analysis depicts a dryline extending from eastern Kansas southwestward into northwest Oklahoma and the southeastern Texas Panhandle. Enhanced southwesterly flow aloft (40-50+ kts at 4-5 km AGL per regional VWPs) and modest ascent preceding an approaching upper-level trough will overspread the warm sector through the afternoon. Steep mid-level lapse rates (per the 12Z OUN/FWD/MAF soundings) atop surface temperatures in the low-80s and dewpoints in the mid/upper-60s F are supporting strong instability (MLCAPE 2500-3000+ J/kg) ahead of the dryline, with convective initiation expected within the next 1-2 hours as convective temperatures are reached. 35-45 kts of effective bulk shear (per latest mesoanalysis) will support initial supercells, with very large to giant hail (up to 3-4 inches in diameter) likely given the aforementioned steep mid-level lapse rates, ample buoyancy within the hail growth zone, and elongated hodographs. A few tornadoes (some potentially strong) are also possible, especially with any supercells that can remain largely discrete into the evening hours when a strengthening nocturnal low-level jet will yield enlarged, clockwise-curved low-level hodographs. A Tornado Watch will be needed by 21z to cover this threat. Expectation is then for upscale growth to gradually occur with time this evening, with a transition toward severe wind gusts as the primary threat."
+    },
+    {
+      "year": 2026,
+      "number": 424,
+      "issue_utc": "2026-04-14T19:53Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0424.html",
+      "summary": "Isolated thunderstorm development is possible this afternoon across portions of south-central Nebraska along a stationary boundary, with a conditional threat for large hail and severe wind gusts with any storm that can develop.",
+      "discussion": "Latest surface analysis depicts a stationary boundary extending northeast to southwest across eastern/south-central Nebraska, with a surface low analyzed near OMA. A corridor of higher surface dewpoints (low-to-mid 50s F) located along the cool side of this boundary is contributing to 250-750 J/kg MLCAPE, with forecast soundings and mesoanalysis depicting eroding MLCIN as surface temperatures continue to warm. Despite only weak available buoyancy, strong southwesterly flow aloft (40+ kt at 3 km AGL per the UEX VWP) atop northeasterly surface flow on the cool side of the surface boundary is supporting strong effective bulk shear of 50-60 kts. Elongated hodographs and steep mid-level lapse rates (per the 18z OAX observed sounding) will support a conditional threat for isolated large hail with any storm that is able to develop, with drier boundary layer profiles immediately south of the surface boundary (DCAPE of 800-1000+ J/kg) also supporting some potential for strong to occasionally severe wind gusts. This conditional severe risk will gradually decrease with time this evening owing to low-level nocturnal cooling/stabilization. Given the expectation for storm coverage and threat magnitude to remain limited should a storm even develop, watch issuance appears unlikely at this time."
+    },
+    {
+      "year": 2026,
+      "number": 425,
+      "issue_utc": "2026-04-14T20:42Z",
+      "topic": "Tornado Watch 109",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0425.html",
+      "summary": "A swath of very large to giant hail (3+ inches in diameter) appears likely over the next couple hours, with a few tornadoes also expected. The tornado risk will continue to increase through the afternoon into this evening.",
+      "discussion": "A dominant right-moving supercell has rapidly intensified immediately south of a quasi-stationary surface front extending across central IA, with additional storm splits evolving along its northern flank. This storm has recent reports of a tornado and 1.75 inch hail. Ahead of this storm, a strongly unstable air mass (around 4500 J/kg SBCAPE per modified 18Z DVN special sounding) and 50 kt of effective shear will favor continued intensification of this storm and additional storms forming along its flanks and near the surface boundary over the next few hours. Given a long/mostly straight hodograph (per VWP data), splitting supercells with dominant right-movers will pose a risk of very large to giant hail (some 3+ inches in diameter) and a few tornadoes. With time, low-level hodographs will increase in size/clockwise curvature as a low-level jet strengthens through the afternoon into the evening. This will support an increasing risk of strong to intense tornadoes with any established semi-discrete supercells. ..Weinman.. 04/14/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 426,
+      "issue_utc": "2026-04-14T21:52Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0426.html",
+      "summary": "Isolated damaging winds and perhaps a brief tornado are possible into the next couple of hours in southwest Pennsylvania. A watch is not expected.",
+      "discussion": "A weak MCV continues to promote thunderstorm development in southwest Pennsylvania into northern West Virginia. The environment farther east is drier and should lead to a general downtrend in intensity with time. That being said, storms closely tied to the MCV could produce isolated damaging gusts. The low-level wind shear near the MCV core is slightly enhanced per the KPBZ VAD. A brief tornado, though unlikely, is possible in southwest Pennsylvania immediately ahead of the MCV."
+    },
+    {
+      "year": 2026,
+      "number": 427,
+      "issue_utc": "2026-04-14T22:16Z",
+      "topic": "Tornado Watch 109",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0427.html",
+      "summary": "The tornado threat is increasing along the warm front in west-central/central Wisconsin.",
+      "discussion": "A supercell in Vernon County is showing increasing signs of organization along the warm front. The tornado threat with this storm will likely increase over the next hour given the favorable environment ahead of it. There is some uncertainty with regard to the impact of outflow from storms to the south, but a strong tornado could occur given the environment. ..Wendt.. 04/14/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 428,
+      "issue_utc": "2026-04-14T22:29Z",
+      "topic": "Tornado Watch 110",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0428.html",
+      "summary": "A corridor of more focused hail/wind threat is expected from northwest Texas into southwest Oklahoma along the outflow from the initial storm clusters.",
+      "discussion": "Initial warm sector storm development from northwest TX into southwest OK has produced a cold pool/outflow based on earlier radar velocity signatures from KFDR, as well as current surface observations. The existing cold pool plus expanding anvil shading with increasing storms across northwest TX suggest that storms will likely track along the outflow and focus a corridor of large hail and severe gust potential this evening with repeat storm clusters. Farther northwest, storms are forming along the surface dryline into western OK. A pocket of mid-upper 60s dewpoints and surface temperatures in the low-mid 80s will support large buoyancy in advance of this convection for the next 2-3 hours. The orientation of the dryline largely parallel to the mid-upper flow suggests storm interactions and some upscale growth is probable. Also, if storms continue to expand to the south-southeast of this area, rain-cooled air will spread northwest and limit the eastward extent of the severe threat with these dryline storms. ..Thompson.. 04/14/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 429,
+      "issue_utc": "2026-04-14T22:47Z",
+      "topic": "Severe Thunderstorm Watch 112",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0429.html",
+      "summary": "Damaging winds and large hail remain possible. Local extension in area of WW 112 is possible if storms maintain intensity.",
+      "discussion": "Damaging wind gusts and large hail potential will continue with an eastward moving cluster of storms in far eastern Indiana. The environment ahead of this activity is still moderately unstable (around 1500 J/kg MLCAPE), though dewpoints are slightly less. Shear gradually drops off with eastward extent, but 30-35 kts (effective) and steep mid-level lapse rates suggest hail is possible as well. Given the current speed of the cluster, it is possible that local extensions in area may be needed for parts of central Ohio should storms maintain intensity. ..Wendt.. 04/14/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 430,
+      "issue_utc": "2026-04-14T23:07Z",
+      "topic": "Tornado Watch 109",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0430.html",
+      "summary": "The risk for tornadoes (possibly strong) and destructive hail will continue with two supercells moving towards the Milwaukee metro region.",
+      "discussion": "Two supercells are tracking eastward toward Milwaukee and nearby suburbs. These supercells have a history of producing large to very-large hail in Madison. The KMKX VAD shows ample low-level shear and near 50 kts of 0-6 km shear. With steep mid-level lapse rates, large to very-large hail will remain possible. The tornado threat is greatest with the lead supercell with KMKX showing periodic increases in low-level inflow/organization. Tornadoes, potentially strong, are also possible. ..Wendt.. 04/14/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 431,
+      "issue_utc": "2026-04-14T23:36Z",
+      "topic": "Tornado Watch 109",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0431.html",
+      "summary": "Tornadoes and large/very-large hail remain possible this evening, particularly with discrete supercell elements. The greatest tornado threat this evening will likely be in far eastern Iowa and northern Illinois where the low-level jet will be strongest.",
+      "discussion": "Rotation remains evident on local radar velocity data with two supercells in southwest Wisconsin and east-central Iowa. The KDVN VAD shows enlarged hodographs and 0-3 SRH approaching 500 m2/s2. Additional strengthening of the low-level jet is expected, especially in far eastern Iowa and northern Illinois. The KDVN observed sounding from 21Z also showed a near 8 C/km mid-level lapse rate and 52 kts of effective shear. Large to very-large hail will remain possible with any supercell. The tornado threat will similarly be contingent on maintaining a discrete storm mode. The southern supercell will be moving into the better low-level shear environment with time. A strong tornado would be possible with any discrete storm within that environment. Farther north into southern Wisconsin, another round of severe storms is expected in the next 2-3 hours. Tornadoes and large/very-large hail will also be possible, though storm interaction are more likely here as well as potential impacts from earlier supercell outflow. ..Wendt.. 04/14/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 432,
+      "issue_utc": "2026-04-14T23:46Z",
+      "topic": "Severe Thunderstorm Watch 111",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0432.html",
+      "summary": "Storm coverage in WW #111 will likely be limited the remainder of the evening.",
+      "discussion": "Satellite imagery and surface observations show widespread clouds east of a dryline, with relatively cool surface temperatures mostly in the the 70s. Thunderstorms have developed recently along the retreating dryline just southwest of Midland. However, these storms may struggle to persist, and new storm development will be limited as a result of lingering convective inhibition this evening from the Edwards Plateau into the Big Country. Farther south, there is some potential for a supercell to cross the Rio Grande and make it into Val Verde Co. (near Del Rio) 00-01z, with an attendant threat for large hail and severe outflow gusts. Given the questions about storm intensity/persistence across much of WW #111, some/most of the watch could be removed near and after 01z. ..Thompson.. 04/14/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 433,
+      "issue_utc": "2026-04-15T00:28Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0433.html",
+      "summary": "Scattered thunderstorm development is expected to occur along a cold front sagging into parts of NE/KS/IA/MO. A few severe thunderstorms may occur with large hail being the main concern. A watch may be needed.",
+      "discussion": "Latest surface analysis shows a cold front sagging southward across parts of NE/IA. Meanwhile, strengthening southwesterly low-level winds are transporting rich moisture northward, with 60s dewpoints now as far north as northern MO/central KS. The leading edge of the richer moisture is expected to begin interacting with the approaching cold front in the next couple of hours, leading to rapid thunderstorm development. Sufficient shear profiles will promote a risk of organized multicell and occasional supercell structures, capable of large hail and damaging wind gusts. An isolated tornado cannot be ruled out. A severe thunderstorm watch may be needed soon for this activity. ..Hart.. 04/15/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 434,
+      "issue_utc": "2026-04-15T00:31Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0434.html",
+      "summary": "Though a transition to primarily a linear storm mode is expected, all severe hazards are possible this evening in central/southern Lower Michigan. A watch will be needed soon.",
+      "discussion": "The threat for severe storms will spread into parts of Lower Michigan within the next couple of hours. The primary area of concern should remain south of a warm front across central Lower Michigan. A cluster of storms has evolved out of two supercells in southeastern Wisconsin and will track across Lake Michigan. Damaging winds will likely be a concern with this activity. Additional storms may form in the warm advection regime ahead of that linear cluster. Given the steep mid-level lapse rates and 40 kts of 0-6 km shear on the KGRR VAD, large hail will remain a concern with the stronger, discrete elements. The risk for tornadoes is not as clear given the linear modes expected, though the GRR VAD also shows near 400 m2/s2 0-3 SRH. A watch will likely be needed soon."
+    },
+    {
+      "year": 2026,
+      "number": 435,
+      "issue_utc": "2026-04-15T00:53Z",
+      "topic": "Tornado Watch 110",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0435.html",
+      "summary": "The stronger storms with wind/hail are expected from northwest Texas into southwest Oklahoma through 02z, while more isolated storm development could occur along the retreating dryline into south central Kansas.",
+      "discussion": "Widespread convection and rain-cooled air, in addition to messy convective modes and storm interference, have largely limited the severe threat to occasional severe gusts and isolated large hail this evening from northwest TX into southwest OK. There will still be the potential for additional severe storms along the edge of the rain-cooled air along the I-44 corridor near and northeast of Wichita Falls through 02z. The 00z OUN and FWD soundings still show weak convective inhibition which will increase slowly this evening with gradual surface cooling. Still, lingering moderate buoyancy and a modest increase in low-level shear through late evening could support a supercell and conditional tornado threat along the rain-cooled boundary. Otherwise, damaging winds and isolated large hail will be the main threats. The presence of persistent anvil rain casts doubt on the short-term severe threat north of I-44 into central OK. Farther north, there have been recent attempts at deep convection along the retreating dryline near the OK/KS border, though the persistence of this convection is in question. If a sustained storm does manage to form into southern KS, the environment will favor isolated large hail and a conditional tornado threat. ..Thompson.. 04/15/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 436,
+      "issue_utc": "2026-04-15T01:32Z",
+      "topic": "Tornado Watch 109",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0436.html",
+      "summary": "The tornado risk will focus on northern Illinois with QLCS circulations still possible farther north. Damaging wind potential will be greatest with linear storm modes.",
+      "discussion": "The strongest activity in WW 109 exists in northern Illinois. With the low-level jet focusing in this area (50+ kts noted on KDVN and KLOT VAD), moist inflow and strong low-level shear will support a threat for tornadoes (possibly strong) as well as damaging winds and isolated large hail. Storm interactions have thus far limited how organized low-level mesocyclones have become, but the environment is quite favorable. In southeast Wisconsin, convection has been much more linear. A line segment moving toward Milwaukee is favorably oriented with the deep layer shear vector. Damaging winds are still possible, but the impacts of earlier supercell outflow may modulate this threat to some extent. The KMKX VAD still shows sufficient low-level shear that QLCS circulations may also occur at the leading edge of the convective line. ..Wendt.. 04/15/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 437,
+      "issue_utc": "2026-04-15T02:16Z",
+      "topic": "Tornado Watch 110",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0437.html",
+      "summary": "Bowing segments will spread northeastward from south central into northeast Oklahoma, where a new severe thunderstorm watch will be issued soon.",
+      "discussion": "Along the edge of the persistent anvil rain area, messy bowing segments persist and are moving northeastward. The storms are approaching the east edge of WW #110, and the primary threat moving forward appears to be occasional wind damage. Thus, a new severe thunderstorm watch will be issued soon for parts of southern into northeastern OK, and effectively replace WW #110 in OK."
+    },
+    {
+      "year": 2026,
+      "number": 438,
+      "issue_utc": "2026-04-15T02:23Z",
+      "topic": "Tornado Watch 113",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0438.html",
+      "summary": "Aside from damaging winds and isolated large hail, discrete storms near the warm front will pose the greatest tornado risk if they can intensify.",
+      "discussion": "Discrete convection has been noted ahead of the linear segments moving southeastward off of Lake Michigan. Given their proximity to the warm front and the large SRH on KGRR VAD (over 400 0-1 km), these storms will pose the greatest risk for tornadoes should they intensify. A strong tornado is possible within this environment. ..Wendt.. 04/15/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 439,
+      "issue_utc": "2026-04-15T03:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0439.html",
+      "summary": "A small, bowing convective cluster in northeast Oklahoma could reach southwest Missouri and extreme northwest Arkansas before weakening. This area will be monitored for a possible watch by 05z.",
+      "discussion": "A bowing MCS is moving northeastward at about 35 kt into northeast OK. This storm cluster is moving along the diffuse eastern gradient of the richer low-level moisture and moderate buoyancy, where weak convective inhibition and lift along the cold pool are maintaining the storms. The stronger gusts on the OK mesonet have been in the 45-50 mph range thus far, though several mesovortices have been observed within the more north-south segment of the line near KINX. The bowing cluster could spread northeast of WW #114 and into southwest MO/extreme northwest AR before the storms weakening appreciably, so this area will be monitored for a new watch by 05z."
+    },
+    {
+      "year": 2026,
+      "number": 440,
+      "issue_utc": "2026-04-15T04:03Z",
+      "topic": "Tornado Watch 113",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0440.html",
+      "summary": "Threat for embedded tornadoes and swaths of wind damage will persist across southern and southeastern Lower Michigan through 05-06z.",
+      "discussion": "Radar imagery suggests the formation of a larger MCV/comma head structure in southeast Lower MI with persistent convection. Embedded mesovortices have been observed within the comma head, and a swath of likely damaging winds extends south of the comma head/MCV. The tornado and wind threat are likely to persist for the next couple of hours while the convection develops east-southeastward along the buoyancy gradient, in a zone of strong low-level flow/shear. Farther west into southwest Lower MI, the threat for mesovortices/tornadoes will persist where a N-S bowing segment moves east-southeastward and intersects a more E-W outflow segment near the borders of Barry/Eaton and Kalamazoo/Calhoun Counties. ..Thompson.. 04/15/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 441,
+      "issue_utc": "2026-04-15T04:36Z",
+      "topic": "Severe Thunderstorm Watch 115",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0441.html",
+      "summary": "Threat for occasional large hail and isolated wind damage will continue along a stalled front for the next couple of hours, with additional storm development expected into eastern Iowa.",
+      "discussion": "Thunderstorms developed rapidly along a stalled front in the past hour, aided by low-level warm advection. The front is expected to move little the next few hours and will provide a focus for additional storm development into eastern IA (where a new severe thunderstorm watch has just been issued). Storms will likely remain confined to the front and will pose a threat for large hail with the initial updrafts, and isolated wind damage as storm coverage increases and small bowing segments become possible along the boundary. A brief tornado may also occur with bowing segments interacting with the front. Once storms become widespread, storm intensity will decrease gradually and the severe threat will begin to wane close to watch expiration time at 07z. ..Thompson.. 04/15/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 442,
+      "issue_utc": "2026-04-15T04:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0442.html",
+      "summary": "The threat for isolated wind damage may spread into northwest OH, just southeast of WW #113. However, the need for a new watch into OH is uncertain.",
+      "discussion": "A well-developed MCS with bowing segments and a comma head/MCV structure continues across southeast Lower MI. The storms are moving southeastward and will reach the edge of WW #113 near and after 06z. The downstream environment is less buoyant into OH, in the wake of earlier convection, but there is also strong southwest flow just off the surface to advect moisture northeastward. It is not clear if the storms will maintain severity into northwest OH, but this area will be monitored for a small watch after 06z."
+    },
+    {
+      "year": 2026,
+      "number": 443,
+      "issue_utc": "2026-04-15T06:12Z",
+      "topic": "Tornado and Severe Thunderstorm Watches 113",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0443.html",
+      "summary": "Locally damaging wind and a brief tornado remain possible, though some weakening is expected with time.",
+      "discussion": "A long-lived QLCS is moving across southeast MI and far northern IN/northwest OH early this morning. Parts of the QLCS are oriented parallel to the deep-layer flow, which is less favorable for severe potential due to undercutting outflow. However, the more north-south oriented segment approaching Detroit shows more potential for damaging wind and embedded mesovortices in the short term, as indicated by a recent 55 kt gust at KYIP. With decreasing MLCAPE and increasing MLCINH with eastward extent, longevity of the severe threat with this ongoing QLCS may be relatively limited. Strong low-level southwesterly flow (as noted on regional VWPs) may allow for sufficient moistening/destabilization across parts of northwest and north-central OH, where WW 318 was recently issued. Some threat for locally damaging wind and perhaps a brief tornado remains possible in this area through around 08-09 UTC, before a more definitive weakening trend is expected. ..Dean.. 04/15/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 444,
+      "issue_utc": "2026-04-15T06:47Z",
+      "topic": "Severe Thunderstorm Watch 115",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0444.html",
+      "summary": "An isolated severe threat may persist overnight, though an eventual weakening trend is expected.",
+      "discussion": "Within an extensive area of convection across Iowa, a small north-south oriented line segment has evolved south of Des Moines. This line segment earlier produced a gust of 52 kt at Creston, IA, and remains relatively vigorous within a moderately unstable and favorably sheared environment. A threat for locally damaging wind and possibly marginal hail could continue in the short term, before increasing MLCINH eventually leads to a weakening trend and/or a tendency for outflow to surge ahead of convection with time. A marginal severe threat could persist across eastern portions of WW 115 after its 07 UTC expiration, but this watch may be allowed to expire unless a short-term uptick occurs. An isolated severe threat remains evident across downstream WW 117, but this watch may eventually be cancelled early if a definitive weakening trend is observed."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "convective_day": "2021-04-11",
+  "valid_start": "2021-04-11T12:00Z",
+  "valid_end": "2021-04-12T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-04-11",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-04-11T13:00Z",
+      "valid_end": "2021-04-12T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210411_1300.html",
+      "summary": "The main severe-thunderstorm threat today will be over portions of the Florida Peninsula, with damaging wind and occasional hail possible. A tornado cannot be ruled out as well.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "The mid/upper level pattern will continue to feature split flow across central North America, but with some shift in the location and amplitude of the splitting. That mainly will be related to two features: 1. A cyclone now centered near the IL/IN state line, and forecast to gradually shrink/fill as its circulation center crosses IN and northern OH through the period. 2. An initially open-wave, neutral-tilt trough over SK, eastern MT and northern WY, which will evolve into a closed cyclone as it crosses the northern Great Plains today. By 12Z tomorrow, the 500-mb low should be near the SD/ND/MN border confluence, along a trough oriented west-northwest to east-southeast. In the southern peripheral cyclonic flow of the leading upper low, two small but important shortwave troughs are apparent: the first a convectively enhanced vorticity lobe over the northeastern Gulf south of the FL Panhandle, and the second upstream across southeast TX and LA. These perturbations will proceed eastward across central/northern FL and the central northeast Gulf Coast regions through 00Z, with the trailing one crossing northern/central FL tonight. At the surface, 11Z analysis showed a primary occluded l"
+        },
+        {
+          "title": "FL",
+          "text": "Scattered to numerous thunderstorms are expected to evolve from the ongoing, initially loosely organized activity over the northeastern Gulf. The resulting convection should sweep across and down the peninsula today in an increasingly organized, largely forward- propagational MCS. The main threat will be damaging gusts, some severe, and a tornado or two cannot be ruled out. (See SPC severe thunderstorm watch 91 and related mesoscale discussions for near-term situational coverage.) The main threat area, with greatest concentration of severe-wind potential, currently appears to be portions of central and perhaps south-central FL that experience longer-duration diurnal heating and sustained moisture advection/transport ahead of the complex. Veering flow with time is expected in much of the pre-MCS boundary layer, and should have these influences: 1. Making deep-layer winds more unidirectional, with the mean-wind and deep-shear vectors assuming substantial component along the convective axis, thereby supporting denser, quasi-linear configuration, 2. Reducing low-level shear and hodograph size somewhat (but not enough to forbid QLCS tornado potential entirely) and 3. Advecting higher-th"
+        },
+        {
+          "title": "Mid-Atlantic region",
+          "text": "Widely scattered thunderstorms may develop this afternoon, mainly along and east of a surface prefrontal/lee trough, moving eastward to northeastward over the outlook area. Isolated damaging gusts and/or marginally severe hail are possible. For generating buoyancy, diurnal destabilization of the boundary layer behind the morning clouds/precip will help to offset some relatively weak midlevel lapse rates, along with surface dew points commonly in the 50s to low 60s north, low/mid 60s south. Depending on the duration of heating, some mixing-related reduction in surface moisture is possible, tempering CAPE somewhat, but at the same time, yielding more evaporation-favoring subcloud layers for localized acceleration of downdrafts. Peak MLCAPE in the 500-1000 J/kg range is possible -- locally higher in the southern parts. The main factor precluding a better-organized threat will be lack of substantial vertical shear, with only 25-35-kt effective-shear magnitudes expected (also locally/briefly greater). ..Edwards/Broyles.. 04/11/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-04-11",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-04-11T16:30Z",
+      "valid_end": "2021-04-12T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210411_1630.html",
+      "summary": "Damaging winds, a tornado or two, and isolated large hail are expected this afternoon across central Florida. The threat for a few damaging gusts will also shift southward into south Florida later this afternoon/evening.",
+      "sections": [
+        {
+          "title": "Central/south FL this afternoon/evening",
+          "text": "A large cluster of thunderstorms that formed early this morning across the northeast Gulf of Mexico is evolving into a bowing MCS as it moves onshore near Tampa. The storms will likely move along an outflow boundary across central FL through the day, with the storms forcing the outflow southward with time. Surface heating and increases in low-level moisture south of the boundary, along with 50 kt west-southwesterly midlevel flow, will support the threat for swaths of damaging gusts with the bowing segments. A tornado or two may also occur with embedded circulations where the bowing segments interact with the east-west oriented outflow boundary. The threat for at least isolated damaging winds will shift southward with time along the outflow boundary, spreading into south FL this afternoon/evening."
+        },
+        {
+          "title": "Eastern NC into the Mid-Atlantic this afternoon/evening",
+          "text": "A lead shortwave trough is rotating northeastward over the Mid-Atlantic as of midday, with little forcing for ascent (or weak subsidence) in its wake. Given surface heating and lingering low-level moisture along and ahead of a cold front, a few storms may still develop this afternoon, with the more probable area from VA into south central PA. There will be marginally sufficient vertical shear and buoyancy for a low-end threat for damaging winds and/or large hail with the strongest storms this afternoon/evening. ..Thompson/Guyer.. 04/11/2021"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 366,
+      "issue_utc": "2021-04-11T14:54Z",
+      "topic": "Severe Thunderstorm Watch 91",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0366.html",
+      "summary": "Storms continue to develop across/spread into central Florida/WW 91. Risk for damaging winds is expected to ramp up over the next couple of hours, beginning over western portions of the watch.",
+      "discussion": "Latest surface analysis shows an outflow boundary lying west-to-east across central Florida, from roughly Tampa to Orlando to Melbourne. A loosely organized warm-advection band of storms is occurring north of this boundary, from roughly Citrus to Seminole/Orange Counties, where local wind/hail potential exists. Meanwhile, a much larger area of storms remains over the eastern Gulf of Mexico, with the leading edge of this convection now approaching coastal Citrus/Hernando/Pasco/Pinellas Counties. This band has remained rather loosely defined, but has recently begun to take ona bit more of an organized/bowing character. This more organized/advancing portion of the band will move onshore across the aforementioned counties over the next hour, and should progress eastward in the vicinity of the outflow boundary. The organizing character of the storms, and focused ascent in the vicinity of the boundary, suggests a corridor of enhanced severe risk evolving in the short term. ..Goss.. 04/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 367,
+      "issue_utc": "2021-04-11T16:08Z",
+      "topic": "Severe Thunderstorm Watch 91",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0367.html",
+      "summary": "Risk for locally damaging winds continues -- and is shifting gradually southward with time.",
+      "discussion": "Latest radar loop shows the initial/small bowing cluster of storms moving eastward just to the northeast of Tampa Bay, and is moving eastward at around 50 kt. This cluster will affect the Orlando area, bringing gusty winds, in the next 30 to 45 minutes. Meanwhile, a second small bowing cluster appears to be organizing to the west-southwest along this same convective band, and should cross the Tampa Bay area and areas just south over the next half hour to hour. Here also, gusty winds -- possibly reaching severe levels locally -- can be expected. ..Goss.. 04/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 368,
+      "issue_utc": "2021-04-11T17:24Z",
+      "topic": "Severe Thunderstorm Watch 91",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0368.html",
+      "summary": "Severe risk continues locally across parts of central Florida -- within WW 91 -- and will gradually shift southward requiring new WW consideration across much of south Florida.",
+      "discussion": "Latest radar loop shows a band of storms sagging southward across central Florida, with occasionally stronger storms/convective segments noted. As outflow associated with this band shifts steadily southward, the primary zone of severe risk will likewise shift south -- and eventually out of the current WW. Meanwhile, as the very moist south Florida airmass continues to warm/destabilize, additional/cellular development is occurring south of the main convective band. Given sufficient shear across the area, a few of these storms could produce gusty winds and hail, prior to the arrival of storms from the north. Given these trends, a new WW will likely be required in the next 60 to 90 minutes, across much of south Florida. ..Goss.. 04/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 369,
+      "issue_utc": "2021-04-11T20:12Z",
+      "topic": "Severe Thunderstorm Watch 92",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0369.html",
+      "summary": "Severe risk has decreased, but a locally damaging gust or two remain possible over the next 1 to 2 hours.",
+      "discussion": "Latest radar loop shows outflow continuing to move steadily southward across southern Florida, with a decided anafrontal nature to this boundary having evolved. It appears that this trend will continue, with most new storm development occurring on the boundary and then becoming undercut/slightly elevated. As such, severe threat has diminished over the past hour or so. Still, gusty winds will accompany passage of the outflow, and a couple of stronger gusts -- capable of minor damage -- remain possible this afternoon. ..Goss.. 04/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 370,
+      "issue_utc": "2021-04-11T20:54Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0370.html",
+      "summary": "A few strong to locally severe thunderstorms may develop through late afternoon/early evening, primarily across parts of northern Virginia and central Maryland into southern Pennsylvania.",
+      "discussion": "Convection has struggled to deepen this afternoon near/just ahead of an eastward-moving cold front, owing to factors such as limited boundary layer moisture and weak convergence owing to veered near-surface winds within the pre-frontal warm sector. While surface dewpoints continue to drop coincident with ample boundary layer mixing, a recent modest increase in convergence has been noted in vicinity of the front and near/just east of the Blue Ridge along with increasing cumuliform development. Additional development and convective intensification is still plausible through the late afternoon/early evening, particularly within a corridor across northern Virginia/DC vicinity/central Maryland into south-central Pennsylvania where low-level convergence should maximize in vicinity of surface low/triple point. Where thunderstorms are able to develop and sustain, a warm and well-mixed boundary layer would support the possibility of some strong/locally damaging wind gusts, aside from the possibility of some hail."
+    },
+    {
+      "year": 2021,
+      "number": 371,
+      "issue_utc": "2021-04-12T06:13Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0371.html",
+      "summary": "Isolated severe hail is possible from convection moving southeastward across mainly the lower/middle Keys for a few more hours. A watch is unlikely.",
+      "discussion": "Surface mesoanalysis depicts an outflow boundary -- produced by the earlier/severe peninsular MCS -- progressing southward over the area from the central Bahamas to the Cuban coastline near MUVR/Varadero, then northwestward across the Straits of Florida southwest of EYW. The western part of the boundary, northwest of Varadero, is decelerating and may stall and retreat northward the next few hours. VWP from BYX radar indicates the cold pool is shallow, with southerlies at 850 mb supplying richly moist inflow to elevated convection north of the boundary. That includes a supercell with occasional MESH indicators of severe hail, located about 40 NNE of EYW at 06Z, and moving southeastward generally toward the Marathon/Seven Mile Bridge area. Other isolated strong-severe thunderstorms also may form in this regime, where modified RAOBs and forecast soundings suggest around 500-1000 MUCAPE atop the stable boundary layer. Favorable vertical shear is apparent atop the cold pool as well, in the form of veering with height and 50-60-kt effective-shear magnitudes. The cold pool should become shallower with time -- especially around the lower Keys -- indicating the potential for localized downdraft gusts approaching severe limits to penetrate to the surface as well. ..Edwards.. 04/12/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "convective_day": "2021-05-08",
+  "valid_start": "2021-05-08T12:00Z",
+  "valid_end": "2021-05-09T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-05-08",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-05-08T16:30Z",
+      "valid_end": "2021-05-09T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210508_1630.html",
+      "summary": "Scattered severe storms are expected later this afternoon through late evening across northern Kansas, and overnight into northwestern and central Missouri. The initial Kansas storms will pose a large hail threat, with an increase in the damaging-wind threat by early tonight. A few tornadoes will also be possible late this evening into tonight.",
+      "sections": [
+        {
+          "title": "KS this afternoon/evening into MO overnight",
+          "text": "In advance of a midlevel trough now approaching western CO, a lee cyclone will develop east-southeastward from eastern CO into southwestern KS through this afternoon, as a dryline sharpens southward near the western OK border, and a warm front consolidates near I-70 across KS. Moisture return in the warm sector has been delayed by a prior frontal intrusion related to a midlevel trough near the Atlantic coast, with the richest moisture (> 65 F dewpoints) confined to south of I-20 in east TX as of late morning. Moisture advection will continue through the day from OK into KS, but will be offset by vertical mixing, resulting in boundary-layer dewpoints mainly in the 50s immediately east of the dryline up to the triple point in KS. Regional 12z soundings suggest surface temperatures will need to approach 90 F to mix deeply enough to eliminate convective inhibition, and this only appears probable in a narrow zone along the dryline to near the triple point by mid-late afternoon. High-based thunderstorm development is expected near and just northeast of the triple point in west central KS by 21-23z, and storms will subsequently move east-northeastward along the surface warm front. Large h"
+        },
+        {
+          "title": "Western OK/TX area this afternoon/evening",
+          "text": "The corridor of richer moisture return will remain well east of the southern Plains dryline through this evening. Deep mixing and a narrow zone of ascent along the dryline could support isolated thunderstorm development late this afternoon/evening; thus, will maintain the MRGL risk area to reflect the highly-conditional threat for supercells this evening. ..Thompson/Moore.. 05/08/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-05-08",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-05-08T20:00Z",
+      "valid_end": "2021-05-09T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210508_2000.html",
+      "summary": "Scattered severe storms are expected later this afternoon through late evening across northern Kansas, and overnight into northwestern and central Missouri. The initial Kansas storms will pose a large hail threat, with an increase in the damaging-wind threat by early tonight. A few tornadoes will also be possible late this evening into tonight.",
+      "sections": [
+        {
+          "title": "KS this afternoon/evening into MO overnight",
+          "text": "In advance of a midlevel trough now approaching western CO, a lee cyclone will develop east-southeastward from eastern CO into southwestern KS through this afternoon, as a dryline sharpens southward near the western OK border, and a warm front consolidates near I-70 across KS. Moisture return in the warm sector has been delayed by a prior frontal intrusion related to a midlevel trough near the Atlantic coast, with the richest moisture (> 65 F dewpoints) confined to south of I-20 in east TX as of late morning. Moisture advection will continue through the day from OK into KS, but will be offset by vertical mixing, resulting in boundary-layer dewpoints mainly in the 50s immediately east of the dryline up to the triple point in KS. Regional 12z soundings suggest surface temperatures will need to approach 90 F to mix deeply enough to eliminate convective inhibition, and this only appears probable in a narrow zone along the dryline to near the triple point by mid-late afternoon. High-based thunderstorm development is expected near and just northeast of the triple point in west central KS by 21-23z, and storms will subsequently move east-northeastward along the surface warm front. Large h"
+        },
+        {
+          "title": "Western OK/TX area this afternoon/evening",
+          "text": "The corridor of richer moisture return will remain well east of the southern Plains dryline through this evening. Deep mixing and a narrow zone of ascent along the dryline could support isolated thunderstorm development late this afternoon/evening; thus, will maintain the MRGL risk area to reflect the highly-conditional threat for supercells this evening."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-05-09",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-05-09T01:00Z",
+      "valid_end": "2021-05-09T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210509_0100.html",
+      "summary": "Scattered severe storms will spread across northern Kansas and extreme southeast Nebraska into central Missouri later tonight. Large hail, damaging winds, and perhaps a few tornadoes remain possible.",
+      "sections": [
+        {
+          "title": "Central Plains/Lower Missouri Valley",
+          "text": "An expanding cluster of severe thunderstorms is currently noted from north-central KS into south-central NE. Much of this activity is evolving within a corridor of low-level warm advection along the nose of a LLJ that is impinging on a warm front draped from near MCI-north of CNK. This warm front will continue to be the focus for new development, and for an MCS to potentially evolve and mature as it spreads east-southeast toward central MO later tonight. Earlier thoughts regarding the possibility for a few storms along the dry line are no longer considered warranted. Severe probabilities will be lowered along this boundary and west of the evolving MCS over north-central KS. ..Darrow.. 05/09/2021"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 560,
+      "issue_utc": "2021-05-08T20:24Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0560.html",
+      "summary": "One or two thunderstorms may develop by late afternoon across southern Texas. However, the severe threat is expected to remain isolated, and a watch is not expected.",
+      "discussion": "Recent GOES imagery shows a growing field of agitated cumulus in the Fort Stockton, TX area along a semi-diffuse dryline. This region is on the periphery of richer boundary-layer moisture with dewpoints only reaching the low 50s on the moist side of the confluence axis. However, RAP mesoanalysis and forecast soundings suggest a narrow corridor may exist where sufficient moisture and boundary-layer heating (surface temperatures in the low 90s are noted in the region) will support 500-1000 J/kg SBCAPE with minimal inhibition. Recent HRRR guidance suggests a storm or two may develop in this corridor and/or within the higher terrain of northern Mexico by late afternoon. Given 30-40 knots of effective bulk shear, storm organization is likely and may support an isolated hail/wind threat. Any storm that can initiate will encounter a higher MUCIN environment as it moves eastward into south-central TX. This casts some uncertainty into the duration of any robust convection. Given the isolated, and possibly short duration, nature of this threat, a watch is not expected."
+    },
+    {
+      "year": 2021,
+      "number": 561,
+      "issue_utc": "2021-05-08T20:24Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0561.html",
+      "summary": "Isolated severe thunderstorms are expected to develop in the 5-7 pm CDT/22z-00z time frame, with a risk for primarily large hail and damaging winds. Observational trends are being monitored and a watch is likely to 22z.",
+      "discussion": "Latest visible satellite imagery shows a high-based cumulus field becoming better established over portions of southwest and central KS near a triple point north of Dodge City. A warm front extends north/east from the triple point across northern KS, while a cold front continues moving southward over western KS. Strong heating/mixing of mid-upper 50s surface dew points has resulted in moderate-strong MLCAPE beneath an EML within the warm sector, with further erosion of MLCINH contributing to thunderstorm development in the 22z-00z time frame as a mid-level shortwave trough approaches from the west. Isolated supercell storms developing initially near the triple point will move east-northeast in the vicinity of the warm front with a risk for primarily large hail. Damaging winds will become more likely with time, and some risk for a tornado may also exist, especially with discrete storms near the warm front. Thunderstorm coverage should increase through early evening along the cold front as it advances eastward over north-central KS. Trends continue to be monitored and a watch is likely by 22z."
+    },
+    {
+      "year": 2021,
+      "number": 562,
+      "issue_utc": "2021-05-08T20:59Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0562.html",
+      "summary": "Developing thunderstorms may produce sporadic damaging winds across eastern Colorado through the early evening hours. This threat should remain isolated, and a watch is not expected.",
+      "discussion": "Recent radar and GOES IR trends from the Denver, CO region show an uptick in convection over the past 30 minutes as a passing cold front induces an upslope flow regime over the CO front range. Despite the cold frontal passage, the air mass over the CO Plains remains supportive for convection thanks to cold temperatures aloft and nearly 9 C/km mid-level lapse rates that are allowing for around 500 J/kg SBCAPE. Nearly 40 F dewpoint depressions across the region are indicative of a dry, well-mixed boundary layer, and this idea is supported by recent RAP forecast soundings. This low-level thermodynamic profile is supportive of strong downdrafts, and 40-50 knots of effective bulk shear may support some cold pool organization and a damaging wind threat with any larger clusters. Convective coverage is somewhat uncertain since the primary forcing mechanism will likely remain confined along the front range in the upslope flow regime. Furthermore, the instability is not expected to substantially improve given gradual cold advection and patchy cloud cover, and a few discrete cells have recently shown only transient intensification. The limited nature of this threat precludes the need for a watch."
+    },
+    {
+      "year": 2021,
+      "number": 563,
+      "issue_utc": "2021-05-08T23:06Z",
+      "topic": "Severe Thunderstorm Watch 153",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0563.html",
+      "summary": "Wind-damage, large hail and a tornado threat will continue to be possible across central and northern Kansas into southern Nebraska over the next few hours. Weather watch issuance will be needed soon across parts of northeast Kansas, southeast Nebraska and far northwest Missouri.",
+      "discussion": "Latest radar imagery shows two clusters of strong to severe thunderstorms. The first is located in west-central Kansas with the second in far south-central Nebraska. These storms are located along an axis of moderate instability with the RAP estimating MLCAPE in the 1500 to 2500 J/kg range. A 994 mb surface low is located over southwest Kansas. The low is associated with a shortwave trough over far eastern Colorado, evident on water vapor imagery. As the shortwave moves eastward low-level flow will increase across the central Plains. This will support the development of a MCS. The latest WSR-88D VWP from Hastings shows 0-6 km shear 55 kt with 0-3 km storm relative helicities near 350 m2/s2. This combined with 700-500 mb lapse rates near 8.0 C/km will support supercells with large hail and possibly a tornado threat. As the storms merge into a bowing line segment, the wind-damage threat will increase later this evening. ..Broyles.. 05/08/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 564,
+      "issue_utc": "2021-05-09T02:15Z",
+      "topic": "Tornado Watch 154",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0564.html",
+      "summary": "A wind damage, large hail and tornado threat will continue late this evening, affecting northeast Kansas and parts of Missouri. The severe threat will likely persist into the early overnight period necessitating a new watch further to the east.",
+      "discussion": "The latest radar imagery shows a cluster of strong to severe thunderstorms located from near Salina, Kansas northward into far southeast Nebraska. These storms are located along the northern edge of a moderately unstable airmass. The instability and moisture gradient extends east-southeastward across eastern Kansas into western and southern Missouri, along which a warm front is analyzed. Storm coverage will continue to increase with a linear MCS developing and moving southeastward along this gradient. As a cold pool organizes, supercells that remain intact as the line forms, will continue to have a threat for large hail and wind damage. The WSR-88D VWP at Topeka, Kansas shows a looped hodograph with 0-3 km storm relative helicity near 450 m2/s2. This will continue the tornado threat, especially with supercells. The wind-damage threat is expected to increase as the linear MCS matures, continuing after midnight as the line moves into western Missouri. ..Broyles.. 05/09/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 565,
+      "issue_utc": "2021-05-09T04:25Z",
+      "topic": "Severe Thunderstorm Watch 156",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0565.html",
+      "summary": "Wind damage and hail will be likely across parts of northeast Kansas and western Missouri over the next hour.",
+      "discussion": "Latest surface analysis shows a 996 mb low over southern Kansas with a warm front extending eastward into western and southern Missouri. A bowing line segment is currently located just to the north of the front and is moving quickly east-southeastward at 50 to 55 knots across northeast Kansas. The line is located on the northern edge of a 50 to 60 kt low-level jet. As the low-level jet strengthens early tonight, the severe threat with the line will be maintained. Damaging wind gusts can be expected as it moves across the Kansas City Metro over the next hour. Hail will also be likely with the stronger cores embedded in the line. ..Broyles.. 05/09/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 566,
+      "issue_utc": "2021-05-09T06:39Z",
+      "topic": "Severe Thunderstorm Watch 156",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0566.html",
+      "summary": "Severe risk continues across portions of western and central Missouri.",
+      "discussion": "Latest radar loop shows a bowing MCS moving eastward/southeastward across western and into central Missouri at this time, straddling a warm-frontal boundary that extends southeastward across the state. Instability diminishes with eastward extent into eastern Missouri, and thus more vigorous convection is preferentially developing on southwestern portions of the band, while gradual weakening occurs farther northeast. As a result, a continued/gradual turn more to the southeast is expected, with convection spreading across toward/across the Ozarks of southern Missouri with time, and this tendency reinforced by gradual veering of the low-level jet overnight. With that said, while convection will persist overnight, overall intensity is expected to very gradually decrease, and thus severe potential is likely to become more isolated/local, and tied to briefly stronger updrafts within the band. Therefore, while still well-contained within the watch, possible future need for a new WW downstream remains uncertain at this time, and will continue to be monitored. ..Goss.. 05/09/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 567,
+      "issue_utc": "2021-05-09T08:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0567.html",
+      "summary": "Locally strong storms -- a few capable of hail and/or wind gusts near severe levels -- will be possible across the Ozarks region this morning. However, low-end/isolated risk that is expected to persist appears likely to remain too low to warrant new WW issuance.",
+      "discussion": "Latest radar loop shows a mature, arcing band of thunderstorms moving southeastward across southwestern and central Missouri at this time. Meanwhile, isolated storms have developed farther south, across northwestern Arkansas/southwestern Missouri, in response to increasing low-level warm advection associated with a veering low-level jet. Amply steep lapse rates across the region are providing sufficient -- though slightly elevated -- CAPE, on the order of 500 to 1500 J/kg. This -- combined with moderate/very weakly veering flow in the cloud-bearing layer -- is supporting a few stronger updrafts, and will likely continue to do so as convection spreads across the Ozarks. However, with severe potential expected to remain rather low-end and isolated, a WW is not currently anticipated. We will continue to monitor convective evolution across the area, for any signs of increased severe risk."
+    }
+  ]
+}

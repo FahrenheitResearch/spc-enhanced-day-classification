@@ -1,0 +1,209 @@
+{
+  "convective_day": "2020-04-07",
+  "valid_start": "2020-04-07T12:00Z",
+  "valid_end": "2020-04-08T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-04-07",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-04-07T16:30Z",
+      "valid_end": "2020-04-08T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200407_1630.html",
+      "summary": "Severe thunderstorms are possible this afternoon through tonight across southern portions of the Great Lakes region into the Ohio Valley and Mid Atlantic. The strongest storms will pose a threat for very large hail, damaging wind gusts, and a couple of tornadoes.",
+      "sections": [
+        {
+          "title": "Southern Great Lakes/OH Valley this evening into tonight",
+          "text": "A progressive shortwave trough is noted in water vapor imagery over SD, with an associated surface cold front moving across MN/WI. This front will move into Lower MI/southeast WI by mid-afternoon, where pockets of strong heating and low-level moistening will result in MLCAPE values of 1000-2000 J/kg. 12z model guidance is in strong agreement that storms will form in the 3-5pm period along the front and track rapidly southeastward into parts of IN/OH. A combination of steep midlevel lapse rates and strong deep-layer shear will promote supercell storm structures capable of very large hail and damaging winds gusts. A tornado or two is possible with early storms, but frontal forcing should contribute to upscale organization during the early evening with increasing damaging wind risk. The corridor of highest confidence has been upgraded to ENH risk. Present indications are that storms will persist overnight and move into parts of WV/PA where nocturnal cooling will slowly diminish the severe threat."
+        },
+        {
+          "title": "Mid Atlantic",
+          "text": "A convectively-enhanced shortwave trough is noted over OH/Northern WV. Strong heating has occurred ahead of this feature over parts of MD/VA, where dewpoints in the 50s will yield sufficient CAPE for a few afternoon thunderstorms. Relatively steep lapse low and midlevel rates and strong westerly flow aloft will promote a risk of damaging winds and hail in the strongest cells. 12z CAMs suggest the potential for multiple rounds of storms in this area through the afternoon and early evening. ..Hart/Moore.. 04/07/2020"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-04-07",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-04-07T20:00Z",
+      "valid_end": "2020-04-08T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200407_2000.html",
+      "summary": "Severe thunderstorms are possible this afternoon through tonight across southern portions of the Great Lakes region into the Ohio Valley and Mid Atlantic. The strongest storms will pose a threat for very large hail, damaging wind gusts, and a couple of tornadoes.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "...Southern Great Lakes/OH Valley... Low-level moisture continues to advect northward into the region with 60 deg F dewpoints now over much of IL and upper 50s into southern portions of Lower MI. Increasing air mass destabilization is also evidenced by the sharpening cumulus across northwest IL, northern OH, and southwest Lower MI. The approaching cold front is still expected to result in convective initiation this afternoon, with the resulting line of storms moving quickly southeastward across southern Lower MI into IN and OH. Given the frontal forcing, a predominantly linear storm mode is anticipated with damaging wind gusts as the primary severe threat. Large to very large hail and a tornado or two are also possible with the initial, more cellular development, particularly over southern Lower MI."
+        },
+        {
+          "title": "Mid-Atlantic",
+          "text": "Near-term severe threat over the Mid-Atlantic was recently addressed by MCD #294. In general, the threat for severe hail and wind is expected to increase over the next few hours as diurnal heating leads to further air mass destabilization. ..Mosier.. 04/07/2020 .PREV DISCUSSION... /ISSUED 1122 AM CDT Tue Apr 07 2020/"
+        },
+        {
+          "title": "Southern Great Lakes/OH Valley this evening into tonight",
+          "text": "A progressive shortwave trough is noted in water vapor imagery over SD, with an associated surface cold front moving across MN/WI. This front will move into Lower MI/southeast WI by mid-afternoon, where pockets of strong heating and low-level moistening will result in MLCAPE values of 1000-2000 J/kg. 12z model guidance is in strong agreement that storms will form in the 3-5pm period along the front and track rapidly southeastward into parts of IN/OH. A combination of steep midlevel lapse rates and strong deep-layer shear will promote supercell storm structures capable of very large hail and damaging winds gusts. A tornado or two is possible with early storms, but frontal forcing should contribute to upscale organization during the early evening with increasing damaging wind risk. The corridor of highest confidence has been upgraded to ENH risk. Present indications are that storms will persist overnight and move into parts of WV/PA where nocturnal cooling will slowly diminish the severe threat."
+        },
+        {
+          "title": "Mid Atlantic",
+          "text": "A convectively-enhanced shortwave trough is noted over OH/Northern WV. Strong heating has occurred ahead of this feature over parts of MD/VA, where dewpoints in the 50s will yield sufficient CAPE for a few afternoon thunderstorms. Relatively steep lapse low and midlevel rates and strong westerly flow aloft will promote a risk of damaging winds and hail in the strongest cells. 12z CAMs suggest the potential for multiple rounds of storms in this area through the afternoon and early evening."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-04-08",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-04-08T01:00Z",
+      "valid_end": "2020-04-08T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200408_0100.html",
+      "summary": "Severe thunderstorms are possible this evening through tonight across southern portions of the Great Lakes region into the Ohio Valley and Mid Atlantic. The strongest storms will pose a threat for very large hail, damaging wind gusts, and a couple of tornadoes.",
+      "sections": [
+        {
+          "title": "Upper Mississippi Valley/Great Lakes/Ohio Valley/Mid-Atlantic",
+          "text": "The latest water vapor imagery shows a plume of mid-level moisture extending from the Mid Missouri Valley eastward into the southern Great Lakes region. Thunderstorms are ongoing within this plume along the leading edge of a band of large-scale ascent. The storms are also located just ahead of a cold front located from eastern Iowa extending into far southwestern Lower Michigan where a 1001 mb low is present. Moderate instability is analyzed ahead of the front across much of the mid Mississippi and Ohio Valleys where MLCAPE is estimated to be in the 1000 to 2000 J/kg range. In addition to the instability, a 60 to 70 kt mid-level jet is analyzed by the RAP over the western Great Lakes. This feature is helping to create strong deep-layer shear profiles across much of the region. This is evident on the WSR-88D VWP at Chicago which has 0-6 km shear near 55 kt with strong speed-shear in the mid-levels. Further south, the 00Z sounding at Lincoln, Illinois shows 50 kt of 0-6 km shear with a 700-500 mb lapse rate of 7.7 C/km. This is sampling an elevated mixed layer which the RAP shows from eastern Iowa extending eastward into northern Indiana and northwest Ohio. Supercells that develop al"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 293,
+      "issue_utc": "2020-04-07T18:07Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0293.html",
+      "summary": "Scattered storms moving across southern Virginia and into northern North Carolina will pose an isolated wind and hail threat with the strongest storms over the next 1-2 hours.",
+      "discussion": "A group of scattered thunderstorms moving off the eastern Appalachians has been producing small (0.25-0.5 inch) hail over the past hour across southern/southwest VA. A few individual storms have shown signs of strengthening in radar and IR satellite imagery within the past 15-30 minutes, likely in response to daytime heating/destabilization. An environment characterized by 500-1000 J/kg of MUCAPE and 40-45 knots of effective bulk shear (per SPC Mesoanalysis) will continue to support the potential for a few robust storms. However, as these storms propagate to the east/southeast they will become increasingly displaced from the zone of ascent to the west closer to the Appalachians. Because of this, most storms are expected to be relatively short lived, but a few stronger storms that can attain organized/rotating updrafts may still pose a threat for hail and/or strong winds in the next 1-2 hours. Due to the short and isolated nature of the threat, a watch will likely not be needed."
+    },
+    {
+      "year": 2020,
+      "number": 294,
+      "issue_utc": "2020-04-07T18:57Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0294.html",
+      "summary": "The threat for severe hail and wind is expected to increase after 20Z across parts of the Mid Atlantic.",
+      "discussion": "Recent satellite imagery shows increasingly agitated cumulus along and ahead of a remnant outflow boundary across eastern WV and in the vicinity of an embedded vorticity maxima located in northern WV. These features are co-located with a region of modest warm air advection rooted between 925-850 mb. Combined, these features will act as the impetus for convective initiation across northeast WV and northern VA in the coming 1-3 hours. Although this environment will likely feature modest instability between 500-750 J/kg MLCAPE, 45-50 knots of effective bulk wind shear and sustained forcing for ascent may be able to compensate for the instability and will support a hail threat with any stronger storms. Additionally, steep boundary layer lapse rates on the order of 7-8 C/km already in place across the region (per SPC Mesoanalysis) suggests the potential for strong, downdraft-driven winds. Due to these considerations, a watch may be needed if confidence increases that sustained organized convection will occur."
+    },
+    {
+      "year": 2020,
+      "number": 295,
+      "issue_utc": "2020-04-07T20:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0295.html",
+      "summary": "Isolated elevated thunderstorms may produce large hail across eastern WI near Green Bay over the next hour. Additional storms are expected to develop further south over the next couple of hours, posing a threat for damaging wind gusts, large hail and perhaps a couple of tornadoes, while spreading eastward across southern Lower Michigan/northern Indiana this evening.",
+      "discussion": "Isolated elevated thunderstorms have developed north of the warm front. Very steep midlevel lapse rates and strong shear will support large hail potential in this elevated convection. Further south, strong warm advection is resulting in modest increases in boundary layer moisture south of the warm front, with dewpoints mainly in the mid-50s to near 60 F south of the boundary. Very steep lapse rates atop a weakening capping inversion and strong vertical shear will favor semi-discrete cells capable of large hail initially. Strong heating into the low and mid 70s is aiding in rapid erosion of this cap. As a result, expect isolated to widely-scattered surface-based thunderstorm development over the next couple of hours across southeast WI. In addition to damaging wind and large hail, a couple of tornadoes are possible, especially in the vicinity of the warm front where low level shear is enhanced. With time and as frontal forcing increases this evening in conjunction with a low level jet, convection will likely grow upscale into one or more bowing segments as storms shift east over Lake Michigan and into southern Lower Michigan toward 00z. This will increase potential for damaging winds across parts of southern Lower Michigan into northern Indiana this evening."
+    },
+    {
+      "year": 2020,
+      "number": 296,
+      "issue_utc": "2020-04-07T20:57Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0296.html",
+      "summary": "Developing storms will pose an isolated hail risk for portions of southeast OH and northwest WV through 22Z this afternoon.",
+      "discussion": "Recent satellite and radar imagery show convective initiation underway across southeast OH along the periphery of a remnant cold pool from previous convection. Although these storms will begin to propagate into the cold-pool air as they mature, temperatures and dewpoints will likely rebound into the upper 70s and upper 50s (respectively) thanks to clearing skies and northeastward warm/moist advection. Additionally, weak, but backed surface winds in this region may slightly enhance low level helicity as well as deep layer shear and aid in storm organization in the near term. Overall, these storms are developing within the synoptic warm sector with MLCAPE between 500-1000 J/kg, 40-50 knots of effective bulk shear and 7-8 C/km low level lapse. As such, organized convection is likely and will pose a threat for hail as well as strong wind. Discrete storm modes in the near term (likely through 22Z) will give way to gradual upscale growth through storm interactions. Due to the isolated nature of this threat, a watch is not likely at this time, though trends will continue to be monitored for a more widespread severe threat."
+    },
+    {
+      "year": 2020,
+      "number": 297,
+      "issue_utc": "2020-04-07T22:07Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0297.html",
+      "summary": "Severe thunderstorm Watch 81 may be locally extended westward across parts of southern Wisconsin and northern Illinois, with an additional watch issuance possible. Thunderstorms capable of producing very large and damaging hail and strong wind gusts appear increasingly possible through 6-8 PM CDT",
+      "discussion": "Rapid new thunderstorm development is now underway near/northeast of Dubuque IA. This is occurring along or just ahead of a surface cold front, trailing an eastward migrating surface low now near Milwaukee WI, as the leading edge of stronger mid-level cooling weakens mid-level inhibition. This mid-level cooling is forecast to overspread much of the remainder of northern Illinois through 00-02Z, and may contribute to a continuing increase in convective development and upscale growth. In the presence of strong deep-layer shear, steep lower/mid tropospheric lapse rates and CAPE in excess of 1000 J/kg, supercells and organized convection capable of producing very large hail and strong wind gusts appear increasingly likely through early evening."
+    },
+    {
+      "year": 2020,
+      "number": 298,
+      "issue_utc": "2020-04-07T22:59Z",
+      "topic": "Severe Thunderstorm Watch 81",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0298.html",
+      "summary": "The evolution of an organized cluster of storms appears likely across much of southern lower Michigan by 8-10 PM EDT. This will initially be accompanied by potential for large to very large hail, then increasing risk for potentially damaging wind gusts. A new severe weather watch will probably be needed across the remainder of southern lower Michigan and perhaps adjacent portions of northern Indiana and Ohio within the next hour or so.",
+      "discussion": "Scattered vigorous thunderstorm development is now well underway across parts of the Great Lakes region, from the Wisconsin/Illinois border area across Lake Michigan into northwestern lower Michigan. This appears generally focused where a subtle short wave impulse is beginning to suppress inhibition, on the nose of an initially east-northeastward advecting plume of warm elevated mixed-layer air. This mid-level cooling appears likely to continue spreading east-southeastward across much of the remainder of lower Michigan through 8-10 PM EDT. As it does, a continued increase in thunderstorms and upscale growth is expected. This will coincide with strengthening deep-layer mean wind fields and shear, and become focused along a warm frontal zone, now near/north of Grand Rapids, Lansing and Detroit. Aided by inflow of moderately unstable air, characterized by CAPE in excess of 1000 J/kg, in the presence of steep lapse rates, an organizing convective system capable of producing severe hail and damaging winds seems probable. ..Kerr.. 04/07/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 299,
+      "issue_utc": "2020-04-07T23:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0299.html",
+      "summary": "A lone supercell is in progress across northern West Virginia, which is expected to persist for at least a few more hours, with large hail being the main threat. A few very large (2+ inch) stones are possible. The storm may begin to gradually weaken as it begins to outpace the instability axis.",
+      "discussion": "A mature supercell is currently moving across Doddridge County, West Virginia, with a 40 kft top, and 60+ dBZ extending past the -20C layer. As such, severe hail may be occurring with this storm, with some significant severe hail possible. This supercell is associated with a subtle, embedded mid-level impulse which is currently propagating around the synoptic-scale ridge in place. Associated with this ridge is an EML plume and steep mid-level lapse rates exceeding 7 C/km, with the eastward most extent of this plume emanating into West Virginia. While MLCAPE has remained modest (i.e. 500-1000 J/kg), effective bulk shear values exceeding 40 knots has promoted storm organization and mid-level rotation amidst cold temperatures aloft (-17 C at 500 mb), hence the severe hail potential. However, the airmass gradually becomes less stable with eastward extend, and with nocturnal stabilization expected in the next few hours, a gradual weakening trend is expected, as supported by some of the latest high-resolution model guidance. ..Squitieri.. 04/07/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 300,
+      "issue_utc": "2020-04-08T00:22Z",
+      "topic": "Severe Thunderstorm Watch 82",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0300.html",
+      "summary": "Scattered severe storms capable of producing large to very large hail and locally strong surface gusts are expected to linger into the 9-11 PM CDT time frame, gradually spreading southward into the Interstate 80 corridor.",
+      "discussion": "Large-scale forcing for ascent to support further upscale convective growth is unclear. However, scattered vigorous discrete storms, including isolated supercells, are ongoing, and are likely to continue at least another few hours. This appears focused near the leading edge of cooling around the 700 mb level, which is forecast to continue gradually spreading southward across the Interstate 80 through 02-04Z. Strongest cells have already occasionally produced 2-3 inch hail, and, even with the onset of diurnal boundary layer cooling, thermodynamic profiles should remain favorable for a continuing risk of large to very large hail, in the presence of strong deep layer shear. There also could be at least some increase in potential for localized strong surface gusts, before activity begins to wane later this evening. ..Kerr.. 04/08/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 301,
+      "issue_utc": "2020-04-08T02:04Z",
+      "topic": "Severe Thunderstorm Watch 84",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0301.html",
+      "summary": "An evolving convective systesm may posing increasing potential for strong wind gusts while advancing southward toward the Interstate 70 corridor through Midnight-2 AM EDT.",
+      "discussion": "Convection has continued to grow upscale into a linear convective system, aided by large-scale ascent associated with warm advection, mid-level cooling and difluent flow aloft. Supported by continuing inflow of air characterized by moderately large CAPE, this activity may intensify further while spreading south of the lower Great Lakes region, toward the Interstate 70 corridor of Ohio through 04-06Z. The environment may remain conducive to severe hail, particularly on the southwestern flank of the system, across parts of northeastern Indiana. Otherwise, as surface cold pools continue to congeal, the potential for strong surface gusts may still increase across northern Ohio, perhaps into adjacent portions of Pennsylvania. ..Kerr.. 04/08/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 302,
+      "issue_utc": "2020-04-08T02:54Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0302.html",
+      "summary": "At least some increase in potential for strong surface gusts and severe hail is possible across parts of western and central Pennsylvania through Midnight-2 AM EDT. Trends are being monitored for the possibility of a new severe weather watch.",
+      "discussion": "West-southwesterly flow around 850 mb is forecast to continue strengthening in excess of 40 kt across the mid/upper Ohio Valley through 04-06Z. As it does, warming and moistening above the warm frontal zone is forecast to contribute to steepening lower/mid tropospheric lapse rates and increasing CAPE (up to 1000+ J/kg, in the presence of strong vertical shear. This may allow for continuing intensification and organization of the eastern flank of the ongoing evolving convective system, now spreading to the southeast of the Lake Erie. As it does, it is possible that this could be accompanied by at least some increasing risk for potentially damaging surface gusts and severe hail across portions of western through central Pennsylvania."
+    },
+    {
+      "year": 2020,
+      "number": 303,
+      "issue_utc": "2020-04-08T04:20Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0303.html",
+      "summary": "Intensifying thunderstorms, including at least an isolated supercell or two, may approach the Interstate 70 corridor of east central Illinois into central Indiana through the Midnight-2 AM CDT time frame. This probably will be accompanied by a risk for severe hail and wind. Trends are being monitored for the possibility of increasing coverage which could require a severe weather watch issuance.",
+      "discussion": "Deepening convective development is evident in latest satellite imagery, in a corridor extending roughly from Decatur IL into the Muncie IN vicinity. This appears on the leading edge of mid-level forcing for ascent and cooling slowly shifting southward into the lower Ohio Valley. Given thermodynamic profiles characterized by steep lower/mid tropospheric lapse rates and moderately large CAPE up to around 1500+ J/kg, at least renewed intensifying discrete thunderstorm development seems probable during the next few hours. In the presence of strongly sheared, 40-50 kt west-northwesterly deep-layer ambient mean flow, isolated supercells capable of producing severe hail and locally strong surface gusts are possible."
+    },
+    {
+      "year": 2020,
+      "number": 304,
+      "issue_utc": "2020-04-08T05:52Z",
+      "topic": "Severe Thunderstorm Watch 85",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0304.html",
+      "summary": "A line of strong to severe storms capable of producing mainly damaging winds will continue east-southeastward. Downstream watch issuance is possible.",
+      "discussion": "Storms have grown upscale across parts of southeastern OH into western PA, with mainly severe/damaging winds being reported, including a gust to 75 mph at the Pittsburgh International Airport. The airmass downstream of this ongoing convection is not particularly unstable given cooler low-level temperatures and less low-level moisture. With MUCAPE generally 500-1000 J/kg, storms may have a tendency to become slightly elevated with time, particularly with eastward extent. Still, given the well-organized nature of the line and strong outbound velocities noted on KPBZ radar, there appears to be a continued strong to damaging wind threat that may extend to the south/southeast of ongoing Severe Thunderstorm Watch 85. Accordingly, another watch may be needed across parts of southwestern PA into western MD and the eastern WV Panhandle."
+    },
+    {
+      "year": 2020,
+      "number": 305,
+      "issue_utc": "2020-04-08T07:17Z",
+      "topic": "Severe Thunderstorm Watch 85",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0305.html",
+      "summary": "Isolated severe threat continues across remaining valid portions of Severe Thunderstorm Watch 85. Damaging winds and large hail remain the primary threats.",
+      "discussion": "A convective line extending east/west across parts of southern OH has become oriented largely parallel to the mean westerly mid-level flow, which has limited its recent southward movement. Regardless, steep mid-level lapse rates noted on the 00Z ILN sounding remain over southern OH into portions of central WV. This is supporting MUCAPE of 1000-1500 J/kg, which is more than enough to maintain the ongoing storms for at least the next couple of hours. Isolated strong to damaging winds will likely remain the primary threat given the linear storm mode. But, a couple instances of large hail cannot be ruled out, particularly over parts of southern OH where stronger updraft cores embedded within the line have developed. Depending on convective trends, a small southward expansion of Severe Thunderstorm Watch 85 may be warranted within the next hour or so across parts of far southern OH and central WV. ..Gleason.. 04/08/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 306,
+      "issue_utc": "2020-04-08T07:53Z",
+      "topic": "Severe Thunderstorm Watch 86",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0306.html",
+      "summary": "Overall severe threat across western MD and far northern VA appears to be diminishing. Although strong/gusty winds remain possible in the short term, additional downstream watch issuance appears unlikely.",
+      "discussion": "A line of storms is exiting the eastern portions of Severe Thunderstorm Watch 86 as of 0745Z. The airmass downstream of this ongoing convection is relatively cool/stable, with surface air temperatures generally in the low to mid 50s. Strong mid-level westerly flow is noted in recent VWPs from KLWX, but there will probably be a tendency for storms to remain slightly elevated above a near-surface stable layer as they move into central MD and northern VA. Although isolated strong/gusty downdraft winds cannot be ruled out, the overall severe potential appears increasingly marginal with eastward extent. Accordingly, additional downstream watch issuance appears unlikely at this time. ..Gleason.. 04/08/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 307,
+      "issue_utc": "2020-04-08T09:30Z",
+      "topic": "Severe Thunderstorm Watch 85",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0307.html",
+      "summary": "The overall severe threat is diminishing across Severe Thunderstorm Watch 85, which should be allowed to expire as scheduled at 10Z.",
+      "discussion": "Recent radar trends show a gust front surging southward ahead of the main convective line across parts of southern OH into WV. This will have a tendency to undercut ongoing updrafts. Some hail and locally strong/gusty winds cannot be ruled out in the short term. But, current expectations are for the overall severe threat to continue diminishing through the remainder of the early morning hours. Therefore, Severe Thunderstorm Watch 85 should be allowed to expire as scheduled at 10Z. ..Gleason.. 04/08/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "convective_day": "2023-06-18",
+  "valid_start": "2023-06-18T12:00Z",
+  "valid_end": "2023-06-19T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 5
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2023-06-18",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-06-18T12:00Z",
+      "valid_end": "2023-06-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230618_1200.html",
+      "summary": "Severe thunderstorms are expected on Sunday from The Arklatex area to the central Gulf Coast states. Damaging gusts and large hail will be the main hazard with these storms. A severe gust or two may also occur across eastern Montana.",
+      "sections": [
+        {
+          "title": "Eastern Montana",
+          "text": "As a cold front shifts eastward across Montana during the afternoon, ahead of a deep upper low drifting slowly southeastward across Washington state, very weak afternoon destabilization is expected. The destabilization will result from very deep boundary-layer mixing through the diurnal peak heating hours. Given this deep/dry sub-cloud layer, isolated/weak frontal convection that develops may produce gusty, evaporatively aided outflow winds, before convection weakens after dark. ..Goss/Flournoy.. 06/18/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-06-18",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-06-18T13:00Z",
+      "valid_end": "2023-06-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230618_1300.html",
+      "summary": "The main severe-thunderstorm potential will be in two phases -- damaging wind and isolated large hail this morning and again this afternoon into tonight -- from the lower Mississippi Valley region to the east-central Gulf Coast.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "In mid/upper levels, a rather chaotic pattern will be in place, downstream from and southeast of a pronounced, positively tilted cyclone with slow net east-southeastward motion over the Northwest States. Ridging will build ahead of this feature, from the southern Rockies across the central/northern Plains. Farther east, a pronounced, convectively augmented shortwave trough is apparent in satellite imagery over eastern portions of KS/OK, with pronounced MCV/cyclone center over southeastern KS. A weaker and more recent MCV precedes this trough, and was located over the MEM region. A 500-mb cyclone -- incorporating the MCVs and perhaps lesser vorticity maxima -- will shift eastward across the Ozarks to the lower Ohio Valley through the period. At the surface, 11Z analysis showed an outflow boundary from western Tn to near the MS/AL line around MEI (astride a warm front in this region) then southwestward across northern LA to northeast TX. This boundary will move northeastward over the lower Mississippi Valley today and become somewhat more diffuse. The warm front extends from the MEI area southeastward across the MOB/PNS area and into the northeastern Gulf, and should move slowly nort"
+        },
+        {
+          "title": "Mississippi Delta/Gulf Coast States",
+          "text": "Probabilities driving the \"enhanced\" categorical area reflect a cumulative effect of multiple rounds of convection through the period. Ongoing clusters of strong-severe thunderstorms are noted in an arc from western TN across western AL to southern MS, with the best-organized and longest-lived threat this morning being on the southern end where foregoing moisture/instability is greatest. Isolated damaging gusts and marginally severe hail may occur elsewhere in the arc as it moves generally into more stable conditions, as well as with a couple clusters of trailing convection located over the outflow pool (but still accessing unstable inflow above the surface via the remaining southwesterly LLJ). Refer to Severe Thunderstorm Watches 332 and 333, and related mesoscale discussions, for near-term guidance on that activity, and Mesoscale Discussion 1148 for trailing convection atop the outflow pool in the Arklatex region. As the southern/western part of the outflow boundary related to the morning activity modifies, becomes shallower, and retreats northeastward as an effective warm front through the afternoon, the very moist airmass south of and within the associated baroclinic zone will "
+        },
+        {
+          "title": "Eastern MT",
+          "text": "Widely scattered, high-based, multicellular thunderstorms should develop this afternoon along/near the cold front, as the frontal zone impinges on a diurnally destabilizing and well-mixed boundary layer this afternoon. Isolated severe gusts may occur. Despite modest surface dewpoints (generally mid 40s to lower 50s F after mixing), sufficient low-level moisture will remain to support warm-sector MLCAPE around 200-500 J/kg, atop steep lapse rates in the subcloud layer, roughly surface-700-mb. Nearly unidirectional deep-tropospheric flow is forecast, limiting bulk shear and overall storm organization. ..Edwards/Jewell.. 06/18/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-06-18",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-06-18T16:30Z",
+      "valid_end": "2023-06-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230618_1630.html",
+      "summary": "Damaging winds, large hail, and a few tornadoes are expected this afternoon into tonight from the lower Mississippi Valley region to the east-central Gulf Coast.",
+      "sections": [
+        {
+          "title": "AR/LA/MS/TN/AL",
+          "text": "Widespread overnight and morning convection has overturned the air mass across much of the lower MS valley into AL. This leads to a very low-confidence forecast for later today and tonight. Morning model guidance shows wide diversity in where the corridors of highest risk of severe storms will develop, but several solutions continue to show potential. What appears to be the most likely scenario is shown by the morning NAM and recent runs of the RAP/HRRR. This suggests storms will redevelop this afternoon over parts of AR and track eastward into portions of TN/MS/AL. This area will see substantial heating by mid-afternoon as clearing arrives from the west. Forecast soundings in this area show a strengthening low-level jet by late-afternoon, promoting supercell and bowing structures capable of damaging winds, large hail, and a few tornadoes."
+        },
+        {
+          "title": "Southern AL to FL Panhandle Today",
+          "text": "Multiple clusters of strong/severe storms are ongoing early this afternoon over parts of southern AL and southeast MS. The air mass ahead of these storms is becoming very unstable with dewpoints in the 70s and temperatures warming through the 80s. This is near the core of a 40-50 knot mid level jet max, providing sufficient shear for organized multicell and supercell storm structures. There is uncertainty how this activity will evolve through the afternoon, but they could persist/intensity and track across much of southern AL and the FL Panhandle with a risk of damaging wind gusts and large hail."
+        },
+        {
+          "title": "East TX",
+          "text": "Several morning CAM solutions show at least isolated intense storms forming along a surface boundary extending across northeast TX. Given the ample moisture/CAPE in this area, have extended the SLGT risk farther west. ..Hart/Squitieri.. 06/18/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-06-18",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-06-18T20:00Z",
+      "valid_end": "2023-06-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230618_2000.html",
+      "summary": "Damaging winds, large hail, and a few tornadoes are expected this afternoon into tonight from the lower Mississippi Valley region to the east-central Gulf Coast.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "Convective evolution in the wake of thunderstorms this morning and early afternoon across southern AL and the FL Panhandle remains uncertain. A pronounced MCV and related mid-level circulation is clearly evident in visible satellite imagery across MO this afternoon. An outflow boundary from the morning/early afternoon convection is also draped from far east TX across LA into southern MS. This boundary may serve as a focus for renewed severe thunderstorm development this afternoon/evening, especially where it intersects a weak front in far east TX and vicinity. Have expanded the 10% significant hail area westward to include this region in the event a supercells can form and be sustained, as very large hail appears likely with any supercell given the very favorable thermodynamic and kinematic environment. Of potentially greater concern, multiple supercells may form closer to the MCV this evening across far eastern AR into northern/central MS. Both low-level and deep-layer shear appear very favorable for intense supercells capable of producing a few tornadoes, very large hail, and severe/damaging winds. The primary uncertainty remains convective coverage, as destabilization in the wak"
+        },
+        {
+          "title": "AR/LA/MS/TN/AL",
+          "text": "Widespread overnight and morning convection has overturned the air mass across much of the lower MS valley into AL. This leads to a very low-confidence forecast for later today and tonight. Morning model guidance shows wide diversity in where the corridors of highest risk of severe storms will develop, but several solutions continue to show potential. What appears to be the most likely scenario is shown by the morning NAM and recent runs of the RAP/HRRR. This suggests storms will redevelop this afternoon over parts of AR and track eastward into portions of TN/MS/AL. This area will see substantial heating by mid-afternoon as clearing arrives from the west. Forecast soundings in this area show a strengthening low-level jet by late-afternoon, promoting supercell and bowing structures capable of damaging winds, large hail, and a few tornadoes."
+        },
+        {
+          "title": "Southern AL to FL Panhandle Today",
+          "text": "Multiple clusters of strong/severe storms are ongoing early this afternoon over parts of southern AL and southeast MS. The air mass ahead of these storms is becoming very unstable with dewpoints in the 70s and temperatures warming through the 80s. This is near the core of a 40-50 knot mid level jet max, providing sufficient shear for organized multicell and supercell storm structures. There is uncertainty how this activity will evolve through the afternoon, but they could persist/intensity and track across much of southern AL and the FL Panhandle with a risk of damaging wind gusts and large hail."
+        },
+        {
+          "title": "East TX",
+          "text": "Several morning CAM solutions show at least isolated intense storms forming along a surface boundary extending across northeast TX. Given the ample moisture/CAPE in this area, have extended the SLGT risk farther west."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-06-19",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-06-19T01:00Z",
+      "valid_end": "2023-06-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230619_0100.html",
+      "summary": "Severe thunderstorms capable of large hail, damaging winds, a few tornadoes will remain possible tonight across the Lower Mississippi Valley and Southeast.",
+      "sections": [
+        {
+          "title": "Lower Mississippi Valley/Southeast States",
+          "text": "Severe thunderstorm potential will continue tonight with early evening observed soundings continuing to sample seasonally strong westerlies aloft and steep mid-level lapse rates. The most focused tornado risk, including the potential for a strong tornado, appears to be semi-focused across central/northern Mississippi, and perhaps into western Alabama as air mass recovery and warm/moist advection continues to occur. This scenario is highlighted by the 00z observed sounding from Jackson MS with featured nearly 4000 J/kg MLCAPE, 45 kt effective shear, 200+ 0-1 km SRH and 400+ 0-3km SRH. Additional strengthening of 1-3 km AGL winds is likely through mid/late-evening, which should further heighten the tornado risk. Farther to the west, other severe thunderstorms will be focused across the ArkLaMiss region this evening as storms develop near the southwest/northeast-oriented front across the region. ..Guyer.. 06/19/2023"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2023,
+      "number": 1148,
+      "issue_utc": "2023-06-18T12:08Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1148.html",
+      "summary": "An area of elevated storms may produce isolated severe hail or locally strong gusts as it moves across the Arklatex.",
+      "discussion": "West/southwest winds around 30 kt at 850 mb are helping to maintain an feed of unstable air out of northern TX into the Arklatex area. The storms currently appear elevated atop the old outflow, which may reduce wind gusts potential in the short term. However, strong surface-based instability is not too far south of this developing complex, and some increase in severe potential could occur later this morning over parts of eastern TX into northwest LA. As such, trends will need to be monitored closely for any further organization, including further backbuilding toward the warmer surface instability, and/or increasing hail cores well beyond 1.00\" diameter."
+    },
+    {
+      "year": 2023,
+      "number": 1149,
+      "issue_utc": "2023-06-18T14:55Z",
+      "topic": "Severe Thunderstorm Watch 332",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1149.html",
+      "summary": "Some threat for hail and localized damaging gusts may persist through the morning, though severe coverage may remain rather isolated.",
+      "discussion": "At 1445 UTC, one thunderstorm cluster is moving across central MS, with another noted over northern LA. Intensity trends have generally been downward over the last 1-2 hours, as storms move north of a composite outflow boundary, and encounter a somewhat less favorable environment in the wake of earlier convection. One exception has been the southwestward-most storm near Shreveport, which is in closer proximity to stronger elevated buoyancy, and this cell may continue to pose a threat of large hail in the short term. With steep midlevel lapse rates (noted on regional 12Z soundings) persisting across the region, some convection will likely persist through the morning, with the stronger elevated storms capable of hail and locally damaging gusts. However, advection of rather dry air immediately above the surface (as noted in the 12Z LCH and CRP soundings) may tend to suppress storm coverage near/south of the outflow this morning, before more substantial airmass recovery commences sometime this afternoon. WW 332 may be locally extended to cover the lingering threat into east-central MS, but elsewhere, new watch issuance is considered unlikely in the short term."
+    },
+    {
+      "year": 2023,
+      "number": 1150,
+      "issue_utc": "2023-06-18T16:32Z",
+      "topic": "Severe Thunderstorm Watch 333",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1150.html",
+      "summary": "Some threat for isolated hail and locally damaging gusts may persist into the afternoon. The need for downstream watch issuance is uncertain, though local extension may need to be considered for WW 333, depending on intensity trends.",
+      "discussion": "At 1615 UTC, a small bowing segment has recently intensified and is moving into the western FL Panhandle, with additional development noted along a confluence zone near the immediate Gulf Coast. A 51 kt gust was recently observed near Milton, FL, and favorable buoyancy downstream may support a damaging-wind threat persisting into at least early afternoon across the FL Panhandle, though decreasing deep-layer shear with eastward extent may eventually tend to limit storm organization with time. Farther northwest, a storm cluster has recently reintensified across east-central/southeast MS. While a persistent feed of steep midlevel lapse rates may sustain this cluster into the early afternoon, storm intensity may diminish as the cluster follows in the immediate wake of extensive convection across south AL. While some severe threat may eventually spread downstream of WW 333, the need for new watch issuance is uncertain, with the longevity of the northern cluster in question, while the southern cluster will eventually move offshore. However, local extension of WW 333 may be required to cover the short-term threat, and the need for downstream watch issuance will be reevaluated based on short-term observational trends."
+    },
+    {
+      "year": 2023,
+      "number": 1151,
+      "issue_utc": "2023-06-18T20:12Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1151.html",
+      "summary": "Trends are being monitored for the possibility of thunderstorm development over the next few hours. The severe threat is highly conditional on storm development. Should storms develop, severe hail/wind will be possible and a tornado cannot be ruled out.",
+      "discussion": "Insolation following earlier storms has allowed for ample surface heating and associated modification of the boundary layer around/just south of the Arklatex. Some slightly agitated cumulus have recently become apparent ahead of a southward sagging boundary, which also intersects another outflow boundary left behind by earlier storms. Surface temperatures reaching 90 F amid 75+ F dewpoints, overspread by 8.5 C/km mid-level lapse rates, is contributing up to 4500 J/kg MLCAPE. While some billow clouds are evident via visible satellite, the agitation of cumulus also suggests that remaining convective inhibition/boundary-layer stabilization continues to erode. The presence of a 30 kt southwesterly low-level jet, overspread by 50+ kts of west-northwesterly 500 mb flow, is also supporting modestly curved, elongated hodographs bearing 50+ kts of effective bulk shear across the warm sector. As such, supercells would likely be the primary mode of convection, with any storm mergers supporting southeastward-propagating bow-echo MCSs. The ambient environment clearly supports the potential for significant severe storms, including very large hail and perhaps a tornado with supercells, and severe gusts with bowing structures. However, relatively neutral height falls introduces uncertainty of convective initiation, with high-resolution model guidance demonstrating little consensus for a given solution. Nonetheless, convective trends will continue to be monitored and a WW issuance may be needed if clearer signals of thunderstorm development become apparent."
+    },
+    {
+      "year": 2023,
+      "number": 1152,
+      "issue_utc": "2023-06-18T20:18Z",
+      "topic": "Severe Thunderstorm Watch 334",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1152.html",
+      "summary": "Some threat for damaging wind may persist through late afternoon.",
+      "discussion": "A thunderstorm cluster that has recently produced sporadic wind-damage reports is moving across southeast AL at 2015 UTC, while additional recent development has been noted into southwest GA. Buoyancy remains somewhat favorable downstream of the ongoing storms, though deep-layer shear is weaker compared to areas to the northwest, and storm organization may continue to be somewhat limited. As a modestly strong surface cold pool moves east-southeastward, an isolated damaging-wind threat will likely persist through late afternoon. Also, a couple strong multicells may develop closer to an MCV across west-central GA, which could produce isolated hail and/or damaging gusts. At this time, with the remaining severe threat downstream expected to be relatively isolated, additional watch issuance is currently considered unlikely."
+    },
+    {
+      "year": 2023,
+      "number": 1153,
+      "issue_utc": "2023-06-18T20:45Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1153.html",
+      "summary": "The severe threat may be increasing near the Gulf Coast, with large hail, damaging gusts, and perhaps a few tornadoes possible with any of the stronger storms that can develop. A WW issuance may be needed.",
+      "discussion": "A cumulus field across southern LA into far southern MS has recently become agitated given several hours of boundary-layer modification. Rich low-level moisture is being overspread by steep mid-level lapse rates, supporting 3500-4500 J/kg MLCAPE. 50-60 kts of effective bulk shear coincides this strong buoyancy, and backed southeasterly surface winds, with veering/strengthening with height, support sizeable curved/elongated hodographs (as shown by the latest LIX VAD data). As such, the environment supports supercell development, with large hail, severe winds, and a few tornadoes all possible. An outflow boundary associated with a decaying MCS is drifting westward along the MS coastline, which may serve as a source for convective initiation soon. As such, trends are being monitored closely for the need of a WW issuance."
+    },
+    {
+      "year": 2023,
+      "number": 1154,
+      "issue_utc": "2023-06-18T20:57Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1154.html",
+      "summary": "A severe gust or two cannot be ruled out with any of the stronger storms that manages to develop. The severe threat should remain isolated and a WW issuance is not expected.",
+      "discussion": "Thunderstorm development has recently been noted within a broader rain-band, which precedes a mid-level trough and where stronger forcing for ascent exists. Adequate surface heating has allowed temperatures to warm into the 80s F, supporting a relatively dry boundary layer/inverted-v soundings extending up to 700 mb given modest low-level moisture (shown by some of the latest RAP forecast soundings). Given the dry boundary layer, any of the stronger storms that manages to develop may generate enough evaporative cooling to support a severe gust or two. However, the severe threat should be isolated and a WW issuance is not anticipated."
+    },
+    {
+      "year": 2023,
+      "number": 1155,
+      "issue_utc": "2023-06-18T21:54Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1155.html",
+      "summary": "Isolated thunderstorm development is possible for the next couple hours across the central FL Peninsula. Localized wind gusts and small hail would be the primary threats.",
+      "discussion": "Isolated cumulonimbi have developed across the central FL Peninsula within a diurnally driven cumulus field. These updrafts are percolating in an environment characterized by around 3000 J/kg MLCAPE and 15 kts of bulk shear. This environment combined with rather weak upper-level forcing has yielded transient initiation attempts thus far (e.g., Marion County). Forcing and bulk shear should gradually increase throughout the afternoon as the main area of mid-level flow overspreads the region. However, general tropospheric flow is expected to remain around 30 kts or lower. This should limit any severe hazards to areas with stronger localized forcing, such as along storm-scale outflow boundaries or sea breezes. If locally stronger updrafts develop, isolated damaging wind gusts and small hail should be the primary threats."
+    },
+    {
+      "year": 2023,
+      "number": 1156,
+      "issue_utc": "2023-06-18T22:26Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1156.html",
+      "summary": "Isolated large hail and damaging wind gusts are possible across portions of central TX and the Edwards Plateau later this afternoon and evening. WW issuance is unlikely.",
+      "discussion": "Convection initiation attempts are underway along a quasi-stationary front draped from northeast TX southwestward through the Edwards Plateau. The deepest Cu thus far reside in an environment characterized by triple-digit surface temperatures and dewpoints in the 60s. Associated cloud bases are around 3 km AGL with around 3500-4000 J/kg of MLCAPE. RAP analyses suggest rather straight shear profiles throughout the troposphere with over 40 kts of 0-6-km shear. These conditions are not expected to change much for the rest of the day as the front remains mostly stationary through the region and primarily zonal mid-level flow shifts eastward. Recent high-resolution guidance in this region is mixed; some CAMs depicting successful initiation and maturation for a few hours thereafter, and others show no initiation. Successful initiation will likely depend on the width of developing updrafts and their resistance to relatively dry air near the top of the boundary layer. Current satellite trends suggest that successful initiation and subsequent maturation is possible, with the main conditional threats being large hail and damaging wind gusts lasting for a couple of hours. Trends will continue to be monitored for possible WW issuance, although it appears unlikely at this time given uncertainties regarding initiation and subsequent coverage."
+    },
+    {
+      "year": 2023,
+      "number": 1157,
+      "issue_utc": "2023-06-18T22:31Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1157.html",
+      "summary": "The severe threat is expected to gradually increase across northeastern Arkansas and may impact areas further south across eastern Arkansas and northwest Mississippi, especially as convective initiation becomes more likely. Weather watch issuance will be likely over the next couple of hours.",
+      "discussion": "The latest water vapor imagery shows an upper-level trough over the Ozarks. At the surface, a moist airmass is located across much of the lower to mid Mississippi Valley. The RAP has moderate instability across southeastern Arkansas and north-central Mississippi with weaker instability further north into northeast Arkansas and western Tennessee. A severe threat has recently developed in far northeast Arkansas, near a mid-level vorticity max associated with the upper-level trough. The severe threat will likely continue as storms gradually intensify southward across northeast Arkansas. As the vorticity max moves east-southeastward, additional convective initiation is expected from east-central Arkansas eastward across northwest Mississippi. The moderate instability, strong deep-layer shear and strengthening low-level shear will make supercell development possible later this evening. Large hail and wind damage will initially be possible, but an tornado threat may also eventually develop especially across northern Mississippi."
+    },
+    {
+      "year": 2023,
+      "number": 1158,
+      "issue_utc": "2023-06-18T23:11Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1158.html",
+      "summary": "A severe threat will likely develop across parts of the lower Mississippi Valley early this evening. A potential for wind damage, large hail and tornadoes are expected to develop. Weather watch issuance will likely be needed.",
+      "discussion": "Water vapor imagery currently shows west-northwesterly mid-level flow over the lower Mississippi Valley, with a 700 mb speed max of 40 to 50 knots located in southwest Arkansas. At the surface, a trough is located from northeast Texas into south-central Arkansas. Ahead of this feature, surface dewpoints are mostly in the 70s F. This is contributing to moderate to strong instability, with the RAP estimating MLCAPE in the 3000 to 5000 J/kg range. In spite of the instability, large-scale ascent is weak across much of the region. However, as low-level convergence increases along the surface trough and southward into northern Louisiana early this evening, convective initiation will become likely. Based on cam guidance, storms appear likely to initiate over the next couple of hours. The 21Z sounding at Jackson, Mississippi has 0-6 km shear near 60 kt with 0-3 km storm relative helicity near 400 m2/s2. As the storms grow upscale, supercells with large hail and wind damage will become likely. A tornado threat is also expected to develop."
+    },
+    {
+      "year": 2023,
+      "number": 1159,
+      "issue_utc": "2023-06-19T01:36Z",
+      "topic": "Tornado Watch 335",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1159.html",
+      "summary": "The severe threat across tornado watch 335 in eastern Mississippi will continue over the next few hours. Tornadoes, large hail and wind damage will be possible.",
+      "discussion": "The latest radar imagery from Jackson, Mississippi shows a cluster of strong to severe storms, with a couple embedded supercells in south-central Mississippi. Other strong to severe storms are ongoing in north-central Mississippi. The RAP is analyzing a low to mid-level jet over central and northern Mississippi. As this feature moves eastward and strengthens over the next couple of hours, the strong low-level shear environment will be maintained. This should result in an increasing tornado threat with maturing supercells that are currently ongoing. With 0-3 km storm relative helicity near 400 m2/s2, evident on the Jackson, Mississippi 00Z sounding, the storms may be able to produce a strong tornado over the next 60 to 90 minutes across eastern Mississippi. The large hail and wind damage threat will also continue with the stronger cells. ..Broyles.. 06/19/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1160,
+      "issue_utc": "2023-06-19T01:43Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1160.html",
+      "summary": "A risk for all hazards of severe weather appears to be increasing across western AL. WW issuance is likely within the next hour depending on ongoing convective trends.",
+      "discussion": "Multiple supercells have developed across central MS and are moving eastward through WW335. The 19/00z JAN sounding featured an uncapped boundary layer with nearly 4000 J/kg of MLCAPE, effective shear around 45 kts, and significant veering low-level shear contributing to 455 J/kg of ESRH (along with 235 J/kg in the lowest 1 km AGL). Despite generally weak synoptic forcing, these supercells acquired mid- and low-level mesocyclones rather quickly in this environment. At least one radar-indicated tornado has been observed, and all severe hazards remain possible as the storms approach the MS/AL border. Convective evolution in the highlighted area remains somewhat uncertain due to overturned air from convection earlier today. Temperatures and dewpoints in western AL are generally a few degrees cooler than the environment in which the storms are currently located. This is contributing to substantially increasing MLCIN with eastward extent through the delineated area. This could contribute to rapidly weakening storms deeper into AL and decreasing severe hazards later tonight. However, modest low-level advection is anticipated which could lessen inhibition. The degree to which this may occur in a narrow zone ahead of the ongoing supercells remains uncertain. Should this occur, the threat for all severe hazards with these supercells -- as well as any additional storms that develop in northern MS -- could persist for the next few hours across western AL. Due to this scenario, downstream WW issuance appears likely during the next couple of hours."
+    },
+    {
+      "year": 2023,
+      "number": 1161,
+      "issue_utc": "2023-06-19T03:48Z",
+      "topic": "Tornado Watch 335",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1161.html",
+      "summary": "A severe threat will likely continue over the next few hours across eastern Mississippi and western Alabama. Tornadoes, wind damage and isolated large hail will be possible.",
+      "discussion": "High-resolution radar imagery from Jackson shows a cluster of strong to severe storms located across central and eastern Mississippi. The storms are located along the eastern edge of a moderately unstable airmass, where surface dewpoints are in the 70s F and MLCAPE is estimated in the 2000 to 3000 J/kg range by the RAP. Over the next couple of hours, the RAP moves a low-level jet across eastern Mississippi and strengthens the jet to near 40 knots. This will maintain strong low-level shear helping to continue the tornado threat across eastern Mississippi. The threat should gradually move eastward into western Alabama over the next couple of hours. In addition, supercells will potentially be capable of producing large hail and wind damage. ..Broyles.. 06/19/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1162,
+      "issue_utc": "2023-06-19T08:08Z",
+      "topic": "Tornado Watch 338",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1162.html",
+      "summary": "Isolated severe storms remain possible within the watch area, primarily from the complex of storms in east-central MS into southwest AL. Nearby counties south and east of WW 338 may need to be added, depending on storm trends.",
+      "discussion": "A large complex of thunderstorms is beginning to move/propagate east/southeastward as outflow surges south across Jasper and Clark Counties in MS. This outflow boundary curls northeastward into Choctaw County AL into a developing supercell. Meanwhile, other storms were beginning to form over southern MS, along the fringe of the tornado watch. The environment remains very moist, unstable, and sheared, all favoring supercells with brief tornado threat. While lift has been weak, the very high dewpoints have kept CIN at a minimum. Any further outflows or minor low-level confluence zones may yield additional storms this morning. ..Jewell.. 06/19/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

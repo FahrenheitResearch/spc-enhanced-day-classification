@@ -1,0 +1,284 @@
+{
+  "convective_day": "2026-04-26",
+  "valid_start": "2026-04-26T12:00Z",
+  "valid_end": "2026-04-27T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 5
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2026-04-26",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2026-04-26T12:00Z",
+      "valid_end": "2026-04-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2026/day1otlk_20260426_1200.html",
+      "summary": "Scattered severe storms with large to very hail, damaging wind gusts and tornadoes are expected this afternoon and evening across parts of the central and southern Plains. Strong tornadoes and hailstones greater than 2 inches in diameter will be possible. Hail and isolated severe gusts will also be possible in parts of the Ark-La-Tex and lower Mississippi Valley.",
+      "sections": [
+        {
+          "title": "Southern and Central Plains",
+          "text": "A vigorous mid-level trough will eject northeastward toward the southern and central Rockies this afternoon into tonight, as an associated mid-level jet translates east-northeastward through the Desert Southwest. The exit region of the mid-level jet will overspread the central Plains by this evening providing lift and strong deep-layer shear, favorable for severe storms. At the surface, a lee trough will deepen over the southern and central High Plains, as moisture advects northward from Oklahoma into Kansas. Throughout most of the day, large-scale ascent will be limited over the moist sector. Isolated thunderstorms with hail and severe gusts will be possible in areas with maximized low-level convergence and strong instability. Convective coverage will likely increase during the evening as the mid-level jet max approaches, and as a 40 to 50 knot low-level jet strengthens. By mid to late evening and into the overnight period, scattered severe storms will be likely in parts of the central Plains and Ozarks, with isolated storms possible in the southern Plains. Model forecasts suggest that a pocket of strong instability will be in place over Oklahoma early this evening, but that a cap"
+        },
+        {
+          "title": "Ark-La-Tex/Lower Mississippi Valley",
+          "text": "The eastern edge of a moist and unstable airmass will be located in the lower Mississippi Valley today. Although large-scale ascent will be weak due to the presence of a mid-level ridge, isolated convective initiation will be possible in areas that locally heat up the most. Cells that can strengthen in the late afternoon and early evening could produce isolated severe gusts and hail."
+        },
+        {
+          "title": "Central and Southwest Texas",
+          "text": "The western edge of an extremely unstable airmass will be located from central Texas into southwest Texas this afternoon. Isolated thunderstorm initiation will be possible just to the east of a dryline, as low-level convergence increases late this afternoon. The extreme instability (MLCAPE of 4000 to 5000 J/kg) with moderate deep-layer shear and steep mid-level lapse rates would be favorable for isolated large hail and strong wind gusts. ..Broyles/Moore.. 04/26/2026"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2026-04-26",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2026-04-26T13:00Z",
+      "valid_end": "2026-04-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2026/day1otlk_20260426_1300.html",
+      "summary": "Scattered severe thunderstorms with large to very large hail, damaging winds and tornadoes are expected this afternoon through tonight across parts of the southern/central Plains. A couple of strong tornadoes and hailstones up to 2-3 inches in diameter are possible.",
+      "sections": [
+        {
+          "title": "Southern/Central Plains to the Mid Mississippi Valley",
+          "text": "Fairly substantial changes have been made to the outlook based on latest observational and guidance trends. Namely, the Enhanced Risk has been expanded into northern OK to account for the potential of both surface-based supercells this afternoon, and elevated supercells this evening/tonight. The Slight Risk has been expanded southward into north-central TX for a somewhat more conditional/uncertain supercell threat. The eastern extent of severe probabilities have also been expanded in MO to account for a potential cluster producing severe/damaging winds occurring late tonight into early Monday morning. A weak lead mid-level vorticity maximum over the central High Plains this morning should continue to aid elevated thunderstorm development across KS through the afternoon. Increasing MUCAPE with persistent low-level warm/moist advection and steepening mid-level lapse rates combined with strong deep-layer shear will support organized updrafts, including the potential for supercells. This convection will probably tend to remain elevated to the north of a front as it spreads east-northeastward over the central Plains, but scattered large hail may occur given the overall favorable environ"
+        },
+        {
+          "title": "ArkLaTex/Lower Mississippi Valley/Central Gulf Coast",
+          "text": "A small cluster will continue tracking southeastward this morning from southern MS to the central Gulf Coast. With sufficient low-level moisture and instability in place ahead of this convection, isolated damaging winds may occur. A pair of supercells across northeast TX have fluctuated in intensity over the past couple of hours. The potential for additional thunderstorms to form on the western flank/outflow of this morning convection remains unclear given weak large-scale forcing and the low-level jet forecast to weaken further through the morning. If any additional convection can form, it would pose an isolated severe hail and damaging wind threat. ..Gleason/Thompson.. 04/26/2026"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2026-04-26",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2026-04-26T16:30Z",
+      "valid_end": "2026-04-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2026/day1otlk_20260426_1630.html",
+      "summary": "Scattered severe thunderstorms with large to very large hail, damaging winds and tornadoes are expected this afternoon through tonight across parts of the southern/central Plains to Lower Missouri Valley. A couple of strong tornadoes and hailstones up to 2-3 inches in diameter are possible.",
+      "sections": [
+        {
+          "title": "Southern/Central Plains to the Mid Mississippi Valley",
+          "text": "Appreciable severe potential is still readily apparent especially later this afternoon into tonight, although sub-regional details remain quite complex, particularly regarding the southern extent of deep convective initiation southward along the dryline. A weak lead mid-level vorticity maximum over the central High Plains early today will continue to aid elevated thunderstorm development across Kansas through the afternoon. See Mesoscale Discussion 547 for short-term details. Increasing MUCAPE with persistent low-level warm/moist advection and steepening mid-level lapse rates combined with strong deep-layer shear will support organized updrafts, including the potential for supercells. This convection will probably tend to remain elevated to the north of a front as it spreads east-northeastward over the central Plains, but scattered large hail may occur given the overall favorable environment. Isolated 2+ inch diameter hail also appears possible with the strongest cores. Eventually, this activity may pose a greater threat for damaging winds across eastern Kansas into western Missouri by late afternoon/early evening. A more notable mid-level shortwave trough is expected to eject nort"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2026-04-26",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2026-04-26T20:00Z",
+      "valid_end": "2026-04-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2026/day1otlk_20260426_2000.html",
+      "summary": "Scattered severe thunderstorms with large to very large hail, damaging winds and tornadoes are expected this afternoon through tonight across parts of the southern/central Plains to Lower Missouri Valley. A couple of strong tornadoes and hailstones up to 2-3 inches in diameter are possible.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "The forecast (see below) remains generally on track. The main changes made to this outlook were to expand severe probabilities farther to the east to account for an uptick in severe potential later tonight, as depicted by some of the latest high-resolution guidance. Overall, uncertainties remain regarding precisely where the strongest storms are going to occur. OK Mesonet data over the past few hours have depicted some lowering of dewpoints in west-central OK, with a slightly diminished CU field noted. However, several guidance members depict supercellular development in the 02-06Z period over northern OK, likely in part to the strengthening of a low-level jet. Given impressive shear profiles and 8.5-9 C/km mid-level lapse rates expected in this region overnight, it is plausible that the strongest storms for the remainder of the period (to 12Z Monday morning) may occur here, with 2+ inch diameter hail and perhaps strong tornadoes. The primary uncertainty for introducing higher tornado probabilities over northern OK is the possible late storm initiation and associated boundary layer stabilization, which may dampen the robustness of tornado production with these storms. Visible satel"
+        },
+        {
+          "title": "Southern/Central Plains to the Mid Mississippi Valley",
+          "text": "Appreciable severe potential is still readily apparent especially later this afternoon into tonight, although sub-regional details remain quite complex, particularly regarding the southern extent of deep convective initiation southward along the dryline. A weak lead mid-level vorticity maximum over the central High Plains early today will continue to aid elevated thunderstorm development across Kansas through the afternoon. See Mesoscale Discussion 547 for short-term details. Increasing MUCAPE with persistent low-level warm/moist advection and steepening mid-level lapse rates combined with strong deep-layer shear will support organized updrafts, including the potential for supercells. This convection will probably tend to remain elevated to the north of a front as it spreads east-northeastward over the central Plains, but scattered large hail may occur given the overall favorable environment. Isolated 2+ inch diameter hail also appears possible with the strongest cores. Eventually, this activity may pose a greater threat for damaging winds across eastern Kansas into western Missouri by late afternoon/early evening. A more notable mid-level shortwave trough is expected to eject nort"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2026-04-27",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2026-04-27T01:00Z",
+      "valid_end": "2026-04-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2026/day1otlk_20260427_0100.html",
+      "summary": "Scattered severe thunderstorms with large to very large hail, damaging winds and tornadoes are expected tonight across parts of the southern/central Plains to Lower Missouri Valley. A couple of strong tornadoes and hailstones up to 2-3 inches in diameter are possible.",
+      "sections": [
+        {
+          "title": "01Z Update",
+          "text": "A prominent shortwave trough now nearing the Colorado/Kansas border is promoting elevated convection ahead of it. An 8.2 C/km mid-level lapse rate was sampled on the 00Z DDC sounding this evening. These steep lapse rates should shift eastward along with the shortwave trough. Additional, stronger convection remains possible in parts of central/eastern Kansas into northern Oklahoma. Earlier convection has complicated the low-level thermodynamic environment, though large hail and damaging winds are possible with organized cells and linear structures. The tornado threat through the evening is somewhat less clear, but a deepening surface low should advect richer moisture northward. Depending on storm mode and low-level stability, tornadoes remain possible in parts of northern Oklahoma and south-central Kansas later this evening. In the short term, the greatest threat for a strong tornado is in southeast Kansas. In Oklahoma into North Texas, the dryline is surging westward. This area will become increasingly removed from large-scale ascent. An isolated storm or two remain possible at least trough mid-evening. Lastly, convection in Missouri and southeast Kansas will eventually grow upscal"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2026,
+      "number": 545,
+      "issue_utc": "2026-04-26T12:47Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0545.html",
+      "summary": "An MCS will likely persist while approaching the coast by mid morning. Isolated wind damage will be possible, but a watch does not appear necessary.",
+      "discussion": "An MCS is moving south-southeastward along the low-level moisture/buoyancy gradient across southern MS and southeast LA, supported by sufficient northwesterly deep-layer shear to keep convection upright along the gust front. The MCS motion toward the south-southeast at about 30 kt and velocity data from KHDC suggest mostly 30-40 kt outflow gusts are probable, though isolated tree damage may occur with the strongest gusts. Given only weak low-level flow noted in regional VWPs, it appears unlikely that these storms will intensify substantially this morning. Thus, a watch does not appear necessary."
+    },
+    {
+      "year": 2026,
+      "number": 546,
+      "issue_utc": "2026-04-26T13:03Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0546.html",
+      "summary": "Elevated storms could continue to produce isolated large hail this morning, but storm coverage is in question and a watch appears unlikely.",
+      "discussion": "Elevated storms have persisted overnight in small clusters, aided by warm advection along an outflow/baroclinic zone. A couple of storms have developed supercell structures, with isolated 2-3 inch hail earlier in north TX. Isolated large hail may occur with newer storm development into northwest LA, where profiles display enough vertical shear for storm organization. The coverage and persistence of storms through the morning is not clear, as is the need for a watch."
+    },
+    {
+      "year": 2026,
+      "number": 547,
+      "issue_utc": "2026-04-26T16:24Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0547.html",
+      "summary": "A threat for hail and localized strong/damaging gusts may spread eastward into early afternoon.",
+      "discussion": "Elevated convection has recently intensified across central KS. A subtle midlevel shortwave trough and downstream heating/moistening may help to sustain this storm cluster as it moves eastward into early afternoon. In the short-term, with MUCAPE approaching 1000 J/kg and effective shear of 40+ kt, the strongest elevated cores will be capable of producing isolated hail, and perhaps locally gusty winds. If sufficient downstream heating/destabilization occurs, this cluster could eventually become rooted closer to the surface as it approaches northeast KS, which would result in an increasing threat of damaging wind and possibly a brief tornado, in addition to continued hail potential. Watch issuance is possible if trends support intensification of this cluster into the early afternoon."
+    },
+    {
+      "year": 2026,
+      "number": 548,
+      "issue_utc": "2026-04-26T18:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0548.html",
+      "summary": "A conditional threat of isolated severe thunderstorms is expected through this afternoon across portions of central and northern OK.",
+      "discussion": "Recent visible satellite imagery indicates a deepening cumulus field within the warm sector across north central OK. An effective warm front will continue to advance northward throughout this afternoon, with an extremely buoyant airmass proceeding it. This airmass is characterized by upper 60 to low 70 dewpoints and temperatures in the low 80s beneath mid-level lapse rates near 7.5 C/km, yielding ~3000 J/kg of MLCAPE. Convective temperatures have already been reached south of the warm front, and continued warming is expected into the late afternoon. It is currently unclear whether convective initiation will occur mostly due to a lack of significant mid to upper level forcing. However, a combination of deep moisture pooling along the warm front, increasing mid to upper level flow, and subtle surface convergence could overcome this lack of more large scale ascent. Effective westerly bulk shear near 40 to 50 kt (by late this afternoon) will support updraft organization and the potential for one or two discrete supercells capable of very large hail, and perhaps a tornado considering slightly backed surface flow/curved low level hodographs. Conditions will continued to be monitored for severe weather."
+    },
+    {
+      "year": 2026,
+      "number": 549,
+      "issue_utc": "2026-04-26T19:23Z",
+      "topic": "Severe Thunderstorm Watch 149",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0549.html",
+      "summary": "A threat for severe hail and wind will spread eastward across eastern Kansas this afternoon, with some increase in damaging-wind potential possible with time. Tornado potential may also gradually increase with time, especially along the southeastern periphery of ongoing storms.",
+      "discussion": "A compact MCS is moving across eastern KS early this afternoon. This system has been anchored by an elevated supercell on its southern end, which earlier produced hail to at least golf ball size and 60-70 mph winds. A well-defined bow echo and evidence of a rear-inflow jet have been noted from KTWX, though lingering low-level stability has likely hampered potential for more widespread damaging winds this far. Some heating has occurred downstream of this system, though additional heating may be muted across northeast KS due to expanding anvil cirrus. Any additional heating combined with gradual low-level moistening will aid in continued destabilization, with preconvective MUCAPE potentially increasing above 1000 J/kg from northeast KS into northwest MO, while MLCAPE values may increase to near/above 1500-2000 J/kg across east-central to southeast KS. Increasing deep-layer flow/shear associated with an approaching mid/upper-level shortwave trough will continue to favor organized convection through the afternoon. In the short-term, this system will continue to pose a threat of severe hail and wind as it moves eastward, with some increase in damaging-wind potential possible. With time, there may be some tendency for east-southeastward expansion or propagation into the stronger instability across east-central/southeast KS. Some backbuilding will also be possible along the trailing outflow, aided by a modest southerly low-level jet. Such a trend could be accompanied by an increasing potential for surface-based convection and a gradually increasing tornado threat, in addition to continued hail/wind potential. Trends will continue to be monitored regarding the need for potential Tornado Watch issuance later this afternoon."
+    },
+    {
+      "year": 2026,
+      "number": 550,
+      "issue_utc": "2026-04-26T20:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0550.html",
+      "summary": "The potential for rapid severe thunderstorm development is being monitored across western north TX and southwestern OK.",
+      "discussion": "The latest surface observations show a trough/dryline extending southwestward from near Lawton, OK to Haskell, TX. A narrow, though deepening, cumulus field is apparent in visible satellite imagery along this boundary. Very warm and moist surface conditions are present ahead of this dryline, with temperatures in the low 90s and dewpoints in the low 70s yielding extreme instability ~4000 J/kg MLCAPE. Although mid to upper-level ascent is currently lacking, continued enhanced surface convergence along the dryline, increasing westerly flow aloft through this evening, and a colder pocket of mid to upper-level air may aid in convective initiation before 6 PM as peak heating is reached. In addition to the highly buoyant airmass in place, 50-55 kt of orthogonal effective bulk shear will support discrete supercells and a threat of very large hail and perhaps a tornado, especially if any thunderstorm can remain near the convergence axis through this evening as the LLJ intensifies (200-300 m2/s2 SRH). Conditions will continued to be monitored for convective initiation, and a watch may be needed if this occurs."
+    },
+    {
+      "year": 2026,
+      "number": 551,
+      "issue_utc": "2026-04-26T22:00Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0551.html",
+      "summary": "Convective initiation will be possible this evening across north-central Oklahoma. If this takes place, a tornado threat will become likely. Tornado watch issuance is anticipated over the next hour.",
+      "discussion": "Latest surface analysis shows a very moist airmass in place over much of Oklahoma with surface dewpoints in the upper 60s and lower 70s F. A surface trough is oriented from southwest to northeast across north-central Oklahoma, where low-level convergence is maximized. Along this zone, satellite imagery shows an agitated field of cumulus along the I-35 corridor in northern Oklahoma. To the east of the trough, the air is very unstable with the RAP showing MLCAPE in the 3000 to 4000 J/kg range. In addition, a strong wind field is in place with 0-6 km shear estimated by the RAP to be in the 35 to 45 knot range. While large-scale ascent does not look to be strong near the surface trough, low-level convergence could be enough to initiate convection at some point this evening. If this where to occur, then rapid supercell development would be expected, and a tornado threat would become likely. Large hail and severe wind gusts would also be likely."
+    },
+    {
+      "year": 2026,
+      "number": 552,
+      "issue_utc": "2026-04-26T22:31Z",
+      "topic": "Tornado Watch 151",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0552.html",
+      "summary": "The early stages of supercell splitting and maturation is ongoing along/south of the Red River in northwest Texas. While isolated, the potential for very large (2-3 inch) hail, and perhaps a tornado, will increase over the next 1-2 hours.",
+      "discussion": "Radar imagery from KFDR shows the early stages of supercell splitting ongoing to the west of the Wichita Falls, TX area, and latest GOES IR 1-minute imagery has shown steady cloud-top cooling associated with intensifying convection. A couple of hail reports have already been noted (including hail to up 1.5 inches in diameter) with these storms. The observed splitting trend corroborates recent RAP forecast that depict elongated, nearly straight hodographs across the region that feature around 50 knots of effective bulk shear. Along with a favorable kinematic environment, regional buoyancy values are very high with MLCAPE estimated to be between 3500 to 4000 J/kg. Consequently, continued intensification of one or both supercells is anticipated over the next 1-2 hours with an increasing threat for very large hail - possibly upwards of 2-3 inches based on environmental analogs. While the environment currently features little effective SRH, some tornado threat will may emerge with the right split in the coming hours as east/southeastward motion becomes more prominent. ..Moore.. 04/26/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 553,
+      "issue_utc": "2026-04-26T23:32Z",
+      "topic": "Tornado Watch 150",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0553.html",
+      "summary": "A severe threat is expected to develop across parts of central and southern Missouri over the next couple of hours. As a severe convective cluster moves toward the eastern edge of Tornado Watch 150, new watch issuance or a watch extension will become necessary.",
+      "discussion": "Latest surface analysis shows a moist airmass over the Ozarks, with backed convergent southeasterly winds over much of central and southern Missouri. Low-level convergence is maximized over western Missouri, where a severe convective cluster is ongoing. From this cluster, a gradient of moderate instability (MLCAPE in the 1000 to 2000 J/kg range) extends southeastward across south-central Missouri. The storms are expected to move along this gradient over the next couple hour hours, and should make a gradual turn toward the southeast. The instability combined with moderate deep-layer shear will support a severe threat. Severe wind gusts, isolated large hail and a tornado threat will be possible. New weather watch issuance or a watch extension will be needed within the next hour. Further to the north across parts of north-central Missouri, from near Columbia and I-70 northward, the airmass is weakly unstable. Although isolated severe wind gusts will be possible as the northern end of the severe convective cluster moves into the area, the weaker instability should result in a gradual weakening trend."
+    },
+    {
+      "year": 2026,
+      "number": 554,
+      "issue_utc": "2026-04-27T00:24Z",
+      "topic": "Tornado Watch 151",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0554.html",
+      "summary": "The potential for additional severe thunderstorms continues across portions of southern Oklahoma and northwest Texas. If storms develop, they will pose a threat for very large hail, tornadoes, and severe gusts.",
+      "discussion": "Over the past hour, a pair of left/right-split supercells has produced several very large hail reports upwards of 3 inches. Although the left-split has recently weakened, the right moving supercell residing along the Red River has recently shown an uptick in intensity after a temporary weakening. The near-storm thermodynamic environment remains favorable for storm maintenance, and the kinematic environment is forecast to improve over the next few hours as a nocturnal jet gradually strengthens. As such, the greatest near-term severe risk will continue to reside immediately downstream of the ongoing supercell where very large hail will remain the primary hazard for the short-term (though some increase in tornado potential is anticipated later this evening coincident with the strengthening nocturnal jet). Further to the west, clustering cumulus on the immediate dry side of the dryline continues to gradually deepen per GOES IR imagery. Focused low-level convergence along a bulge in the dryline along with increasing synoptic ascent (associated with an approaching upper wave to the west) may support deeper convective towers over the next couple of hours. This may present an opportunity for additional thunderstorm development along the dryline that could pose a threat for all hazards across western portions of WW 151. While confidence in this scenario is somewhat low given the approaching onset of nocturnal cooling/stabilization, latest high-res guidance suggests that additional robust convection is plausible within the next 1-2 hours. ..Moore.. 04/27/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 555,
+      "issue_utc": "2026-04-27T00:40Z",
+      "topic": "Tornado Watch 150",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0555.html",
+      "summary": "A potential for strong tornadoes will exist across parts of far southeast Kansas over the next hour. Tornado development may also occur in northeast Oklahoma.",
+      "discussion": "A tornadic storm is currently ongoing in far southeast Kansas on the nose of a mesoscale 30 to 35 knot low-level jet, which is analyzed by the RAP. This feature should be maintained or gradually strengthen over the next hour, which will result in a continued tornado threat. The WSR-88D VWP currently shows gradually veering winds in the lowest 2 km. This is resulting in looped hodograph with 0-3 km storm-relative helicity near 450 m2/s2. Low-level shear is likely even stronger near the low-level jet. For this reason, a strong tornado will be possible over the next hour or so in far southeast Kansas. In Northeast Oklahoma, another well-developed supercell is ongoing. This storm will move toward the low-level jet over the next hour, making tornado development possible."
+    },
+    {
+      "year": 2026,
+      "number": 556,
+      "issue_utc": "2026-04-27T01:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0556.html",
+      "summary": "Elevated convection is expected to increase in coverage and intensity through late evening across northern Kansas, and will likely pose a threat for severe hail. Watch issuance is likely in the coming hours to address this concern.",
+      "discussion": "Recent regional radar mosaics and GOES IR imagery shows a gradual uptick in convection across western KS associated with increasing ascent ahead of a low-amplitude upper-level wave. Despite prior convective overturning earlier today, westerly mid-level flow is advecting 7.5 to 8.0 C/km lapse rates eastward across the state (this was recently sampled by the 00z TOP and DDC RAOBs). Additionally, VWPs across OK are beginning to show the onset of the nocturnal jet, which will bolster northward low-level moisture return and promote increasing isentropic ascent through the lowest 1-2 km. This combination of low-level moistening/ascent and destabilization aloft will promote additional thunderstorm development in the coming hours. This may manifest as an intensification of ongoing weak convection across western KS as it spreads east or as new development across north-central KS. Given forecast effective bulk shear values on the order of 45-50 knots, organized convection (including a few supercells) is likely with an attendant threat for large to very large hail (possibly as high as 2.5 inches). Although most of this activity will most likely remain rooted above the surface, recent forecast guidance suggests that the effective surface warm front (currently residing along the OK/KS border) may advance as far north as roughly the I-70 corridor. Strong convection developing in proximity to this boundary may see a higher potential for becoming surface based and utilizing the increasing low-level wind shear. While confidence in this scenario is limited, some tornado threat may manifest later this evening across portions of central KS where STP values could increase into the 2-4 range along and south of the front."
+    },
+    {
+      "year": 2026,
+      "number": 557,
+      "issue_utc": "2026-04-27T01:48Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0557.html",
+      "summary": "The severe threat is expected to increase over western Oklahoma and southern Kansas as the low-level jet rapidly strengthens over the next couple of hours. Severe storms with tornadoes, large hail and wind damage will be possible. Weather watch issuance will likely be needed.",
+      "discussion": "A very moist and unstable airmass is currently located from southwest Oklahoma northeastward into north-central Oklahoma. Over the top of this airmass, a 50 to 60 knot low-level jet is forecast to rapidly develop within the next 2 to 3 hours. In response, low-level moisture will begin to surge northward across west-central and northwest Oklahoma, and MLCAPE will increase markedly into the 3000 to 4000 J/kg range. The strengthening low-level jet and combined with around 50 knots of westerly flow in the mid-levels will be very favorable for supercells. Concerning the potential for cell initiation, RAP analysis currently shows a 500 mb vorticity max in far eastern New Mexico. As this feature moves eastward this evening across the Texas Panhandle, large-scale ascent is expected to increase over western Oklahoma and southern Kansas. In response, isolated storm development will become possible. If cells can initiate, the environment will support large hail, wind damage and tornadoes."
+    },
+    {
+      "year": 2026,
+      "number": 558,
+      "issue_utc": "2026-04-27T03:37Z",
+      "topic": "Tornado Watch 153",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0558.html",
+      "summary": "A tornado threat is expected to continue for several more hours into the early overnight period across parts of southwest and south-central Missouri.",
+      "discussion": "On water vapor imagery, a vigorous shortwave trough is evident over the northern Ozarks. Near this feature, scattered strong to severe thunderstorms are ongoing. Ahead of and to the south of the storms, moderate instability is analyzed by the RAP in southwest Missouri. Over the top of the unstable airmass, mid-level flow is westerly at 40 knots. This is creating shear favorable for supercells. In addition, the RAP is showing a 30 to 40 knot low-level jet located over west-central and southwest Missouri. The WSR-88D VWP at Springfield, Missouri has a looped hodograph with 0-3 km storm-relative helicity near 650 m2/s2. This will continue support a tornado threat with supercells. Large hail and wind damage will also be likely with supercells. ..Broyles.. 04/27/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 559,
+      "issue_utc": "2026-04-27T03:56Z",
+      "topic": "Tornado Watch 153",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0559.html",
+      "summary": "Local extensions of WW 152 may be needed based on the evolution of convection across far northeast Oklahoma and north-central Oklahoma over the next hour.",
+      "discussion": "With the recent demise of a supercell near the Bartlesville, OK area, the short-term severe threat across WW 152 is now primarily confined to far northeast OK where convection continues to intensify on the western flank of a robust supercell located in far southeast KS. Although this back building convection is not ideally located on the storm scale for discrete convection, it is intensifying within an environment characterized by STP values of 4-6 per recent mesoanalysis estimates. These estimates seem to be a valid characterization of the environment based on nearby KINX VWP observations, which are sampling 0-1 km SRH on the order of 500 m2/s2. Additionally, a weak low-level confluence boundary is noted draped across northeast OK into far northwest AR with at least one attempt at new convective development noted near the OK/MO/AR border. Given the highly favorable shear environment (and reservoir of nearly 3500 J/kg MLCAPE), severe convection will remain possible for the next couple of hours across far northeast OK and perhaps far northwest AR. Further west, GOES IR imagery depicts an intensifying cell near Fairview, OK. This intensification appears to be coincident with the cell crossing a northward advancing warm front, suggesting that it is now beginning to ingest near-surface parcels. Consequently, further intensification of this cell is expected, and given the favorable sheared environment downstream, will likely pose some tornado concern in the next couple of hours across portions of north-central OK. Given these localized convective trends, portions of WW 152 may need to be extended in time to address the developing concerns. ..Moore.. 04/27/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 560,
+      "issue_utc": "2026-04-27T05:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0560.html",
+      "summary": "A storm cluster with embedded supercells will approach areas of Missouri immediately east of the current watch. The need for a downstream watch is uncertain in the short term.",
+      "discussion": "A storm cluster with embedded supercell structures continues to move eastward across south central MO. These storms are now approaching the east edge of WW #153, which coincides with the east edge of the buoyancy gradient. There will be a tendency for some eastward expansion of the warm sector in response to warm advection with 40 kt south-southwesterly low-level flow. However, it is unclear if destabilization will keep pace with the lead storms, or if those storms will move east a bit too fast and weaken. East central and southeast MO will continue to be monitored, and a small/new watch may be needed, pending short-term trends."
+    },
+    {
+      "year": 2026,
+      "number": 561,
+      "issue_utc": "2026-04-27T06:17Z",
+      "topic": "Tornado Watch 155",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0561.html",
+      "summary": "The threat for an isolated supercell remains along the warm front into southeast Kansas, while the severe threat is diminishing to the southwest into Oklahoma.",
+      "discussion": "The primary mid-upper jet is ejecting east-northeastward from the TX Panhandle toward KS, and an associated surface cyclone in the eastern OK Panhandle will likewise continue to develop east-northeastward. South of the cyclone track and beneath the jet core, veering of low-level flow to more westerly will continue across western and northern OK, with rapid drying expected above the surface. Despite the remaining near-surface moisture and associated buoyancy, the drying above the surface and a fairly warm elevated mixed layer suggest that additional storm development is unlikely into northwest OK. Meanwhile, some potential for isolated supercell development will persist in the short term along the warm front into southeast KS, where VWPs show very large/curved hodographs coincident with upper 60s boundary-layer dewpoints. ..Thompson.. 04/27/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 562,
+      "issue_utc": "2026-04-27T06:39Z",
+      "topic": "Severe Thunderstorm Watch 154",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0562.html",
+      "summary": "Elevated supercells will continue to pose a large hail and isolated damaging wind threat while spreading eastward along the I-70 corridor.",
+      "discussion": "Clusters of elevated supercells, with a recent history of hail up to 2 inches in diameter, continue to spread eastward along the I-70 corridor in north central and northeast KS. This area is within the left-exit region of a 100 kt jet at 300 mb, and along the north edge of the steep midlevel lapse rates where strong low-level warm advection is ongoing. The updrafts appear to be rooted near 850 mb with MUCAPE near 3000 J/kg. The combination of large buoyancy and strong cloud-layer/effective shear will continue to favor supercells capable of producing very large hail (near or above 2 inches in diameter). These storms will also be capable of producing isolated wind damage given the steep midlevel lapse rates and moderately large DCAPE. ..Thompson.. 04/27/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 563,
+      "issue_utc": "2026-04-27T08:24Z",
+      "topic": "Severe Thunderstorm Watch 154",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0563.html",
+      "summary": "Earlier supercells are growing into more of a north-south oriented MCS, with some increase in wind damage potential. A new severe thunderstorm watch will likely be needed into northern Missouri.",
+      "discussion": "More discrete supercells earlier in KS have begun to merge and orient into more of a north-south line with a more pronounced cold pool. The updrafts of these storms are still rooted well above the surface, but steep midlevel lapse rates will allow downdrafts to penetrate to the ground with an accompanying threat for 65+ mph gusts (especially on right flanks of embedded circulations). Since some supercell structures will likely remain within the line, large hail can still be expected. A new severe thunderstorm watch will be issued soon into northwest and northern MO. ..Thompson.. 04/27/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2026,
+      "number": 564,
+      "issue_utc": "2026-04-27T10:59Z",
+      "topic": "Severe Thunderstorm Watch 156",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0564.html",
+      "summary": "A more north-south segment of the line will pose a continued wind/hail threat, as well as isolated tornado threat, into areas immediately south and southeast of Kansas City.",
+      "discussion": "A second line segment immediately south of Kansas City is intersecting the trailing outflow from the first segment (now in north central MO). As 65-70 F surface temperatures, dewpoints in the mid-upper 60s and at least weak surface-based CAPE along the warm front approaches these storms from the south, the potential for storms rooted at the ground will likewise increase. The KEAX VWP shows very strong low-level shear and streamwise vorticity inflow into this portion of the line, this will be the preferred corridor for mesovortex formation and a local increase in tornado potential the next couple of hours. Otherwise, the potential for 65-75 mph gusts and 1-1.75 inch hail will continue. If the tornado threat continues to increase later this morning, a new tornado watch may become necessary near I-70. ..Thompson.. 04/27/2026 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

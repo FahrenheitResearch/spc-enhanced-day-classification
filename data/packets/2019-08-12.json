@@ -1,0 +1,199 @@
+{
+  "convective_day": "2019-08-12",
+  "valid_start": "2019-08-12T12:00Z",
+  "valid_end": "2019-08-13T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 5
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2019-08-12",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-08-12T12:00Z",
+      "valid_end": "2019-08-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190812_1200.html",
+      "summary": "Severe thunderstorms are likely today over the middle Mississippi Valley to the Ohio Valley. Damaging gusts are the primary risk but a few tornadoes are possible.",
+      "sections": [
+        {
+          "title": "Mid MS/OH Valley Region",
+          "text": "An impressive amount of deep convection has developed over the central Plains early this morning ahead of a disturbance that should approach western IA by sunrise. A reservoir of untapped buoyancy currently extends ahead of the MCS over eastern KS which should aid eastward progression of organized convection into the beginning of the upcoming day1 period. Latest NAM model guidance suggests leading edge of this activity will be near the MO River at sunrise; however, current speed/movement of the convection is considerably faster and storms could advance into western IA by 09z. It's not entirely clear whether the MCS will slow its forward propagation so confidence in timing/placement of this complex of storms is somewhat in doubt. Current outlook is predicated on MCS slowing a bit toward sunrise. For these reasons have adjusted severe probs west across IA/northern MO to account for possible severe at the beginning of the period. If boundary layer is able to warm/destabilize ahead of this activity, as NAM currently depicts, environmental parameters would seem supportive of organized convection continuing downstream, with some upward evolution expected by late morning. If convection ma"
+        },
+        {
+          "title": "Eastern Dakotas",
+          "text": "Early-morning water-vapor imagery depicts a well-defined short-wave trough over MT/WY shifting east toward the northern Plains. This feature is forecast to advance into the western Dakotas by 13/00z where it should aid scattered convection along/ahead of progressive wind shift. Hail/wind are the primary risks with scattered storms later today."
+        },
+        {
+          "title": "ME",
+          "text": "Weak mid-level height falls are forecast to spread south across ME later Monday. Deep westerly flow should allow boundary layer to warm such that inhibition is removed by 17z ahead of a zone of weak low-level confluence. Isolated thunderstorms are expected to develop across northern New England within a flow regime that could support storm organization capable of producing isolated damaging wind gusts. ..Darrow/Cook.. 08/12/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-08-12",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-08-12T13:00Z",
+      "valid_end": "2019-08-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190812_1300.html",
+      "summary": "Severe thunderstorms are likely today over the middle Mississippi Valley to the Ohio Valley. Damaging gusts are the primary risk but a few tornadoes are possible.",
+      "sections": [
+        {
+          "title": "IA/IL this afternoon/evening",
+          "text": "A well-defined MCV is moving eastward over western IA this morning, per reflectivity mosaics and VWP observations of 50-60 kt midlevel flow at OAX/DMX. The associated MCS and low-level cold pool have weakened since 09z, though convective outflow appears to extend farther south into KS/MO than most model guidance. Thus, recovery of the boundary layer into IA is a primary concern for this afternoon. Assuming surface heating in cloud breaks by early-mid afternoon and erosion of the morning cold pool, boundary-layer dewpoints in the low-mid 70s will contribute to MLCAPE in excess of 2000 J/kg east of the surface low and south of the warm front in IA. Renewed thunderstorm development is probable by mid afternoon near the surface low, with storms expected to subsequently move/develop east-southeastward along the warm front into IL by this evening. The initial storms will likely be supercells capable of producing tornadoes and damaging winds, given the enhanced low-level shear/hodograph curvature near the cyclone/warm front, along the north edge of the unstable warm sector. Upscale growth into a cluster is expected by this evening from southeast IA/northeast MO into northwest and central "
+        },
+        {
+          "title": "TX Panhandle this afternoon to southeast KS tonight",
+          "text": "A remnant midlevel trough will drift slowly east-northeastward over the TX Panhandle today, as a weak cold front moves slowly southeastward from KS/CO. Surface heating and deep mixing will result in inverted-v profiles along and south of the front, and will support the potential for isolated strong downburst winds. Convection will tend to develop east-northeastward tonight along the front, with strong downdrafts still possible in an environment of lingering large CAPE/DCAPE."
+        },
+        {
+          "title": "Maine this afternoon",
+          "text": "A midlevel trough over James Bay will pivot east-southeastward to Maine overnight. In advance of this trough, a weak pre-frontal trough at the surface and band of weak ascent will provide a focus for thunderstorm development this afternoon. Though moisture and lapse rates will be modest, increasing deep-layer westerly shear and surface heating on the south edge of the thicker clouds could support storms capable of producing isolated damaging gusts."
+        },
+        {
+          "title": "Dakotas this afternoon/evening",
+          "text": "Widespread clouds and rain are spreading slowly eastward across the eastern Dakotas in association with a couple of diffuse MCVs from overnight convection. A little clearing of clouds and surface heating will be possible from west to east this afternoon, in advance of a larger-scale trough moving east-southeastward from MT to ND. Isolated thunderstorm development and a low-end severe threat will be possible this afternoon if sufficient near-surface destabilization occurs, given enough vertical shear for organized storms. ..Thompson/Kerr.. 08/12/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-08-12",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-08-12T16:30Z",
+      "valid_end": "2019-08-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190812_1630.html",
+      "summary": "A few tornadoes, a couple possibly strong, and significant damaging winds will be likely across southeast Iowa through central Illinois, mainly this evening.",
+      "sections": [
+        {
+          "title": "IA/IL/IN",
+          "text": "An upgrade to Moderate Risk for tornado and/or wind may become necessary in later outlooks today. A leading MCV is tracking east into eastern IA with a lingering surface cyclone centered over west-central IA. This latter feature should move east into northern IL through this evening. Diffuse convective outflow from remnant leading MCS over southern IL has been shunted across southeast to northwest MO. Nevertheless, air mass recovery is underway north of the boundary into extreme southern IA and west-central IL. Further erosion of the prior cold pool amid cloud breaks should yield at least weak to moderate surface-based buoyancy by late afternoon in IA to northern IL. More robust destabilization is expected farther south where greater unimpeded insolation occurs while a plume of 77-81 F surface dew points is advected north from the Mid-South. Despite relatively warm mid-level temperatures, the very rich boundary-layer moisture and surface heating should yield a plume of large buoyancy with MLCAPE likely reaching 3000-4000 J/kg across much of MO into central/southern IL. Renewed thunderstorm development is probable towards late afternoon near the surface cyclone in southeast IA and d"
+        },
+        {
+          "title": "TX Panhandle to southern KS/northern OK",
+          "text": "A remnant midlevel trough will drift slowly east-northeastward over the TX Panhandle, as a weak cold front moves slowly southeastward from KS/CO. Surface heating and deep mixing will result in inverted-v profiles along and south of the front, and will support the potential for isolated strong downburst winds. Convection will tend to develop east-northeastward tonight along the front, with strong downdrafts still possible in an environment of lingering large CAPE/DCAPE."
+        },
+        {
+          "title": "ME",
+          "text": "A midlevel trough over James Bay will pivot east-southeastward to Maine overnight. In advance of this trough, a weak pre-frontal trough at the surface and band of weak ascent will provide a focus for thunderstorm development this afternoon. Though moisture and lapse rates will be modest, increasing deep-layer westerly shear and surface heating on the south edge of the thicker clouds could support storms capable of producing isolated damaging gusts and marginally severe hail."
+        },
+        {
+          "title": "Dakotas",
+          "text": "Widespread clouds and rain are spreading slowly eastward across the eastern Dakotas in association with a couple of diffuse MCVs from overnight convection. A little clearing of clouds and surface heating will be possible from west to east this afternoon, in advance of a larger-scale trough moving east-southeastward from MT to ND. Isolated thunderstorm development and a low-end severe threat will be possible this afternoon if sufficient near-surface destabilization occurs, given enough vertical shear for organized storms. ..Grams/Dean.. 08/12/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-08-12",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-08-12T20:00Z",
+      "valid_end": "2019-08-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190812_2000.html",
+      "summary": "A few tornadoes with a potential for a strong tornado and significant damaging winds will be possible across southeast Iowa through central Illinois, mainly this evening.",
+      "sections": [
+        {
+          "title": "DISCUSSION",
+          "text": "The only change to the outlook is to add thunder across parts of the Colorado Rockies where a few thunderstorms are expected to develop this afternoon. ..Broyles.. 08/12/2019 .PREV DISCUSSION... /ISSUED 1130 AM CDT Mon Aug 12 2019/"
+        },
+        {
+          "title": "IA/IL/IN",
+          "text": "An upgrade to Moderate Risk for tornado and/or wind may become necessary in later outlooks today. A leading MCV is tracking east into eastern IA with a lingering surface cyclone centered over west-central IA. This latter feature should move east into northern IL through this evening. Diffuse convective outflow from remnant leading MCS over southern IL has been shunted across southeast to northwest MO. Nevertheless, air mass recovery is underway north of the boundary into extreme southern IA and west-central IL. Further erosion of the prior cold pool amid cloud breaks should yield at least weak to moderate surface-based buoyancy by late afternoon in IA to northern IL. More robust destabilization is expected farther south where greater unimpeded insolation occurs while a plume of 77-81 F surface dew points is advected north from the Mid-South. Despite relatively warm mid-level temperatures, the very rich boundary-layer moisture and surface heating should yield a plume of large buoyancy with MLCAPE likely reaching 3000-4000 J/kg across much of MO into central/southern IL. Renewed thunderstorm development is probable towards late afternoon near the surface cyclone in southeast IA and d"
+        },
+        {
+          "title": "TX Panhandle to southern KS/northern OK",
+          "text": "A remnant midlevel trough will drift slowly east-northeastward over the TX Panhandle, as a weak cold front moves slowly southeastward from KS/CO. Surface heating and deep mixing will result in inverted-v profiles along and south of the front, and will support the potential for isolated strong downburst winds. Convection will tend to develop east-northeastward tonight along the front, with strong downdrafts still possible in an environment of lingering large CAPE/DCAPE."
+        },
+        {
+          "title": "ME",
+          "text": "A midlevel trough over James Bay will pivot east-southeastward to Maine overnight. In advance of this trough, a weak pre-frontal trough at the surface and band of weak ascent will provide a focus for thunderstorm development this afternoon. Though moisture and lapse rates will be modest, increasing deep-layer westerly shear and surface heating on the south edge of the thicker clouds could support storms capable of producing isolated damaging gusts and marginally severe hail."
+        },
+        {
+          "title": "Dakotas",
+          "text": "Widespread clouds and rain are spreading slowly eastward across the eastern Dakotas in association with a couple of diffuse MCVs from overnight convection. A little clearing of clouds and surface heating will be possible from west to east this afternoon, in advance of a larger-scale trough moving east-southeastward from MT to ND. Isolated thunderstorm development and a low-end severe threat will be possible this afternoon if sufficient near-surface destabilization occurs, given enough vertical shear for organized storms."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-08-13",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-08-13T01:00Z",
+      "valid_end": "2019-08-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190813_0100.html",
+      "summary": "Scattered severe thunderstorms are expected to develop this evening across Illinois and Indiana into southwest Ohio later tonight. Damaging winds are the primary threat.",
+      "sections": [
+        {
+          "title": "01Z Update",
+          "text": "Organized deep convection has struggled to develop early this evening across the Mid MS Valley in the wake of early-day remnant MCS. 13/00z sounding from DVN supports this delayed development with poor lapse rates and seasonally weak buoyancy. However, ILX exhibits substantial MUCAPE with ample shear for sustained rotating updrafts. Over the last half hour or so scattered updrafts have gradually deepened across central IL such that lightning is now observed along a corridor from Adams County to Macon County. Latest thinking is convection will gradually grow upscale, shifting east toward central IN within broad westerly flow regime. Have lowered severe probs across much of IA and northern IL to reflect a more narrow corridor of expected severe. Damaging winds should be the greatest severe risk with this activity. Elsewhere, isolated supercell has developed ahead of upper trough south of MOT. This storm has evolved along progressive front and should propagate southeast along a narrow corridor of instability with an attendant threat for primarily hail. High-based convection across the southern Plains is expected to linger across the TX Panhandle into northern OK/southeast KS for the n"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2019,
+      "number": 1714,
+      "issue_utc": "2019-08-12T18:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1714.html",
+      "summary": "Storms capable of locally damaging wind and marginally severe hail are possible this afternoon. Watch issuance is not anticipated.",
+      "discussion": "Despite widespread cloudiness, gradual heating is underway across much of Maine, with an increase in cumulus noted within the last hour. While large-scale ascent will generally be limited across the region this afternoon, widely scattered thunderstorm development will be possible as a weak surface trough and midlevel speed max approach the area from the west. Midlevel lapse rates are rather weak, but continued heating and sufficient moisture will result in MLCAPE of 500-1000 J/kg across portions of ME later this afternoon. Moderate southwesterly aloft will support effective shear of 30-40 kt, sufficient for some storm organization with the strongest updrafts. The most favorable overlap of shear and buoyancy is forecast over the central third of Maine. Marginally severe hail will be possible with the most organized cells, while locally damaging wind cannot be ruled out, especially in areas where greater heating occurs resulting in steeper low-level lapse rates. Due to the marginality of the threat, watch issuance is not expected."
+    },
+    {
+      "year": 2019,
+      "number": 1715,
+      "issue_utc": "2019-08-12T19:32Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1715.html",
+      "summary": "A few stronger storms are possible this afternoon. A weak/brief tornado and large hail are the primary severe risks.",
+      "discussion": "Surface analysis indicates an occluded front oriented from southeast to northwest bisecting ND. Visible satellite imagery shows a cumulus field over western ND and stratus to the east of the boundary. Surface temperatures have warmed into the lower to middle 70s west and lower 60s east. The boundary is providing a focus both for storm development this afternoon and a source for ambient vorticity rich low-level air. As storms increase both in number and intensity later this afternoon, a few may acquire weak/transient low-level rotation as they move east-southeast and interact with the zone of low-level vorticity along the boundary. A tornado is possible along with hail. The spatial coverage and intensity of the expected severe risk will likely preclude a severe thunderstorm watch issuance."
+    },
+    {
+      "year": 2019,
+      "number": 1716,
+      "issue_utc": "2019-08-12T20:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1716.html",
+      "summary": "Isolated severe gusts (60-70mph) are possible with the stronger storms through the early evening. The magnitude and coverage of the severe risk will likely preclude a severe thunderstorm watch issuance.",
+      "discussion": "Surface analysis shows temperatures have warmed into the lower 100s over the TX Panhandle northeastward into south-central KS. Strong boundary-layer mixing has resulted in surface temperature spreads around 40 deg F, and as a result, very steep low-level lapse rates have developed. Objective analysis indicates a belt of modest southwesterly mid- to high-level flow is located over the region to the northwest of the mid-level anticyclone centered over southeast TX. The strength of flow will result in some multicellular storm organization as storms move to the northeast. Strong to locally severe gusts/small hail may accompany the stronger cores."
+    },
+    {
+      "year": 2019,
+      "number": 1717,
+      "issue_utc": "2019-08-12T20:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1717.html",
+      "summary": "Thunderstorms capable of primarily damaging winds and a few tornadoes are possible late this afternoon into the evening. Tornado watch issuance is likely prior to 23Z.",
+      "discussion": "An MCV is currently moving through the upper Mississippi Valley, with a weakening area of primarily stratiform rain noted across northeast IA into northern IL. In the wake of the MCV, clearing has been noted across central into southeast IA, with cumulus gradually increasing along an outflow/differential heating boundary from west-central IL into southeast IA. Lapse rates are generally weak across this region, but continued heating of a very moist low-level airmass will result in the development of moderate to locally strong buoyancy (MLCAPE of 1500-3000 J/kg) from southeast IA into northwest/central IL. Forcing for ascent will be somewhat nebulous in the wake of the leading MCV, but scattered thunderstorm development is eventually expected in the vicinity of the surface boundary and a weak surface low across central IA. Area VWPs and the 20Z ILX sounding depict sufficient deep-layer shear for organized convection, and initial development will include the potential for a few discrete supercells. Some increase in low-level flow/shear is expected with time into the evening, and a tornado threat will evolve with any supercell, particularly in the vicinity of the surface boundary which may move slowly northward over the next 2-3 hours. A strong tornado will be possible if any supercell can become sustained in the zone of enhanced low-level helicity near and just north of the boundary. Otherwise, locally severe wind gusts and marginally severe hail will be possible with any discrete convection. Most HREF members depict some sort of upscale growth this evening into portions of central IL, which would pose an increasing risk of more widespread damaging winds and potentially QLCS tornadoes. Tornado watch issuance by 23Z is likely in order to cover these threats, though earlier "
+    },
+    {
+      "year": 2019,
+      "number": 1718,
+      "issue_utc": "2019-08-13T01:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1718.html",
+      "summary": "Strong to isolated severe wind gusts are likely with a convective complex migrating east-northeastward into the discussion area. A WW issuance is not anticipated for this activity.",
+      "discussion": "A cluster of relatively disorganized updrafts over north-central Oklahoma near Enid/Medford has now increased in organization, with upscale growth now evident on radar along the leading edge of a mature cold pool now over Noble/Kay Counties and northwestward into Harper County, Kansas. These storms are moving into an extremely unstable downstream environment, with low 90s F surface temperatures and upper 70s F to near 80 F dewpoints contributing to 5000-6000 J/kg MUCAPE. The downstream environment also contains modest deep shear and weak low-level shear, though the mature nature of the cold pool should support continued intense updrafts along its leading edge along with downdrafts capable of strong to isolated severe wind gusts and occasional hail. This threat is too localized/isolated to necessitate a WW issuance, though it is expected to continue east-northeastward in the general direction of BVO/IDP over the next couple of hours. ..Cook.. 08/13/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1719,
+      "issue_utc": "2019-08-13T03:00Z",
+      "topic": "Tornado Watch 575",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1719.html",
+      "summary": "Strong/severe storms have become well-established across central Illinois and vicinity. Damaging winds will likely become the primary severe risk, though tornado risk continues across central Illinois.",
+      "discussion": "Latest radar loop shows a band of convection in a roughly west-to-east band across central Illinois, that continues to shows signs of gradual upscale growth. However, updrafts still remain sufficiently separated spatially to reveal pronounced supercell characteristics in radar imagery, including a few strongly rotating cells. One such cell -- which appears likely to have been producing a tornado over the past half hour -- has now moved into northern Shelby County Illinois. With time, expect upscale growth to continue, with storms likely evolving into an east-southeastward-moving storm complex, where damaging winds would likely become the primary severe risk. This could require southeastward watch issuance later this evening. In the mean time, risk for damaging winds and a tornado or two will continue in the short term. ..Goss.. 08/13/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1720,
+      "issue_utc": "2019-08-13T04:45Z",
+      "topic": "Tornado Watch 575",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1720.html",
+      "summary": "Severe risk continues to evolve primarily toward damaging winds across WW 575.",
+      "discussion": "Latest radar loop shows storms evolving into a fairly well-defined bow echo, moving southeastward at around 25 kt. Some acceleration of the band of convection is noted over the past half hour, near the Illinois/Indiana border. A tight instability gradient is aligned north-south across middle Tennessee and west-central Kentucky, which should limit the longer-term eastward advance of the convection. Meanwhile however, risk for damaging winds will continue across WW 575, and may spread southeast of the watch over the next couple of hours. We will continue to monitor evolution of the convection, and any possible need for a downstream WW. ..Goss.. 08/13/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

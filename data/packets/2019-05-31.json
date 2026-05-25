@@ -1,0 +1,145 @@
+{
+  "convective_day": "2019-05-31",
+  "valid_start": "2019-05-31T12:00Z",
+  "valid_end": "2019-06-01T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2019-05-31",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-05-31T16:30Z",
+      "valid_end": "2019-06-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190531_1630.html",
+      "summary": "Severe storms are most likely across North Carolina and southern Virginia producing damaging winds and hail through about 10 PM EDT. Scattered severe storms are possible across Far West Texas and southeast New Mexico during the late afternoon and evening.",
+      "sections": [
+        {
+          "title": "South-central Appalachians to Carolinas/southern Virginia",
+          "text": "A shortwave trough over KY/TN will track east into southern VA and NC tonight. A cyclonically curved belt of moderately strong westerlies (35-50 kt at 500 mb) will persist downstream across the Carolinas and southern Appalachians. Boundary-layer heating is underway ahead of the trough, beneath 6.5 to 7 C/km mid-level lapse rates. The most robust buoyancy/strongest instability should develop across the eastern NC vicinity by peak heating where surface temperatures warming into the low to mid 90s overlap mid 60s dew points. A cluster of convection is ongoing near the OH/KY/WV border area and thunderstorms will become increasingly numerous downstream to the southeast across the Appalachians. Additional scattered thunderstorms should evolve east across the Piedmont and along the sea breeze, most probable across NC. While low-level winds should remain modest, speed shear between the low to upper-levels should foster several cells with mid-level rotation with an attendant severe hail and damaging wind threat. The greatest likelihood for clustering appears to be across central to eastern NC where the environment would support an enhanced risk for strong to isolated severe wind gusts. ..Te"
+        },
+        {
+          "title": "Upper Midwest/Upper Great Lakes",
+          "text": "Guidance appears to be overly aggressive (especially the NAM) with the degree of evapotranspiration ahead of the southward-moving cold front. 12Z observed soundings from Green Bay, Minneapolis, International Falls, and Aberdeen sampled mean-mixing ratios only around 7 g/kg. Given the predominant westerly low-level flow ahead of front, model forecasts up to 13 g/kg by early evening appear woefully too high. Cloud-free diabatic heating will yield very warm surface temperatures coincident with very steep mid-level lapse rates. Boundary-layer dew points should mix into the lower to mid 50s and yield a plume of modest buoyancy at peak heating. Scattered thunderstorm development is most likely across SD into far northern NE in association with a minor mid-level impulse shifting east from the Black Hills. More isolated thunderstorm coverage is anticipated immediately along the front from central MN into northern Lower MI. The eastern portion of the front should overlap the periphery of moderate mid-level westerlies and could support a few cells with mid-level updraft rotation capable of isolated severe wind and hail during the late afternoon and evening. ..Grams/Wendt.. 05/31/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-05-31",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-05-31T20:00Z",
+      "valid_end": "2019-06-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190531_2000.html",
+      "summary": "Severe storms will persist across North Carolina and southern Virginia producing damaging winds and hail into the evening. Severe storms are also expected across Far West Texas and southeast New Mexico late this afternoon into the evening.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Previous forecast remains generally on track with only minor adjustments needed. Severe storms ongoing across NC into VA will persist into the evening. Other severe storms including a few supercells should develop this afternoon across west TX. See SWOMCD 911 for more details. Strong storms with more sparse coverage are also expected from a portion of the northern and central Plains into the Great Lakes region. ..Dial.. 05/31/2019 .PREV DISCUSSION... /ISSUED 1127 AM CDT Fri May 31 2019/"
+        },
+        {
+          "title": "South-central Appalachians to Carolinas/southern Virginia",
+          "text": "A shortwave trough over KY/TN will track east into southern VA and NC tonight. A cyclonically curved belt of moderately strong westerlies (35-50 kt at 500 mb) will persist downstream across the Carolinas and southern Appalachians. Boundary-layer heating is underway ahead of the trough, beneath 6.5 to 7 C/km mid-level lapse rates. The most robust buoyancy/strongest instability should develop across the eastern NC vicinity by peak heating where surface temperatures warming into the low to mid 90s overlap mid 60s dew points. A cluster of convection is ongoing near the OH/KY/WV border area and thunderstorms will become increasingly numerous downstream to the southeast across the Appalachians. Additional scattered thunderstorms should evolve east across the Piedmont and along the sea breeze, most probable across NC. While low-level winds should remain modest, speed shear between the low to upper-levels should foster several cells with mid-level rotation with an attendant severe hail and damaging wind threat. The greatest likelihood for clustering appears to be across central to eastern NC where the environment would support an enhanced risk for strong to isolated severe wind gusts. ..Te"
+        },
+        {
+          "title": "Upper Midwest/Upper Great Lakes",
+          "text": "Guidance appears to be overly aggressive (especially the NAM) with the degree of evapotranspiration ahead of the southward-moving cold front. 12Z observed soundings from Green Bay, Minneapolis, International Falls, and Aberdeen sampled mean-mixing ratios only around 7 g/kg. Given the predominant westerly low-level flow ahead of front, model forecasts up to 13 g/kg by early evening appear woefully too high. Cloud-free diabatic heating will yield very warm surface temperatures coincident with very steep mid-level lapse rates. Boundary-layer dew points should mix into the lower to mid 50s and yield a plume of modest buoyancy at peak heating. Scattered thunderstorm development is most likely across SD into far northern NE in association with a minor mid-level impulse shifting east from the Black Hills. More isolated thunderstorm coverage is anticipated immediately along the front from central MN into northern Lower MI. The eastern portion of the front should overlap the periphery of moderate mid-level westerlies and could support a few cells with mid-level updraft rotation capable of isolated severe wind and hail during the late afternoon and evening."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2019,
+      "number": 909,
+      "issue_utc": "2019-05-31T16:07Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0909.html",
+      "summary": "Isolated to widely scattered thunderstorm development is forecast over the next 1-2 hours (12pm-2pm EDT) near the higher terrain over western NC and western/southwestern VA. Isolated storms may also develop over the Piedmont by 2pm EDT.",
+      "discussion": "Late morning water vapor imagery loop shows a mid-level shortwave trough over KY/TN and this feature is forecast to reach the southern Appalachians by mid afternoon. Visible satellite imagery shows a swelling cumulus field over the southern Appalachians immediately east of the eastward-migrating disturbance. Surface observations indicate temperatures have warmed to near 80 degrees F near the mountains and into the middle 80s over the NC Piedmont. Low-level moisture increases from west to east across NC with surface dewpoints near 60 degrees F in the west, low-middle 60s over the Piedmont, and upper 60s to near 70 in the coastal plain. Reflective of the low-level moisture field, buoyancy is forecast to be highest near and east of I-95 with 2000-2500 J/kg MLCAPE expected by late afternoon with steep 0-3km lapse rates. Strong heating will contribute to 1500-2000 J/kg MLCAPE farther west near the I-77 corridor by early afternoon. A belt of 30-35kt westerly 500mb flow will act to organize updrafts this afternoon beneath 60-80kt upper-level westerly flow. Despite weak low-level flow, elongated hodographs will favor the potential for splitting supercells and severe multicells capable of large hail and severe gusts (60mph). The propensity for wind damage will likely increase coincident with richer low-level moisture as storms move/grow upscale from west-central into east-central portions of NC later this afternoon into the early evening."
+    },
+    {
+      "year": 2019,
+      "number": 910,
+      "issue_utc": "2019-05-31T18:11Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0910.html",
+      "summary": "A convective line will move east/southeast into portions of eastern Texas this afternoon. A few damaging wind gusts and perhaps marginally severe hail are possible given the moderate instability and modest deep-layer shear ahead of this activity. Overall threat will be limited by lack of MCS organization. A WW is not anticipated, but trends in organization/intensity will be monitored.",
+      "discussion": "Temperatures in southeast Texas have warmed into the mid to upper 80s F with dewpoints holding in the low to mid 70s. A line of thunderstorms moving into eastern Texas is interacting with a weakening cold front and continuing to propagate east/southeast in an environment with around 2000 J/kg MLCAPE and 30-40 kts of effective shear. Latest surface observations show that a relatively strong cold pool (15-20 F temperature differential) has developed in the wake of the convection. With continued heating and boundary-layer mixing ahead of the activity, a threat for a few damaging wind gusts will exist. Marginally severe hail will be possible with stronger cells, though weak mid-level lapse rates should minimize this threat. New cell development continues to occur along the southern edge of the MCS where the greatest instability and cold pool forcing align. Activity will likely continue to propagate along the instability gradient, reaching parts of the Houston metro area between 2-3 PM CDT. Overall organization of this line appears low per region radar mosaic. Lack of greater deep-layer shear and upper-level support should keep the overall threat for damaging wind gusts isolated. A WW is not currently anticipated for this activity, but trends in organization/intensity will be monitored."
+    },
+    {
+      "year": 2019,
+      "number": 911,
+      "issue_utc": "2019-05-31T19:33Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0911.html",
+      "summary": "Storm initiation is expected in the next two hours. Initial discrete storm mode will favor large hail and damaging wind gusts as primary threats. A tornado or two will also be possible early in the convective cycle. A severe thunderstorm watch will likely be needed in the next hour or so.",
+      "discussion": "Low-level easterly/southeasterly flow into the Trans-Pecos region and vicinity has allowed surface dewpoints to reach the mid 60s F with upper 50s F into southeast New Mexico. Agitated cumulus have formed on the Davis Mountains and nearby higher terrain. Despite weakly rising mid-level heights isolated to scattered development is expected within the next two hours. With continued boundary layer heating, MLCAPE values will remain at or above 2000 J/kg. Effective deep-layer shear of 35-45 kts will favor storm organization and rotation. Storms are expected to remain discrete, at least initially, and pose a threat for large hail -- some reaching 2 inches in diameter -- and damaging wind gusts. Given the highly backed surface flow and modest increase in 850 mb wind this evening, a tornado or two will also be possible mainly with discrete activity in the Trans-Pecos region. A severe thunderstorm watch will likely be needed in the next hour or so."
+    },
+    {
+      "year": 2019,
+      "number": 912,
+      "issue_utc": "2019-05-31T20:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0912.html",
+      "summary": "A few isolated damaging wind gusts and instances of marginally severe hail will be possible as convection deepens and becomes surface-based this afternoon across northern Wisconsin. Storm coverage may increase later this evening as a mid-level low approaches, but threat should remain marginal. A WW is not anticipated.",
+      "discussion": "Elevated convection has formed within a cluster of ACCAS in northern Wisconsin. This activity appears to be in association with weak mid-level perturbations on moisture channel imagery approaching the area from the Canadian Prairies. With time, continued boundary-layer destabilization should allow this activity to deepen and become surface based -- likely in the next hour or two. While effective deep-layer shear will be sufficient (30-45 kts) for storm organization, dewpoints have mixed out to the low to mid 50s F leading to modest buoyancy of 500-1000 J/kg. Any surface based convection that develops will be high-based and pose a primary threat of a few damaging wind gusts. Marginally severe hail may also occur should any stronger, more mature cells develop. Storm coverage is one uncertainty in this scenario. Coverage may increase later this evening, though, as ascent associated with a mid-level low now in western South Dakota approaches. Overall, the threat appears to be marginal and limited enough in space that no WW is currently anticipated."
+    },
+    {
+      "year": 2019,
+      "number": 913,
+      "issue_utc": "2019-05-31T20:43Z",
+      "topic": "Severe Thunderstorm Watch 300",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0913.html",
+      "summary": "Large hail and scattered wind damage (due to isolated severe gusts) are probable over the next several hours as storms over western NC move into central NC.",
+      "discussion": "Radar mosaic shows a myriad of small-scale thunderstorm outflow boundaries and the effective sea breeze boundary slowly pushing into east-central and central parts of NC. The area near the Research Triangle has been largely void of thunderstorms through mid afternoon. However, as an eastward migrating, mid-level shortwave trough moves into western VA/western NC early this evening, expecting storm development to increase across central NC late this afternoon. KRAX VAD data shows 40kt flow at 6km AGL increasing to 60kt at 9km. Surface dewpoints have mixed into the lower 60s across the NC Piedmont resulting in 25-30 degree temperature spreads. The ample flow in the mid levels coupled with storms moving into a more moisture-rich airmass (near I-95) will favor robust storm development---including weak supercells and episodic severe multicells. Large hail will favor the supercell storms and the well-mixed boundary layer will promote efficient downdrafts capable of wind damage and isolated severe gusts (around 60mph) with the more intense storms. ..Smith.. 05/31/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 914,
+      "issue_utc": "2019-05-31T20:45Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0914.html",
+      "summary": "A few clusters of storms have already developed in western South Dakota with more activity expected to occur downstream and along the cold front later this evening. Meager deep-layer shear will limit storm organization and the main threat of damaging wind gusts will be driven by cold pool generation. Given the uncertainty with MCS development/organization, confidence in the need for a WW is low.",
+      "discussion": "Clusters of thunderstorms have developed beneath a mid-level low in western South Dakota with further development along a cold front from north of the Black Hills to the central SD/ND border. This activity should continue eastward into an environment with 1000-1500 J/kg MLCAPE and steep low- and mid-level lapse rates. Regional VAD profiles confirm the main limiting factor with these storms will be lack of deep layer shear. Forecast soundings also depict mediocre effective shear downstream of 15-20 kts. Given the expected multicellular mode and fairly large temperature-dewpoint spreads at the surface, the main threat will be damaging wind gusts driven by cold pool generation. Several CAMs depict upscale growth into the early evening with what is currently developing in western South Dakota. While storm mode will not favor severe hail, mid-level lapse rates of around 8 C/km will mean a few larger stones may develop should a stronger cell occur within the cluster. The main uncertainty with this activity is how organized any MCS that forms will be. Storm coverage may be relatively high given the mid-level ascent, but the expected limited organization of threat limits confidence in the need for a WW."
+    },
+    {
+      "year": 2019,
+      "number": 915,
+      "issue_utc": "2019-05-31T22:28Z",
+      "topic": "Severe Thunderstorm Watch 301",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0915.html",
+      "summary": "Several supercells continue through the evening with a primary threat of large hail (some very large).",
+      "discussion": "Several supercells have developed in Pecos, Brewster, and Jeff Davis counties in an environment with 1500 to 2500 J/kg of MLCAPE and around 50 knots of effective shear. MRMS MESH has indicated hail as large as 1.5 to 1.75\" thus far and larger hail is possible as these supercells mature further and drift eastward into an increasingly unstable environment. Cyclonic curvature in the lowest 3km would support an isolated tornado threat, especially given the discrete supercellular storm mode, however, speed shear and overall wind speeds are quite weak which is a limiting factor to a greater tornado threat. In addition, other storms have developed south of the Rio Grande. These storms will mostly stay south of the river, but long, straight hodographs in the mid to upper levels will continue to support splitting supercells which may cause additional left splits to move northward through Presido and Brewster counties similar to the left mover currently in eastern Presido county which is moving almost due north. ..Bentley.. 05/31/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 916,
+      "issue_utc": "2019-05-31T23:22Z",
+      "topic": "Severe Thunderstorm Watch 300",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0916.html",
+      "summary": "Severe threat continues across central and eastern portions of ww300.",
+      "discussion": "Widespread convection has developed ahead of Appalachians mid-level trough. Multiple storm mergers and outflow interactions should continue to support a larger complex of storms within favorable zone of large-scale forcing for ascent. Several robust updrafts are likely producing hail at least 1\" while the most favorable buoyancy for severe hail appears to be shifting into the eastern Carolinas. It appears this activity will linger across eastern portions of ww300 for the next several hours before instability is sufficiently overturned which will lead to weakening storms. ..Darrow.. 05/31/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 917,
+      "issue_utc": "2019-06-01T01:53Z",
+      "topic": "Severe Thunderstorm Watch 301",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0917.html",
+      "summary": "Several left and right moving supercells continue in severe thunderstorm watch 301 with a primary threat of large hail. A local extension of the watch may be needed in Loving and Ward counties to cover the threat from a supercell moving northward through Reeves county.",
+      "discussion": "Numerous storm splits has led to a wide variety of cyclonic and anti-cyclonic supercells across much of watch 301. Given the high theta-e airmass across this region, expect at least a few storms to persist after sunset. Therefore, local extensions of the watch in time may be needed where the stronger storms persist after 03Z. In addition, a strongly rotating supercell in Reeves county, TX is moving northward to near the current edge of the severe thunderstorm watch. While this storm has exhibited some weakening in the past 30 minutes based on MRMS MESH and 9km CAPPI, velocity data from KMAF suggests the storm is still strongly rotating with an over 40 knot VRot at 9kft. The strong dynamic pressure perturbations from this rotating updraft and an unstable airmass downstream of this storm may allow it to persist northeast of the current watch. Therefore, a local extension of the watch may be needed into at least Loving and Ward counties."
+    },
+    {
+      "year": 2019,
+      "number": 918,
+      "issue_utc": "2019-06-01T01:55Z",
+      "topic": "Severe Thunderstorm Watch 300",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0918.html",
+      "summary": "Severe threat will progress across the eastern part of ww300 over the next 2 hours.",
+      "discussion": "Quasi-linear bowing line segment has evolved from southeast VA into coastal SC. This band of convection appears to be the back edge of organized severe and is moving east at roughly 35kt. Given this speed/movement, severe threat should move off the NC Coast by 04z. ..Darrow.. 06/01/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "convective_day": "2020-04-20",
+  "valid_start": "2020-04-20T12:00Z",
+  "valid_end": "2020-04-21T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-04-20",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-04-20T12:00Z",
+      "valid_end": "2020-04-21T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200420_1200.html",
+      "summary": "Severe thunderstorms associated with wind damage and a tornado threat are expected for a few hours this morning mainly over the eastern Carolinas and southeast Georgia.",
+      "sections": [
+        {
+          "title": "Eastern Seaboard/Florida Peninsula",
+          "text": "An upper-level trough will move quickly eastward from the Southeast into the Carolinas today. A cold front associated with the trough will move eastward across the coastal plains of Georgia and the Carolinas this morning. Convection will be ongoing along and ahead of the front at the start of the period. A moist airmass ahead of the front is forecast to be in place along the coast with surface dewpoints near 70 F in southeast Georgia and the mid to upper 60s F across eastern South Carolina. Moderate instability will likely be confined to the immediate coastal areas. A 60 to 70 kt low-level jet will be located just off the coast of Georgia and South Carolina. This feature combined with a 80 to 90 kt mid-level speed max will create very strong deep-layer shear, favorable for organized severe line segments. Widespread damaging wind gusts will be likely as a linear MCS moves toward the coastal areas during the morning. The threat should quickly end as the line moves offshore late this morning. Further south, strong thunderstorms may occur along the front across the northern and central Florida Peninsula this morning and afternoon. Although moderate instability and strong deep-layer she"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 419,
+      "issue_utc": "2020-04-20T12:18Z",
+      "topic": "Severe Thunderstorm Watch 127",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0419.html",
+      "summary": "An intense line of storms will move inland across portions of the northern/central Florida peninsula over the next couple of hours. Damaging wind gusts will be the main threat, but hail and possibly a tornado can not be ruled out.",
+      "discussion": "An intense line of thunderstorms just offshore the Levy County coast will move inland across the north-central FL Peninsula over the next couple of hours. These storms have displayed sustained, strong midlevel rotation while over the Gulf while occasionally displaying bowing reflectivity structures. As these storms spread inland, the will pose a threat for damaging wind gusts. Furthermore, the 12z TBW and MFL RAOB show steep midlevel lapse rates, while 12z mesoanalysis also indicates a plume of steep lapse rates extending across central FL. In conjunction with strong vertical shear and MLCAPE values around 2000 J/kg, more intense cells could produce hail. Low-level winds remain veered, but 0-1 km SRH per the TBW VWP exceeds 250 m2/s2, and a tornado can not be ruled out. ..Leitman.. 04/20/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 420,
+      "issue_utc": "2020-04-20T15:06Z",
+      "topic": "Severe Thunderstorm Watch 127",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0420.html",
+      "summary": "Damaging winds and perhaps a tornado will remain possible across parts of central Florida for at least the next couple of hours.",
+      "discussion": "A broken line of storms ahead of a cold front will continue moving southeastward across the central FL peninsula this morning into the early afternoon. Diurnal heating and ample low-level moisture are contributing to around 2000-2500 J/kg MLCAPE. Recent VWPs estimates from KTBW and area surface observations indicate low-level flow has generally veered to southwesterly, which is reducing 0-1 km SRH. Still, there appears to be enough veering of the low to mid-level wind profile and strong deep-layer shear to support occasional rotation with cells embedded within the line. Accordingly, a brief tornado cannot be ruled out. Damaging winds will likely continue to be the primary threat as steepening low-level lapse rates should support efficient mixing of strong/gusty downdraft winds to the surface. Both the low and mid-level flow are expected to gradually weaken through the afternoon as a shortwave trough currently over the East Coast pivots northeastward and away from the FL Peninsula. This should result in a gradually diminishing severe threat later this afternoon. ..Gleason.. 04/20/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 421,
+      "issue_utc": "2020-04-20T18:00Z",
+      "topic": "Severe Thunderstorm Watch 127",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0421.html",
+      "summary": "An isolated strong to locally damaging wind threat continues. The severe risk should gradually diminish this afternoon. An additional downstream watch is not expected.",
+      "discussion": "Supercells that developed earlier along the FL Space Coast have moved offshore, with a trailing broken line of storms continuing to move east-southeastward around 30-40 kt across the central FL Peninsula. Although the airmass downstream of this ongoing convection remains quite unstable (MLCAPE 2000-2500 J/kg) and deep-layer is strong, the large-scale forcing over this region is becoming increasingly marginal. Low-level winds have also veered to southwesterly, limiting hodograph curvature. Therefore, the primary threat for the next hour or so remains isolated strong to damaging wind gusts, with a lower threat for a tornado than earlier. Current expectations are for low/mid-level winds to gradually diminish through the rest of the afternoon, with a gradual reduction in storm organization and intensity. A downstream watch into south FL is not currently anticipated. ..Gleason.. 04/20/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 422,
+      "issue_utc": "2020-04-20T19:20Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0422.html",
+      "summary": "Isolated large hail and strong/gusty winds may occur with developing thunderstorms this afternoon. Watch issuance is possible.",
+      "discussion": "Mid-level cloudiness associated with a subtle shortwave trough is developing southward across central/southern MO this afternoon, with a storm recently forming over Webster County. Low-level moisture remains quite limited over this region, with surface dewpoints generally in the mid 40s to low 50s. Still, cold temperatures aloft combined with modest diurnal heating are supporting up to 500 J/kg of MLCAPE. Modest additional heating and steepening of mid-level lapse rates may allow MLCAPE up to 1000 J/kg to develop by late afternoon. Recent VWPs from KSGF show weak low-level winds, but some strengthening does occur in the 2-5 km AGL layer. Long, straight hodographs and 35-40 kt of effective bulk shear from various RAP forecast soundings across southern MO indicate potential for storm organization, perhaps including a couple high-based supercells. Isolated large hail should be the main threat with any storms that can form, although strong/gusty winds also appear possible where low-level lapse rates have steepened through daytime heating. At this point, the primary uncertainty regarding possible watch issuance appears to be overall storm coverage, which may tend to be somewhat isolated. Radar trends will continue to be monitored through the afternoon."
+    },
+    {
+      "year": 2020,
+      "number": 423,
+      "issue_utc": "2020-04-20T20:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0423.html",
+      "summary": "Isolated strong/gusty winds and hail appear possible through the afternoon. Severe storm coverage and intensity should remain too isolated/marginal for watch issuance.",
+      "discussion": "Several thunderstorms have recently developed with weak low-level convergence occurring along a surface trough extending from the TX/OK Panhandles eastward into parts of northern/central OK and far southeastern KS. Large-scale ascent over these areas is forecast to remain rather nebulous, with modest northwesterly flow aloft persisting through the early evening. Weak instability and limited shear should generally temper updraft organization. However, the boundary layer has become well mixed along/south of the surface trough. Accordingly, isolated instances of strong/gusty downdraft winds and marginally severe hail may occur through the early evening as storms develop slowly southward. A slightly better chance for marginally severe storms may exist over parts of northern/central OK in somewhat closer proximity to a shortwave trough over MO. Regardless, both storm coverage and intensity are expected to remain too isolated/marginal for watch issuance this afternoon."
+    }
+  ]
+}

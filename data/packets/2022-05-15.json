@@ -1,0 +1,279 @@
+{
+  "convective_day": "2022-05-15",
+  "valid_start": "2022-05-15T12:00Z",
+  "valid_end": "2022-05-16T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 5
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2022-05-15",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-05-15T12:00Z",
+      "valid_end": "2022-05-16T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220515_1200.html",
+      "summary": "Severe thunderstorms are expected across parts of the central and southern Plains into the Mid-Mississippi Valley and lower Ohio Valley today. Scattered damaging wind gusts and large hail will be the primary threats, with the greatest risk expected from northeast Oklahoma and southeast Kansas into the Ozarks. Isolated strong to severe storms capable of gusty winds and perhaps large hail are also possible in parts of the Northwest.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A midlevel shortwave trough will move from the central Plains southeastward through the mid MS Valley during the day today, and eventually into the lower Great Lakes late tonight. A weak surface low will persist over OK into the evening, as a cold front moves southward through the central Plains, Ozark Plateau, and Midwest. Further west, a midlevel shortwave trough will move from the interior Northwest toward the Northern Rockies."
+        },
+        {
+          "title": "Central/southern Plains into the Ozark Plateau",
+          "text": "A substantial severe threat may evolve across parts of eastern KS/OK into the Ozark Plateau, though considerable uncertainty remains regarding the evolution of early-day convection as it spreads southeastward through the day. Convection will likely be ongoing at the start of the period this morning across northern KS into far southern NE. Hail and perhaps strong wind gusts will be possible with this initial activity. This convection may evolve into an MCS that will move southeastward in conjunction with the approaching shortwave trough and associated the cold front. Steep low/midlevel lapse rates and moderate-to-strong buoyancy will favor intensification of ongoing convection into the afternoon, along with the potential for somewhat more discrete development further west along the cold front into a larger portion of central/eastern OK. Deep-layer shear will be more than sufficient for organized storm structures as northwesterly midlevel flow increases through the day. Any well-organized MCS that can evolve and move through the warm sector from the late morning into the afternoon could produce a swath of damaging wind gusts, given the very favorable thermodynamic profiles in place. "
+        },
+        {
+          "title": "Mid MS Valley into the OH Valley",
+          "text": "The potential for early-day MCS development to the west leads to some uncertainty regarding the severe threat across portions of the mid MS Valley into the OH Valley during the afternoon and evening. However, moderate buoyancy along/ahead of the cold front and increasing deep-layer shear will support strong thunderstorm development from eastern MO into southern IL during the afternoon, potentially spreading eastward toward the OH Valley by evening. Large hail and locally damaging wind gusts are expected to be the primary threats in this area."
+        },
+        {
+          "title": "Northwest",
+          "text": "In advance of the approaching shortwave trough, convection is expected to develop late this afternoon across parts of southeast WA and northeast OR. Buoyancy is expected to be modest at best (MLCAPE generally 500 J/kg or less), but effective shear of 40-50 kt will support a couple of organized clusters and/or supercells which could pose an isolated severe wind/hail risk. Some severe threat will spread into portions of ID and perhaps western MT before a general weakening trend later tonight."
+        },
+        {
+          "title": "Northeast/Mid Atlantic",
+          "text": "Diurnal heating of a relatively moist environment will promote scattered thunderstorms, especially across the higher terrain. Weak shear and modest mid-level lapse rates will limit storm intensity, but a few stronger wind gusts and marginally severe hail may occur. ..Dean/Bentley.. 05/15/2022"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-05-15",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-05-15T13:00Z",
+      "valid_end": "2022-05-16T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220515_1300.html",
+      "summary": "Scattered to numerous severe storms with very large hail and swaths of wind damage are expected from mid morning through this evening from eastern Kansas and western/southern Missouri into Oklahoma and Arkansas. Other isolated severe storms will be possible later this afternoon across the interior Pacific Northwest.",
+      "sections": [
+        {
+          "title": "Eastern KS/OK to MO/AR through late evening",
+          "text": "Elevated convection is ongoing this morning across northeast KS, in advance of a midlevel shortwave trough moving east-southeastward over western/central NE. The convection will be maintained in a zone of ascent preceding the midlevel trough, and will likely intensify this morning while encountering increasing low-level moisture/buoyancy across eastern KS and western MO. Strengthening deep-layer, west-northwesterly shear (effective bulk shear in excess of 45 kt), midlevel lapse rates near 8 C/km, and MLCAPE increasing to near 3000 J/kg by midday will favor clusters/embedded supercells capable of producing very large hail up to 2.75 inches in diameter. Upscale growth into a larger cluster or two appears probable through the afternoon across southwest MO, southeast KS, and northeast OK, with an increasing threat for swaths of damaging winds of 60-75 mph. A deep mixed layer and relatively weak convective inhibition suggest that the storms could develop at least as far southwest as the I-35 corridor in central OK by this evening, where thermodynamic profiles will favor damaging outflow winds. The richer moisture/larger buoyancy suggest the eastern extent of the stronger/sustained MCS w"
+        },
+        {
+          "title": "OH Valley into PA/western NY this afternoon",
+          "text": "A weak midlevel trough/vorticity lobe will move eastward from the upper OH Valley across WV/PA/NY today. A diffuse surface trough is expected from central NY southward in the lee of the Appalachians. These features could help focus scattered thunderstorm development by midday into this afternoon, and a few of the storms could produce strong outflow winds and minor damage, along with marginally severe hail in an environment characterized by weak vertical shear and moderate buoyancy (MLCAPE of 1000-1500 J/kg). It appears there will be a relative gap in any severe threat across far western NY/PA and eastern OH, to the west of the weak shortwave trough. Additional convection will form farther west toward the lower OH Valley into southeast Lower MI later this afternoon in advance of the stronger shortwave trough (now over NE) and an associated surface cold front. The stronger vertical shear will remain farther to the west during the day, with the larger buoyancy farther southwest. However, the strongest storms will be capable of producing at least isolated wind damage and marginally severe hail, and some low-end severe threat may persist into the OH Valley as the convection spreads east"
+        },
+        {
+          "title": "Interior Pacific Northwest/northern Rockies this afternoon",
+          "text": "A compact shortwave trough now off the OR coast will move east-northeastward over OR/WA and the ID Panhandle by this evening. Boundary-layer dewpoints in the upper 40s to lower 50s, daytime heating in cloud breaks, and increasing ascent with the approaching shortwave trough/front will support thunderstorm development this afternoon across northeast OR. Though buoyancy will not be particularly large (MLCAPE of 500-750 J/kg), strengthening wind profiles/deep-layer shear will support the potential for organized convection, including isolated supercells and/or short line segments with an attendant threat for large hail, damaging winds, and perhaps an isolated tornado. ..Thompson/Leitman.. 05/15/2022"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-05-15",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-05-15T16:30Z",
+      "valid_end": "2022-05-16T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220515_1630.html",
+      "summary": "Scattered to numerous severe storms with swaths of wind damage, very large hail, and a couple brief tornadoes are expected into this evening across southeast Kansas, southern Missouri, eastern Oklahoma and Arkansas. Other isolated severe storms will be possible later this afternoon across the interior Pacific Northwest.",
+      "sections": [
+        {
+          "title": "Ozark Plateau to the Lower OH/MS/Red River Valleys",
+          "text": "Several clusters are ongoing across eastern KS and western MO, with the leading cluster in west-central to southwest MO having a reported history of sporadic wind and hail. With pronounced boundary-layer heating occurring downstream, further intensification is expected to the east-southeast as an MCV shifts towards the confluence of the MS/OH rivers. Damaging winds and a brief tornado or two will be the primary hazard in this regime. Farther south and southwest, low 70s surface dew points beneath the eastern plume of a stout elevated mixed layer over OK/TX, should yield a very unstable air mass with MLCAPE of 3000-4000 J/kg by mid-afternoon. Both warm-advection driven activity south of the MCV track, as well as regenerative development along and behind the trailing outflow will support supercells embedded within emerging south-southeast tracking clusters. Most guidance has become better aligned in suggesting multiple bowing segments within the broader northwest flow regime across eastern OK/western AR towards the Lower Red River Valley mainly during the late afternoon and early evening. Overall setup should support scattered swaths of golfball to baseball size hail in semi-discrete"
+        },
+        {
+          "title": "Interior Pacific Northwest/northern Rockies",
+          "text": "A compact shortwave trough now off the OR/WA coast will move northeast into southern British Columbia by evening. Heating of boundary-layer dewpoints from the upper 40s to lower 50s and increasing ascent with the approaching shortwave trough/front will support scattered thunderstorm development this afternoon across northeast OR. Though buoyancy will be weak with MLCAPE of 500-750 J/kg, strengthening wind profiles/deep-layer shear will support the potential for organized convection, including a few supercells and/or short line segments with an attendant threat for large hail, damaging winds, and perhaps a tornado. Convection should eventually weaken in the ID Panhandle vicinity later this evening."
+        },
+        {
+          "title": "Mid-Atlantic/Northeast",
+          "text": "A diffuse surface trough should remain anchored from central NY southward in the lee of the Appalachians. This should help focus scattered thunderstorm development this afternoon, and a few of the storms could produce strong outflow winds and minor damage, along with marginally severe hail in an environment characterized by weak vertical shear and modest buoyancy with MLCAPE of 500-1500 J/kg."
+        },
+        {
+          "title": "Eastern FL Peninsula",
+          "text": "Downstream of a low-amplitude upper trough in the eastern Gulf, adequate vertical deep-layer shear will exist for a threat of marginally severe hail and localized damaging winds amid isolated to scattered thunderstorms this afternoon. ..Grams/Wendt.. 05/15/2022"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-05-15",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-05-15T21:30Z",
+      "valid_end": "2022-05-16T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220515_2000.html",
+      "summary": "Scattered to numerous severe storms with swaths of wind damage, very large hail, and a couple brief tornadoes remain possible through evening from easern Oklahoma into Arkansas. Other isolated severe storms will be possible later this afternoon across the interior Pacific Northwest. A primary cluster of storms continues to develop south across AR, with damaging winds and hail likely. Other cells with hail persist north of the outflow across southeast KS. Probabilities have been reduced in the wake of this activity across MO. Elsewhere, storms are forming along the front in IL, with a plume of instability to the east. Other cells may rejuvenate across southeast MO where outflow is enhanced. See mesoscale discussion 769. To the west, heating continues over OK, with a reservoir of strong instability across eastern OK. Midday soundings as well as objective analysis indicate MLCAPE in excess of 3000 J/kg with steep lapse rates aloft. This will clearly favor vigorous convection developing along the outflow boundary and ahead of the dryline now into central OK. It is unclear whether storms will affect the OKC area given the drying, but an unstable air mass remains with hot temperatures an",
+      "sections": [
+        {
+          "title": "Ozark Plateau to the Lower OH/MS/Red River Valleys",
+          "text": "Several clusters are ongoing across eastern KS and western MO, with the leading cluster in west-central to southwest MO having a reported history of sporadic wind and hail. With pronounced boundary-layer heating occurring downstream, further intensification is expected to the east-southeast as an MCV shifts towards the confluence of the MS/OH rivers. Damaging winds and a brief tornado or two will be the primary hazard in this regime. Farther south and southwest, low 70s surface dew points beneath the eastern plume of a stout elevated mixed layer over OK/TX, should yield a very unstable air mass with MLCAPE of 3000-4000 J/kg by mid-afternoon. Both warm-advection driven activity south of the MCV track, as well as regenerative development along and behind the trailing outflow will support supercells embedded within emerging south-southeast tracking clusters. Most guidance has become better aligned in suggesting multiple bowing segments within the broader northwest flow regime across eastern OK/western AR towards the Lower Red River Valley mainly during the late afternoon and early evening. Overall setup should support scattered swaths of golfball to baseball size hail in semi-discrete"
+        },
+        {
+          "title": "Interior Pacific Northwest/northern Rockies",
+          "text": "A compact shortwave trough now off the OR/WA coast will move northeast into southern British Columbia by evening. Heating of boundary-layer dewpoints from the upper 40s to lower 50s and increasing ascent with the approaching shortwave trough/front will support scattered thunderstorm development this afternoon across northeast OR. Though buoyancy will be weak with MLCAPE of 500-750 J/kg, strengthening wind profiles/deep-layer shear will support the potential for organized convection, including a few supercells and/or short line segments with an attendant threat for large hail, damaging winds, and perhaps a tornado. Convection should eventually weaken in the ID Panhandle vicinity later this evening."
+        },
+        {
+          "title": "Mid-Atlantic/Northeast",
+          "text": "A diffuse surface trough should remain anchored from central NY southward in the lee of the Appalachians. This should help focus scattered thunderstorm development this afternoon, and a few of the storms could produce strong outflow winds and minor damage, along with marginally severe hail in an environment characterized by weak vertical shear and modest buoyancy with MLCAPE of 500-1500 J/kg."
+        },
+        {
+          "title": "Eastern FL Peninsula",
+          "text": "Downstream of a low-amplitude upper trough in the eastern Gulf, adequate vertical deep-layer shear will exist for a threat of marginally severe hail and localized damaging winds amid isolated to scattered thunderstorms this afternoon."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-05-16",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-05-16T01:00Z",
+      "valid_end": "2022-05-16T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220516_0100.html",
+      "summary": "Scattered to numerous severe storms with swaths of wind damage, very large hail, and a couple brief tornadoes remain possible through late evening across southeast Oklahoma into western Arkansas and north/northeast Texas. More isolated strong to severe storms remain possible this evening across the interior Pacific Northwest.",
+      "sections": [
+        {
+          "title": "Southeast Oklahoma into northeast Texas",
+          "text": "A cluster of supercells have started to congeal across southern Oklahoma. These supercells have a history of producing very large hail, but may be transitioning into a greater severe wind threat as they move into north Texas this evening. These storms may persist into the overnight hours as the airmass ahead of them remains very unstable and moderately sheared per 00Z KFWD RAOB. Please see MCD 778 for additional details."
+        },
+        {
+          "title": "Ohio Valley",
+          "text": "A few strong to marginally severe storms may persist through the overnight hours across the Ohio Valley ahead of a cold front."
+        },
+        {
+          "title": "Lower Mississippi Valley",
+          "text": "A line of storms will continue southeast across Mississippi this evening. These storms will have the potential to be severe for another hour or two before the threat wanes by the late evening as inhibition increases and storms outrun the better deep-layer shear. ..Bentley.. 05/16/2022"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2022,
+      "number": 765,
+      "issue_utc": "2022-05-15T13:30Z",
+      "topic": "Severe Thunderstorm Watch 216",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0765.html",
+      "summary": "The ongoing line is expected to persist, with a continued threat for strong wind gusts and hail. A downstream watch will be needed to address the continued severe potential.",
+      "discussion": "An organized convective line is currently moving southeastward across eastern KS. The northern portion of this line near Kansas City is more progressive, with recent storm estimates around 50 kt. The southern portion close to Wichita is progressive, but less so than areas farther north, with recent storm motion estimated around 30 kt. At its current speed, the northern portion of the line will likely reach the edge of Severe Thunderstorm Watch 216 around 14Z. Recent VAD data from TWX and ICT sampled 70-80 kt winds around 7 to 8 kft, evidence that the bow is well-organized. The downstream air mass still has some low-level stability, but this should begin to mix out quickly under strong heating. Recent observation at SGF sampled 70/64. Modifying the 12Z SGF sounding with this data expectedly yields more buoyancy and less convective inhibition. Additionally, recent KEAX radar data showed the leading edge of the line becoming closer to the leading outflow with time, indicative of a gradually more favorable low-level environment. All of these factors suggest the ongoing bow will persist downstream and a new watch will be needed for the potential threat from strong wind gusts and hail."
+    },
+    {
+      "year": 2022,
+      "number": 766,
+      "issue_utc": "2022-05-15T16:18Z",
+      "topic": "Severe Thunderstorm Watch 217",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0766.html",
+      "summary": "Threat for damaging wind gusts continues across southern MO, with the the threat expected to persist into northern and central AR. A downstream watch will be needed to cover this additional severe potential.",
+      "discussion": "Central portion of the ongoing convective line (currently near Springfield MO) continues to move southeastward, with recent storm motion estimated around 45 kt. Updrafts remain strong within this portion of the line, but low-level wind signatures have diminished over the past hour or so. Even so, damaging wind gusts remain possible within the line, particularly as the air mass continues to destabilize. The downstream air mass has destabilized with temperatures now in the 80 and dewpoints in the low 70s. Recent mesoanalysis estimates MLCAPE from 2000 to 3000 J/kg across northern and central AR with little convective inhibition, if any, remaining (as evidenced by the ongoing storms near RUE). General expectation is for the ongoing line to continue southeastward into this more unstable environment. Some intensification of this line is possible, with damaging wind gusts as the primary severe threat. Given this continued severe risk, a downstream watch will likely be needed for portions of northern and central AR."
+    },
+    {
+      "year": 2022,
+      "number": 767,
+      "issue_utc": "2022-05-15T17:46Z",
+      "topic": "Severe Thunderstorm Watch 217",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0767.html",
+      "summary": "A corridor of greater wind damage potential may develop within the next hour or so from northwest into central AR.",
+      "discussion": "A convective line continues to move southeast into northwest AR while recent development has occurred ahead of this line into central AR. This new development is evidence that the air mass continues to destabilize across AR and is now likely free of convective inhibition. Additionally, the northwest-to-southeast oriented line of new development could be a favored corridor for strengthening of the ongoing line, with a higher potential for damaging wind gusts. ..Mosier.. 05/15/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 768,
+      "issue_utc": "2022-05-15T18:47Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0768.html",
+      "summary": "Small to marginally severe hail and isolated wind damage will be possible this afternoon. No watch is expected.",
+      "discussion": "A cluster of storms has developed along the sea breeze boundary in east-central Florida. Modest cyclonic flow aloft over the Gulf has contributed to 20-30 kts of effective shear in central/southern Florida. 12Z observed soundings across the state sampled around -10C temperatures at 500 mb. A couple of marginal supercell structures were apparent on KMLB radar/velocity imagery within the last hour. As those cells continue to form along the slowly westward-propagating sea breeze boundary, the environment will likely support small to marginally severe hail as well as isolated wind damage."
+    },
+    {
+      "year": 2022,
+      "number": 769,
+      "issue_utc": "2022-05-15T19:03Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0769.html",
+      "summary": "Increasing thunderstorm coverage is anticipated this afternoon. Some storms could produce hail and/or damaging wind gusts and trends will be monitored for possible watch issuance.",
+      "discussion": "Regional radar imagery shows a few deeper convective cores along the front in central IL. Additional storm development is anticipated throughout the afternoon as the front continues to gradually shift southeastward and the air mass further destabilizes. The strongest buoyancy is anticipated across far southwest MO and adjacent southern IL, where the low-level moisture is highest, with a trend towards less buoyancy with northeastward extent. The lack of stronger vertical shear will likely prevent storm organization, favoring a predominantly multicellular storm mode. Even so, strong updrafts capable of hail and/or damaging downbursts are possible, and trends will be monitored for possible watch issuance."
+    },
+    {
+      "year": 2022,
+      "number": 770,
+      "issue_utc": "2022-05-15T19:05Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0770.html",
+      "summary": "A few strong to locally severe storms are possible within a weak surface trough this afternoon. Isolated wind damage and hail up to 1 inch may occur. No watch is expected.",
+      "discussion": "Surface heating of a modestly moist (low/mid 60s F dewpoints) airmass east of the Blue Ridge has slowly destabilized the region. Convection within a weak surface trough has steadily deepened throughout the day, with a stronger storm in south-central Pennsylvania. As heating continues this afternoon, a few storms may increase in intensity. Isolated wind damage and marginally severe hail are possible within the most intense cores. Mid-level lapse rates are not very steep as observed by the 12Z IAD/PIT soundings. Furthermore, the region is within a low-amplitude ridge aloft and deep layer shear is quite weak as a result. Severe-caliber storms should remain isolated and brief."
+    },
+    {
+      "year": 2022,
+      "number": 771,
+      "issue_utc": "2022-05-15T19:41Z",
+      "topic": "Severe Thunderstorm Watch 217",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0771.html",
+      "summary": "Threat for hail and/or damaging wind gusts will continue across AR. Trends are being monitored for possible downstream watch issuance.",
+      "discussion": "A large cluster of thunderstorms persists across northern AR. Southwestern portion of this cluster continues to move southward, although some western component has been noted in recent trends. Air mass in the vicinity and downstream of this portion of the cluster is very unstable, with mesoanalysis estimating MLCAPE over 3000 J/kg. SRX VAD shows a weakly sheared air mass, with storm motion dominant by forward-propagation. Expectation is for this cluster to continue southward/south-southwestward for the next few hours, with a continued risk for hail and/or damaging wind gusts. Trends with storm motion will be monitored closely and a downstream watch maybe needed across west-central/southern AR if trends merit."
+    },
+    {
+      "year": 2022,
+      "number": 772,
+      "issue_utc": "2022-05-15T19:57Z",
+      "topic": "Severe Thunderstorm Watch 217",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0772.html",
+      "summary": "Additional thunderstorm development may occur across north-central and northeast OK. Some storms could produce strong wind gusts and/or hail, and trends are being monitored for additional watch issuance.",
+      "discussion": "Visible satellite imagery depicts a well-defined outflow boundary extending from near END eastward through TQH. Convection has recently deepened over Adair County OK with deepening cumulus noted west into Creek and Tulsa Counties as well. Low to mid-level temperatures are quite warm across the region, as sampled by the 18Z OUN sounding. However, continued heating and modest convergence along this outflow could reduce convective inhibition enough to foster additional thunderstorm development. With a strongly unstable air mass in place, any storms that do develop should have robust updrafts capable of damaging wind gusts and isolated hail. While there is some question regarding storm coverage, trends are being monitored for additional watch issuance across north-central and northeast OK. ..Mosier.. 05/15/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 773,
+      "issue_utc": "2022-05-15T20:28Z",
+      "topic": "Severe Thunderstorm Watch 218",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0773.html",
+      "summary": "Damaging wind gusts and/or isolated hail remain possible across Severe Thunderstorm Watch 218. A downstream watch may be needed if trends continue.",
+      "discussion": "Recent radar trends with the ongoing cluster across northern AR have shown a bit more easterly motion with northeastern portion of the cluster. Overall updraft strength has waned a bit compared to earlier, but the downstream air mass remains very unstable with mesoanalysis estimating MLCAPE over 3000 J/kg. This strong instability remains supportive of robust updrafts capable of damaging wind gusts and/or isolated hail. A few isolated storms have also developed ahead of the current line near the AR/TN border. As previously noted, strong instability is present, supporting strong updrafts capable of isolated hail and/or damaging wind gusts. Current estimated storm motion around 35 kt takes the line to the edge of Severe Thunderstorm Watch 218 between 21 and 22Z. A downstream watch may be needed over portions of northeastern AR, far western TN, and far northwest MS if overall convective trends continue. ..Mosier.. 05/15/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 774,
+      "issue_utc": "2022-05-15T20:49Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0774.html",
+      "summary": "Storms are expected to initiate in the next few hours. Some supercell structures are possible with a threat for damaging winds and large hail. A low-end tornado threat is also apparent. Trends will be monitored for a possible watch.",
+      "discussion": "Large-scale ascent continues to increase within the Northwest as an upper-level trough pivots into British Columbia. Visible satellite shows cumulus developing and deepening along and east of the Oregon Cascades. Moisture remains limited across the region with low 40s F in southern Oregon and 50s F into Washington where cloud cover has been more prevalent. As such, buoyancy is also limited. Continued heating this afternoon, however, is expected to increase MLCAPE to around 500 J/kg. Given the forcing, several storms are anticipated to form in the next 2-4 hours. Effective shear of 40-50 kts should favor some supercell structures. Boundary-layer lapse rates and dewpoint spreads will promote a risk for damaging winds. Cold temperatures aloft and sufficient storm organization will mean large hail may occur as well. The KPDT VWP shows a moderate amount of low-level veering. While the high-based nature of the storms and limited buoyancy will keep the the tornado threat low, a brief one is possible with stronger/persistent storms. Trends will be monitored for a possible watch."
+    },
+    {
+      "year": 2022,
+      "number": 775,
+      "issue_utc": "2022-05-15T22:09Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0775.html",
+      "summary": "The risk for 50-65 mph gusts resulting in wind damaging will likely spread southeast of the severe thunderstorm watches #220 and 222 into parts of northwest MS prior to 7pm and potentially into central MS later this evening.",
+      "discussion": "Radar mosaic shows an MCS over central and eastern AR moving southeast at 40 kt. Surface conditions ahead of the squall line are very warm and humid with upper 80s and near 70 deg F dewpoints. A very unstable air mass is objectively analyzed (3500 J/kg SBCAPE) and adequate deep-layer shear will support a continuation of storm maintenance and organization. Given some of the favorable environmental factors over northwest into central MS this evening, it seems a risk for strong to severe gusts will likely move into the region early this evening. Eventually, the severe risk will wane by late this evening as this activity moves south of I-20."
+    },
+    {
+      "year": 2022,
+      "number": 776,
+      "issue_utc": "2022-05-15T22:46Z",
+      "topic": "Severe Thunderstorm Watch 221",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0776.html",
+      "summary": "Storms moving southward across east-central OK will pose a threat for isolated very large hail through 00Z. One or more clusters may develop with time, which would pose an increased damaging wind risk.",
+      "discussion": "Multiple discrete supercells have developed along a southward-moving outflow boundary near the I-40 corridor of eastern OK. The thermodynamic environment is quite favorable for hail, with steep midlevel lapse rates and strong buoyancy noted on 18Z OUN/LZK soundings and recent objective mesoanalyses. 2.5\" diameter hail was recently reported in Okfuskee County, and very large hail will continue to be possible with any sustained discrete cells into the evening. Deep-layer shear will remain sufficient for supercells, and a tornado or two cannot be ruled out, as long as cells remain rooted near the outflow boundary. Locally severe wind gusts will also be possible with these supercells. With time, additional development is possible within a growing cumulus field to the southwest that extends into Garvin County. Some upscale growth is possible with time due to storm mergers and consolidating outflows, which could potentially pose an increasing severe-wind risk as convection spreads into south-central/southeast OK. ..Dean.. 05/15/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 777,
+      "issue_utc": "2022-05-15T23:23Z",
+      "topic": "Severe Thunderstorm Watch 222",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0777.html",
+      "summary": "An isolated risk for strong to locally severe gusts and perhaps large hail may move east of severe thunderstorm watch #222 within the next 1-2 hours. A local extension in area to the existing watch could be used to address any severe risk that may develop east of the watch.",
+      "discussion": "Radar mosaic shows a broken squall line/cluster of storms over western TN on the southern periphery of a mid-level shortwave trough moving east-southeast across parts of the Midwest. Temperatures early this evening are in the mid-upper 80s with dewpoints in the mid-upper 60s. The Columbus, MS (KGWX) VAD shows relatively weak northwesterlies which will act to continue a southeast storm motion but limit the potential for storm organization. It seems like the stronger storm east-northeast of Memphis will not exit the eastern bound of the watch until after 700-730pm. Given the a gradual lessening in storm intensity expected with diurnal heat loss, is seems only a localized risk for strong to severe storms will include the areas up to 50-75 mi east of severe thunderstorm watch #222."
+    },
+    {
+      "year": 2022,
+      "number": 778,
+      "issue_utc": "2022-05-16T00:15Z",
+      "topic": "Severe Thunderstorm Watch 221",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0778.html",
+      "summary": "Ongoing supercells will continue to pose a threat of very large hail, with a damaging wind threat potentially increasing across southeast OK and spreading into north TX. New watch issuance is likely into north TX.",
+      "discussion": "Multiple cell mergers have occurred with the supercell that earlier produced giant hail across east-central OK, with additional development noted southwestward into south-central OK. Strong instability (MLCAPE > 3000 J/kg) and effective shear of 40+ kt will continue to support organized storms, and very large hail will remain possible this evening with any sustained discrete supercells. Severe wind gusts will also be possible, with a 68 mph gust recently noted at a OK Mesonet site in Hughes County. Ongoing cell mergers may result in an upscale growing cluster, which will likely move southward into parts of north TX, with a continued hail and damaging wind threat through this evening. Watch issuance is likely downstream into parts of north TX in order to cover this threat."
+    },
+    {
+      "year": 2022,
+      "number": 779,
+      "issue_utc": "2022-05-16T02:50Z",
+      "topic": "Severe Thunderstorm Watch 224",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0779.html",
+      "summary": "Hail and one or more swaths of severe wind gusts may accompany an intense thunderstorm cluster as it moves southward across north Texas. Southward expansion of WW 224 may be needed.",
+      "discussion": "An intense supercell cluster is moving into north TX at 0245Z. Strong buoyancy (MLCAPE > 3000 J/kg) and sufficient effective shear (30-40 kt) (noted on the 00Z FWD sounding and recent objective mesoanalyses), combined with an increasing southerly low-level jet noted on the KFWS VWP, will continue to support this cluster as it moves southward, though increasing MLCINH should eventually lead to a weakening trend later tonight. Large hail remains possible with the stronger embedded cells. However, some southward acceleration of the cluster has been noted in the last hour, potentially indicative of a strengthening cold pool, and wind gusts to 70 mph were noted across southern OK with the passage of this cluster. One or more swaths of severe wind gusts will be possible as this cluster spreads southward, potentially reaching the Metroplex by 0330-0400Z. Southward expansion of the watch may be required within the next hour."
+    }
+  ]
+}

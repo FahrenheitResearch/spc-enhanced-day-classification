@@ -1,0 +1,154 @@
+{
+  "convective_day": "2019-04-07",
+  "valid_start": "2019-04-07T12:00Z",
+  "valid_end": "2019-04-08T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2019-04-07",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-04-07T16:30Z",
+      "valid_end": "2019-04-08T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190407_1630.html",
+      "summary": "Damaging winds and hail will be possible through this evening from southeast Texas northeastward to parts of the Tennessee Valley.",
+      "sections": [
+        {
+          "title": "TX/LA",
+          "text": "A large and increasingly organized linear MCS is tracking along the middle TX Gulf coast. This system is expected to move across southeast TX and into much of LA through early evening. So far, forward speed of the system has been modest (30-35kt). However, rather strong mid-level flow into the back of the MCS and favorable low-level moisture/instability ahead of the system may aid in acceleration later today. Damaging winds along the leading edge of the convection are the main concern, so have upgraded to an ENH risk across this area. Isolated QLCS tornadoes are also possible if the system continues to organize/intensify."
+        },
+        {
+          "title": "Southern AR into MS/TN/KY",
+          "text": "Scattered strong thunderstorms have been occurring along the surface boundary extending from southern AR into parts of TN and KY. The air mass south of the boundary will slowly destabilize this afternoon, with various 12z CAM solutions suggesting a few intense convective clusters capable of hail and damaging wind. Later this evening and tonight, the large MCS over TX may persist and move into northern MS and west TN, posing a risk of damaging winds. Confidence that system will remain severe for that long is not high, but given the generally favorable thermodynamic environment, it is not out of the question. This risk will be re-evaluated in later outlooks. ..Hart/Gleason.. 04/07/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-04-07",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-04-07T20:00Z",
+      "valid_end": "2019-04-08T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190407_2000.html",
+      "summary": "Damaging winds, hail and a couple of tornadoes will be possible late this afternoon through this evening from east Texas northeastward to parts of the Tennessee Valley.",
+      "sections": [
+        {
+          "title": "DISCUSSION",
+          "text": "A couple of changes have been made to the outlook. The first change is to trim the marginal, slight, enhanced risk areas from parts of southeast Texas behind a linear MCS. The outlook continues the enhanced risk ahead of the line across far east Texas and much of Louisiana. The second change is to add a 5 percent tornado contour ahead of the line to account for an isolated tornado threat associated with semi discrete rotating cells. An isolated QLCS tornado threat will also exist along the line itself. ..Broyles.. 04/07/2019 .PREV DISCUSSION... /ISSUED 1113 AM CDT Sun Apr 07 2019/"
+        },
+        {
+          "title": "TX/LA",
+          "text": "A large and increasingly organized linear MCS is tracking along the middle TX Gulf coast. This system is expected to move across southeast TX and into much of LA through early evening. So far, forward speed of the system has been modest (30-35kt). However, rather strong mid-level flow into the back of the MCS and favorable low-level moisture/instability ahead of the system may aid in acceleration later today. Damaging winds along the leading edge of the convection are the main concern, so have upgraded to an ENH risk across this area. Isolated QLCS tornadoes are also possible if the system continues to organize/intensify."
+        },
+        {
+          "title": "Southern AR into MS/TN/KY",
+          "text": "Scattered strong thunderstorms have been occurring along the surface boundary extending from southern AR into parts of TN and KY. The air mass south of the boundary will slowly destabilize this afternoon, with various 12z CAM solutions suggesting a few intense convective clusters capable of hail and damaging wind. Later this evening and tonight, the large MCS over TX may persist and move into northern MS and west TN, posing a risk of damaging winds. Confidence that system will remain severe for that long is not high, but given the generally favorable thermodynamic environment, it is not out of the question. This risk will be re-evaluated in later outlooks."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2019,
+      "number": 276,
+      "issue_utc": "2019-04-07T15:45Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0276.html",
+      "summary": "Thunderstorm organization and intensification appears possible across far southeast AR and central MS and convective trends will be monitored for potential watch issuance.",
+      "discussion": "Regional radar imagery has recently shown a bit more linear structure with the ongoing thunderstorm cluster across far southeast AR. This cluster was initialized by the warm-air advection across a stalled front (extending from far northwest LA across southeast AR and into northern MS) and was initially elevated. Recent convective trends suggest the development of a cold pool, which could increase the potential for surface-based thunderstorm development as it pushes eastward into an air mass more favorable for surface-based development. Recent mesoanalysis suggests limited convective inhibition exists downstream across northern MS. Additionally, low-level winds are more southeasterly downstream, increasing convergence along the cold pool. Some veering of these winds is expected over the next few hours but a favorable window for thunderstorm organization and intensification will still exist and convective trends will be monitored closely."
+    },
+    {
+      "year": 2019,
+      "number": 277,
+      "issue_utc": "2019-04-07T16:13Z",
+      "topic": "Severe Thunderstorm Watch 41",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0277.html",
+      "summary": "Threat for damaging wind gusts, hail, and a tornado or two remains across southeast TX and the middle/upper TX Coast.",
+      "discussion": "Air mass ahead of the ongoing convective line continue to destabilize amidst continue moisture advection. Dewpoints are now between 70 and 72 deg F areawide and mesoanalysis estimates 2000+ J/kg. Additionally, the overall system is well organized, evidenced by strong (i.e. 3-5 mb) height rises behind the line and sharpening reflectivity gradient along its leading edge. Another factor suggesting intensification is the southeasterly surface winds and resulting increased convergence. Two factors potentially impeding further intensification/organization are the line-parallel orientation of the shear vectors and the slowing of the shortwave trough currently moving through south TX. Overall expectation is for gradual intensification/organization over the next few hours with the forward speed of the overall system to increase. Strong wind gusts are the primary severe threat. Some hail also remains possible. A brief tornado or two is also possible, particularly as the system intensifies and forward motion increases. ..Mosier.. 04/07/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 278,
+      "issue_utc": "2019-04-07T17:27Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0278.html",
+      "summary": "The severe threat is expected to continue outside of Severe Thunderstorm Watch 44 and a downstream watch will be needed by 1830Z.",
+      "discussion": "Current storm motion on the convective line moving through southeast TX is 220 degrees at 40 kt. At this speed, the line will reach the edge of WW 41 around 1830Z/19Z. Downstream air mass is characterized by temperatures in the upper 70s, dewpoints in the low 70s, and moderate to strong instability (i.e. MLCAPE around 2000-2500 J/kg). Expectation is for the severe threat to continue across this area as the line moves through and a downstream watch across far southeast TX and central/western LA will be needed by around 1830Z. Primary severe threat with the convective line is damaging wind gusts, although some hail and a brief tornado or two are also possible. Farther north, strong thunderstorms have developed within the warm-air advection regime near the stalled front. Updrafts in these storms may occasionally be strong enough to produce severe hail. This threat may merit including this area in the watch that will likely be issued by 1830Z."
+    },
+    {
+      "year": 2019,
+      "number": 279,
+      "issue_utc": "2019-04-07T18:13Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0279.html",
+      "summary": "Thunderstorms along a boundary may pose an isolated severe hail/wind risk this afternoon. Watch issuance is possible.",
+      "discussion": "Within a weak low-level warm air advection regime, several thunderstorms have recently intensified along a convectively reinforced boundary across parts of central/northern MS into southern middle TN. The airmass along and south of this boundary will remain moderately unstable through the afternoon, with the 18Z mesoanalysis estimating MLCAPE of 1000-2500 J/kg. This developing convection is well ahead of a southern-stream shortwave trough and related line of thunderstorms across coastal southeast TX. Still, modestly strengthening west-southwesterly winds in the mid/upper levels should support 30-40 kt of effective bulk shear. This shear combined with steep mid-level lapse rates noted on the 12Z sounding from Jackson, MS suggest that isolated large hail will be possible through the afternoon with convection that can remain at least semi-discrete. Strong to locally damaging winds may also be a concern if thunderstorms develop into one or more small line segments as they move east-northeastward. Radar trends will be monitored for any further increase in convective coverage/intensity which may necessitate watch issuance."
+    },
+    {
+      "year": 2019,
+      "number": 280,
+      "issue_utc": "2019-04-07T19:49Z",
+      "topic": "Severe Thunderstorm Watch 42",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0280.html",
+      "summary": "Threat for damaging wind gusts and a tornado or two continues within the convective line. Isolated hail is possible with a few of the warm-sector storms.",
+      "discussion": "Well-organized convective line continues to push eastward/northeastward across far southeast TX at 40-45 kt. This increase in speed has been fostered by gradually increasing low- to mid-level flow, strong instability, and storm development ahead of the line (which contributes to some discrete forward-propagation). Orientation of the line has also recently become a bit more orthogonal to the 0-3 km and 0-6 km shear vectors. Expansive cloud cover advecting ahead of the system and warm sector thunderstorms have resulted in some cooling of the surface temperatures downstream across southwest LA with temperatures now in the mid 70s. Warmer temperatures (i.e. upper 70s/low 80s) remain in place across central LA. Favorable low-level moisture coupled with these temperatures and modest lapse rates supports moderate to strong instability. Expectation is for the convective line to continue eastward/northeastward with a continued threat for damaging wind gusts and an isolated/brief tornado or two within surging portions of the line. Isolated hail remains possible within the warm-sector storms. ..Mosier.. 04/07/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 281,
+      "issue_utc": "2019-04-07T20:14Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0281.html",
+      "summary": "An isolated large hail and strong/gusty wind threat may exist with thunderstorms that develop this afternoon. Watch issuance appears unlikely at this time due to the overall marginal environment.",
+      "discussion": "Isolated to perhaps widely scattered thunderstorms should develop within the next hour or so along a surface trough from east-central MO into central/northern IL as large-scale ascent preceding a shortwave trough overspreads this region. Immediately ahead of the surface trough temperatures have generally warmed into the upper 60s to lower 80s, with dewpoints mostly in the mid 50s to lower 60s. Resultant weak instability, with MLCAPE in the 250-1000 J/kg range, and effective bulk shear of 30-40 kt may be sufficient for some updraft organization. Isolated large hail may be the primary threat as cool mid-level temperatures and modestly steepened mid-level lapse rates associated with the shortwave trough move across this region. Strong/gusty downdraft winds could also occur, particularly where low-level lapse rates have been steepened through diurnal heating. Overall storm coverage and the limited thermodynamic environment suggest the severe threat will probably remain marginal/isolated, and watch issuance appears unlikely at this time."
+    },
+    {
+      "year": 2019,
+      "number": 282,
+      "issue_utc": "2019-04-07T22:36Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0282.html",
+      "summary": "Discrete storms may continue for a few more hours, posing mainly a severe hail risk, though a few damaging wind gusts can not be ruled out. A WW issuance is not anticipated at this time.",
+      "discussion": "Relatively discrete convection, occasionally exhibiting brief, transient supercell structures, continue to initiate/sustain themselves along a quasi-stationary baroclinic zone extending from central Mississippi, to far southeast Tennessee. Instability is gradually waning across the warm sector, with MLCAPE decreasing to 1000-1500 J/kg in the last few hours. Nonetheless, relatively steep low-level lapse rates and 0-3km CAPE exceeding 100 J/kg have supported vigorous updraft development despite a weak shear environment being in place, with 1.5 inch diameter hail reported in Fayette County, AL an hour ago. Before the onset of nocturnal stabilization, a few more instances of severe hail are possible, with a severe gust or two possible with the stronger water-loaded downdrafts. Given the sparse nature of the severe hail/wind threat, no WW issuances are expected at this time."
+    },
+    {
+      "year": 2019,
+      "number": 283,
+      "issue_utc": "2019-04-07T23:44Z",
+      "topic": "Severe Thunderstorm Watch 43",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0283.html",
+      "summary": "Numerous storms will continues eastward across the remainder of Louisiana and into western Mississippi, with all modes of marginal severe possible. The probability of additional watches appears low at this time.",
+      "discussion": "An extensive batch of rain and storms currently arcs southeastward from the ArkLaTex into southeast LA, supported by a slow-moving shortwave trough. Ahead of this line, a moist and unstable air mass remains with MLCAPE of 1500-2000 J/kg, except north of a secondary outflow over north central MS where it drops off quickly. Shear profiles remain rather marginal for any organized severe threat, but sufficient to maintain existing convection as outflow pushes east. Additional cellular activity is possible anywhere ahead of the line, and perhaps favoring the area immediately ahead of it. Here, a slight increase in backed surface winds, in combination with around 30 kt southerly 850 mb flow, may support weak low-level rotation. Otherwise, the main threat will be marginal wind gusts, mainly below severe levels, and marginal hail with cells ahead of the line. ..Jewell.. 04/07/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 284,
+      "issue_utc": "2019-04-08T02:39Z",
+      "topic": "Severe Thunderstorm Watch 44",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0284.html",
+      "summary": "A dying line of storms will progress east across Mississippi and perhaps into southwest Alabama this evening. While a few strong wind gusts are possible, a watch is not required.",
+      "discussion": "A long-lived MCS continues to weaken this evening, with a decrease in trailing STRATIFORM precipitation and a thinning of the leading-edge convection. 00Z soundings into central MS and AL indicate that diurnal cooling of the boundary layer will likely lead to a decrease in storm coverage, both ahead of the line and within, as a capping inversion exists around 700 mb. Instability levels are much weaker into the FL Panhandle region, with nearly zero MLCAPE noted on the TLH sounding. Thus, trends of the last hour are expected to persist. ..Jewell.. 04/08/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 285,
+      "issue_utc": "2019-04-08T10:11Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0285.html",
+      "summary": "A few strong wind gusts are possible, mainly across Okaloosa and Walton Counties in the FL Panhandle over the next hour as a bowing line segment moves inland. The overall threat is expected to remain marginal and a watch is not anticipated.",
+      "discussion": "A bowing line segment has intensified over the Gulf, just offshore from Okaloosa County FL. As the bow tracks northeast at around 40 mph early this morning, a few strong wind gusts around 40-50 mph will be possible. Based on latest velocity data from KEVX, low level inhibition is likely reducing severe wind potential as velocity continues to decrease as the bow moves inland closer to the radar. Additional weakening with time is expected due to weak instability and a strengthening low level inversion away from the immediate coast. The strongest gusts will likely remain confined to areas closer to the coast for this reason. Given the marginal nature of the threat, a watch is not expected."
+    },
+    {
+      "year": 2019,
+      "number": 286,
+      "issue_utc": "2019-04-08T10:21Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0286.html",
+      "summary": "There will be a small window of opportunity for a brief tornado through about 12-13z.",
+      "discussion": "An isolated supercell has evolved from convection along the trailing lobe of ascent related to an MCV from overnight convection (now near the northwest AL/TN border). A corridor of somewhat richer low-level moisture remains in tact this morning (mid 60s dewpoints across central AL), which is contributing to at least weak surface-based buoyancy (SBCAPE of 500-1000 J/kg). Low-level and deep-layer vertical shear are sufficient for supercells along the southeast flank of the MCV, which will move northeastward this morning. There will be a small window of opportunity for a brief tornado with the supercell (or new development) where the stronger vertical shear coincides with the north edge of the weakly unstable surface warm sector. Given the small area and somewhat marginal nature of the threat, a watch is not anticipated. ..Thompson.. 04/08/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

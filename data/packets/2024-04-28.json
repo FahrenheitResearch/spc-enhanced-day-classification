@@ -1,0 +1,212 @@
+{
+  "convective_day": "2024-04-28",
+  "valid_start": "2024-04-28T12:00Z",
+  "valid_end": "2024-04-29T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 5
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2024-04-28",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-04-28T12:00Z",
+      "valid_end": "2024-04-29T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240428_1200.html",
+      "summary": "Severe thunderstorms are likely today from parts of east Texas and northwest Louisiana north-northeastward into southwest Missouri. Damaging winds and a few tornadoes are expected along the stronger parts of the line. A couple of strong tornadoes could occur from southwest Arkansas into east Texas. A more isolated severe threat is expected today over parts of the lower to mid Missouri Valley.",
+      "sections": [
+        {
+          "title": "East Texas/Ark-La-Tex/Ozarks",
+          "text": "A large linear MCS will move eastward across the Ozarks and Ark-La-Tex early in the period. The line is expected to become unorganized after daybreak and dissipate by late morning. A moist and unstable airmass is likely to remain mostly undisturbed across much of east Texas and Louisiana. This airmass is forecast to advect northward across the Ark-La-Tex during the afternoon. On the large-scale, a negatively tilted mid-level trough will move across the southern and central Plains today. As surface temperatures warm, thunderstorms will reform along the western edge of the warm sector by mid-afternoon. The convection is expected to organize into a line, producing wind damage and hail, moving eastward across the Ark-La-Tex and Ozarks during the late afternoon. The greatest severe threat will likely be along the southern half of the line, from southwest Arkansas and far southeast Oklahoma south-southwestward into east Texas. RAP forecast soundings at 00Z/Monday across far southwest Arkansas and in northeast Texas have MLCAPE ranging from 1500 to 3000 J/kg, with 0-6 km shear generally from 35 to 45 knots. Also, 0-3 km storm-relative helicity is forecast to increase into the 200 to 300 m"
+        },
+        {
+          "title": "Lower to Mid Missouri Valley/Mid to Upper Mississippi Valley",
+          "text": "An upper-level trough will move eastward across the lower to mid Missouri Valley today. Ahead of the trough, a moist airmass will be in place across much of Missouri northward into southern Iowa. As surface heating takes place today, thunderstorms are forecast to develop along the western edge of the moist sector from east-central Kansas into southeast Nebraska. The storms will move eastward into Missouri and southern Iowa during the afternoon. RAP forecast soundings near Kansas City by 21Z have MLCAPE near 1200 J/kg, with 0-6 km shear around 60 knots. This, combined with steep low to mid-level lapse rates should support a severe threat during the afternoon. The primary hazards should be wind damage and hail. As convective coverage increases during the late afternoon and early evening, a line is expected to organize. Wind damage should become the primary threat as it approaches the Mississippi River during the evening. ..Broyles/Thornton.. 04/28/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-04-28",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-04-28T13:00Z",
+      "valid_end": "2024-04-29T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240428_1300.html",
+      "summary": "Clusters of severe storms are possible through early tonight, with the most concentrated threat for wind damage, large hail and a few tornadoes from the ArkLaTex southward into east Texas.",
+      "sections": [
+        {
+          "title": "MO to east TX/western LA through tonight",
+          "text": "Within a larger-scale trough, a primary shortwave trough will move northeastward from the central Plains to the upper MS Valley by tonight. A weak surface cyclone will likewise move northeastward from KS to IA, and an associated/weak cold front will drift southeastward across KS/OK/northwest TX. The warm sector has been altered substantially by an extensive overnight QLCS that is weakening but continues to move eastward across southern MO, western AR and northeast into south central TX. Widespread convective overturning has occurred across areas west of the line, and many of the overnight forecast models appear too aggressive with thermodynamic recovery today in its wake. There may be some recovery later today from eastern OK into MO in advance of an embedded speed max rotating northeastward from west TX over OK/MO. However, destabilization is unlikely to be sufficient to support more than SLGT-risk caliber severe probabilities. Farther south, the remnant QLCS will encounter the richer moisture/larger buoyancy in the undisturbed warm sector from the ArkLaTex southward. Vertical shear will be sufficient for supercells, but the stronger shear and larger, curved hodographs appear to b"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-04-28",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-04-28T16:30Z",
+      "valid_end": "2024-04-29T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240428_1630.html",
+      "summary": "Clusters of severe storms are possible through early tonight, with the most concentrated threat for wind damage, large hail and a few tornadoes from the ArkLaTex southward into east Texas.",
+      "sections": [
+        {
+          "title": "East TX/LA/Southern AR",
+          "text": "A long-lived large nocturnal MCS that affected much of TX overnight has weakened substantially, but remains over parts of east TX. Ample low-level moisture and moderate instability is present to the east of this activity, along with deep southerly low-level winds and little inhibition. This will result in rejuvenation of storms by mid-afternoon along the remnant outflow boundary. Forecast soundings in this area show sufficient deep-layer shear for supercell structures capable of large hail, damaging winds, and a few tornadoes. This activity will spread eastward through the evening into LA/southern AR, with a continued risk of damaging wind gusts and isolated tornadoes."
+        },
+        {
+          "title": "OK/AR/MO",
+          "text": "The overnight MCS has significantly affected the air mass across much of eastern OK/western AR/southern MO, with expansive cloud cover and surface dewpoints now in the 50s to lower 60s. Many of the 12z models are insistent that higher theta-e air will return to this region, resulting in a robust severe threat emerging by late afternoon - but our confidence in that scenario is rather low at this time. Redevelopment of afternoon thunderstorms over eastern OK seems likely, and there remains a risk of hail, damaging winds, and a tornado or two from this activity. Storms that form will spread eastward into AR and southern MO during the evening. ..Hart/Lyons.. 04/28/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-04-28",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-04-28T20:00Z",
+      "valid_end": "2024-04-29T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240428_2000.html",
+      "summary": "Clusters of severe storms are possible through early tonight, with the most concentrated threat for wind damage, large hail and a few tornadoes from the ArkLaTex southward into east Texas.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "Little overall change was made to the existing outlook, as potential, as well as uncertainty, remain over a large region. An upper trough with cool temperatures aloft remains over the Plains, with midlevel temperature gradient from IA into eastern OK and southwestward across northern TX. Satellite imagery as well as surface observations continue to show gradual heating and destabilization as clouds thin from the decaying early day MCS. Given substantial southwest flow aloft and at least a marginally unstable air mass over most of the region, little change was made to most of the outlook area. The greatest severe risk looks to be centered over eastern TX toward the ArkLaTex and toward the Sabine Valley late, in closer proximity to stronger instability. Farther north across eastern OK into AR and southern MO, an increasing low-level jet late this evening and right-entrance region of the upper jet may yield a more concentrated corridor of strong to perhaps severe storm potential after 00Z and into the night. ..Jewell.. 04/28/2024 .PREV DISCUSSION... /ISSUED 1125 AM CDT Sun Apr 28 2024/"
+        },
+        {
+          "title": "East TX/LA/Southern AR",
+          "text": "A long-lived large nocturnal MCS that affected much of TX overnight has weakened substantially, but remains over parts of east TX. Ample low-level moisture and moderate instability is present to the east of this activity, along with deep southerly low-level winds and little inhibition. This will result in rejuvenation of storms by mid-afternoon along the remnant outflow boundary. Forecast soundings in this area show sufficient deep-layer shear for supercell structures capable of large hail, damaging winds, and a few tornadoes. This activity will spread eastward through the evening into LA/southern AR, with a continued risk of damaging wind gusts and isolated tornadoes."
+        },
+        {
+          "title": "OK/AR/MO",
+          "text": "The overnight MCS has significantly affected the air mass across much of eastern OK/western AR/southern MO, with expansive cloud cover and surface dewpoints now in the 50s to lower 60s. Many of the 12z models are insistent that higher theta-e air will return to this region, resulting in a robust severe threat emerging by late afternoon - but our confidence in that scenario is rather low at this time. Redevelopment of afternoon thunderstorms over eastern OK seems likely, and there remains a risk of hail, damaging winds, and a tornado or two from this activity. Storms that form will spread eastward into AR and southern MO during the evening."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-04-29",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-04-29T01:00Z",
+      "valid_end": "2024-04-29T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240429_0100.html",
+      "summary": "Severe storms, capable of wind damage, a couple tornadoes and isolated large hail are likely this evening across parts of east Texas, northern/central Louisiana and southern Arkansas. A few severe storms, associated with wind damage and hail will also be possible in a broader area from the southern Plains and Lower Mississippi Valley northward to the Ozarks and Lower Missouri Valley.",
+      "sections": [
+        {
+          "title": "Sabine River Valley/Ark-La-Tex/Southern Plains/Ozarks",
+          "text": "The latest water vapor imagery shows a mid-level trough over the southern Plains, with southwesterly flow over the Ark-Latex and lower Mississippi Valley. A shortwave trough, and an associated 50 to 60 knot mid-level jet, appear to be moving through the Ark-La-Tex. A large cluster of strong to severe storms is ongoing near this shortwave trough, and to the east of the jet streak, from east Texas into far northwest Louisiana. This cluster is expected to move eastward across the remainder of east Texas, and into northern and western Louisiana this evening, where linear MCS development will be possible. The latest surface analysis shows the moist sector, with backed southeasterly flow, across the Sabine and Lower Mississippi Valleys. A mesolow is located in the Ark-La-Tex. Surface dewpoints across the moist sector are in the mid to upper 60s F, with the RAP/observed RAOBS estimating MLCAPE generally in the 1500 to 2000 J/kg range. The instability will sustain a large cluster of storms, as it moves toward the Mississippi Valley this evening. In addition, regional WSR-88D VWPs at Fort Polk and Shreveport, Louisiana have 0-6 km shear around 40 knots, with a lot directional shear from the"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2024,
+      "number": 560,
+      "issue_utc": "2024-04-28T14:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0560.html",
+      "summary": "Short-line segment moving east-northeast into a part of east Texas may intensify as the downstream air mass slowly destabilizes into the afternoon. A couple brief tornadoes and locally damaging winds are possible.",
+      "discussion": "Remnants of the largely decaying early morning MCS have maintained a short-line segment within the TX Triangle. KGRK radar has detected transient mesovortices along its leading edge, which is overlapping with the western periphery of the stronger low-level shear environment across east TX per HGX/CRP VWP data. While surface wind gusts have been sub-severe thus far, primary threat will be potential for a couple brief tornadoes as the line segment shifts towards the I-45 corridor. Downstream air mass is slowly destabilizing amid pervasive cloud cover, but this process could support gradual intensification into the afternoon. 12Z CAM guidance differs in how extensive/intense this convection will be prior to later in the afternoon."
+    },
+    {
+      "year": 2024,
+      "number": 561,
+      "issue_utc": "2024-04-28T18:28Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0561.html",
+      "summary": "Redeveloping thunderstorms along the I-35 corridor in central Texas may intensify as they spread northeastward into a part of east Texas later this afternoon.",
+      "discussion": "Regenerative thunderstorm development persists in parts of central TX across the outflow from an MCS that decayed this morning. Surface temperatures continue to warm into the upper 70s to low 80s within cloud breaks south and east of the large-scale outflow boundary arcing across east TX. This is yielding moderate buoyancy amid upper 60s to low 70s surface dew points. With a favorable deep-layer wind profile (0-6km shear near 50 kts) per GRK VWP data, a couple supercells within an emerging cluster may develop. Overall convective mode will likely remain nebulous for the next few hours with uncertainty on whether a supercell can become sustained and track along the remnant outflow boundary. Should this occur, it would support a late afternoon tornado threat while the region remains on the southwest periphery of 850-mb winds in excess of 30 kts."
+    },
+    {
+      "year": 2024,
+      "number": 562,
+      "issue_utc": "2024-04-28T20:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0562.html",
+      "summary": "Weak showers may gradually deepen into clusters of strong to severe storms late this afternoon. Uncertainty remains high as it is unclear if the air mass can recover in the wake of earlier storms. Trends will be monitored for a possible WW.",
+      "discussion": "As of 2030 UTC, regional radar and satellite data showed a few showers slowly deepening over parts of central and eastern OK and northeast TX. In the wake of the early day MCS lingering clouds have slowed diurnal heating with temperatures stubbornly remaining in the upper 60s to low 70s F. Still, some clearing has emerged and 1.25-1.4 in precipitable water values show sufficient moisture for deep convection. Hi-res guidance shows these showers may gradually deepen into several clusters of thunderstorms across eastern OK over the next couple of hours as a subtle upper-level trough moves in from the west. With 500-1000 J/kg of MLCAPE potential available by 22-23z, a few stronger updrafts could emerge. 35-45 kt of effective shear would favor storm organization, though in the form of a mix of cellular and cluster elements. Damaging gusts and isolated hail appear to be the most likely threats should more robust storms develop. Still, a 30-40 kt LLJ should enlarge low-level hodographs near sunset to support the risk for a tornado or two. The primary uncertainty for this afternoon and evening is the coverage and intensity of storms that develop. While it remains unclear now, conditions are being monitored for a possible watch."
+    },
+    {
+      "year": 2024,
+      "number": 563,
+      "issue_utc": "2024-04-28T20:47Z",
+      "topic": "Tornado Watch 158",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0563.html",
+      "summary": "A few supercells should continue to pose a primary threat of tornadoes across a part of east-central Texas into early evening.",
+      "discussion": "The two initially sustained supercells in east-central TX both produced reportedly brief tornadoes earlier this hour. A third supercell is trying to intensify upshear of the middle one (in Robertson County), but appears displaced northwest of convective outflow from the lead storms. It is plausible that the middle of the trio will become the more dominant/longer-lasting of the supercells given its more east-northeastward movement and broader access to uninterrupted inflow emanating northward from southeast TX. While low-level shear is more modest with southwest extent, it will remain adequate for multiple tornadogenesis cycles into early evening. ..Grams.. 04/28/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 564,
+      "issue_utc": "2024-04-28T23:13Z",
+      "topic": "Tornado Watch 158",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0564.html",
+      "summary": "Severe threat will spread east of ww158 shortly. New tornado watch will likely be warranted immediately downstream.",
+      "discussion": "Sustained low-level warm advection will continue across the lower MS Valley early this evening in association with LLJ that is focused from the lower Sabine River Valley into western AR. Deep convection that evolved upstream over central TX has propagated east as the LLJ has shifted downstream. Multiple thunderstorm clusters have evolved with the leading edge of this activity now surging into Harrison/Panola County region. Over the next few hours this complex will advance beyond the eastern border of ww158 and a new tornado watch will likely be issued soon to account for this risk. ..Darrow.. 04/28/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 565,
+      "issue_utc": "2024-04-28T23:50Z",
+      "topic": "Tornado Watch 159",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0565.html",
+      "summary": "Tornado threat continues in WW159. Corridor of more favorable surface winds may support risk of a tornado.",
+      "discussion": "Recent surface observations indicate winds across northwestern Arkansas into southwestern Missouri are backing as convection approaches from the south and west. This southeasterly component has not handled well by recent RAP analysis data, which may indicate low-level shear is more favorable across this corridor than indicated in recent guidance. The VAD profile from KSRX (Fort Smith WSR-88D) shows around 250-300 m2/s2 0-1km SRH. This area may be a focused zone of potential for a tornado in the short term."
+    },
+    {
+      "year": 2024,
+      "number": 566,
+      "issue_utc": "2024-04-29T01:16Z",
+      "topic": "Tornado Watch 160",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0566.html",
+      "summary": "Severe squall line will advance beyond ww160, necessitating the need for a new ww immediately downstream.",
+      "discussion": "Upscale growth continues with MCS as it propagates across the Ark-La-TX early this evening. Leading edge of surging bow is approaching ELD, and damaging winds will be common with this squall line. Given the expanding precip shield and cold pool, forward momentum should easily allow this complex to advance beyond ww160 across southern AR. Shear profiles favor supercells, but the primary storm mode will likely remain an MCS. Even so, tornadoes remain possible with embedded circulations, along with any discrete structures that could evolve independent of this MCS. ..Darrow.. 04/29/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 567,
+      "issue_utc": "2024-04-29T03:21Z",
+      "topic": "Tornado Watch 159",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0567.html",
+      "summary": "Severe threat continues. Local watch extension past 04z may be needed.",
+      "discussion": "Thunderstorm activity continues across portions of Missouri and Arkansas. Mesoanalysis indicates surface based instability has become limited, though MLCAPE around 500-1,000 J/kg continues to advect in from the southeast. This activity is also located along the edge of the axis of a 40 kt low-level jet, which is providing ample shear for maintaining an organized severe threat. As such, a threat of damaging winds may persist through the short term. Further south, a supercell has tracked from the OK/AR border into western AR and continues to maintain organization with periods of increase in rotation strength. WW159 may need to be expanded in time and spatial extent to account for potential risk with this storm and for additional transient supercell activity across northern Arkansas that may move into southern Missouri."
+    },
+    {
+      "year": 2024,
+      "number": 568,
+      "issue_utc": "2024-04-29T03:36Z",
+      "topic": "Tornado Watch 160",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0568.html",
+      "summary": "Strong/severe thunderstorms will persist across portions of southeast TX into western LA.",
+      "discussion": "Sustained low-level warm advection appears largely responsible for ongoing corridor of strong/severe convection that extends from Grimes County TX-De Soto Parish LA. Western flank of this corridor is an extension of a larger MCS that has advanced into southern AR, arcing southwest into southeast TX. TX portion of this MCS will likely remain quasi stationary due to LLJ that has yet to shift downstream. While environmental shear supports sustained, rotating updrafts, the primary storm mode will remain more complex with multiple storm mergers and clusters than supercells. Very heavy rain will be noted along this corridor, though a brief tornado and/or locally damaging winds remain possible. ..Darrow.. 04/29/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 569,
+      "issue_utc": "2024-04-29T04:47Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0569.html",
+      "summary": "there is a low risk of a brief tornado, and/or gusty winds, with convection early this morning.",
+      "discussion": "Weak mid-level short-wave trough is ejecting northeast across MO late this evening. This feature appears largely responsible for MCS that is propagating across central MO. Southwestern flank of this complex trails across the MO Ozarks into northwest AR. Isolated supercells are embedded along this flanking convection where weak buoyancy has yet to be overturned. Forecast soundings for this region suggest parcels may be slightly elevated, but strongly sheared. While a brief tornado can not be ruled out, at this time it appears the weak instability will limit the severe potential as the MCS propagates downstream."
+    },
+    {
+      "year": 2024,
+      "number": 570,
+      "issue_utc": "2024-04-29T06:22Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0570.html",
+      "summary": "A severe threat may persist through the overnight hours. Damaging gusts and a tornado will be the main concern with this activity. A new watch will be needed by 07z.",
+      "discussion": "A mature MCS over central LA into southeast TX will continue to develop east/southeast overnight. A 06z RAOB from LCH shows a modestly unstable airmass with near 1500 J/kg MLCAPE. A deep saturated layer from the surface to around 700 mb will preclude steep low-level lapse rates and limit cold pool strength. This will likely limit a more widespread damaging wind risk. Nevertheless, favorable vertical shear and sufficient instability will support a continued risk for at least sporadic, locally strong to severe gusts of 45-60 mph. Nearer to the coast where dewpoints are in the low 70s, vertically veering low-level winds with somewhat enlarged low-level hodographs may support some brief tornado potential. But strong gusts are expected to largely be the main concern through early morning."
+    },
+    {
+      "year": 2024,
+      "number": 571,
+      "issue_utc": "2024-04-29T09:11Z",
+      "topic": "Severe Thunderstorm Watch 162",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0571.html",
+      "summary": "The damaging wind risk will increase across far southeast Texas into southwest Louisiana over the next 1-2 hours. A tornado also may be possible with this activity.",
+      "discussion": "Some increase in intensity has been noted in radar imagery over southeast TX into southwest LA in the last 30 minutes or so. Reflectivity cores have deepened/intensified on 7 km CAPPI and some increase in velocity signatures are also noted. Convection will continue to move into an uncapped airmass close to the coast characterized by SBCAPE around 1500 J/kg. Furthermore, increasing low-level rotation has been noted in cells over southeast TX ahead of the convective line. Tornado potential may be somewhat increased as these more cellular elements merge with the line in the near term. HGX and LCH VWP data show favorable low-level hodographs supporting rotation and a brief tornado or two may occur in addition to damaging gusts associated with the southeastward surging bow into southwest LA. ..Leitman.. 04/29/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

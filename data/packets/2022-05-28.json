@@ -1,0 +1,148 @@
+{
+  "convective_day": "2022-05-28",
+  "valid_start": "2022-05-28T12:00Z",
+  "valid_end": "2022-05-29T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2022-05-28",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-05-28T13:00Z",
+      "valid_end": "2022-05-29T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220528_1300.html",
+      "summary": "Severe thunderstorm gusts (some over 70 mph) and large hail are expected today across parts of the central and northern Plains. A few severe storms may also occur across parts of the southern Plains and in the Northeast.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A progressive, mid/upper-level synoptic pattern is forecast through the period, as one trough leaves the eastern CONUS and another crosses the West. The eastern trough is devolving from an open-wave cyclone over PA at this time, and extends south-southwestward across the Carolinas , GA and the western FL Panhandle. The primary vorticity lobe and former closed circulation will move off the coastal Mid-Atlantic and south of Long Island/southern New England by 00Z, with the trough south-southwestward over the Outer Banks. Out west, a broad area of cyclonic flow aloft -- with several embedded shortwaves -- will spread across the area from the High Plains westward, along with synoptic-scale height falls and general cooling aloft. The strongest shortwave trough -- now approaching 130W, west of the Pacific Northwest -- will move inland around 00Z. This perturbation then should dig southeastward to NV and eastern OR by the end of the period. Meanwhile, a weaker yet still well- evident perturbation -- spotted in moisture-channel imagery over northern NV -- will eject northeastward to portions of WY and eastern MT by 0)Z, then across ND by 12Z tomorrow. The surface analysis at 11Z showed wea"
+        },
+        {
+          "title": "Northern Plains",
+          "text": "Scattered high-based thunderstorms should develop during mid/late afternoon, in a band of maximized deep-layer ascent from north- central/northeastern WY southeastward to the NE Sandhills. This activity is expected to offer severe wind (with some gusts above 65 kt possible) as it moves northeastward across eastern WY, extreme southeastern MT, western/central SD, and west-central/north-central NE from late afternoon into this evening. Strengthening low-level convergence is expected amidst the mass response to the approaching synoptic and shortwave troughs, and near the surface low. Storm-relative flow in the low-level/inflow layer also should increase with time, strengthening vertical shear and helping to organize and sustain the activity. A limiting factor will be lack of greater low-level moisture, though time series of forecast soundings suggest a balance appears likely between enough mixing/dryness to foster a deep boundary layer supporting downdraft acceleration, and too little moisture for organized convection. Mixing/heating will be muted somewhat by increasing mid/high cloud cover. Nonetheless, with surface dew points generally in the mid 40s to low 50s F, steep low/middle-l"
+        },
+        {
+          "title": "Northeast CONUS",
+          "text": "Near a prefrontal trough, a gradual increase in convective coverage and strength should occur over the next few hours, with isolated strong to marginally severe gusts possible by midday to early afternoon. This should occur behind a departing belt of morning clouds/precip, as a sliver of favorably moist, inland warm sector destabilizes from a combination of warm advection and insolation. Meanwhile, midlevels will destabilize slightly with increasing large-scale ascent preceding the mid/upper trough. The result should be around 500-1000 J/kg preconvective MLCAPE and negligible MLCINH over southeastern NY and southern New England, with MLCAPE decreasing northeastward to around 200-500 J/kg in a narrower, eastward- shifting corridor across ME. Low-level winds/shear will be modest, but strong mid/upper flow will contribute to favorable deep shear (e.g., 30-35-kt effective-shear magnitudes and up to about 90 kt of cloud-layer shear) for a few organized multicell clusters, transient supercells or small bows capable of damaging gusts."
+        },
+        {
+          "title": "Southern Plains",
+          "text": "Isolated to widely scattered thunderstorms may initiate near the dryline during mid/late afternoon and move into a hot, well-mixed boundary layer with steep lapse rates and large dewpoint depressions. The main concern will be severe gusts. A conditional risk of significant-severe downburst gusts exists; however, uncertainties regarding overall severe-thunderstorm coverage currently preclude a 15% unconditional wind upgrade that would allow a 10%-sig area within. Intense heating will boost surface temperatures along and east of the dryline to the upper 90s to mid 100s F over the outlook area, removing MLCINH and fostering pulses of updrafts up and down the dryline. MLCAPE in the 1000-2000 J/kg range should be common, locally/briefly higher, with similar magnitudes of DCAPE. Veering of winds with height will contribute to 30-40 kt effective-shear magnitudes, despite lack of stronger mid/upper-level flow -- supporting some organization potential for any convection that can survive some thermodynamic limitations. Dry entrainment will be a restricting factor for convective growth/maintenance, but a few cells may mature and last long enough to produce strong to severe gusts, before remai"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2022,
+      "number": 947,
+      "issue_utc": "2022-05-28T19:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0947.html",
+      "summary": "The severe weather threat will increase through the afternoon. A severe thunderstorm watch is likely by 20-21Z.",
+      "discussion": "Widespread mid and upper-level broken clouds have slowed heating across much of the central and northern High Plains so far today. Nonetheless, some heating into the mid-upper 70s has occurred with SPC mesoanalysis showing weakening inhibition across the warm sector. A few storms have developed in southeastern Montana, but have not shown robust updraft growth thus far. A bit more heating is likely needed to support stronger updrafts and a greater severe weather threat. The evolution may be somewhat slow, but eventually expect an organized severe weather threat to develop, perhaps evolving from the convection in Johnson/Natrona counties at 1945Z. The very deeply mixed boundary layer will support significant sub-cloud evaporative cooling and strong downdraft development with some wind gusts in excess of 65 knots possible."
+    },
+    {
+      "year": 2022,
+      "number": 948,
+      "issue_utc": "2022-05-28T20:00Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0948.html",
+      "summary": "Isolated high-based supercells are possible from late afternoon into early evening across parts of western TX into southwest OK. Strong, locally damaging gusts will be possible with this activity.",
+      "discussion": "Increasing cumulus and isolated high-based showers are developing over eastern NM into adjacent portions of western TX behind a surface dryline this afternoon. Temperatures have warmed into the upper 90s to low 100s behind and along the dryline. A midlevel cap is quickly eroding from the Midland TX area toward Childress TX amid this strong heating and low-level moist advection. Initial convection may have trouble becoming sustained in a very deeply mixed boundary-layer where RAP thermodynamic profiles show an inverted-v sub-cloud layer amid PW values less than 1 inch. This very dry sub-cloud layer will nevertheless support strong outflow winds. With time, convection will spread eastward into western north TX and far southwest OK where surface dewpoints are in the upper 50s to low 60s. This area of better low-level moisture, in conjunction with very steep low and mid-level lapse rates, is supporting MUCAPE values greater than 3500 J/kg. Furthermore, strong heating has resulted in low-level lapse rates greater than 8 C/km and DCAPE values greater than 1600 J/kg. While deep-layer flow is not strong, vertically veering wind profiles are contributing to 25-35 kt effective shear magnitudes. As a result, at least briefly organized, but isolated high-based supercells will be possible from late afternoon into early evening. Very strong, damaging outflow winds (possibly greater than 75 mph) will be possible with this activity in addition to isolated hail (with any more sustained/persistent supercells). Convective trends will be monitored and a watch may be needed by 21-22z."
+    },
+    {
+      "year": 2022,
+      "number": 949,
+      "issue_utc": "2022-05-28T22:23Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0949.html",
+      "summary": "Gradual storm development currently underway should result in high-based storms including a few supercells this evening. Damaging winds and hail are possible suggesting a weather watch may be needed.",
+      "discussion": "As of 2215Z, afternoon visible imagery and radar data showed high-based cumulus towers/showers developing across parts of western and southwestern NE. Likely aided by ascent from a passing shortwave trough and strong surface heating, remaining MLCINH should erode resulting in the development of isolated to widely scattered thunderstorms early this evening. SPC mesoanalysis shows 1500-2500 J/kg of MLCAPE has developed owing to very warm surface temperatures (80-90F) and dewpoints in the low 50s F. While likely high based, vertically veering wind profiles (EBWD of 40-50 kt) will support initial supercell structures capable of damaging hail and outflow winds. The enhanced downdraft potential from 0-3km lapse rates in excess of 9 C/km may also support some upscale growth into clusters or short bowing segments capable of significant wind gusts later this evening. Latest WOFS and hi-res HRRR guidance also suggest this possibility as storms track north and east across north-central NE. Given the potential for storm organization and the increasing severe risk, a weather watch is being considered."
+    },
+    {
+      "year": 2022,
+      "number": 950,
+      "issue_utc": "2022-05-28T23:32Z",
+      "topic": "Severe Thunderstorm Watch 281",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0950.html",
+      "summary": "Two clusters of high-based storms will likely continue to pose a risk for mainly damaging wind gusts and isolated hail over the next couple of hours across WW281.",
+      "discussion": "As of 2230 UTC, regional radar data showed a cluster of thunderstorms ongoing across far northeastern WY, into southeastern MT, and northwestern SD. Over the last hour, several reports of 50-60 mph gusts have been observed with this cluster as it tracked quickly northeast. SPC mesoanalysis shows approx 500 J/kg of MLCAPE ahead of the cluster suggesting storms will likely continue to pose a risk for damaging wind gusts over the next hour or two. Farther north however, cooler and more stable conditions are noted north of a frontal boundary near the ND/SD border. Storms should gradually weaken as they approach, and cross the frontal boundary later this evening. Until then strong downdrafts may support damaging wind gust potential with theses storms. Farther south and east, more isolated thunderstorms, including a few supercells were beginning to organize across portions of south-central SD. Steep mid-level lapse rates (7.5-8 C/km) and larger buoyancy (MLCAPE 1000-1500 J/kg) may support a risk for isolated hail along with the potential for damaging outflow winds. Latest WOFS/HRRR guidance also suggests some upscale growth may occur later this evening. This outcome would favor locally greater potential for damaging gusts, some of which could be 70+ mph. While it remains unclear how storms will evolve, the potential for damaging gusts and isolated hail should continue into this evening across WW281. ..Lyons.. 05/28/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 951,
+      "issue_utc": "2022-05-28T23:45Z",
+      "topic": "Severe Thunderstorm Watch 282",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0951.html",
+      "summary": "Damaging winds appear to be the main threat with convection this evening, although some hail could also occur.",
+      "discussion": "Scattered high-based convection that developed along the dryline as surface temperatures soared above 100F has begun to spread downstream a bit. This activity is progressing into a bit more moist environment where temperatures remain hot but dew points are in the lower 60s. If these updrafts are opportunistic enough to ingest this higher-quality moisture/buoyancy then damaging wind threat could increase over the next few hours, especially from southeast of LTS to west of SPS. ..Darrow.. 05/28/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 952,
+      "issue_utc": "2022-05-29T00:51Z",
+      "topic": "Severe Thunderstorm Watch 283",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0952.html",
+      "summary": "Strong to severe storms may drift east of WW281 and WW283 into portions of central and southern SD later this evening. Damaging winds and perhaps some isolated hail will remain possible. A weather Watch is being considered.",
+      "discussion": "Evening radar imagery showed scattered strong/severe thunderstorms ongoing across portions of southern SD and north-central NE. Over the next couple of hours, these storms should move northeastward toward the eastern border of WW281 and WW283 into portions of central and southern SD. SPC mesoanalysis show sufficient buoyancy (MLCAPE 1000-2000 J/kg) south of a quasi-stationary boundary to support the ongoing convection east of the current watches. With steep low and mid-level lapse rates (8-9 C/km), the threat for damaging wind gusts and perhaps, isolated hail may persist. Latest HRRR and WOFS guidance hint that the southern most portions of the cluster may remain the most organized. This is in step with current radar trends that have shown additional consolidation of storms across north-central and southern SD in the last hour. While confidence in the eastward extent of the severe risk is relatively low, enough risk may exist to warrant an additional weather watch downstream in the next hour."
+    },
+    {
+      "year": 2022,
+      "number": 953,
+      "issue_utc": "2022-05-29T02:30Z",
+      "topic": "Severe Thunderstorm Watch 282",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0953.html",
+      "summary": "Severe threat is waning across the southern High Plains.",
+      "discussion": "Dryline convection has struggled to move appreciably east before weakening, this despite ample 850mb inflow and higher boundary-layer moisture immediately downstream. One lingering robust updraft continues west of Munday, likely due to more south-southwesterly flow where surface temperatures remain in the 90s. However, boundary-layer cooling should lead to weakening of this storm over the next 1-2 hours and aside from locally gusty winds overall severe threat should be waning. ..Darrow.. 05/29/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 954,
+      "issue_utc": "2022-05-29T04:21Z",
+      "topic": "Severe Thunderstorm Watch 284",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0954.html",
+      "summary": "Gusty winds remain possible with convection.",
+      "discussion": "Very weak short-wave trough is ejecting northeast across the Dakotas late this evening. The southern-most influence of this feature appears to be aiding convection across south-central SD, along with a 25-50kt LLJ that extends across central NE into this cluster. This activity does not appear to be particularly robust, but 44kt wind gust was observed in the last 30 minutes at KICR. Gusty winds may continue to be noted ahead of this cluster as it spreads northeast. ..Darrow.. 05/29/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 955,
+      "issue_utc": "2022-05-29T06:41Z",
+      "topic": "Severe Thunderstorm Watch 284",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0955.html",
+      "summary": "The threat for isolated strong wind gusts and hail continues.",
+      "discussion": "Regional radar imagery shows an arc of elevated thunderstorms from near ABR southeastward to about 20 miles east of HON. A well-defined outflow boundary precedes these storms, with a 44 kt gust recently reported at HON and a 31 kt gust reported farther south at MHE. The expectation is for this line to continue northeastward into the warm frontal zone extending from far northeast SD southeastward across southern MN. Despite the elevated character of this line, the relatively dry sub-cloud layer could still support a few stronger gusts, although the gust potential decreases with northeastward extent. Additionally, steep mid-level lapse rates will support the potential for isolated hail as well. The overall severe potential is expected to remain isolated, and an additional downstream watch is not currently anticipated. Farther south in far south-central SD, elevated storms have recently strengthened, potentially as a result of slightly stronger warm-air advection. Steep mid-level lapse rates will continue to support the potential for large hail with these storms. ..Mosier.. 05/29/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 956,
+      "issue_utc": "2022-05-29T09:16Z",
+      "topic": "Severe Thunderstorm Watch 285",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0956.html",
+      "summary": "The threat for large to very hail and strong wind gusts continues within Severe Thunderstorm Watch 285.",
+      "discussion": "A strong elevated supercell continues to move northeastward across far southeast SD towards extreme northwest IA and adjacent southwest MN. This region is in the northwestern periphery of a strong low-level jet that extends across the southern and central Plains. Warm-air advection associated with this low-level jet is expected to remain over the region for the next several hours as the low-level jet persists. This warm-air advection coupled with increasing low-level moisture and steep mid-level lapse rates should support the perseverance of this supercell. Primary threat is currently large to very large hail. Recent MRMS MESH estimates hail over 3\". Additionally, despite low-level stability, some strong wind gusts are also possible, particularly as this supercell interacts with an outflow boundary from earlier storms. ..Mosier.. 05/29/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 957,
+      "issue_utc": "2022-05-29T10:10Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0957.html",
+      "summary": "Ongoing severe thunderstorm cluster across far southwest MN and extreme northwest IA is expected to continue downstream into more of central and southern MN. The threat for damaging wind gusts and large hail with this storm will likely merit the issuance of an additional watch.",
+      "discussion": "Ongoing supercell over far southwest MN and extreme northwest IA has undergone a transition to a more outflow-dominant linear mode. Current storm motion is northeast at around 45 kt, taking it to the edge of Severe Thunderstorm Watch 285 around 11Z. Low-level stability is in place within the downstream air mass across southern and central MN. However, steep mid-level lapse rates, the presence of a 1 km deep cold pool (as evidenced by the FSD VAD profile) and a strong low-level jet will likely support storm persistence for at least the next several hours. Additionally, while buoyancy and vertical shear are not overly strong, they are sufficient for storm maintenance, particularly given the currently well-organized character of the convection. As a result, the threat for damaging wind gusts and large hail will likely merit the issuance of an additional watch downstream into more of southern and central MN."
+    },
+    {
+      "year": 2022,
+      "number": 958,
+      "issue_utc": "2022-05-29T10:54Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0958.html",
+      "summary": "Isolated large hail possible over the next few hours.",
+      "discussion": "Showers and thunderstorms have increased in coverage and intensity over the past hour or so across western and central IA. This trend will likely continue for the next few hours as the low-level jet and associated warm-air advection persist. A predominantly multicellular storm mode is anticipated, but steep mid-level lapse could still result in a few updrafts strong enough to produce hail. Overall severe coverage is uncertain, meriting lower watch probability, and convective trends will be monitored closely."
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "convective_day": "2021-07-10",
+  "valid_start": "2021-07-10T12:00Z",
+  "valid_end": "2021-07-11T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 5
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-07-10",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-07-10T12:00Z",
+      "valid_end": "2021-07-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210710_1200.html",
+      "summary": "Severe thunderstorms with wind damage and isolated large hail are expected to develop today from parts of the southern and central Plains east-northeastward into the Ozarks. Additional severe storms with isolated wind damage and hail may also develop in parts of the mid Mississippi Valley. Marginally severe storms will be possible in the parts of the Desert Southwest and southern Rockies.",
+      "sections": [
+        {
+          "title": "Southern and Central Plains/Ozarks/Mid Mississippi Valley",
+          "text": "An upper-level trough will dig southeastward into the central Plains today as an associated 40 to 50 kt mid-level jet moves southward across the central and southern Plains. At the surface, a cold front will advance southeastward across Kansas, northwest Oklahoma and the Texas Panhandle. Surface dewpoints along and ahead of the front will be in the lower to mid 70s F, resulting in moderate to strong instability by afternoon. An outflow from morning convection is forecast to be located across eastern Kansas and central Missouri. This outflow boundary is expected to be the favored initiation zone for surface-based thunderstorms during the early to mid afternoon. A complex of thunderstorms will likely organize across southeast Kansas and southwest Missouri during the mid to late afternoon. A linear MCS is forecast to develop from this convection, moving southward across much of Oklahoma, southern Missouri and northern Arkansas during the late afternoon and evening. A 40 to 50 kt mid-level jet will move southward across the central Plains during the afternoon reaching the southern Plains by early evening. RAP forecast soundings at 00Z/Sunday in southeast Kansas show evidence of the jet"
+        },
+        {
+          "title": "Desert Southwest/Southern Rockies",
+          "text": "An upper-level ridge will remain in place today across the western U.S. As surface temperatures warm during the day, scattered convection will develop in the higher terrain of Arizona and New Mexico. Moderate instability and steep low to mid-level lapse rates will be favorable for marginally severe wind gusts. The greatest potential may exist along the southeastern part of the Mogollon Rim in eastern Arizona and in southwestern New Mexico where model forecast suggest the strongest instability will develop. ..Broyles/Wendt.. 07/10/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-07-10",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-07-10T13:00Z",
+      "valid_end": "2021-07-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210710_1300.html",
+      "summary": "Severe thunderstorms with wind damage and isolated large hail are expected to develop today from parts of the southern and central Plains east-northeastward into the Ozarks. Additional severe storms with isolated wind damage and hail may also develop in parts of the mid Mississippi Valley and the Desert Southwest.",
+      "sections": [
+        {
+          "title": "KS/OK/MO/AR",
+          "text": "Morning water vapor loop shows a shortwave trough digging southeastward across western SD into NE. Meanwhile, a convectively enhanced cold front is sagging southward across parts of MO/KS. Lift ahead of the upper trough will overspread the front later today, leading to rapid development of intense thunderstorms. Deep layer vertical shear in this area will be quite strong with 40-50 knots of effective shear. This will promote initial supercell storm structures capable of large hail, damaging winds, and perhaps a tornado. Activity will likely quickly congeal into a squall line that will surge southward during the evening across the ENH risk area. Relatively high CAPE values, steep low-level lapse rates, ample boundary-layer moisture, and developing cold pools will pose a risk of rather widespread damaging winds. The storms should diminish during the late evening as diurnal cooling occurs, and storms move south of the strong flow aloft."
+        },
+        {
+          "title": "Eastern NE/Northeast KS/Northwest MO",
+          "text": "A small pocket of relatively cool mid-level temperatures (-13 to -14C at 500mb) will track southeastward from southern SD into northwest MO later today. All model guidance suggests thunderstorm development by early afternoon in vicinity of this thermal trough. Forecast soundings suggest rather steep mid-level lapse rates and sufficient CAPE for a few robust storms capable of large hail. One or more of the clusters of storms may organize upscale during the early evening, with an increasing risk of damaging winds as storms move into northeast KS and northwest MO."
+        },
+        {
+          "title": "AZ",
+          "text": "Relative strong easterly mid-level flow will be present again tomorrow over central and southern AZ. This, combined with sufficient low-level moisture/heating over the Mogollon Rim and Gila mountains will help to organize storms that will then track westward into the lower deserts this evening. The mesoscale details of afternoon heating and convective initiation will modulate the corridor of greatest severe threat, with later updates likely adjusting the position of the SLGT. ..Hart/Goss.. 07/10/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-07-10",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-07-10T16:30Z",
+      "valid_end": "2021-07-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210710_1630.html",
+      "summary": "Severe thunderstorms with wind damage and isolated large hail are expected to develop this afternoon and tonight from parts of the southern and central Plains east-northeastward into the Ozarks. Additional severe storms with isolated wind damage and hail may also develop in parts of the mid Mississippi Valley and the Desert Southwest.",
+      "sections": [
+        {
+          "title": "OK/southeast KS east to mid-Mississippi Valley",
+          "text": "Late morning satellite imagery shows a midlevel shortwave trough over NE/SD moving southeast, with a convectively-reinforced cold front extending from southwest KS into northern/central MO. Associated large-scale lift with the shortwave trough will contribute to development/intensification of thunderstorms this afternoon, including supercells and linear segments/clusters. Steep midlevel lapse rates and ample westerly shear will result in a risk for damaging winds and large hail, and perhaps a tornado, with supercell structures early in the development phase. With time, upscale growth will result in a more widespread risk for damaging winds this evening across the ENH area. Farther east into the mid-Mississippi Valley, at least two MCVs were noted on morning water vapor imagery embedded within stronger midlevel flow, and thunderstorms will intensify in the vicinity of these features as boundary-layer heating/destabilization takes place. Effective shear values of 20-30 kts will support multicell clusters with a risk for damaging winds this afternoon and evening. Isolated instances of large hail are also possible."
+        },
+        {
+          "title": "Southeast NE/northeast KS/northwest MO/southwest IA",
+          "text": "Thunderstorms are expected to intensify in association with a midlevel shortwave trough this afternoon and evening. Moderate MLCAPE and cool midlevel temperatures will result in a risk for large hail, with damaging winds becoming more of a concern as storms merge into a couple of southeast-moving clusters this evening."
+        },
+        {
+          "title": "AZ",
+          "text": "Relatively strong easterly mid-level flow of 25-35 kts will be present this afternoon and evening over central and southern AZ. This, combined with sufficient low-level moisture/heating over the Mogollon Rim and Gila mountains will help to organize storms that will then track westward into the lower deserts this evening. HREF 12z guidance shows the potential again today for severe gusts in association with these storms. ..Bunting/Jirak.. 07/10/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-07-10",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-07-10T20:00Z",
+      "valid_end": "2021-07-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210710_2000.html",
+      "summary": "Severe thunderstorms with wind damage, isolated large hail, and perhaps a tornado or two are expected to develop this afternoon and tonight from parts of the southern and central Plains east-northeastward into the Ozarks. Additional severe storms with isolated wind damage and hail may also develop in parts of the mid Mississippi Valley and the Desert Southwest.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "The following primary changes have been made for the 20Z outlook: 1. A small 5% tornado area has been added from northeast OK/southeast KS into southwest MO. The primary threat is still expected to be severe wind and hail, but sufficient low-level shear will support the potential for a couple of tornadoes with initial semi-discrete development. 2. 2% tornado probabilities have been expanded into central IL, where a couple brief tornadoes have been noted with low-topped supercells. See MCD 1242 for more information. 3. Probabilities have been trimmed across portions of Nebraska, in the wake of ongoing convection. Otherwise, the previous forecast reasoning remains valid. See the previous discussion below for more information. ..Dean.. 07/10/2021 .PREV DISCUSSION... /ISSUED 1129 AM CDT Sat Jul 10 2021/"
+        },
+        {
+          "title": "OK/southeast KS east to mid-Mississippi Valley",
+          "text": "Late morning satellite imagery shows a midlevel shortwave trough over NE/SD moving southeast, with a convectively-reinforced cold front extending from southwest KS into northern/central MO. Associated large-scale lift with the shortwave trough will contribute to development/intensification of thunderstorms this afternoon, including supercells and linear segments/clusters. Steep midlevel lapse rates and ample westerly shear will result in a risk for damaging winds and large hail, and perhaps a tornado, with supercell structures early in the development phase. With time, upscale growth will result in a more widespread risk for damaging winds this evening across the ENH area. Farther east into the mid-Mississippi Valley, at least two MCVs were noted on morning water vapor imagery embedded within stronger midlevel flow, and thunderstorms will intensify in the vicinity of these features as boundary-layer heating/destabilization takes place. Effective shear values of 20-30 kts will support multicell clusters with a risk for damaging winds this afternoon and evening. Isolated instances of large hail are also possible."
+        },
+        {
+          "title": "Southeast NE/northeast KS/northwest MO/southwest IA",
+          "text": "Thunderstorms are expected to intensify in association with a midlevel shortwave trough this afternoon and evening. Moderate MLCAPE and cool midlevel temperatures will result in a risk for large hail, with damaging winds becoming more of a concern as storms merge into a couple of southeast-moving clusters this evening."
+        },
+        {
+          "title": "AZ",
+          "text": "Relatively strong easterly mid-level flow of 25-35 kts will be present this afternoon and evening over central and southern AZ. This, combined with sufficient low-level moisture/heating over the Mogollon Rim and Gila mountains will help to organize storms that will then track westward into the lower deserts this evening. HREF 12z guidance shows the potential again today for severe gusts in association with these storms."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-07-11",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-07-11T01:00Z",
+      "valid_end": "2021-07-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210711_0100.html",
+      "summary": "Severe thunderstorms producing damaging winds are expected this evening from central Oklahoma to the Ozarks. Additional severe storms with damaging gusts and hail are likely over southern Arizona.",
+      "sections": [
+        {
+          "title": "OK into the Ozarks",
+          "text": "A substantial MCS is currently situated over northeast OK, with a secondary line of storms just northeast into southwest MO. Height falls/cooling aloft will continue across the region tonight, with gradually increasing low to mid level flow. A favorable instability pool with MLCAPE over 3000 J/kg as well as increasing SR inflow this evening should allow for a strengthening MCS to translate south/southwest into central and eastern OK, with damaging wind gusts expected. Storms currently over southwest MO will also have severe potential this evening as favorable theta-e extends southward across AR, although a bit less than over OK."
+        },
+        {
+          "title": "Southern AZ",
+          "text": "Scattered storms currently extend along the Rim, with surface observations showing a strong northeast outflow surge developing. Meanwhile, hot temperatures and a moist air mass are in place across the desert floors with PWAT over 1.50\" in some areas per GPS sensors. Therefore, there appears to be a reasonable chance of damaging wind gusts this evening as outflows become better established. Westward moving cells may even contain marginal hail as winds aloft are light, but veer with height. ..Jewell.. 07/11/2021"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 1236,
+      "issue_utc": "2021-07-10T16:37Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1236.html",
+      "summary": "Thunderstorms are developing across northeast Oklahoma and northwest Arkansas. Hail and gusty winds will be possible in the near term. Longer-term severe potential with these storms is more uncertain.",
+      "discussion": "Elevated thunderstorms have developed rapidly across Deleware County, OK, this morning in response to warm-air advection in the 850-700 millibar layer and weak large-scale ascent associated with a small short-wave trough moving through the larger wavelength trough upstream. Lapse rates around 8 C/km in the 500-700 millibar layer have contributed to most-unstable CAPE of up to 2000 J/kg, with deep-layer shear between 35-40 knots. Despite these lapse rates, a freezing level around 600 millibars should limit the potential for large hail in the short-term. Thus, gusty thunderstorm outflows and small hail will be the primary near-term threats. Current thinking is that these storms will weaken early this afternoon as warm-air advection weakens. However, if the thunderstorms can transition to more surface-based over the next couple of hours, the likelihood of them persisting will increase. Thus the need for any potential watch through early afternoon is uncertain. Conditions will be monitored."
+    },
+    {
+      "year": 2021,
+      "number": 1237,
+      "issue_utc": "2021-07-10T18:20Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1237.html",
+      "summary": "Thunderstorms are expected to increase in intensity and organization this afternoon as they move south-southeastward across the area. Convective trends will be monitored for the possibility of a watch.",
+      "discussion": "Disorganized convection, associated with a midlevel shortwave trough, has moved into northeastern Nebraska and northwestern Iowa this afternoon. Relatively cool midlevel temperatures (<-10C) and surface dewpoints in the mid-to-upper 60s F are contributing to moderate instability around 1500 J/kg in the presence of effective bulk shear less than 25 knots. As the storms move south-southeastward, they should encounter better shear (despite shear weakening overall with time as the trough also shifts southward), which may promote better updraft organization. These storms will primarily pose a threat for severe hail, but a damaging wind gust may also be possible if multicell clusters evolve."
+    },
+    {
+      "year": 2021,
+      "number": 1238,
+      "issue_utc": "2021-07-10T18:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1238.html",
+      "summary": "Multiple clusters of thunderstorms are expected to develop through the mid afternoon. Large hail and damaging thunderstorm winds will be the primary threat, although a tornado or two cannot be ruled out.",
+      "discussion": "A large precipitation shield continues to wane in coverage early this afternoon across south-central Missouri. Furthermore, the associated cloud cover continues to thin -- with breaks in the coverage identified across southeast Missouri. These breaks in the cloud cover have allowed surface temperatures to warm into the upper 80s F in the presence of surface dewpoints in the low-to-mid 70s F, yielding surface-based CAPE between 2000-3000 J/kg. As temperatures warm and surface inhibition diminishes, multiple clusters of thunderstorms are expected to develop along and south of a front stretching from central Kansas east into central Illinois. Although the better deep-layer shear is confined to Kansas and southwest Missouri, it should be sufficiently strong along and near the front to support updraft organization, with large hail and damaging thunderstorm winds possible. With time merging thunderstorm cold pools and outflows should result in upscale growth into one or more MCSs that move south, posing a more widespread damaging wind threat. Before the eventual upscale growth, a tornado or two cannot be ruled out with discrete cells interacting with with front or other outflow boundaries. Given the likelihood of multiple clusters of severe thunderstorms this afternoon, one or more watches will likely be needed across the area."
+    },
+    {
+      "year": 2021,
+      "number": 1239,
+      "issue_utc": "2021-07-10T18:32Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1239.html",
+      "summary": "At least a few damaging gusts remain possible over the next few hours. However, the spatial coverage of severe winds is expected to be relatively low overall and a Severe Thunderstorm Watch issuance is not currently anticipated.",
+      "discussion": "MRMS mosaic and KRLX radar data depict a small but highly organized MCS propagating across central WV, with semi-discrete storms exhibiting occasional transient supercell structures to the south of the bowing complex (some with a history of tree damage). 30-35 kts of effective bulk shear is evident across the Ohio Valley/Mid-Atlantic regions based on 18Z mesoanalysis, with the shear vectors orthogonal to the MCS. The bowing-structure MCS and nearby transient supercells are expected to remain organized through the mid afternoon hours. Nonetheless, buoyancy is marginal, with generally less than 500 J/kg MLCAPE noted (fueled primarily by 7-8 C/km low-level lapse rates). The KRLX showed mainly 30-40 kts of leading-line flow about 200-500 ft AGL, and significant intensification is not expected. As such, gusty winds may accompany the stronger storms/bowing segments, and while a few severe gusts cannot be ruled out, the lack of more widespread damaging wind potential suggests a Severe Thunderstorm Watch is not needed."
+    },
+    {
+      "year": 2021,
+      "number": 1240,
+      "issue_utc": "2021-07-10T19:17Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1240.html",
+      "summary": "Thunderstorms will develop this afternoon and evening across the region. Large hail and damaging winds will be the primary threat, although a tornado or two cannot be ruled out. A watch will likely be needed by 4 PM CDT.",
+      "discussion": "A surface cold front across southwest Kansas is slowly moving southeast this afternoon with an effective stationary front extending from south-central into northeast Kansas. Along and south of this frontal zone, diurnal heating has contributed to a very unstable airmass as surface temperatures warm into the mid 80s F to lower 90s F with surface dewpoints in the low-to-mid 70s F. As this heating continues, surface-based inhibition will erode and several clusters of thunderstorms will develop. Initial development -- likely before 21Z -- should occur across eastern Kansas within the aforementioned frontal zone, with additional development later this afternoon farther southwest across Oklahoma. Surface-based CAPE in excess of 3000 J/kg, mid-level lapse rates between 7 and 8 C/km, and effective-layer shear between 40-50 knots will combine to support thunderstorms capable of large hail and damaging thunderstorm wind gusts. Given the degree of instability and effective-layer shear, a tornado or two will be possible with thunderstorms, especially early in their life cycle when they remain more discrete and may pose supercellular characteristics. With time, congealing thunderstorm cold pools and outflows will promote upscale growth into one or more south-southeast moving linear MCSs, with the primary severe hazard transitioning to more of a widespread wind damage potential. A watch will likely be needed across portions of this area by 21Z/4PM CDT."
+    },
+    {
+      "year": 2021,
+      "number": 1241,
+      "issue_utc": "2021-07-10T20:05Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1241.html",
+      "summary": "Thunderstorms have developed in an increasingly unstable environment. Marginally severe hail and gusty thunderstorm outflows will be possible. A watch is not expected.",
+      "discussion": "Showers and thunderstorms have developed within a strongly unstable environment with most-unstable CAPE values between 1500-2000 J/kg. Deep-layer shear is fairly week across the region, mostly at or below 30 knots, and mid-level lapse rates are generally less than 6 C/km. The result of which should act to limit widespread wind or hail potential, especially in the absence of strong forcing for ascent. However, given the very moist conditions and strong instability, a isolated threat for marginally severe hail and a wet microburst exists. A watch is not currently expected."
+    },
+    {
+      "year": 2021,
+      "number": 1242,
+      "issue_utc": "2021-07-10T20:09Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1242.html",
+      "summary": "An additional brief tornado or two remains possible with the longer lasting, more dominant updrafts over the next couple of hours. The very brief, localized nature of the severe threat precludes a WW issuance at this time, though trends will continue to be monitored.",
+      "discussion": "An MCV has recently developed across west-central IL in association with the remnants of an older MCS that has propagated out of MO earlier this morning. A few discrete supercells have developed in close proximity to the MCV center, including a relatively more dominant supercell with a history of brief tornadoes over the past 1-2 hours. Ahead of the MCV cluster, locally backed surface winds have been noted, which are likely locally enhancing low-level shear, with nearly 200 m2/s2 0-3km SRH, as shown by the 1918Z KILX VWP. Nonetheless, buoyancy is quite scant, with well under 500 J/kg MLCAPE present ahead of the MCV. In addition, precipitation and clouds ahead of the MCV will continue to hinder more robust surface heating and subsequent instability from manifesting. As such, the tornado threat is expected to remain relatively limited overall, with a brief tornado or two likely with the most dominant storms. A WW issuance is not anticipated, though trends will continued to be monitored for an increase in the tornado threat."
+    },
+    {
+      "year": 2021,
+      "number": 1243,
+      "issue_utc": "2021-07-10T20:44Z",
+      "topic": "Severe Thunderstorm Watch 366",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1243.html",
+      "summary": "The severe weather threat continues across portions of Severe Thunderstorm Watch 366.",
+      "discussion": "The merging of outflows from numerous storms across the watch has led to upscale growth across southeastern Nebraska and southwestern Iowa. Thus, the greatest short-term severe weather threat is likely damaging winds from the portion of the line surging to the southeast. As this thunderstorm complex continues to push southeastward, it will encounter a more favorable thermodynamic and kinematic environment, supporting the continued severe weather threat."
+    },
+    {
+      "year": 2021,
+      "number": 1244,
+      "issue_utc": "2021-07-10T21:48Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1244.html",
+      "summary": "Storms are continuing develop along the Mogollon Rim and Gila Mountains. As these storms are beginning to move off the terrain, a threat for strong to severe wind gusts is increasing for the lower deserts. A WW is possible this afternoon.",
+      "discussion": "Temperatures in the lower deserts of central/southern Arizona have risen to 105-110 F while maintaining upper 50s to low 60s F dewpoints. A cluster of storms has developed within the Gila mountains and has shown a tendency to move southwestward off the terrain given 25-30 kts of cloud-bearing shear. The 13Z observed PHX sounding sampled 1.61 inches PWAT with very steep mid-level lapse rates. Further development is possible along other portions of the Mogollon Rim as well as within southeastern Arizona. A cluster or two of thunderstorms is expected to evolve this afternoon and evening. Some MLCIN is still being objectively analyzed, but cold pool development should help parcels reach their LFC and continue to propagate southwestward. Steep lapse rates through the lower troposphere will promote strong to severe wind gusts. Though clustering will likely occur quickly, discrete activity will pose a marginally severe hail threat. A WW is possible this afternoon."
+    },
+    {
+      "year": 2021,
+      "number": 1245,
+      "issue_utc": "2021-07-10T22:27Z",
+      "topic": "Severe Thunderstorm Watch 366",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1245.html",
+      "summary": "A line of thunderstorms along the Missouri River will continue southeast into a slightly more favorable environment for damaging wind gusts and perhaps large hail. Local extensions in area of WW 366 may be needed.",
+      "discussion": "In the wake of thunderstorm complexes overnight yesterday into this morning, airmass recovery has continued this afternoon in eastern Kansas and western Missouri. Temperatures have risen in the low to mid 80s F, which is slightly higher than RAP/HRRR forecast guidance has shown. As such MLCAPE may a bit higher in some locations than the objectively analyzed 2000-2500 J/kg. As the line of convection continues to the southeast, the environment will be more supportive of damaging wind gusts as well as large hail. A few storms have tried to develop ahead of the line and these more discrete storms would pose the greatest large hail risk. Storms should be maintained with forcing from the mid-level shortwave and associated deep-layer shear. With storms nearing the edge of WW 366, local extensions in area may be needed to address the continue threat for severe storms this afternoon into the early evening. ..Wendt.. 07/10/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1246,
+      "issue_utc": "2021-07-10T22:33Z",
+      "topic": "Severe Thunderstorm Watch 365",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1246.html",
+      "summary": "Threat for damaging wind gust will continue across southern IL as the convective line surges eastward. The need for a downstream watch is currently unlikely, but convective trends will be monitored closely.",
+      "discussion": "Recent radar imagery has shown a trend towards faster eastward progression of the convective cluster currently ongoing across southern IL. This quicker eastward progression suggests the cluster has transitioned to a more cold pool driven convective line. Recent storm motion is estimated to be around 33 kt within the most progressive portion of the line moving into Jefferson and Franklin Counties. Echo tops and MESH cores suggest these updrafts are not overly strong, limiting the hail potential. Even so, strong downdrafts and the surging cold pool will continue to produce damaging wind gusts. At its current speed, the line is expected reach the edge of Severe Thunderstorm Watch 365 by 00Z. The need for a downstream watch is unlikely, given current storm trends and air mass stabilization from ongoing storms over the region. Nevertheless, trends will be monitored closely."
+    },
+    {
+      "year": 2021,
+      "number": 1247,
+      "issue_utc": "2021-07-11T00:21Z",
+      "topic": "Severe Thunderstorm Watch 367",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1247.html",
+      "summary": "Severe threat will continue across central and western OK through the evening as thunderstorms develop along the cold front.",
+      "discussion": "Recent surface analysis placed the cold front from about 50 miles northwest of CSM to about 15 miles northwest of BVO. Much of the activity in northeast/north-central OK has occurred ahead of the cold front thus far, but the most recent storm development south of END and near JWG is occurring along the wind shift associated with the cold front. Remnant outflow boundary also exists from just southwest of CSM to just south of JWG. The air mass south of the front across central and western OK is strongly unstable and moderately sheared and severe thunderstorms are still expected to develop southwestward along the front over the next few hours. Some hail is possible with initial updrafts, but quick linear development is anticipated as the outflow surges southward, resulting in strong wind gusts as the primary threat. Low probability tornado potential will still exist for the next few hours, but weak low-level vertical shear show limit the overall threat. ..Mosier.. 07/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1248,
+      "issue_utc": "2021-07-11T00:39Z",
+      "topic": "Severe Thunderstorm Watch 366",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1248.html",
+      "summary": "Threat for strong/severe wind gusts is becoming more localized in WW 366. Greatest potential exists along southwest flank of convection now near Lawrence, KS.",
+      "discussion": "The line of storms moving along the Missouri River has become somewhat less organized over the past 90 minutes. Convection forming ahead of the line has generally remained weak and has left outflow from roughly near Lawrence, KS into the eastern Kansas City Metro area. This outflow along with a greater influence of convection farther to the south is expected to limit the overall intensity of storms as the evening progresses. Storms on the southwestern flank of of the activity have the greatest potential for strong/severe wind gusts, with Lawrence, KS gusting to 60 kts recently. However, KEAX radar imagery shows outflow quickly moving ahead of these storms making the threat potentially short-lived. ..Wendt.. 07/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1249,
+      "issue_utc": "2021-07-11T01:01Z",
+      "topic": "Severe Thunderstorm Watch 367",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1249.html",
+      "summary": "Isolated wind damaging gusts remain possible across northeastern OK. A downstream watch across east-central OK/west-central AR is not currently anticipated.",
+      "discussion": "Recent KINX radar imagery shows the cold pool out ahead of main convective cluster. Updrafts within this cluster are also weaker than those developing farther west along the cold front. The downstream air mass is strongly unstable and storm development behind the cold pool will likely continue. However, given the current storm trends and expectation for vertical shear to remain near its current strength (or perhaps even weaken a little), it seems unlikely that reinvigoration of this line/cluster will occur and storms will likely stay sub-severe. As such, a downstream watch is not currently anticipated. ..Mosier.. 07/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1250,
+      "issue_utc": "2021-07-11T01:55Z",
+      "topic": "Severe Thunderstorm Watch 369",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1250.html",
+      "summary": "Storms continue to move off the higher terrain in central and southeastern Arizona. Severe wind gusts are the primary threat with these storms, though isolated large hail is also possible.",
+      "discussion": "Storm coverage along the Mogollon Rim into southeastern Arizona has increased early this evening. These clusters of storms are expected to continue to move off the higher terrain and pose a threat for severe winds gusts. The strongest gusts so far have occurred in southeastern Arizona. The cluster is moving roughly westward, the main portion of which may reach south of Tucson later this evening. Additional development has occurred in northwestern Cochise County and could impact western portions of Pima County as well. Northeast of Phoenix, a nearly contiguous line of thunderstorms continues to move south/southwest off of the Mogollon Rim. Current timing of the line suggest it may impact portions of the Phoenix Metro between 9-10 PM MST. Severe wind gusts as well as isolated large hail will be possible. ..Wendt.. 07/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1251,
+      "issue_utc": "2021-07-11T02:21Z",
+      "topic": "Severe Thunderstorm Watch 367",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1251.html",
+      "summary": "Ongoing storms across central and east-central OK will likely maintain severe intensity for the next few hours into south-central and southeast OK.",
+      "discussion": "Recent storm motion for the ongoing convective line moving through central OK is south-southeast at 28 kt. At its current speed, the line will move to the edge of Severe Thunderstorm Watch 368 in Pottawatomie County around 330Z. However, it is likely the line will begin to increase its southward progression. Additionally, the storms are already near the edge of the watch in Lincoln County. Very strong updrafts exist within this line and the cold pool remains close to the leading edge of the strong reflectivity. These observations, in tandem with the strong instability still in place within the downstream air mass, suggest the storms will likely remain strong to severe as they move into more of south-central OK and eventually into portions of far northwest TX. The storms ongoing across east-central OK have also experienced some renewed vigor as the cold front moves through and the severe threat may persist past the edge of Severe Thunderstorm Watch 367 into more of southeast OK as well."
+    },
+    {
+      "year": 2021,
+      "number": 1252,
+      "issue_utc": "2021-07-11T02:49Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1252.html",
+      "summary": "Isolated large hail and perhaps a strong wind gust will be possible with near surface-based supercells moving southeastward in northeast New Mexico. No WW is expected.",
+      "discussion": "A few supercells have developed along the Sangre de Cristo Mountains in northeast New Mexico. With perhaps only subtle upper-level support, the longevity of this activity is in question. However, under this steep mid-level lapse rate, northwest flow regime, 35-40 kts of effective shear could help sustain these southeastward moving storms longer than expected. Should storms persist they would encounter greater buoyancy. Isolated large hail would likely be the main threat with these storms, though a strong wind gust could also occur before surface stabilization becomes stronger. Given the uncertainty, no WW is expected."
+    },
+    {
+      "year": 2021,
+      "number": 1253,
+      "issue_utc": "2021-07-11T04:56Z",
+      "topic": "Severe Thunderstorm Watch 368",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1253.html",
+      "summary": "Strong, damaging wind gusts will likely continue for the next few hours.",
+      "discussion": "Western portion of the ongoing convective line has recently surged more southwestward towards a pocket of greater instability. This surge coincided with storm development briefly preceding the outflow before it was then overrun by the outflow. This merger appears to have allowed the updrafts to become more colocated with the outflow, strengthening the overall structure of the line and making damaging wind gusts more likely. A 53 kt wind gusts was reported about an hour ago in Chickasha. The more southwestward storm motion will likely keep this line in Severe Thunderstorm Watch 368 past its original expiration time of 0500Z. Portion of this line moving through Pontotoc and into John and Coal Counties has shown a bit more southeastward motion. KTLX velocity data also shows an area stronger outflow, which looks to be related to interaction with another outflow boundary from antecedent storms to the east. Airmass downstream of this line is moist and unstable, suggesting the line should continue for at least the next several hours, despite low-level nocturnal stabilization. The more southeastward motion of the central portion of the line may result in the need to expand Severe Thunderstorm Watch 370 eastward along the Red River in TX. ..Mosier.. 07/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1254,
+      "issue_utc": "2021-07-11T07:46Z",
+      "topic": "Severe Thunderstorm Watch 370",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1254.html",
+      "summary": "Overall severe threat has lessened, with this trend expected to gradually continue as storms spread southward. Additional WW issuance south of the ongoing activity is not anticipated, but local extension may be needed for an hour or so across southwestern portions of WW 370.",
+      "discussion": "Latest radar loop shows a continuous band of storms moving southward, from western North Texas eastward across the Red River Valley area to southern Arkansas. Storm intensity overall has gradually diminished, though a few severe-caliber gusts are still occurring locally, on occasion, with stronger storms embedded within the line. With the greatest surge in the line now occurring across the western North Texas portion of the watch, but with a more stable airmass downstream across this region, expect threat to gradually diminish as storms advance. Overall, while a few additional strong/possibly damaging gusts may occur over the next 1 to 2 hours, risk should remain local/isolated enough not to warrant new WW issuance south of the exist portions of WW 370. ..Goss.. 07/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

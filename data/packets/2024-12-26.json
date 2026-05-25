@@ -1,0 +1,128 @@
+{
+  "convective_day": "2024-12-26",
+  "valid_start": "2024-12-26T12:00Z",
+  "valid_end": "2024-12-27T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2024-12-26",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-12-26T16:30Z",
+      "valid_end": "2024-12-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20241226_1630.html",
+      "summary": "Several tornadoes, including a strong (potentially EF2+) tornado or two, will be possible this afternoon/evening across southeast Texas. Damaging gusts of 60-70 mph and large hail of 1-1.75\" in diameter will also be possible from east Texas this afternoon into Louisiana, southern Arkansas and far west central Mississippi overnight.",
+      "sections": [
+        {
+          "title": "East TX/LA/southern AR through tonight",
+          "text": "Elevated convection has already formed over north central TX this morning in a band of ascent preceding a midlevel shortwave trough moving eastward. New thunderstorm development is expected through the afternoon farther to the south and east across east/southeast TX, as the warm sector spreads northward in advance of a weak surface cyclone. Boundary-layer dewpoints in the mid-upper 60s beneath midlevel lapse rates near 8 C/km will drive MLCAPE ranging from 500 J/kg a little south of I-20 to 1500-2000 J/kg across southeast TX by late afternoon, where surface-based storms are likely with small breaks in the stratus. Vertical shear profiles will be characterized by sufficiently long hodographs (effective bulk shear in excess of 45 kt) and low-level hodograph curvature (effective SRH in excess of 200 m2/s2) for supercells. The initial storms will be more cellular across southeast TX with a gradual transition to a mixed mode/band of storms this evening into tonight as the storms spread eastward/northeastward across LA/southern AR. The surface-based supercells in southeast TX will be capable of producing tornadoes from early afternoon into late evening (including a strong/EF2+ tornado or"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-12-26",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-12-26T20:00Z",
+      "valid_end": "2024-12-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20241226_2000.html",
+      "summary": "Several tornadoes, including a strong (potentially EF2+) tornado or two, will be possible this afternoon/evening across southeast Texas. Damaging gusts of 60-70 mph and large hail of 1-1.75\" in diameter will also be possible from east Texas this afternoon into Louisiana, southern Arkansas and far west central Mississippi overnight.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "Severe probabilities in parts of central Texas have been adjusted to account for the progression of ongoing convection. Quasi-discrete supercells continue in parts of southeast Texas as well as to the northwest of Houston. These storms will continue to post the greatest threat for tornadoes (potentially strong). See MCD 2284 and 2285 for additional short-term, mesoscale details. ..Wendt.. 12/26/2024 .PREV DISCUSSION... /ISSUED 1013 AM CST Thu Dec 26 2024/"
+        },
+        {
+          "title": "East TX/LA/southern AR through tonight",
+          "text": "Elevated convection has already formed over north central TX this morning in a band of ascent preceding a midlevel shortwave trough moving eastward. New thunderstorm development is expected through the afternoon farther to the south and east across east/southeast TX, as the warm sector spreads northward in advance of a weak surface cyclone. Boundary-layer dewpoints in the mid-upper 60s beneath midlevel lapse rates near 8 C/km will drive MLCAPE ranging from 500 J/kg a little south of I-20 to 1500-2000 J/kg across southeast TX by late afternoon, where surface-based storms are likely with small breaks in the stratus. Vertical shear profiles will be characterized by sufficiently long hodographs (effective bulk shear in excess of 45 kt) and low-level hodograph curvature (effective SRH in excess of 200 m2/s2) for supercells. The initial storms will be more cellular across southeast TX with a gradual transition to a mixed mode/band of storms this evening into tonight as the storms spread eastward/northeastward across LA/southern AR. The surface-based supercells in southeast TX will be capable of producing tornadoes from early afternoon into late evening (including a strong/EF2+ tornado or"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2024,
+      "number": 2281,
+      "issue_utc": "2024-12-26T15:18Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2281.html",
+      "summary": "Thunderstorms may pose a risk for marginally severe hail (0.5 to 1.25 inch diameter) in the near-term (next couple of hours). A severe thunderstorm watch is not currently expected, but may become possible toward early afternoon for portions of the MCD area.",
+      "discussion": "Elevated thunderstorms are occurring this morning in a low-level warm advection regime ahead of an approaching upper shortwave trough. The morning FWD RAOB indicated steep midlevel lapse rates but strong inhibition through may layers in the thermodynamic profile. However, latest SPC Mesoanalysis data and RAP forecast soundings indicate midlevel inhibition is likely decreasing with time as midlevel temperatures continue to cool and large-scale ascent increases with the approaching of the upper trough. Some brief increase in convective cores has also been noted in 7km CAPPI, along with small increases in MRMS MESH. Favorable vertical shear, with elongated/straight hodographs above 2 km will support some continued organization of elevated storms into midday. This activity may briefly be capable of producing marginally severe hail (0.5 to 1.25 inch diameter) the next couple of hours. While this initial convection may not require a watch in the short term. Severe potential may increase by early afternoon across parts of the MCD area and watch issuance may be needed later (and will be discussed in forthcoming MCDs)."
+    },
+    {
+      "year": 2024,
+      "number": 2282,
+      "issue_utc": "2024-12-26T16:23Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2282.html",
+      "summary": "The severe thunderstorm threat is expected to steadily increase through the late morning and afternoon as the environment becomes more favorable for robust convection. Watch issuance is anticipated in the coming hours to address this threat.",
+      "discussion": "Open warm sector convection has been steadily increasing in both coverage and depth over the past hour across the TX Coastal Plain into southeast TX with a few deeper cells beginning to reach sufficient depth for steady lightning production. Recent surface observations show the early stages of surface cyclogenesis across north TX with an attendant increase in southeasterly winds and a steady northwestward progression of low-level moisture. Despite extensive cloud cover, mid-60s dewpoints, combined with 7-8 C/km mid-level lapse rates, should promote MLCAPE values increasing into the 1000-2000 J/kg range by early afternoon. Coincidentally, the low/mid-level mass response associated with the deepening surface low should promote increasing low-level SRH and deep-layer wind shear that should promote supercellular storm modes within the open warm sector. As such, the expectation is that the developing convection should continue to slowly deepen and intensify through early afternoon with an attendant increase in the overall severe threat. Exact timing of when convection will become sufficiently intense to warrant watch issuance remains uncertain (though a watch will likely be needed by early-afternoon), but given the potential for supercellular tornadoes, including significant tornadoes, a tornado watch will likely be needed."
+    },
+    {
+      "year": 2024,
+      "number": 2283,
+      "issue_utc": "2024-12-26T17:14Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2283.html",
+      "summary": "Severe thunderstorm potential will gradually increase into the afternoon hours across northeast Texas and the ArkLaTex vicinity. Large hail to 1.75 inch diameter and severe gusts to 65 mph are possible. A severe thunderstorm watch will be issued soon.",
+      "discussion": "A surface low near/just south of the Dallas-Fort Worth Metroplex will develop east through this afternoon and evening. Surface dewpoints in the mid/upper 50s F across northeast TX into the ArkLaTex will increase some in a continued low-level warm advection regime ahead of the low. Heating will remain muted by low-level cloud cover and ongoing convection. As a result, surface-based convection likely will remain sparse, except near the southern edge of the MCD where a warm front is expected to exist by late afternoon. A mixed mode of scattered, elevated cells and line segments will evolve with time into late afternoon/early evening. Steep midlevel lapse rates will contribute to modest MUCAPE amid supercell wind profiles. This will support isolated large hail up to 1.75 inch diameter. While convection is expected to largely remain elevated, if and where stronger destabilization occurs, surging line segments could produce severe gusts to 65 mph. The tornado risk overall should remain limited given the elevated nature of storms. However, across the southern MCD area adjacent to southeast TX, a tornado or two will be possible if the surface warm front retreats that far north by late afternoon/evening."
+    },
+    {
+      "year": 2024,
+      "number": 2284,
+      "issue_utc": "2024-12-26T19:12Z",
+      "topic": "Severe Thunderstorm Watch 714",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2284.html",
+      "summary": "The risk for severe wind and hail continues across northeast Texas and the ArkLaTex vicinity. Potential may increase by 21-00z/3-6 pm CST.",
+      "discussion": "Strong thunderstorms will continue to track northeast across the region through late afternoon. While strong vertical shear is resulting in some organized line segments and more semi-discrete cells, convection has struggled to maintain intensity given the weak thermodynamic environment. Nevertheless, some additional destabilization may occur over the next couple of hours while the low-level jet increases with eastward extent. Isolated large hail to 1.75 inch diameter and gusts to 65 mph still remains possible with elevated convection into early evening."
+    },
+    {
+      "year": 2024,
+      "number": 2285,
+      "issue_utc": "2024-12-26T19:14Z",
+      "topic": "Tornado Watch 715",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2285.html",
+      "summary": "The severe threat continues across much of southeast Texas as storms intensify across the region.",
+      "discussion": "Storm intensification across southeast TX has been gradual over the past several hours with most storms struggling to maintain intensity, possibly owing to numerous destructive storm interactions/colliding outflows. Despite this, the overall trend has been towards more intense updrafts as evidence by colder cloud-top temperatures in GOES IR imagery with the stronger pulses. Additionally, KHGX velocity data has shown a few weak, but persistent, low/mid-level mesocyclones with some of the stronger storms. Environmentally, temperatures continue to warm into the upper 60s to mid 70s ahead of a broken line of storms (delineating the primary surface trough) along the TX coast, and KHGX VWP observations have sampled strengthening winds through the 1-3 km layer over the past 2 hours with 0-1 km SRH between 150-200 m2/s2. Further east into far southeast TX, cooler temperatures are yielding less buoyancy compared to areas further southwest along the coast, but southeasterly winds are supporting effective SRH on the order of 200-250 m2/s2 based on latest RAP mesoanalysis estimates. Latest high-res guidance suggests that the environment will continue to become more favorable for well-organized convection as the surface low deepens to the north, and given the aforementioned convective trends, further intensification appears probable through late afternoon. In the short term, the greatest severe/tornado risk will likely be associated with the stronger cells within the line approaching the Houston area and in far southeast TX where low-level mesocyclones associated with persistent supercells have been noted. ..Moore.. 12/26/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2286,
+      "issue_utc": "2024-12-26T21:26Z",
+      "topic": "Tornado Watch 715",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2286.html",
+      "summary": "The severe threat continues across southeast TX as a broken line of storms approaches the upper TX Gulf coast and the lower Sabine River.",
+      "discussion": "Thunderstorms within a broken convective line continue to undulate in intensity with periodic, somewhat well-organized, low-level mesocyclones across the TX Coastal Plain. Despite relatively transient periods of storm organization/intensity, a recent tornado report from the El Campo, TX area indicates that the current convective environment is sufficient for at least brief tornadoes. The KHGX VWP continues to show slowly strengthening low-level winds with 0-1 km SRH oscillating between 150-250 m2/s2, and this trend is expected to continue through early evening as the surface low to the north continues to deepen. Organized precipitation distribution evident in shallow convection in/around the Houston metro area confirms a favorable low-level wind environment is in place, and is contributing to STP values between 2-3. As such, the tornado threat is expected to persist well into the late afternoon/early evening hours as storms push east towards the coast and the lower Sabine River. Recent high-res guidance suggests the tornado threat may peak during the 22-02 UTC period to the east/northeast of the Houston metro towards the Sabine River when the temporal overlap of buoyancy and strong low-level shear will be greatest. Watch issuance east of the river may be needed later this afternoon/evening based on convective trends over the next few hours. ..Moore.. 12/26/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2287,
+      "issue_utc": "2024-12-26T22:57Z",
+      "topic": "Tornado Watch 715",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2287.html",
+      "summary": "Severe threat is expected to spread into central and southern Louisiana this evening. New tornado watch appears warranted.",
+      "discussion": "Strong, negative-tilt short-wave trough is ejecting across east TX early this evening. 500mb speed max is forecast to translate across northern LA which will encourage LLJ to shift north across the lower MS over the next 3-6hr. As this occurs, warm sector will recover a bit across LA, especially southwestern LA where surface dew points are rising through the mid 60s. This will contribute to near-surface based buoyancy, that appears adequate, for maintaining ongoing, upstream supercell activity. Latest radar data depicts several longer-lived supercells over southeast TX that will track northeast into a strongly sheared air mass, just east of ww715. This evolving risk likely warrants a new tornado watch immediately downstream. ..Darrow.. 12/26/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2288,
+      "issue_utc": "2024-12-27T02:53Z",
+      "topic": "Tornado Watch 716",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2288.html",
+      "summary": "Some tornado risk continues across Louisiana this evening.",
+      "discussion": "Strongly dynamic short-wave trough is ejecting across the Arklatex this evening. In response to this feature, LLJ is strengthening across northern LA. Strong low-level warm advection appears to be mostly responsible for a corridor of strong-severe convection that is propagating east across ww716. Within this corridor, a few longer-lived supercells are embedded. One, potentially tornadic supercell, is moving northeast across Rapides Parish. Latest diagnostic data suggests this is near the northern limits of surface-based buoyancy, but very strong shear may allow this updraft to persist a bit farther downstream before it weakens appreciably. While a few supercells may spread just east of the watch into western portions of JAN/LIX CWA, latest thinking is updrafts should gradually weaken as they approach the MS delta region. ..Darrow.. 12/27/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2289,
+      "issue_utc": "2024-12-27T07:05Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2289.html",
+      "summary": "Potential for a tornado or two may linger in the southwest Mississippi vicinity for a few more hours. This potential is expected to remain too conditional/short-lived for a watch issuance.",
+      "discussion": "Arcing band of convection had largely weakened last hour with notable warming in IR cloud tops. Still, the environment conditionally supports supercell development through about 09-10Z. The potential for a tornado or two will be most prominent along the northern edge of the mid 60s surface dewpoint plume, which has its apex up the Lower MS Valley. This northern extent of surface-based instability is not expected to expand much farther north during the pre-dawn hours. In addition, hodograph curvature will gradually diminish as strong low-level flow becomes further displaced from the lingering convective arc."
+    }
+  ]
+}

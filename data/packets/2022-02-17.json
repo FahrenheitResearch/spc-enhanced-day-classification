@@ -1,0 +1,144 @@
+{
+  "convective_day": "2022-02-17",
+  "valid_start": "2022-02-17T12:00Z",
+  "valid_end": "2022-02-18T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 4
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2022-02-17",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-02-17T12:00Z",
+      "valid_end": "2022-02-18T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220217_1200.html",
+      "summary": "Severe thunderstorms are expected across portions of the Lower Mississippi Valley, Mid-South, and Southeast on Thursday. Damaging winds and a few tornadoes will be possible.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "An elongated, positive-tilt upper trough will move from the Plains across the Mississippi Valley, with a pronounced leading wave moving from the Arklatex across the Ohio Valley during the day. Low pressure will translate quickly northeastward from eastern Oklahoma early this morning toward Ohio by 00Z ahead of a cold front. Increasing southerly winds will help transport mid 60s F dewpoints north across east Texas, Louisiana, Arkansas, Mississippi and western Alabama, aiding destabilization. The cold front will move rapidly east through Friday morning, crossing the Appalachians. The combination of lift, strong shear, and sufficient instability will likely result in severe wind gusts, and perhaps a few tornadoes across the Enhanced Risk area during the afternoon and evening."
+        },
+        {
+          "title": "Arklatex area northeastward across Tennessee and Kentucky",
+          "text": "Storms are expected to be ongoing early this morning from eastern Oklahoma into northeast Texas ahead of the surface low and cold front. Other storms are likely to extend northeastward along a stationary front from the Missouri/Arkansas border across the Ohio Valley. Early day storms may be elevated, but MLCAPE will increase throughout the day across the warm sector. Moisture advection with mid 60s F dewpoints and limited heating will result in values from 500-750 J/kg, which is a bit low. However, SRH will be quite strong, with wind profiles favorable for rotation. The most favorable combination of shear and moisture currently is forecast across Mississippi, western to Middle Tennessee, and into western Alabama by evening. Damaging winds and a few tornadoes are possible with storms both ahead of the low, and with any storms that eventually develop across the warm sector ahead of the front. Any warm sector storms may have a tornado threat as SRH increases to over 500 m2/s2, perhaps as high as 700 m2/s2 with SBCAPE greater than 0. Although instability will be very weak across northern areas near the Ohio River, extreme shear and prominent wind shift may still result in damaging gust"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-02-17",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-02-17T13:00Z",
+      "valid_end": "2022-02-18T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220217_1300.html",
+      "summary": "Severe thunderstorms are expected across portions of the Mid-South, Tennessee Valley, and the lower Ohio Valley, mainly later today into this evening. Damaging winds and a strong tornado or two will be possible.",
+      "sections": [
+        {
+          "title": "Mid South/TN Valley into the OH Valley through this evening",
+          "text": "A midlevel shortwave trough over the Red River of TX/OK this morning will eject northeastward to the OH River by this evening, as an associated surface cyclone likewise develops northeastward from southeast OK this morning to southern OH this evening. In advance of a cold front trailing the surface cyclone, continued northward moisture transport will result in mid-upper 60s boundary-layer dewpoints reaching the Mid South this afternoon, and low-mid 60s into middle TN and AL by this evening/early tonight. Surface heating in cloud breaks and the increasing low-level moisture will result in MLCAPE of 500-750 J/kg in advance of the cold front this afternoon, especially near and east of the MS River. Thus far, overnight and morning convection across north TX/OK/western AR has not been particularly intense/organized. There is substantial uncertainty regarding how quickly any severe/tornado threat will increase during the day across AR, given widespread clouds and the saturated profile noted in the 12z LZK sounding. The primary threat for supercells in the warm sector may be delayed until mid afternoon across the Mid South, with broken bands of storms/embedded supercells along and ahead o"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-02-17",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-02-17T16:30Z",
+      "valid_end": "2022-02-18T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220217_1630.html",
+      "summary": "Severe thunderstorms are expected across portions of the Mid-South, Tennessee Valley, and the lower Ohio Valley, mainly through this evening. Damaging winds and tornadoes (at least a couple of which may be strong) are the primary threats.",
+      "sections": [
+        {
+          "title": "Mid South/TN Valley into the OH Valley",
+          "text": "A shortwave trough over southeast KS/northeast OK will eject northeast towards the Lower Great Lakes through tonight. Attendant surface cyclone near the MO/AR border will deepen as it tracks across the OH Valley towards the northern Appalachians. In advance of a cold front trailing the surface cyclone, continued northward moisture transport will result in mid-upper 60s boundary-layer dewpoints reaching western portions of TN/AL and a plume of MLCAPE from 500-1000 J/kg centered on eastern LA and MS. With northern/eastern extent, lower quality boundary-layer moisture and/or preceding rainfall will limit prospects for appreciable surface-based instability. Both pre-frontal and frontal convective bands are ongoing from the Mid-South to the Sabine Valley. Cloud breaks in MS out ahead of this activity should support adequate destabilization that broken bands of storms with several embedded supercells should develop between 18-21Z across the Lower MS Valley and spread towards AL/Middle TN into this evening. Despite the rather modest buoyancy and lapse rates expected, highly enlarged and impressive low-level hodographs will support potential for at least a couple strong tornadoes centered "
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-02-17",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-02-17T20:00Z",
+      "valid_end": "2022-02-18T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220217_2000.html",
+      "summary": "Strong/severe thunderstorms will continue to affect portions of the central Gulf Coast states, Tennessee Valley, and into parts of Kentucky through this evening. Damaging winds and a few tornadoes (a couple of which may be strong) are the primary threats.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Evolution of convection across the Mid and Lower Mississippi Valley vicinity has evolved largely as expected, with forecast reasoning still valid from this region eastward into the central Gulf Coast states/Tennessee Valley. Given current progression of the cold front, and associated frontal convective band, western portions of the outlook areas are being trimmed accordingly. Additionally, extensive stratiform-type precipitation is occurring from southwestern Kentucky eastward and northward, and therefore a minor southward suppression of outlook areas is also being included in this update. Otherwise, potential for damaging winds and a few tornadoes will continue across the region this afternoon and evening. ..Goss.. 02/17/2022 .PREV DISCUSSION... /ISSUED 1005 AM CST Thu Feb 17 2022/"
+        },
+        {
+          "title": "Mid South/TN Valley into the OH Valley",
+          "text": "A shortwave trough over southeast KS/northeast OK will eject northeast towards the Lower Great Lakes through tonight. Attendant surface cyclone near the MO/AR border will deepen as it tracks across the OH Valley towards the northern Appalachians. In advance of a cold front trailing the surface cyclone, continued northward moisture transport will result in mid-upper 60s boundary-layer dewpoints reaching western portions of TN/AL and a plume of MLCAPE from 500-1000 J/kg centered on eastern LA and MS. With northern/eastern extent, lower quality boundary-layer moisture and/or preceding rainfall will limit prospects for appreciable surface-based instability. Both pre-frontal and frontal convective bands are ongoing from the Mid-South to the Sabine Valley. Cloud breaks in MS out ahead of this activity should support adequate destabilization that broken bands of storms with several embedded supercells should develop between 18-21Z across the Lower MS Valley and spread towards AL/Middle TN into this evening. Despite the rather modest buoyancy and lapse rates expected, highly enlarged and impressive low-level hodographs will support potential for at least a couple strong tornadoes centered "
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2022,
+      "number": 141,
+      "issue_utc": "2022-02-17T13:30Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0141.html",
+      "summary": "The potential for isolated damaging winds, hail, and a tornado or two will persist this morning. Watch issuance is possible.",
+      "discussion": "13Z surface analysis indicates a low centered near Ft. Smith AR, with a warm front extending northeastward from the low across northern AR. A cold front extends southwestward from the low across eastern OK into TX. A strong, 45-55 kt low-level jet is present over the ArkLaTex/Mid-South region. Thunderstorms aided by pronounced low-level warm advection are ongoing over this area. The 12Z observed sounding from LZK shows poor low-level lapse rates and some lingering stability in the boundary layer. This has inhibited the development of surface-based thunderstorms so far this morning. Even so, just modest diurnal heating and/or a small increase in low-level moisture may be enough to erode the lingering weak convective inhibition across the warm sector. Around 500-750 J/kg of MLCAPE is already present from far northeast TX into much of AR. Both low/mid-level winds are quite strong over this region in association with an approaching shortwave trough, and 50+ kt of deep-layer shear will support organized convection, including supercells. Recent VWPs from KLZK and KSHV show winds rapidly increase to 50+ kt in the 0-1 km layer, with 200-400+ m2/s2 of effective SRH present. If any thunderstorms can become surface based over the next couple of hours, they would be capable of producing both damaging winds owing to the strength of the low/mid-level flow, and perhaps some hail due to the modestly steepened mid-level lapse rates associated with the upper trough. The ample low-level shear would also support updraft rotation, and a tornado or two may occur if a supercell can form and be sustained. The primary uncertainty is whether any robust thunderstorms will form over the next couple of hours given the thermodynamic limitations. Regardless, convective trends will continue to be clos"
+    },
+    {
+      "year": 2022,
+      "number": 142,
+      "issue_utc": "2022-02-17T16:05Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0142.html",
+      "summary": "Potential for scattered discrete supercell development appears likely to increase near and east of the Mississippi River by around Noon through 3 PM CST. These storms will pose a risk of producing tornadoes, at least a couple of which could become strong.",
+      "discussion": "Influx of highest low-level moisture content is focused in a narrow pre-frontal corridor across the lower Mississippi Valley, generally along a very strong south to southwesterly lower/mid-tropospheric jet (including speeds of 50-70+ in the 850-700 mb layer). Through 18-21Z the core of this jet is forecast to nose across the northwestern Mississippi Delta Region through middle Tennessee, but flow in excess of 50 kt likely will continue to trail south-southwestward into Louisiana coastal areas. Along and to the west/northwest of this jet axis, large-scale ascent has been contributing to sustained convective development, but (based on soundings and visible satellite imagery) this activity has remained rooted above above a relatively deep surface-based layer characterized by weak lapse rates near moist adiabatic. This may remain the case into midday as activity gradually spreads eastward. However, breaks in cloud cover do appear to be allowing for at least weak boundary-layer destabilization near and east of the Mississippi River vicinity, and as the area of convective development/forcing for ascent approaches this region toward 18Z, intensifying boundary-layer based thunderstorm development seems increasingly possible. Strongest mid/upper forcing for ascent appears likely to overspread much of western Kentucky and Tennessee, where boundary-layer destabilization remains much more uncertain. However, beneath at least weakly difluent upper flow to the south, the environment is expected to be conducive to discrete storm development, in the presence of strong deep-layer shear supportive of supercells. Of primary concern, low-level hodographs within the destabilizing warm sector will become large and clockwise curved, characterized by modest veering of winds with height and str"
+    },
+    {
+      "year": 2022,
+      "number": 144,
+      "issue_utc": "2022-02-17T19:11Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0144.html",
+      "summary": "A narrow evolving line of heavier showers and embedded thunderstorms may overspread the region through mid to late afternoon, with at least some potential for brief strong to locally damaging wind gusts.",
+      "discussion": "A narrow line of enhanced convection, with embedded thunderstorms, has gradually evolved, perhaps aided by frontogenetic forcing, and appears likely to advance rapidly east-northeastward across the Mid South through 22-00Z. This is nearly coincident with an intensifying lower/mid tropospheric speed maximum, including speeds of 70-90+ kt in the 850-500 mb layer, overspreading the lower Ohio/Tennessee Valley vicinity. Ahead of this activity, persistent preceding rainfall appears to have contributed to a deep tropospheric layer of moist adiabatic lapse rates, with model forecast soundings suggesting little change prior to the arrival of the convective line. Some model output indicate a more stable near-surface layer persisting as well, but the Rapid Refresh forecast soundings indicate lapse rates may trend at least closer to moist adiabatic just ahead of the line. Regardless, this seems likely to minimize the potential for vigorous downdrafts. Furthermore, forecast soundings also suggest that low-level hodographs will trend more linear with the arrival of the line. Given these trends, the evolution of an appreciable severe weather threat is uncertain. However, due to the strength of the wind fields just above the surface, downward mixing of potentially damaging wind gusts might not be out of the question, particularly aided by the narrow heavier rain band."
+    },
+    {
+      "year": 2022,
+      "number": 146,
+      "issue_utc": "2022-02-17T19:56Z",
+      "topic": "Tornado Watch 20",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0146.html",
+      "summary": "A broken band or bands of thunderstorms will continue to slowly shift eastward across Mississippi into Alabama late this afternoon, with the potential for a few supercells to continue to develop and pose a risk for producing tornadoes.",
+      "discussion": "While the more favorable large-scale ascent, and intense lower/mid tropospheric jet core, are passing to the north of the region (across the lower Ohio and Tennessee Valleys), a corridor of 50-70 kt flow trails along an axis into the Louisiana Gulf coast vicinity. This is forecast to gradually shift eastward through late afternoon, with associated low-level moistening and destabilization remaining a potential focus for vigorous thunderstorm development. A broken leading line of thunderstorms spreading east of the Interstate 55 corridor of Mississippi appears near the eastern periphery of the narrow corridor of deeper boundary-layer moisture advecting inland off the Gulf of Mexico. This is trailed by additional pre-frontal developing broken bands of convection, which may continue to slowly intensify in the presence of weak mixed-layer CAPE. Given the strong low-level and deep-layer shear, the environment may become conducive to the evolution of a few supercells, which could pose a risk for producing tornadoes. ..Kerr.. 02/17/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 148,
+      "issue_utc": "2022-02-17T21:47Z",
+      "topic": "Tornado Watch 21",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0148.html",
+      "summary": "The evolution of one or two supercells posing a risk to produce tornadoes remains possible into the 6-8 PM CST time frame.",
+      "discussion": "As a low amplitude surface low migrates across north central Kentucky into southern Ohio through early evening, pre-frontal low-level flow will continue to gradually veer to more of a westerly component across the lower Mississippi Valley into the southern Appalachians. This already appears to be allowing for an east-northeastward advection of deeper boundary-layer moisture, roughly along the Interstate 20 corridor of southern Mississippi into central Alabama, where associated destabilization may coincide with low-level wind profiles exhibiting at least modest veering with height and strong speed shear. This may provide the primary focus for the potential development of one or two sustained supercells posing a risk for tornadoes into the 00-02Z time frame, just ahead of the southeastward advancing cold front in the wake of the surface low. With the approach of the front, low-level wind profiles are forecast to become more linear and the strong wind gusts with consolidating convection along it may become the primary severe hazard. ..Kerr.. 02/17/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 149,
+      "issue_utc": "2022-02-17T23:32Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0149.html",
+      "summary": "Gusty winds will likely accompany squall line this evening.",
+      "discussion": "Modified boundary-layer moisture has advanced northeast across middle TN into central KY where surface dew points are in the upper 50s to near 60F. This is contributing to very weak surface-based buoyancy, which combined with strong large-scale forcing for ascent/frontal convergence is generating a broken squall line. Winds have recently gusted to 50kt at KSYI along the stronger southern line segment over TN. While buoyancy will remain weak ahead of this convective line, gusty winds will likely continue due to aforementioned supportive short-wave trough and surging cold front."
+    },
+    {
+      "year": 2022,
+      "number": 150,
+      "issue_utc": "2022-02-18T00:06Z",
+      "topic": "Tornado Watch 21",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0150.html",
+      "summary": "Severe threat continues along/ahead of the cold front, likely concentrating along a corridor from east-central MS to northeast AL. Along with a supercell tornado threat, damaging winds remain possible with the squall line.",
+      "discussion": "Several pre-frontal supercells continue this evening, mostly across central AL, roughly 25-30mi ahead of the squall line. This activity is spreading quickly northeast into a region that is less buoyant but likely moist enough to maintain ongoing convection, at least for the next several hours. Frontal convection (squall line) will be the dominant storm mode the rest of tonight as the wind shift continues advancing east in conjunction with the ejecting short wave. Some tornado threat remains, especially with the supercells, for the next few hours, but damaging winds will become the main threat with the squall line. ..Darrow.. 02/18/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

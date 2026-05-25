@@ -1,0 +1,161 @@
+{
+  "convective_day": "2019-04-08",
+  "valid_start": "2019-04-08T12:00Z",
+  "valid_end": "2019-04-09T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2019-04-08",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-04-08T16:30Z",
+      "valid_end": "2019-04-09T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190408_1630.html",
+      "summary": "A few severe storms with damaging wind gusts and hail will be possible through this evening from northeast Mississippi to the Carolinas and southeast Virginia. The greatest concentration of reports is forecast over parts of southern Virginia and northern North Carolina.",
+      "sections": [
+        {
+          "title": "VA/NC",
+          "text": "Morning water vapor imagery shows an upper trough over east TX, and a band of moderately strong southwesterly mid level winds extending from LA/MS into the Mid Atlantic region. A long-lived MCS is weakening over TN, but is forecast by all 12z CAM solutions to re-intensify this afternoon after crossing the Appalachians into parts of southern VA and northern NC. Visible satellite imagery show stratus burning off of this region, which should allow strong afternoon heating. Dewpoints in the 60s will yield MLCAPE values of ~1500 J/kg, with 40-60 knot westerly mid level winds. Steepening low level lapse rates will aid in the risk of damaging wind gusts in this environment, so have added an ENH risk area."
+        },
+        {
+          "title": "MS",
+          "text": "The aforementioned upper trough over east TX will move slowly eastward today, with an associated surface low over northeast LA. Pockets of afternoon heating will help to destabilize the warm sector of the low over central MS, where a few thunderstorms are expected later today. CAM solutions indicate a few rotating storms capable of hail and gusty winds. Given the ambient vorticity due to proximity of the surface low and upper trough, an isolated tornado is possible as well."
+        },
+        {
+          "title": "AL/GA/SC",
+          "text": "The forecast scenario for this region is much lower confidence today than other parts of the country. Multiple clusters of afternoon thunderstorms are expected over this broad area, with sufficient shear and low level moisture/CAPE to pose a risk of gusty/damaging wind gusts. However, will maintain the ongoing forecast with little change due to uncertainties."
+        },
+        {
+          "title": "WI",
+          "text": "A fast-moving shortwave trough over northern MN will track across northern WI this afternoon. There is a brief window of opportunity later today for a few showers or low-topped thunderstorms to produce gusty/damaging wind gusts. Given the small temporal/spatial scale of the threat, will not add a MRGL area at this time but will continue to monitor. ..Hart/Gleason.. 04/08/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-04-08",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-04-08T20:00Z",
+      "valid_end": "2019-04-09T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190408_2000.html",
+      "summary": "A few severe storms with damaging wind gusts and hail will be possible through this evening from northeast Mississippi to the Carolinas and southeast Virginia. The greatest concentration of reports is forecast over parts of southern Virginia and northern North Carolina.",
+      "sections": [
+        {
+          "title": "20z Update",
+          "text": "Primary corridor of strong convection appears to be focusing from east-central GA into southeast VA. Over the last few hours convection has organized into a squall line from eastern GA into northern SC. This band of storms should track northeast across ENH Risk in line with earlier forecast. One significant change to 1630z outlook is to lower severe probs across GA into eastern AL. Convection will likely be at a minimum along this zone as this region will be in the wake of an MCV lifting northeast across southeast AL toward central GA. Stronger boundary-layer heating will concentrate farther west beneath the upper low and this is where more robust convection is expected to develop over the next few hours. ..Darrow.. 04/08/2019 .PREV DISCUSSION... /ISSUED 1121 AM CDT Mon Apr 08 2019/"
+        },
+        {
+          "title": "VA/NC",
+          "text": "Morning water vapor imagery shows an upper trough over east TX, and a band of moderately strong southwesterly mid level winds extending from LA/MS into the Mid Atlantic region. A long-lived MCS is weakening over TN, but is forecast by all 12z CAM solutions to re-intensify this afternoon after crossing the Appalachians into parts of southern VA and northern NC. Visible satellite imagery show stratus burning off of this region, which should allow strong afternoon heating. Dewpoints in the 60s will yield MLCAPE values of ~1500 J/kg, with 40-60 knot westerly mid level winds. Steepening low level lapse rates will aid in the risk of damaging wind gusts in this environment, so have added an ENH risk area."
+        },
+        {
+          "title": "MS",
+          "text": "The aforementioned upper trough over east TX will move slowly eastward today, with an associated surface low over northeast LA. Pockets of afternoon heating will help to destabilize the warm sector of the low over central MS, where a few thunderstorms are expected later today. CAM solutions indicate a few rotating storms capable of hail and gusty winds. Given the ambient vorticity due to proximity of the surface low and upper trough, an isolated tornado is possible as well."
+        },
+        {
+          "title": "AL/GA/SC",
+          "text": "The forecast scenario for this region is much lower confidence today than other parts of the country. Multiple clusters of afternoon thunderstorms are expected over this broad area, with sufficient shear and low level moisture/CAPE to pose a risk of gusty/damaging wind gusts. However, will maintain the ongoing forecast with little change due to uncertainties."
+        },
+        {
+          "title": "WI",
+          "text": "A fast-moving shortwave trough over northern MN will track across northern WI this afternoon. There is a brief window of opportunity later today for a few showers or low-topped thunderstorms to produce gusty/damaging wind gusts. Given the small temporal/spatial scale of the threat, will not add a MRGL area at this time but will continue to monitor."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2019,
+      "number": 287,
+      "issue_utc": "2019-04-08T13:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0287.html",
+      "summary": "Convective line will likely begin impacting the western FL Panhandle around 15Z. Isolated damaging wind gusts are possible.",
+      "discussion": "Regional radar imagery and lightning data show a well-developed convective line off the coast of the far western FL Panhandle. Current storm motion is estimated as 230 degrees at 25 kt for the northern potion of the line, with a slightly faster storm motion (30-35 kt) noted with the more southerly portion. This motion will bring the line to the coast around 15Z. Air mass ahead of the line, which is characterized by temperatures in the upper 60s/low 70s, dewpoints in the mid 60s, and weak instability, does not currently appear overly favorable for persistence and/or intensification. 12Z TLH sounding does show moderately steep lapse rates between 800 and 600 mb but stable low-levels indicate an atmosphere generally hostile to strong convection. Given the time of day and lack of large-scale forcing for ascent, it seems unlikely that destabilization will occur before the line impacts the coast. That being said, the well-organized character of the convective line bears watching and trends will be monitored closely."
+    },
+    {
+      "year": 2019,
+      "number": 288,
+      "issue_utc": "2019-04-08T16:01Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0288.html",
+      "summary": "Increasing thunderstorm coverage is anticipated over the next few hours. Damaging wind gusts and isolated hail are possible and trends will be monitored for possible watch issuance.",
+      "discussion": "Regional radar and satellite imagery reveals a defined vorticity maximum moving across middle/eastern TN. Northeastward motion of this MCV will take it along the VA/KY border over the next few hours. Downstream air mass is currently cloudy and with limited instability. However, gradual destabilization is anticipated as diurnal heating leads to a thinning of the cloud cover and modest heating amidst continuing moisture advection. Lift attendant to the MCV will interact with the resulting modestly unstable air mass and increasing thunderstorm coverage is anticipated over the next few hours. Evidence of this ascent is already apparent in visible satellite imagery where agitated cumulus is visible beneath the higher clouds. A banded/linear convective structure is anticipated and the shear is supportive of occasionally rotating storms capable of damaging wind gusts and isolated hail. The limited instability introduces some uncertainty as to when/if storms will become severe but convective trends will be monitored closely for potential watch issuance."
+    },
+    {
+      "year": 2019,
+      "number": 289,
+      "issue_utc": "2019-04-08T17:12Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0289.html",
+      "summary": "Strong to damaging winds may occur with thunderstorms as they move eastward this afternoon. Isolated large hail may occur as well. Watch issuance is possible for some part of this region.",
+      "discussion": "Convection has recently restrengthened across parts of GA along outflow from overnight storms that moved over MS/AL. A moist airmass exists downstream of this activity, and cloud breaks/diurnal heating has allowed surface temperatures to warm mostly into the lower 80s. MLCAPE of 1000-1500 J/kg should be common across the warm sector through the afternoon. Somewhat stronger mid-level flow is present across northern GA into western SC, which is on the southern extent of a mid-level jet centered over the Mid-Atlantic. Both low and mid-level winds gradually weaken with southward extent across GA. Storms will probably have a tendency to be more organized across northern GA/western SC where 30-40 kt of effective bulk shear should be present. Convection is already showing a tendency to grow upscale along the residual outflow boundary. Strong to damaging winds should be the main threat as these thunderstorms move eastward over the next couple of hours, although isolated large hail could occur if convection can remain at least semi-discrete. Radar trends will be monitored through the afternoon for signs of increasing storm organization/intensity, which may result in watch issuance for portions of GA into western/central SC."
+    },
+    {
+      "year": 2019,
+      "number": 290,
+      "issue_utc": "2019-04-08T17:49Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0290.html",
+      "summary": "Increasing thunderstorm coverage and the potential for damaging wind gusts and hail is expected to warrant watch issuance within the next hour or two.",
+      "discussion": "Environment across south-central/southwest VA and central NC continues to destabilize as temperatures climb into the mid/upper 70s and dewpoints remain in the mid 60s. Visible satellite shows an increasing agitated cumulus field, although with limited vertical development so far. Continued broad ascent within the southwesterly flow aloft coupled with further heating and destabilization is expected to result in thunderstorm development within the next hour or so. Predominantly linear structures are anticipated (much like those already ongoing across western NC) with vertical shear supportive of modest storm organization/rotation. Expectation of at least scattered thunderstorm coverage coupled with potential for damaging wind gusts and hail will likely merit the issuance of a watch within the next hour or two."
+    },
+    {
+      "year": 2019,
+      "number": 292,
+      "issue_utc": "2019-04-08T20:07Z",
+      "topic": "Severe Thunderstorm Watch 45",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0292.html",
+      "summary": "Threat for damaging wind gusts and isolated hail will continue across central SC.",
+      "discussion": "Convective line moving into central SC has shown a discrete propagation thus far with updrafts on the leading edge struggling to maintain organization and intensity. The downstream air mass is characterized steep low-level lapse rates but relatively modest instability (i.e. MLCAPE around 1000 J/kg) and weak vertical shear. As such, the current trend of discrete propagation on the cold pool is generally expected to continue with a primary severe threat of damaging wind gusts. A few instances of hail are possible, particularly if updraft augmentation is realized as a result of cell interactions. ..Mosier.. 04/08/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 293,
+      "issue_utc": "2019-04-08T20:22Z",
+      "topic": "Severe Thunderstorm Watch 45",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0293.html",
+      "summary": "Threat for damaging wind gusts and isolated hail continues across central NC and south-central/central VA.",
+      "discussion": "Predominantly multi-cellular has developed across central NC thus far but convective trends are suggesting a transition to more linear segments may be underway. This transition is likely a result of slightly stronger flow aloft and increased large-scale forcing for ascent. As this transition occurs, the more organized character of the line segments could lead to an increased potential for damaging wind gusts. Occasional hail is also possible during the early stage of any new development as well as a result of brief updraft intensification due to cell interactions. ..Mosier.. 04/08/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 294,
+      "issue_utc": "2019-04-08T21:05Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0294.html",
+      "summary": "An isolated hail/wind threat may develop this afternoon. Watch issuance is possible, but does not appear immediately likely.",
+      "discussion": "In the wake of early morning convection, some clearing has allowed for temperatures to warm into the upper 70s and lower 80s across parts of central/eastern MS and west-central AL. Mid to upper 60s dewpoints are present to the east of a weak surface low over southwestern MS, and MLCAPE of 500-1000 J/kg is present across this region. Primary uncertainty remains whether convection will redevelop as an upper low centered over LA and east TX moves slowly eastward late this afternoon into the early evening. Some short-term convection-allowing model guidance suggests additional storm development is a possibility, and shallow showers have recently developed across parts of south-central/southeast MS where modest low-level warm air advection is occurring. A 40-55 kt south-southwesterly jet is moving over this region, and 30-35 kt of effective bulk shear may be sufficient for occasional updraft organization. Isolated hail and strong/gusty winds will be possible with the strongest cores, and a brief tornado can not be ruled out with some veering of the winds at low levels. Watch issuance is possible over the next couple of hours depending on whether convection can redevelop, but it is not immediately likely."
+    },
+    {
+      "year": 2019,
+      "number": 295,
+      "issue_utc": "2019-04-08T21:23Z",
+      "topic": "Severe Thunderstorm Watch 45",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0295.html",
+      "summary": "Storms may produce damaging winds east of the current watch, and a new watch is being considered.",
+      "discussion": "A cluster of thunderstorms continued to move rapidly eastward across central NC into south-central VA, aided by 40+ kt deep-layer mean winds. Ahead of these storms, and north of the sea-breeze into southeast NC, strong heating has led to steep low-level lapse rates, and MLCAPE in excess of 1000 J/kg. Given favorable time of day and boundary layer condition downstream of the ongoing storms, a damaging wind threat may extend eastward, necessitating a watch."
+    },
+    {
+      "year": 2019,
+      "number": 296,
+      "issue_utc": "2019-04-09T00:40Z",
+      "topic": "Severe Thunderstorm Watch 45",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0296.html",
+      "summary": "The threat for strong to damaging wind gusts will continue to diminish over the next 1-2 hours, ending the threat.",
+      "discussion": "A fast-moving cluster of storms is about to move offshore coastal southeast VA and northeast NC, ending any wind threat over land. To the south, the line of storms currently extends into east-central NC, but the air mass is stabilizing quickly. Indeed, activity moving out of SC has diminished rapidly. As such, ongoing storms are no longer expected to be severe, and no further watches are expected this evening. ..Jewell.. 04/09/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 297,
+      "issue_utc": "2019-04-09T00:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0297.html",
+      "summary": "Storms may pose a risk for marginally severe damaging wind gusts and hail. A brief tornado cannot be ruled out. Given the isolated nature of the threat, a WW issuance is not anticipated.",
+      "discussion": "An uptick in multicellular convection has recently been observed within the past two hours across central into eastern portions of Mississippi, within close proximity of a surface low, where low-level convergence is maximized. 100-150 J/kg 0-3km MLCAPE is in place across eastern Mississippi into far western Alabama, fostering an environment supportive of vigorous convection. Nonetheless, deep-layer and low-level shear are relatively mediocre across the warm sector, and with a nocturnally cooling/stabilizing boundary layer, updraft intensity is expected to wane with time. The more vigorous updrafts may promote an isolated marginally severe hail threat. A few damaging wind gusts are also possible. A few of the storms have also exhibited transient supercell characteristics, with brief periods of mid to low-level rotation noted. Given the propensity of cells to merge (effectively weakening organized rotation via cell interactions) along with a stabilizing boundary layer, any tornado threat that remains will likely be brief in nature. As the remaining severe threat is expected to be short lived and isolated in nature, a WW issuance is not expected at this time."
+    }
+  ]
+}

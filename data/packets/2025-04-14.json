@@ -1,0 +1,113 @@
+{
+  "convective_day": "2025-04-14",
+  "valid_start": "2025-04-14T12:00Z",
+  "valid_end": "2025-04-15T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2025-04-14",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2025-04-14T16:30Z",
+      "valid_end": "2025-04-15T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250414_1630.html",
+      "summary": "Scattered strong to severe storms are expected this afternoon through early tonight from the Upper Ohio Valley eastward to the Mid-Atlantic. Large hail, severe wind gusts, and a couple of tornadoes will be possible.",
+      "sections": [
+        {
+          "title": "Upper OH Valley this afternoon into VA early tonight",
+          "text": "Recent satellite imagery depicts a maturing mid-latitude cyclone moving eastward across Lake Superior towards northeastern Ontario with an upstream shortwave trough moving through the northern Plains. Expectation is for the cyclone to continue deepening/maturing as it moves into and through northeastern Ontario today, while the upstream shortwave progresses quickly southeastward through the Mid MO Valley and into the Mid MS Valley. As this occurs, strong mid-level flow will spread eastward across the OH Valley and over the Northeast and Mid-Atlantic States. At the same time, a cold front will spread eastward across the OH Valley this afternoon and evening, and across the central Appalachians tonight. Current surface analysis reveals upper 40s to low 50s dewpoints ahead of the front in the Middle OH Valley, with the upper 50s/low 60s dewpoints farther southwest over western KY. This greater low-level moisture is expected to surge northeastward amid the moderate southwesterly low-level flow, combining with evapotranspiration to bring upper 50s dewpoints into upper OH Valley ahead of the front. This increase in low-level moisture combined with daytime heating should be enough to desta"
+        },
+        {
+          "title": "SD to IA this afternoon/evening",
+          "text": "Low-level moisture will be limited, but surface heating beneath cooling midlevel temperatures will support weak surface-based buoyancy and the potential for low-topped showers and a few thunderstorms from SD into IA (in advance of a digging shortwave trough now over western ND/eastern MT). Relatively cold temperature profiles will favor some threat for small hail, while steep low-level lapse rates and 30+ kt flow through the mixed layer favor gusty outflow winds of 40-50 mph. ..Mosier/Weinman.. 04/14/2025"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2025-04-14",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2025-04-14T20:00Z",
+      "valid_end": "2025-04-15T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250414_2000.html",
+      "summary": "Scattered strong to severe storms ongoing this afternoon will continue through early tonight from the Upper Ohio Valley eastward to the Mid-Atlantic. Large hail, severe wind gusts, and a couple of tornadoes are likely.",
+      "sections": [
+        {
+          "title": "20z Update OH Valley and Appalachians",
+          "text": "Afternoon satellite imagery shows several areas of convection developing beneath a broad upper low over parts of the Midwest, Great Lakes and Ohio Valley. Initial storms across IN/OH/KY will continue to mature as the cold front moves east. Upper 50s to low 60s F dewpoints and steep mid-level lapse rates beneath the upper low will support around 1000 J/kg of MLCAPE. 40-50 kt of effective shear, but veered low-level flow will support a mix of supercells and linear clusters. Hail and damaging winds appear likely, along with a risk for a couple tornadoes. Storms will spread east into the Mid Atlantic this evening, mainly with a risk for damaging gusts. Minimal changes were made to the outlook area on the western edge to capture storm development farther west along the front."
+        },
+        {
+          "title": "Midwest",
+          "text": "Near the core of a secondary vort max over the northern Plains, broad-scale ascent was supporting scattered low-topped convection across parts of SD, NE, and northwestern IA. Strong mid-level flow will continue to move south as a mid-level jet intensifies. Despite the limited surface moisture, the relatively cold mid-level temperatures and strong ascent will favor some threat for small hail and damaging gusts with shallow storms. Have adjusted the Marginal southward across central IA where weak buoyancy (MUCAPE 200-300 J/kg) may allow storms with damaging gust potential to persist farther south this evening. ..Lyons.. 04/14/2025 .PREV DISCUSSION... /ISSUED 1130 AM CDT Mon Apr 14 2025/"
+        },
+        {
+          "title": "Upper OH Valley this afternoon into VA early tonight",
+          "text": "Recent satellite imagery depicts a maturing mid-latitude cyclone moving eastward across Lake Superior towards northeastern Ontario with an upstream shortwave trough moving through the northern Plains. Expectation is for the cyclone to continue deepening/maturing as it moves into and through northeastern Ontario today, while the upstream shortwave progresses quickly southeastward through the Mid MO Valley and into the Mid MS Valley. As this occurs, strong mid-level flow will spread eastward across the OH Valley and over the Northeast and Mid-Atlantic States. At the same time, a cold front will spread eastward across the OH Valley this afternoon and evening, and across the central Appalachians tonight. Current surface analysis reveals upper 40s to low 50s dewpoints ahead of the front in the Middle OH Valley, with the upper 50s/low 60s dewpoints farther southwest over western KY. This greater low-level moisture is expected to surge northeastward amid the moderate southwesterly low-level flow, combining with evapotranspiration to bring upper 50s dewpoints into upper OH Valley ahead of the front. This increase in low-level moisture combined with daytime heating should be enough to desta"
+        },
+        {
+          "title": "SD to IA this afternoon/evening",
+          "text": "Low-level moisture will be limited, but surface heating beneath cooling midlevel temperatures will support weak surface-based buoyancy and the potential for low-topped showers and a few thunderstorms from SD into IA (in advance of a digging shortwave trough now over western ND/eastern MT). Relatively cold temperature profiles will favor some threat for small hail, while steep low-level lapse rates and 30+ kt flow through the mixed layer favor gusty outflow winds of 40-50 mph."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2025,
+      "number": 448,
+      "issue_utc": "2025-04-14T18:18Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0448.html",
+      "summary": "Severe storms capable of producing large hail and damaging wind gusts will spread eastward through the afternoon into the evening. A watch will likely be issued within an hour or two for parts of the area.",
+      "discussion": "Initial thunderstorms are developing across southern IN this afternoon, generally focused along/ahead of an eastward-moving cold front. Ahead of this activity, continued diurnal heating amid increasing boundary-layer moisture (middle/upper 50s to lower 60s dewpoints) will continue to erode inhibition and support additional storm development. Steep midlevel lapse rates (sampled by earlier 12Z soundings) atop the destabilizing boundary layer will yield around 1500 J/kg MLCAPE, favoring a gradual increase in storm intensity through the afternoon. As 60+ kt of midlevel flow (sampled by upstream VWP data) overspreads the warm sector, very long/mostly straight hodographs (60-70 kt of effective shear) will promote splitting supercell structures, posing a risk of large hail and damaging wind gusts. Despite the expectation for an initially semi-discrete mode, strong outflow amid the splitting storm structures will favor gradual upscale growth into small lines and clusters with eastward extent -- with an associated increasing severe-wind risk. A watch will likely be issued for parts of the area within an hour or two."
+    },
+    {
+      "year": 2025,
+      "number": 447,
+      "issue_utc": "2025-04-14T18:28Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0447.html",
+      "summary": "Showers spreading southeastward through the mid Missouri Valley may begin to intensify by 3-4 PM CDT, with a few weak thunderstorms developing and posing increasing potential for strong to severe surface gusts while spreading southeastward through the remainder of the afternoon.",
+      "discussion": "In the wake of a deep cyclone, now migrating northeast of the Upper Great Lakes region, downward mixing of momentum is already contributing to 30-35+ kt northwesterly surface gusts across much of the middle Missouri Valley, as boundary-layer warming progresses. This is occurring just ahead of a vigorous short wave trough now digging through the western Dakotas, and forecast to continue rapidly southeastward through early evening. Models indicate that the mid-level cold core (including -30 to -35C around 500 mb) will overspread a corridor from central South Dakota through northeastern Iowa between 20-23Z, coincident with further strengthening of northwesterly flow (35-40+ kt) in the 850-700 mb layer and peak afternoon surface heating. As this occurs, forecast soundings indicate that profiles will become increasingly conducive to deepening convection capable of producing lightning. With at least some further intensification of ongoing developing convection, evaporative cooling and melting of precipitation within an increasing well-mixed boundary layer (characterized by sizable surface temperature/dew point spreads on the order of 20+ F), coupled with the downward mixing of stronger flow aloft, seems likely to contribute to increasing potential for surface gusts approaching or briefly exceeding severe limits. This may continue into early evening, as convection spreads southeastward, before rapidly diminishing with the onset of boundary-layer cooling."
+    },
+    {
+      "year": 2025,
+      "number": 449,
+      "issue_utc": "2025-04-14T21:30Z",
+      "topic": "Severe Thunderstorm Watch 138",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0449.html",
+      "summary": "Multiple supercells capable of large hail and damaging wind gusts will persist this evening.",
+      "discussion": "A cluster of supercells has developed across southern Ohio with multiple large hail reports received thus far. The strongest of these cells is a lead supercell approaching Charleston, WV as of 2130 UTC. This supercell has a history of 2 inch hail and latest MRMS data suggests 2+ inch hail (perhaps the size of baseballs) remains possible. The environment downstream of this supercell remains favorable with 750-1000 J/kg MLCAPE and 45 to 50 knots of shear and visible satellite showing an expansive agitated cumulus field. Therefore, expect this 2+ inch hail threat to persist for at least a few more hours across West Virginia. Thunderstorm activity has been limited south of the Ohio River thus far, and visible satellite imagery does not appear to indicate additional thunderstorms are imminent. However, the environment remains uncapped and as mid-level temperatures continue to cool, some thunderstorms will be possible along the front this evening."
+    },
+    {
+      "year": 2025,
+      "number": 450,
+      "issue_utc": "2025-04-14T21:48Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0450.html",
+      "summary": "A threat for damaging winds and large hail will persist into the Blue Ridge and eastward this evening. A watch is likely in the next hour.",
+      "discussion": "A cluster of storms, including a supercell with a history of large to very-large hail, continue to move quickly (45-50 kts) eastward late this afternoon. Dewpoints near and ahead of these storms are in the low 50s F. Models have continued to suggest some amount of upscale growth is expected with this activity. Even if this does not occur, these fast moving cells/linear segments will be capable of swaths of damaging winds and large hail. From the Blue Ridge eastward, dewpoints have slowly climbed into the low 50s F over the last couple of hours. Based off of current observations, dewpoints could increase another 1-2 F prior to storm arrival. There will be at least a narrow window where storms could remain surface based in the Blue Ridge vicinity. Farther east dewpoints and temperatures are lower. With some additional surface cooling expected, storms will have greater potential to be slightly elevated with eastward extent. However, forecast soundings show a dry sub-cloud layer that would support a continued risk of damaging downburst winds even with elevated storms. A watch will likely be needed in the next hour."
+    },
+    {
+      "year": 2025,
+      "number": 451,
+      "issue_utc": "2025-04-15T00:18Z",
+      "topic": "Severe Thunderstorm Watch 138",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0451.html",
+      "summary": "A large hail/damaging wind threat will persist for a few more hours this evening.",
+      "discussion": "A cluster of supercells across central West Virginia has weakened over the past hour, but are still capable of some large hail and damaging wind gusts for a few more hours. The greatest threat will likely be with new development farther south and west where a deeply-mixed airmass is present with greater instability. However, even in this area the threat will likely only persist for a few more hours given the loss of daytime heating. ..Bentley.. 04/15/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 452,
+      "issue_utc": "2025-04-15T00:40Z",
+      "topic": "Severe Thunderstorm Watch 139",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0452.html",
+      "summary": "The primary corridor for large hail and damaging winds will exist along the southern edge of WW 139 in central Virginia. Farther north, isolated strong/damaging winds remain possible.",
+      "discussion": "The primary corridor of severe risk will likely be within parts of central Virginia this evening. A supercell currently in Nelson County will be capable of large hail and damaging winds. This lead supercell has shown a tendency to move more east-northeast the last half hour, suggesting it may be transitioning to being slightly elevated. Even so, MRMS data suggests large hail is occurring. Other strong to severe storms are training behind the lead supercell and will also pose a threat for large hail and damaging winds. In northern Virginia, temperatures have diabatically cooled as broad area of precipitation has overspread the area. Some elevated instability still remains and the KRLX VAD showed 35-45 kts of flow behind the passing convection. With the Dulles 00Z observed sounding showing 7 C/km lapse rates and a dry sub-cloud layer, a strong/damaging gust could still occur where any convective cores develop. ..Wendt.. 04/15/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

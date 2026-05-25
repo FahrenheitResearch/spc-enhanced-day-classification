@@ -1,0 +1,101 @@
+{
+  "convective_day": "2023-11-30",
+  "valid_start": "2023-11-30T12:00Z",
+  "valid_end": "2023-12-01T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2023-11-30",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-11-30T12:00Z",
+      "valid_end": "2023-12-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20231130_1200.html",
+      "summary": "Scattered storms with some severe, will be possible today over southeast Texas. A few tornadoes are expected, along with hail and isolated damaging wind gusts. Further north, into parts of east Texas and southern Oklahoma, hail along with a few strong wind gusts will also be possible.",
+      "sections": [
+        {
+          "title": "Southern Plains/Lower Mississippi Valley",
+          "text": "A mid-level trough will move across the Desert Southwest and northern Mexico today. An associated 70 to 85 knot mid-level jet will move eastward across northern Mexico and into west Texas by this afternoon. Ahead of the mid-level jet, moisture advection will occur across the Texas Coastal Plain. Surface dewpoints are forecast to increase into the 65 to 70 F range from the middle Texas Coast northward into the area west of the Houston Metro. As surface heating takes place along and near the moist axis, MLCAPE is forecast to increase into the 1200 to 1500 J/kg range. As the system approaches, a 50 to 60 knot low-level jet will be maintained across east Texas. Lift associated with the low-level jet will aid convective development during the day over much of east Texas extending northward into the Ark-La-Tex. A marginal severe threat will be possible across much of this weakly unstable airmass throughout the day. Further south from the middle Texas Coast into Southeast Texas, the environment will become favorable for supercells by around midday. As surface dewpoints and low-level shear increase, Significant Tornado Parameter is forecast to peak in the 4 to 5 range by early to mid after"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-11-30",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-11-30T13:00Z",
+      "valid_end": "2023-12-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20231130_1300.html",
+      "summary": "Scattered severe thunderstorms are possible today especially over southeast Texas. A few tornadoes will be possible, along with hail and isolated damaging wind gusts. Farther north, hail along with a few strong wind gusts will also be possible across parts of East/North Texas and southern Oklahoma.",
+      "sections": [
+        {
+          "title": "Central/Eastern Texas and Louisiana",
+          "text": "A progressive southern-stream shortwave trough centered over Arizona/New Mexico in the predawn hours will continue eastward toward the southern High Plains, before ejecting more northeastward toward the Ozarks/Lower Missouri Valley tonight, with surface cyclogenesis in a similar southwest/northeast-oriented corridor today. As this occurs, an increasingly moisture-rich maritime warm sector will spread inland along the middle/upper Texas coastal plain toward east-central Texas, although source-region trajectories have been somewhat deleteriously augmented, at least temporally, by overnight convection that developed over the western Gulf of Mexico. As additional low-level moistening (65-70F surface dewpoints) occurs, confluence/convergence should increase within the broadening warm sector across southeast/east-central Texas. Curved/relatively elongated hodographs will exist today, such as noted in the 12z observed sounding from Corpus Christi, TX, where 0-1 km SRH was around 180 m2/s2, although a flow weakness and a residual capping layer were both noted around 700 mb. Regardless, hodographs will further lengthen as 1-3 km AGL (850mb/750mb) southwesterly winds strengthen this afternoo"
+        },
+        {
+          "title": "North Texas/Oklahoma",
+          "text": "Farther north, convection will tend to be elevated with a more isolated severe risk in the form of hail and possibly locally damaging winds. However, even with limited moisture, a few stronger near-surface-based low-topped storms could materialize across western north Texas/western Oklahoma in vicinity of the surface low/triple point, where a very steep lapse rate environment will exist. ..Guyer/Mosier.. 11/30/2023"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2023,
+      "number": 2290,
+      "issue_utc": "2023-11-30T17:59Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2290.html",
+      "summary": "The tornado threat may gradually increase with time through the day. Eventual watch issuance is possible, though timing is uncertain.",
+      "discussion": "Convection is gradually increasing across parts of southeast TX within a low-level warm-advection regime, with recent satellite and radar trends indicating an increase in storm intensity southwest of Galveston Bay. Mid/upper 60s F dewpoints are gradually streaming northward across the region, though widespread cloudiness and increasing precipitation will continue to limit heating and destabilization through the afternoon. The timing and extent of surface-based supercell development this afternoon remain uncertain, and may continue to be limited by weak low-level lapse rates and buoyancy. However, it remains possible that consolidation of the stronger ongoing elevated convection may result in transient supercell development, and there is also some potential for a supercell or two to develop offshore and move inland later this afternoon. Favorable low-level and deep-layer shear (as noted on the TIAH/THOU VWPs) will support a conditional tornado risk if any mature supercells can evolve with time. Tornado watch issuance is possible sometime this afternoon, if observational trends begin to support imminent supercell potential."
+    },
+    {
+      "year": 2023,
+      "number": 2291,
+      "issue_utc": "2023-11-30T18:48Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2291.html",
+      "summary": "The potential for isolated severe hail, and perhaps damaging wind gusts, should increase through the mid-afternoon hours across northeast Texas and portions of far southeastern Oklahoma. Watch issuance is not expected.",
+      "discussion": "Over the past hour, the coverage and intensity of convection has increased across central to northeast TX as lift within a warm advection regime and ahead of an approaching upper wave increases. While much of this convection is well displaced from a narrow plume of surface-based buoyancy stretching from the TX Gulf coast into central TX, MUCAPE across northeast TX has steadily increased to around 1000 J/kg amid warming/moistening within the 925-850 mb layer. Observed storm motions and a lack of apparent low-level mesocyclones further suggest that this convection is rooted above the surface, but elongated hodographs above 2 km (featuring effective bulk shear values near 40 knots), should support storm organization with an attendant risk of isolated large hail. Cooling cloud top temperatures and an uptick in lightning counts over the past 15-30 minutes suggest convection is beginning to realize this environment, so an increasing hail threat seems probable (though clustered storm modes may inhibit the overall threat). Recent hi-res guidance, including HRRR-based SCRAMM solutions and WOFS ensemble output, appears to have picked up on this trend and shows increasing potential for isolated hail across northeast TX over the next several hours. While the signal for severe winds is comparatively weaker, a few damaging gusts will be possible. Regardless, the overall severe threat should remain too limited to warrant watch issuance."
+    },
+    {
+      "year": 2023,
+      "number": 2292,
+      "issue_utc": "2023-11-30T21:52Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2292.html",
+      "summary": "Some threat for a tornado and locally damaging gusts may still evolve late this afternoon.",
+      "discussion": "Convection persists this afternoon near the upper TX coast, while storms have also recently developed near the western edge of deeper moisture across parts of east-central TX. Thus far, convection has struggled to become organized, despite the presence of rich low-level moisture and favorable wind profiles. This is likely due to widespread cloudiness across the region, with weak low-level lapse rates where convection is ongoing. While MLCINH is not prohibitive for surface-based storms (largely due to the rich low-level moisture), the short-term potential for organized storms remains uncertain, with a continued tendency for convection to remain slightly elevated as it moves through a poor lapse rate environment where clouds remain entrenched. However, with favorable deep-layer shear and 0-1 km SRH of 200-300 m2/s2 (greater closer to the coast) across the region, a transient supercell and/or a stronger line segment cannot be ruled out through the remainder of the afternoon, with an attendant threat of a tornado and/or locally damaging gusts. With the threat expected to remain rather isolated through the afternoon, short-term watch issuance is unlikely. Some uptick remains possible sometime this evening, especially into far southeast TX/southwest LA, and trends will continue to be monitored for an increase in storm organization/intensity, given the favorable wind profiles and low-level moisture in place. ..Dean.. 11/30/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 2293,
+      "issue_utc": "2023-11-30T23:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2293.html",
+      "summary": "A marginal risk of severe hail will be possible over the next couple of hours.",
+      "discussion": "Recent radar trends have shown strengthening cores within the cells near the Red River along the Texas/Oklahoma border. Mid-level cooling associated with the upper-level trough has given way to a small corridor of MLCAPE around 500 J/kg along the OK/TX border. Forecast soundings from the RAP along with objective analysis show steep mid-level lapse rates around 7-7.5 c/km and deep layer shear around 35-40 kts. This will support potential for a few instances of severe hail (up to 1-1.25 in). Recent reports of hail up to 3/4 inch have been noted near Childress. Due to short time window within the better instability and due to nocturnal cooling, it is unlikely that the hail threat will be long lived. As such, a watch is not anticipated."
+    },
+    {
+      "year": 2023,
+      "number": 2294,
+      "issue_utc": "2023-12-01T00:52Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2294.html",
+      "summary": "A spatially limited threat for a tornado should persist along a portion of the northwest Gulf Coast this evening.",
+      "discussion": "A deep convective cluster has become confined to the far southeast three counties of TX (Chambers, Jefferson, and Orange). This convection has struggled to organize beyond sporadic attempts at lower-end/transient mid-level rotation. The overall thermodynamic environment, which has been the primary mitigating factor to severe weather thus far, might become slightly more conducive to generating a surface-based supercell as temperatures have warmed into the upper 60s near/just south of this activity along the immediate coast. This should gradually translate east through the rest of the evening into southwest LA, improving upon the nil instability sampled in the 00Z LCH sounding. While the low-level wind profile has been in the process of strengthening over the past few hours, resulting in increasingly enlarged hodographs, confidence remains low that sustained supercell development will occur as depicted in the 23Z RRFS compared to the negligible signal in the 00Z WoFS."
+    },
+    {
+      "year": 2023,
+      "number": 2295,
+      "issue_utc": "2023-12-01T05:31Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2295.html",
+      "summary": "A low-probability threat for a brief tornado along with isolated strong gusts of 40-55 mph will likely persist overnight, but within a spatially confined area of a single parish or two at any one time that should gradually shift east.",
+      "discussion": "Attempts at brief mesovortex formation appeared to have a relative peak during the 03-04Z time frame before thunderstorm clusters became more oriented from southwest to northeast across far southwest LA. This type of orientation within the low-level warm theta-e advection regime should support a rather limited spatial extent of brief tornado potential at any one time during the early morning. The overlap of upper 60s surface dew points within warm-sector inflow where surface winds have not yet veered appears spatially small, and is presently confined to eastern Cameron Parish. With convection likely regenerating in this southwest-northeast orientation through much of the night, this favorable warm-sector inflow region and resultant brief tornado threat should slowly shift east along the coastal parishes of southwest to south-central LA."
+    }
+  ]
+}

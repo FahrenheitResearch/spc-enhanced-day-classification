@@ -1,0 +1,255 @@
+{
+  "convective_day": "2021-08-10",
+  "valid_start": "2021-08-10T12:00Z",
+  "valid_end": "2021-08-11T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 5
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-08-10",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-08-10T12:00Z",
+      "valid_end": "2021-08-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210810_1200.html",
+      "summary": "Thunderstorms associated with wind damage and hail will be likely in parts of the Upper Midwest this afternoon and evening. Additional storms with isolated damaging winds and hail may occur in parts of the central Plains and southern Great Lakes region. Marginally severe wind gusts will also be possible in parts of the Ohio Valley and central Appalachians.",
+      "sections": [
+        {
+          "title": "Upper Midwest/Great Lakes",
+          "text": "A broad cyclonic flow pattern will be in place today across the north-central U.S as a shortwave trough moves eastward across the upper Mississippi Valley. At the surface, a cold front will advance southeastward into the upper Mississippi and mid Missouri Valleys. Ahead of the front, a very moist airmass will be in place with surface dewpoints generally in the 70s F. As surface temperatures warm during the day, a large area of strong instability should develop from the lower Missouri Valley into the mid to upper Mississippi Valley. Although large-scale ascent should be weak across much of the warm sector, thunderstorm development may take place along pre-existing outflow boundaries and thermal gradients. Due to the strong instability and very steep low-level lapse rates, an isolated wind-damage threat will be possible with cells that can grow upscale. The greatest convective coverage is expected across parts of southern Wisconsin where model solutions develop a low-level jet during the early evening. NAM forecast soundings to the south of Madison, Wisconsin at 03Z/Wednesday have a very impressive thermodynamic environment with MLCAPE reaching 5000 to 6000 J/kg and 700-500 mb lapse "
+        },
+        {
+          "title": "Central Plains/Mid Missouri Valley",
+          "text": "A broad cyclonic flow pattern will be place today across the north-central U.S. At the surface, a low is forecast to develop across central Kansas as moisture advection occurs across the central Plains. By afternoon, a southwest-to-northeast corridor of moderate to strong instability should be in place from Kansas into Iowa. Surface dewpoints along this corridor should be from the mid 60s to lower 70s F, resulting in MLCAPE peaking in the 3000 to 5000 J/kg range during the late afternoon. Although large-scale ascent will remain weak in the central Plains and mid Missouri Valley, thunderstorm development will be possible along pre-existing outflow boundaries as low-level convergence becomes enhanced. Very steep low to mid-level lapse rates and sufficient deep-layer shear may result in a marginal wind-damage threat during the late afternoon and early evening."
+        },
+        {
+          "title": "Ohio Valley/Central Appalachians",
+          "text": "West to southwest mid-level flow will be located across the southern Great Lakes region today. A very moist airmass will be in place over much of the southern Great Lakes region into the Ohio Valley. Moderate to strong instability is expected to develop by afternoon within the moist airmass due to warming surface temperatures. Although large-scale ascent will be weak in most areas, thunderstorm development will be possible along pre-existing outflow boundaries or along thermal gradients. Any storm that can grow upscale may be able to produce marginally severe wind gusts, mainly due to the instability and steep low-level lapse rates. ..Broyles/Lyons.. 08/10/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-08-10",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-08-10T13:00Z",
+      "valid_end": "2021-08-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210810_1300.html",
+      "summary": "Severe thunderstorms capable of wind damage and isolated large hail will be possible across a broad portion of the Midwest and Great Lakes region, especially this afternoon and evening. Locally severe wind gusts will also be possible in parts of the Ohio Valley and central Appalachians/Northeast States.",
+      "sections": [
+        {
+          "title": "Midwest/Great Lakes",
+          "text": "Severe thunderstorms will be possible across a relatively broad region mainly this afternoon and evening, with damaging winds and isolated instances of large hail as the primary hazards. That said, short-term guidance remains highly variable in terms of preferred corridors/timing of severe storms, with multiple scenarios plausible within a strongly unstable/weakly forced regime. A prominent shortwave trough over North Dakota/Manitoba will continue east-northeastward today toward northern Ontario, with a secondary shortwave trough digging southeastward over the Canadian Prairies in its wake. The most appreciable forcing for ascent will be focused near the international border/Lake Superior vicinity, although a moderately strong (by August standards) belt of mid-level westerlies and weak/subtle height falls will influence areas as far south as Iowa/northern Missouri and Illinois. Owing to advection and evapotranspiration, somewhat higher moisture content (more extensive mid/upper 70s F surface dewpoints) is expected within the warm sector as compared to yesterday, with 4000-5500 J/kg MLCAPE expected by peak heating in areas including southern/eastern Iowa and northern Missouri into m"
+        },
+        {
+          "title": "Ohio Valley to Northeast States/Central Appalachians",
+          "text": "Multiple clusters of storms are expected to persist and/or develop eastward today, with a diurnal intensification into this afternoon as the boundary layer destabilizes. Although deep-layer winds will be weak, a moist/unstable air mass across a broad region will support the possibility of locally severe storms capable of wind damage. ..Guyer/Mosier.. 08/10/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-08-10",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-08-10T16:30Z",
+      "valid_end": "2021-08-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210810_1630.html",
+      "summary": "Severe thunderstorms capable of wind damage and isolated large hail will be possible across a broad portion of the Midwest and Great Lakes region, especially this afternoon and evening. Locally severe wind gusts will also be possible in parts of the Ohio Valley and central Appalachians/Northeast States.",
+      "sections": [
+        {
+          "title": "Parts of the upper/middle MS Valley through tonight",
+          "text": "A complex scenario is expected today, with corresponding predictability concerns. On the larger scale, a midlevel shortwave trough will eject east-northeastward over northern MN today, as an upstream trough digs southeastward over SK/MB. A surface front/wind shift associated with the ejecting trough will move eastward/southeastward across MN/IA before stalling late today. Farther south, a convectively-enhanced midlevel trough approaching southwest IA will continue eastward today, and a loosely organized cluster of storms is ongoing along I-70 in MO. It is possible that outflow with this cluster will be the impetus for more intense convection this afternoon farther east in northeast MO/west central IL, as well as with the convectively-enhanced wave interacting with the stalling front later this afternoon toward northeast IA. A reservoir of large buoyancy (MUCAPE greater than 4000 J/kg) is present across the Corn Belt per 12z soundings, based on 7.5-9 C/km midlevel lapse rates and lowest 100-mb mean mixing ratios of 17-19 g/kg (near-surface dewpoints in the mid-upper 70s). Given the aforementioned possibilities of more than one storm cluster and the area of large to extreme CAPE, hav"
+        },
+        {
+          "title": "Eastern OH/PA/NY this afternoon/evening",
+          "text": "A midlevel trough with embedded perturbations will continue eastward today from the lower Great Lakes toward PA/NY. Convection is ongoing in a band across east central OH, where there is some potential for a few damaging outflow gusts in the short term. However, the storms are moving toward and area of weaker buoyancy, which casts doubt on the damaging-wind potential through the afternoon (refer to MD 1459 for additional details). Otherwise, a few loosely organized storm clusters/bands are expected in advance of these embedded perturbations into NY/PA, where MLCAPE near 1000 J/kg and a modest increase in flow/shear in the 850-500 mb layer will support multicell clusters capable of producing isolated wind damage. ..Thompson/Bentley.. 08/10/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-08-10",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-08-10T20:00Z",
+      "valid_end": "2021-08-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210810_2000.html",
+      "summary": "Severe thunderstorms capable of wind damage and isolated large hail are still possible across a broad portion of the Midwest and Great Lakes region, especially this afternoon and evening. Locally severe wind gusts will also remain possible in parts of the Ohio Valley and central Appalachians/Northeast States.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "The Slight risk was removed across portions of the Central Plains, with earlier day convection and associated cloud debris inhibiting temperatures from exceeding 90F, and supporting greater thunderstorm development/downdraft potential with Slight risk coverage. The Marginal/general thunder lines have also been pulled eastward across the Upper Mississippi Valley given the eastward progression of the mid-level trough. Considerable uncertainty remains regarding the spatial coverage and intensity of the damaging wind threat across the Midwest/Great Lakes region. A potentially organizing cluster of storms is progressing across northeast IA, towards a minimally capped, highly unstable atmosphere, hence no changes made to the ongoing Enhanced risk. Otherwise, storm clusters across the Upper Peninsula of Michigan, as well as pulse-cellular storms from the mid-Mississippi Valley to the Mid Atlantic, will continue to support locally damaging gusts through the remainder of the afternoon. Please refer to MCDs 1462-1464 for more details. ..Squitieri/Leitman.. 08/10/2021 .PREV DISCUSSION... /ISSUED 1127 AM CDT Tue Aug 10 2021/"
+        },
+        {
+          "title": "Parts of the upper/middle MS Valley through tonight",
+          "text": "A complex scenario is expected today, with corresponding predictability concerns. On the larger scale, a midlevel shortwave trough will eject east-northeastward over northern MN today, as an upstream trough digs southeastward over SK/MB. A surface front/wind shift associated with the ejecting trough will move eastward/southeastward across MN/IA before stalling late today. Farther south, a convectively-enhanced midlevel trough approaching southwest IA will continue eastward today, and a loosely organized cluster of storms is ongoing along I-70 in MO. It is possible that outflow with this cluster will be the impetus for more intense convection this afternoon farther east in northeast MO/west central IL, as well as with the convectively-enhanced wave interacting with the stalling front later this afternoon toward northeast IA. A reservoir of large buoyancy (MUCAPE greater than 4000 J/kg) is present across the Corn Belt per 12z soundings, based on 7.5-9 C/km midlevel lapse rates and lowest 100-mb mean mixing ratios of 17-19 g/kg (near-surface dewpoints in the mid-upper 70s). Given the aforementioned possibilities of more than one storm cluster and the area of large to extreme CAPE, hav"
+        },
+        {
+          "title": "Eastern OH/PA/NY this afternoon/evening",
+          "text": "A midlevel trough with embedded perturbations will continue eastward today from the lower Great Lakes toward PA/NY. Convection is ongoing in a band across east central OH, where there is some potential for a few damaging outflow gusts in the short term. However, the storms are moving toward and area of weaker buoyancy, which casts doubt on the damaging-wind potential through the afternoon (refer to MD 1459 for additional details). Otherwise, a few loosely organized storm clusters/bands are expected in advance of these embedded perturbations into NY/PA, where MLCAPE near 1000 J/kg and a modest increase in flow/shear in the 850-500 mb layer will support multicell clusters capable of producing isolated wind damage."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-08-11",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-08-11T01:00Z",
+      "valid_end": "2021-08-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210811_0100.html",
+      "summary": "Severe thunderstorms capable of wind damage and isolated large hail will be possible this evening across parts of the Upper Midwest and Great Lakes. Marginally severe winds will also be possible from parts of the central Plains into the Ohio Valley, with a few strong gusts also possible across the Mid-Atlantic.",
+      "sections": [
+        {
+          "title": "Upper Midwest/Great Lakes",
+          "text": "A shortwave trough is evident on water-vapor imagery from near the Arrowhead of Minnesota extending southward into far eastern Iowa. An MCS is ongoing ahead of the shortwave trough from far eastern Wisconsin into northeast Illinois. The MCS is located along an axis of strong instability, analyzed by the RAP just to the west of Lake Michigan, where MLCAPE is estimated in the 3500 to 5000 J/kg range. Concerning the wind shear, the WSR-88D VWP at Milwaukee and Chicago both have 0-6 km shear near 20 kt with most of the speed shear with the lowest one kilometer above ground level. This combined with very steep low-level lapse rates will be favorable for damaging wind gusts along the leading edge of the stronger multicells. Isolated large hail could also occur. The wind-damage threat should be greatest over the next hour before the line of storms moves over Lake Michigan. A severe threat is expected to continue this evening as the MCS moves into southern Lower Michigan and northwestern Indiana but should be more isolated due to weaker instability in those areas...see MCD 1468 and WW 421."
+        },
+        {
+          "title": "Central Plains",
+          "text": "A pattern with broad cyclonic mid-level flow is currently located across the north-central U.S. At the surface, a trough of low pressure is analyzed from the Oklahoma Panhandle northeastward into Iowa along which moderate to strong instability is present. Isolated thunderstorms have developed early this evening along the instability axis where low-level convergence is enhanced, from far eastern Colorado into central Kansas. The RAP has MLCAPE maximized across north-central Kansas where MLCAPE is estimated to be near 4000 J/kg. This combined with 20 to 30 kt of deep-layer shear and very steep low-level lapse rates should be favorable for a marginal wind-damage threat. Hail could also occur with the stronger updrafts. The severe threat may persist for a couple more hours before instability weakens substantially across the region."
+        },
+        {
+          "title": "Mid-Atlantic",
+          "text": "The latest surface analysis shows an ill-defined trough from central Pennsylvania southward into the Carolinas. A very moist airmass is located to the east of the trough with surface dewpoints in the lower to mid 70s F. An axis of moderate instability is analyzed to the east of the surface trough where isolated strong thunderstorms are ongoing. MLCAPE in the 1000 to 2000 J/kg range along with steep low-level lapse rates may be enough for a few marginally severe gusts early this evening. ..Broyles.. 08/11/2021"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 1458,
+      "issue_utc": "2021-08-10T15:45Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1458.html",
+      "summary": "A small cluster of storms may continue to move eastward across parts of central/eastern Missouri and western Illinois this morning and early afternoon. Damaging winds should be the main threat, and watch issuance is possible.",
+      "discussion": "Scattered storms related to earlier overnight convection across NE/KS have persisted through the late morning across parts of western and central MO. Even though outflow has surged well ahead of the primary small cluster based on recent data from KEAX, it does appear to be maintaining its intensity based on observed cloud to ground lightning flashes and IR cloud tops. Even though the low to mid-level westerly flow over MO is not overly strong per recent VWPs from KEAX, it may be sufficient for continued modest storm organization. A linear/cluster mode should persist as convection develops eastward across central/eastern MO through the rest of the morning and continuing into the early afternoon. The airmass downstream of this activity is already strongly unstable, with 2500-3500 J/kg of MLCAPE present. As robust diurnal heating of a very moist low-level airmass characterized by mid to upper 70s surface dewpoints occurs this afternoon, instability is expected to strengthen further while weak convective inhibition is removed. Steepening low-level lapse rates combined with the large reservoir of buoyancy suggest some threat for scattered damaging downdraft winds if the ongoing cluster can maintain its integrity for the next hour or two and subsequently strengthen as it moves into eastern MO and eventually western IL. Trends will be monitored for signs of increasing convective intensity and organization, with watch issuance possible."
+    },
+    {
+      "year": 2021,
+      "number": 1459,
+      "issue_utc": "2021-08-10T16:12Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1459.html",
+      "summary": "An isolated damaging wind threat may continue in the short term with a small cluster of storms moving eastward. The overall severe threat will probably remain too marginal for watch issuance.",
+      "discussion": "A short line of storms are ongoing at 1610Z across portions of eastern OH. This convection is being aided by a weak shortwave trough present over the Great Lakes and OH Valley. Both low and mid-level winds appear relatively modest per recent VWPs from KPBZ, but there is some strengthening of the flow through mid levels. Recent radar imagery from KPBZ shows strong inbound velocities occurring with this line in east-central OH. A small corridor of damaging wind gusts should be the primary severe threat in the short term. The longevity of this line as it moves into the northern WV Panhandle and southwestern PA remains unclear, as surface temperatures are still mostly in the 70s to around 80 with fairly prevalent cloud cover. Less instability is also present with eastward extent (MLCAPE around 1000 J/kg), so there may be some tendency for this line to weaken in the afternoon as it moves across the higher terrain of western/central PA and northern WV. Regardless, uncertainty is higher than usual in storm evolution across this region. For now, watch issuance appears unlikely, but convective trends will continue to be closely monitored."
+    },
+    {
+      "year": 2021,
+      "number": 1460,
+      "issue_utc": "2021-08-10T17:02Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1460.html",
+      "summary": "There is an isolated threat of large hail and damaging wind across northern Wisconsin and the western Upper Peninsula of Michigan into the early afternoon.",
+      "discussion": "Slightly elevated convection has formed across northern Wisconsin in an area being influenced by ascent associated with the main upper-level trough. This convection has become more numerous in the past 30 minutes. Steep mid-level lapse rates were observed on the 12Z MPX RAOB and are contributing to MUCAPE in excess of 2000-2500 J/kg per SPC mesoanalysis. Effective shear in this region is around 35 to 45 knots which has provided ample shear for storm organization. Therefore, expect a continued increase in storm coverage and intensity with the potential for some supercell structures. Initially, large hail may be the greater threat, but as inhibition weakens and storms congeal, the damaging wind threat may increase."
+    },
+    {
+      "year": 2021,
+      "number": 1461,
+      "issue_utc": "2021-08-10T18:12Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1461.html",
+      "summary": "Monitoring storm intensity/coverage across eastern Iowa for a potential severe thunderstorm watch.",
+      "discussion": "A storm has formed in Clarke County, Iowa. SPC mesoanalysis and forecast soundings would suggest a bit more warming would have been expected before widespread surface based storm development was imminent. However, radar characteristics suggest this storm could be surface based. Therefore, more widespread surface based storm development may be more imminent than previously thought. Instability across eastern Iowa is extreme with MLCAPE around 4000 J/kg and mid-level lapse rates around 8 C/km per SPC mesoanalysis. Based on the DMX and EAX VWPs there appears to be some stronger mid-level flow across southern Iowa which may provide enough shear for some better storm organization. Therefore, given the extreme instability and at least modest shear, any sustained, organized convection will likely be severe. The primary question at this time will be storm coverage. Therefore, storm trends will continue to be monitored and if/when stronger, sustained updrafts appear imminent, a watch may become necessary."
+    },
+    {
+      "year": 2021,
+      "number": 1462,
+      "issue_utc": "2021-08-10T18:30Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1462.html",
+      "summary": "Mainly isolated tree damage may occur with storms this afternoon. Watch issuance is not expected.",
+      "discussion": "Convection is beginning to increase in coverage over parts of the Blue Ridge Mountains in central VA. Another isolated storm was located in south-central PA as of 1830Z. Current expectations are for scattered storms to develop through the remainder of the afternoon along/east of the Blue Ridge along a weak surface trough. Mid-level flow is quite weak across VA/MD (20 kt or less per recent VWP estimated from KLWX), and it strengthens only modestly with northward extent into south-central PA. Still, with around 1500-2000 J/kg of MLCAPE present and somewhat steepened low-level lapse rates, a mix of pulse storms and perhaps a small cluster or two may ultimately occur. Wet microbursts and/or gusty outflow winds capable or producing mainly isolated tree damage will likely be the main severe threat. Given the lack of stronger low/mid-level flow, the overall severe threat is expected to remain too marginal to justify watch issuance."
+    },
+    {
+      "year": 2021,
+      "number": 1463,
+      "issue_utc": "2021-08-10T19:20Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1463.html",
+      "summary": "Isolated strong to damaging winds may continue for the next few hours. Watch issuance appears unlikely at this time.",
+      "discussion": "A small cluster of storms is ongoing this afternoon near and south of the St. Louis metro area. This convection is related to outflow from storms that occurred earlier today across central/eastern MO. A wind gust to 35 kt was reported within the past hour or so with this line at KSTL as it moved through, along with isolated tree limb damage and small hail. This convection is occurring well south of even modestly enhanced mid-level westerly flow across the central Plains and upper MS Valley. But, it should remain loosely organized along its own outflow, and it will encounter a very unstable airmass with MLCAPE of 4000+ J/kg. Accordingly, occasional strong to damaging wind gusts may continue for the next few hours as the cluster moves slowly east-southeastward into southern IL, southeastern MO, and perhaps eventually western KY. Given the lack of stronger deep-layer shear, expectations are for this cluster to exhibit only limited organization. Accordingly, watch issuance appears unlikely at this time."
+    },
+    {
+      "year": 2021,
+      "number": 1464,
+      "issue_utc": "2021-08-10T19:43Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1464.html",
+      "summary": "A large supercell has developed on the southern end of a line of storms with a threat for large hail and damaging winds for the next 1 to 2 hours.",
+      "discussion": "A supercell in Iron County, Michigan has shown a 1.5 to 2.5 inch MESH core for the last hour. This storm continues to show a strong mid-level mesocyclone and echo tops over 50 kft. There has been significant sidelobe velocity contamination within the inflow region of this supercell but close examination of the velocity data through time and support from an environment with weak flow in the lowest 2km would suggest a low tornado threat from this supercell. However, large hail (some greater than 2 inch) and damaging winds may be possible as this supercell moves east. The airmass near this storm currently indicates MLCAPE around 1500 J/kg with decreasing instability with eastern extent. Therefore, expect this supercell to eventually weaken, but given its strength at present time, storm-scale dynamic pressure perturbations could allow the storm to persist further into the less stable airmass than may be otherwise expected. The short duration and relatively isolated threat area will preclude the need for a watch ahead of this activity."
+    },
+    {
+      "year": 2021,
+      "number": 1465,
+      "issue_utc": "2021-08-10T20:10Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1465.html",
+      "summary": "Watch likely by 21Z.",
+      "discussion": "A boundary has become more diffuse as if lifts north across southern Wisconsin over the past hour with occasional convective attempts. If storms go up along this boundary, a watch may be needed soon as extreme instability (MLCAPE around 4500 J/kg) should support explosive storm development. Averaged effective shear between KGRB and KDVN 19Z RAOBs shows around 25 knots. This would be sufficient for multicell storm modes with a threat for both large hail and damaging winds. However, even if storms do not develop along this boundary, a watch is likely eventually as storms move in from the west. Storms across eastern Iowa have started to organize and it appears they may be clustering in northeast Iowa. This may be the beginning of upscale growth into an MCS which would likely track across southern Wisconsin. A watch is likely by 21Z."
+    },
+    {
+      "year": 2021,
+      "number": 1466,
+      "issue_utc": "2021-08-10T22:40Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1466.html",
+      "summary": "A large cluster of thunderstorms may continue to develop during the next hour or two across parts of northwestern Arizona, before spreading southwestward across the Lake Havasu vicinity and adjacent portions of the Colorado Valley by 6-8 PM PDT, accompanied by strong, potentially damaging wind gusts. It is not yet clear that a severe weather watch is needed, but trends will continue to be monitored.",
+      "discussion": "Clusters of developing thunderstorm activity have generated a number of substantive west/southwestward propagating surface cold pools across the plateau region of northwestern Arizona into western portions of the Mogollon Rim. This has been aided by the downward transfer of momentum associated with 10-15 kt easterly wind fields around 500 mb. Similar magnitude southwesterly flow further aloft is allowing for anvil cloud cover and precipitation to advect to the northeast, and not interfere with the weak westerly and southwesterly low-level inflow. Although wind fields and shear are generally weak, latest observational data suggest that further convective development along intersecting outflow boundaries will continue during the next couple of hours. It appears that this could contribute to one consolidating cluster roughly centered south/southeast of Kingman. Thereafter, activity should continue a southwestward propagation into and across the lower Colorado Valley, including the Lake Havasu vicinity and areas to the south, where a relatively moist, hot (surface temps at or above 100F) and deeply mixed boundary layer will be increasing conducive to the potential for severe surface gusts through 01-03Z."
+    },
+    {
+      "year": 2021,
+      "number": 1467,
+      "issue_utc": "2021-08-10T22:51Z",
+      "topic": "Severe Thunderstorm Watch 419",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1467.html",
+      "summary": "A well-developed line of thunderstorms will continue to pose a risk for damaging winds as it tracks east/southeast across WW419 and WW420.",
+      "discussion": "As of 2245 UTC, SPC mesonalysis shows extreme instability (MLCAPE of 4000-5000 J/kg) is in place with little remaining convective inhibition ahead of a line of severe thunderstorms across eastern Iowa, western Illinois and southern Wisconsin. Within the line, recent radar and satellite trends indicate a corridor of enhanced wind-damage potential may evolve across the southern Wisconsin and northern Illinois border region over the next several hours. Surface obs immediately behind the line show stronger cold pool development is underway. Greater lift along the cold pool may contribute to a stronger rear-inflow jet and bowing out of the line segment with time. This is also corroborated by several recent reports of wind damage and a measured wind gust of 70 mph in Platteville, WI. Additional damaging wind gusts, some potentially 70+ mph, appear possible as this segment of the line continues to the east along the Illinois/Wisconsin border. Farther south across eastern Iowa, storms have struggled to maintain intensity likely due to weaker effective shear below 25 kts. Additional development ahead of the main line has been noted within the very unstable airmass, and should continue into this evening. While somewhat less favorable for severe wind gusts given the weaker vertical shear and limited organization, the additional storm development will likely reinforce the cold pool associated with previous convection and support a few damaging wind gusts as it track to the south and east into northwestern Illinois ..Lyons.. 08/10/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1468,
+      "issue_utc": "2021-08-11T00:12Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1468.html",
+      "summary": "A line of severe thunderstorms is expected to cross lake Michigan and northern Indiana this evening. Damaging wind gusts appear likely and a new weather watch will be coordinated shortly for portions of lower Michigan, Indiana and Ohio.",
+      "discussion": "As of 0000 UTC regional RADAR imagery showed a well-developed convective line stretching from KGRB to KLOT. Numerous reports of wind damage and measured gusts of 50 to 60 mph have been reported with these storms over the last several hours. Ongoing within an extremely unstable airmass characterized by MLCAPE in excess of 4500 J/kg, observational trends and high-resolution model guidance suggest these storms will continue to pose a risk for damaging wind gusts this evening as they approach and eventually cross Lake Michigan. While some weakening is expected across the lake due to cooler temperatures, the strongly unstable environment and robust cold pool should allow storms to maintain their current organization. Downstream across lower Michigan, Northern Indiana and northwestern Ohio, a warm front was observed lifting north of Grand Rapids to near Detroit. South of this front, the airmass remains very unstable with MLCAPE of 2500-3500 J/kg. As the front continues to move north this evening, additional destabilization of the airmass is expected. As storms move back onshore around 0130 to 0200, the strongly unstable airmass will support a threat for damaging wind gusts. A new weather watch will be coordinated shortly for portions of Lake Michigan, lower Michigan and northern Indiana."
+    },
+    {
+      "year": 2021,
+      "number": 1469,
+      "issue_utc": "2021-08-11T02:57Z",
+      "topic": "Severe Thunderstorm Watch 421",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1469.html",
+      "summary": "A generally weakening line of thunderstorms may continue to be accompanied by strong to locally severe wind gusts across much of the remainder of lower Michigan and adjacent portions of northern Indiana and northwestern Ohio by 1-2 AM EDT. It is not yet certain that this will require an additional severe weather watch across eastern lower Michigan and northwestern Ohio, but trends are being monitored for this possibility.",
+      "discussion": "Substantial weakening has occurred to the ongoing convective system as it crossed Lake Michigan, and the temperature differential across the leading edge of the eastward advancing surface outflow is diminishing in a less strongly heated and slowly cooling boundary layer across lower Michigan. However, at least a narrow corridor of mid/upper 70s F surface dew points is returning northward ahead of line, across the Battle Creek and Lansing vicinities. And there are still areas of 50+ kt rear inflow still evident. At its current 45-50 kt forward propagation, the convective system, or its remnants, will overspread much of the remainder of lower Michigan and adjacent northwestern Ohio by 05-06Z. It remains unclear whether there will be significant re-intensification of convection, but the best chance for this may be along a zone of enhanced low-level warm advection preceding the convection, roughly across the Houghton Lake, Saginaw, Flint vicinities. Regardless, the gust front may remain capable of producing strong to locally severe wind gusts. ..Kerr.. 08/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1470,
+      "issue_utc": "2021-08-11T06:20Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1470.html",
+      "summary": "Thunderstorm development anticipated across north-central/central IL and far northwest IN tonight. Some stronger storms are possible and convective trends will be monitored for potential watch issuance.",
+      "discussion": "Recent IR satellite imagery shows some colder cloud tops beginning to emerge along northern edge of low to mid-level warm-air advection fostered by the low-level jet emanating out of the southern Plains. This low-level jet is expected to spread eastward/northeastward over the next few hours as an low-amplitude shortwave trough moves out of the central Plains into IA and southern MN. As it does, the continued warm-air advection will likely result in convective initiation across central IL. Steep mid-level lapse rates remain in place, fostering the potential for strong buoyancy as the high theta-e air along the MS River is advected northeastward. Effective bulk shear across the region also remains strong enough for organization/rotation within any stronger, more persistent updrafts. Even so, overall convective evolution remains uncertain, particularly across northeast IL and adjacent northwest IN where the low-level air mass has been stabilized by earlier storms. Given the anticipated elevated character of the storms, large hail appears to be the main severe threat. A strong cold pool could theoretically penetrate the low-level stability and produce gusts at the surface, but the development of such a cold pool would be dependent on organization into a convective line, which is uncertain at this time. Overall trends will be monitored closely for enough storm strength and coverage to merit a watch."
+    },
+    {
+      "year": 2021,
+      "number": 1471,
+      "issue_utc": "2021-08-11T09:49Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1471.html",
+      "summary": "A few strong storms are possible but the overall risk for any severe thunderstorms appears low.",
+      "discussion": "Elevated thunderstorms have begun to develop within the warm sector ahead of a low-amplitude shortwave trough moving across eastern NE. Recent water vapor imagery shows the ascent attendant to this system well (in the form of cooling cloud tops across northern/central). Steep mid-level lapse rates are in place, contributing to moderate buoyancy. In contrast, vertical shear is relatively modest, particularly in the layer where the buoyancy resides (roughly above 700 mb). As such, updraft longevity will likely be tempered, which should also limit any hail potential."
+    },
+    {
+      "year": 2021,
+      "number": 1472,
+      "issue_utc": "2021-08-11T11:26Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1472.html",
+      "summary": "Isolated large hail and/or a few damaging wind gusts possible over the next few hours.",
+      "discussion": "Cluster of thunderstorms across far northeast MO and extreme southeast IA has gradually intensified over the past hour. This activity currently appears to be rooted in the 850 mb to 700 mb layer. The downstream air mass is characterized by steep mid-level lapse rates and strong buoyancy, suggesting the ongoing cluster will likely be maintained in the short-term. Estimated storm motion takes these storms across west-central IL over the next two hours. Given the prevailing low-level stability, the primary severe threat will be large hail. However, a few strong gust may be able to penetrate this low-level stable layer, especially with eastern extent where greater low-level moisture currently exists. Overall severe coverage is uncertain, precluding higher watch probabilities. However, convective trends are being monitored closely."
+    }
+  ]
+}

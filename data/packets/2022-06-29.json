@@ -1,0 +1,126 @@
+{
+  "convective_day": "2022-06-29",
+  "valid_start": "2022-06-29T12:00Z",
+  "valid_end": "2022-06-30T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2022-06-29",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-06-29T20:00Z",
+      "valid_end": "2022-06-30T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220629_2000.html",
+      "summary": "Intense thunderstorm gusts are likely through this evening over parts of the Dakotas.",
+      "sections": [
+        {
+          "title": "20z Update",
+          "text": "An upgrade to an Enhanced risk (level 3 of 5), mainly for swaths of damaging gusts, has been included across parts of central/northern SD with the 20z update. Additionally, the Slight risk has been expanded southward into parts of northern NE, and across part of central ND. While instability remains somewhat modest across the northern Plains, strong heating has allowed very steep low-level lapse rates to develop. Additionally, DCAPE values greater than 1200 J/kg are noted in latest mesoanalysis. Forecast soundings indicated favorable thermodynamic profiles supporting intense downdrafts and thunderstorm outflows. Effective shear diminishes with southward extent into the central Plains, but will favor organized convection across SD, where clusters/bowing segments are expected. Latest CAMs and machine learning guidance, couple with current observations suggest severe gusts are possible from north-central NE into SD and eastern ND/western MN through this evening. A few gusts greater than 75 mph possible from central into northeast SD. For more details concerning short term evolution of severe convection, reference MCD 1304. ..Leitman.. 06/29/2022 .PREV DISCUSSION... /ISSUED 1112 AM CDT"
+        },
+        {
+          "title": "Northern/Eastern ND",
+          "text": "Visible satellite imagery shows a cluster of high-based showers and thunderstorms over northern MT. This activity is associated with a subtle mid-level shortwave trough and jet streak. Several CAM solutions suggest one or more intense thunderstorms form later today as this feature moves into northern ND. Forecast soundings show moderate CAPE values and sufficient vertical shear for supercell structures capable of large hail. If these storms form, they could persist for several hours and track eastward into northeast ND/northwest MN before weakening."
+        },
+        {
+          "title": "WY/NE/Dakotas",
+          "text": "A broad upper ridge is present today over the central Rockies/Plains, with the southern fringe of stronger westerlies extending from northern UT into WY/NE/SD. A plume of mid-level moisture is evident in water vapor imagery over parts of WY/CO, which is likely to result in scattered high-based thunderstorms this afternoon over the central/northern High Plains. Hot surface temperatures over 100F will yield inverted-v profiles with substantial downdraft potential. Sufficiently strong westerly flow aloft and associated momentum transfer potential will aid in the risk of locally gusty/damaging wind gusts through the afternoon and early evening."
+        },
+        {
+          "title": "Eastern NY into New England",
+          "text": "A upper level trough over the Great Lakes region will track eastward into the northeast states this afternoon, with cool mid-level temperatures and large scale ascent overspreading parts of NY/New England. Strong daytime heating in this area will result in steep low-level lapse rates, while dewpoints in the 50s yield MLCAPE values of around 500 J/kg. A few strong/severe storms are possible over southern Quebec, with uncertainty how far south storms will develop. Will maintain the existing MRGL risk area for the conditional potential for locally strong/damaging winds in storms that can develop."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-06-30",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-06-30T01:00Z",
+      "valid_end": "2022-06-30T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220630_0100.html",
+      "summary": "Severe storms will be possible across parts of the northern Plains this evening. Isolated large hail may occur in parts of eastern North Dakota, with a potential for damaging wind gusts across South Dakota, some of which could be greater than 65 knots.",
+      "sections": [
+        {
+          "title": "Northern Plains",
+          "text": "Latest water vapor imagery shows a low-amplitude upper-level ridge over the north-central U.S., with a shortwave trough embedded in west-southwesterly mid-level flow over far eastern Montana and far western South Dakota. At the surface, a 1002 mb low is analyzed across far northern South Dakota, with a surface trough extending southward across east-central South Dakota. This area is located to the south of a corridor of maximized low-level moisture, extending from southern Minnesota northwestward into eastern North Dakota. Thunderstorms are ongoing to the south of this moist axis across parts of western and central South Dakota, where surface temperature-dewpoint spreads exceed 40 degrees F in some locations. As a result, near dry adiabatic conditions are present, with forecast soundings in central South Dakota showing 0-3 km lapse rates in the 9 to 10 C/km range. These steep lapse rates will aid downdraft acceleration, making severe wind gusts likely with the stronger downdrafts. A few wind gusts of greater than 65 knots could occur with the more intense short line segments. Further to the north into parts of central and eastern North Dakota, a moderately unstable airmass is in pl"
+        },
+        {
+          "title": "Intermountain West/Central Rockies",
+          "text": "The latest mosaic radar imagery shows scattered thunderstorms ongoing across parts of the Intermountain West into the central Rockies, mostly in the higher terrain. Weak instability is analyzed from northern Utah eastward into northern Colorado and eastern Wyoming, where the RAP has MLCAPE generally in the 250 to 500 J/kg range. This combined with moderate deep-layer shear and very steep lapse rates, evident on forecast soundings, could be enough for an isolated and marginal wind-damage threat for a few more hours this evening."
+        },
+        {
+          "title": "New England",
+          "text": "A shortwave trough is evident on water vapor imagery over the Northeast. Ahead of the trough, scattered thunderstorms are ongoing across parts of New England. Although instability is weak, forecast soundings show steep lapse rates, in excess of 8.0 C/km, from the surface to 850 mb. This could be enough for a marginal wind-damage threat with the stronger downdrafts. The threat may persist for a couple more hours as the severe threat gradually transitions eastward into parts of western and northern Maine. ..Broyles.. 06/30/2022"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2022,
+      "number": 1303,
+      "issue_utc": "2022-06-29T18:41Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1303.html",
+      "summary": "Isolated severe gusts (60-70 mph) are possible with the strongest storms/outflow. The isolated coverage and low impact of the risk will preclude a severe thunderstorm watch.",
+      "discussion": "Visible satellite imagery over the eastern Great Basin/central Rockies shows a cluster of weakening convection moving east over northern CO/southern WY and approaching the Laramie Range. In wake of this activity, strong heating with mostly sunny skies is resulting in temperatures warming into the lower to mid 80s from southwest WY into northeast UT and adjacent parts of far northwest CO. Isolated to widely scattered storms have developed in the past hour over the Uinta mountains with additional storms forming farther south over the Wasatch. KMTX and KSLC VAD data indicate around 30-40kt west-southwesterly 500mb flow. Given the steep lapse rate profiles and the relatively dry sub-cloud layer implied by the large surface temperature-dewpoint spreads, strong downdrafts may be slightly augmented by the moderate background tropospheric flow. Isolated severe gusts (60-70 mph) are possible with the stronger cores."
+    },
+    {
+      "year": 2022,
+      "number": 1304,
+      "issue_utc": "2022-06-29T19:28Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1304.html",
+      "summary": "Thunderstorms are forecast to develop and intensify through the remainder of the afternoon into the early evening. Severe gusts ranging from 60-75 mph are possible with the stronger downdrafts.",
+      "discussion": "Visible satellite imagery shows developing high-based convection over northeast WY with a mid-level accas field spreading east into western SD near the Black Hills. Clear skies east of Rapid City have resulted in strong heating with surface temperatures around 100 deg F and dewpoints around 50. Forecast soundings indicate a nearly dry adiabatic lapse rate from the surface to 500 mb based on current surface observations. Model guidance, particularly the HRRR, shows storms gradually developing as convection moves east from near the WY/SD border (surface dewpoints in the 30s to lower 40s) into slightly richer moisture farther east near Phillips (dewpoints around 50 deg F). A semi-organized cluster of initially skeletal but increasingly robust storms will probably evolve, with widely scattered to scattered severe gusts ranging from 60-75 mph as this activity moves into central SD towards early evening."
+    },
+    {
+      "year": 2022,
+      "number": 1305,
+      "issue_utc": "2022-06-29T22:25Z",
+      "topic": "Severe Thunderstorm Watch 414",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1305.html",
+      "summary": "Severe wind gusts remain possible with convection across South Dakota this evening. New severe thunderstorm watch appears warranted immediately downstream.",
+      "discussion": "Low-amplitude, mid-level short-wave trough is flattening the ridge over eastern WY early this evening. This feature is dislodging the lee surface trough which has now shifted into central SD, arcing southwest across the eastern NE Panhandle into northeast CO. Very hot boundary-layer conditions have developed along this surface trough and dry adiabatic lower tropospheric lapse rates are contributing to cloud bases near 600mb where temperatures are in excess of 100F. Latest radar data suggests scattered high-based convection over central SD could be slowly organizing as it approaches the eastern edge of ww414 near PIR. This activity should spread east of the watch around 2330z and a new watch will likely be issued. ..Darrow.. 06/29/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1306,
+      "issue_utc": "2022-06-30T00:54Z",
+      "topic": "Severe Thunderstorm Watch 414",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1306.html",
+      "summary": "Severe threat is shifting into the northern and far eastern portions of ww414.",
+      "discussion": "Back edge of short-wave trough appears to be near the Black Hills and this feature is translating east toward central SD. In the wake of this short wave, surface front is surging southeast across the northern High Plains and currently arcs across western ND into northeast WY. Robust thunderstorms have evolved along this boundary and are expected to continue spreading east toward MBG over the next few hours. Locally damaging winds are likely noted with this convection. Otherwise, a multifaceted cluster of strong/severe storms has evolved over south-central/central SD. This cluster is advancing northeast along a pre-frontal trough that extends across eastern SD into west-central MN. Very hot temperatures, although cooling a bit now, developed along this boundary which should aid downdrafts due to very steep lapse rates. Severe threat should gradually shift downstream ahead of the short wave. Given the latest trends, severe threat appears to be decreasing across the southwestern half of ww414. ..Darrow.. 06/30/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1307,
+      "issue_utc": "2022-06-30T01:38Z",
+      "topic": "Severe Thunderstorm Watch 415",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1307.html",
+      "summary": "Severe threat continues across southern North Dakota into eastern South Dakota and extreme west-central Minnesota.",
+      "discussion": "Low-amplitude short-wave trough continues its eastward progression across the Black Hills region toward the central Dakotas. While high based and moisture poor (PW values are less than one inch at UNR/PIR and near one inch at BIS), scattered convection has matured ahead of this feature both along the advancing cold front and near the pre-frontal trough. Over the last hour or so, convection has increased along the ND/SD border west of MBG. This activity should spread east over the next few hours, likely progressing into the northwest portions of ww415 by 03z. While some boundary-layer cooling has likely lessened DCAPE some across eastern SD, very steep lapse rates remain favorable for efficient downdrafts as this activity spreads towards MHE-ATY. ..Darrow.. 06/30/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1308,
+      "issue_utc": "2022-06-30T04:10Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1308.html",
+      "summary": "An instance of marginally severe hail may accompany the more dominant elevated storms this evening. A WW issuance is not expected given the expected brief/sparse nature of the severe threat.",
+      "discussion": "Strong 850-700 mb WAA is taking place across the Great Lakes region in advance of a subtle, embedded mid-level impulse cresting the large scale upper ridge across the northern Plains. The MPX 00Z observed sounding depicts 800-600 mb lapse rates around 8 C/km, with southwesterly ambient winds encompassing this layer. The 03Z mesoanalysis depicts this lapse rate plume advecting east-northeast towards the Upper Michigan Peninsula, supporting a wedge of 500 J/kg MUCAPE overspreading the western Great Lakes in tandem with 50+ kts of effective bulk shear. Storms embedded in this WAA regime have a history of producing large hail across northeast MN and it is possible that an instance or two of marginally severe hail may also accompany these storms as they traverse the Upper Michigan Peninsula. Given overall limited MUCAPE (constrained above 600 mb in a tall-skinny profile per 02Z RAP forecast soundings), the large hail threat is expected to remain quite limited and a WW issuance is not expected."
+    },
+    {
+      "year": 2022,
+      "number": 1309,
+      "issue_utc": "2022-06-30T04:26Z",
+      "topic": "Severe Thunderstorm Watch 415",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1309.html",
+      "summary": "Isolated severe wind gusts remain possible primarily near the ND/SD border, south of JMS, into west-central MN.",
+      "discussion": "Earlier high-based convection that developed along the pre-frontal surface trough has weakened considerably as it progressed into southwest MN. While gusty winds remain possible with the weakening convection, most of this activity should remain sub severe. However, thunderstorms that developed immediately ahead of the short-wave trough along the front have tracked along the ND/SD border and a loosely organized cluster is currently noted just south of JMS. This activity is expected to progress east along a boundary that is draped across this region into west-central MN over the next few hours. Latest diagnostic data suggest the greatest buoyancy resides along/north of this boundary which should result in a greater concentration of storms across the northern portions of ww415. ..Darrow.. 06/30/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

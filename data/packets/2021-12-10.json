@@ -1,0 +1,430 @@
+{
+  "convective_day": "2021-12-10",
+  "valid_start": "2021-12-10T12:00Z",
+  "valid_end": "2021-12-11T12:00Z",
+  "max_risk": "MDT",
+  "product_counts": {
+    "ENH": 2,
+    "MDT": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-12-10",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-12-10T12:00Z",
+      "valid_end": "2021-12-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20211210_1200.html",
+      "summary": "Scattered severe thunderstorms are expected during the evening and overnight hours across the lower/mid Mississippi Valley into the lower Ohio and Tennessee Valley region. Nocturnal tornado threat is expected with this activity along with the possibility for a few strong tornadoes.",
+      "sections": []
+    },
+    {
+      "issued_product_date": "2021-12-10",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-12-10T13:00Z",
+      "valid_end": "2021-12-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20211210_1300.html",
+      "summary": "Severe thunderstorms -- with tornadoes, damaging gusts and isolated large hail -- are likely this evening and overnight from parts of the lower Ohio Valley and adjacent states through the middle and lower Mississippi Valley region. A few of the nighttime tornadoes may be strong.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A series of mid/upper-level shortwave troughs are phasing in the western CONUS, with deepening of a major synoptic trough and related increase in cyclonic flow aloft. the strongest of the shortwave troughs -- apparent in moisture-channel imagery over portions of ID and the northern Great Basin -- will dig southeastward across the Four Corners to the central/Southern Rockies by 00Z, then pivot eastward and northeastward. By 12Z tomorrow, the 500-mb trough should be located from the upper Mississippi Valley to eastern KS and northern OK, near the axis of the synoptic trough extending southwestward from there over northwestern MX. The 11Z surface analysis showed a frontal-wave low near the southern CO/KS border, with a warm front arching across south-central/ southeastern KS and central portions of MO/IL. A separate warm- frontal zone -- signifying the inland extent of a strongly modified Gulf air mass -- was drawn across central/north-central TX to central portions of AR, southeastward over central MS and southwestern AL. The latter boundary should shift northward and gradually become diffuse through the day, merging from west to east with the synoptic warm front initially to its nor"
+        },
+        {
+          "title": "Lower/mid Mississippi and Ohio Valleys and vicinity",
+          "text": "Scattered to numerous thunderstorms are forecast along and ahead of the cold front tonight, offering the full spectrum of severe weather. The main concerns will be for occasional tornadoes (some potentially capable of EF2+ damage) and scattered, damaging thunderstorm gusts. Though late-afternoon development near the front is possible, the overwhelming majority of strong-severe convection should be after dark. An increasingly moist and diurnally heated boundary layer will be advected northeastward through the outlook area all day, prior to initiation. Then once activity does form, theta-e advection will offset nocturnal-cooling effects enough to maintain at least marginally favorable, surface-based buoyancy much of the evening -- at least as far north as the I-80 corridor across IL/IN, and all night over the southern part of the outlook. Surface dew points in the 60s to near 70 F are expected in the Mid-South and lower Mississippi Valley, and mid 50s to mid 60s values from the Ohio Valley to near the latitude of southern Lake Michigan. Morning RAOBs and forecast soundings suggest a weaker EML with northward extent, which should erode from west to east just prior to the cold front. T"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-12-10",
+      "hhmm": "1630",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2021-12-10T16:30Z",
+      "valid_end": "2021-12-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20211210_1630.html",
+      "summary": "A few strong tornadoes, damaging gusts, and large hail are all expected beginning this evening across Arkansas and Missouri, with the greatest tornado threat close to the confluence of the Mississippi and Ohio Rivers. The damaging wind and tornado threat will persist overnight while spreading eastward into the Tennessee Valley and northeastward across the Ohio Valley overnight.",
+      "sections": [
+        {
+          "title": "AR/MO this evening to TN/OH Valleys overnight",
+          "text": "A broad midlevel trough approaching the High Plains this morning will continue eastward to the mid MS Valley overnight. The midlevel trough is preceded by a remnant lee cyclone that will develop from KS today to northern MO this evening, with more substantial deepening overnight toward Lower MI. The surface warm sector will spread northeastward from I-40 in eastern OK/AR to I-70 in MO/IL by this evening, with additional expansion of the warm sector into TN/KY/IN/OH through late tonight. Regional 12z soundings revealed 65-70 F boundary-layer dewpoints in the warm sector this morning, beneath midlevel lapse rates close to 7.5 C/km. Surface heating in cloud breaks and continued warm/moist advection through the day will result in destabilization and weakening of convective inhibition in the open warm sector and along the cold front by this evening, when storm initiation is expected. Deep-layer southwesterly winds will be strong with long hodographs and some low-level, clockwise curvature in the warm sector (effective bulk shear in excess of 70 kt and effective SRH in excess of 300 m2/s2). MLCAPE of 1000-2000 J/kg, combined with the strong vertical shear, will favor supercells capable o"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-12-10",
+      "hhmm": "2000",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2021-12-11T01:00Z",
+      "valid_end": "2021-12-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20211210_2000.html",
+      "summary": "A few strong tornadoes, damaging gusts, and large hail are all expected beginning this evening across Arkansas and Missouri, with the greatest tornado threat close to the confluence of the Mississippi and Ohio Rivers. The damaging wind and tornado threat will persist overnight while spreading eastward into the Tennessee Valley and northeastward across the Ohio Valley overnight. Northeast Texas: Isolated thunderstorms are developing a bit farther west across northeast Texas than earlier anticipated. With ample moisture/instability across this region ahead of the front will increase severe probabilities across this region. The previous forecast appears to be on track, and little change is needed at 20Z. At 19Z, a dryline was located near the I-35 corridor from north TX into OK, with gradual warming and destabilization noted eastward into AR. Upwards of 1500 J/kg MLCAPE is already in place there, with further warming along with dewpoints holding in the upper 60s F. While capping currently exists over most areas, the deepening moist boundary layer is forecast become uncapped prior to 00Z over AR, and this will support possible supercell development with tornado threat evolving east-nor",
+      "sections": [
+        {
+          "title": "AR/MO this evening to TN/OH Valleys overnight",
+          "text": "A broad midlevel trough approaching the High Plains this morning will continue eastward to the mid MS Valley overnight. The midlevel trough is preceded by a remnant lee cyclone that will develop from KS today to northern MO this evening, with more substantial deepening overnight toward Lower MI. The surface warm sector will spread northeastward from I-40 in eastern OK/AR to I-70 in MO/IL by this evening, with additional expansion of the warm sector into TN/KY/IN/OH through late tonight. Regional 12z soundings revealed 65-70 F boundary-layer dewpoints in the warm sector this morning, beneath midlevel lapse rates close to 7.5 C/km. Surface heating in cloud breaks and continued warm/moist advection through the day will result in destabilization and weakening of convective inhibition in the open warm sector and along the cold front by this evening, when storm initiation is expected. Deep-layer southwesterly winds will be strong with long hodographs and some low-level, clockwise curvature in the warm sector (effective bulk shear in excess of 70 kt and effective SRH in excess of 300 m2/s2). MLCAPE of 1000-2000 J/kg, combined with the strong vertical shear, will favor supercells capable o"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-12-11",
+      "hhmm": "0100",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2021-12-11T01:00Z",
+      "valid_end": "2021-12-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20211211_0100.html",
+      "summary": "A few strong tornadoes, damaging gusts, and large hail are all expected tonight across Arkansas and Missouri, with the greatest tornado threat close to the confluence of the Mississippi and Ohio Rivers. The damaging wind and tornado threat will persist overnight while spreading eastward into the Tennessee Valley and northeastward across the Ohio Valley overnight.",
+      "sections": [
+        {
+          "title": "01z Update",
+          "text": "Water-vapor imagery suggests large-scale forcing is spreading across the mid MS Valley, trailing into eastern OK. Convection is expanding and deepening ahead of the short wave, especially across MO where numerous supercells are now beginning to mature from south of UIN-COU-to east of SGF. Additional activity is intensifying along the dry line from near JLN-MKO in eastern OK. Earlier thoughts regarding severe generally remain and outlook changes are not warranted at this time. With very strong shear in place across the warm sector, long-lived supercells are expected tonight along with tornadoes. Damaging winds and some hail threat also remain. With time buoyancy will increase across the lower OH Valley and severe threat will increase markedly later this evening into the pre-dawn hours. ..Darrow.. 12/11/2021"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 1978,
+      "issue_utc": "2021-12-10T19:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1978.html",
+      "summary": "Discrete supercell development appears increasingly probable by 4-6 PM CST, accompanied by the risk for severe hail and tornadoes, including increasing potential for a couple of strong tornadoes by early evening.",
+      "discussion": "A short wave impulse of subtropical eastern Pacific origin continues to accelerate northeastward across Kansas and Oklahoma, and is forecast to reach the mid/lower Missouri Valley vicinity by early evening. Mid/upper forcing for ascent and elevated moisture return preceding this feature have contribute to weak high-based convection and light rain in a corridor across eastern Oklahoma into the lower Missouri Valley, while low-level moisture from the Gulf of Mexico gradually deepens across the lower Mississippi Valley into parts of the southeastern Great Plains. The deeper low-level moisture return is being aided by a branch of stronger southerly flow across the northwestern Gulf coast vicinity into the Ozark Plateau. This appears to include a 40-45 kt speed maximum around 850 mb, across the upper Texas coastal plain into the Ark-La-Tex vicinity. Through 21-00Z, model output continues to generally indicate that this speed maximum will rapidly propagate northeastward into the Ozark Plateau through middle Mississippi/lower Ohio Valley vicinity, while strengthening to 50+ kt in a corridor from near Little Rock AR into the Missouri Bootheel vicinity. It appears that deepening boundary-layer moisture and increasing mixed-layer CAPE along this corridor will coincide with weakening inhibition associated with a transition from broadly anticyclonic to cyclonic mid-level flow. This is expected to allow for the initiation of at least scattered discrete storm development, as southwesterly flow in the 700-500 mb layer also strengthens to 60-80+ kt. This regime likely will become increasingly conducive to the development of supercells, with the potential to produce severe hail initially, along with at least some risk for tornadoes. Backing of surface winds toward a south to south-south"
+    },
+    {
+      "year": 2021,
+      "number": 1979,
+      "issue_utc": "2021-12-10T20:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1979.html",
+      "summary": "Isolated supercell development potentially becoming capable of producing tornadoes appears possible across parts of north central Missouri prior to 6 PM CST. While it is not certain that a watch will be needed, trends are being monitored for this possibility.",
+      "discussion": "The center of a deepening surface cyclone is now north of Topeka, with a corridor of 3-5 mb 2-hourly surface pressure falls along a developing warm frontal zone to its east shifting east-northeastward across northern Missouri. This is occurring in advance of consolidating, larger-scale mid-level troughing forecast to progress east of the the Colorado Rockies into the central Great Plains by 11/00Z. This is preceded by a short wave perturbation of subtropical eastern Pacific origin, which appears to still include one prominent mid-level cyclonic vorticity center approaching the Kansas City area. It appears that the stronger forcing for ascent associated with the cyclonic vorticity center will progress east-northeast of the Kansas City area, before substantive boundary-layer destabilization can take place. However, models suggest that a narrow corridor of at least modest, but deepening, boundary layer moisture is possible along a 50-60+ kt southwesterly pre-frontal 850 mb jet axis across western through northern Missouri. As the surface warm frontal zone continues to advance north of the Missouri River/Interstate 70 corridor, the environment along it might become conducive to isolated strong to severe storm development prior to 11/00Z, particularly south of Chillicothe into areas southeast of Kirksville. Even with some moistening, relatively warm mid-level temperatures may tend to minimize mixed-layer CAPE, but beneath 90-100 kt southwesterly 500 mb flow, hodographs are forecast to become favorable for supercells potentially accompanied by a risk for producing tornadoes."
+    },
+    {
+      "year": 2021,
+      "number": 1981,
+      "issue_utc": "2021-12-10T22:20Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1981.html",
+      "summary": "Isolated to widely scattered severe storms are possible across portions of the Arklatex.",
+      "discussion": "High based showers have developed along a dryline which has recently passed through Dallas. These showers are now moving into a more moisture rich airmass with dewpoints in the mid 60s. This is yielding MLCAPE around 1500 to 2000 J/kg beneath strong mid-level flow and effective shear in excess of 60 knots. Therefore, further intensification of these showers are possible. The threat will likely remain isolated, but the environment is quite favorable for supercells with an initial large hail threat with an increasing tornado threat with eastward extent. The isolated nature of any storm development may preclude the need for a watch, but if storm intensity is great enough or if more storms develop, a watch may be needed."
+    },
+    {
+      "year": 2021,
+      "number": 1982,
+      "issue_utc": "2021-12-10T22:45Z",
+      "topic": "Tornado Watch 552",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1982.html",
+      "summary": "A slow increase in storm intensity/coverage is expected over the next 1 to 2 hours.",
+      "discussion": "Initial storms which developed near Little Rock have not shown much organization thus far. In addition, weak cellular convection is developing across much of the Mississippi River region. However, a strong capping inversion, sampled by the 19Z LZK RAOB is likely limiting more robust storm development thus far. As heights continue to fall this evening, expect these warmer mid-level temperatures to erode further and expect greater storm coverage and intensity. Once mature supercells can develop, all severe hazards remain possible as the environment remains favorable with 0 to 1 km shear now in excess of 35 knots per KLZK VWP. ..Bentley.. 12/10/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1983,
+      "issue_utc": "2021-12-10T23:17Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1983.html",
+      "summary": "Watch 52 may need to be expanded eastward into northern Mississippi and western Tennessee",
+      "discussion": "Showers continue to deepen in the warm air advection regime along and east of the Mississippi River. As they deepen, some low-level rotation has been evident on some of the better mini-supercell structures. Expect this threat to continue as storms deepen further in a region of 0 to 1 km SRH around 250 m2/s2 per KNQA VWP. Eventual severe intensity is expected out of this activity, but timing is the primary question. If these storms intensify in the next hour, watch 552 may need to be expanded across the remainder of the MEG CWA. However, if the storm intensity remains muted for the next 60 to 90 minutes, this area may be covered by an eventual watch which will likely be needed east of tornado watch 552."
+    },
+    {
+      "year": 2021,
+      "number": 1984,
+      "issue_utc": "2021-12-10T23:27Z",
+      "topic": "Tornado Watch 553",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1984.html",
+      "summary": "The severe threat appears to be gradually increasing across portions of central Missouri. Large hail and damaging wind gusts appear to be the primary threats, though a few tornadoes are also likely, especially across eastern Missouri later this evening.",
+      "discussion": "Deep-moist convection has recently initiated across portions of southwest MO, just northwest of SGF within the past hour. These storms are developing along the western fringes of a moist warm sector, where near 60 F surface dewpoints are overspread by 7 C/km mid-level lapse rates (evident via 22Z mesoanalysis and previously noted by the 19Z SGF observed sounding). While the surface winds are somewhat veered, the 21Z SGF VWP showed a modestly curved but long hodograph depicting well over 300 m2/s2 SRH in both the 0-1 km and 0-3 km layers. As deep-layer ascent increases across the area and convective inhibition continues to wane, additional storms are expected to develop over the next several hours. A mixed mode of linear segments and semi-discrete storms are expected, with all severe hazards (including a couple of tornadoes) likely. The best chance for tornadoes will be later this evening across eastern MO as the more mature storms progress farther east into the LLJ axis, where low-level shear is expected to be strongest and where MLCAPE may exceed 1000 J/kg."
+    },
+    {
+      "year": 2021,
+      "number": 1985,
+      "issue_utc": "2021-12-10T23:52Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1985.html",
+      "summary": "A new tornado watch is needed downstream of tornado watch 552.",
+      "discussion": "Warm air advection showers have started producing lightning across portions of southern Illinois and western Kentucky. Expect a slow increase in storm coverage and intensity across this region. This activity (including a tornado warned storm entering Calloway County, Kentucky) will move east of tornado watch 552 in the next 30 to 60 minutes. The HPX VWP shows a very favorable low-level shear environment with 0-1 km SRH around 400 m2/s2 indicating the potential for strong tornadoes. Therefore a downstream tornado watch will be needed. The eastward extent of the threat will be limited due to decreasing instability, but at least some threat is expected to near I-65. This area will likely need to be in a watch for an extended period due to multiple rounds of convection continuing for most of the night."
+    },
+    {
+      "year": 2021,
+      "number": 1986,
+      "issue_utc": "2021-12-11T00:22Z",
+      "topic": "Tornado Watch 552",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1986.html",
+      "summary": "Locally higher tornado threat potentially materializing with a maturing supercell across northeast Arkansas. Potential exists for this supercell to become long-lived, with sustained/strong tornadoes possible over the next few hours.",
+      "discussion": "KLZK, KNQA, and MRMS mosaic radar data all depict an intense supercell in progress across the Jackson/Woodruff County AR area, where deep-layer ascent and LLJ intensity both continue to increase in magnitude. Latest LZK and NQA radar data also depicts a possible TDS, suggesting that the supercell may have already produced a tornado. The 00Z LZK sounding shows that the convective inhibition above the boundary layer has eroded, with a moist and unstable boundary layer likely advecting ahead of the ongoing storm. The 00Z sounding, along with the 2352Z NQA VWP shows a relatively long/curved hodograph with 0-1 and 0-3 km SRH at/over 300 m2/s2. Low-level shear is only expected to increase with further intensification of the LLJ over the MS river. Furthermore, several of the recent HRRR runs have also depicted a long-tracked supercell across this region. As such, this supercell may obtain a steady-state structure, with additional tornadoes (some strong) potentially accompanying this storm through early evening."
+    },
+    {
+      "year": 2021,
+      "number": 1987,
+      "issue_utc": "2021-12-11T00:37Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1987.html",
+      "summary": "A new tornado watch may be needed across portions of eastern Oklahoma and western Arkansas.",
+      "discussion": "Rapid storm development has occurred along the dryline near the Oklahoma/Arkansas border as the strong ascent overspreads the warm sector. These storms will likely pose a threat for large hail, damaging winds, and a few tornadoes as they continue east into the overnight hours. A new tornado watch may be needed to cover this threat west of watch 552."
+    },
+    {
+      "year": 2021,
+      "number": 1988,
+      "issue_utc": "2021-12-11T01:02Z",
+      "topic": "Tornado Watch 553",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1988.html",
+      "summary": "The damaging wind and tornado threat is increasing across eastern Missouri and western Illinois, including the St. Louis Metro area.",
+      "discussion": "A line of storms has organized across central Missouri and is moving quickly east toward the Mississippi River. Within this line are several embedded supercells with some low-level rotation evident from the KLSX WSR-88D. The storm with the coldest cloud tops is currently moving toward St. Louis. Therefore, this portion of the line in particular may have a greater severe wind/tornado threat over the next 1 to 2 hours, especially given the backed surface flow and around 500 m2/s2 0-1 km SRH from the KLSX VWP. ..Bentley.. 12/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1990,
+      "issue_utc": "2021-12-11T01:18Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1990.html",
+      "summary": "A tornado watch will be needed within the next hour across portions of Illinois and Indiana.",
+      "discussion": "A broken line of supercells has developed across eastern Missouri and will move into central Illinois and eventually Indiana during the overnight hours. Dewpoints are only in the mid to upper 50s across Indiana and eastern Illinois at this time which yields limited instability in the region. However, the strong low-level jet will continue to advect low-level moisture northward with the 00Z HRRR showing low 60s dewpoints advecting northward ahead of the storms as they move into Indiana. This will yield MLCAPE between 500 and 1000 J/kg. This instability combined with an extremely favorable wind field (90 knots of 0-6 km shear and over 600 m2/s2 0 to 1 km SRH per ILX VWP) should continue a significant severe weather threat through the overnight hours with primary threats of damaging winds and tornadoes (a few of which may be strong). A tornado watch will be needed within the hour to cover this threat."
+    },
+    {
+      "year": 2021,
+      "number": 1991,
+      "issue_utc": "2021-12-11T01:34Z",
+      "topic": "Tornado Watch 552",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1991.html",
+      "summary": "An uptick in the severe threat, including strong tornadoes, appears evident across southwest into east-central Arkansas. The locally higher tornado threat may persist with the more dominant supercells for at least a few hours.",
+      "discussion": "Multiple storms, including sustained supercells, have recently organized across portions of central and eastern Arkansas, with a discrete supercell also entering far southwest Arkansas. MRMS mosaic radar shows intense low-level rotation tracks associated with the more dominant supercells just north of LZK, and these storms are expected to progress across a moist, unstable/minimally capped environment. The latest VWPs from SHV to NQA depict long, curved hodographs given the presence of a broad, intense LLJ overspreading the area. These VWPs and 01Z mesoanalysis depict 0-1 km and effective SRH in the 250-400 m2/s2 range, supporting the risk for sustained, strong tornadoes across southwest into eastern AR for at least the next few hours."
+    },
+    {
+      "year": 2021,
+      "number": 1992,
+      "issue_utc": "2021-12-11T01:41Z",
+      "topic": "Tornado Watch 552",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1992.html",
+      "summary": "A strong to potentially violent tornado is ongoing in far northeastern Arkansas and is expected to persist.",
+      "discussion": "A mature and very strong supercell in northeast Arkansas is currently producing a very strong to potentially violent tornado. The downstream airmass remains very favorable with dewpoints near 70, strengthening/backing surface flow, and 0-1 km SRH in excess of 400 m2/s2 per KNQA VWP. This is yielding STP around 5. Given the favorable downstream environment with no convection to disrupt this storm, expect the significant tornado threat to continue for at least a few more hours as this discrete, long-track supercell continues northeast."
+    },
+    {
+      "year": 2021,
+      "number": 1993,
+      "issue_utc": "2021-12-11T01:54Z",
+      "topic": "Tornado Watch 553",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1993.html",
+      "summary": "The severe threat continues across Tornado Watches 553 and 556. Large hail and damaging gusts appear to be the main threats, though a couple of tornadoes remain possible with the stronger, more sustained supercellular storms.",
+      "discussion": "Another line of semi-discrete thunderstorms have recently developed across the western fringe of the warm sector, within Tornado Watches 533 and 556. Surface temperatures exceeding 70F, with low 60s F dewpoints overspread by 6.5-7.5 C/km mid-level lapse rates (per latest mesoanalysis) are contributing to 1000-1500 J/kg MLCAPE, suggesting that strong to severe storms will continue across the Watch areas for at least a few more hours. All severe hazards have recently been observed with some of the stronger storms. While a strong LLJ is contributing to significant low-level speed shear (with 200-300 0-1 km and effective SRH noted by the latest SRX and SGF VWPs), these VWPs also show decreasing hodograph curvature, potentially limiting the tornado threat to a degree. Nonetheless, large hail and damaging gusts are still expected to continue, and a couple of tornadoes cannot be ruled out given the overall magnitudes of the low-level shear."
+    },
+    {
+      "year": 2021,
+      "number": 1994,
+      "issue_utc": "2021-12-11T02:35Z",
+      "topic": "Tornado Watch 554",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1994.html",
+      "summary": "The severe threat continues across Tornado Watch 554, with a local uptick in tornado potential possible with any discrete supercells that can become sustained.",
+      "discussion": "Multiple supercell structures with transient low-level rotation have been progressing across northern portions of Tornado Watch 554 over the past couple of hours. Recently, KHPX radar data suggests a relatively deep mesocyclone has developed with a supercell across Muhlenberg County, KY, likely due to increased low-level shear as the axis of a strong LLJ overspreads the region, and as richer moisture continues to advect into the region in tandem with stronger deep-layer ascent. As such, a local uptick in tornado potential may be realized over the next couple of hours with the more isolated supercells that persist in the LLJ axis. Also, a long-lived supercell with a long-tracked, intense tornado is also approaching Tornado Watch 554, and is expected to approach the western bounds of the watch in the next couple of hours. Given that modest instability and strong low-level shear are expected to remain in place, a potentially significant tornado threat may manifest in far southwest KY."
+    },
+    {
+      "year": 2021,
+      "number": 1995,
+      "issue_utc": "2021-12-11T02:48Z",
+      "topic": "Tornado Watch 552",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1995.html",
+      "summary": "The intense tornado threat continues from the long-track supercell currently in far northwest Tennessee.",
+      "discussion": "The long-track supercell in northwest Tennessee has shown 70+ knot Vrot nearly continuously for the past 90 minutes with a nearly continuous and deep TDS for over 80 miles. More storms have developed in the vicinity of this storm over the past 30 minutes which could disrupt its internal structure and bring an end to the steady state structure. However, the downstream environment is still very favorable with upper 60 dewpoints and backed surface winds and STP around 5 to 6. Therefore, even if the low-level circulation is disrupted, additional organization/cycling is likely and the intense tornado threat is expected to continue as this supercell continues northeast. ..Bentley.. 12/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1996,
+      "issue_utc": "2021-12-11T02:53Z",
+      "topic": "Tornado Watch 552",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1996.html",
+      "summary": "The severe threat continues across Tornado Watches 552, 553 and 557. A locally higher tornado threat may evolve with a more dominant storm at the southern end of a line of storms.",
+      "discussion": "Multiple linear thunderstorm segments with embedded supercell structures have recently congealed into a more coherent squall-line structure across central and southern Illinois. Storms within this squall have a history of producing damaging gusts over 70 mph as well as isolated tornadoes. Widespread 60F dewpoints overspread by 6-7 C/km mid-level lapse rates are contributing to 1000 J/kg MLCAPE per 02Z mesoanalysis, amid minimal convective inhibition. The latest mesoanalysis shows widespread effective bulk shear exceeding 80 kts with ILX and PAH VWPs depicting long, curved hodographs (contributing to 300-500 0-1 km SRH). Given the impressive shear profiles, damaging gusts and tornadoes will remain a concern for at least a few more hours. At the southern end of the line, more dominant supercell structures have produced TDSs, and are progressing across an unimpeded low-level airmass, characterized by mid 60s F dewpoints. The impressive low-level shear, adequate moisture, and open warm sector may support a locally higher tornado threat with these storms, and a strong tornado is possible."
+    },
+    {
+      "year": 2021,
+      "number": 1997,
+      "issue_utc": "2021-12-11T03:36Z",
+      "topic": "Tornado Watch 557",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1997.html",
+      "summary": "A strong tornado threat is expected to persist for the next 1 to 2 hours across central and east-central Illinois.",
+      "discussion": "The supercell on the southern edge of a line of storms moving across central Illinois has produced several tornado debris signatures so far. This portion of the line will remain the favored location for tornadoes given the lack of storm interference, low to mid 60s dewpoints, and very strong low-level shear (0-1 km SRH in excess of 600 m2/s2 per both ILX and VWX VWP). In addition, this environment will support the potential for strong tornadoes, especially as the storm inflow remains uninhibited. ..Bentley.. 12/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1998,
+      "issue_utc": "2021-12-11T03:40Z",
+      "topic": "Tornado Watch 552",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1998.html",
+      "summary": "The severe threat continues across Tornado Watches 552 and 554. All severe hazards remain a concern and a strong tornado is possible given the very strong low-level shear in place. Portions of Tornado Watch 552 will be replaced by a new Tornado Watch by 05Z.",
+      "discussion": "Multiple linear segments and embedded supercell structures persist across southern into eastern AR, with marginally severe hail reported in southern AR and a TDS recently observed via KNQA radar data across Craighead Counnty, AR. The latest mesoanalysis depicts the axis of a strong LLJ roughly along/just east of the Mississippi River, which continues to transport deep moisture into the TN Valley, as well as foster impressive low-level shear. SHV, NQA, and GWX VWPs show relatively long, curved hodographs with around 300 m2/s2 0-1 km SRH. As such, at least isolated tornadoes remain possible with the more organized storms, in addition to damaging gusts and large hail. At the moment, there is some uncertainty if a locally higher corridor of tornado potential exists and where. However, current surface observations across western TN show slightly more backed winds compared to points farther west/south, with modest pressure falls noted. As such, the greatest chance for an additional isolated tornado or two may be across portions of western TN, and a strong tornado cannot be ruled out."
+    },
+    {
+      "year": 2021,
+      "number": 1999,
+      "issue_utc": "2021-12-11T03:48Z",
+      "topic": "Tornado Watch 552",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1999.html",
+      "summary": "A strong to potentially violent tornado is ongoing and expected to continue for at least another hour.",
+      "discussion": "A strong supercell with a history of a long-track tornado with intense to potentially violent damage has recently intensified once again across southwest Kentucky. Latest radar and environmental analysis give high confidence that an intense to potentially violent tornado has occurred across southwest Kentucky. The radar presentation of this storm continues to be extremely favorable for continued intense, long-lived tornadoes. Nearby convection has mostly dissipated which may allow a more steady-state to continue as it moves northeast. The downstream environment remains very favorable with upper 60s to low 70s dewpoints and backed surface winds with STP around 5 to 6. Eventually, expect storm activity to the west to catch this supercell, but until that happens, continued strong to potentially violent tornadic damage is expected to continue along its path. ..Bentley.. 12/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 2000,
+      "issue_utc": "2021-12-11T04:00Z",
+      "topic": "Tornado Watch 555",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2000.html",
+      "summary": "The severe threat persists across southern portions of Tornado Watch 555. An additional Tornado Watch issuance is likely farther east into Louisiana, far southern Arkansas and far western Mississippi.",
+      "discussion": "A relatively robust line of storms has recently become established across far northeastern Texas and is progressing eastward into a moist, buoyant airmass. At the moment, these storms just south of Tornado Watch 555 are in a kinematic environment characterized by strong speed shear, but with modest veering in the low-levels per latest SHV VWP. However, the storms will progress farther east into northern LA/southern AR and western MS, in closer proximity to the LLJ axis. As such, the threat for all severe hazards (including isolated tornadoes) is expected to increase with these storms with eastward extent. Since Tornado Watch 555 expires in an hour, a new downstream Tornado Watch issuance will be needed."
+    },
+    {
+      "year": 2021,
+      "number": 2001,
+      "issue_utc": "2021-12-11T04:09Z",
+      "topic": "Tornado Watch 552",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2001.html",
+      "summary": "Watch 552 will be replaced by a new watch by 05Z. Some additional counties may be added across southeast Arkansas and central Mississippi.",
+      "discussion": "Watch 552 expires at 05Z and will need to be replaced by a new tornado watch. The greatest tornado threat will remain in northern portions of this replacement watch where the forcing is stronger. However, the shear and instability profile remains favorable across eastern Arkansas and northern Mississippi and therefore, tornadoes remain possible in this region, especially if additional discrete storms can develop ahead of the main line after 08Z as some 00Z CAM guidance suggests."
+    },
+    {
+      "year": 2021,
+      "number": 2002,
+      "issue_utc": "2021-12-11T04:25Z",
+      "topic": "Tornado Watch 557",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2002.html",
+      "summary": "The severe threat continues across Tornado Watch 557, and may progress eastward across much of Indiana. Damaging gusts are expected to be the main threat across northern into central Indiana, with a couple of brief tornadoes possible across southern Indiana. An additional Tornado Watch issuance may be needed in southern Indiana.",
+      "discussion": "A broken line of storms, including occasional embedded supercells, persists across central and eastern parts of Tornado Watch 557. Mainly strong/damaging gusts have been observed over the past couple of hours, though a TDS (suggesting the presence of a tornado) has recently been noted in Coles, County IL. Across Indiana, a near saturated low-level airmass is in place, with surface observations showing both temperatures and dewpoints in the mid to upper 50s F in northern/central IN, with lower 60s F temperatures/dewpoints observed in southern IN. Given the modest low-level temperatures and mid-level lapse rates, buoyancy is currently poor across IN, with modest convective inhibition in place. Since low-level airmass recovery is not expected to be overly robust across northern/central IN, near-surface based storms may support occasional strong to damaging wind gusts. A relatively greater threat for damaging gusts and perhaps a couple of tornadoes may develop farther south in southern IN where the richer low-level moisture is in place. A downstream Tornado Watch may be needed in southern IN."
+    },
+    {
+      "year": 2021,
+      "number": 2003,
+      "issue_utc": "2021-12-11T04:44Z",
+      "topic": "Tornado Watch 554",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2003.html",
+      "summary": "Strong to intense tornado damage is expected to continue across portions of western Kentucky.",
+      "discussion": "The long-track supercell, now entering Hopkins county, Kentucky, has now had a nearly continuous TDS for over 3 hours with an average vRot over 70 knots. The radar presentation and downstream environment does not show any sign of weakening this storm in the near term. In fact, recent observations ahead of this supercell have shown temperature increases of 2 to 3 F and dewpoint increases of 2 to 3F. This, combined with the cooling temperatures aloft, has actually increased instability ahead of this storm over the last 2 hours. Warm sector winds have veered slightly in the last hour which has reduced low-level shear slightly. However, there is still significant turning between the surface and the southwesterly low-level jet, and therefore, despite this slightly weaker shear, it likely won't have much of an impact on storm tornadic potential. The likely catalysts for weakening this long-lived tornadic supercell will be eventual movement into low to mid 60s dewpoints and weaker instability, or storm interference as the storms to the west catch up with the lead supercell. Neither of these are expected to have an impact in the next hour, but may bring some reprieve after 06Z. ..Bentley.. 12/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 2004,
+      "issue_utc": "2021-12-11T05:08Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2004.html",
+      "summary": "A downstream tornado watch is likely across portions of eastern Indiana, western Ohio, and possibly northern Kentucky.",
+      "discussion": "The low-level airmass is still a bit on the dry side across portions of eastern Indiana and western Ohio where dewpoints are in the upper 50s. However, low-level moisture advection is forecast to increase dewpoints into the low 60s across this region in the next 2 to 3 hours. This should be sufficient moisture to continue a threat for damaging wind and a few tornadoes as storms move out of central Indiana. Therefore, a downstream tornado watch will likely be issued in the next 1 to 2 hours."
+    },
+    {
+      "year": 2021,
+      "number": 2005,
+      "issue_utc": "2021-12-11T05:28Z",
+      "topic": "Tornado Watch 557",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2005.html",
+      "summary": "The severe threat continues across Tornado Watches 557 and 559. Large hail and damaging gusts remain the main threats, though a tornado or two is possible, especially with the storms approaching eastern Illinois.",
+      "discussion": "A line of semi-discrete storms (including supercells) continues across western portions of Tornado Watches 557 and 559. Despite several preceding storms earlier in the day, strong low-level warm-air advection in advance of a 992 mb surface low has maintained modest buoyancy ahead of the ongoing line of storms, with mid to upper 60s F temperatures and mid 60s F dewpoints supporting up to 1000 J/kg MLCAPE and minimal convective inhibition. As such, large hail and damaging gusts may accompany the stronger storms over the next few hours. Despite veering low-level winds, strong speed shear is contributing to 300+ m2/s2 effective SRH, so a tornado or two also remains possible."
+    },
+    {
+      "year": 2021,
+      "number": 2006,
+      "issue_utc": "2021-12-11T05:36Z",
+      "topic": "Tornado Watch 554",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2006.html",
+      "summary": "A significant tornado threat is materializing across northern Tennessee and southern Kentucky.",
+      "discussion": "A cluster of storms has produced occasional tornadoes as it moved across eastern Arkansas and western Tennessee, but storm interference and a messy storm mode so far has precluded a more long-lived, strong tornado threat. However, a cell, now in Henry County, Tennessee, has emerged ahead of this line and has a favorable airmass ahead of it. MLCAPE around 1000 to 1200 J/kg and 0-1 km SRH around 300 m2/s2 per OHX VWP suggest strong tornadoes will be possible. As long as this storm inflow remains unimpeded, it will likely pose a threat for strong tornadoes. ..Bentley.. 12/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 2008,
+      "issue_utc": "2021-12-11T05:53Z",
+      "topic": "Tornado Watch 554",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2008.html",
+      "summary": "A strong tornado threat continues across portions of northern Kentucky.",
+      "discussion": "Storm interference from new cells merging has finally disrupted the persistent very strong low-level mesocyclone with the long-lived supercell now entering Breckenridge County, Kentucky. However, while this has weakened the intensity of the updraft and low-level rotation, a strong tornado with around 50 to 55 knot Vrot and a TDS is still present. Mid 60s dewpoints have advected ahead of this storm and therefore, adequate instability remains for strong tornado development given the 350 to 400 m2/s2 0-1 km SRH per the KLVX VWP. Therefore, while circulations may be weaker and more transient, a strong tornado threat persists. ..Bentley.. 12/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 2009,
+      "issue_utc": "2021-12-11T07:02Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2009.html",
+      "summary": "A threat for severe thunderstorms capable of damaging wind gusts and a couple of tornadoes will continue across parts of central into eastern KY overnight. A new watch will be needed.",
+      "discussion": "Severe storms, in particular just southwest of Louisville, and to the west of Bowling Green, continue to exhibit rotation and periodic tornado debris signatures in radar data. The activity across north-central KY is nearing the edges of WW 554, while the south-central KY storms will not move out of the watch before it is set to expire at 08z. The environment will remain favorable for severe storms and tornadoes for a few more hours as convection tracks east into eastern KY. The eastward extent of the severe threat is somewhat uncertain, though low level moisture decreases considerably from roughly Rowan to Bell counties in eastern KY, where dewpoints are generally in the mid/upper 50s. This likely delineates the eastward extent of the greater severe threat and a new watch across eastern portions of WFO LMK and western portions of WFO JKL's domain will likely be needed soon."
+    },
+    {
+      "year": 2021,
+      "number": 2010,
+      "issue_utc": "2021-12-11T07:05Z",
+      "topic": "Tornado Watch 554",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2010.html",
+      "summary": "Tornado potential persists for a mature supercell structure across southwestern Kentucky. A strong tornado remains possible over the next hour or so.",
+      "discussion": "A mature, intense supercell with a history of damaging, long-track tornadoes is progressing across southern Kentucky, where the latest mesoanalysis depicts nearly 500 m2/s2 of effective SRH present. The 0640Z OHX VWP also shows nearly 300 m2/s2 of 0-1 km SRH due to a long, curved hodograph driven by a strong LLJ. Mid 60s F surface dewpoints are contributing to 500-1000 J/kg MLCAPE and minimal convective inhibition ahead of the storm, suggesting that tornado potential should continue for at least the next hour. Given the impressive low-level shear and the presence of a 45 kt rotational velocity signature accompanied by a TDS at 0655Z (per KHPX radar), a strong tornado may already be in progress and significant damage may accompany this storm."
+    },
+    {
+      "year": 2021,
+      "number": 2011,
+      "issue_utc": "2021-12-11T07:36Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2011.html",
+      "summary": "A line of strong to potentially severe thunderstorms is expected to progress east over the next few hours. Damaging gusts and perhaps an instance or two of marginally severe hail are possible and a brief tornado cannot be completely ruled out. Convective trends will continue to be monitored for the need of a WW issuance.",
+      "discussion": "An organized line of strong thunderstorms has developed across eastern Texas within the axis of stronger instability (up to 2000 J/kg MLCAPE driven by 70+ F surface dewpoints). While linear forcing and weak CINH have supported organized thunderstorm development ahead of the cold front, overall deep-layer ascent is relatively weak compared to the OH/TN Valley areas. Nonetheless, 07Z mesoanalysis shows 60+ kts of effective bulk shear. The favorable kinematics are driven primarily by deep-layer speed shear, with only modest low-level hodograph curvature depicted by the 0709Z POE VWP and some of the 06Z RAP forecast soundings. Some of the stronger storms in the line may support a few damaging gusts and perhaps an instance or two of marginally severe hail given adequate buoyancy/deep-layer shear. While the low-level directional shear is modest, very strong low-level speed shear is contributing to 200+ m2/s3 effective SRH, so a brief tornado or two may still occur. As such, convective trends will continue to be monitored for the need of a WW issuance."
+    },
+    {
+      "year": 2021,
+      "number": 2012,
+      "issue_utc": "2021-12-11T07:46Z",
+      "topic": "Tornado Watch 557",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2012.html",
+      "summary": "Sporadic strong wind gusts and/or a tornado remain possible across parts of central Indiana into western Ohio the next few hours.",
+      "discussion": "Strong storms continue tonight from roughly Auglaize County in western Ohio to Knox County in west-central Indiana. Much of this area remains within a weakly unstable (100-500 J/kg MLCAPE) airmass. However, strong vertical shear remains present, resulting in semi-organized line segments. Low-level shear also remains favorable for rotation within cells and/or mesovortices. The maximum relative threat will likely be confined to parts of central Indiana over the next few hours where instability is greatest. Surface dewpoints decrease into the upper 50s with northward extent, and a large area of moderate rainfall has overspread much of western into central Ohio, resulting in boundary-layer stabilization. As such, the severe threat should remain confined within WW 557 (which has been locally extended a couple of hours) and WW 560, and a downstream watch into central OH is unlikely. ..Leitman.. 12/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 2013,
+      "issue_utc": "2021-12-11T08:00Z",
+      "topic": "Tornado Watch 558",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2013.html",
+      "summary": "The severe threat continues across Tornado Watch 558, with all severe hazards remaining a concern. A downstream Tornado Watch issuance may be needed across portions of northern Alabama into Middle Tennessee in the next few hours.",
+      "discussion": "An expansive line of storms/QLCS is progressing across Tornado Watch 558, where around 1000 J/kg MLCAPE is present amid a moist low-level environment with minimal MLCINH. Given predominantly linear storm modes oriented nearly parallel to the effective bulk-shear vector, damaging wind gusts are expected to be the main threat with the stronger storms. Nonetheless, JAN, GWX and HTX VWPs around 0730Z show long, modestly curved hodographs contributing to 250-300 m2/s2 0-1 km SRH, so some tornado threat still exists with the more intense circulations embedded in the QLCS. North-south oriented line segments that are aligned more orthogonal to the deep-layer shear vector will have the highest tornado potential. As low-level shear and deep-layer ascent increase across northern Alabama into Middle Tennessee, a downstream Tornado Watch may be needed to address the eastward-expanding severe threat."
+    },
+    {
+      "year": 2021,
+      "number": 2014,
+      "issue_utc": "2021-12-11T08:51Z",
+      "topic": "Tornado Watch 561",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2014.html",
+      "summary": "Damaging wind gusts and a tornado or two remain possible across WW 561.",
+      "discussion": "A supercell over Marion County Kentucky has shown periods of strong rotation with a tornado debris signature noted over the past 15-30 minutes. Rotation associated with this storm has recently weakened as it continues northeast into eastern portions of the Louisville CWA. This is likely due to weaker low-level instability as surface dewpoints drop off rather quickly from the mid 60s to upper 50s/low 60s. While the cluster of storms over central KY may still produce strong, damaging gusts, the narrowing warm sector downstream may begin to limit stronger tornado potential over the next 1-2 hours. ..Leitman.. 12/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 2015,
+      "issue_utc": "2021-12-11T08:51Z",
+      "topic": "Tornado Watch 558",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2015.html",
+      "summary": "A locally higher threat for damaging gusts and tornadoes exists with a supercell structure embedded within the line as it approaches the Nashville metropolitan area.",
+      "discussion": "A relatively dominant supercell structure embedded within a north-south oriented segment of the squall line has exhibited strong low-level rotation, with TDSs noted around 0830Z and 0845Z. This storm is progressing in an environment characterized by strong low-level shear, with the 0828Z OHX VWP showing a long, curved hodograph and over 350 m2/s2 0-1 km SRH. Given low to mid 60s F dewpoints residing ahead of the storm, the potential for severe wind gusts and tornadoes is expected to continue over the next hour or so, when the storm is expected to traverse the Nashville Metropolitan area."
+    },
+    {
+      "year": 2021,
+      "number": 2016,
+      "issue_utc": "2021-12-11T09:15Z",
+      "topic": "Tornado Watch 558",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2016.html",
+      "summary": "The threat for a few tornadoes and damaging wind gusts is increasing across portions of northern/central MS into northwest AL early this morning.",
+      "discussion": "Convection continues to increase in organization and intensity across portions of northern MS early this morning ahead of the main band of convection stretching from Middle TN to northern LA. This convection remains more discrete in a warm sector characterized by MLCAPE around 1000-1500 J/kg, effective shear 50+ kt and STP values around 2-4. Recent data from the KGWX VWP also depicts an enlarged, favorably curved low-level hodograph, with very strong SRH present. As such, the threat for a few tornadoes and damaging wind gusts is increasing across the MCD area. While portions of northern MS is within WW 558, this watch expires at 11z and a new watch will likely need to be issued, and include portions of central MS into northwest AL. ..Leitman.. 12/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 2017,
+      "issue_utc": "2021-12-11T10:02Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2017.html",
+      "summary": "A couple damaging gusts or a brief tornado cannot be completely ruled out with the strongest storms, though a more widespread severe event and a WW issuance is not currently anticipated.",
+      "discussion": "An organized squall line continues to sag southeastward across far east Texas into northwest Louisiana within a buoyancy axis, characterized by 1500+ J/kg MLCAPE (per 09Z mesoanalysis). Despite the modest buoyancy, deep-layer ascent remains weak. Nonetheless, 50+ kts of effective bulk shear persists across the region, and a damaging gust or perhaps a brief tornado cannot be completely ruled out with one or two of the strongest embedded storms. Convective trends will continue to be monitored, but an organized severe threat and WW issuance is not currently expected in association with this segment of the squall line."
+    },
+    {
+      "year": 2021,
+      "number": 2018,
+      "issue_utc": "2021-12-11T11:32Z",
+      "topic": "Tornado Watch 561",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md2018.html",
+      "summary": "Sporadic strong wind gusts or a brief spin-up are possible in the short term across parts of eastern KY into northeast TN.",
+      "discussion": "Convection continues to decrease in intensity across portions of eastern KY into adjacent portions of northeast TN early this morning. This is evident in both radar presentation and lightning trends. Instability has become very weak while surface inhibition has increased over the past hour. A few observation sites have also seen a decrease in surface dewpoints as well. Deep-layer flow is becoming increasingly veered as well per VWP data from KJKL. While sporadic strong gusts or a brief spin-up remain possible in the short term, the overall severe threat is expected to rapidly diminish with eastward extent. A new watch downstream from WW 561 and 562 across eastern KY/northeast TN is not expected at this time. ..Leitman.. 12/11/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

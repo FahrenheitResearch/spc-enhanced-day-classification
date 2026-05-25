@@ -1,0 +1,131 @@
+{
+  "convective_day": "2023-04-01",
+  "valid_start": "2023-04-01T12:00Z",
+  "valid_end": "2023-04-02T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2023-04-01",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-04-01T16:30Z",
+      "valid_end": "2023-04-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230401_1630.html",
+      "summary": "Damaging winds and a couple tornadoes will be possible across parts of the Northeast this afternoon and evening. Isolated to scattered damaging winds and a tornado or two remain possible across parts of the Southeast through the afternoon.",
+      "sections": [
+        {
+          "title": "Northeast States",
+          "text": "Parts of the region have been upgraded to a categorical Enhanced Risk. This is related to an initial concern for increasingly organized/fast-moving linear low-topped convection moving from eastern Ohio into western portions of Pennsylvania/New York early this afternoon. Although the immediately preceding air mass is not overly moist, ample insolation/heating via cloud-free skies in conjunction with a strong wind field and regionally observed steep lapse rates will support scenario for potentially widespread damaging winds aside from some hail. Farther east, richer boundary-layer moisture will persist closer to the coastal plain across the Delaware/Lower Hudson Valleys. While pervasive cloud cover persists at midday (roughly within 75-100 miles of the Atlantic Coast at 16z), steady clearing is expected this afternoon based on radar/satellite trends. Environment will support both a conditional supercell environment as well as persistence/potential rejuvenation of the upstream fast-moving convective line. If a few supercells materialize, tornadoes, hail, and damaging winds would all be possible, and damaging winds are otherwise probable with the inbound convective line roughly centere"
+        },
+        {
+          "title": "Southeast States",
+          "text": "Deep-layer flow will gradually trend more westerly with time as the strong upper low advances east across the Ohio Valley. Pre-frontal convection currently extends from central Georgia to southern Alabama at midday, and this will continue to advance east-southeast through the day. While the primary large-scale forcing will spread well north of this region, deep-layer flow will be strong and organized clusters/short-line segments are expected. Damaging winds should be the primary concern, though some risk for a tornado or two exists as well. ..Guyer/Lyons.. 04/01/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-04-01",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-04-01T20:00Z",
+      "valid_end": "2023-04-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230401_2000.html",
+      "summary": "Damaging winds and a couple tornadoes will be possible across parts of the Northeast this evening. Isolated damaging winds will be the main threat across south Georgia this evening.",
+      "sections": [
+        {
+          "title": "Mid-Atlantic to southern New England this evening",
+          "text": "The band of convection responsible for numerous wind damage reports and multiple measured severe gusts has temporarily weakened across central PA/NY. However, an increase in low-level moisture beneath steepening midlevel lapse rates across the Mid-Atlantic should result in an uptick in storm intensity this evening into eastern PA/NJ/southeast NY. A mix of line segments and embedded supercells are expected along the pre-frontal wind shift and outflow from ongoing convection, with the potential for damaging winds of 60-70 mph and a couple of tornadoes."
+        },
+        {
+          "title": "Northeast Gulf coast to southeast GA this evening",
+          "text": "A broken band of strong-severe storms is ongoing along the wind shift, near the southern fringe of the influence of the deep OH Valley midlevel trough. As forcing for ascent weakens gradually and with the onset of diurnal cooling, storm intensity should wane after 00z. In the interim, isolated wind damage and large hail will be possible with storm clusters/supercells, mainly across southeast and south central GA. ..Thompson.. 04/01/2023 .PREV DISCUSSION... /ISSUED 1134 AM CDT Sat Apr 01 2023/"
+        },
+        {
+          "title": "Northeast States",
+          "text": "Parts of the region have been upgraded to a categorical Enhanced Risk. This is related to an initial concern for increasingly organized/fast-moving linear low-topped convection moving from eastern Ohio into western portions of Pennsylvania/New York early this afternoon. Although the immediately preceding air mass is not overly moist, ample insolation/heating via cloud-free skies in conjunction with a strong wind field and regionally observed steep lapse rates will support scenario for potentially widespread damaging winds aside from some hail. Farther east, richer boundary-layer moisture will persist closer to the coastal plain across the Delaware/Lower Hudson Valleys. While pervasive cloud cover persists at midday (roughly within 75-100 miles of the Atlantic Coast at 16z), steady clearing is expected this afternoon based on radar/satellite trends. Environment will support both a conditional supercell environment as well as persistence/potential rejuvenation of the upstream fast-moving convective line. If a few supercells materialize, tornadoes, hail, and damaging winds would all be possible, and damaging winds are otherwise probable with the inbound convective line roughly centere"
+        },
+        {
+          "title": "Southeast States",
+          "text": "Deep-layer flow will gradually trend more westerly with time as the strong upper low advances east across the Ohio Valley. Pre-frontal convection currently extends from central Georgia to southern Alabama at midday, and this will continue to advance east-southeast through the day. While the primary large-scale forcing will spread well north of this region, deep-layer flow will be strong and organized clusters/short-line segments are expected. Damaging winds should be the primary concern, though some risk for a tornado or two exists as well."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2023,
+      "number": 428,
+      "issue_utc": "2023-04-01T15:15Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0428.html",
+      "summary": "Storms producing damaging winds appear increasingly likely today, beginning over eastern Ohio and moving quickly into parts of New York and Pennsylvania.",
+      "discussion": "Satellite imagery shows strong heating occurring over the region, with storms beginning to form ahead of the cold front/vort max. Despite low dewpoints, very steep deep-layer lapse rates, strong shear and substantial mixing of high winds aloft will likely yield wind gusts in excess of 50 kt over much of the area. As such, a watch is likely, and the outlook will feature a 30% severe wind probability."
+    },
+    {
+      "year": 2023,
+      "number": 429,
+      "issue_utc": "2023-04-01T16:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0429.html",
+      "summary": "Severe thunderstorm potential may increase early this afternoon across southern GA/AL into western SC. Damaging winds will remain the primary threat but a tornado or two cannot be ruled out. Storm coverage and the need for a watch is somewhat uncertain.",
+      "discussion": "Midday visible imagery showed mostly clear skies ahead of a band of developing pre-frontal convection from southeastern AL, southern GA and into western SC. Ample daytime heating of a relatively moist airmass (63-66 F surface dewpoints) was contributing to gradual destabilization across the region. Area model soundings show around 1000 J/kg of MLCAPE through the afternoon which should support current thunderstorms as they move east. Elongated, hodographs with moderate speed shear (40+ kt) should allow for organized short line segments and perhaps some supercell structures. However, low-level flow is strongly veered suggesting the primary severe risk will be damaging winds though a tornado or two cannot be ruled out. Hi-res guidance and observation trends suggest storms may take some time to organize given the modest lapse rates and weak overall forcing for ascent. It remains unclear if a weather watch is warranted given the uncertainty with storm coverage and overall severe risk. However, the greatest confidence some risk is across portions of southern GA where buoyancy and shear are best overlapped."
+    },
+    {
+      "year": 2023,
+      "number": 430,
+      "issue_utc": "2023-04-01T18:02Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0430.html",
+      "summary": "An arcing line of convection along the cold front is likely to produce severe gusts over the next several hours. An additional watch may be required soon.",
+      "discussion": "A line of convection along the cold front will continue to push east quickly across western NY and into central PA. This line continues to produce wind gusts over 50 kt with damage reports. Instability is currently maximized over western PA with MUCAPE around 500 J/kg, and surface observations east of the existing watch show quite a bit of mixing with dewpoints averaging the mid 30s F. However, continued cooling aloft and mixing down of winds, especially beneath the stronger reflectivities, will continue to pose a severe wind threat downstream across NY and PA. The line will gradually encounter better dewpoints as it crosses into eastern PA and NY, and this may result in an even greater risk of severe storms, to be addressed later today."
+    },
+    {
+      "year": 2023,
+      "number": 431,
+      "issue_utc": "2023-04-01T20:04Z",
+      "topic": "Severe Thunderstorm Watch 106",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0431.html",
+      "summary": "The risk for a few damaging gusts and a brief tornado will remain this afternoon with isolated thunderstorms.",
+      "discussion": "As of 1955 UTC, regional radar analysis showed isolated to widely scattered thunderstorms ongoing ahead of a slow moving cold front across portions of southwestern SC, southern GA, and far southeastern AL. A few damaging wind reports have been received over the last few hours as storms have gradually moved south and east. The risk for damaging gusts may continue as sufficient buoyancy (~1000 J/kg of MCLAPE) for strong updrafts exists across far southern GA into northern FL. Vertical shear also remains sufficient for organized short line segments and marginal supercell structures. However, surface flow has continued to veer and weaken with southward extent this afternoon. Recent HRRR forecasts and observational trends suggest the primary severe risk will remain with the more organized storms over southern GA and eventually northern FL. Given the potential for storms to persist in the unstable and moderately sheared environment, a risk for damaging gusts and perhaps a brief tornado should continue for a few more hours. ..Lyons.. 04/01/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 432,
+      "issue_utc": "2023-04-01T20:37Z",
+      "topic": "Severe Thunderstorm Watch 107",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0432.html",
+      "summary": "Storms may rejuvenate along the front as it moves into eastern Pennsylvania and southern New York, with additional develop possible ahead of the front from the Delmarva into New Jersey. Damaging winds are likely, with a risk of isolated tornadoes and large hail by early evening.",
+      "discussion": "Showers and embedded thunderstorms continue to move rapidly east with the cold front, with a relative decrease in severe wind gusts compared to earlier in the day, due in part to limited moisture. East of the ongoing central PA/NY activity, temperatures continue to warm, with a recent trend of a few stations reporting rising dewpoints across southern NJ and far southeast PA. Satellite imagery shows increasing CU over parts of MD, though this activity is currently shallow. Over the next 1-2 hours, additional storms are expected to form from the Delmarva across far eastern PA and into NJ, as lift increases. Some storms may become supercells, and the tornado risk will also increase through early evening coincident with strengthening low-level shear and cooling aloft. Any increase in dewpoints will also increase the probability of a tornado. Activity may become linear as the cold front overtakes any activity ahead of it, with both damaging winds possible across southern NY and New England."
+    },
+    {
+      "year": 2023,
+      "number": 433,
+      "issue_utc": "2023-04-01T21:31Z",
+      "topic": "Severe Thunderstorm Watch 106",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0433.html",
+      "summary": "The threat for isolated wind damage and marginally severe hail will slowly diminish by 00z, and severe thunderstorm watch 106 can be canceled or allowed to expire.",
+      "discussion": "A broken band of strong to occasionally severe storms continues to move southeastward along a diffuse pre-frontal trough/outflow from southeast GA into the FL Panhandle. Local VWPs show primarily westerly flow increasing with height, with weak low-level flow and straight hodographs near and in advance of these storms. As diurnal temperatures peak and surface cooling begins over the next few hours, buoyancy should start to slowly diminish. At the same time, forcing for ascent is already weak and will also begin to diminish as this area is brushed by the southern fringes of the lower Great Lakes/Appalachians midlevel trough. Thus, storm intensity is expected to decrease this evening, and the watch can be canceled by 23z, or allowed to expire at 00z. ..Thompson.. 04/01/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 434,
+      "issue_utc": "2023-04-01T22:18Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0434.html",
+      "summary": "Localized damaging wind threat may persist. A downstream Severe Thunderstorm Watch is unlikely.",
+      "discussion": "A line of storms currently moving across New York and Pennsylvania has shown signs of weakening over the last hour. These storms are moving into a more favorable environment across the East Coast, where daytime heating has allowed for SBCAPE around 500 J/kg. Mid-level cooling will continue to allow further destabilization over the next couple of hours as the trough approaches from the west. VAD profiles from Albany (KENX) show deep layer shear around 25-30 kts. As storms move into this environment slight intensification will be possible, along with additional development ahead of the main line. Given the wind profiles, a marginal damaging wind risk is possible. A Severe Thunderstorm Watch is unlikely."
+    },
+    {
+      "year": 2023,
+      "number": 435,
+      "issue_utc": "2023-04-01T22:55Z",
+      "topic": "Tornado Watch 109",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0435.html",
+      "summary": "Threat for severe thunderstorms capable of all severe hazards, including damaging gusts and embedded tornadoes, continues.",
+      "discussion": "Ongoing convective line has strengthened over the past hour as it moves through the more buoyant air mass in place across the northern Mid-Atlantic Coast. Modest buoyancy persists downstream of the line across far east-central PA, NJ, eastern MD, and DE where temperatures remain in the 70s and dewpoints in the mid 50s. Vertical shear also remains strong throughout this region, with recent VAD profiles from DOX sampling over 70 kt of 0-6 km bulk shear. This combination of buoyancy and deep-layer shear should support a continued risk for strong to severe thunderstorms. Additionally, area VAD profiles at DIX and DOX also show notable low-level veering, which could support an embedded tornado or two over the next hour or so. Recent radar imagery has shown a trend toward forward propagation, particularly towards central/southern NJ, where a corridor of greater risk for damaging gusts may be developing. ..Mosier.. 04/01/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

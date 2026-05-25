@@ -1,0 +1,248 @@
+{
+  "convective_day": "2019-05-22",
+  "valid_start": "2019-05-22T12:00Z",
+  "valid_end": "2019-05-23T12:00Z",
+  "max_risk": "MDT",
+  "product_counts": {
+    "ENH": 2,
+    "MDT": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2019-05-22",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-05-22T12:00Z",
+      "valid_end": "2019-05-23T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190522_1200.html",
+      "summary": "Strong to severe thunderstorms associated with a few tornadoes, large hail and wind damage will be likely from central and northeastern Oklahoma into southeast Kansas and western Missouri late this afternoon into the evening. Other marginally severe thunderstorms will be possible across parts of the mid to upper Mississippi Valley, southern High Plains and Lower Great Lakes region.",
+      "sections": [
+        {
+          "title": "Oklahoma/Southeast Kansas/Missouri/Far Northwest Arkansas",
+          "text": "Southwest mid-level flow will be in place across the southern and central Plains today. At the surface, a warm front will surge northward into northern Oklahoma and southeastern Kansas as moisture advection takes place across the southern Plains. Surface dewpoints in the lower 70s F will overspread much of Oklahoma, contributing to strong destabilization by afternoon. The models including the NAM, GFS, HRRR and most of the CAMs are now initiating thunderstorms along a corridor from near the OKC Metro northeastward to north of Tulsa around 21Z. Some uncertainty exists concerning this scenario. The uncertainty is mainly due to the rising heights and limited large-scale ascent. However, lift associated with the nose of the low-level jet may be enough to initiate convection during the late afternoon. The environment should be characterized by moderate to strong instability (MLCAPE of 3000 to 4000 J/kg) and strong deep-layer shear (0-6 km shear of 45 to 55 kt). In addition, 0-3 km storm-relative helicities are forecast to peak around 400 m2/s2 along and to the west of the low-level jet. For this reason, supercells with tornado potential are possible in central and northeastern Oklahoma "
+        },
+        {
+          "title": "Southern High Plains",
+          "text": "Southwest mid-level flow will be in place across the southern Plains today as a moist airmass advects quickly northwestward. The western edge of the most airmass is forecast to move from western Oklahoma across west Texas during the evening. Although large-scale ascent is forecast to be limited, low-level convergence may become strong enough for isolated cell initiation to the east of the retreating dryline. In the case that a storm can develop, the instability along with moderate deep-layer shear and steep mid-level lapse rates would be sufficient for hail and isolated damaging wind gusts."
+        },
+        {
+          "title": "Lower Great Lakes",
+          "text": "An upper-level ridge will be in place today across the Northeast with west-southwest mid-level flow over the Ohio Valley and Great Lakes region. At the surface, southerly winds will advect a moist airmass into Ohio during the afternoon. Although large-scale ascent will be limited, increasing low-level convergence along the instability axis may be enough for isolated thunderstorm development mainly in Ohio. Moderate deep-layer shear and steep low-level lapse rates are forecast to be sufficient for marginally severe wind gusts and hail. ..Broyles/Wendt.. 05/22/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-05-22",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-05-22T13:00Z",
+      "valid_end": "2019-05-23T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190522_1300.html",
+      "summary": "The greatest potential for severe thunderstorms is this afternoon into evening, from western Missouri to southeastern Kansas and northeastern Oklahoma. Tornadoes, large/damaging hail and severe gusts all are possible.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "The period begins with a large area of mid/upper-level cyclonic flow covering most of the central/western CONUS, anchored by embedded lows initially evident in moisture-channel imagery over the north- central Plains and the Great Basin. The eastern of the two lows is occluded in low levels and nearly stacked, and is forecast to weaken while ejecting northeastward toward Lake Superior through 12Z. Meanwhile the western low should pivot slowly around the southern/ eastern Great Basin, while assuming less-positive tilt. In between, shortwave ridging and height rises will build over the southern/central Plains. At the surface, 11Z analysis showed the surface manifestation of the eastern mid/upper cyclone, with a low over southeastern SD and occluded front southeastward to the EVV area. A wavy warm front was drawn from there across southern KY and eastern TN, to southern NC and northern SC. This warm front will move northward across the Ohio Valley to the lower Great Lakes through the period. A stationary front extended from the triple point southwestward over the Mid-South, becoming a warm front across north-central to central TX. This boundary will become diffuse and spread northward "
+        },
+        {
+          "title": "Southern Plains",
+          "text": "Scattered to numerous thunderstorms are expected to develop gradually from mid afternoon through this evening along the strengthening frontal zone over the southeastern KS/southwestern MO and northeastern OK region. A more-isolated/conditional threat is evident farther west and late afternoon into evening along the front over north-central OK, and southward into the warm sector this afternoon in central/eastern OK. Any sustained, relatively discrete convection could become supercellular and offer the risk of tornadoes, large to very large hail, and severe gusts. Isolated strong-severe convection may also develop late overnight near the dryline as it retreats across the south-central High Plains. Even with background height rises and lack of substantial mid/upper forcing, intensifying thermodynamic support from below will contribute to a favorable warm-sector parameter space this afternoon. As the boundary layer recovers northward through OK and around the western Ozarks vicinity, the air mass will destabilize from a combination of moist/warm advection and diabatic surface heating. Given the reservoir of available moisture upstream, the return-flow regime should become characterized"
+        },
+        {
+          "title": "Mid Mississippi Valley to WI",
+          "text": "Additional strong-severe convection should develop near the front northeastward across the mid Mississippi Valley, and perhaps as far as southeastern WI/northern IL. This threat will peak late afternoon into early evening, as the warm sector destabilizes and moistens, also with vertical shear supporting supercell and organized multicell potential. A nearly separate regime of destabilization, related less to low-level theta-e advection and more to cooling aloft ahead of the ejecting/occluded low, conditionally may support isolated/brief/marginal severe farther north across parts of eastern/northern WI this afternoon."
+        },
+        {
+          "title": "OH and vicinity",
+          "text": "Isolated to widely scattered thunderstorms are possible near the warm front and southward into the warm sector this afternoon, near a diurnally destabilizing theta-e axis. The strongest cells may produce marginally severe hail and gusts. Low-level hodographs and deep shear will be favorable for organized multicells or even isolated supercells, especially near the warm front where near- surface flow is most backed. However, the lack of substantial lapse rates aloft and of deep-layer forcing casts convective maintenance/coverage into doubt. ..Edwards/Leitman.. 05/22/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-05-22",
+      "hhmm": "1630",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2019-05-22T16:30Z",
+      "valid_end": "2019-05-23T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190522_1630.html",
+      "summary": "Severe thunderstorms are forecast this afternoon into evening from central and northeast Oklahoma into Missouri and central Illinois. Tornadoes, large/damaging hail and severe gusts all are possible.",
+      "sections": [
+        {
+          "title": "OK to IL",
+          "text": "Given latest model guidance and observational trends, have opted to upgrade to MDT risk along a narrow corridor from northeast OK into central MO. Consensus continues to grow in model guidance that several discrete supercells will develop along this corridor this afternoon and evening, as low-level moisture streams northward and shear profiles rapidly strengthen. The primary negative indicator of a more significant severe weather event involves the large scale pattern, and the large midlevel height rises that are occurring throughout the Plains. However, latest water vapor loop and model guidance suggest very subtle shortwave troughs embedded in the upper flow, with one currently over southwest OK. This feature would arrive into the risk area around peak heating, potentially helping initiation. Forecast soundings suggest an environment favorable for strong tornadoes and very large hail and if discrete supercells can form. It is unclear how far southwest the development will occur into central OK. Several 12z CAM solutions suggest 1-2 storms near OKC that could be severe if they develop, with a conditional risk of significant tornadoes and hail. However, confidence in persistent thu"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-05-22",
+      "hhmm": "2000",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2019-05-22T20:00Z",
+      "valid_end": "2019-05-23T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190522_2000.html",
+      "summary": "Severe thunderstorms are forecast this afternoon into evening from Oklahoma into Missouri and central Illinois. Tornadoes, large/damaging hail and severe gusts all are possible.",
+      "sections": [
+        {
+          "title": "20z Update",
+          "text": "Note: Severe probabilities are being increased along the I-44 corridor across OK. Latest satellite imagery depicts a subtle but potentially significant mid-level short-wave trough ejecting across the TX South Plains within an otherwise rising height field. It is becoming increasingly clear this feature will play an important role in the evolution of deep convection across OK over the next few hours. High-PW air mass has surged northwest into OK with lower 70s surface dew points across much of the central/eastern parts of the state. Strong heating along the western fringe of this air mass appears to be instrumental in recent thunderstorm development over Tillman County OK. 1813z Arcadia (NE OKC Metro) sounding exhibited minimal inhibition and reflected the approaching short wave at mid levels. Based on recent radar/satellite trends, latest thinking is ongoing storms in southwest OK will continue to mature and lift northeast along the I-44 corridor. The potential for very large hail and tornadoes will be noted with this activity as it spreads downstream. ..Darrow.. 05/22/2019 .PREV DISCUSSION... /ISSUED 1126 AM CDT Wed May 22 2019/"
+        },
+        {
+          "title": "OK to IL",
+          "text": "Given latest model guidance and observational trends, have opted to upgrade to MDT risk along a narrow corridor from northeast OK into central MO. Consensus continues to grow in model guidance that several discrete supercells will develop along this corridor this afternoon and evening, as low-level moisture streams northward and shear profiles rapidly strengthen. The primary negative indicator of a more significant severe weather event involves the large scale pattern, and the large midlevel height rises that are occurring throughout the Plains. However, latest water vapor loop and model guidance suggest very subtle shortwave troughs embedded in the upper flow, with one currently over southwest OK. This feature would arrive into the risk area around peak heating, potentially helping initiation. Forecast soundings suggest an environment favorable for strong tornadoes and very large hail and if discrete supercells can form. It is unclear how far southwest the development will occur into central OK. Several 12z CAM solutions suggest 1-2 storms near OKC that could be severe if they develop, with a conditional risk of significant tornadoes and hail. However, confidence in persistent thu"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-05-23",
+      "hhmm": "0100",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2019-05-23T01:00Z",
+      "valid_end": "2019-05-23T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190523_0100.html",
+      "summary": "Severe thunderstorms will continue through the evening from Oklahoma into Missouri and central Illinois and Indiana. Tornadoes, large/damaging hail and severe gusts all are possible.",
+      "sections": [
+        {
+          "title": "01Z Outlook Update",
+          "text": "A cluster of tornadic supercells have evolved in northeastern Oklahoma and vicinity, with additional storms extending northeastward along/near a cold front extending from near Kansas City northeastward to west-central Illinois. Observational trends suggest that a threat for tornadoes (a few significant) and very large hail/damaging wind gusts will continue with this activity for the next several hours (especially in the Moderate Risk area) even as storms begin the process of growing upscale into one or two linear complexes (Reference MCD 740 for more mesoscale details). Guidance also shows that these storms will begin to propagate more easterly across Illinois and into central/northern Indiana and vicinity along and just north of a reservoir of moderate instability over southern Illinois and vicinity amidst continued strong deep shear. The Marginal and Slight risk areas have been extended eastward through central Illinois and Indiana as a result. Farther southwest into Oklahoma, negligible inhibition was noted on the 00Z RAOB from OUN along with supercellular kinematic profile and strong instability. Convective coverage continues to be a bit uncertain given weak synoptic forcing fo"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2019,
+      "number": 733,
+      "issue_utc": "2019-05-22T19:12Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0733.html",
+      "summary": "Monitoring for signs of convective initiation and sustained thunderstorm development. A tornado watch is being considered in the next 1-2 hours.",
+      "discussion": "Latest surface analysis indicates a triple point over southwest OK with a dryline extending southward into west TX. A maritime warm front has progressed northward across the I-44 corridor in OK and a decaying cold front is located from north-central OK northeastward through southeast KS into west-central MO. Surface observations show temperatures rising into the lower 80s over much of OK south of the warm front with dewpoints in the lower 70s. The warmest conditions are located over southwest OK where convective temperatures are close to being breached. A 17z Norman, OK special sounding showed moderate buoyancy but the boundary layer had not destabilized appreciably. Since then, a very unstable airmass has developed over central OK with 3500 J/kg MLCAPE estimated by objective analysis. KTLX VAD data over central OK indicates a supercell wind profile is in place with 50kt effective shear and around 100 m^2/s^2 0-1km SRH. Model guidance indicates the LLJ will gradually strengthen this afternoon into the early evening. Forecast hodographs become most favorable for low-level mesocyclones/tornadoes during the 5pm-8pm period with a classic sickle-shape structure and 0-1km SRH increasing to 200 m^2/s^2. Models are suggestive of a more isolated coverage from near OKC and south/southwest with widely scattered storms possible farther northeast into northeast OK. Although the severe risk is conditional, high-end severe weather would likely accompany any intense supercell."
+    },
+    {
+      "year": 2019,
+      "number": 734,
+      "issue_utc": "2019-05-22T20:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0734.html",
+      "summary": "Supercells capable of large hail, damaging winds, and tornadoes -- a few of which may be strong -- are expected. A tornado watch is likely.",
+      "discussion": "Visible satellite shows boundary layer cumulus developing over portions of northeast Oklahoma, southeast Kansas, northwest Arkansas, and southwest Missouri, as low-level moisture advects northward across the region. Surface dew points in the low 70s F are overspreading the region, ahead of a stalled cold front. Along the front, elevated convection has developed and is moving parallel to the boundary. With continued diabatic heating and low-level moisture advection, further destabilization can be expected, with MLCAPE values of 3000-4000 J/kg developing by late afternoon. Given these thermodynamic conditions, convective initiation is expected within the next 1-2 hours. Convection along the front may eventually root into the boundary layer, and additional storms may develop in the warm sector, particularly in southern parts of the MCD area. As storms develop, effective bulk shear of 50-55 kt will help organize the convection into supercell structures. With effective SRH exceeding 200 m^2/s^2, tornadoes -- a few of which could be strong -- are possible, along with the threat for large hail and damaging winds. A tornado watch will likely be issued within the next hour."
+    },
+    {
+      "year": 2019,
+      "number": 735,
+      "issue_utc": "2019-05-22T21:57Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0735.html",
+      "summary": "A few isolated storms may develop where instability is maximized as a weak shortwave trough move over the area. A few damaging wind gusts and perhaps marginally severe hail will be possible with the strongest storms. Uncertainty with regard to storm coverage/intensity makes watch issuance unlikely, though trends will be monitored.",
+      "discussion": "Despite upper-level cloud cover that has persisted across Ohio most of the afternoon, a pocket of clearing in southeastern Ohio has allowed temperatures to rise into the low 80s with dewpoints in the low 60s. Weak lapse rates aloft have only allowed modest instability of 500 to potentially 1000 J/kg MLCAPE to develop, per modified RAP soundings. Weak convergence has led to some cumulus development in the Zanesville, OH vicinity on visible satellite. With a weak wave approaching on moisture channel imagery, some potential exists for a few stronger thunderstorms to develop. However, the overall environment is not suggestive of more than isolated development, which is supported by the last several HRRR runs. Should storms develop, a few damaging wind gusts will be the primary threat with perhaps a few instances of marginally severe hail. The expected isolated nature of the threat decreases confidence in the need for a watch. Trends will continue to be monitored, however."
+    },
+    {
+      "year": 2019,
+      "number": 736,
+      "issue_utc": "2019-05-22T22:05Z",
+      "topic": "Tornado Watch 212",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0736.html",
+      "summary": "Potential for a strong tornado or two appears likely to increase near and south through east of Tulsa between now and 6-8 PM CDT.",
+      "discussion": "Discrete supercell development is ongoing, particularly near the Okmulgee and Stillwater areas. This is occurring in the presence of rather strong (90-120 m) 12 hour 500 mb height rises, and it remains at least somewhat unclear what impact this will have on subsequent development. However, activity is being aided by large-scale forcing for ascent associated with warm advection, and appears generally north of stronger mid-level inhibition associated with warmer elevated mixed-layer air (as inferred by 700 mb temps around +10 C to the south and southwest). Cells now approaching Okmulgee appear increasingly rooted in the boundary layer, which is characterized by mixed-layer CAPE approaching 4000 J/kg. Embedded within strongly sheared southwesterly deep layer mean ambient flow on the order of 40 kt, there appears considerable potential for further intensification and progression into at least southern/eastern portions of the Greater Tulsa metropolitan area through 23-01Z. Models suggest that this will coincide with strengthening of southerly 850 mb flow to around 40 kt, with enlarging clockwise curved low-level hodographs becoming supportive of continuing/increasing tornadic potential. ..Kerr.. 05/22/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 737,
+      "issue_utc": "2019-05-22T22:38Z",
+      "topic": "Tornado Watch 211",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0737.html",
+      "summary": "Potential for supercell development continues, but appears increasingly conditional late this afternoon and evening.",
+      "discussion": "Initial thunderstorm development, which likely occurred in response to convective temperatures being reached near the dryline across southwest Oklahoma, has weakened as it advected northeast of the westward retreating dryline, within strongly sheared 40+ kt southwesterly ambient mean flow. Much of southern Oklahoma is still under the influence of 60-90 mb 12-hour 500 mb height rises, and lower/mid tropospheric inhibition associated with the northern periphery of a plume of warm elevated mixed-layer air (as currently inferred by 700 mb temps around +10 C). However, at least attempts at vigorous thunderstorm development are still evident, particularly just south of the Oklahoma City metro. If activity can root within the strongly unstable boundary layer, there remains at least potential for rapid supercell thunderstorm development. Otherwise, thunderstorm development is currently increasing along and just north of the slowly northward retreating surface front across north central Oklahoma. Some of this may pose at least an increase in risk for severe hail through early evening. ..Kerr.. 05/22/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 738,
+      "issue_utc": "2019-05-22T23:05Z",
+      "topic": "Tornado Watch 213",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0738.html",
+      "summary": "Storm coverage and intensity should be on the increase this evening. Latest guidance suggests this will occur within the 7-9 PM CDT time frame. The environment for severe storms in the discussion area should improve with time with all severe hazards possible.",
+      "discussion": "Initial, weak convection has formed across far northeast Missouri and portions of west-central Illinois. Storms have struggled to maintain themselves in a strongly sheared, but weak instability environment. However, more significant activity will be possible richer moisture arrives ahead of the cold front early this evening. Moisture channel imagery indicates a subtle wave roughly over south-central Kansas that will progress towards the discussion area with time. Storm coverage along the boundary will then increase. Deep-layer flow is already quite strong with objective mesoanalysis showing 60-80 kts of effective shear. As low-level moisture increases this evening, low-level winds will as well with the strongest 850 mb winds forecast to occur across central Missouri into central Illinois. Low-level hodographs will become increasingly large and support stronger low-level rotation. The greatest uncertainty will be how discrete storms will be given the deep-layer shear vectors parallel to the boundary. 22Z hand analysis shows some hint of pre-frontal confluence, which is supported by enhanced cumulus on visible satellite, from near Macomb, IL to near Columbia, MO. Should storms form ahead of the boundary, they would pose the greatest tornado threat. Storm coverage should increase from southwest to northeast within the 7-9 PM CDT time frame as mid-level ascent moves into the region. ..Wendt.. 05/22/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 739,
+      "issue_utc": "2019-05-23T00:19Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0739.html",
+      "summary": "Steep mid-level lapse rates foster marginally severe hail with the strongest storms. Limited instability and storm coverage preclude watch issuance.",
+      "discussion": "Mid-level ascent approaching the Fox/Wolf River Valleys vicinity has helped to initiate several storms in northeastern Wisconsin. Though the environment is highly sheared (50 kts of effective shear), meager instability on the order of 500 J/kg MLCAPE has limited overall storm intensity. Given -17 C at 500 mb and 8-8.5 C/km lapse rates on the 00Z GRB sounding, a few storms may produce hail near 1 inch. A few strong convectively enhanced wind gusts may also occur on the warm side of the surface boundary where low-level lapse rates have steepened. The overall threat is expected to remain marginal and spatially confined enough that no watch is anticipated."
+    },
+    {
+      "year": 2019,
+      "number": 740,
+      "issue_utc": "2019-05-23T00:32Z",
+      "topic": "Tornado Watch 212",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0740.html",
+      "summary": "Risk for a strong tornado or two will continue, mainly near the Interstate 44 corridor of northeast Oklahoma through 8-10 PM. A transition to primarily a severe hail/wind risk is expected to gradually occur across the Missouri Ozarks and lower Missouri Valley by late evening.",
+      "discussion": "Vigorous thunderstorm development now progressing northeast of the Tulsa area remains generally discrete/supercellular. In the presence of lingering large boundary layer CAPE, strong deep layer vertical shear and enlarging low-level hodographs, there still appears potential for a strong tornado to form near the Interstate 44 corridor of northeast Oklahoma through 01-03Z. Otherwise, thunderstorm activity, including a few embedded supercells, has become increasingly numerous along a line northeast and east of Bartlesville OK through areas north/east of Sedalia MO. This is focused along a cold frontal zone, which is forecast to slowly advance eastward across the lower Missouri Valley and Missouri Ozarks vicinity through late evening. A gradual consolidation of storms is expected to take place in response to lift associated with warm advection, with perhaps a tendency for convection to become undercut by the front. As this occurs, the primary severe hazard probably will transition to severe hail with potential for strong convective gusts to increase. ..Kerr.. 05/23/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 741,
+      "issue_utc": "2019-05-23T00:56Z",
+      "topic": "Tornado Watch 211",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0741.html",
+      "summary": "A conditional severe weather risk continues, but probably will diminish further through 9-10 PM CDT.",
+      "discussion": "The most substantive recent thunderstorm development, including a supercell near Wichita Falls, has remained focused near/west of Interstate-44, in relatively close proximity to the dryline, perhaps aided by weak low-level warm advection. With the onset of boundary layer cooling, it seems probable that the supercell near Wichita Falls may begin to weaken within the next hour or two. And potential for convection to the north/northeast (into areas west of Oklahoma City) to root in the unstable boundary layer appear to be diminishing. ..Kerr.. 05/23/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 742,
+      "issue_utc": "2019-05-23T01:12Z",
+      "topic": "Tornado Watch 213",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0742.html",
+      "summary": "An increase in storm coverage has occurred in Tornado Watch 213 with the strongest activity entering southwestern portions of the watch area. A few intense supercells will bring a greater threat for tornadoes as they move northeast. Severe hail and damaging wind gusts will also remain possible.",
+      "discussion": "Storm coverage has been on the increase in WW 213 as supercells from west-central Missouri propagate into the watch area. Two supercells within Randolph and Howard Counties in Missouri have had a history of strong mid-level rotation and a confirmed tornado near Cairo, MO. As they progress to the northeast, the will enter and environment with strong effective SRH on the order of 300 m2/s2. Low-level SRH shear has been steadily increasing over the last hour per KLSX radar and with at least modest increase in the low-level jet, this trend should continue for the next hour or two. Given these trends, the referenced storms should pose the greatest threat for a tornado into the mid evening. Deeper into the evening, the cold front to the northwest of this activity will begin to push to the southwest, undercutting any remaining discrete storms and reducing the tornado threat. Observed 00Z soundings within the region still show 7-7.5 C/km lapse rates which will bring a threat for large hail until storms become more linear. ..Wendt.. 05/23/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 743,
+      "issue_utc": "2019-05-23T02:34Z",
+      "topic": "Tornado Watch 212",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0743.html",
+      "summary": "Risk for tornadoes may continue another hour or two, risk for severe wind and hail continues into the overnight hours.",
+      "discussion": "Discrete supercell development persists within a narrow pre-frontal corridor near Interstate-44, across northeastern Oklahoma into southern portions of the Missouri Ozarks. This is where low-level shear and boundary layer CAPE (supported by surface dew points near 70f) remain maximized, and additional tornado development may not be out of the question into the 03-04Z time frame. In general though, boundary-layer based storm development appears to be gradually waning, but convection rooted above the boundary layer is expected to persist, near/above the southeastward advancing front, but along a 30-40 kt southwesterly 850 mb jet axis. This may continue to be accompanied by a risk for severe hail and perhaps some increase in potential for damaging wind gusts. ..Kerr.. 05/23/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 744,
+      "issue_utc": "2019-05-23T02:43Z",
+      "topic": "Tornado Watch 213",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0744.html",
+      "summary": "Storms in Tornado Watch 213 will continue to move eastward into an increasingly destabilized environment with strong deep-layer shear and enlarged low-level hodographs. A continued threat for tornadoes, large hail, and damaging wind gusts is expected in central Illinois. A new watch will be needed by 11 PM CDT.",
+      "discussion": "Ongoing storms in Tornado Watch 231 have been able to remain discrete with a few storms beginning to cluster in the vicinity of Peoria, IL. Several reports of funnel clouds/tornadoes and strong wind gusts have occurred in the last two hours. The environment will remain favorable for organized convection given the 50-60 kts of effective shear. More importantly, the downstream environment of these storms has been steadily improving as a reservoir of low 70s dewpoints in southern Illinois has begun to advect northward into central Illinois. This will increase MLCAPE values ahead of the ongoing convection to 1500 J/kg on the northern end to perhaps near 3000 J/kg on the southern fringes. RAP forecast soundings indicate that storms moving into central Illinois should remain surface-based or nearly-so. The ILX VAD profile has also shown an increase in low-level veering. As such, a continued threat for tornadoes, large hail, and damaging wind gusts will persist with any storms that remain discrete. Some upscale growth is anticipated as the evening goes on which will reduce the tornado and hail threat to some degree. However, strong low-level wind fields will still support a tornado threat even with a QLCS storm mode. A downstream watch will be needed by 11 PM CDT for the convection expected to move into central Illinois. ..Wendt.. 05/23/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 745,
+      "issue_utc": "2019-05-23T05:59Z",
+      "topic": "Tornado Watch 214",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0745.html",
+      "summary": "Tornado and damaging wind threat will continue for several more hours across WW 214.",
+      "discussion": "An interesting evolution of a trio of supercells over far northeast OK is currently underway late this evening. A tornado was recently confirmed by weather spotters with the leading supercell in southeast Craig County. The trailing two cells are likely at least slightly elevated as MLCIN increases slowly this evening, and as they track behind the outflow of the lead cell. VWP data from the SGF and INX 88-Ds continue to show impressive vertical shear with large, curved low level hodographs resulting in 0-3km SRH in excess of 500 m2/s2. This should continue to support organized convection as the airmass remains unstable downstream with MLCAPE around 1000-2000 J/kg. In the short term, this will continue to support a threat for supercell tornadoes roughly along the I-44 corridor from northeast OK into southwest MO. As boundary-layer inhibition continues to slowly increase into the overnight hours, a strong low-level jet oriented roughly parallel to storm-motion vector should tend to support some upscale growth potential with damaging winds becoming more of a concern overnight into early morning. ..Leitman.. 05/23/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 746,
+      "issue_utc": "2019-05-23T06:23Z",
+      "topic": "Tornado Watch 215",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0746.html",
+      "summary": "A damaging-wind threat will continue across central IL and perhaps into northwest IN as a mature bow echo shifts northeast across the region. Further southwest toward, and just north of, the St. Louis metro area, supercells with a threat for damaging wind and tornadoes are possible in the short term before upscale growth occurs into the early morning.",
+      "discussion": "A damaging bow echo has recently tracked through Springfield IL where a 58 kt wind gust was reported. This bowing segment, and the trailing squall line extending southwest to just north of the St. Louis metro area will continue to pose a damaging-wind threat across central IL and perhaps into northwest IN. MLCIN is weak across central IL where strong instability remains across the warm sector. However, the apex/bookend vortex is tracking into stronger inhibition and decreasing instability toward northwest IN and will likely outpace the northward retreating warm front. This should limit downstream severe potential across northern and central IN with time, but a severe threat could persist outside WW 215 and a downstream watch may be needed. Further southwest across east-central MO, a few supercells were still evident, mainly across Warren Co where a tornado warning was recently issued by WFO LSX. VWP data from LSX and ILX 88-Ds indicated modest low level hodographs with surface winds more veered than farther southwest across southwest MO. However, vertical shear is more than supportive of sustaining supercells, especially in the short term, and as such, a threat for tornadoes continues. As inhibition slowly increases and cells interact with outflow from the bowing line across central IL, upscale growth potential should increase, with a transition toward a greater threat for damaging wind gusts and perhaps a few mesovortex-related spin-ups. ..Leitman.. 05/23/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 747,
+      "issue_utc": "2019-05-23T08:50Z",
+      "topic": "Severe Thunderstorm Watch 216",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md0747.html",
+      "summary": "Strong to isolated severe wind gusts will be possible another couple of hours across WW 216. Severe threat will diminish with time and with north and eastward extent into the early morning hours.",
+      "discussion": "Strong to severe wind gusts continue with the squall line from near the IN/MI border south/southwest into central IN and adjacent portions of east-central IL. Most recently, peak gusts of around 35-45 kt have been measured at several sites Mattoon and Champaign-Urbana IL to Valparaiso, Lafayette and South Bend IN. Strong to locally severe gusts will be possible for another couple of hours as the line shifts eastward across the remainder of northern and central IN. A few strong gusts can not be ruled out across for southern MI into far northwest OH, but severe potential is low across this area as instability diminishes and inhibition increases. Nevertheless, VWP from ILN and GRR continue to indicate strong vertical shear. This should help to maintain semi-organized line with eastward extent, but unfavorable thermodynamics and a stable boundary layer will limit severe potential into Lower MI and western OH. A downstream watch is not anticipated at this time. ..Leitman.. 05/23/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

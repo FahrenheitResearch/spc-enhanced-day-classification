@@ -1,0 +1,230 @@
+{
+  "convective_day": "2021-05-28",
+  "valid_start": "2021-05-28T12:00Z",
+  "valid_end": "2021-05-29T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-05-28",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-05-28T16:30Z",
+      "valid_end": "2021-05-29T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210528_1630.html",
+      "summary": "Scattered severe thunderstorms with very large hail, damaging winds, and a couple tornadoes are possible across parts of west and central Texas into eastern New Mexico, mainly this afternoon and evening.",
+      "sections": [
+        {
+          "title": "TX",
+          "text": "A very moist and potentially unstable air mass is in place today across much of central and southwest TX, with dewpoints in the mid 60s to lower 70s, pockets of strong heating, and very steep mid-level lapse rates. Forecast soundings across the region show afternoon MLCAPE values of 3000-4000 J/kg and little cap. This should result in the development of scattered intense supercells along the various boundaries analyzed over this area and along the dryline over southeast NM and southwest TX. Deep layer shear will favor rotating storms, and straight-line hodographs suggest left-moving supercells will also occur. Damaging winds and a few tornadoes are possible. However, the primary threat appears to be very large hail. Therefore, have opted to add an ENH risk area and a 30%/sig hail probability area. Storms should maintain severe threat through much of the evening as they spread southeastward toward central TX, with an increasing risk of bowing structures and damaging winds."
+        },
+        {
+          "title": "LA/MS to VA/MD",
+          "text": "A large upper trough is moving across the MS/OH valleys, with relatively strong westerly flow aloft over much of the TN Valley, Appalachians, and Mid Atlantic region. Considerable cloud cover is limiting heating over many areas, but there appears to be a corridor from southern MS into parts of NC/VA where at least pockets of heating/destabilization will occur. Scattered afternoon showers and thunderstorms are expected across this entire region, with the potential for robust updrafts/downdrafts in those areas of slightly better CAPE. The area of most concern is in vicinity of a the Chesapeake Bay where backed low level winds and ample moisture are present. This area is very small, with inconsistent CAM solutions on coverage of storms, but there is some concern for a more organized storm or two late this afternoon in the region posing a risk of gusty/damaging winds or a brief spin up."
+        },
+        {
+          "title": "MT",
+          "text": "A few thunderstorms are expected to develop this afternoon and evening over southeast MT along a cold front moving into the area. Instability will be quite weak, but there is the potential of a strong storm or two producing hail and gusty winds. ..Hart/Marsh.. 05/28/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-05-28",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-05-28T20:00Z",
+      "valid_end": "2021-05-29T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210528_2000.html",
+      "summary": "Scattered severe thunderstorms with very large hail, damaging winds, and a couple tornadoes are possible across parts of west and central Texas into eastern New Mexico, mainly this afternoon and evening.",
+      "sections": [
+        {
+          "title": "Eastern NM into portions of West/Central TX",
+          "text": "Some minor adjustments have been made to the outlook. The Slight Risk has been expanded into northeast NM, where it appears that scattered hail-producing cells will be possible into early evening. The northern portion of the Enhanced Risk across western/central TX has been trimmed due to the southward advance of a colder and more stable environment. Otherwise, the outlook reasoning remains valid, with supercells capable of very large hail, damaging wind gusts, and possibly a couple of tornadoes expected through this evening. See the previous outlook discussion and recent mesoscale discussions for more details. ..Dean.. 05/28/2021 .PREV DISCUSSION... /ISSUED 1127 AM CDT Fri May 28 2021/"
+        },
+        {
+          "title": "TX",
+          "text": "A very moist and potentially unstable air mass is in place today across much of central and southwest TX, with dewpoints in the mid 60s to lower 70s, pockets of strong heating, and very steep mid-level lapse rates. Forecast soundings across the region show afternoon MLCAPE values of 3000-4000 J/kg and little cap. This should result in the development of scattered intense supercells along the various boundaries analyzed over this area and along the dryline over southeast NM and southwest TX. Deep layer shear will favor rotating storms, and straight-line hodographs suggest left-moving supercells will also occur. Damaging winds and a few tornadoes are possible. However, the primary threat appears to be very large hail. Therefore, have opted to add an ENH risk area and a 30%/sig hail probability area. Storms should maintain severe threat through much of the evening as they spread southeastward toward central TX, with an increasing risk of bowing structures and damaging winds."
+        },
+        {
+          "title": "LA/MS to VA/MD",
+          "text": "A large upper trough is moving across the MS/OH valleys, with relatively strong westerly flow aloft over much of the TN Valley, Appalachians, and Mid Atlantic region. Considerable cloud cover is limiting heating over many areas, but there appears to be a corridor from southern MS into parts of NC/VA where at least pockets of heating/destabilization will occur. Scattered afternoon showers and thunderstorms are expected across this entire region, with the potential for robust updrafts/downdrafts in those areas of slightly better CAPE. The area of most concern is in vicinity of a the Chesapeake Bay where backed low level winds and ample moisture are present. This area is very small, with inconsistent CAM solutions on coverage of storms, but there is some concern for a more organized storm or two late this afternoon in the region posing a risk of gusty/damaging winds or a brief spin up."
+        },
+        {
+          "title": "MT",
+          "text": "A few thunderstorms are expected to develop this afternoon and evening over southeast MT along a cold front moving into the area. Instability will be quite weak, but there is the potential of a strong storm or two producing hail and gusty winds."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-05-29",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-05-29T01:00Z",
+      "valid_end": "2021-05-29T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210529_0100.html",
+      "summary": "Scattered severe thunderstorms with very large hail, damaging winds, and a couple tornadoes remain possible through tonight across far eastern New Mexico and west/southwest Texas to parts of south-central/southeast Texas.",
+      "sections": [
+        {
+          "title": "Eastern New Mexico and west/south-central/southeast Texas",
+          "text": "A severe-active evening will continue across the region in association with a moist/unstable environment. Semi-discrete supercells with continued large hail and some tornado/wind risk will persist this evening particularly across the Permian Basin. Other upscale-growing bowing complexes, such as along the New Mexico/Texas border as well as south-central/southeast Texas, will likely develop south-southeastward tonight with a continued damaging wind/sporadic hail risk."
+        },
+        {
+          "title": "North Carolina/southern Virginia and Southeast States",
+          "text": "A strong storm or two remains a possibility this evening primarily across far southern Virginia and northern North Carolinas. However, as the boundary layer cools, overall convective intensity should gradually wane this evening across a broad part of the Mid-Atlantic/Southeast States."
+        },
+        {
+          "title": "Southeast Montana/far northeast Wyoming",
+          "text": "The environment will remain favorable for a couple of severe storms capable of hail/wind in the short term across the region, but a general weakening trend is likely occur into mid/late evening as storms spread closer to the border of the western Dakota and encounter a cooling/stabilizing boundary layer. ..Guyer.. 05/29/2021"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 783,
+      "issue_utc": "2021-05-28T16:16Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0783.html",
+      "summary": "An increase in severe risk may evolve over the next 1 to 2 hours across portions of central Texas. WW may become necessary if trends persist.",
+      "discussion": "Latest radar loop shows a small cluster of thunderstorms that has developed in the vicinity of western Comanche County. The storms appear to be developing near the intersection of a remnant outflow boundary -- extending southeastward into the Houston area -- and the synoptic front moving southward across North Texas. Steep lapse rates in place across the region are contributing to substantial CAPE -- which should support continued storm development near this boundary intersection. While low-level flow remains a bit weak and disjointed, moderate mid-level westerlies will be sufficient to allow some updraft organization/mid-level rotation, as storms develop/spread east-southeastward with time. Given the thermodynamics, stronger storms will be capable of producing large hail. In addition, gusty winds will be possible with storms near and to the warm side of the surface front, and a brief tornado also cannot be ruled out as storms interact with the surface boundaries."
+    },
+    {
+      "year": 2021,
+      "number": 784,
+      "issue_utc": "2021-05-28T17:49Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0784.html",
+      "summary": "Storms initiating over the higher terrain of far West Texas may require WW issuance for associated large hail/damaging wind risk.",
+      "discussion": "Latest visible satellite imagery shows cumulus growth occurring over the Davis Mountains at this time, on the western fringe of moisture return occurring within the easterly low-level flow regime. With very steep lapse rates atop the moist lower levels, and strong heating underway, an axis of mixed-layer CAPE in excess of 3000 J/kg continues to expand westward across the Pecos River into the Big Bend area of Texas. As such, expect at least isolated storm development to evolve from the aforementioned cumulus growth over the higher terrain. With the easterly/southeasterly low-level winds veering to westerly in excess of 30 kt in the 500 to 300 mb layer, deep-layer shear through the cloud-bearing layer is more than sufficient -- in tandem with the very favorable thermodynamics -- to support supercell evolution, and attendant risk for very large hail, and locally severe gusts. Storm coverage remains the only question at this point, and so will continue to monitor cu field evolution and any signs that eventual convective coverage may become sufficient to warrant WW issuance."
+    },
+    {
+      "year": 2021,
+      "number": 785,
+      "issue_utc": "2021-05-28T18:03Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0785.html",
+      "summary": "Storm development is expected across eastern New Mexico in the next 1 to 3 hours, which will likely require eventual WW issuance.",
+      "discussion": "Latest visible satellite imagery shows continued erosion of low cloud cover across eastern New Mexico, as a cold front has pushed westward into this area. Resulting diurnal heating has pushed mixed-layer CAPE values to 1500 J/kg in northeastern New Mexico, and as high as 2500 J/kg farther south, as a result of very steep lapse rates aloft atop upper 50s to low 60s surface dewpoints. With easterly/southeasterly low-level upslope flow across eastern New Mexico and presence of the aforementioned cold front, storm development -- now underway over the high terrain from Las Vegas to Raton -- should begin in the next couple of hours farther east, per current indications with respect to the cu field. Initial storms are expected to organize/acquire rotation -- aided by favorably veering/increasing flow with height. Large hail is expected initially, followed by and accompanying/increasing wind risk with time as storms grow upscale linearly and shift southeastward. The evolving risk will likely require eventual WW issuance."
+    },
+    {
+      "year": 2021,
+      "number": 786,
+      "issue_utc": "2021-05-28T19:33Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0786.html",
+      "summary": "Thunderstorms are forecast to evolve in the vicinity of the cold front over the next 1-2 hours, spreading southeastward with time. Risk for very large hail and locally damaging winds will likely require WW issuance.",
+      "discussion": "Latest radar loop shows isolated ongoing/elevated storms over the Texas South Plains vicinity an eastward into the Big Country are gradually increasing in coverage, while low cloud cover just south of this convection, and just to the cool side of the cold front, continues to gradually erode. Meanwhile, strong destabilization is underway near and south of the front, where daytime heating of a moist (mid 60s dewpoints) boundary layer, beneath very steep lapse rates aloft, is now yielding mixed-layer CAPE in excess of 3000 J/kg. Storm development is expected to occur in the vicinity of the front over the next 1 to 2 hours, west of ongoing strong/severe storms occurring within WW 218, as additional heating/destabilization occurs. With favorably veering/increasing flow with height, storms will rapidly organize/become severe, with very large hail likely to be the primary risk. Locally damaging winds will also be possible, particularly near any organizing bands of storms which may evolve. Given this gradually evolving risk, WW issuance will likely be required."
+    },
+    {
+      "year": 2021,
+      "number": 787,
+      "issue_utc": "2021-05-28T19:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0787.html",
+      "summary": "Ongoing thunderstorms across eastern Virginia will continue to pose a threat for gusty winds and hail before crossing the Chesapeake. Additional thunderstorms may develop later this afternoon farther west posing an additional threat for wind as they move east. A watch is currently not expected, but trends will be monitored.",
+      "discussion": "A relatively strong coastal front remains draped across the Chesapeake Bay area, with easterly flow off the cooler Atlantic waters to the north and warm southerly flow to the south. To the south of this front, isolated thunderstorms developed earlier this afternoon within a zone of strong surface heating (surface temperatures greater than 90F) and modest low-level warm-air advection. The warm, moist low levels have contributed to most-unstable CAPE values around 2000-3000 J/kg across a small corridor of eastern Virginia despite weak mid-level lapse rates (on the order of 5-6 C/km). Gusty thunderstorm outflow winds will remain possible with the stronger updrafts, although a brief tornado potential will exist with any thunderstorm moving across the coastal front where backed surface winds may support enhanced low-level helical flow. High-resolution convection permitting models, such as the HRRR and experimental WoFS guidance, continue to suggest additional thunderstorms may develop across central Virginia this afternoon as increased ascent from an approaching mid-level trough encounters the aforementioned unstable environment. These thunderstorms will also pose a threat for gusty thunderstorm winds as they move east, although a brief tornado cannot be ruled out with any thunderstorm that interacts with the backed low-level flow in and near the aforementioned coastal front. At this time thunderstorm coverage is anticipated to remain sparse enough to preclude the need for a watch, but conditions will continue to be monitored."
+    },
+    {
+      "year": 2021,
+      "number": 788,
+      "issue_utc": "2021-05-28T20:42Z",
+      "topic": "Severe Thunderstorm Watch 218",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0788.html",
+      "summary": "Severe risk continues locally, within WW 218.",
+      "discussion": "Latest radar loop shows that the storm which crossed Coryell County -- likely producing large hail -- has weakened some and moved east-southeastward into McLennan County. Meanwhile, fairly widespread -- but currently sub-severe -- storms continue across portions of the watch. With a favorably unstable airmass -- particularly across southern and eastern portions of the watch which have been spared of convective contamination -- still in place, risk for large hail as well as locally stronger/damaging wind gusts remains evident. Convection appears to be increasing just west of the watch, and as it evolves/spreads eastward, southwestern portions of the WW may be a focus for greater short-term risk. ..Goss.. 05/28/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 789,
+      "issue_utc": "2021-05-28T21:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0789.html",
+      "summary": "Large hail and gusty winds may accompany the stronger storms into the early evening hours. A WW issuance is unlikely given the expected sparse coverage of severe wind/hail.",
+      "discussion": "Multicellular thunderstorm clusters have been gradually increasing in coverage and intensity across Yellowstone Country over the past couple of hours given increased deep-layer ascent by a passing mid-level trough. These storms are developing atop a dry boundary layer, with the latest METAR observations showing up to 30F temperature/dewpoint spreads, and RAP forecast soundings indicating a dry sub-cloud layer extending up to 500 mb. Despite the dry boundary layer, 8.5-9.5 C/km low and mid-level lapse rates are promoting up to 1000 J/kg SBCAPE, with some convective organization/sustenance possible given 35+ kts of effective bulk shear. Much of the CAPE is contained above 700 mb, and is characterized by low CAPE density. As such, large hail may accompany the more robust, longer lasting multicellular clusters. Damaging gusts are also possible given efficient evaporative cooling and downward momentum transport within the steep lapse rate/dry low-level environment. Nonetheless, overall convective coverage and associated brief severe threat is expected to be relatively isolated overall, and a WW issuance is not expected."
+    },
+    {
+      "year": 2021,
+      "number": 790,
+      "issue_utc": "2021-05-28T22:54Z",
+      "topic": "Severe Thunderstorm Watch 218",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0790.html",
+      "summary": "A new severe thunderstorm watch likely will be needed by 7 PM CDT, south of the current watch. Strong thunderstorm development posing a risk for large hail and locally damaging gusts will remain possible into early evening, with potential for the evolution of a larger, organizing cluster of storms while spreading southward this evening, accompanied by increasing risk for strong surface gusts.",
+      "discussion": "Individual storm motions have been relatively slow in the presence of modest to weak (around 20 kt) westerly deep-layer mean flow. However, due to pronounced veering of winds with height in lower to mid-levels, deep-layer shear remains strong and supportive of evolving supercell structures. Apparent moderate southeasterly low-level inflow into the stronger storms emanates from a seasonably moist boundary layer (lower to mid 70s dew points). Beneath steep mid-level lapse rates this is contributing to large mixed-layer CAPE on the order of 2000-4000 J/kg. Thermodynamic profiles are similar southward into the Rio Grande Valley and lower Texas coast, but with stronger capping beneath gradually warmer elevated mixed-layer air. However, a gradual southward/southwestward suppression of this elevated mixed-layer air is ongoing, which is expected to allow for a continued southward progression of convective development, in addition to an eastward and southeastward advection and propagation of cells into the 00-03Z time frame. A gradual consolidation of convective outflow/surface cold pools appears possible, which may contribute to further upscale convective growth and accelerating forward propagation, accompanied by increasing risk for damaging winds. Otherwise, large hail and localized potentially damaging wind gusts remains the primary threat into early evening. ..Kerr.. 05/28/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 791,
+      "issue_utc": "2021-05-28T23:18Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0791.html",
+      "summary": "Strong storms are expected to continue for a couple more hours. A damaging gust or a brief tornado cannot be ruled out. A WW issuance is not expected.",
+      "discussion": "An uptick in convective intensity has been noted with discrete storms traversing a warm front across far eastern Virginia, with MRMS mosaic radar data showing 50 dBZ extending up to 25 kft with some of the stronger cells. KDOX has also shown some transient rotation associated with these storms as well. MLCAPE is roughly 500 J/kg on the warm side of the front. However, recent KDOX VWPs show around 250 m2/s2 0-1 km SRH present, with RAP forecast soundings suggesting that much of the SRH is within the effective inflow layer. As such, a damaging gust or a brief tornado may occur before boundary layer stabilization reduces the severe threat. Nonetheless, the severe threat is expected to remain sparse enough to preclude a WW issuance."
+    },
+    {
+      "year": 2021,
+      "number": 792,
+      "issue_utc": "2021-05-28T23:49Z",
+      "topic": "Severe Thunderstorm Watch 219",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0792.html",
+      "summary": "Storms may continue to pose a risk for large hail, and perhaps a brief tornado, but strong surface gusts probably will become the more prominent hazard as activity continues to consolidate and overspread the Clovis, NM vicinity through 7-9 PM MDT.",
+      "discussion": "Consolidating convection near and south through southwest of Tucumcari might have been aided by forcing associated with weak short wave troughing progressing east of the southern Rockies. This is embedded within generally weak (10-20 kt) west-northwesterly ambient deep-layer mean flow, but deep-layer shear is strong, largely due to pronounced veering of winds with height. Southeasterly near-surface flow across the Texas South Plains into eastern New Mexico is maintaining sufficient moisture to support CAPE of 1000-2000+ J/kg (larger toward the Texas South Plains), within a deeply mixed boundary layer, beneath steep mid-level lapse rates. As convection continues to develop southeastward into this environment, a congealing surface cold pool may strengthen, with forcing along its leading edge maintaining vigorous thunderstorm development. It is possible that isolated discrete supercell structures could continue to form near and just ahead of the cold pool, but convection seems likely to otherwise consolidate into an organizing convective system, with strong surface gusts becoming a more prominent threat as activity spreads across and southeast of the Clovis, NM vicinity through 01-03Z. ..Kerr.. 05/28/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 793,
+      "issue_utc": "2021-05-29T00:18Z",
+      "topic": "Severe Thunderstorm Watch 220",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0793.html",
+      "summary": "Widely scattered intense storms posing a risk for large hail and locally strong surface gusts will probably persist at least into the 9-10 PM CDT time frame, in a corridor west-southwest of Midland into areas southeast of Junction.",
+      "discussion": "A zone of strong differential surface heating, near the leading edge of a slowly southwestward advancing intrusion of cooler air and convective outflow, has become a focus for strong boundary-layer destabilization and intensifying thunderstorm development. In the presence of modest to weak, but strongly sheared west-northwesterly ambient deep-layer mean flow, storms probably will continue to strengthen and organize, at least into the 02-03Z time frame. This may include a couple of supercells posing a risk for large hail and locally strong surface gusts, given thermodynamic profiles characterized by a very warm and deeply mixed boundary layer, steep lower/mid tropospheric lapse rates and large CAPE. ..Kerr.. 05/29/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 794,
+      "issue_utc": "2021-05-29T00:58Z",
+      "topic": "Severe Thunderstorm Watch 221",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0794.html",
+      "summary": "A rapid increase and intensification of thunderstorm activity appears possible across the Greater San Antonio area through 9-10 PM CDT, posing a risk for frequent cloud to ground lightning, large, potentially damaging hail, heavy rainfall and a few strong downbursts.",
+      "discussion": "Large-scale ascent associated with a zone of enhanced warm advection along a mid-level baroclinic zone, coupled with lift along and above southward advancing cold pools may contribute to rapidly increasing and intensifying thunderstorm development across the Greater San Antonio area between now and 02-03Z. A seasonably moist boundary layer across this region appears characterized by large CAPE of 3000-4000 J/kg, in the presence of modest to weak, but strongly sheared westerly deep-layer ambient mean flow. A couple of supercell structures are ongoing along the southward advancing cold pools, with potential for considerable further upscale growth and organization, posing a risk for large, damaging hail and, increasingly, strong surface gusts near and south of San Antonio. ..Kerr.. 05/29/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 795,
+      "issue_utc": "2021-05-29T02:12Z",
+      "topic": "Severe Thunderstorm Watch 219",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0795.html",
+      "summary": "An organized convective system may begin to undergo rapid weakening as it progresses east of the southern New Mexico border area within the next hour or so, but strong surface gusts may be slower to diminish along remnant southeastward advancing outflow.",
+      "discussion": "A well-defined MCV has developed, with 50+ kt southeasterly rear inflow to its south, progressing southeast of the Clovis, NM vicinity, and will approach the Lubbock, TX area through 03-04Z. This is within a larger-scale organized convective system which has evolved, southwestward to the lee of Sacramento Mountains, and now crossing the southern New Mexico/west Texas border area. As this activity continues to propagate east-southeastward, based on objective instability analyses, it will begin to encounter considerably less unstable inflow, and a fairly rapid diminishing trend may commence. However, strong winds probably will be a bit slower to diminish along the leading edge of the remnant gust front. ..Kerr.. 05/29/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 796,
+      "issue_utc": "2021-05-29T03:15Z",
+      "topic": "Severe Thunderstorm Watch 221",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0796.html",
+      "summary": "Thunderstorm intensities, in general, are beginning to diminish, but the risk for strong surface gusts will continue with lingering storms spreading into middle Texas coastal areas through Midnight-1 AM CDT.",
+      "discussion": "A large convective system, including one embedded MCV currently southwest of College Station, and a trailing downburst producing cluster (with a recorded SAT ASOS gust to 67 kt) east-southeast of San Antonio, continues a south-southeastward propagation toward middle Texas coastal areas. Activity has exhibited recent, general weakening trends, and probably is being limited by the lack of stronger low-level southerly ambient flow. However, the inflow environment remains characterized by sizable CAPE in excess of 2000 J/kg, in the presence of modest deep-layer shear. And there appears potential for strong surface gusts to develop to the south of the MCV, to the west and south of the Greater Houston area, with additional updraft intensification and locally strong downburst development still possible along the trailing composite outflow boundary into the Palacios vicinity through 04-06Z. ..Kerr.. 05/29/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 797,
+      "issue_utc": "2021-05-29T04:22Z",
+      "topic": "Severe Thunderstorm Watch 220",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0797.html",
+      "summary": "It is not certain a new severe weather watch will be issued at current Midnight watch expiration, but trends are being monitored for this possibility. At least isolated strong to severe storm development may persist into the overnight hours, mainly near the Pecos River into the higher terrain to the southwest.",
+      "discussion": "The south-southeastward propagating convective system has undergone substantive weakening across parts of the Texas South Plains, as low-level inflow has generally become progressively less unstable. However, 55-65+ kt inbound velocities have been evident in the lowest 1-2 km on Midland radar, associated with convective outflow tending to surge out ahead of the weakening convective line. This should begin to weaken across and southeast of the Midland area as convection continues to weaken. However, upslope flow into the higher terrain across and southwest of the Pecos River could maintain or support additional vigorous thunderstorm development through 06-07Z. This is where steep lapse rates associated with capping elevated mixed-layer air continues to support large CAPE. In the presence of strong shear (largely due to pronounced veering of lower to mid tropospheric wind fields with height), isolated to widely scattered supercell development remains possible, posing a risk for large hail and locally damaging wind gusts. ..Kerr.. 05/29/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 798,
+      "issue_utc": "2021-05-29T06:34Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0798.html",
+      "summary": "Severe/damaging wind gusts may continue with a cluster of storms. Watch issuance is possible.",
+      "discussion": "An organized cluster of storms will probably continue southeastward early this morning along the MLCAPE gradient present across the Edwards Plateau. Although some convective inhibition is present across this region, persistent 30-35 kt low-level southeasterly winds indicated on the KDFX VWP will maintain a fetch of moist boundary-layer air ahead of these storms. KE41 in west TX recently gusted to 51 kt as the cluster moved through, and enhanced outbound velocities have been observed from the KMAF radar. Strong deep-layer shear will likely support continued organization with this cluster in the short term, and the presence of steep mid-level lapse rates observed on the 00Z DRT sounding are contributing to substantial MUCAPE (2000-3000 J/kg) per latest mesoanalysis estimates. Although it remains unclear how long the cluster will persist since some MLCIN is present, a threat for at least isolated severe/damaging winds will probably continue for a few hours early this morning. A somewhat greater severe threat should remain confined along and south of an outflow boundary from earlier convection that is present across this region."
+    }
+  ]
+}

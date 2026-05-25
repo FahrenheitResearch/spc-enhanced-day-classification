@@ -1,0 +1,105 @@
+{
+  "convective_day": "2020-04-13",
+  "valid_start": "2020-04-13T12:00Z",
+  "valid_end": "2020-04-14T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-04-13",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-04-13T12:00Z",
+      "valid_end": "2020-04-14T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200413_1200.html",
+      "summary": "Severe thunderstorms capable of tornadoes, damaging wind gusts and hail are possible today from southeast Georgia through the eastern Caronlinas and into the Mid-Atlantic vicinity.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A compact shortwave trough located over the Lower MS Valley as of 05z this morning will continue lifting northeast toward the central Appalachians by the beginning of the forecast period. Intense south/southwesterly deep layer flow will overspread much of the Atlantic Coast from GA to the Mid-Atlantic vicinity. At the surface, rich Gulf moisture has spread northward across the region, with upper 60s to near 70 F dewpoints as far north as the SC/NC border as of 05z. Additional moistening is expected with northward extent, with near 60 F dewpoints making it as far north as southern NY potentially. Strong heating will likely be inhibited by widespread cloudiness ahead of ongoing lines/clusters of severe thunderstorms this morning. However, at least narrow corridors of moderate instability are forecast, aided by midlevel lapse rates approaching 7 C/km atop a very moist boundary layer, from the VA/NC Piedmont vicinity southward into eastern GA and eastward toward the coast. In the presence of intense shear, with large, curved low-level hodographs, rotating cells embedded in an east/northeastward developing line of storms will result in a tornado and damaging wind threat through at least"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-04-13",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-04-13T13:00Z",
+      "valid_end": "2020-04-14T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200413_1300.html",
+      "summary": "Severe thunderstorms with the primary threats of damaging winds and tornadoes will continue through midday from southeast Virginia to north Florida, and will be possible from midday into early afternoon from northern Virginia/Maryland into Pennsylvania.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A midlevel shortwave trough will eject rapidly northeastward from eastern TN/KY this morning to the Mid-Atlantic and southern New England by early afternoon, in advance of a northern stream shortwave trough over the OH Valley/Great Lakes. An associated surface cyclone near Lake Huron will continue deepening and moving northeastward over ON/QC today, while a trailing cold front crosses the Appalachians and moves off the Mid-Atlantic and southeast Atlantic coasts by early tonight. The southern portion of the front will likely stall tonight across north FL."
+        },
+        {
+          "title": "Southeast VA to north FL through midday",
+          "text": "In advance of the ejecting shortwave, a pre-frontal squall line is moving east-northeastward from north FL to the Carolinas/VA this morning, in association with a lead speed max per water vapor imagery and VWP observations. Continued low-level moistening in advance of the convection from VA southward into eastern NC has contributed to MLCAPE of 500-1500 J/kg which will maintain the convection through the morning as it moves off the coast of the Carolinas and southeast VA by 14-16z. In the interim, vertical shear will remain extremely strong within the warm sector, with effective bulk shear of 70-80 kt and effective SRH greater than 700 m2/s2 both contributing to rotating storms within the line and multiple tornadoes overnight. Any sustained storms ahead of the pre-frontal convection could also evolve into supercells, and the threat for both tornadoes (some of which could be strong this morning) and relatively widespread damaging winds will continue with the pre-frontal squall line until it moves offshore. A gradual weakening of vertical shear is expected farther south across north FL as the ejecting shortwave trough passes to the north of this area this morning."
+        },
+        {
+          "title": "Northern VA to PA area late morning into early afternoon",
+          "text": "There will be a window of opportunity for surface-based storm development later this morning through early afternoon from VA into MD/DE/NJ and PA with the synoptic cold front. Boundary-layer dewpoints in the upper 50s to lower 60s north of the pre-frontal squall line farther south, and some cloud breaks later this morning, should allow at least weak surface-based buoyancy to develop. Vertical shear will be strong and a broken band of storms, capable of producing damaging winds and a couple of tornadoes, is expected to form and persist from roughly 16-21z (the precursor of which is the convection now near the OH/WV/KY border). ..Thompson/Kerr.. 04/13/2020"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 380,
+      "issue_utc": "2020-04-13T13:56Z",
+      "topic": "Tornado Watch 118",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0380.html",
+      "summary": "Localized swaths of wind damage will probably accompany the pronounced bowing segments as the mature squall line moves east across eastern NC. A tornado or two remains possible near the immediate coast where slightly greater instability resides.",
+      "discussion": "Radar imagery as of 1355z shows a strong squall line with embedded bowing segments/lewps quickly moving east across eastern NC. The 12z MHX observed sounding show around 100 J/kg MLCAPE but nearly 50 kt of surface-1km shear. Given the marginal buoyancy/very strong shear setup, expecting the squall line to continue to pose a risk for localized swaths of damaging gusts near inflections/bowing segments in the QLCS and a tornado risk, especially near the coast where slightly higher buoyancy is located. ..Smith.. 04/13/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 381,
+      "issue_utc": "2020-04-13T14:34Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0381.html",
+      "summary": "The risk for damaging gusts and possibly a tornado or two will seemingly increase as storms develop through midday into the early afternoon. A tornado watch is likely by 16z.",
+      "discussion": "Visible satellite imagery late this morning shows breaks in low-level cloud cover across western VA into the eastern WV Panhandle and into far south-central PA. Water-vapor imagery indicates a compact mid-level shortwave trough over the upper OH Valley, and this feature is forecast to move into the central Appalachians by early afternoon. Late morning observations over northern VA show temperatures warming into the mid 60s F with dewpoints in the lower 60s. Forecast soundings and the gradually clearing of a high cloud shield from west to east, suggest additional heating will occur with temperatures reaching near 70 F by early afternoon over the northern VA/MD vicinity. KLWX VAD data as of 1430z shows around 70kt flow at 2km AGL and 100kt at 6km. RAP model forecast soundings show a destabilizing airmass with MLCAPE ranging from 250 J/kg north to over 1000 J/kg MLCAPE over northern VA/MD/far southeast PA by early afternoon. The intense wind profile and more than adequate instability will favor the development of strong to severe thunderstorms over the next couple of hours as storms develop/move east from eastern WV/VA into northern VA/MD/southeast PA. Damaging gusts will probably accompany the stronger cores and a tornado risk may develop with any sustained supercell structure or mature bowing segment."
+    },
+    {
+      "year": 2020,
+      "number": 382,
+      "issue_utc": "2020-04-13T17:20Z",
+      "topic": "Tornado Watch 119",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0382.html",
+      "summary": "The severe weather threat continues through the afternoon across portions of the mid-Atlantic.",
+      "discussion": "Storms have developed along a cold front currently moving through far western Maryland, southern Pennsylvania, and northern Virginia. These storms have already produced near severe wind gusts of 44 kts in Hagerstown, MD. Temperatures have warmed into the low 70s and dewpoints have increased into the mid 60s F. At least partial clearing ahead of these storms should promote further destabilization with MLCAPE increasing to around 1000 J/kg in the next 1 to 2 hours. Therefore, damaging straight line winds appear likely in a swath across Maryland and southern Pennsylvania and eventually into New Jersey and Delaware with these storms along the cold front. In addition, cells have developed ahead of the front across eastern Maryland, and southeast Pennslylvania. These storms will pose the best threat for a few tornadoes given the better storm mode (mini-supercell), and stronger low-level jet per DOX/DIX VWP. This low-level jet is expected to shift eastward by later this afternoon. This weakening, in addition to low-level veering, should lead to a somewhat reduced tornado threat when the line of storms along the cold front arrives. However, a QLCS tornado or two cannot be ruled out. ..Bentley.. 04/13/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 383,
+      "issue_utc": "2020-04-13T18:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0383.html",
+      "summary": "Isolated damaging winds possible this afternoon along a cold front moving through the Northeast.",
+      "discussion": "A strongly forced line of convection has recently formed in northern PA and southern NY. MLCAPE in this region is 250-500 J/kg per SPC mesoanalysis. Visible satellite shows some breaks in the clouds across eastern New York which will aid in destabilization through the afternoon ahead of the cold front. Therefore, weak instability (250-500 J/kg) is expected to persist ahead of this line as it moves northeast. Low-level lapse rates will be limited across the region which may limit a greater severe weather threat, but there is sufficient instability for isolated damaging winds along the line given the 40-50 kts of flow at 1km per BGM VWP. Trends will continue to be monitored, and a watch may be possible if a more widespread wind damage threat starts to materialize."
+    },
+    {
+      "year": 2020,
+      "number": 384,
+      "issue_utc": "2020-04-13T19:03Z",
+      "topic": "Tornado Watch 119",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0384.html",
+      "summary": "Pockets of strong to severe gusts 50-65 mph gusts will be capable of scattered wind damage through 430pm EDT.",
+      "discussion": "Radar imagery shows a vigorous thunderstorm band over the northern Chesapeake Bay vicinity. KBWI recently recorded an observed severe gust of 61mph at 237pm EDT. The boundary layer has destabilized over the DelMarVa with surface temperatures warming into the upper 60s to lower 70s F. The relatively cool marine influence has limited temperatures to the lower 60s across southern NJ. Given the steeper 0-2 km lapse rates where temperatures are warmer, it seems the risk for severe gusts (60-65 mph) is highest across MD/DE. Nonetheless, the risk for strong gusts will probably include southern NJ with strong horizontal momentum transport protruding through a less-unstable near-surface layer. ..Smith.. 04/13/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 385,
+      "issue_utc": "2020-04-13T20:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0385.html",
+      "summary": "An isolated strong to severe storm or two is expected through the afternoon across northern Florida.",
+      "discussion": "One deeper updraft has developed across northern Florida along a cold front. MLCAPE in this region is 1500 to 2000 per SPC mesoanalysis with effective shear of 45 to 50 knots. This will support some continued storm organization. Storm coverage is expected to remain limited due to weak forcing aloft and relatively weak convergence along the front. However, the current storm and any additional storm or two which can develop will pose a threat for isolated large hail or damaging winds given the favorable thermodynamic and kinematic environment in the region. No watch is anticipated given the isolated and localized threat."
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "convective_day": "2023-07-13",
+  "valid_start": "2023-07-13T12:00Z",
+  "valid_end": "2023-07-14T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2023-07-13",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-13T16:30Z",
+      "valid_end": "2023-07-14T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230713_1630.html",
+      "summary": "Numerous severe thunderstorms are likely today across eastern New York and western Vermont, with scattered severe thunderstorms possible across parts of the Ohio Valley and portions of the southern/central Plains. Damaging winds, large hail, and perhaps a couple of tornadoes are possible in these areas. Isolated very large hail may occur across parts of the central Plains.",
+      "sections": [
+        {
+          "title": "NY into New England",
+          "text": "Water vapor loop shows a strong mid-level shortwave trough moving across southern Ontario, with a surface cold extending extending from Lake Erie into central/eastern OH. A warm front extends east from a surface low over southeast Ontario Province to the coast near Portland, ME. The cold front will move steadily east this afternoon into NY where thunderstorm development is underway, with an increase in coverage likely over the next few hours. Surface dewpoints in the mid 60s and substantial heating will yield pockets of MLCAPE over 2000 J/kg, along with moderately steep low and mid-level lapse rates. Shear profiles are also rather strong, conducive for organized/supercell structures. Thunderstorms are expected to intensify over eastern NY in the Hudson Valley vicinity before spreading into western New England. A mixture of discrete supercell storms and bowing structures is expected, capable of large hail and damaging wind gusts, and perhaps a tornado or two. Storms should weaken during the evening while moving into a more stable environment with time. See recently issued Mesoscale Discussion 1517 for additional details on short-term thinking in this area."
+        },
+        {
+          "title": "KY/WV/OH",
+          "text": "As the cold front sags southward into the upper OH Valley by mid-afternoon, scattered thunderstorms are expected to develop. Sufficient westerly flow aloft and MLCAPE of 1500 to locally 2000 J/kg will promote supercells and organized clusters capable of damaging winds and severe hail."
+        },
+        {
+          "title": "High Plains from SD to TX",
+          "text": "A broad upper-level ridge is present today over the southwest states, with the southern fringe of stronger westerlies extending across CO/KS. A surface dryline will become established by late afternoon extending from the Black Hills vicinity across eastern CO. Forcing will be subtle, however minimal CINH and ample moisture/instability will result in widely scattered intense storms along the dryline, spreading southeastward through the evening. Supercells capable of very large hail appear possible. Storms over western SD/NE, and also over southwest KS and adjacent TX/OK panhandles may persist well into the night and spread eastward across those states. ..Bunting/Weinman.. 07/13/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-07-13",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-13T20:00Z",
+      "valid_end": "2023-07-14T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230713_2000.html",
+      "summary": "Numerous severe thunderstorms are likely today across eastern New York and western Vermont, with scattered severe thunderstorms possible across parts of the Ohio Valley and portions of the southern/central Plains. Damaging winds, large hail, and perhaps a couple of tornadoes are possible in these areas. Isolated very large hail may occur across parts of the central Plains.",
+      "sections": [
+        {
+          "title": "Northeast",
+          "text": "A line of storms continues to push rapidly east across NY, with strong wind gusts measured recently. Instability remains favorable ahead of the line, and heating continues as well. While the primary threat is for damaging winds, effective SRH over 150 m2/s2 and deep-layer shear over 30 kt will also favor a few supercells with hail or brief/weak tornado risk. For more information see mesoscale discussion 1523. Farther south, a relative minimum in thunderstorm coverage is expected over southern PA into MD, and the Slight Risk has been modified in these areas as the severe risk should remain isolated. The primary risk farther south is expected to remain over the OH Valley, WV and western VA."
+        },
+        {
+          "title": "Plains",
+          "text": "Extreme moisture and instability is noted into eastern CO where dewpoints are in the 68-72 F range. The backed/easterly low-level flow beneath moderate high level flow is resulting in long hodographs with around 50 kt effective shear. The result should be very large hail, as well as developing damaging wind threat as storms increase in coverage and blend outflows through the OK/TX Panhandles and into western OK. For more information see mesoscale discussion 1519. ..Jewell.. 07/13/2023 .PREV DISCUSSION... /ISSUED 1119 AM CDT Thu Jul 13 2023/"
+        },
+        {
+          "title": "NY into New England",
+          "text": "Water vapor loop shows a strong mid-level shortwave trough moving across southern Ontario, with a surface cold extending extending from Lake Erie into central/eastern OH. A warm front extends east from a surface low over southeast Ontario Province to the coast near Portland, ME. The cold front will move steadily east this afternoon into NY where thunderstorm development is underway, with an increase in coverage likely over the next few hours. Surface dewpoints in the mid 60s and substantial heating will yield pockets of MLCAPE over 2000 J/kg, along with moderately steep low and mid-level lapse rates. Shear profiles are also rather strong, conducive for organized/supercell structures. Thunderstorms are expected to intensify over eastern NY in the Hudson Valley vicinity before spreading into western New England. A mixture of discrete supercell storms and bowing structures is expected, capable of large hail and damaging wind gusts, and perhaps a tornado or two. Storms should weaken during the evening while moving into a more stable environment with time. See recently issued Mesoscale Discussion 1517 for additional details on short-term thinking in this area."
+        },
+        {
+          "title": "KY/WV/OH",
+          "text": "As the cold front sags southward into the upper OH Valley by mid-afternoon, scattered thunderstorms are expected to develop. Sufficient westerly flow aloft and MLCAPE of 1500 to locally 2000 J/kg will promote supercells and organized clusters capable of damaging winds and severe hail."
+        },
+        {
+          "title": "High Plains from SD to TX",
+          "text": "A broad upper-level ridge is present today over the southwest states, with the southern fringe of stronger westerlies extending across CO/KS. A surface dryline will become established by late afternoon extending from the Black Hills vicinity across eastern CO. Forcing will be subtle, however minimal CINH and ample moisture/instability will result in widely scattered intense storms along the dryline, spreading southeastward through the evening. Supercells capable of very large hail appear possible. Storms over western SD/NE, and also over southwest KS and adjacent TX/OK panhandles may persist well into the night and spread eastward across those states."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2023,
+      "number": 1517,
+      "issue_utc": "2023-07-13T15:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1517.html",
+      "summary": "The threat for damaging winds, hail, and perhaps a couple of tornadoes will increase this afternoon. Watch issuance is likely. Parts of this area will be upgraded to Enhanced Risk (for severe wind gusts) with the 1630Z Day 1 Convective Outlook.",
+      "discussion": "Airmass destabilization is rapidly occurring across NY and vicinity as ample daytime heating has already warmed surface temperatures mostly into upper 70s and 80s. A rather moist low-level airmass is also present based on recent surface dewpoint observations and area 12Z soundings. Further heating of this moist airmass will likely lead to the development of around 1500-2000 J/kg MLCAPE along/ahead of a cold front. This front, coupled with large-scale ascent associated with a shortwave trough ejecting across the Northeast and southern Quebec, will likely foster robust thunderstorm development within the next couple of hours as parcels reach their LFCs. Recent VWPs from KENX and KCXX show a veering and strengthening wind profile with height through mid levels, with around 30-35 kt of deep-layer shear. This should provide sufficient updraft organization to support a mix of cellular and linear modes. Convection developing along the cold front is already beginning to show signs of deepening in far western NY. This trend should continue over the next couple of hours as the front moves eastward across NY. As low-level lapse rates become steep, scattered to numerous damaging downdraft winds will be a concern with any clusters/lines that can become established. Convection that remains at least semi-discrete will pose a threat for hail. The presence of a seasonably strong (25-35+ kt) southerly low-level jet across much of NY and vicinity will also provide sufficient 0-1 km SRH to support some threat for a couple of tornadoes, both with supercells and line-embedded vorticies. Recent (12Z) high-resolution guidance suggests that a mainly linear mode should dominate. Given the increased potential for scattered to numerous damaging/severe winds this afternoon, parts of central/eastern"
+    },
+    {
+      "year": 2023,
+      "number": 1518,
+      "issue_utc": "2023-07-13T17:26Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1518.html",
+      "summary": "Potential for large hail and damaging winds should exist with thunderstorms this afternoon. Severe Thunderstorm Watch issuance is likely.",
+      "discussion": "A surface cold front is draped along/near the Ohio River into southern/eastern OH at 1715Z. A very moist low-level airmass, characterized by surface dewpoints generally in the low 70s, is present along/south of this boundary. Although large-scale ascent remains fairly nebulous, sufficient low-level convergence along the front coupled with the presence of a strong upper jet over the OH Valley appears to be supporting the development of convection across parts of WV early this afternoon. Additional development should occur farther west along/near the Ohio River into northern KY/southern OH. Latest mesoanalysis suggests that upwards of 2000-2500 J/kg of MLCAPE is already available to support robust updrafts, with even stronger instability forecast to develop over the next few hours with continued daytime heating. Various VWPs across this region show weak westerly winds gradually strengthening with height at mid/upper levels. Corresponding speed shear is contributing to around 30-40 kt of deep-layer shear, locally stronger farther west along the Ohio River. Current expectations are for thunderstorms to gradually continue increasing in both coverage and intensity this afternoon as additional diurnal heating occurs. A mix of multicells and supercells posing a threat for both large hail and damaging winds should occur. Given the increasing hail/wind threat, Severe Thunderstorm Watch issuance will likely be needed."
+    },
+    {
+      "year": 2023,
+      "number": 1519,
+      "issue_utc": "2023-07-13T18:09Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1519.html",
+      "summary": "A gradual increase in severe-storm potential is expected during the next couple of hours across parts of eastern CO, and eventually into far western KS. A watch will be needed for parts of the area shortly.",
+      "discussion": "Latest visible satellite imagery and surface observations indicate gradual boundary-layer destabilization across parts of eastern CO -- where moist/east-southeasterly upslope flow (upper 60s/lower 70s dewpoints) are in place beneath an EML plume/steep midlevel lapse rates. As a result, isolated convective initiation is underway along the edge of remnant outflow from earlier thunderstorms in eastern CO. While lingering capping at the base of the EML and antecedent boundary-layer static stability could limit the coverage of storm development in the short-term, continued heating and increasing instability should allow for a gradual increase in development during the next couple of hours. Around 50-60 kt of effective shear (characterized by a long/mostly straight hodograph) and the aforementioned destabilization will favor discrete/semi-discrete supercells capable of producing very large hail and damaging winds. While less certain, a tornado or two cannot be ruled out given the rich/sheltered boundary-layer moisture and discrete/semi-discrete supercell mode. A watch will likely be needed for parts of the area shortly."
+    },
+    {
+      "year": 2023,
+      "number": 1520,
+      "issue_utc": "2023-07-13T18:28Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1520.html",
+      "summary": "Severe-storm risk will continue increasing this afternoon. A watch issuance is possible.",
+      "discussion": "Temperatures are quickly climbing into the lower/middle 80s amid upper 60s boundary-layer dewpoints across parts of southern MN and northern IA -- where a weak low-level confluence zone is evident. As ascent accompanying a subtle midlevel impulse (evident in water vapor imagery) crosses the area, an increase in storm coverage is possible. A unidirectional wind profile characterized by 30-40 kt of effective shear over the area, coupled with continued diurnal destabilization, should support a few organized clusters and perhaps supercell structures capable of large hail and locally damaging winds. Trends are being monitored for a possible watch issuance."
+    },
+    {
+      "year": 2023,
+      "number": 1521,
+      "issue_utc": "2023-07-13T18:36Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1521.html",
+      "summary": "Some threat for damaging winds and hail may exist as thunderstorms move eastward this afternoon. The need for a watch remains unclear, but trends will be monitored.",
+      "discussion": "Scattered thunderstorms have developed this afternoon across parts of the central Appalachians. More isolated activity is attempting to deepen across parts of north-central into northeastern PA, closer to the upper trough over NY and southern Quebec. A surface lee trough is present along/east of the Appalachians/Blue Ridge Mountains, with ample daytime heating acting to steepen low-level lapse rates. Latest mesoanalysis shows a relative minimum in instability along/east of the lee trough across parts of central/eastern VA into central MD and eastern PA. This area appears to have shallower low-level moisture based on area 12Z soundings, and some lingering MLCIN. Still, various RAP/NAM forecast soundings across this region suggest that a well mixed boundary layer will support at least an isolated damaging wind threat with any convection that can spread eastward off the higher terrain this afternoon and evening. Around 25-35 kt of deep-layer shear should also foster some thunderstorm organization, with multicells to marginal supercells possible. Some hail may occur with the strongest cores. With better large-scale ascent focused farther north across NY and New England, overall thunderstorm coverage remains uncertain. The need for a Severe Thunderstorm Watch this afternoon is also unclear, but observational trends will be closely monitored."
+    },
+    {
+      "year": 2023,
+      "number": 1522,
+      "issue_utc": "2023-07-13T18:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1522.html",
+      "summary": "The area is being monitored for increasing severe-storm potential this afternoon. It is unclear if a watch will be needed, though convective trends are being monitored.",
+      "discussion": "Isolated thunderstorm development is underway along a weak confluence zone/wind shift extending east-southeastward across South Dakota this afternoon. This activity is developing along the eastern edge of an EML plume and related steep midlevel lapse rates atop an increasingly unstable boundary layer. Given an uncapped and moderately unstable pre-convective environment, storms may increase in intensity during the next couple of hours. And, 40-50 kt of effective shear (characterized by a long/mostly straight hodograph) should support a mix of organized clusters and splitting supercells capable of producing large hail and severe gusts. While coverage of severe storms is uncertain, convective trends are being monitored for a possible watch this afternoon."
+    },
+    {
+      "year": 2023,
+      "number": 1523,
+      "issue_utc": "2023-07-13T19:20Z",
+      "topic": "Severe Thunderstorm Watch 481",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1523.html",
+      "summary": "The threat for scattered to numerous damaging winds will continue to increase this afternoon.",
+      "discussion": "Convection has generally consolidated along the cold front across western/central NY this afternoon. A moderately to strongly unstable airmass is present along/ahead of these thunderstorms, with MLCAPE of 1500-2000 J/kg estimated by latest mesoanalysis. A couple of discrete thunderstorms with occasional supercell characteristics have developed ahead of the line across northern NY. Isolated severe hail may occur with this activity. Steepened low-level lapse rates (0-3 km layer around 7-8 C/km) will aid in efficient mixing of stronger downdraft winds to the surface. And given the mainly linear nature of the convection ongoing along/near the front, scattered to numerous damaging winds are expected to be the primary severe threat through the rest of the afternoon. A 25-35 kt southerly low-level jet remains focused across NY/VT into southern Quebec. Associated low-level shear appears sufficient to support some updraft rotation and tornado threat with both the discrete thunderstorms ahead of the line and within the line itself. ..Gleason.. 07/13/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1524,
+      "issue_utc": "2023-07-13T19:23Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1524.html",
+      "summary": "The severe-storm risk will likely increase during the next couple of hours, with very large hail and damaging winds possible. A watch issuance is likely for parts of the area this afternoon.",
+      "discussion": "Latest day cloud phase satellite imagery indicates increasingly agitated boundary-layer cumulus along the higher terrain in eastern WY into northern CO, and additional deepening over the Black Hills in western SD. Continued diurnal heating and related orographic ascent should support isolated to widely scattered thunderstorm development during the next couple of hours. As storms intercept increasing boundary-layer moisture (lower/middle 60s dewpoints) beneath steep midlevel lapse rates in the lee of the higher terrain in WY/CO, updrafts should intensify and increase in coverage amid east-southeasterly upslope flow. Weaker instability farther north into the Black Hills casts uncertainty on updraft intensity, though a couple strong storms cannot be ruled out. 40-50 kt of effective shear and generally weak large-scale ascent should favor discrete/semi-discrete supercells initially, with a risk of very large hail and severe gusts. With time, cell-mergers could yield a couple organized east-southeastward-moving clusters with a continued hail risk and increasing damaging-wind potential. A watch will likely be needed for parts of the area this afternoon."
+    },
+    {
+      "year": 2023,
+      "number": 1525,
+      "issue_utc": "2023-07-13T19:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1525.html",
+      "summary": "Severe storms capable of all hazards are expected across parts of northeastern NM into the TX/OK Panhandles this afternoon into the evening. A watch will likely be needed for parts of the area.",
+      "discussion": "Isolated thunderstorms are gradually deepening in northeastern NM and the western TX Panhandle as they impinge on an axis of strong surface-based instability over the TX/OK Panhandles. Within the pre-convective environment, antecedent outflow is yielding a sheltered boundary layer with backed/easterly surface winds and unusually high boundary-layer moisture (middle 70s surface dewpoints). With around 40-50 kt of effective shear across the area, organized storms including supercells are expected. Large hail and damaging winds will be possible with this activity, though a tornado or two cannot be ruled out with any longer-lived, discrete/semi-discrete supercells given a deep effective inflow layer and modest low-level hodograph curvature. A watch will likely be needed for parts of the area by 4pm CDT."
+    },
+    {
+      "year": 2023,
+      "number": 1526,
+      "issue_utc": "2023-07-13T19:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1526.html",
+      "summary": "An isolated hail/wind threat may continue for a few more hours this afternoon. But, watch issuance will probably not be needed.",
+      "discussion": "Thunderstorms have gradually increased in coverage over eastern ND this afternoon along/near a weak surface trough. Persistent west-northwesterly flow aloft strengthens with height at mid/upper levels per recent VWPs from KMVX. Deep-layer shear of 30-40 kt appears sufficient for supercells, but ongoing clustering/updraft interactions lend some uncertainty as to whether thunderstorms will be able to remain at least semi-discrete. Regardless, moderate instability and elongated hodographs aloft should encourage some threat for large hail with any supercell that can persist. Otherwise, isolated severe/damaging winds may occur with any convective downdraft as thunderstorms spread east-southeastward across eastern ND and western MN over the next few hours. At this point, it appears that the overall severe threat will remain isolated enough to preclude watch issuance."
+    },
+    {
+      "year": 2023,
+      "number": 1527,
+      "issue_utc": "2023-07-13T20:42Z",
+      "topic": "Severe Thunderstorm Watch 482",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1527.html",
+      "summary": "Damaging winds and severe hail will remain a concern as thunderstorms move eastward this afternoon and early evening.",
+      "discussion": "Thunderstorms that have matured this afternoon remain confined in a fairly narrow east-west corridor along/near the Ohio River. Some of this convection has exhibited supercellular characteristics, with around 30-40 kt of deep-layer shear providing supporting updraft organization. Strong instability, with MLCAPE ranging from 2000-3000 J/kg, will easily support continued thunderstorm intensity for the next couple of hours. Isolated large hail will remain a possibility with any supercell that remains discrete. Otherwise, damaging winds should become an increasing concern as convection will probably tend to grow upscale into small bowing clusters while moving eastward across northern KY, southern OH and WV. ..Gleason.. 07/13/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1528,
+      "issue_utc": "2023-07-13T21:48Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1528.html",
+      "summary": "Some threat for hail and damaging wind will spread southeastward into this evening. Watch issuance is possible.",
+      "discussion": "A cluster of strong to severe thunderstorms has recently developed across eastern SD, with several reports of severe hail in the last hour. Moderate buoyancy and unidirectional wind profiles with around 30-40 kt of effective shear are supporting occasional supercell structures, and some hail threat may continue as storms approach southwest MN, where a similar environment is in place. Farther north, strong to potentially severe storms are moving from eastern ND into western MN, and may pose a localized hail threat in the short term. With time, some clustering and modest upscale growth of convection is possible. While relatively dry conditions are noted across parts of central MN, steep low/midlevel lapse rates could support some damaging wind threat with any upscale growing cluster by early evening. Watch issuance is possible for some portion of western/central MN, depending on short-term observational trends."
+    },
+    {
+      "year": 2023,
+      "number": 1529,
+      "issue_utc": "2023-07-13T22:21Z",
+      "topic": "Severe Thunderstorm Watch 481",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1529.html",
+      "summary": "Damaging winds and perhaps a brief tornado or two will remain possible in eastern New York into far western Vermont, Massachusetts, and Connecticut. A downstream watch is not anticipated this evening due to a decreasingly favorable thermodynamic environment.",
+      "discussion": "A line of strong to severe thunderstorms continues to move east through eastern New York and into Vermont. A couple discrete storms exist south of Albany as well. The shortwave trough is now lifting northeast into Quebec. While mid-level ascent should decrease with time, some 850 mb flow enhancement will remain as will a slightly better thermodynamic environment in southeastern New York into far western Massachusetts/Connecticut. Damaging wind gusts are expected to be the primary threat over the next 2-3 hours. Area VWP continue to show sufficient low-level veering to support a continued threat of a tornado or two. The best low-level shear is between the Red Hook/Albany vicinity per NY Mesonet profilers. Discrete storms in this area would pose the greatest risk for a brief tornado. Activity is expected to become more marginal with time as the boundary layer cools and mid-level ascent decreases further. A downstream watch is not currently expected this evening. ..Wendt.. 07/13/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1530,
+      "issue_utc": "2023-07-13T22:22Z",
+      "topic": "Tornado Watch 487",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1530.html",
+      "summary": "Supercells capable of very large hail and a couple of tornadoes will likely continue into the early evening.",
+      "discussion": "Intense supercells are ongoing late this afternoon across southeast CO to near the CO/KS border. These supercells are being supported by anomalous low-level moisture (with dewpoints near 70 F), MLCAPE of 2000-3500 J/kg, and effective shear of 50+ kt, and maintenance of these cells is generally expected as they move southward into early evening. Additional development in the wake of the initial cells will also be possible, as low-level moisture advection continues into the higher terrain. Generally long and straight hodographs will continue to support the potential for very large hail. Low-level shear is not particularly strong, but may be sufficient to support the potential for a couple tornadoes, given the magnitude of low-level moisture and instability across the region. Isolated severe gusts will also be possible. ..Dean.. 07/13/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1531,
+      "issue_utc": "2023-07-13T23:07Z",
+      "topic": "Severe Thunderstorm Watch 482",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1531.html",
+      "summary": "The threat for strong/damaging wind gusts should become more isolated through the remainder of the afternoon into the early evening.",
+      "discussion": "A cluster of storms continues eastward in southern West Virginia. These storms will encounter both the Appalachians and a downstream airmass that has already been impacted by convection/cloud cover. Farther west, a broken line of thunderstorms also continues in northern Kentucky along a slowly southward-sagging cold front. These storms have impacted each other frequently given the deep-layer shear parallel to the direction of motion. Furthermore, MRMS radar imagery shows outflow moving away from storms. All these trends suggest that severe potential will be more isolated going forward. Enough buoyancy and shear exist that an isolated strong/damaging wind gusts could occur near and just south of the current activity, particularly if additional storms develop along the outflow. ..Wendt.. 07/13/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1532,
+      "issue_utc": "2023-07-13T23:23Z",
+      "topic": "Severe Thunderstorm Watch 485",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1532.html",
+      "summary": "A supercell capable of very large hail and possibly a tornado may move into parts of northeast NM and adjacent parts of the TX/OK Panhandles. Farther south/southeast, isolated severe wind and hail remain possible into parts of the TX South Plains and southwest OK.",
+      "discussion": "At 2315 UTC, an intense supercell is moving slowly southward across Baca County, CO, and this cell may continue into parts of extreme northeast NM and adjacent portions of the TX/OK Panhandles into this evening. The environment across northern portions of WW 485 remains quite favorable for supercells, with MLCAPE in excess of 2500 J/kg and effective shear of 40+ kt. Very large hail and localized severe gusts will be the primary threats if this supercell persists southward, though a tornado cannot be ruled out given the magnitude of instability and low-level moisture across the region. Farther south, less intense convection is ongoing near Amarillo, where numerous outflows have stabilized the environment somewhat. Deep-layer flow/shear is weaker across the southern part of WW 485, but a few stronger cells capable of localized severe gusts and/or hail will remain possible into early evening. To the southeast of WW 485, another isolated cell developed earlier across western north TX, which has moved into southwest OK. This cell has produced a notable outflow, which could result in strong to severe gusts well removed from the storm. An additional strong storm or two may develop within a very hot and unstable environment on the periphery of this outflow, which in turn could also pose a threat of isolated severe gusts and perhaps some hail. With the threat in this area expected to remain isolated, additional watch issuance is unlikely in the short term. ..Dean.. 07/13/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1533,
+      "issue_utc": "2023-07-14T00:04Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1533.html",
+      "summary": "Small to marginally severe hail is possible until after sunset.",
+      "discussion": "A few marginal supercell storms have formed within a convergence axis from central Wisconsin into northern Illinois. Moderate northwesterly flow aloft will continue to support some storm organization. Given the overall weak forcing, these storms will likely weaken after sunset. Small to marginally severe hail (around 1 inch) may occur on an isolated basis."
+    },
+    {
+      "year": 2023,
+      "number": 1534,
+      "issue_utc": "2023-07-14T00:17Z",
+      "topic": "Severe Thunderstorm Watch 488",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1534.html",
+      "summary": "The threat for severe hail/wind continues across WW 488, and may spread east/southeast of the watch with time. Local expansion of the watch may be considered, but the need for new downstream watch issuance remains uncertain.",
+      "discussion": "At 0015 UTC, several supercells are ongoing across central/southern MN, with a few isolated reports of golf ball to baseball size hail noted with the strongest storms. Low-level moisture remains modest at best across all but southwest MN, but midlevel lapse rates are sufficiently steep for MLCAPE of 1000-1500 J/kg. Unidirectional westerly wind profiles with effective shear of 30-40 kt will remain supportive of splitting supercells this evening, with a continued threat of large hail and localized damaging winds. An eventual weakening trend is expected as nocturnal cooling/stabilization commences across the region, and outflow emanating from an earlier storm cluster across IA stabilizes part of southeast MN. However, some severe threat may spread east/southeast out of WW 488. Local watch expansion may be considered depending on convective trends, but the need for new downstream watch issuance is uncertain at this time."
+    },
+    {
+      "year": 2023,
+      "number": 1535,
+      "issue_utc": "2023-07-14T01:16Z",
+      "topic": "Severe Thunderstorm Watch 484",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1535.html",
+      "summary": "Some threat for hail and localized severe gusts may spread east of WW 484, but downstream watch issuance currently appears unlikely.",
+      "discussion": "Extensive convection is ongoing at 01 UTC across western NE, within an environment characterized by MLCAPE in excess of 1500 J/kg and effective shear of 40+ kt. However, convective mode has become rather messy, and storms have struggled to maintain severe intensity over the last hour or so. Given the favorable environment, some threat for isolated hail and/or severe gusts may continue in the short term, though with nocturnal cooling and increasing MLCINH (which is already rather large on the 00Z LBF sounding), a gradual weakening trend is expected with time. Some severe threat may spread east of WW 484, but unless there is an uptick in storm organization and intensity, downstream watch issuance appears unlikely at this time. Elevated convection could redevelop later tonight over portions of western NE with a localized severe threat, though this may remain isolated and largely occur after the 03 UTC expiration time of WW 484."
+    },
+    {
+      "year": 2023,
+      "number": 1536,
+      "issue_utc": "2023-07-14T01:36Z",
+      "topic": "Tornado Watch 487",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1536.html",
+      "summary": "The threat for very large hail may persist into mid/late evening with ongoing supercells. Watch extension may be considered in southeast CO prior to 02 UTC.",
+      "discussion": "Two intense supercells are moving southward across southeast CO at 0130 UTC, with another supercell near the NM/TX/OK border region. The Baca County, CO supercell may have produced giant hail, based on MRMS hail-size estimates, and the environment will remain favorable for very large hail in the short term, with strong instability and deep-layer shear in place. Also, strengthening easterly surface winds noted across the TX/OK Panhandles and northeast NM may be indicative of increasing low-level shear, and a tornado or two cannot be ruled out with the ongoing intense supercells in this area. While the Baca County supercell may move out of WW 487 prior to the 02 UTC expiration time, some severe threat could linger south of Pueblo, and local watch extension of either WW 483 or WW 487 may be needed depending on convective trends over the next 15-30 minutes. ..Dean.. 07/14/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1537,
+      "issue_utc": "2023-07-14T02:37Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1537.html",
+      "summary": "Some severe-thunderstorm threat may evolve through late evening, and watch issuance is possible depending on short-term convective trends.",
+      "discussion": "Weak elevated convection has been ongoing across western OK for much of the evening, but deeper convection has recently developed near a weak surface boundary across parts of Caddo/Canadian Counties, with cell motion and the radar presentation suggesting these storms are closer to surface based. With extreme low-level moisture and instability in place (as noted in the 00Z OUN sounding) and sufficient deep-layer shear, the environment is favorable for supercells, and a conditional threat for all severe hazards may evolve if any of the ongoing cells can mature and be sustained this evening. With generally limited large-scale ascent and a relatively constrained spatial and temporal window for surface-based development this evening, the need for watch issuance is uncertain, but will be considered if storms continue to increase in coverage and intensity."
+    },
+    {
+      "year": 2023,
+      "number": 1538,
+      "issue_utc": "2023-07-14T03:53Z",
+      "topic": "Severe Thunderstorm Watch 485",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1538.html",
+      "summary": "Some threat for large hail and localized severe gusts may persist for another 1-2 hours. WW 485 has been extended to 06 UTC.",
+      "discussion": "Long-lived supercells continue to move southward across extreme northeast NM into the western TX/OK Panhandles as of 0345 UTC. Modest weakening has been noted with a few of the supercells over the last 30-60 minutes, and this trend will likely continue as MLCINH continues to increase with time. However, with favorable instability and deep-layer shear and the presence of multiple long-lived supercell structures, some threat for large hail and localized severe gusts may persist for another 1-2 hours before MLCINH becomes too prohibitive and/or storms move out of the more favorable instability axis. With this potential in mind, WW 485 has been extended in time and is now scheduled to expire at 06 UTC. ..Dean.. 07/14/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

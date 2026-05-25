@@ -1,0 +1,107 @@
+{
+  "convective_day": "2025-03-03",
+  "valid_start": "2025-03-03T12:00Z",
+  "valid_end": "2025-03-04T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2025-03-03",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2025-03-03T16:30Z",
+      "valid_end": "2025-03-04T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250303_1630.html",
+      "summary": "Thunderstorms should increase late this evening and merge into a squall line overnight across parts of the southern and central Plains. Several tornadoes, scattered to numerous severe wind gusts, and large hail are all possible.",
+      "sections": [
+        {
+          "title": "Southern/Central Plains",
+          "text": "A pronounced upper trough with attendant 80-100 kt mid-level jet will eject eastward from the Great Basin and Southwest across the southern/central High Plains through tonight. As large-scale ascent associated with this system overspreads the High Plains, lee cyclogenesis will occur over eastern CO. This surface low should deepen further late tonight into early Tuesday morning as it develops into western KS, and as a Pacific cold front sweeps east-southeastward over the southern High Plains through the end of the period. Low-level moisture (surface dewpoints generally in the upper 50s to low/mid 60s) over south/central TX this morning will continue to stream northward over the southern/central Plains ahead of the cold front and an eastward-mixing dryline. Current expectations are for a cap to inhibit robust, surface-based thunderstorm development until late this evening, likely after 03Z. Once the large-scale ascent preceding the upper trough and the Pacific cold front begin to intersect with the warm sector, intense thunderstorms should quickly develop over parts of western OK into south-central KS. Steep mid-level lapse rates, cold temperatures aloft, increasing low-level moistur"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2025-03-03",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2025-03-03T20:00Z",
+      "valid_end": "2025-03-04T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250303_2000.html",
+      "summary": "Thunderstorms should increase late this evening and merge into a squall line overnight across parts of the southern and central Plains. Several tornadoes, scattered to numerous severe wind gusts, and large hail are all possible.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "The forecast remains on track, and only minor adjustments were made with this update. In particular, the Marginal Risk was expanded northward into southwest IA, where steepening midlevel lapse rates and sufficient deep-layer shear orthogonal to the low-level front could promote an isolated severe hail risk late in the forecast period. Elsewhere, the Marginal and Slight Risk areas were expanded slightly westward over the southern/central Plains, to account for the latest high-resolution guidance depicting slightly earlier convective initiation in an environment favorable for large hail and severe wind gusts. For additional details, see the previous discussion below. ..Weinman.. 03/03/2025 .PREV DISCUSSION... /ISSUED 1032 AM CST Mon Mar 03 2025/"
+        },
+        {
+          "title": "Southern/Central Plains",
+          "text": "A pronounced upper trough with attendant 80-100 kt mid-level jet will eject eastward from the Great Basin and Southwest across the southern/central High Plains through tonight. As large-scale ascent associated with this system overspreads the High Plains, lee cyclogenesis will occur over eastern CO. This surface low should deepen further late tonight into early Tuesday morning as it develops into western KS, and as a Pacific cold front sweeps east-southeastward over the southern High Plains through the end of the period. Low-level moisture (surface dewpoints generally in the upper 50s to low/mid 60s) over south/central TX this morning will continue to stream northward over the southern/central Plains ahead of the cold front and an eastward-mixing dryline. Current expectations are for a cap to inhibit robust, surface-based thunderstorm development until late this evening, likely after 03Z. Once the large-scale ascent preceding the upper trough and the Pacific cold front begin to intersect with the warm sector, intense thunderstorms should quickly develop over parts of western OK into south-central KS. Steep mid-level lapse rates, cold temperatures aloft, increasing low-level moistur"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2025-03-04",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2025-03-04T01:00Z",
+      "valid_end": "2025-03-04T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2025/day1otlk_20250304_0100.html",
+      "summary": "Thunderstorms are forecast to develop across parts of the southern and central Plains this evening, and continue to increase overnight. A few tornadoes, damaging wind gusts, and large hail are all possible.",
+      "sections": [
+        {
+          "title": "Kansas/Oklahoma/Texas",
+          "text": "Mid-level short-wave troughing -- on the southern periphery of a Four Corners area upper low -- will continue to shift eastward across the southern Rockies and into the central and southern Plains tonight. An associated cold front now over the central and southern High Plains will likewise advance eastward through the end of the period. Ahead of this system, low-level warm/moist advection continues, on strong southeasterly low-level flow. This is resulting in gradual warm-sector destabilization, with an axis of around 1000 J/kg mixed-layer CAPE now evident across portions of western Oklahoma and western North Texas ahead of the front. Over the next couple of hours, storm development is expected to occur -- with storms likely to be slightly elevated initially. Large hail would likely be the primary threat with the initial storms. With time, convection is expected to grow upscale linearly, as the front advances into a steadily destabilizing warm sector. Storms should become increasingly surface-based with time, evolving into an organized/semi-continuous frontal band. By the latter several hours of the period, sufficient surface-based CAPE combined with strong low-level shear, suggest"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2025,
+      "number": 124,
+      "issue_utc": "2025-03-04T01:13Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0124.html",
+      "summary": "Severe thunderstorms posing main a risk for large hail and isolated damaging wind gusts are expected to develop by 03-04z. A severe thunderstorm watch will likely be needed for portions of south-central and southeast Kansas in the next hour or so.",
+      "discussion": "Low-level warm advection across OK/TX into southern KS will persist through the evening and overnight hours ahead of an eastward-advancing surface low (currently centered over southeast CO) and attendant cold front. 00z regional RAOBs from DDC and OUN indicate a robust warm layer/cap atop a cool boundary layer, similar to forecast sounding guidance. Strong large-scale ascent associated with the ejecting upper low/shortwave trough and linear forcing related to the advancing cold front will act to weak inhibition some. However, convection developing by 03-04z is expected to largely remain elevated given a lack of a warmer/more moist boundary layer. Nevertheless, steep midlevel lapse rates (500 mb temps around -17 to -16 C) will support MUCAPE around 1000-2000 J/kg. Strong deep layer flow with effective shear magnitudes greater than 35 kt will likewise foster organized convection. An elevated line of convection, perhaps mixed with some cellular elements, will sweep across south-central/southeast KS during the evening to overnight hours. Initial convection within the first couple of hours will pose a greater risk for large hail if storm mode can maintain cellular characteristics. Otherwise, some risk for isolated damaging gusts also will be possible even with elevated storm given strong low-level flow and restively quick storm motion. While the elevated nature of convection is expected to limit tornado potential across Kansas, low-level wind profiles are quite favorable for rotation. While a brief spin-up cannot be ruled out, the overall tornado risk is expected to remain secondary to large hail and strong gust potential."
+    },
+    {
+      "year": 2025,
+      "number": 125,
+      "issue_utc": "2025-03-04T01:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0125.html",
+      "summary": "Severe thunderstorm potential is expected to rapidly increase by 04z. All severe hazards, including damaging winds, a few tornadoes and large hail are possible late this evening into the overnight hours. A tornado watch will likely be needed by 03z.",
+      "discussion": "Warm advection continues across OK/TX on strengthening low-level south/southeasterly flow. Mid 50s to low 60s F dewpoints are now evident in surface observations with destabilization underway across western OK/northwest TX. The 00z RAOB from FWD indicated a fairly deep boundary layer with a 64 F dewpoint, while OUN showed more marginal moisture, but still a saturated boundary layer to just below 850 mb. Atop the relatively cool but moist boundary layer, capping will likely persist until a cold front and strong large-scale ascent impinges on the region. Forecast soundings suggest convection developing rapidly along the eastward-advancing cold front will struggle to become fully surface-based given somewhat marginal boundary layer dewpoints. However, strong forcing and continued warm advection may be sufficient for sporadic surface-based storms, especially near/south of the Red River. If this occurs, intense low-level shear and favorable hodographs already evident in regional VWP data, suggest some tornado potential is likely both with the developing QLCS and any line-embedded supercells. In addition to tornado potential, steep midlevel lapse rates and cooling aloft, coupled with elongated hodographs above 2-3 km indicated large hail will be possible. This will be most likely early in convective evolution or with any semi-discrete cells that can be maintained. Furthermore, given strength of deep-layer flow and a somewhat fast-moving line of storms, damaging winds also will be likely. A tornado watch will likely be needed in the next hour or so."
+    },
+    {
+      "year": 2025,
+      "number": 126,
+      "issue_utc": "2025-03-04T05:31Z",
+      "topic": "Tornado Watch 17",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0126.html",
+      "summary": "Severe thunderstorms posing a risk of damaging gusts and a few tornadoes will continue to shift east across western/central Oklahoma and portions central/northern Texas the next several hours.",
+      "discussion": "A line of convection across western OK continues to shift east at around 30-40 mph. These storms have been generally been organized given strong vertical shear. However, convection has largely remained elevated given modest boundary layer moisture and poor low-level lapse rates. Nevertheless, a few severe gusts near 60 mph have been noted. Furthermore, a few line-embedded cells have occasionally exhibited modest low-level rotation. This suggests if these storms can become surface-based, the tornado risk would increase given very large, favorably curved hodographs as seen in region VWP data. Convection may intensify with time and southward extent across parts of the Red River vicinity as convection moves into somewhat better quality moisture later tonight. Trends will be monitored and downstream watch issuance may become necessary across parts of eastern OK and north/northeast TX in the next few hours. ..Leitman.. 03/04/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2025,
+      "number": 127,
+      "issue_utc": "2025-03-04T08:38Z",
+      "topic": "Tornado Watch 17",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0127.html",
+      "summary": "The severe storm threat will likely increase over the next several hours, with potential for damaging winds and brief tornadoes. Additional parts of northern Texas may need a watch later this morning.",
+      "discussion": "A line of storms exists along a developing cold front, from central OK across northwest TX and into west-central TX. The line of storms has not been particularly strong over OK, however, the fast-approaching speed max aloft, along with midlevel cooling, is expected to ramp up severe potential across the region over the next several hours. Additional cells are already developing ahead of the line over western parts of North TX, within the warm advection zone where lower 60s F dewpoints are streaming north. Pressure falls continue as well across the area, with 1-2 mb/hr. Recent radar trends suggest the leading midlevel vort is now moving into the San Angelo area with intensifying line of storms. This feature/wave should then proceed northeastward along the front, with various bows producing damaging gusts likely. A few brief tornadoes may also occur, as low level shear is quite strong with 0-1 SRH of 200-300 m2/s2."
+    },
+    {
+      "year": 2025,
+      "number": 128,
+      "issue_utc": "2025-03-04T11:13Z",
+      "topic": "Tornado Watch 18",
+      "url": "https://www.spc.noaa.gov/products/md/2025/md0128.html",
+      "summary": "Damaging winds likely to persist across north Texas into southeast Oklahoma. A brief tornado remains possible as well.",
+      "discussion": "A squall line has gained strength and speed over the past few hours, and will continue to push east across northern TX and southeastern OK. Widespread strong to damaging winds are likely, with substantial/cold downdrafts augmenting the already strong boundary-layer wind gusts well ahead of the line. Recently, a gradually deepening line of convection was noted near Waco, stretching north and intersecting the squall line as it moves into the Metroplex. This intersection may prove favorable for enhanced severe winds over 75 mph, along with stronger cyclonic shear. Given the continued push to the shortwave trough and strong low-level jet, this line should remain severe for several more hours. ..Jewell.. 03/04/2025 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "convective_day": "2023-07-14",
+  "valid_start": "2023-07-14T12:00Z",
+  "valid_end": "2023-07-15T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2023-07-14",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-14T13:00Z",
+      "valid_end": "2023-07-15T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230714_1300.html",
+      "summary": "Severe thunderstorms producing damaging wind and hail are forecast today over much of the central Plains. Isolated damaging gusts or marginal hail will also be possible over parts of the Mid Atlantic and southern New England, the Great Lakes, and the Mid-Mississippi Valley.",
+      "sections": [
+        {
+          "title": "Central Plains",
+          "text": "Morning water vapor imagery and model guidance show a mid-level shortwave trough over NE/SD. A large area of showers and thunderstorms is associated with this trough over NE. Outflow from this convection and large scale forcing will lead to frontogenesis over NE this morning, with the cold front sagging southward into KS by early afternoon. A very moist and unstable air mass will develop ahead of the front, with forecast soundings showing very steep mid-level lapse rates and strengthening deep-layer shear. Thunderstorms are expected to intensify along the front and track southeastward across much of central/eastern KS and vicinity. Early convection may be supercellular with a risk of large hail and damaging winds. Upscale growth into a bowing MCS is likely by evening, with an increased risk of widespread strong/damaging wind gusts. Therefore have added an ENH risk for this scenario. It is uncertain how far southeast this activity will maintain severe intensity this evening/tonight, but have expanded SLGT into northwest AR and more of eastern OK."
+        },
+        {
+          "title": "MO/IA/IL/WI",
+          "text": "The aforementioned surface cold front will move into parts of southern IA, northern MO, northwest IL, and southern WI by afternoon, where scattered thunderstorm development is expected. Moderately strong westerly mid-level winds and ample CAPE will promote a few organized clusters capable of hail and damaging wind gusts for a few hours into the evening."
+        },
+        {
+          "title": "East Coast from NC to New England",
+          "text": "Hot and humid conditions will lead to moderate CAPE across a large area of the eastern US today. A weak shortwave trough over WV will promote the development of widely scattered thunderstorms from NC across the Mid-Atlantic area into southern New England. Winds aloft will be relatively weak (25-30 knots), but the potential will exist for a few slow-moving multicell clusters capable of gusty/damaging wind gusts this afternoon and early evening. ..Hart/Kerr.. 07/14/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-07-14",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-14T16:30Z",
+      "valid_end": "2023-07-15T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230714_1630.html",
+      "summary": "Severe thunderstorms producing damaging winds, with gusts over 75 mph likely, and large hail are forecast today over portions of the central and southern Plains. Isolated damaging gusts or marginal hail will also be possible over parts of the Mid Atlantic and southern New England, the Great Lakes, and the Mid-Mississippi Valley.",
+      "sections": [
+        {
+          "title": "Central and southern Plains",
+          "text": "An ongoing cluster of severe storms was located over southwest/south-central NE at 16z, with a history of large hail and, more recently, severe gusts. This small complex is within a zone of warm advection in the 850 to 700-mb layer, and will likely continue moving southeastward along an instability gradient this afternoon and evening. Aided by steep lapse rates in the midlevels and strong-locally extreme MLCAPE across central KS/central and eastern OK this afternoon, an expected evolution into a fast-moving MCS with significant severe wind gust potential is anticipated. The Enhanced Risk was expanded west over KS based on morning CAM guidance, and also adjusted slightly southward over OK. The Slight and Marginal Risk areas were also expanded south as well-organized and fast-moving MCSs often persist longer than reflected in some operational guidance. Given the CAPE-shear parameter space, supercell potential will also exist with this MCS and an attendant risk for large hail. Farther west, isolated supercell development appears possible across southeast WY/northeast CO late today, along the southern fringe of stronger WNW mid-level flow. Large hail will be possible."
+        },
+        {
+          "title": "MO/IA/IL/WI",
+          "text": "A cold front will move into parts of southern IA, northern MO, northwest IL, and southern WI by afternoon, and scattered thunderstorm development is expected in the vicinity of the front. Moderately strong westerly mid-level winds and ample CAPE will promote a few organized clusters capable of hail and damaging wind gusts for a few hours through this evening."
+        },
+        {
+          "title": "East Coast from NC to New England",
+          "text": "Diurnal heating of a moist air mass (dew points averaging upper 60s-mid 70s) will lead to moderate CAPE across a rather large area this afternoon. A weak shortwave trough will approach the mid-Atlantic states this afternoon, contributing to the development of widely scattered thunderstorms from NC across the Mid-Atlantic into southern New England. Winds aloft will be relatively weak (25-30 knots), but the potential will exist for a few slow-moving multicell clusters capable of gusty/damaging winds this afternoon and early evening. ..Bunting/Weinman.. 07/14/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-07-14",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-14T20:00Z",
+      "valid_end": "2023-07-15T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230714_2000.html",
+      "summary": "Severe thunderstorms producing damaging winds, including some over 75 mph and large hail are forecast today over portions of the central and southern Plains. Isolated damaging gusts or marginal hail will also be possible over parts of the Mid Atlantic and southern New England, the Great Lakes, and the Mid-Mississippi Valley.",
+      "sections": [
+        {
+          "title": "KS/MO/OK",
+          "text": "A substantial MCS is currently moving southeastward across central KS with additional activity extending east along I-70 into northeast KS. The air mass ahead of these storms remains strongly unstable with a warming air mass and 70s F dewpoints. Earlier, GBD measured a wind gust of 52 kt near the tail end of the MCS, with 63 kt measured at TOP and various KS mesonet locations over 60 mph. For more information see mesoscale discussion 1547."
+        },
+        {
+          "title": "MN into WI",
+          "text": "Heating near a surface trough with steep low-level lapse rates and sufficient instability may favor isolated hail or gusty winds, and a Marginal Risk has been added to this region, generally north of the existing cirrus canopy where heating is strongest. ..Jewell.. 07/14/2023 .PREV DISCUSSION... /ISSUED 1130 AM CDT Fri Jul 14 2023/"
+        },
+        {
+          "title": "Central and southern Plains",
+          "text": "An ongoing cluster of severe storms was located over southwest/south-central NE at 16z, with a history of large hail and, more recently, severe gusts. This small complex is within a zone of warm advection in the 850 to 700-mb layer, and will likely continue moving southeastward along an instability gradient this afternoon and evening. Aided by steep lapse rates in the midlevels and strong-locally extreme MLCAPE across central KS/central and eastern OK this afternoon, an expected evolution into a fast-moving MCS with significant severe wind gust potential is anticipated. The Enhanced Risk was expanded west over KS based on morning CAM guidance, and also adjusted slightly southward over OK. The Slight and Marginal Risk areas were also expanded south as well-organized and fast-moving MCSs often persist longer than reflected in some operational guidance. Given the CAPE-shear parameter space, supercell potential will also exist with this MCS and an attendant risk for large hail. Farther west, isolated supercell development appears possible across southeast WY/northeast CO late today, along the southern fringe of stronger WNW mid-level flow. Large hail will be possible."
+        },
+        {
+          "title": "MO/IA/IL/WI",
+          "text": "A cold front will move into parts of southern IA, northern MO, northwest IL, and southern WI by afternoon, and scattered thunderstorm development is expected in the vicinity of the front. Moderately strong westerly mid-level winds and ample CAPE will promote a few organized clusters capable of hail and damaging wind gusts for a few hours through this evening."
+        },
+        {
+          "title": "East Coast from NC to New England",
+          "text": "Diurnal heating of a moist air mass (dew points averaging upper 60s-mid 70s) will lead to moderate CAPE across a rather large area this afternoon. A weak shortwave trough will approach the mid-Atlantic states this afternoon, contributing to the development of widely scattered thunderstorms from NC across the Mid-Atlantic into southern New England. Winds aloft will be relatively weak (25-30 knots), but the potential will exist for a few slow-moving multicell clusters capable of gusty/damaging winds this afternoon and early evening."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2023,
+      "number": 1539,
+      "issue_utc": "2023-07-14T12:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1539.html",
+      "summary": "A southeastward spreading cluster of thunderstorms may begin to intensify more rapidly and become better organized as early as 11 AM-Noon CDT, as it approaches the central Nebraska/Kansas state border vicinity. As this occurs, it may be accompanied by increasing risk for strong surface gusts.",
+      "discussion": "A recent increase in thunderstorm development to the east through south of Mullen NE appears rooted within forcing for ascent due to warm advection in the 850-700 mb layer. This appears to accompany a subtle mid-level perturbation within moderately strong, broadly cyclonic west-northwesterly mid-level flow, which will continue to dig across central Nebraska, toward the lower Missouri Valley, through midday. Of particular note, moistening within the elevated southeasterly to southerly updraft inflow layer is contributing to increasing CAPE. And boundary-layer destabilization, along and south of a developing zone of strengthening differential surface heating across southwestern Nebraska and western Kansas through the central Nebraska/Kansas border area, appears likely to include CAPE increasing in excess of 2000 J/kg by midday. Although the warm advection forcing for ascent may weaken by mid to late morning, southeastward advecting convection may be maintained long enough to encounter increasing inflow of the buoyant boundary-layer air mass. As this occurs, more rapid intensification of thunderstorms may ensue, with strong deep-layer shear contributing to a better organized, upscale growing cluster with increasing potential to produce strong surface gusts."
+    },
+    {
+      "year": 2023,
+      "number": 1540,
+      "issue_utc": "2023-07-14T13:52Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1540.html",
+      "summary": "The potential for damaging winds with a small cluster of thunderstorms remains unclear this morning. Trends will be monitored for possible watch issuance.",
+      "discussion": "A small cluster of thunderstorms ongoing over southern New England is probably tied to modest low-level warm advection and a subtle mid-level perturbation embedded within southwesterly flow aloft extending over much of the Northeast. The airmass downstream of this convection is not particularly unstable this morning, with considerable MLCIN still present per latest mesoanalysis estimates, and by modifying the 12Z OKX sounding for current surface observations. Even so, enhanced mid/upper-level flow noted on the VWP from KBOX is contributing to around 30-40 kt of deep-layer shear, which should continue to foster updraft organization with the cluster as it moves eastward across parts of southern New England over the next couple of hours. The main uncertainty is whether the ongoing thunderstorms will remain slightly elevated, or become surface based with additional daytime heating and modest increases in boundary-layer instability. If the cluster can become surface based, then scattered damaging winds would be possible across parts of CT, RI, and MA. While not immediately likely, convective trends will be closely monitored for possible watch issuance this morning."
+    },
+    {
+      "year": 2023,
+      "number": 1541,
+      "issue_utc": "2023-07-14T15:18Z",
+      "topic": "Severe Thunderstorm Watch 489",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1541.html",
+      "summary": "Severe/damaging winds should become an increasing concern as thunderstorms move southeastward this morning. Some risk for large hail will also exist.",
+      "discussion": "A small cluster of thunderstorms with embedded supercell structures has produced several reports of large hail up to 1.75 inches in diameter across southwestern/central NE over the past couple of hours. This convection is about to reach greater low-level moisture and MLCAPE along/south of a weak surface boundary draped near the NE/KS border. Current expectations are for these thunderstorms to gradually grow upscale into an MCS over the next couple of hours as they spread southeastward along an instability gradient. Scattered severe/damaging winds should become the primary severe threat across south-central NE and north-central KS this morning as this mode transition occurs. But, recent radar imagery still shows a robust supercell on the southwest flank of the cluster, which will likely remain capable of producing large hail in the short term. ..Gleason.. 07/14/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1542,
+      "issue_utc": "2023-07-14T16:24Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1542.html",
+      "summary": "The threat for scattered to numerous severe wind gusts, with some 75+ mph, is expected to increase this afternoon. Some threat for large hail will also exist. Severe Thunderstorm Watch issuance will be needed as thunderstorms spread southeastward from Nebraska into Kansas.",
+      "discussion": "A small cluster/supercell in south-central NE is beginning to show signs of upscale growth and a developing rear-inflow jet based on recent radar imagery from KUEX. Indeed, measured severe wind gusts up to 64 mph have recently been recorded with this cluster. An increasing threat for severe/damaging winds is expected as this activity spreads southeastward this afternoon across much of KS. A moderately to strongly unstable airmass and steep mid-level lapse rates are present over western/central KS, along and south of a convectively reinforced front (reference 12Z DDC sounding). The airmass across eastern KS into western MO is less unstable at the moment. But, continued robust diurnal heating of a very moist low-level airmass across this region will act to increase MLCAPE to around 2500-3000+ J/kg over the next few hours. KS is on the southern periphery of stronger northwesterly mid-level flow. Still, enough deep-layer shear should be present to support continued convective organization, with latest mesoanalysis estimates showing 30-40 kt of effective bulk shear across KS. In addition to the intense cluster/supercell in south-central NE, a separate area of convection has developed along the surface boundary across northeast KS. There is some potential for this activity to also grow upscale into a severe wind producing MCS and impact northeastern KS and parts of western MO. Otherwise, the primary severe wind threat should remain focused with the cluster moving southeastward out of NE and into central/eastern KS this afternoon. A large reservoir of available buoyancy, steep mid-level lapse rates, and an organized/intense bow shown in most convection-allowing guidance all suggest a threat for significant severe/damaging gusts of 75-80+ mph across this region this afternoon. "
+    },
+    {
+      "year": 2023,
+      "number": 1543,
+      "issue_utc": "2023-07-14T17:14Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1543.html",
+      "summary": "Isolated damaging gusts are possible through the afternoon. A watch is not expected.",
+      "discussion": "A loosely organized cluster of storms is tracking eastward across parts of the Mid-South ahead of an MCV. While deep-layer flow/shear is not particularly strong, some flow enhancement associated with the approaching MCV may support briefly organized updrafts embedded within the larger cluster of storms. Ahead of these storms, efficient heating of a very moist air mass (upper 70s/lower 80s dewpoints) is yielding strongly unstable surface-based inflow (characterized by increasingly agitated HCRs streaming across the region). Isolated damaging gusts are possible with this activity through the afternoon -- especially with any localized clusters that develop."
+    },
+    {
+      "year": 2023,
+      "number": 1544,
+      "issue_utc": "2023-07-14T17:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1544.html",
+      "summary": "Locally damaging gusts are possible through the afternoon. A watch is not expected.",
+      "discussion": "Strong diurnal heating amid rich boundary-layer moisture (lower/middle 70s surface dewpoints) is underway across parts of NC and northern SC along/east of the southern Appalachians. Continued destabilization should support an uptick in thunderstorm development during the next couple of hours -- possibly aided by a subtle midlevel impulse crossing the Appalachians. Regional VWP data indicates around 20-25 kt of midlevel flow across the region, which may gradually strengthen through the afternoon -- yielding around 25-35 kt of effective shear. This, combined with the increasingly unstable air mass, should support several loosely organized clusters capable of producing wind damage through the afternoon. The overall severe-risk is expected to remain too isolated/sporadic for a watch."
+    },
+    {
+      "year": 2023,
+      "number": 1545,
+      "issue_utc": "2023-07-14T18:02Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1545.html",
+      "summary": "A few instances of marginally severe hail and damaging gusts are possible across parts of the Mid-Atlantic through the afternoon. A watch is not expected.",
+      "discussion": "Isolated to widely scattered thunderstorms are evolving eastward across parts of southern PA into eastern WV and western VA this afternoon -- where a 1-inch hail report occurred earlier. During the next few hours, this activity will generally spread/develop eastward across the Mid-Atlantic region, where a plume of diurnally steepening low-level lapse rates is developing. Given around 30 kt of effective shear and the increasingly unstable pre-convective environment, marginally severe hail and locally damaging gusts are possible with any stronger multicell clusters or transient supercells that develop. The overall severe threat should remain too isolated/sporadic for a watch."
+    },
+    {
+      "year": 2023,
+      "number": 1546,
+      "issue_utc": "2023-07-14T18:32Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1546.html",
+      "summary": "An isolated hail/wind threat may persist with thunderstorms moving eastward this afternoon. Watch issuance is not anticipated at this time.",
+      "discussion": "A few thunderstorms have developed over parts of Lower MI this afternoon as a subtle mid-level shortwave trough moves eastward across the Great Lakes. Latest surface analysis/observations show a weak trough draped Lower MI, and tendency has been for the more robust convection to form on the eastern side of the trough. Daytime heating of a seasonably moist low-level airmass has contributed to around 500-1500 J/kg of MLCAPE so far this afternoon, with poor mid-level lapse rates limiting greater instability. Even so, the latest VWP from KDTX shows modest boundary-layer winds gradually veering and strengthening with height through 6-8 km AGL. Corresponding 30-35 kt of deep-layer shear should provide enough updraft organization to support some threat for multicells and marginal supercell structures, with some threat for hail and damaging winds. Current expectations are that overall coverage of severe thunderstorms will probably remain isolated enough to preclude watch issuance this afternoon."
+    },
+    {
+      "year": 2023,
+      "number": 1547,
+      "issue_utc": "2023-07-14T19:02Z",
+      "topic": "Severe Thunderstorm Watch 490",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1547.html",
+      "summary": "The severe wind threat is increasing, including the potential for 75-80+ mph gusts. Isolated large hail also remains a concern.",
+      "discussion": "Convection has begun to fill in between two previously separate thunderstorm clusters across central/eastern KS. The eastern cluster, currently approaching Topeka KS and vicinity, has shown signs of an intense rear-inflow jet. Multiple measured severe wind gusts around 60-65 mph have recently been noted with both clusters in KS. The airmass downstream into southern/eastern KS and western MO is strongly unstable, with MLCAPE generally 2500-3500 J/kg. Around 35-45 kt of deep-layer shear will continue to foster convective organization. An intense MCS is still expected to consolidate over the next couple of hours as it moves quickly across southeastern KS into western MO. Given the rather favorable thermodynamic and kinematic parameter space, significant severe/damaging winds upwards of 75-80+ mph appear increasingly likely. Isolated large hail will also remain possible with any embedded supercells. ..Gleason.. 07/14/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1548,
+      "issue_utc": "2023-07-14T19:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1548.html",
+      "summary": "Monitoring the area for increasing severe-storm potential this afternoon. A watch may eventually be needed.",
+      "discussion": "Latest water vapor imagery indicates a low-amplitude impulse embedded in a belt of enhanced west-northwesterly midlevel flow overspreading parts of NE/SD/IA this afternoon. Along the eastern edge of related stratiform rain and cloud coverage ahead of this feature, temperatures are warming into the upper 80s amid lower 70s dewpoints. Continued destabilization coupled with increasing large-scale ascent should promote scattered thunderstorm development during the next couple of hours. Around 30-40 kt of effective shear (characterized by a mostly long/straight hodograph) and steepening midlevel lapse rates will support organized clusters and supercell structures capable of producing large hail and damaging winds. Environmental and convective trends are being monitored for a possible watch for parts of the area this afternoon."
+    },
+    {
+      "year": 2023,
+      "number": 1549,
+      "issue_utc": "2023-07-14T19:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1549.html",
+      "summary": "An isolated large hail and severe wind threat may exist with high-based thunderstorms this afternoon. Watch issuance appears unlikely.",
+      "discussion": "High-based thunderstorms have developed along and east of the higher terrain in southeastern WY. This activity is occurring in a post-frontal, low-level upslope flow regime. Limited low-level moisture behind the cold front should hinder the development of any more than weak instability this afternoon. Still, up to around 1000 J/kg of MUCAPE, along with somewhat steepened mid-level lapse rates, should be enough for robust thunderstorms. A west-northwesterly flow regime aloft is supporting around 30-35 kt of effective bulk shear. Isolated thunderstorms that can persist may acquire occasional supercellular characteristics as they move southeastward this afternoon and early evening, with a related threat for large hail and severe downdraft wind gusts. Overall severe potential should be limited by the weak instability, and watch issuance appears unlikely at this time."
+    },
+    {
+      "year": 2023,
+      "number": 1550,
+      "issue_utc": "2023-07-14T20:10Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1550.html",
+      "summary": "A couple instances of marginally severe hail and locally damaging gusts are possible across parts of southern/central MN into northwestern WI into early evening. A watch is not expected.",
+      "discussion": "A few loosely organized thunderstorms are tracking eastward across parts of southwestern/south-central MN this afternoon -- generally focused along a NNE/SSW-oriented surface trough. Ahead of this activity, differential heating along the northern edge of widespread cloud coverage should provide a favorable corridor across parts of southern/central MN into northwestern WI for the maintenance of this activity into the early evening time frame. A plume of steep midlevel lapse rates across the area and an elongated/straight hodograph (around 30 kt of effective shear) could support marginal supercell structures and loosely organized clusters capable of producing marginally severe hail and locally damaging winds. Overall, the severe threat is expected to remain too marginal/isolated for a watch."
+    },
+    {
+      "year": 2023,
+      "number": 1551,
+      "issue_utc": "2023-07-14T20:52Z",
+      "topic": "Severe Thunderstorm Watch 490",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1551.html",
+      "summary": "The threat for numerous severe wind gusts continues, some of which may be 75+ mph. Downstream Severe Thunderstorm Watch issuance into parts of northern Oklahoma and northwestern AR will likely be needed.",
+      "discussion": "Multiple severe bowing segments are ongoing this afternoon from parts of south-central into eastern KS and far west-central MO. The eastern cluster now approaching the Kansas City metro has produced several measured and estimated severe wind gusts, mostly in the 60-75 mph range, along with some damage reports. In the short term, the airmass downstream of these clusters should remain favorable for continued updraft intensity and damaging wind potential. Eventually, the eastern cluster may encounter a somewhat less favorable thermodynamic environment across southwestern MO and vicinity, where convective overturning occurred earlier this morning. The southern cluster in south-central to southeastern KS should approach north-central into northeastern OK over the next couple of hours, with around 2500-3000 J/kg of MLCAPE present across this area. The threat for severe/damaging winds will likely extend south of the ongoing Severe Thunderstorm Watches, and additional watch issuance into parts of northern OK and northwestern AR will likely be needed."
+    },
+    {
+      "year": 2023,
+      "number": 1552,
+      "issue_utc": "2023-07-14T21:00Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1552.html",
+      "summary": "The severe-storm risk will increase across the central and southern High Plains during the next few hours. A watch may eventually be needed for parts of the area.",
+      "discussion": "Latest visible satellite imagery and surface observations indicate a surface boundary/wind shift extending east-northeastward from northeastern NM into southwestern KS, where it intersects a southward-moving outflow boundary associated with an MCS farther east. In the near-term, an isolated thunderstorm is attempting to deepen along the wind shift in northeastern NM, where a long/straight hodograph and steep deep-layer lapse rates will support supercells capable of large hail and severe gusts. Farther east, boundary-layer cumulus is deepening across parts of southwestern KS into the OK Panhandle ahead of the southward-advancing outflow, and additional thunderstorm development is possible here during the next few hours. Similar to northeastern NM, a moderately unstable air mass and around 40-50 kt of effective shear will support organized storms including supercells capable of large hail and damaging winds. Convective evolution is somewhat unclear across this area, though current thinking is that a watch may eventually be needed for parts of the area."
+    },
+    {
+      "year": 2023,
+      "number": 1553,
+      "issue_utc": "2023-07-14T22:00Z",
+      "topic": "Severe Thunderstorm Watch 491",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1553.html",
+      "summary": "A threat for severe wind gusts will likely extend into central/east-central Missouri. There is some uncertainty how far east the organized bowing segment will progress.",
+      "discussion": "Long radar/satellite loops indicate outflow from prior convection has reached near the I-70 corridor in Missouri. A cluster of convection has developed north-northwest of St. Louis in a weakly sheared environment. Outflow has quickly spread away from this cluster. The well-organized bowing structure (with a history of measured severe gusts and wind damage) now in the eastern Kansas City suburbs should continue to the east likely just south of the primary outflow boundary where the airmass has at least slowly tried to recover this afternoon. The overall eastern extent of the severe threat with the bowing segment is somewhat in doubt given the outflow from the weak convection that may spread southward ahead of it. Shear should at least modestly increase with time given the approach of an upstream shortwave trough. The thermodynamic environment and storm-scale organization trends will likely be the modulators of the severe threat duration. ..Wendt.. 07/14/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1554,
+      "issue_utc": "2023-07-14T22:46Z",
+      "topic": "Severe Thunderstorm Watch 491",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1554.html",
+      "summary": "An intense bowing segment has continued to report measures severe wind gusts over the past hour. This activity will continue into southwest Missouri. Despite some less favorable thermodynamics downstream, the threat for wind damage and severe gusts will persist for a few more hours.",
+      "discussion": "An intense bowing segment in southeast Kansas will continue into southwest Missouri. Recent ASOS observations from Chanute, KS measured 60 kts and the Yates Center, KS mesonet site measured 73 kts, both near the apex of the bow. The downstream environment will remain favorable in southeast Kansas. Greater uncertainty exists into southwest Missouri where outflow has impacted the overall surface-based instability. Temperatures have risen into the upper 80s/lower 90s F and objective analysis has indicated some increase in MLCAPE as a result, however. Given the storm-scale organization, the threat for wind damage and severe wind gusts will likely continue even with slightly less favorable thermodynamics. ..Wendt.. 07/14/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1555,
+      "issue_utc": "2023-07-14T23:11Z",
+      "topic": "Severe Thunderstorm Watch 492",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1555.html",
+      "summary": "A threat for isolated hail and locally damaging gusts will continue this evening.",
+      "discussion": "A broken line of thunderstorms that developed across eastern IA this afternoon is now approaching northwest IL. These storms developed along a weak surface trough, with some upper support being provided by a midlevel shortwave trough now moving across parts of MN. With favorable downstream low-level moisture and instability, storms will likely persist for much of the evening as they spread farther into northwest IL. Despite the favorable thermodynamic environment, storms have been relatively disorganized thus far. While modest midlevel westerlies are supporting marginally favorable deep-layer shear, low-level flow is quite weak across the region, and storms have quickly become outflow dominant thus far. Some outflow consolidation remains possible this evening, which could result in an uptick in damaging-wind potential. Sporadic hail will also be possible with the strongest storms, though the threat may tend to remain rather isolated. ..Dean.. 07/14/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1556,
+      "issue_utc": "2023-07-14T23:48Z",
+      "topic": "Severe Thunderstorm Watch 493",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1556.html",
+      "summary": "Strong to severe wind gusts remain possible with a line of storms moving into north-central and northeast Oklahoma.",
+      "discussion": "A line of strong/severe storms continues to sag southward into northern Oklahoma this evening. Strong buoyancy is in place in northeastern Oklahoma per objective mesoanalysis. Given deep-layer shear parallel to the line, there has been less tendency for stronger bowing segments to develop within this line as compared to activity in southeastern Kansas and MRMS radar mosaic shows outflow slightly ahead of the line. So far, Oklahoma mesonet wind gust data shows several 40-55 mph wind gusts in northern Oklahoma. Even so, strong cold-pool dynamics (surface observations showing around 20 F drop in temperature behind the line) will support a continued threat for strong/severe wind gusts over the next 1-3 hours. ..Wendt.. 07/14/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1557,
+      "issue_utc": "2023-07-15T00:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1557.html",
+      "summary": "A new severe thunderstorm watch may be needed for parts of central Arkansas this evening as storms may maintain some intensity. Damaging wind gusts would be the primary hazard.",
+      "discussion": "A line of strong to severe storms is moving southeast and will enter northwest Arkansas soon. The most favorable thermodynamic environment resides in northeastern/east-central Oklahoma. The observed 00Z LZK sounding showed steep mid-level lapse rates and adequate shear for storm organization. However, there is also capping noted around 800 mb. As long as sufficient lift is present with the cold pool, some risk for strong/damaging winds will exist into parts of central Arkansas this evening. A watch may be needed for parts of the area."
+    },
+    {
+      "year": 2023,
+      "number": 1558,
+      "issue_utc": "2023-07-15T01:23Z",
+      "topic": "Severe Thunderstorm Watch 492",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1558.html",
+      "summary": "Some threat for damaging wind may spread east of WW 492, so the watch will be locally expanded.",
+      "discussion": "A modestly organized line of storms has accelerated eastward across northern IL, with a few reports of tree damage recently noted. Moderate buoyancy and marginally favorable deep-layer shear (as noted on the 00Z ILX sounding) will continue to support a short-term threat of damaging wind, with some threat potentially spreading east of WW 492 into parts of northeast IL, where low-level lapse rates remain modestly steepened within a warm and moist environment this evening. WW 492 will be expanded eastward to reflect the potential damaging-wind threat over the next 1-2 hours. ..Dean.. 07/15/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1559,
+      "issue_utc": "2023-07-15T01:28Z",
+      "topic": "Severe Thunderstorm Watch 493",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1559.html",
+      "summary": "Storms in northwest Oklahoma appear likely to impact parts of central Oklahoma this evening. While they may be slightly elevated, large hail and isolated strong/damaging winds may still occur. A new watch or local extension of WW 493 may be needed.",
+      "discussion": "A few strong/severe storms have developed along a southward moving outflow boundary in northwest Oklahoma late in the afternoon. Large hail has been reported with these storms in Woodward. With the outflow continuing to move south per local radar imagery/surface observations, these storms may have a tendency to become slightly elevated. With steep mid-level lapse rates and moderate deep-layer shear observed on the 00Z Norman sounding, large hail will continue to be a possibility. Strong/damaging wind gusts would be possible with storms that can remain south of the outflow or if storms can grow upscale with time. The overall coverage of storms into central Oklahoma is not certain given the MLCIN also observed on the Norman sounding, weak low-level convergence, and an expected weak low-level jet. Depending on convective trends, a new watch or local extension of WW 493 may be needed. ..Wendt.. 07/15/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1560,
+      "issue_utc": "2023-07-15T02:29Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1560.html",
+      "summary": "Some damaging-wind threat may spread eastward late this evening. Watch issuance is possible.",
+      "discussion": "A small bowing segment has recently intensified across northeast IL, with a 53 kt gust recently observed in Aurora, IL. Some uptick in storm intensity has also been noted into central IL. The downstream environment into northern IN and southwest lower MI is not as unstable, but some low-level moistening from the southwest, in conjunction with continued support from a midlevel shortwave trough moving across the Great Lakes, may help to sustain these storms as they move eastward late this evening. While nocturnal cooling has commenced, a residual well-mixed boundary layer resulting from earlier diurnal heating/mixing may continue to support a threat of locally damaging gusts as storms spread across northern IN and Lake Michigan into southwest lower MI. Depending on trends over the next 30-60 minutes, watch issuance is possible."
+    },
+    {
+      "year": 2023,
+      "number": 1561,
+      "issue_utc": "2023-07-15T02:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1561.html",
+      "summary": "A well-organized bowing segment is ongoing in north-central Arkansas. Wind damage will be possible in the short term with this activity. A downstream severe thunderstorm watch may be considered if organization/intensity trends hold.",
+      "discussion": "Radar presentation and velocity data from KSGF and KLZK suggest that a well-organized bowing segment is ongoing in north-central Arkansas. Cooling downstream has been relatively modest this evening given how moist the airmass is. Even so, objective mesoanalysis shows a reduction in MLCAPE to around 1500 J/kg MLCAPE. Showers and isolated thunderstorms are also occurring ahead of the bow and lends additional uncertainty with regard to the quality of thermodynamic environment. Even so, the organization of the bow would suggest a threat of wind damage could persist into the later evening. Should convective trends hold, a downstream severe thunderstorm watch may be considered for parts of northeast Arkansas and perhaps the Missouri Bootheel. Uncertainty increases farther east into western Tennessee."
+    }
+  ]
+}

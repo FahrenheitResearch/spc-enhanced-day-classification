@@ -1,0 +1,161 @@
+{
+  "convective_day": "2022-06-17",
+  "valid_start": "2022-06-17T12:00Z",
+  "valid_end": "2022-06-18T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2022-06-17",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-06-17T16:30Z",
+      "valid_end": "2022-06-18T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220617_1630.html",
+      "summary": "Scattered damaging wind swaths are expected through about sunset across the central/southern Appalachians to the South/Lower-Mid Atlantic Coast. Isolated significant severe wind gusts are possible across a portion of eastern Montana and northeast Wyoming centered on early evening. Isolated significant severe hail is possible across northwest Montana from late afternoon through tonight.",
+      "sections": [
+        {
+          "title": "KY/TN to the Lower Mid-Atlantic and Southeast",
+          "text": "Remnants of a long-lived MCS continue to move generally east-southeast across portions of KY/TN, with forward propagation driven by renewed updrafts along the large-scale convective outflow. It is plausible that this process will continue all the way to the Atlantic Coast through sunset. More organized cold pool potential will exist from eastern KY to southern VA/northern NC. Here, stronger 700-500 mb westerlies along the southern periphery of a robust mid-level jet over the Northeast will be coupled with the trailing portion of a surface cold front. Otherwise, hot temperatures will support a well-mixed boundary layer with scattered damaging wind swaths from strong to locally severe wind gusts across the Carolinas to GA."
+        },
+        {
+          "title": "Northern High Plains",
+          "text": "West of the midlevel ridge over the Plains and east of a deep trough near the West Coast, lee trough development is expected across the High Plains. This trough should focus isolated, high-based thunderstorm development during the late afternoon to early evening immediately east of the higher terrain from eastern WY northward into eastern MT. A very warm elevated mixed layer will tend to cap the more moist boundary layer east of the lee trough and along a warm front into eastern MT. This, combined with largely meridional flow aloft, will keep convection close to the trough and higher terrain. Given the very steep low to mid-level lapse rates, a spatiotemporally confined corridor of scattered severe wind gusts with isolated significant severe wind gusts may occur."
+        },
+        {
+          "title": "Northwest MT",
+          "text": "Along and to the cool side of a quasi-stationary front draped across the northern Rockies, multiple rounds of discrete supercell development are possible during the period. The first will be diurnally focused during the late afternoon to early evening, with perhaps another round overnight as mid-level DCVA increases with approach of the West Coast trough. Strong mid to upper-level speed shear coupled with very steep mid-level lapse rates will support a primary threat of large hail."
+        },
+        {
+          "title": "New England",
+          "text": "Broken convection is ongoing across ME into western MA, along the eastern edge of surface-based instability. Pockets of greater surface heating are apparent ahead of this activity, mainly from MA to far southwest ME. Mid-level lapse rates will remain poor and forcing for ascent will be modest, which suggests that updrafts will not be particularly robust. However, long, mostly straight hodographs, with effective bulk shear in excess of 40 kt could support a few storms with strong/damaging gusts and marginally severe hail. ..Grams/Weinman.. 06/17/2022"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-06-17",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-06-17T20:00Z",
+      "valid_end": "2022-06-18T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220617_2000.html",
+      "summary": "Scattered damaging wind swaths are expected through about sunset across the central/southern Appalachians to the South/Lower-Mid Atlantic Coast. Isolated significant severe wind gusts are possible across a portion of eastern Montana and northeast Wyoming centered on early evening. Isolated significant severe hail is possible across northwest Montana through tonight.",
+      "sections": [
+        {
+          "title": "20z Update",
+          "text": "The main changes to the 20z outlook have been to trim behind ongoing convection from the South to the Mid-Atlantic and New England coast areas. The overall forecast philosophy remains unchanged from the prior outlook, with a swath of damaging wind possible across parts of northern GA into the Carolinas/Virginia through this evening. A small southward adjustment into north-central CO has been made to the Marginal risk area. Strong storms have been noted over higher terrain in Boulder County. This activity is within a similar environment to that further north, and may produce gusty winds and marginally severe hail as cells track toward the northeast. No changes have been made to the Slight and Marginal risk areas across northwest MT/northern ID. ..Leitman.. 06/17/2022 .PREV DISCUSSION... /ISSUED 1124 AM CDT Fri Jun 17 2022/"
+        },
+        {
+          "title": "KY/TN to the Lower Mid-Atlantic and Southeast",
+          "text": "Remnants of a long-lived MCS continue to move generally east-southeast across portions of KY/TN, with forward propagation driven by renewed updrafts along the large-scale convective outflow. It is plausible that this process will continue all the way to the Atlantic Coast through sunset. More organized cold pool potential will exist from eastern KY to southern VA/northern NC. Here, stronger 700-500 mb westerlies along the southern periphery of a robust mid-level jet over the Northeast will be coupled with the trailing portion of a surface cold front. Otherwise, hot temperatures will support a well-mixed boundary layer with scattered damaging wind swaths from strong to locally severe wind gusts across the Carolinas to GA."
+        },
+        {
+          "title": "Northern High Plains",
+          "text": "West of the midlevel ridge over the Plains and east of a deep trough near the West Coast, lee trough development is expected across the High Plains. This trough should focus isolated, high-based thunderstorm development during the late afternoon to early evening immediately east of the higher terrain from eastern WY northward into eastern MT. A very warm elevated mixed layer will tend to cap the more moist boundary layer east of the lee trough and along a warm front into eastern MT. This, combined with largely meridional flow aloft, will keep convection close to the trough and higher terrain. Given the very steep low to mid-level lapse rates, a spatiotemporally confined corridor of scattered severe wind gusts with isolated significant severe wind gusts may occur."
+        },
+        {
+          "title": "Northwest MT",
+          "text": "Along and to the cool side of a quasi-stationary front draped across the northern Rockies, multiple rounds of discrete supercell development are possible during the period. The first will be diurnally focused during the late afternoon to early evening, with perhaps another round overnight as mid-level DCVA increases with approach of the West Coast trough. Strong mid to upper-level speed shear coupled with very steep mid-level lapse rates will support a primary threat of large hail."
+        },
+        {
+          "title": "New England",
+          "text": "Broken convection is ongoing across ME into western MA, along the eastern edge of surface-based instability. Pockets of greater surface heating are apparent ahead of this activity, mainly from MA to far southwest ME. Mid-level lapse rates will remain poor and forcing for ascent will be modest, which suggests that updrafts will not be particularly robust. However, long, mostly straight hodographs, with effective bulk shear in excess of 40 kt could support a few storms with strong/damaging gusts and marginally severe hail."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2022,
+      "number": 1204,
+      "issue_utc": "2022-06-17T13:48Z",
+      "topic": "Severe Thunderstorm Watch 381",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1204.html",
+      "summary": "The threat for damaging wind gusts continues within the Severe Thunderstorm Watch area, and new downstream watches will be needed soon.",
+      "discussion": "A severe MCS continues to move east/southeast across southern IN and western KY at 1345z, with recent reports of wind damage and measured severe gusts. The downstream environment will continue to destabilize given strong daytime heating of a very moist air mass characterized by surface dew points in the 70s and PW values in excess of 1.75 inches. Although deep-layer shear is generally less than 25 kts, the established cold pool and continued favorable thermodynamic environment with east/southward extent suggests the severe threat will continue into the afternoon. As a result, one or two downstream Severe Thunderstorm Watches will be needed soon."
+    },
+    {
+      "year": 2022,
+      "number": 1205,
+      "issue_utc": "2022-06-17T16:06Z",
+      "topic": "Severe Thunderstorm Watch 382",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1205.html",
+      "summary": "The risk for damaging winds and isolated large hail continues across the watch area, and a downstream watch is possible by 18z across northern portions of Alabama and Georgia.",
+      "discussion": "A long-lived severe MCS continues to move south/southeast across Severe Thunderstorm Watch 382 at 16z, with more recent thunderstorm development along the gust front across Middle TN aiding maintenance of strong/severe wind gust potential. The downstream thermodynamic environment continues to destabilize, and ample heating will result in strong instability by early afternoon with MLCAPE in excess of 2500 J/kg. Based on current trends, the risk for damaging winds and perhaps isolated large hail may increase across northern portions of AL/GA, and a new downstream Severe Thunderstorm Watch is possible prior to 18z."
+    },
+    {
+      "year": 2022,
+      "number": 1206,
+      "issue_utc": "2022-06-17T16:40Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1206.html",
+      "summary": "A gradual increase in thunderstorm coverage and intensity is expected this afternoon, with strong/locally damaging winds possible with the strongest storms. Although a watch is not currently anticipated, trends in thunderstorm development and coverage are being monitored.",
+      "discussion": "Midday visible satellite imagery reveals gradual erosion of low clouds across eastern/southern portions of the discussion area, with daytime heating contributing to MLCAPE of 500 to locally 1500 J/kg in advance of the cold front. Composite radar/lightning detection data show thunderstorms continuing to develop across portions of ME, NH and western MA. Further heating should result in pockets of moderate MLCAPE despite generally poor midlevel lapse rates. Additional thunderstorm development is anticipated as ascent associated with an upper trough pivots east across the discussion area this afternoon. Strong low/midlevel flow will result in southwesterly effective shear values in excess of 50 kts, supporting organized storm modes including line segments and perhaps supercell structures. Steepening low-level lapse rates will increase the strong/locally damaging wind potential with the stronger storms. Although coverage of the severe risk is expected to remain isolated, trends will continue to be monitored."
+    },
+    {
+      "year": 2022,
+      "number": 1207,
+      "issue_utc": "2022-06-17T16:53Z",
+      "topic": "Severe Thunderstorm Watch 383",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1207.html",
+      "summary": "The severe threat continues across eastern portions of Severe Thunderstorm Watch 383, and a new watch will be needed farther east prior to 18z.",
+      "discussion": "Severe thunderstorms continue along the leading edge of a severe MCS across eastern KY at 1650z. Leading edge reflectivities have increased recently as the MCS moves into a strongly unstable air mass characterized by MLCAPE at or above 3000 J/kg and little convective inhibition based on deepening cumulus. Current indications are that the convective system will continue moving generally east this afternoon into a very favorable thermodynamic environment supporting a continued damaging wind threat. Isolated large hail also remains possible with the most intense updrafts. Deep-layer shear should increase modestly this afternoon, further supporting a forward-propagating MCS. A watch will be issued shortly."
+    },
+    {
+      "year": 2022,
+      "number": 1208,
+      "issue_utc": "2022-06-17T18:33Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1208.html",
+      "summary": "The risk for damaging winds is increasing across western North Carolina and northwest North Carolina. A Severe Thunderstorm Watch will likely be needed prior to 19z.",
+      "discussion": "The leading edge of outflow associated with a long-lived MCS will move into the discussion area this afternoon, with thunderstorm development likely to increase within a moist, moderately unstable and largely uncapped environment. Effective shear is likely to increase somewhat over the next few hours, increasing the potential for more organized storms. The 12z NSSL-WRF high-res guidance suggests redevelopment of storms over the next few hours within this area, with a risk for damaging gusts and perhaps isolated large hail. Given these expectations, a Severe Thunderstorm Watch will likely be needed prior to 19z."
+    },
+    {
+      "year": 2022,
+      "number": 1209,
+      "issue_utc": "2022-06-17T19:07Z",
+      "topic": "Severe Thunderstorm Watch 384",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1209.html",
+      "summary": "The severe threat continues over mainly southern and eastern portions of Severe Thunderstorm Watch 384. A downstream watch will be needed, likely by 21z.",
+      "discussion": "The damaging wind potential continues across primarily across southern/eastern portions of Severe Thunderstorm Watch 384, in association with discrete development/propagation of new cells along the leading edge of outflow with a long-lived MCS. Strong diurnal heating downstream across much of Virginia and northern North Carolina has resulted in MLCAPE of 1500 to 2500 J/kg, along with steep low-level lapse rates in excess of 8 deg C/km. This will result in a favorable environment for east-southeast movement of the MCS through the remainder of this afternoon and evening. Damaging winds will continue to the primary severe hazard, although isolated instances of severe hail will also be possible. Convective trends will continue to be monitored and a new Severe Thunderstorm Watch will likely be required prior to 21z, possibly as far east as the coastal waters from the northern Outer Banks to the southern Delmarva."
+    },
+    {
+      "year": 2022,
+      "number": 1210,
+      "issue_utc": "2022-06-17T20:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1210.html",
+      "summary": "Strong to severe storm potential should gradually increase across parts of northeast Wyoming into southeast Montana through the afternoon. Isolated large hail and strong to locally severe gusts will be the main concerns. Trends will be monitored for possible watch issuance.",
+      "discussion": "Isolated to widely scattered high-based convection will continue spreading/developing northward off the higher terrain across parts of eastern Wyoming this afternoon. As the boundary layer continues to deepen beneath a modest increase in midlevel moisture (per water vapor imagery), 35-45 kt of effective bulk shear and steep midlevel lapse rates should support a few organized updrafts capable of large hail and strong to locally severe gusts. While low-level convergence should continue strengthening in the vicinity of a lee trough, generally weak large-scale ascent over the area casts uncertainty on the overall coverage of strong to severe storms. Trends will continue to be monitored, and a watch could eventually be needed for parts of the area."
+    },
+    {
+      "year": 2022,
+      "number": 1211,
+      "issue_utc": "2022-06-17T20:30Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1211.html",
+      "summary": "A small cluster of severe thunderstorms will likely continue to propose a severe wind risk through early evening. A watch is not currently anticipated, although convective trends will continue to be monitored.",
+      "discussion": "Radar at 2025z shows a small cluster of strong/severe thunderstorms over northwest Alabama north of Tuscaloosa along a southward-moving outflow boundary. The storms have produced isolated reports of wind damage, and downstream environmental conditions suggest the severe potential will continue for at least a few hours. MLCAPE of 3000 J/kg, steep low-level lapse rates and a local maxima in PW values will contribute to water-loaded downdrafts capable of damaging winds and perhaps isolated large hail. The severe threat is currently expected to remain localized, and a watch is not expected."
+    },
+    {
+      "year": 2022,
+      "number": 1212,
+      "issue_utc": "2022-06-17T21:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1212.html",
+      "summary": "Though intense storm coverage will be limited, the environment will favor supercells capable of large/very-large hail and damaging wind gusts. Trends will continue to be monitored for a possible watch.",
+      "discussion": "Water vapor imagery indicates increasing large scale ascent within the northern Rockies region. Low 50s F dewpoints remain within northern parts of Montana. Modifying the 18Z TFX sounding for current conditions suggest most of the capping inversion has already mixed out. The expectation is for isolated storms to eventually develop within the terrain of west-central Montana and move into richer low-level moisture to the north. The observed sounding sampled a near 9 C/km mid-level lapse rate. Despite only 1000-1500 J/kg MLCAPE, these lapse rates and strong effective shear (over 50 kts) will support organized storms so long as they can persist and mature. Large hail (some 2+ inches) would be possible with supercells. Even with weaker and less organized convection, wind gusts approaching severe limits would be possible given the dry/well-mixed boundary layer. With only isolated activity expected, the need for a watch is not clear. However, a couple of intense storms are possible. Trends will be monitored for a possible watch later this afternoon. ..Wendt.. 06/17/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1213,
+      "issue_utc": "2022-06-17T22:01Z",
+      "topic": "Severe Thunderstorm Watch 385",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1213.html",
+      "summary": "Increasing thunderstorm development, gradually evolving into growing clusters, will be accompanied by increasing outflow with strong surface gusts through 8-9 PM. Occasional localized gusts may exceed severe limits, and becoming potentially damaging. A new severe weather watch probably will be issued downstream of WW 385 before it expires.",
+      "discussion": "In areas not impacted by ongoing convective development, a strongly heated (temps in the mid/upper 90s F) and seasonably moist boundary-layer appears characterized by steep lapse rates and CAPE in excess of 2000 J/kg. This should support substantive continuing upscale growth of convection, ahead of a conglomerate outflow boundary now advancing to the southeast of the southern Appalachians. Propagation off the higher terrain is being aided by weak to modest (10-20 kt northwesterly deep-layer mean flow), which may be sufficiently strong, coupled with the thermodynamic profiles and precipitation loading, to support strong surface gusts at least occasionally approaching 50 kt. ..Kerr.. 06/17/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

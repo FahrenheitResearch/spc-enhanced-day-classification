@@ -1,0 +1,270 @@
+{
+  "convective_day": "2022-05-04",
+  "valid_start": "2022-05-04T12:00Z",
+  "valid_end": "2022-05-05T12:00Z",
+  "max_risk": "MDT",
+  "product_counts": {
+    "ENH": 2,
+    "MDT": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2022-05-04",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-05-04T12:00Z",
+      "valid_end": "2022-05-05T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220504_1200.html",
+      "summary": "Severe thunderstorms capable of producing tornadoes and very large hail should occur mainly this afternoon and evening from the eastern Texas Panhandle and northwest Texas across parts of southern, central, and eastern Oklahoma. A couple of strong tornadoes will be possible within this corridor. Damaging winds will also be a concern across much of Oklahoma into the Ozarks this evening and tonight, with a continued threat of isolated tornadoes.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A upper trough/low will move slowly eastward today from the Rockies across the southern/central High Plains. A 50-60 kt mid-level southwesterly jet will extend from the southern High Plains across much of OK/KS by this evening. At the surface, a low should develop east-southeastward over the southern High Plains through the day, with a dryline extending southward from this low across west TX. A warm front will lift northward across TX and into parts of OK/AR by late this afternoon, with rich low-level moisture present to its south. A cold front attendant to the surface low will eventually sweep southeastward across the southern High Plains late this evening and overnight."
+        },
+        {
+          "title": "Southern Plains into the Ozarks",
+          "text": "A complex forecast scenario is evident across the southern Plains today, with multiple corridors and rounds of potentially significant severe thunderstorms possible. If any convection can develop early this morning in the low-level warm advection regime to the north of the warm front, it would pose a threat for large hail given the presence of moderate MUCAPE and strong deep-layer shear. Any morning thunderstorms may also act to limit the northward advance of the warm front across OK, and the placement of the effective warm front by this afternoon/early evening remains a source of considerable uncertainty. The dryline will mix eastward across the TX Panhandle and South Plains region through this afternoon, with a corridor of at least mid 60s surface dewpoints present along/east across TX and southern/central OK. It appears likely that isolated to scattered supercells will form along the dryline by mid to late afternoon. Moderate to strong instability, steep mid-level lapse rates, and 40-50+ kt of effective bulk shear all suggest that these supercells will pose a threat for very large hail. As this convection spreads eastward across northwest TX and into southwestern OK by this even"
+        },
+        {
+          "title": "Carolinas into Southeastern Virginia",
+          "text": "A shortwave trough will progress eastward across the Mid-Atlantic and Carolinas today. Modestly enhanced mid-level flow will be present over these regions, although low-level winds are forecast to remain rather weak. Convection should form along a surface trough by the afternoon. Strong diurnal heating of a moist low-level airmass should support moderate instability, and steepened low-level lapse rates should also develop. Modest deep-layer shear will probably tend to limit convective organization to some extent. Still, a few multicells capable of producing both isolated damaging winds and hail should move eastward much of the Carolinas and parts of southeastern VA through the afternoon and early evening, before weakening or moving offshore. ..Gleason/Wendt.. 05/04/2022"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-05-04",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-05-04T13:00Z",
+      "valid_end": "2022-05-05T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220504_1300.html",
+      "summary": "Numerous severe thunderstorms are expected across parts of the southern Great Plains this afternoon through tonight. Strong tornado and very large hail potential are most probable across the southeast Texas Panhandle into portions of southern Oklahoma and north Texas.",
+      "sections": [
+        {
+          "title": "Southern Great Plains",
+          "text": "A wide variety of potential forecast outcomes are evident today with unusually large spread among guidance at this stage of the outlook cycle. As such, the middle categorical risk is probably the most statistically appropriate forecast, even though potential does exist for intense supercells capable of producing very large hail and strong tornadoes. Initially, guidance diverges with the degree of late morning elevated convective coverage within a robust low-level warm theta-e advection regime. The western and southern extent of this activity differs substantially which provides low confidence in how far the surface warm front will advance. The leading edge of rich western Gulf moisture characterized by mid 60s surface dew points has spread across the Permian Basin and the Edwards Plateau into eastern TX. Guidance that is subdued with elevated convection such as the 09Z RAP/HRRR suggests this moisture plume and warm front will reach the southeast TX Panhandle and at least the southern half of OK. This profoundly impacts the potential intensity of dryline supercells, with several HRRR runs adamant of long-lived, high-end 2-5 km updraft helicity near the dryline/surface warm front int"
+        },
+        {
+          "title": "Southeast VA and the Carolinas",
+          "text": "A low-amplitude shortwave trough over the Lower Great Lakes will move east into southern New England this evening. To the south of this wave, a cold front will push southeast across the Lower Mid-Atlantic into the Carolinas. Convergence along the cold front and coastal sea breezes should support scattered thunderstorms this afternoon. While deep-layer shear will be modest, it should be adequate for multicells capable of isolated severe hail and damaging winds. Convection should largely shift offshore and/or weaken after dusk. ..Grams/Mosier.. 05/04/2022"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-05-04",
+      "hhmm": "1630",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2022-05-04T16:30Z",
+      "valid_end": "2022-05-05T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220504_1630.html",
+      "summary": "Numerous severe thunderstorms are expected across parts of the southern Great Plains this afternoon through tonight. A few strong tornadoes and giant hail is most probable across the southeast Texas Panhandle into portions of southwest Oklahoma and north Texas.",
+      "sections": [
+        {
+          "title": "Southern Great Plains",
+          "text": "Complicated forecast today/tonight as a broad/destabilizing warm sector enlarges as a warm front advances northward today. Considerable forecast uncertainty remains evident for a multitude of possible scenarios, some of which differ both spatially in terms of severe hazard and intensity. Nonetheless, with the lack of morning convection across northwest TX into the TX Panhandle, thinking is this area will remain void of convection through the midday/early afternoon. Consequently, it seems a categorical Moderate Risk is warranted for dryline/triple point storms. Visible-satellite imagery late this morning shows a cirrus canopy across much of the outlook area. A warm front is rapidly moving northward across north TX with upper 60s F dewpoints reaching the Red River as of 16z. A destabilizing boundary layer beneath a capping inversion, which seems likely to hold through the early afternoon, will become quite unstable by peak heating with 3000-4000 J/kg MLCAPE forecast over northwest TX by 4pm. The RAP/HRRR seems to have the best handle on morning storm activity compared to the ARW and associated CAM models. In general, model guidance indicates storms will develop over the TX Panhandle "
+        },
+        {
+          "title": "Southeast VA and the Carolinas",
+          "text": "Not much change from the previous forecast in the overall thunderstorm scenario for VA/Carolinas. A low-amplitude shortwave trough over the Lower Great Lakes will move east into southern New England this evening. To the south of this wave, a cold front will push southeast across the Lower Mid-Atlantic into the Carolinas. Convergence along the cold front and coastal sea breezes should support scattered thunderstorms this afternoon. While deep-layer shear will be modest, it should be adequate for multicells capable of isolated severe hail and damaging winds. Convection should largely shift offshore and/or weaken after dusk. ..Smith.. 05/04/2022"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-05-04",
+      "hhmm": "2000",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2022-05-04T20:00Z",
+      "valid_end": "2022-05-05T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220504_2000.html",
+      "summary": "Numerous severe thunderstorms are expected across parts of the southern Great Plains this afternoon through tonight. A few strong tornadoes and giant hail is most probable across the southeast Texas Panhandle into portions of southwest Oklahoma and north Texas. Wind damage as well as tornadoes are also possible across the remainder of central and eastern Oklahoma through tonight.",
+      "sections": [
+        {
+          "title": "Eastern TX Panhandle/South Plains into much of OK",
+          "text": "The Moderate Risk has been expanded eastward across a large portion of OK, as the air mass continues to destabilize and remain free of storms. Visible imagery continues to show pockets of heating, and increasing CU fields near the Red River. Surface observations show an unbroken plume of 68-70 F dewpoints now into southern OK, with GPS water vapor sensors indicating a deepening moist boundary layer with values increasing to over 1.50\" over northwest TX. Midday soundings reveal a capping inversion below 700 mb which is helping to maintain the pristine air mass and guard against early contamination. This inversion may also help to subdue the number of storms later today across OK and northern TX. Any supercell over the warm sector will have the potential to produce a strong tornado, aided by midlevel lapse rates near 8 C/km and dewpoints of 68 F or greater. Later this evening, storms moving out of the Panhandle may eventually merge into a severe MCS with significant wind damage potential. In addition, further supercell develop may occur tonight along the baroclinic zone extending eastward across OK. Farther west into the TX Panhandle and South Plains, rapid destabilization continues,"
+        },
+        {
+          "title": "Southern Great Plains",
+          "text": "Complicated forecast today/tonight as a broad/destabilizing warm sector enlarges as a warm front advances northward today. Considerable forecast uncertainty remains evident for a multitude of possible scenarios, some of which differ both spatially in terms of severe hazard and intensity. Nonetheless, with the lack of morning convection across northwest TX into the TX Panhandle, thinking is this area will remain void of convection through the midday/early afternoon. Consequently, it seems a categorical Moderate Risk is warranted for dryline/triple point storms. Visible-satellite imagery late this morning shows a cirrus canopy across much of the outlook area. A warm front is rapidly moving northward across north TX with upper 60s F dewpoints reaching the Red River as of 16z. A destabilizing boundary layer beneath a capping inversion, which seems likely to hold through the early afternoon, will become quite unstable by peak heating with 3000-4000 J/kg MLCAPE forecast over northwest TX by 4pm. The RAP/HRRR seems to have the best handle on morning storm activity compared to the ARW and associated CAM models. In general, model guidance indicates storms will develop over the TX Panhandle "
+        },
+        {
+          "title": "Southeast VA and the Carolinas",
+          "text": "Not much change from the previous forecast in the overall thunderstorm scenario for VA/Carolinas. A low-amplitude shortwave trough over the Lower Great Lakes will move east into southern New England this evening. To the south of this wave, a cold front will push southeast across the Lower Mid-Atlantic into the Carolinas. Convergence along the cold front and coastal sea breezes should support scattered thunderstorms this afternoon. While deep-layer shear will be modest, it should be adequate for multicells capable of isolated severe hail and damaging winds. Convection should largely shift offshore and/or weaken after dusk."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-05-05",
+      "hhmm": "0100",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2022-05-05T01:00Z",
+      "valid_end": "2022-05-05T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220505_0100.html",
+      "summary": "Numerous severe thunderstorms are expected across parts of the southern Great Plains tonight. A few tornadoes and very large hail are most probable across parts of central and southwest Oklahoma into north Texas this evening. Wind damage as well as tornadoes will remain possible across the remainder of central and eastern Oklahoma overnight.",
+      "sections": [
+        {
+          "title": "Southern Plains",
+          "text": "Multiple supercells are ongoing this evening along/east of a dryline across parts of west TX, and near a stationary surface boundary across parts of central OK. Storm coverage is expected to increase this evening, as a southerly low-level jet increases and a mid/upper-level shortwave trough approaches the region from the west. The environment will remain quite favorable for organized convection this evening into late tonight, with MLCAPE of 1500-3000 J/kg in place across the warm sector and effective shear of 45-60 kt. 0-1 km SRH of 200-300 m2/s2 will continue to support a tornado threat (potentially strong), especially with any sustained discrete supercells near and south of the effective surface boundary. Ongoing supercells approaching parts of southwest OK and western north TX will continue to pose a threat of tornadoes and very large hail this evening. Renewed convective development near the surface boundary may evolve into one or more supercells across central and southern OK, which could also pose a threat of very large hail and tornadoes. Upscale growth into one or more eastward-moving clusters is possible with time, which could lead to increase in the damaging wind potentia"
+        },
+        {
+          "title": "Eastern NC and vicinity",
+          "text": "Thunderstorms have been gradually decreasing in coverage and intensity this evening, but the ongoing storms across eastern NC may pose a continued threat for isolated hail and damaging wind gusts until around 02-03Z. ..Dean.. 05/05/2022"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2022,
+      "number": 639,
+      "issue_utc": "2022-05-04T16:28Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0639.html",
+      "summary": "Increasing thunderstorm development, including a few supercells, appears possible as early as 1-4 PM CDT. These will pose a risk for large hail, and perhaps a couple of tornadoes.",
+      "discussion": "Preceding the large-scale mid-level troughing within the mid-latitude westerlies across the Rockies, a much more subtle short wave impulse of subtropical eastern Pacific origin is evident satellite imagery progressing across the Texas South Plains into Big Country vicinity. It appears that increasingly divergent upper flow to the north and east of this feature will contribute to strengthening large-scale ascent, aided by lower/mid tropospheric warm advection. This may generally focus along a 30 kt southerly 850 mb jet, along which substantive low-level moistening is underway, beneath steep mid-level lapse rates associated with elevated mixed-layer air. The northern edge of the plume of warmer air aloft is currently near the Red River, but latest Rapid Refresh suggest that large-scale ascent and boundary-layer warming will erode inhibition across the Texas Big Country, as far south as the Brownwood vicinity. Across northwest Texas into the Interstate 44 through I-35 corridors of southwestern Oklahoma, the boundary-layer remains potentially cool and stable, with low cloud cover slowing insolation to the north of the Red River. The extent of boundary-layer destabilization possible across southwest Oklahoma prior to the onset of thunderstorm initiation remains unclear. However, moisture return above the surface-based layer appears sufficient for most unstable CAPE in excess of 2000 J/kg. Given at least elevated destabilization, it seems probable that the large-scale forcing for ascent will contribute to increasing thunderstorm development as early as the 18-21Z time frame. As this occurs, low-level and deep-layer shear are expected to become increasing conducive to supercells conducive to large hail. Where the boundary-layer is able to destabilize (most likely across parts "
+    },
+    {
+      "year": 2022,
+      "number": 640,
+      "issue_utc": "2022-05-04T17:33Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0640.html",
+      "summary": "Scattered strong thunderstorms, including a few supercells, appear likely to initiate within the next few hours, posing a risk for large, damaging hail and perhaps a couple of tornadoes through 2-4 PM CDT.",
+      "discussion": "Large-scale mid/upper troughing, with a number of embedded short wave perturbations, continues to slowly shift across and east of the Rockies. The leading edge of this cyclonic regime is already overspreading the higher plains, including the Panhandles vicinity into Texas South Plains, where southwesterly wind speeds are increasing in excess of 50 kt around the 500 mb level. Within deepening surface troughing to the lee of the southern Rockies, stronger daytime heating and mixing is increasingly underway. As this continues, the dryline will continue to sharpen in a corridor across the Texas South Plains, into the vicinity of a zone of continuing differential surface heating, west of Childress northwestward toward Dalhart. Moistening along and east of these boundaries, and steepening lapse rates associated with stronger heating to the west, will continue to contribute to rapid destabilization during the next few hours. Various model output, including the last few runs of the high-resolution Rapid Refresh, suggest that storms probably will begin to initiate by 19-21Z. Supercell development may be fairly rapid, with initial storms posing a risk for large, potentially damaging hail. A couple of tornadoes are also possible, but the more substantive tornado potential probably will evolve later this afternoon into the evening."
+    },
+    {
+      "year": 2022,
+      "number": 641,
+      "issue_utc": "2022-05-04T17:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0641.html",
+      "summary": "The risk of a few strong to severe storms capable of localized wind damage and isolated large hail will increase through the afternoon. Watch issuance is not expected.",
+      "discussion": "Latest visible satellite imagery shows an east/west-oriented deepening cumulus field developing in southeastern VA, where isolated convection is beginning to develop. In the vicinity of this boundary, surface temperatures in the lower 80s amid upper 60s dewpoints is yielding moderate to strong surface-based buoyancy and steep low-level lapse rates. Despite weak south-southwesterly surface winds, regional VWP data shows strengthening midlevel west-southwesterly flow overspreading the area which should support 20-30 kt effective bulk shear. While limited large-scale ascent and only modest deep-layer shear casts uncertainty on the coverage and sustenance of convection, present indications are that a few loosely organized multicell clusters or transient supercell structures capable of isolated large hail and locally damaging gusts will spread eastward toward the coast through the afternoon. Watch issuance is not expected at this time."
+    },
+    {
+      "year": 2022,
+      "number": 642,
+      "issue_utc": "2022-05-04T18:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0642.html",
+      "summary": "The risk of severe thunderstorms capable of a couple tornadoes, very large hail, and locally damaging gusts will increase between 20Z-22Z. A Tornado Watch will likely be needed this afternoon.",
+      "discussion": "Latest surface analysis shows a dryline developing from the eastern TX Big Bend northward into the TX South Plains. West of the dryline, surface temperatures are climbing into the upper 80s F in conjunction with veering surface winds. As west-southwesterly midlevel flow continues to increase across the area, strengthening downslope flow impinging on deepening boundary-layer moisture (upper 60s/lower 70s surface dewpoints) over south-central TX will result in a deepening dryline circulation. RAP forecast soundings show south-southwesterly low-level flow parallel to the deepening dryline circulation, which should limit parcel detrainment and allow for isolated to widely scattered convective initiation amid weakening CINH. Very steep midlevel lapse rates atop the aforementioned rich boundary-layer moisture east of the dryline is resulting in strong surface-based instability (2500-3000 J/kg MLCAPE), while effective bulk shear is around 45-50 kts. These factors, combined with deep-layer flow oriented perpendicular to the dryline should foster discrete supercells which should spread east-northeastward through the afternoon/early evening. Very large hail and damaging gusts are expected, and veering low-level flow (effective SRH near 100 m2/s2) will support a couple tornadoes with the longer-lived discrete supercells. A Tornado Watch will likely be issued this afternoon."
+    },
+    {
+      "year": 2022,
+      "number": 643,
+      "issue_utc": "2022-05-04T19:26Z",
+      "topic": "Tornado Watch 176",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0643.html",
+      "summary": "Increasing and intensifying thunderstorm development through 4-6 PM CDT, including a few supercells posing a risk for large, damaging hail and tornadoes, one or two of which could become strong. Trends are being monitored for the possibility of an additional tornado watch to east of 176.",
+      "discussion": "Substantive boundary-layer modification is ongoing across much of southern through central Oklahoma in response to warming and moistening. Based on thermal fields in the Rapid Refresh in the 925-850 mb layer, one baroclinic zone is becoming better defined across/north of the I-44 corridor of southwestern Oklahoma through I-40 corridor of eastern Oklahoma. However, another weaker baroclinic zone appears to be shifting northward across northern Texas into the the Red River Valley vicinity. Richer boundary-layer moisture (including surface dew points around 70F) probably will remain focused along and south of this boundary. Beneath steep mid-level lapse rates on the northern periphery of a plume of warmer and more strongly capping elevated mixed-layer air, boundary-layer based CAPE appears in the process of increasing in excess of 2000 J/kg along this corridor. Aided by forcing for ascent associated with lower/mid-level warm advection, and the east-northeastward migrating subtropical perturbation, intensifying thunderstorm development appears increasingly likely near/north of the Red River Valley, eastward toward the Ark-La-Tex, through 21-23Z. Given 30-50 kt flow veering with height in the 850-500 mb layer, atop modest backed (east-southeasterly) surface winds, hodographs probably will become conducive to supercells capable of producing large, damaging hail and a couple of tornadoes, one or two of which could become strong. ..Kerr.. 05/04/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 644,
+      "issue_utc": "2022-05-04T19:39Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0644.html",
+      "summary": "A couple strong to severe storms capable of isolated large hail and locally severe gusts will be possible this afternoon. Watch issuance is not expected.",
+      "discussion": "Latest surface observations depict a stationary surface low near La Junta in southeastern CO, which is favoring the westward extension of modestly enhanced boundary layer moisture (lower/middle 40s dewpoints) into the area. Regional 12Z upper-air data shows very steep midlevel lapse rates surmounting the moist axis, which is supporting a weakly unstable airmass. While RAP forecast soundings depict a robust low-level capping inversion, reduced inhibition along the edge of diurnally steepened low-level lapse rates extending toward the low could support a narrow corridor of surface-based instability. Visible satellite loops shows a deepening cumulus field along the periphery of the steep low-level lapse rates along the CO/NM border, where isolated convection has developed. As large-scale ascent continues to increase across the area, this activity could spread/develop northeastward into parts of southeastern CO, where effective bulk shear around 40-50 kts would support discrete supercells. If this activity can maintain residence time along the narrow axis of surface-based buoyancy, isolated large hail and locally severe gusts will be possible, while a brief tornado cannot be ruled out near the surface low (where surface winds are backed). Watch issuance is not expected owing to the localized nature of the threat."
+    },
+    {
+      "year": 2022,
+      "number": 645,
+      "issue_utc": "2022-05-04T20:20Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0645.html",
+      "summary": "A couple strong to severe storms capable of localized wind damage and isolated large hail will be possible this afternoon. Watch issuance is not expected.",
+      "discussion": "Latest radar data from KRAX shows a modest increase in convective intensity/coverage across west-central NC this afternoon. Within the pre-convective environment, strong diurnal destabilization of a moist boundary layer (lower/middle 60s dewpoints) is resulting in steep-low-level lapse rates and moderate to strong buoyancy. While light surface winds are veered across the warm sector, KRAX VWP data shows modestly enhanced west-southwesterly midlevel flow -- supporting around 25 kt 0-6 km bulk shear. These factors could support isolated large hail and localized wind damage with the more organized/sustained multicell clusters and brief supercell structures as they track eastward through the afternoon. With time, the severe threat could spread toward the coast. Watch issuance is not expected."
+    },
+    {
+      "year": 2022,
+      "number": 646,
+      "issue_utc": "2022-05-04T22:52Z",
+      "topic": "Tornado Watch 176",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0646.html",
+      "summary": "Storms moving into Northwest Texas and southwest Oklahoma may pose and increasing threat for tornadoes and very large hail as they encounter richer low-level moisture.",
+      "discussion": "Ongoing right-moving supercells southwest of Childress, TX has produced 2+ inch hail recently. As this storm moves northeastward, it will reach upper 60s F dewpoints in southwest Oklahoma. Furthermore, it appears that billow clouds in southwest Oklahoma have evolved into more cumuliform over the past couple of hours per visible satellite. This would indicate most inhibition has been eroded. Low-level wind profiles show less turning within the region as compared to central Oklahoma. However, some increase in the low-level jet should promote large effective SRH with time. Tornado potential is expected to increase as storms move into this environment. Very large hail will also be likely with around 2500-3000 J/kg MLCAPE and over 8 C/km mid-level lapse rates. ..Wendt.. 05/04/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 647,
+      "issue_utc": "2022-05-04T23:11Z",
+      "topic": "Tornado Watch 176",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0647.html",
+      "summary": "An increase in storm coverage is expected this evening given current visible satellite trends and an expected increase in mid-level forcing. Large/very-large hail and tornadoes, possibly strong, are the expected hazards.",
+      "discussion": "Convective showers have increased in central Oklahoma over the past two hours. More recently a supercell has matured/intensified in Pottawatomie County. These trends on visible satellite suggest that additional storms are possible over the next 1-2 hours. KTLX VWP data shows over 300 m2/s2 SRH. Later this evening, the low-level jet is also expected to focus and increase into this region. Tornado potential with mature storms will increase this evening. Depending on how many storms can initiate, some storm interactions are possible. However, any of the more dominant supercells will be capable of large/very-large hail and tornadoes -- some potentially strong. ..Wendt.. 05/04/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 648,
+      "issue_utc": "2022-05-05T00:16Z",
+      "topic": "Tornado Watch 178",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0648.html",
+      "summary": "Severe-weather potential -- mainly in the form of large hail at this time -- continues across portions of the watch area.",
+      "discussion": "Latest radar loop shows three distinct areas of strong/severe storms ongoing at this time -- one west/northwest of Sweetwater TX, another over the Pecos County vicinity, and one near Del Rio. The Sweetwater area and Pecos County vicinity storms are occurring just ahead of a fairly well-defined dryline, and as such, remain well-contained within the watch. Risk for large hail will continue over the next couple of hours, along with some risk for damaging wind gusts, and possibly a tornado. Meanwhile, the Del Rio area convection is terrain-induced, with additional storms ongoing west of the river over northern Mexico. Greatest risk appears to be large hail and locally damaging wind gusts at this time, and risk may spread east of Val Verde County into Kinney and possibly Maverick Counties over the next 1 hour or so. ..Goss.. 05/05/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 649,
+      "issue_utc": "2022-05-05T00:19Z",
+      "topic": "Tornado Watch 176",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0649.html",
+      "summary": "A supercell thunderstorm near the Seminole/Okfuskee County border will continue in a favorable environment for the next 1-2 hours. A local areal extension of WW 176 may be needed.",
+      "discussion": "A supercell which has produced tornadoes over the past hour will continue in a favorable environment for the next 1-2 hours as it moves northeast. Inflow air into the storm remains in the mid/upper 70s F with dewpoints having increased by a degree ahead of it (into the upper 60s F). This mature storm should be able to maintain its intensity. A storm to its southwest has also shown increasing organization and tornado potential. Eventually, cooler/drier to the east will lead to a downward trend. A local extension in area of WW 176 may be needed. ..Wendt.. 05/05/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 650,
+      "issue_utc": "2022-05-05T00:36Z",
+      "topic": "Tornado Watch 177",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0650.html",
+      "summary": "The greatest tornado potential will continue to exist in Northwest Texas with a supercell moving east just south of Crowell, TX. The downstream environment will remain favorable and low-level winds may improve slightly as well.",
+      "discussion": "A strong supercell continues east in Foard County, TX. Tornadoes have been observed with this storm over the last 60-90 minutes. Low-level hodographs are not as enlarged as compared to the east. However, with the unimpeded inflow of upper 70s F temperatures and upper 60s F dewpoints, this storm is expected to maintain intensity as of moves east. As this occurs, it will encounter at least a modestly stronger low-level jet. Tornado and very-large hail potential will continue with this storm. Another supercell in the southeastern Panhandle continues to show a strong reflectivity signature. Large/very-large hail will remain possible. The tornado potential with this storm should diminish as it will cross north of the warm front into more stable conditions. ..Wendt.. 05/05/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 651,
+      "issue_utc": "2022-05-05T02:13Z",
+      "topic": "Tornado Watch 176",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0651.html",
+      "summary": "Convective trends suggest that clustering/MCS development may occur over the next few hours along/south of the warm front. Damaging winds will become more common with time. Tornadoes are most likely with discrete storms in Northwest Texas, though line-embedded supercells and circulations are possible as well. Replacement watches will likely be needed this evening.",
+      "discussion": "Convective trends in southwestern Oklahoma and Northwest Texas show increasing storm coverage. Supercells are ongoing just south of the Red River, with the lead cell continuing to produced tornadoes. IR satellite trends also indicate cloud cooling along the warm front and NLDN shows an increase in lightning activity. These trends all suggest that MCS development may occur over the next several hours. While temperatures south of the warm front have cooled, low 70s F dewpoints will keep that cooling to a minimum. Given the downstream instability and forcing from the trough, storms should continue along and south of the boundary this evening/overnight. Damaging winds will become more common as a transition away from discrete cells occurs. While some activity will occur north of the warm front, storms there should generally be more of a threat for hail The greatest short-term tornado threat will continue to be in Northwest Texas with the supercells moving east. Given the low-level wind fields, however, tornadoes will remain possible even with more linear activity. A replacement tornado watch is likely for activity south of the boundary. The hail threat north of the boundary may be sufficient for a severe thunderstorm watch. ..Wendt.. 05/05/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 652,
+      "issue_utc": "2022-05-05T02:17Z",
+      "topic": "Tornado Watch 178",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0652.html",
+      "summary": "Severe risk continues locally across WW 178.",
+      "discussion": "Latest radar loop shows storms moving across the Terrell/Crockett County area are gradually diminishing in intensity, and expect this trend to continue. Meanwhile, a strong cluster of storms that has crossed Kinney County is now moving into newly issued Severe Thunderstorm Watch 179. As such, the only remaining severe storms within WW 178 are over the Jones/Haskell/Throckmorton County area in western North Texas. With risk for large hail and locally damaging winds with this convective cluster likely to linger beyond the scheduled 05/03Z expiration of WW 178, a new Tornado Watch covering portions of North Texas and Oklahoma will be issued in the next half hour. ..Goss.. 05/05/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 653,
+      "issue_utc": "2022-05-05T03:45Z",
+      "topic": "Severe Thunderstorm Watch 179",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0653.html",
+      "summary": "Risk for large hail and damaging winds continues over portions of southern Texas.",
+      "discussion": "Latest radar loop shows a cluster of strong/severe convection just west of the Hondo, TX vicinity at this time -- i.e. crossing portions of WW 179. The strongest storms are ongoing over northwestern Medina County, and northern Zavala/far southern Uvalde Counties at this time. The Medina county convection is particularly well-organized, and has exhibited small-scale bowing with dual book-end vortices within recent radar imagery -- suggestive of damaging wind potential. An axis of 2000 J/kg mixed-layer CAPE resides across the area at this time, and with southeasterly low-level winds veering to southwesterly aloft, shear favors both storm organization as well as a continued east-northeasterly advance, that will allow the convection -- and accompanying severe risk -- to approach the San Antonio metro area over the next 1 to 1 1/2 hours. ..Goss.. 05/05/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 654,
+      "issue_utc": "2022-05-05T04:33Z",
+      "topic": "Tornado Watch 180",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0654.html",
+      "summary": "Severe-weather risk persists with stronger storms crossing Oklahoma and vicinity -- in and near Tornado Watch 180.",
+      "discussion": "A decrease in convective organization/intensity has been observed over the past hour, as previous supercells have largely devolved into less-organized convection. Still, locally stronger updrafts persist -- including a bowing cluster moving quickly east-northeastward along the Red River Valley of south-central Oklahoma/north-central Texas. Generally, the main risk with overnight storms will trend slowly toward heavy rainfall, though local severe risk -- including potential for a brief tornado or two -- will likely persist into the overnight hours. ..Goss.. 05/05/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 655,
+      "issue_utc": "2022-05-05T06:42Z",
+      "topic": "Tornado Watch 180",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0655.html",
+      "summary": "An isolated severe threat will likely continue for a couple more hours, mainly across south-central and southeast Oklahoma. The risk may impact far northeast Texas and far southwest Arkansas, but new watch issuance is not expected to the east or south of the current watch.",
+      "discussion": "The latest mosaic radar imagery across Oklahoma has an MCS extending from the southwest Oklahoma into far northwest Arkansas. At the surface, a moist airmass is in place from near the Red River northeastward across much of eastern Oklahoma. The RAP has MLCAPE over southeast Oklahoma in the 1200 to 2000 J/kg range. This suggests that convection could remain somewhat organized over the next couple of hours as the stronger storms move southeastward toward the Red River. Regional WSR-88D VWPs in central and eastern Oklahoma have 0-6 km shear near 50 knots suggesting that an isolated severe threat will still be possible. Although a brief tornado could occur, wind damage and hail are expected to be the primary threats. The airmass to the east of the current watch is stable across much of west-central and northwest Arkansas suggesting that storms that move into that area will probably decrease in intensity. ..Broyles.. 05/05/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

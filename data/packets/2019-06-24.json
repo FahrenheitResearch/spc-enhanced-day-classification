@@ -1,0 +1,179 @@
+{
+  "convective_day": "2019-06-24",
+  "valid_start": "2019-06-24T12:00Z",
+  "valid_end": "2019-06-25T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2019-06-24",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-06-24T16:30Z",
+      "valid_end": "2019-06-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190624_1630.html",
+      "summary": "Scattered strong to severe storms capable of damaging winds will affect the central/southern Appalachians and Ohio Valley today. Other more isolated severe activity is possible today over northern Illinois/southern Wisconsin and vicinity, and over west-central/southwest Texas.",
+      "sections": [
+        {
+          "title": "Central/Southern Appalachians",
+          "text": "Morning satellite and radar imagery show a well-defined remnant MCV over southern KY. This trough is embedded with a larger upper trough rotating across the OH/TN valleys. The air mass ahead of the feature is heating rapidly and will become very unstable by mid-afternoon. Strengthening midlevel winds, coupled with strong instability and affects of the MCV will pose a more substantial risk of bowing thunderstorm structures capable of damaging wind gusts. A few supercells cannot be ruled out, along with a risk of isolated tornadoes. Therefore have upgraded much of WV and vicinity to an ENH risk and 30% severe wind probabilities."
+        },
+        {
+          "title": "AL/GA",
+          "text": "A very warm/humid air mass remains in place today over this region with strong CAPE values expected. Most 12z CAM solutions suggest pockets of afternoon thunderstorm development, although models differ on placement and timing. Those storms that form will pose a risk of strong/damaging wind gusts."
+        },
+        {
+          "title": "WI/IL",
+          "text": "Considerable cloud cover is slowly eroding today from the west over southern WI/northern IL. This may result in sufficient afternoon heating for scattered thunderstorm development. Relatively cold midlevel temperatures and dewpoints in the 60s will promote a few robust updrafts capable of hail. Vertical shear is not particularly strong - and given the clouds and thermodynamic uncertainties, overall coverage of severe storms may remain limited."
+        },
+        {
+          "title": "TX",
+          "text": "Full sunshine and rapid destabilization is occurring over parts of west TX today. This is expected to result in rapid thunderstorm development this afternoon. Large CAPE values will be in place, but vertical shear will be weak. It appears that multicell storm structures will be common, with gusty winds and hail possible in the most intense cores. ..Hart/Karstens.. 06/24/2019"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2019-06-24",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-06-24T20:00Z",
+      "valid_end": "2019-06-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190624_2000.html",
+      "summary": "Scattered strong to severe storms capable of damaging winds will continue to evolve over the central/southern Appalachians and Ohio Valley today. Other more isolated severe activity may yet occur over northern Illinois/southern Wisconsin and vicinity, and is expected to develop in the next couple of hours over west-central/southwest Texas.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Convection continues to evolve this afternoon as anticipated; with reasoning communicated in prior outlooks still appearing valid at this time, no outlook changes are needed. ..Goss.. 06/24/2019 .PREV DISCUSSION... /ISSUED 1105 AM CDT Mon Jun 24 2019/"
+        },
+        {
+          "title": "Central/Southern Appalachians",
+          "text": "Morning satellite and radar imagery show a well-defined remnant MCV over southern KY. This trough is embedded with a larger upper trough rotating across the OH/TN valleys. The air mass ahead of the feature is heating rapidly and will become very unstable by mid-afternoon. Strengthening midlevel winds, coupled with strong instability and affects of the MCV will pose a more substantial risk of bowing thunderstorm structures capable of damaging wind gusts. A few supercells cannot be ruled out, along with a risk of isolated tornadoes. Therefore have upgraded much of WV and vicinity to an ENH risk and 30% severe wind probabilities."
+        },
+        {
+          "title": "AL/GA",
+          "text": "A very warm/humid air mass remains in place today over this region with strong CAPE values expected. Most 12z CAM solutions suggest pockets of afternoon thunderstorm development, although models differ on placement and timing. Those storms that form will pose a risk of strong/damaging wind gusts."
+        },
+        {
+          "title": "WI/IL",
+          "text": "Considerable cloud cover is slowly eroding today from the west over southern WI/northern IL. This may result in sufficient afternoon heating for scattered thunderstorm development. Relatively cold midlevel temperatures and dewpoints in the 60s will promote a few robust updrafts capable of hail. Vertical shear is not particularly strong - and given the clouds and thermodynamic uncertainties, overall coverage of severe storms may remain limited."
+        },
+        {
+          "title": "TX",
+          "text": "Full sunshine and rapid destabilization is occurring over parts of west TX today. This is expected to result in rapid thunderstorm development this afternoon. Large CAPE values will be in place, but vertical shear will be weak. It appears that multicell storm structures will be common, with gusty winds and hail possible in the most intense cores."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2019,
+      "number": 1230,
+      "issue_utc": "2019-06-24T15:48Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1230.html",
+      "summary": "Thunderstorms capable of producing mainly damaging winds appear increasingly likely this afternoon. Watch issuance is likely by 18Z (1 PM CDT/2 PM EDT).",
+      "discussion": "A well-formed MCV from earlier convection will continue quickly northeastward from middle TN into central/eastern KY this afternoon. Clouds have mostly cleared across eastern KY into southern OH late this morning, and diurnal heating will allow for a rapid increase in instability early this afternoon with a very moist low-level airmass in place. MLCAPE of 1000-1500 J/kg appears likely through peak heating, with more cloud cover over eastern OH, northern WV, and western PA delaying destabilization until a bit later this afternoon as clouds decrease in coverage from southwest to northeast. Around 35-50 kt of mid-level flow will be present across these regions in association with both the MCV and a larger-scale upper trough moving over the TN/OH Valleys. One or more thunderstorm clusters will likely develop over central/eastern KY and move northeastward through the afternoon and early evening, posing mainly a scattered damaging wind threat. There is also some concern for isolated tornadoes in proximity to the circulation of the MCV, where low-level flow should be locally backed to southeasterly. This will potentially enhance 0-1 km SRH, and any initially more discrete storm development could produce a tornado. With convection beginning to strengthen along the TN/KY border into eastern KY, watch issuance is likely within the next couple of hours (by 18Z)."
+    },
+    {
+      "year": 2019,
+      "number": 1231,
+      "issue_utc": "2019-06-24T17:22Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1231.html",
+      "summary": "Isolated severe thunderstorms with primarily a strong to damaging wind threat may develop this afternoon. Watch issuance is possible.",
+      "discussion": "Storms should continue to strengthen across middle into eastern TN this afternoon along a trailing boundary extending southward from a MCV in western/central KY. It appears that large-scale forcing for ascent attendant to an upper trough over the mid MD Valley and Upper Midwest may only glance this region. Even so, low-level convergence along the trailing outflow boundary should prove sufficient for additional convective development over the next couple of hours as MLCAPE increases into the 1000-2000 J/kg range downstream. An unseasonably strong belt of 40-50 kt southwesterly winds is present around 700 mb from middle/eastern TN into AL and much of GA this afternoon per VWP estimates from area radars and 17Z mesoanalysis. As diurnal mixing of the boundary layer continues across this region, low-level lapse rates will steepen further. Strong to damaging winds may occur with storms as the enhanced flow present at 700 mb reaches the surface through convective downdrafts. Relatively greater storm coverage is anticipated across middle/eastern TN this afternoon in closer proximity to the upper trough, although isolated development may also occur farther south into northeastern AL and northern/central GA. A Severe Thunderstorm Watch may eventually be needed this afternoon for some part of this region depending on radar trends."
+    },
+    {
+      "year": 2019,
+      "number": 1232,
+      "issue_utc": "2019-06-24T17:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1232.html",
+      "summary": "Storms capable of mainly a severe hail threat are possible this afternoon. Area is being monitored for a possible watch.",
+      "discussion": "Visible satellite shows an area of clearing emerging between mid- to high-level clouds over eastern portions of Wisconsin/Illinois and a weak cold front/pressure trough draped across central Wisconsin into northeast Iowa. Mid-level cold-air advection associated with an upper-level trough, combined with some surface heating this morning has yielded a corridor of weak to modest instability, approaching 1000 J/kg of MLCAPE and 2000 J/kg of MUCAPE. This area remains weakly capped, and thus, convective initiation has led to the development of some scattered weak convection. Appreciable southwesterly mid-level flow situated on the eastern periphery of the upper-level trough, characterized by modest effective bulk shear (30-35 kt), may help to organize the developing convective activity into multicellular structures. Should this occur, storms will be capable mainly of a severe hail threat. However, general storm coverage and intensity remain uncertain at this time, given the somewhat marginal environmental indices and limited time frame for convection to mature. Later this afternoon, additional storms may develop along/behind the weak cold front/trough. Given similar environmental conditions, albeit with weaker vertical shear within the base of the trough, these storms may also pose mainly a severe hail threat. Thus, the area will continue being monitored for possible watch issuance this afternoon."
+    },
+    {
+      "year": 2019,
+      "number": 1233,
+      "issue_utc": "2019-06-24T19:53Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1233.html",
+      "summary": "Storms capable of large hail and damaging winds expected to develop in the next 1-2 hours. Watch likely.",
+      "discussion": "Visible satellite shows a band of cumulus developing over portions of West Texas, where clearing and a lack of convective contamination has allowed surface temperatures to warm into the upper 80s F, with a few sites reporting 90 F, amidst a residual moist airmass (dew point temperatures in the low 70s F). Consequently, the atmosphere has undergone progressive destabilization, with MLCAPE values exceeding 3500 J/kg (MUCAPE near 5000 J/kg) and steep low/mid-level lapse rates (8-9 C/km) within a north-south oriented corridor situated on the western periphery of an outflow boundary from weak/elevated convection now moving through central/southern Texas. Along the western edge of the instability axis, a weak meso-low has formed, with a somewhat diffuse dryline extending to the south. Surface winds east of the low are easterly, and with weak westerly flow aloft, effective bulk shear of 30-35 kt is superimposed over the northern edge of the instability corridor. Forecast soundings from the RAP/HRRR indicate convective temperatures in the low 90s F across the region, and with continued heating/destabilization, the expectation is for vigorous convective development to occur within the next 1-2 hours, particularly near and just northeast of the aforementioned meso-low where low-level convergence is maximized. Storms that develop will be capable of large hail and damaging wind gusts. Thus, a watch will likely be needed for the region this afternoon."
+    },
+    {
+      "year": 2019,
+      "number": 1234,
+      "issue_utc": "2019-06-24T19:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1234.html",
+      "summary": "A small thunderstorm cluster may pose an isolated hail/wind risk this afternoon. Watch issuance is unlikely in the short term.",
+      "discussion": "Convection that moved from the higher terrain of WV and western VA earlier this morning and early afternoon has recently formed into a small cluster over north-central VA. Stronger mid-level flow associated with an upper trough remains to the west of this region, with only around 25-30 kt of westerly winds estimated at 500 mb per latest mesoanalysis. Still, low-level lapse rates have steepened owing to strong diurnal heating ahead of this activity into central VA. Related MLCAPE has increased into the 1000-1500 J/kg range, and isolated strong to damaging winds may occur as this cluster develops generally southeastward through the late afternoon. Marginally severe hail may also be noted in the strongest cores, but only 25-30 kt of effective bulk shear will probably tend to limit storm organization. Therefore, watch issuance appears unlikely in the short term (next hour or two)."
+    },
+    {
+      "year": 2019,
+      "number": 1235,
+      "issue_utc": "2019-06-24T20:42Z",
+      "topic": "Severe Thunderstorm Watch 439",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1235.html",
+      "summary": "Damaging winds with ongoing storms will likely remain the primary threat across Severe Thunderstorm Watch 439 and 440 this afternoon and evening.",
+      "discussion": "Multiple short line segments/bowing clusters have developed this afternoon across eastern TN/KY into southeastern OH as large-scale ascent preceding an upper trough moves over these regions. With fast northeastward storm motions around 35-45 kt being observed, a primarily linear storm mode, and low-level lapse rates having become at least modestly steepened ahead of this activity, scattered to widespread damaging winds will likely be the main threat through the remainder of the afternoon and continuing into the early evening. A tornado or two also cannot be ruled out in the next hour or two, primarily in eastern KY and western WV where semi-discrete storms should continue to exhibit some low-level rotation to the east of a remnant MCV where 0-1 km SRH is locally maximized. ..Gleason.. 06/24/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1236,
+      "issue_utc": "2019-06-24T21:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1236.html",
+      "summary": "A wind damage and hail threat will develop in the lee of the Appalachian crest over the next couple of hours. Weather watch issuance may be needed.",
+      "discussion": "Latest surface analysis shows a pronounced corridor of maximized low-level moisture from northern Georgia into eastern Tennessee, where surface dewpoints are in the lower to mid 70s F. Moderate instability (MLCAPE 1000-2000 J/kg) is analyzed by the RAP from this corridor eastward into the western Carolinas and western Virginia. The line is currently located in the strongest instability and there is some uncertainty if the line can remain organized as it crosses the Appalachian crest over the next 1 to 2 hours. If it does remain organized, then watch issuance would probably be needed for a wind damage threat into early evening."
+    },
+    {
+      "year": 2019,
+      "number": 1237,
+      "issue_utc": "2019-06-24T22:24Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1237.html",
+      "summary": "An isolated severe threat will persist across south Texas at least through sunset. A WW issuance is not anticipated for this activity.",
+      "discussion": "Isolated thunderstorms persist from just east of San Antonio southward to near the Rio Grande north of Brownsville. Most of the storms are sub-severe/elevated owing to an expansive cold pool/outflow extending from near Del Rio southeastward to north of Brownsville. This outflow boundary intersects a mature supercell in Kenedy County and extends eastward into the northwestern Gulf of Mexico. The greatest severe threat in the next few hours will exist with this mature supercell as it tracks southward toward the Rio Grande River. The accelerated motion associated with the cell is augmenting an otherwise weakly sheared environment and resulting in 100-150 m2/s2 0-3 km storm relative helicity. This motion amidst a moist, strongly unstable environment will contribute to a threat for severe wind gusts and perhaps a brief tornado. The overall threat will remain too isolated to necessitate a WW issuance. ..Cook.. 06/24/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1238,
+      "issue_utc": "2019-06-24T23:17Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1238.html",
+      "summary": "Isolated wind damage and hail will be possible across parts of Pennsylvania southward to Virginia this evening. Weather watch issuance can not be ruled out.",
+      "discussion": "The latest surface analysis shows a surface trough located from West Virginia southeastward into western Virginia with dewpoints ahead of the trough in lower 70s F. In response, a moderately unstable airmass is located from southern Pennsylvania into central and eastern Virginia where MLCAPE values range from 1000 to 2000 J/kg. Scattered thunderstorms have developed in the central Appalachians along the western edge of the stronger instability. In addition to the instability, regional WSR-88D VWPS show moderate deep-layer shear with 0-6 km shear in the 30 to 40 kt range. Although convective development will remain isolated, the environment should support a severe threat for a few more hours this evening. Wind damage and hail would be the primary threats."
+    },
+    {
+      "year": 2019,
+      "number": 1239,
+      "issue_utc": "2019-06-24T23:47Z",
+      "topic": "Severe Thunderstorm Watch 441",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1239.html",
+      "summary": "The severe threat continues across WW 441.",
+      "discussion": "Scattered, slow-moving convection has evolved across WW 441 and has produced large (isolated significant) hail and damaging wind gusts. An isolated, radar-indicated tornado also occurred near the Tom Green/Concho county line earlier as an isolated supercell favorably interacted with an outflow boundary across the region. Most storms are outflow-dominant however, and hail/wind will remain the greatest threats through sunset. Latest radar observations suggest that the complex over Menard/Schleicher Counties will continue to drift slowly southward while producing hail/wind and an isolated tornado, though the overall threat should gradually wane after sunset in response to low-level stabilization due to loss of surface heating. ..Cook.. 06/24/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1240,
+      "issue_utc": "2019-06-25T01:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1240.html",
+      "summary": "An isolated severe threat may continue for a few more hours across the Carolinas into south-central Virginia. Wind damage and hail will be the primary threats. The severe potential should become increasingly isolated so weather watch issuance will probably not be needed.",
+      "discussion": "The latest surface analysis shows a moist airmass in place across much of the Carolinas extending northward into south-central Virginia, where dewpoints are generally in the lower to mid 70s F. This is contributing to a moderately unstable airmass with the RAP estimating MLCAPE values in the 1000 to 1500 J/kg range. As several short line segments move eastward out of the Appalachian Mountains this evening, a few isolated damaging wind gusts may occur. However, the threat should become more isolated as instability decreases across the region late this evening."
+    },
+    {
+      "year": 2019,
+      "number": 1241,
+      "issue_utc": "2019-06-25T07:19Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1241.html",
+      "summary": "Localized strong to severe wind gusts are possible across eastern Nebraska, and perhaps into far western Iowa.",
+      "discussion": "A cluster of storms is moving rapidly eastward across northeast NE, coincident with a low-amplitude shortwave trough. Severe winds have recently been measured with this activity, despite relatively weak and disorganized radar presentation. Aiding downdrafts are the steep lapse rates just above the surface stable layer, with 500 mb temperatures dropping to -14 C. In addition, wind speeds at this level have increased to nearly 50 kt, with warm, dry air in the low levels. Objective analysis shows elevated MUCAPE of several hundred J/kg across eastern NE and developing into far western IA. Recent radar trends suggest some increase in storm size over the next few hours, with localized damaging wind gusts possible."
+    }
+  ]
+}

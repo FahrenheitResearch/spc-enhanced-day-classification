@@ -1,0 +1,107 @@
+{
+  "convective_day": "2020-09-05",
+  "valid_start": "2020-09-05T12:00Z",
+  "valid_end": "2020-09-06T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-09-05",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-09-05T16:30Z",
+      "valid_end": "2020-09-06T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200905_1630.html",
+      "summary": "Scattered thunderstorms capable of very large hail and isolated wind damage are expected tonight across parts of the Upper Midwest.",
+      "sections": [
+        {
+          "title": "Southern MN/IA vicinity overnight",
+          "text": "An embedded mid-upper speed max near the AB/MT border will crest the Great Basin upper ridge and then progress east-southeastward over the Dakotas/MN tonight, in advance of an amplifying northern-stream trough. In response, cyclogenesis is expected in the lee of the northern Rockies, and a cyclone will subsequently develop eastward across the Dakotas tonight. This will induce a 40-50 kt southwesterly low-level jet from the central Plains toward the upper MS Valley, which will transport low-level moisture (now across KS) northeastward to IA/southern by tonight. The moistening will occur beneath the eastern extent of steep midlevel lapse rates (8-9 C/km) with an elevated mixed layer, resulting in moderate-strong buoyancy (MUCAPE of 2000-3000 J/kg). Strong warm advection on the nose of the low-level jet will likely support elevated thunderstorm development tonight (03-06z) near the SD/MN border as low-level moisture/buoyancy increase. Strong deep-layer vertical shear and the low-level warm advection will result in long, curved hodographs that favor elevated supercells with the initial storm development, when very large hail is most probable. Upscale growth into clusters appears likely"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-09-05",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-09-05T20:00Z",
+      "valid_end": "2020-09-06T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200905_2000.html",
+      "summary": "Scattered thunderstorms capable of very large hail and isolated wind damage are expected tonight across parts of the Upper Midwest.",
+      "sections": [
+        {
+          "title": "20z Update",
+          "text": "The ongoing outlook remains on track and no changes have been made with this update. Strong storms may result in briefly strong/gusty winds across parts of North Texas this afternoon. A cluster of severe-warned thunderstorms south of the DFW Metroplex is tracking northwest around 30-35 kt. Velocity data from KFWS radar shows a strong northwest surge of thunderstorm outflow, and strong gusts may accompany this activity. However, 5 and 7 km CAPPI indicates weakening cells, while surface observations show only modest cold pool development. As such, any severe threat is expected to be very limited in both time and space, and 5% wind probabilities appear unnecessary. Otherwise, a cluster/bowing segment is expected to develop later this evening and track southeast across southern MN into IA. Very large hail and damaging gusts remain the most likely hazard associated with this activity. ..Leitman.. 09/05/2020 .PREV DISCUSSION... /ISSUED 1129 AM CDT Sat Sep 05 2020/"
+        },
+        {
+          "title": "Southern MN/IA vicinity overnight",
+          "text": "An embedded mid-upper speed max near the AB/MT border will crest the Great Basin upper ridge and then progress east-southeastward over the Dakotas/MN tonight, in advance of an amplifying northern-stream trough. In response, cyclogenesis is expected in the lee of the northern Rockies, and a cyclone will subsequently develop eastward across the Dakotas tonight. This will induce a 40-50 kt southwesterly low-level jet from the central Plains toward the upper MS Valley, which will transport low-level moisture (now across KS) northeastward to IA/southern by tonight. The moistening will occur beneath the eastern extent of steep midlevel lapse rates (8-9 C/km) with an elevated mixed layer, resulting in moderate-strong buoyancy (MUCAPE of 2000-3000 J/kg). Strong warm advection on the nose of the low-level jet will likely support elevated thunderstorm development tonight (03-06z) near the SD/MN border as low-level moisture/buoyancy increase. Strong deep-layer vertical shear and the low-level warm advection will result in long, curved hodographs that favor elevated supercells with the initial storm development, when very large hail is most probable. Upscale growth into clusters appears likely"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-09-06",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-09-06T01:00Z",
+      "valid_end": "2020-09-06T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200906_0100.html",
+      "summary": "Scattered thunderstorms capable of very large hail and isolated wind damage are expected tonight across parts of the Upper Midwest.",
+      "sections": [
+        {
+          "title": "Upper Midwest",
+          "text": "Water vapor imagery shows northwest mid-level flow in place over the north-central U.S. with a subtle shortwave trough located in the northern Plains. This feature will move southeastward into the upper Mississippi Valley this evening. Ahead of the shortwave trough, moisture advection will continue across the north-central states as a northwest-to-southeast axis of moderate instability becomes reinforced from eastern South Dakota to northern Missouri. As a low-level jet strengthens and large-scale ascent increases, thunderstorms are forecast to initiate in far northeastern South Dakota and southwest Minnesota from 03Z to 04Z with convection rapidly expanding in coverage. This convection will form into a large cluster of strong thunderstorms, moving east-southeastward across southern Minnesota and northern Iowa late this evening. The cluster of storms should reach the Mississippi River late tonight. RAP forecast sounding across southwestern Minnesota this evening have a sharp temperature inversion from the surface to 700 mb. Instability above 700 mb is forecast to steadily increase as MUCAPE reaches the 2500 to 3000 J/kg range. Lapse rates above the inversion near 8.0 C/km and stron"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 1675,
+      "issue_utc": "2020-09-06T00:53Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1675.html",
+      "summary": "Deep convection will develop across southern Minnesota over the next few hours. Large hail is likely with the strongest storms. Severe thunderstorm watch will likely be issued by 03z.",
+      "discussion": "Early-evening water-vapor imagery clearly depicts a mid-level vorticity max over southeast SK, now digging southeast after topping the western US Ridge. This short-wave trough will provide large-scale background support for organized convection later this evening. 00z soundings from MPX and ABR were quite dry this evening with meager buoyancy, but strongly sheared. However, OAX exhibited 1.3 inch PW with a 14C 850mb dew point. 20kt southwesterly 850mb wind should increase into southern MN by 04z as LLJ strengthens to near 40kt in response to the approaching short wave. Substantial moisture advection will be both necessary and likely over the next few hours before elevated convection materializes. While it's not entirely clear when elevated convection will develop, latest thinking is thunderstorms will likely develop quickly as moisture rushes northeast ahead of the digging mid-level speed max, possibly as early as 03z. Steep lapse rates and long, straight hodographs favor large hail."
+    },
+    {
+      "year": 2020,
+      "number": 1676,
+      "issue_utc": "2020-09-06T04:26Z",
+      "topic": "Severe Thunderstorm Watch 486",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1676.html",
+      "summary": "Hail threat continues with storms tonight.",
+      "discussion": "Large-scale forcing for ascent appears to be spreading rapidly southeast across the upper Red River Valley region ahead of a digging short-wave trough. Numerous elevated thunderstorms have developed in response to a strengthening LLJ which should continue to feed convection as it propagates southeast into northern IA over the next few hours. Latest radar data suggests several severe hail cores have developed within maturing convection across northern portions of ww486, and this should continue well into the pre dawn hours with some clustering likely. Severe threat remains primarily large hail. ..Darrow.. 09/06/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1677,
+      "issue_utc": "2020-09-06T06:06Z",
+      "topic": "Severe Thunderstorm Watch 486",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1677.html",
+      "summary": "Threat for large hail continues across southern MN and northern/northeast IA. Potential for damaging wind gusts has also increased across the region.",
+      "discussion": "Recent surface analysis places a warm front from BKX (in far east-central SD) southwestward across southwest MN and north-central IA to near CID in southeast IA. A strong low-level jet (i.e. 40 to 50 kt) continues across this tight frontal zone, contributing to strong warm-air advection and widespread elevated thunderstorms. Recent RAP soundings reveal a mid-level dry layer, roughly between 850 and 700 mb, from a remnant elevated mixed layer. This EML is contributing to both strong buoyancy as well as the potential for strong downbursts. Regional radar imagery shows that a few of these storms have begun to accelerate more southward/southeastward, indicative of strong outflow and a tendency toward more forward propagation. A 54 kt was measured at RWF at 0516Z and other strong gusts of 42 kt and 38 kt were measured at MKT and AUM, respectively. This is evidence that despite the elevated character of the storms, the downbursts are strong enough to penetrate through the low-level stability and reach the surface. Consequently, the threat for damaging wind gusts has increased. The threat for large hail also remains over the region. ..Mosier.. 09/06/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1678,
+      "issue_utc": "2020-09-06T07:32Z",
+      "topic": "Severe Thunderstorm Watch 486",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1678.html",
+      "summary": "Threat for severe hail and damaging wind gusts will continue for the next few hours. Given that Severe Thunderstorm Watch #486 is set to expire at 08Z, a watch extension and/or new watch will be needed to address the continuing severe threat.",
+      "discussion": "Recent surface observations reveal the position of the warm front has been modified slightly by storm outflow. Currently the warm front lies from FSD (in far southwest SD) east-southeastward to AXA (in north-central IA) and then more southeastward across IA to near MUT on the southern IL/IA border. Intense updrafts persist within several of the thunderstorms north of this front across south-central MN/north-central IA into northeast/east-central IA. Recent radar imagery has shown a trend toward more storm clustering and forward propagation, potential signalling a transition to more cold pool dominant storm structures. Even with the elevated nature of the ongoing storms, cold pool amalgamation is still possible, with the resulting clusters then progressing quickly southeastward. A strong low-level jet will continue to support warm-air advection across the frontal zone, helping to provide warm, moist inflow to the ongoing storms. Expectation is for the threat for large hail and damaging wind gusts to persist for at least the next few hours, particularly from south-central MN/north-central IA downstream into southwest WI and northwest IL. Severe Thunderstorm Watch #486 is set to expire at 08Z and a watch extension and/or new watch will likely be needed to address the continuing severe threat."
+    },
+    {
+      "year": 2020,
+      "number": 1679,
+      "issue_utc": "2020-09-06T10:30Z",
+      "topic": "Severe Thunderstorm Watch 487",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1679.html",
+      "summary": "Strong to severe storms capable of hail and/or damaging wind gusts will continue for the next few hours.",
+      "discussion": "Outflow from the ongoing thunderstorms has become defined over the past hour or so, and is not readily identifiable in radar imagery. This outflow has also led to a modification of the warm front, with the outflow acting as an effective cold front across central/eastern IA into northwest IL. Radar trends over the past hour have also generally shown more transient updrafts, adding more evidence to the outflow-dominant character of the storms. The exceptions to this trend are ongoing cluster just east of DVN and the cell in Grundy County IA. Both of these storms have shown a bit more persistence/organization. Storm cluster east of DVN was responsible for a 51 kt gust about an hour ago as it went through DVN. Warm-air advection over the the outflow will continue to lift parcels to their LFC, supporting the development of new updrafts, as well as aiding in the persistence of ongoing storms. Large hail will be possible within the newer updrafts, while strong outflow could produce damaging wind gusts as storms collapse. Continued eastward/southeastward motion will take the convective system east of the stronger low-level flow, likely leading to gradually diminishing storm intensity and longevity. Even so, additional areas may need to be added to the watch in central IL before this weakening trend sufficiently reduces the severe threat. ..Mosier.. 09/06/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

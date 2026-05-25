@@ -1,0 +1,338 @@
+{
+  "convective_day": "2020-06-04",
+  "valid_start": "2020-06-04T12:00Z",
+  "valid_end": "2020-06-05T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-06-04",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-06-04T16:30Z",
+      "valid_end": "2020-06-05T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200604_1630.html",
+      "summary": "The most likely corridor for severe thunderstorms is across parts of western to south-central South Dakota where very large hail, severe wind gusts, and a couple tornadoes are possible. Elsewhere, scattered severe thunderstorms are possible in the Upper Midwest, southern Great Plains, and Upper Ohio Valley to Mid-Atlantic States.",
+      "sections": [
+        {
+          "title": "Northern Great Plains through Mid Missouri Valley",
+          "text": "Primary change is to upgrade to a cat 3/Enhanced Risk across parts of western to south-central SD for large hail given the potential of a couple long-track supercells. Low-amplitude westerlies with embedded mid-level perturbations and strengthening late-day winds aloft (reaching 55-70kt at 500 mb over the Dakotas) will influence the region. In the wake of a weak mid-level impulse over eastern SD, an additional impulse/speed max emanating from the northern Rockies will reach the Dakotas/Mid-MO Valley by late afternoon/early evening. A corridor of modest low-level moisture will be maximized near a front across SD where low/mid 60s F surface dewpoints are expected, while 50s/some low 60s F dewpoints will exist across NE near/east of a surface trough across other northern High Plains areas within a post-frontal upslope regime. This moisture beneath 7.5-8.5 C/km mid-level lapse rates will generally result in 1500-2000 J/kg MLCAPE by peak heating. As air mass destabilization occurs and forcing for ascent increases into the region, isolated to scattered storms are expected to initially develop off the Big Horns and spread into western SD during the late afternoon The aforementioned wester"
+        },
+        {
+          "title": "Southern Great Plains",
+          "text": "Hot temperatures from the upper 90s to slightly above 100 will occur with the boundary layer becoming moderately unstable (1500-2000 J/kg MLCAPE) to the east of a lee trough/dryline. Scattered thunderstorms are likely to develop by late afternoon across the Panhandles and spread into western OK and western north TX in the early evening. This development will likely be aided by a subtle ridge-riding mid-level impulse, which should be favorably timed with peak heating/maximum destabilization. Storms will be high based with moderate (25-35 kt) vertical shear supportive of mostly multicells, but some marginal supercell structures are also possible. Severe wind gusts and some hail will be the primary risks before waning after dusk when MLCIN substantially increases."
+        },
+        {
+          "title": "Upper OH Valley to Mid-Atlantic States",
+          "text": "A moist air mass with 60s surface dew points will remain across the region. While the storms are not expected to be as intense as yesterday across the Mid-Atlantic, moderate warm sector destabilization should allow for an intensification of storms this afternoon. Ascent tied to an MCV near the OH/IN border and along a developing lee trough east of the central Appalachians should support scattered thunderstorms during the late afternoon to early evening. A modestly strong belt of westerlies aloft will contribute to around 25-35 kt of effective shear, which will be sufficient for organized/sustained multicells. Wind damage will be the most probable severe hazard, but marginally severe hail is possible."
+        },
+        {
+          "title": "Lower OH Valley to Mid-South",
+          "text": "An MCV is drifting east across southeast MO. Thinning of cloud coverage in vicinity of this feature should support some boundary-layer heating beneath weak mid-level lapse rates. While CAMs suggest a late day increase in convection amid sufficient mid-level flow to support multicell clustering, uncertainty exists in whether buoyancy will be large enough to warrant a greater risk beyond locally damaging winds. ..Grams/Moore.. 06/04/2020"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-06-04",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-06-04T20:00Z",
+      "valid_end": "2020-06-05T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200604_2000.html",
+      "summary": "The most likely corridor for severe thunderstorms is across parts of western to south-central South Dakota where very large hail, severe wind gusts, and a couple tornadoes are possible. Elsewhere, scattered severe thunderstorms are possible in the Upper Midwest, southern Great Plains, and Upper Ohio Valley to Mid-Atlantic States.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "A couple of minor changes were made to the previous convective outlook and are describe below. 1) Reduced/removed severe probabilities near and north of I-70 in IN and OH to the west of the squall line over eastern OH due in part to convective overturning and lack of focus for additional strong/severe activity. 2) Removed 5-percent hail probabilities across KY/TN/OH/WV and confined the 5-percent hail probabilities to be near and east of the Appalachians for the remainder of the afternoon/evening. 3) Removed low-severe probabilities to the west and in the wake of the MCV near the OH/MS River confluence due in part to large-scale subsidence from this feature. ..Smith.. 06/04/2020 .PREV DISCUSSION... /ISSUED 1130 AM CDT Thu Jun 04 2020/"
+        },
+        {
+          "title": "Northern Great Plains through Mid Missouri Valley",
+          "text": "Primary change is to upgrade to a cat 3/Enhanced Risk across parts of western to south-central SD for large hail given the potential of a couple long-track supercells. Low-amplitude westerlies with embedded mid-level perturbations and strengthening late-day winds aloft (reaching 55-70kt at 500 mb over the Dakotas) will influence the region. In the wake of a weak mid-level impulse over eastern SD, an additional impulse/speed max emanating from the northern Rockies will reach the Dakotas/Mid-MO Valley by late afternoon/early evening. A corridor of modest low-level moisture will be maximized near a front across SD where low/mid 60s F surface dewpoints are expected, while 50s/some low 60s F dewpoints will exist across NE near/east of a surface trough across other northern High Plains areas within a post-frontal upslope regime. This moisture beneath 7.5-8.5 C/km mid-level lapse rates will generally result in 1500-2000 J/kg MLCAPE by peak heating. As air mass destabilization occurs and forcing for ascent increases into the region, isolated to scattered storms are expected to initially develop off the Big Horns and spread into western SD during the late afternoon The aforementioned wester"
+        },
+        {
+          "title": "Southern Great Plains",
+          "text": "Hot temperatures from the upper 90s to slightly above 100 will occur with the boundary layer becoming moderately unstable (1500-2000 J/kg MLCAPE) to the east of a lee trough/dryline. Scattered thunderstorms are likely to develop by late afternoon across the Panhandles and spread into western OK and western north TX in the early evening. This development will likely be aided by a subtle ridge-riding mid-level impulse, which should be favorably timed with peak heating/maximum destabilization. Storms will be high based with moderate (25-35 kt) vertical shear supportive of mostly multicells, but some marginal supercell structures are also possible. Severe wind gusts and some hail will be the primary risks before waning after dusk when MLCIN substantially increases."
+        },
+        {
+          "title": "Upper OH Valley to Mid-Atlantic States",
+          "text": "A moist air mass with 60s surface dew points will remain across the region. While the storms are not expected to be as intense as yesterday across the Mid-Atlantic, moderate warm sector destabilization should allow for an intensification of storms this afternoon. Ascent tied to an MCV near the OH/IN border and along a developing lee trough east of the central Appalachians should support scattered thunderstorms during the late afternoon to early evening. A modestly strong belt of westerlies aloft will contribute to around 25-35 kt of effective shear, which will be sufficient for organized/sustained multicells. Wind damage will be the most probable severe hazard, but marginally severe hail is possible."
+        },
+        {
+          "title": "Lower OH Valley to Mid-South",
+          "text": "An MCV is drifting east across southeast MO. Thinning of cloud coverage in vicinity of this feature should support some boundary-layer heating beneath weak mid-level lapse rates. While CAMs suggest a late day increase in convection amid sufficient mid-level flow to support multicell clustering, uncertainty exists in whether buoyancy will be large enough to warrant a greater risk beyond locally damaging winds."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-06-05",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-06-05T01:00Z",
+      "valid_end": "2020-06-05T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200605_0100.html",
+      "summary": "Severe storms with damaging wind and large hail will persist this evening into tonight over a portion of the northern and central Plains into the upper Mississippi Valley region. Other strong to severe storms will continue this evening over a portion of the southern Plains.",
+      "sections": [
+        {
+          "title": "Southern Plains",
+          "text": "Large cluster of storms persists from western OK through northwest TX region. Some of this activity remains severe with a few damaging wind gusts, and the severe threat may persist another couple hours. However, a substantial increase in convective inhibition associated with a stabilizing boundary layer suggests activity should begin a decreasing trend by 03Z. ..Dial.. 06/05/2020"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 810,
+      "issue_utc": "2020-06-04T15:11Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0810.html",
+      "summary": "An isolated damaging wind gust or two is possible across middle OH Valley for the next few hours.",
+      "discussion": "Recent surface analysis and visible satellite imagery reveals a complex environment in place across the middle OH Valley in the wake of a now decayed mesoscale convective system. Visible satellite imagery shows a mesoscale convective vortex about 15 miles northeast of BMG while surface observations and satellite imagery depict a remnant outflow boundary from about 10 miles north of EVV northeastward into central OH (about 15 miles south of MFD). Both of these features have already promoted new thunderstorm development. Currently, the overall environment is only modestly buoyant, with daytime heating needed to steepen low-level lapse rates and boast instability. Current expectation is for these loosely organized multicells/line segments to remain predominantly sub-severe with a relatively low potential for an isolated damaging wind gust or two. These features and the ongoing storms will likely both contribute to higher severe thunderstorm potential later this afternoon as the air mass destabilizes."
+    },
+    {
+      "year": 2020,
+      "number": 811,
+      "issue_utc": "2020-06-04T16:45Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0811.html",
+      "summary": "Increasing severe thunderstorm threat is forecast across central/eastern OH, northern WV Panhandle, and western PA.",
+      "discussion": "Thunderstorm coverage across central OH has recently increased, supported by air mass destabilization and ascent from the approaches convectively enhanced vorticity maximum. Downstream air mass across central and eastern OH and western PA is expected to continue destabilizing under strong diurnal heating. Additionally, the westerly flow aloft increases with eastern extent into PA, suggesting the potential for a stronger, more organized convective line into PA. More cellular activity could produce some isolated large hail but the primary severe weather threat is expected to be damaging wind gusts. Given the current radar trends and favorable downstream air mass, a watch will likely be needed soon."
+    },
+    {
+      "year": 2020,
+      "number": 812,
+      "issue_utc": "2020-06-04T17:32Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0812.html",
+      "summary": "The outflow boundary and remnants of an overnight MCS will continue to move southward into southern Arkansas the Arklatex region. Periodic intensification along the line/outflow boundary is possible and will pose brief windows for marginally severe hail and possibly strong wind gusts.",
+      "discussion": "An outflow boundary and remnants of the MCS that moved through southern MO and northwest AR continue to propagate southward towards southern AR the greater Arklatex region. Recent radar trends from KSRX show the linear cluster of storms in western AR is not well organized - likely due to decreasing deep layer shear with southward extent - but still exhibits occasional deep updraft cores. As these storms, and the associated outflow boundary, continue south they will encounter a moderately unstable air mass with MLCAPE between 2000-2500 J/kg with decreasing inhibition. The expectation is for this line of storms to continue to show periodic updraft intensification along the line and potentially new storm development along the outflow boundary. Each intensification will introduce a brief window for marginally severe hail and strong gusty winds. Given the marginal nature of the threat, a watch is not likely."
+    },
+    {
+      "year": 2020,
+      "number": 813,
+      "issue_utc": "2020-06-04T17:59Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0813.html",
+      "summary": "Isolated to scattered thunderstorm development is probable through the mid afternoon, but most storms should remain below severe limits. A watch is not likely.",
+      "discussion": "Agitated cumulus and a few weak thunderstorms have developed along and north of a stationary boundary draped east-west across Iowa. As daytime heating and decreasing inhibition continue, additional thunderstorms are probable. Given 500-1000 J/kg, with pockets up to 1500 J/kg, of MLCAPE, a strong storm or two is possible and may occasionally be capable of marginally severe hail. However, deep layer shear is currently weak and is not expected to increase above 25 knots until the late afternoon/evening hours. Given the low probability for severe hail and wind in this area, a watch is not likely for this round of developing convection."
+    },
+    {
+      "year": 2020,
+      "number": 814,
+      "issue_utc": "2020-06-04T18:02Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0814.html",
+      "summary": "Increasing thunderstorm coverage with an attendant threat for damaging wind gusts is expected.",
+      "discussion": "Visible satellite imagery shows increasing cumulus from central VA northward into south-central PA. Thus far, the better vertical development has occurred over the higher terrain with the cumulus downstream has remained rather flat. With temperatures now in the upper 80s/low 90s and dewpoints still in the upper 50s to low 60s, the air mass across the region has destabilized with recent mesoanalysis indicating little to no convective inhibition remains. Mid-level lapse rates over the region are rather weak, but the warm and modestly moist low-level conditions still support MLCAPE from 500 to 1000 J/kg. MLCAPE will likely remain near these values even as the temperatures warm a few more degrees due to mixing of the boundary-layer moisture. 500-mb flow increases from about 25 kt over south-central VA to 40 kt over central PA. Vertical shear follows this pattern, with around 30 kt of 0-6 km bulk shear across PA. Expectation is for thunderstorm coverage to increase from central VA into central PA as storm move off the higher terrain into northern Piedmont. Given the relatively modest vertical shear, only loosely organized mulitcells are anticipated. However, the well-mixed boundary layer and resulting steep low-level lapse rates beneath relatively moist mid-level will contribute to an environment very supportive of strong downbursts. Given the expected storm coverage, a watch will likely be needed for portions of the area within the next hour or two."
+    },
+    {
+      "year": 2020,
+      "number": 815,
+      "issue_utc": "2020-06-04T18:14Z",
+      "topic": "Severe Thunderstorm Watch 249",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0815.html",
+      "summary": "Localized area of higher wind-damage potential exists across northeast OH and far western PA.",
+      "discussion": "Recent radar imagery has shown an increase in forward motion with the line segment moving eastward into northwest OH. Storm motion estimate is currently 40 kt. This increase in organization and strength appears tied to both a downstream increase in instability and interaction with a pre-existing boundary that is moving northward as an effective warm front. Given these trends, a localized area of higher damaging wind gust potential will exist downstream of this line for at least the next hour or so. ..Mosier.. 06/04/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 816,
+      "issue_utc": "2020-06-04T18:51Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0816.html",
+      "summary": "Scattered thunderstorms will begin moving into the Panhandles region in the coming hours and will pose a threat for severe hail and wind by the late afternoon/early evening hours. A severe thunderstorm watch is likely.",
+      "discussion": "Recent radar and visible satellite trends show increasing cumulus and weak thunderstorms developing off the higher terrain of northeast NM and southeast CO, as well as across far northeast NM and into the TX panhandle where surface pressure falls have been noted along a lee trough axis in recent RAP mesoanalyses. Recent hi-res guidance suggests this activity will propagate eastward into the TX/OK Panhandles region by the mid to late afternoon hours, and the recent cumulus development suggest isolated thunderstorm development within the western TX Panhandle is possible as well. Although 1000-1500 J/kg of MLCAPE is already in place, mixed-layer inhibition and relatively weak deep-layer shear will hinder storm intensification in the near-term. However, clear skies will continue to allow daytime heating through the afternoon as temperatures climb towards the mid-upper 90s. This will aid in reducing MLCIN by mid/late afternoon. Additionally, a gradual increase in effective bulk shear is expected through the afternoon and evening hours. This suggests that convection should become increasingly organized and pose a greater potential for severe hail and wind after the 20-21 UTC time frame. Deep boundary-layer mixing up to nearly 3 km should be in place across the region by mid afternoon and will aid in the potential for strong downburst winds as well as additional storm development along outflow boundaries."
+    },
+    {
+      "year": 2020,
+      "number": 817,
+      "issue_utc": "2020-06-04T19:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0817.html",
+      "summary": "Additional thunderstorm development is expected in the coming hours across the MT/WY/SD tri-state region. These storms will be capable of strong wind and severe hail as they move towards north-central Nebraska through the evening hours.",
+      "discussion": "Recent visible imagery shows signs of increasing vertical development within cumulus fields that are developing off the higher terrain of the Black Hills and along the MT/WY border. Isolated to scattered thunderstorms are expected to develop within this region and propagate to the east/southeast towards south-central SD and north-central NE into the evening hours. 40 to 55 knots of effective bulk shear within this region should compensate for modest, but sufficient, MLCAPE values across much of southwest SD (500-1000 J/kg). Nearly straight hodographs, noted in recent KBIS VWP data as well as RAP forecast soundings, will favor organized splitting storms that will be capable of producing both severe hail and wind. A tornado or two can not be ruled out across southwest to south central SD during the late afternoon/evening hours where 100-150 m2/s2 ESRH is noted in recent RAP mesoanalyses and upper 50s to low 60s dewpoints have been observed at the surface."
+    },
+    {
+      "year": 2020,
+      "number": 818,
+      "issue_utc": "2020-06-04T19:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0818.html",
+      "summary": "Isolated damaging wind gusts possible over the next several hours.",
+      "discussion": "Well-defined mesoscale convective vortex is easily discernible from regional radar imagery over far southeast MO (approximately 10 miles southwest of CGI). Cloudiness across the area downstream of this MCV has been slower to destabilize than areas farther east, but temperatures are now in the low 80s and mesoanalysis suggests little to no MLCIN remains. Some minimal enhancement of the low-level flow is possible east of this vortex, but vertical shear is generally is expected to be modest. This should lead to a predominately disorganized multicellular mode. Widespread thunderstorm coverage is anticipated and a few isolated storms could briefly reach severe strength, particularly if updrafts are augmented by cell interactions/mergers."
+    },
+    {
+      "year": 2020,
+      "number": 819,
+      "issue_utc": "2020-06-04T20:00Z",
+      "topic": "Severe Thunderstorm Watch 249",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0819.html",
+      "summary": "Convective line will continue to pose a threat for damaging wind gusts as it moves across eastern OH into adjacent northwest WV and western PA.",
+      "discussion": "Radar imagery now indicates a coherent convective line from northeast OH southwestward into southeast OH. Northern portion of the line which previously show forward-propagating characteristics has recently lost some of its intensity and forward speed. Even with this loss in intensity, KPBZ radar data still shows strong winds within this portion of the line entering southwest PA. Southern portion of the line has recently increased in intensity (shown by stronger updrafts) as cold pools amalgamate. Subtle signals exist within the latest radar imagery of a forward surge beginning within this portion of the line. Given the stronger updrafts and potential for stronger downbursts, this scenario seem plausible, which would result in a localized corridor of higher wind-damage potential. ..Mosier.. 06/04/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 820,
+      "issue_utc": "2020-06-04T20:41Z",
+      "topic": "Severe Thunderstorm Watch 250",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0820.html",
+      "summary": "Threat for hail and damaging wind gusts will persist for the next few hours.",
+      "discussion": "Predominantly cellular storms have develop across central PA, with numerous storm splits observed. Straight hodograph depicted by recent KPBZ VAD data suggests an environment favorable for splitting cells, which matches the observations well. While many of the cells are shallow and disorganized, cells in Juniata/Perry, Dauphin, and Franklin counties appear to be supercellular and moving to the right of the mean wind. Threat for hail and damaging wind gusts will continue from central PA into eastern PA over the next few hours. Farther south along the higher terrain of western MD and eastern VA, a more outflow-dominant storm mode has been noted thus far. Updrafts have struggled to maintain intensity as they develop along these outflow. Slightly better updraft organization and longer maintenance has begun over, and in the vicinity of, the eastern WV Panhandle where better vertical shear exists. Threat for hail and damaging wind gusts will also persist over this area for the next few hours. ..Mosier.. 06/04/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 821,
+      "issue_utc": "2020-06-04T22:14Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0821.html",
+      "summary": "Storms are developing across northern/eastern Iowa into far southern Minnesota. Damaging winds and large hail are the primary severe threats. However, given the likely isolated and marginal nature of the severe threat, a watch issuance is unlikely.",
+      "discussion": "Storms are developing along and near a surface front draped across eastern South Dakota through southwest Minnesota and northern Iowa. A cu field has developed across the area as convective temperatures are breached along with lifting associated with the surface front. Zonal flow aloft is strengthening and water vapor imagery suggests low amplitude mid-level shortwave troughs are rotating over the region. Daytime heating has pushed surface temperatures into the upper 80s F and low 90s F with dewpoints in the 60s F south of the front. As a result, instability has increased with MLCAPE of 500-1500+ J/kg now across the area per mesoanalysis, and weaker supercells are possible with bulk shear of 30-40 knots. Damaging winds and large hail are the main threats as storms drift eastward. However, the environment indicates the severe coverage will likely be more isolated with marginally severe hail/wind."
+    },
+    {
+      "year": 2020,
+      "number": 822,
+      "issue_utc": "2020-06-04T22:23Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0822.html",
+      "summary": "Gusty winds will likely accompany convection across the central High Plains this evening. Scattered nature suggests a watch may not be required.",
+      "discussion": "Strong boundary-layer heating across the central High Plains has contributed to negligible inhibition from western KS into western NE. As a result, scattered high-based convection has evolved along this corridor within mid-level northwesterly flow. Adequate high-level flow appears supportive of maintaining these updrafts and PW values are sufficient for enhancing downdrafts. However, much of this activity should remain scattered and it's not clear how organized thunderstorms will be. The most likely region for organized convection will be near the NE/SD border and this region may ultimately need to be in a watch later this evening."
+    },
+    {
+      "year": 2020,
+      "number": 823,
+      "issue_utc": "2020-06-04T22:44Z",
+      "topic": "Severe Thunderstorm Watch 250",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0823.html",
+      "summary": "Greatest short-term severe threat appears to be focusing across central and eastern Pennsylvania. Locally strong winds are the primary threat.",
+      "discussion": "Latest radar data suggests a weak MCV has developed over Jefferson County PA. This feature is shifting east and may enhance ongoing scattered convection downstream across central into eastern PA. Leading edge of this activity has shifted east of the watch into Berks County and will likely propagate another county or two before weakening. Air mass over the coastal Middle Atlantic is considerably less buoyant and visible satellite imagery supports this with very few boundary-layer cumulus. ..Darrow.. 06/04/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 824,
+      "issue_utc": "2020-06-04T23:10Z",
+      "topic": "Severe Thunderstorm Watch 251",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0824.html",
+      "summary": "A cluster of storms is moving southeast across the Texas South Plains with damaging winds and large hail as the primary severe threats. Storms are likely to continue moving southeast into the evening, and a local watch extension may be necessary.",
+      "discussion": "Storms with a history of damaging winds and radar signatures indicative of large hail are moving southeast across the Texas South Plains northeast of Lubbock. Weaker storms are developing upstream of the two supercells across Hale, Floyd, and Motley counties along outflow and near a surface pressure trough/dryline. Given the relatively straight, long hodographs and northwest flow, storm splitting will likely to continue. However, supercellular structure will likely continue with 35-45 knots of effective bulk shear. Given the downstream environment, storms are likely to continue, although after sunset, storms are likely to weaken. The low level jet will likely strengthen across the southern High Plains, which could sustain convection tonight. However, the more likely scenario is for storms to continue through sunset and move out of the current watch. A local extension is likely, and a new downstream watch may be necessary depending on how storms evolve over the next few hours."
+    },
+    {
+      "year": 2020,
+      "number": 825,
+      "issue_utc": "2020-06-04T23:37Z",
+      "topic": "Severe Thunderstorm Watch 253",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0825.html",
+      "summary": "A cluster of storms is beginning to congeal into a line across western Oklahoma. These storms will continue moving southeast with the potential for damaging winds and large hail.",
+      "discussion": "Storms with a history of severe wind including reports of 70 and 80 mph and large hail (1 inch) are moving southeast across western Oklahoma. Storms are beginning to form a more coherent line with some evidence of an increasing rear inflow jet developing behind the center of the line. Surface temperatures of 95-105 F and a deep, well mixed boundary layer with surface dewpoint depressions of 35-50 F are likely to contribute to efficient mixing of strong to damaging wind gusts to the surface. If the line continues to organize, the threat for damaging winds will increase in the short term. Large hail will also remain possible. These storms will begin to weaken after sunset, but the severe threat will remain for the next 2-4 hours. As these storms begin to collapse later tonight, strong winds could emanate outward from the cluster with heat bursts possible."
+    },
+    {
+      "year": 2020,
+      "number": 826,
+      "issue_utc": "2020-06-04T23:55Z",
+      "topic": "Severe Thunderstorm Watch 252",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0826.html",
+      "summary": "Severe threat should gradually increase across ww252.",
+      "discussion": "Two well-organized supercells have evolved over ww252 this evening. This may be in part to 500mb speed max that is translating across the northern High Plains along the SD/ND border. Supercell over the northern Black Hills has likely produced very large hail at times and this storm appears to be cycling as it propagates southeast along the east slopes of the higher terrain. New convection is gradually deepening over Sheridan/Campbell County WY region and this activity will likely intensify as it approaches higher buoyancy. Given the northwest/southeast-oriented instability corridor over the Plains, severe threat is expected to spread southeast toward the NE border, in line with latest CAMs. Later this evening, supercells could spread into north-central NE. ..Darrow.. 06/04/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 827,
+      "issue_utc": "2020-06-05T00:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0827.html",
+      "summary": "A severe thunderstorm match may be issued downstream of WW251 and WW253 across portions of the northwest Texas and Texas Big Country. Damaging winds and large hail would be the primary threats.",
+      "discussion": "Storms are continuing to move south-southeast across the Texas South Plains and northwest Texas this evening with a history of large hail and damaging winds. While ample buoyancy (MLCAPE of 1000-2500 J/kg) and shear (30-40 knots) remains across the region and downstream, storms will begin to weaken as daytime heating wanes. With the loss of heating, updrafts will begin to weaken and storms may struggle to transition to being elevated. However, storms, especially supercells, may likely persist for another 1-2 hours and spread outside WW 251 and WW 253. While the downstream area for a possible new watch will be relatively small and narrow, there is potential for large hail and damaging winds."
+    },
+    {
+      "year": 2020,
+      "number": 828,
+      "issue_utc": "2020-06-05T01:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0828.html",
+      "summary": "A cluster of storms are developing in southwest Kansas capable of damaging winds and large hail. A watch issuance is possible, but the longevity and coverage of storms are uncertain.",
+      "discussion": "Storms developed and intensified in southwest Kansas as an outflow boundary pushed northward. The 00z DDC sounding sampled 500+ J/kg of MLCAPE and 25-30 knots of effective bulk shear. However, mesoanalysis depicts slightly more instability and shear and the storm structure appears to support slightly higher instability. These storms are likely to drift south-southeast this evening with large hail and damaging winds possible. How long these storms will last and how far south/east they move are uncertain given the presence of northwest flow and with the low level jet likely strengthening in the vicinity tonight. The situation will be monitored over the next 1-2 hours for a possible watch issuance."
+    },
+    {
+      "year": 2020,
+      "number": 829,
+      "issue_utc": "2020-06-05T02:21Z",
+      "topic": "Severe Thunderstorm Watch 253",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0829.html",
+      "summary": "A line of storms is moving southeast across southwest and south-central Oklahoma and into far northwest Texas. Damaging winds are the main severe threat with this likely continuing for the next 1-2 hours. A new downstream watch is unlikely.",
+      "discussion": "Multiple measured severe wind gusts have been observed as the line of storms has moved across western/central Oklahoma. The gust front has begun to surge ahead of the line with some indication via radar/lightning that the eastern part of the line is weakening. However, damaging winds remain possible across central Oklahoma with higher chances of severe winds across southwest/southern Oklahoma. These storms may persist into northwest/north Texas in the next hour or two with a local watch extension possible. While the severe threat may continue downstream of WW253, a new downstream watch is unlikely currently, given the relatively small area/window of time for severe winds."
+    },
+    {
+      "year": 2020,
+      "number": 830,
+      "issue_utc": "2020-06-05T02:34Z",
+      "topic": "Severe Thunderstorm Watch 251",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0830.html",
+      "summary": "A cluster of storms may persist for the next hour or two near Lubbock, TX with large hail and damaging winds possible. A local watch extension may be necessary.",
+      "discussion": "Storms have continued to form off the western edge of an outflow boundary from convection that pushed south-southeast across the Texas South Plains this evening. As the dryline has slowly started to retreat, the area for potential severe storms has expanded westward, which has allowed these storms to develop and intensify. The transition from transient supercellular convection to multicellular, more outflow dominant convection has occurred over the last hour as daytime heating waned. This trend is likely to continue, but severe winds/hail are still possible over the next hour and possibly slightly longer. The low level jet is forecast to strengthen later tonight, but these storms may not last long enough to be influenced. A local watch extension (in time) may be necessary past 03z, but a new watch is unlikely."
+    },
+    {
+      "year": 2020,
+      "number": 831,
+      "issue_utc": "2020-06-05T02:36Z",
+      "topic": "Severe Thunderstorm Watch 254",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0831.html",
+      "summary": "Isolated thunderstorms with damaging wind gusts remain possible.",
+      "discussion": "Earlier convection that developed over the central High Plains has since migrated across central NE with locally severe winds, but little appreciable organization. Modest LLJ will gradually veer across eastern NE tonight and this should contribute to continued east-southeast propagation. Latest CAMs suggest an upward-evolving complex of storms could evolve within this warm advection zone, possibly spreading into northwestern MO later tonight. ..Darrow.. 06/05/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 832,
+      "issue_utc": "2020-06-05T03:24Z",
+      "topic": "Severe Thunderstorm Watch 252",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0832.html",
+      "summary": "Severe threat will spread south of ww252 into north-central Nebraska over the next 1-2 hours.",
+      "discussion": "Isolated supercells over southwestern SD continue propagating southeast at roughly 35 kt. Given the current speed/movement, back edge of severe threat should spread south of SD around 05z. Hail and wind remain likely with the strongest storms. Watch extension may be warranted to account for this lingering threat. ..Darrow.. 06/05/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 833,
+      "issue_utc": "2020-06-05T03:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0833.html",
+      "summary": "Isolated strong thunderstorms, with some threat for hail and wind, will be noted along a corridor from southern MN to northwestern IL. At this time a watch does not appear warranted.",
+      "discussion": "Southern influence of a weak short-wave trough is expected to aid convection across the upper MS Valley into the early morning hours. Surface front that is currently draped across northern IL/IA should advance slowly north tonight as a weak surface low tracks along the MN/IA border. Scattered elevated convection is currently noted along the cool side of the boundary, and this should continue as weak warm advection is expected to persist. Latest radar data suggests hail is noted with the small bow-type convection over southwestern MN, while winds have recently gusted to 53kt at DVN. At this time it does not appear the severe threat will be extensive enough to warrant a watch; however, will continue to monitor and if trends change this will be readdressed. ..Darrow.. 06/05/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 834,
+      "issue_utc": "2020-06-05T04:31Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0834.html",
+      "summary": "Locally severe wind gusts, with some threat for isolated hail, will be noted for the next few hours across the TX South Plains.",
+      "discussion": "Deep convection that developed along the dry line over the TX/OK Panhandle region has evolved into a larger complex of storms over the TX South Plains. This activity has persisted longer than earlier anticipated and recent CAMs suggest. However, given the cold pool that has formed it appears the MCS may actually propagate another 50-100mi or so before gradually weakening, especially given the LLJ that is observed across the southern High Plains. Damaging winds have been noted with this convection but the questionable duration may not warrant a new watch."
+    },
+    {
+      "year": 2020,
+      "number": 835,
+      "issue_utc": "2020-06-05T06:59Z",
+      "topic": "Severe Thunderstorm Watch 255",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0835.html",
+      "summary": "Severe, locally damaging wind gusts and hail are possible over the next couple of hours, especially along the I-70 corridor from Topeka to Kansas City.",
+      "discussion": "Intense convection continues to track southeast across WW 255 at around 40 kt, with some potential for an increase in forward speed over the next hour. Backed surface winds from the east/southeast are sustaining surface dewpoints in the low 70s F ahead of the line of convection beneath moderately steep midlevel lapse rates. This is aiding in MLCAPE values in excess of 2000 J/kg across the region. Examination of regional VWPs show increasing 1-2 km southwesterly winds at TWX and evidence of a rear-inflow jet from OAX. The 00z RAOB from TOP further indicates a thermodynamic profile supportive of strong downdrafts. Furthermore, recent radar data suggests evidence of possibly descending rear-inflow across Pottawatomie County KS where lower reflectivity notches are noted behind the line. Given a favorable environment ahead of this organized line of storms, expect that severe, locally damaging, gusts will continue as the storms move east/southeast toward TOP and MCI in the vicinity of the I-70 corridor. Another corridor of strong to severe winds is possible further north from far northwest MO toward toward CDJ, though this portion of the line is expected to traverse a somewhat weaker instability gradient. ..Leitman.. 06/05/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 836,
+      "issue_utc": "2020-06-05T08:31Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0836.html",
+      "summary": "A severe thunderstorms watch will be issued across parts of southwest into central MO. Locally damaging gusts and hail are possible.",
+      "discussion": "An organized line of storms continues to produce severe gusts and occasional hail across parts of northwest MO and eastern KS within WW 255. These storms are moving toward the southeast at around 35 kt. Most recently, a severe gust to 51 kt was measured at in Shawnee County, KS and 56 kt measured at St. Joseph, MO. Earlier signs of outflow surging ahead of the southern portions of the bowing MCS continue across parts of KS, however, redevelopment and intensification of additional cells near the outflow has been noted recently as storms approach the KS/MO state line near Kansas City. Additionally, cloud tops continue to cool in IR satellite loops, suggesting the MCS may still undergo additional strengthening. The downstream environment remains supportive of strong gusts with MLCAPE values between 2000-3000 J/kg common. While some inhibition exists, forecast soundings and 00z RAOB from SGF show favorable thermodynamic profiles for intense downdrafts. Regional VWP data also continues to show a rear-inflow jet of 50+ kts associated with the bowing MCS."
+    },
+    {
+      "year": 2020,
+      "number": 837,
+      "issue_utc": "2020-06-05T09:17Z",
+      "topic": "Severe Thunderstorm Watch 256",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0837.html",
+      "summary": "Severe storms capable of damaging winds appear most likely from near Des Moines into south-central IA over the next couple of hours. Local watch extension may be needed if trends continue.",
+      "discussion": "A supercell on the southern end of a line of convection tracking southeast across IA will pose the greatest severe threat over the next couple of hours as it tracks toward Des Moines and south-central IA. Radar presentation of this cell has shown impressive rotation at times with strong outflow winds. Recent reports of downed trees and power lines have been relayed via NWS DMX, and MRMS MESH indicates near 1 inch hail is possible. This storm is tracking southeast around 35-40 kt along a strong instability gradient amid effective shear values greater than 35 kt. The downstream environment should remain ideal for maintenance of this intense supercell and severe gusts are expected. Further east, convection has been struggling to maintain intensity over the last hour or so. This area is on the weaker side of the instability gradient and encountering greater inhibition. Nevertheless, strong to severe wind gusts will still be possible over the next 1-2 hours, despite expected longer-term weakening. ..Leitman.. 06/05/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "convective_day": "2023-07-27",
+  "valid_start": "2023-07-27T12:00Z",
+  "valid_end": "2023-07-28T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2023-07-27",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-27T16:30Z",
+      "valid_end": "2023-07-28T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230727_1630.html",
+      "summary": "Severe gusts and hail (some potentially significant) are possible this afternoon and evening in parts of Minnesota and Wisconsin. Damaging to severe gusts also may occur today with thunderstorms in parts of the Mid-Atlantic/New England regions, and the central High Plains and Rockies.",
+      "sections": [
+        {
+          "title": "Northeast",
+          "text": "A well-defined shortwave trough is moving across central NY today. Forcing for ascent ahead of this trough will aid in the development of scattered thunderstorms by mid-afternoon from parts of PA and southeast NY into southern and eastern New England. Rich low-level moisture and pockets of strong daytime heating will yield MLCAPE values around 2000 J/kg. Rather strong wind fields will promote relatively fast-moving storms capable of wind damage. Parts of southern New England may also have sufficient low-level vertical shear to pose a risk of a tornado or two. Please refer to MCDs #1736 and #1737 for further details."
+        },
+        {
+          "title": "Western Great Lakes/Upper Midwest",
+          "text": "Fast zonal flow is present today across the northern Plains, with 50-70 knot westerly winds above 6km noted on forecast soundings. A surface boundary is sagging southward across MN, and should provide the focus for rapid thunderstorm development later this afternoon. A very unstable air mass will develop from central MN into northern WI, along with sufficient deep-layer shear for supercells capable of very large hail. Storms are expected to persist well into the evening as they spread eastward into parts of Upper MI and much of northern/central WI. The risk of rather widespread damaging winds will increase across this area. Given the favorable environment and consistent 12z model signals, have upgraded portions of this area to ENH."
+        },
+        {
+          "title": "Rockies and High Plains",
+          "text": "Similar to yesterday, scattered high-based showers and thunderstorms are expected to develop over the high terrain of CO northward into much of WY and MT. Fast westerly flow and steep low-level lapse rates will promote a risk of damaging wind gusts in some of these storms. As activity spreads eastward into the Plains, a few more robust updrafts may also produce large hail. ..Hart/Thornton.. 07/27/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-07-27",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-27T20:00Z",
+      "valid_end": "2023-07-28T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230727_2000.html",
+      "summary": "Severe gusts and hail (some potentially significant) are possible the remainder of this afternoon and evening in parts of Minnesota and Wisconsin. Damaging to severe gusts also may occur today with thunderstorms in parts of the Mid-Atlantic/New England regions, and the central High Plains and Rockies.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "A few minor changes to wind probabilities from the Ohio Valley into the Northeast as well as modifications to the general thunder area based on the latest observational trends. The prior forecast reasoning otherwise remains valid. ..Wendt.. 07/27/2023 .PREV DISCUSSION... /ISSUED 1112 AM CDT Thu Jul 27 2023/"
+        },
+        {
+          "title": "Northeast",
+          "text": "A well-defined shortwave trough is moving across central NY today. Forcing for ascent ahead of this trough will aid in the development of scattered thunderstorms by mid-afternoon from parts of PA and southeast NY into southern and eastern New England. Rich low-level moisture and pockets of strong daytime heating will yield MLCAPE values around 2000 J/kg. Rather strong wind fields will promote relatively fast-moving storms capable of wind damage. Parts of southern New England may also have sufficient low-level vertical shear to pose a risk of a tornado or two. Please refer to MCDs #1736 and #1737 for further details."
+        },
+        {
+          "title": "Western Great Lakes/Upper Midwest",
+          "text": "Fast zonal flow is present today across the northern Plains, with 50-70 knot westerly winds above 6km noted on forecast soundings. A surface boundary is sagging southward across MN, and should provide the focus for rapid thunderstorm development later this afternoon. A very unstable air mass will develop from central MN into northern WI, along with sufficient deep-layer shear for supercells capable of very large hail. Storms are expected to persist well into the evening as they spread eastward into parts of Upper MI and much of northern/central WI. The risk of rather widespread damaging winds will increase across this area. Given the favorable environment and consistent 12z model signals, have upgraded portions of this area to ENH."
+        },
+        {
+          "title": "Rockies and High Plains",
+          "text": "Similar to yesterday, scattered high-based showers and thunderstorms are expected to develop over the high terrain of CO northward into much of WY and MT. Fast westerly flow and steep low-level lapse rates will promote a risk of damaging wind gusts in some of these storms. As activity spreads eastward into the Plains, a few more robust updrafts may also produce large hail."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2023,
+      "number": 1736,
+      "issue_utc": "2023-07-27T15:05Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1736.html",
+      "summary": "The threat for damaging wind and a tornado or two will increase later today. Watch issuance is likely by late morning or early afternoon.",
+      "discussion": "A mid/upper-level shortwave trough is moving across northern NY this morning, and will approach northern New England by early afternoon. In conjunction with this shortwave, a weak surface low will move across northern NY/VT, as rich low-level moisture streams northeastward into a larger portion of New England. The 13 UTC sounding from SUNY-Albany depicts a favorable wind profile for organized convection, with rather strong midlevel flow and deep-layer shear, but also very weak midlevel lapse rates. Despite the weak lapse rates and rather widespread cloudiness, modest boundary-layer heating/moistening and ascent attendant to the shortwave trough will likely support deepening convection by early afternoon across the region. With weak instability, it may take some time for storms to mature, but a few supercells and organized clusters may evolve with time. Rather strong low-level flow will support a damaging-wind threat, especially where somewhat stronger heating can occur. Also, while the strongest low-level shear/SRH will tend to be somewhat displaced from the more favorable instability, a tornado or two will also be possible, given the potential for supercells within a very moist and favorably shear environment. Watch issuance is likely by late morning or early afternoon in order to address these threats."
+    },
+    {
+      "year": 2023,
+      "number": 1737,
+      "issue_utc": "2023-07-27T15:40Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1737.html",
+      "summary": "The threat for thunderstorm wind damage will increase this afternoon. Watch issuance is likely for parts of the region.",
+      "discussion": "Late morning visible satellite imagery depicts broken cloudiness from the Mid Atlantic into southern New England, with rather strong heating underway where stronger insolation is occurring. Despite weak midlevel lapse rates (as noted on regional morning soundings), continued heating of a richly moist boundary layer will result in moderate buoyancy, with MLCAPE potentially exceeding 2000 J/kg later this afternoon. While large-scale ascent will likely be weaker compared to areas farther northeast, continued weakening of MLCINH should allow scattered thunderstorm development with time this afternoon. Deep-layer shear also drops off with southward extent, but moderate southwesterly low/midlevel flow should help organize a few stronger storm clusters capable of damaging wind gusts, especially across areas where stronger pre-convective heating occurs. While timing of robust storm development remains somewhat uncertain, and may tend to be later with southward extent, watch issuance will become increasingly likely by early afternoon across parts of the area."
+    },
+    {
+      "year": 2023,
+      "number": 1738,
+      "issue_utc": "2023-07-27T18:47Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1738.html",
+      "summary": "Damaging wind and large hail threat increasing. A watch will likely be needed in the next hour.",
+      "discussion": "Visible satellite shows agitated cumulus development along a pseudo warm front/stationary front boundary across central Minnesota amid dew points in the mid 70s to 80s. Potential for earlier storm development than advertised in morning CAM guidance is possible. Surface objective analysis indicates the mid-level CAP has weakened, with MLCAPE around 2500-3000 J/kg across central Minnesota into Wisconsin and the Upper Michigan Peninsula. Deep layer shear around 40-50 kts in association with enhanced mid to upper level flow is noted across much of Minnesota and northern Wisconsin. Initial cell development is likely to include a few discrete supercells, capable of very large hail (some instances 2+ in) and damaging wind. Through the late afternoon/early evening, discrete cells that can track along the warm front may pose a risk of a tornado as well. Storms will likely attempt upscale growth as the front sags southward through the evening. Potential for damaging winds will increase. A watch will likely be needed within the next hour."
+    },
+    {
+      "year": 2023,
+      "number": 1739,
+      "issue_utc": "2023-07-27T19:16Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1739.html",
+      "summary": "Scattered strong to severe storms possible this afternoon.",
+      "discussion": "An west to east boundary draped across the Ohio River Valley from Indianapolis to area south of the Pittsburgh Metro has been the focus of convective development in the last couple of hours. Storm development has been initially slow with relative weak forcing, however strong daytime heating has allowed for MLCAPE around 3000-4000 J/kg to develop across southern Indiana and Ohio into northern Kentucky. Additional development may occur through the afternoon and may intensify quickly given the very moist/unstable thermodynamic environment. Though conditions are very unstable, weak flow aloft will likely reduce potential for a more organized severe threat. However, DCAPE around 1000-1500 J/kg is noted across much of southern IN/OH into northern Kentucky. If storms can congeal along outflow, damaging wind potential may increase. This scenario is suggested in some CAM guidance across southern IN/northern KY. Otherwise, mainly isolated severe downbursts and severe hail will remain the main threats. Trends are being monitored but a watch is unlikely at this time."
+    },
+    {
+      "year": 2023,
+      "number": 1740,
+      "issue_utc": "2023-07-27T20:20Z",
+      "topic": "Severe Thunderstorm Watch 553",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1740.html",
+      "summary": "The damaging-wind threat may increase through late afternoon. A brief tornado or two will also remain possible.",
+      "discussion": "Multiple small storm clusters have developed this afternoon from northeast PA into southern NY/New England, with a couple of marginal supercells noted farther north into southern NH. Low-level flow has tended to veer with the passage of a mid/upper-level shortwave and attendant surface low into northern New England. However, relatively backed flow is still noted from southern ME into southeast NH, and low-level shear/SRH remains sufficient to support a brief tornado threat if any additional supercells develop within the gradually destabilizing environment. Farther southwest, a tendency for more unidirectional southwesterly flow is less favorable for discrete storms, but more favorable for outflow-driven clusters capable of damaging winds, especially where stronger heating has resulted in MLCAPE exceeding 2000 J/kg into parts of MA and northern CT. A 57 kt gust was recently observed in western MA at KBAF, with other reports of wind damage recently received across southwest MA. In addition to the wind threat, 30-40 kt flow just above the surface may also provide sufficient low-level shear for a brief tornado threat with any embedded circulations in this area. ..Dean.. 07/27/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1741,
+      "issue_utc": "2023-07-27T20:46Z",
+      "topic": "Severe Thunderstorm Watch 555",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1741.html",
+      "summary": "The damaging-wind threat may gradually increase into early evening.",
+      "discussion": "Late this afternoon, convection is gradually deepening along two corridors across parts of the Northeast/Mid Atlantic. The southernmost corridor is a broadly confluent zone from southwest PA into northern MD, within a region of somewhat greater low/midlevel moisture. Storms have been gradually intensifying along this corridor, where deep-layer shear is rather weak, but sufficient for a modestly organized cells/clusters capable of damaging wind in the presence of moderate buoyancy and steep low-level lapse rates. An uptick in the damaging-wind threat is possible along this corridor as storm coverage gradually increases into early evening. Farther north, increasing cumulus is noted along a diffuse surface boundary from western into northeast PA, with storms gradually developing from northeast to southwest. Deep-layer shear is generally rather weak in this area as well, though low/midlevel flow gradually increases with eastward extent, in closer proximity to a departing mid/upper-level shortwave trough across New England. Isolated storms may develop as far west as west-central PA, but somewhat greater coverage is expected across eastern PA into this evening. Steepened low-level lapse rates will support at least a localized damaging-wind threat with any stronger storms across this area. ..Dean.. 07/27/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1742,
+      "issue_utc": "2023-07-27T21:36Z",
+      "topic": "Severe Thunderstorm Watch 554",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1742.html",
+      "summary": "The threat for large hail and damaging winds will likely spread eastward over the next couple of hours. Downstream watch issuance will likely be needed.",
+      "discussion": "Multiple supercells are ongoing this afternoon across parts of northwestern WI and east-central MN. Multiple measured severe hail reports of 1 to 2 inches have occurred with this activity. Recent radar trends show some updraft interactions, and the beginning stages of clustering/upscale growth may continue. Regardless, a continued threat for large to very large hail will persist in the short term, as strong instability (3000-3500+ J/kg of MLCAPE) and 40+ kt of deep-layer shear prove favorable for robust updrafts. A tornado also appears possible in the short term as well, mainly across northwestern WI where low-level shear is maximized in the presence of ongoing supercells. The threat for severe/damaging winds will likely increase this evening as thunderstorm clusters move eastward across northern/central WI and the U.P. of MI. The eastern extent of the severe threat remains somewhat unclear, as less instability is present towards Lake Michigan. Still, downstream Severe Thunderstorm Watch issuance will likely be required for the increasing hail/wind threat."
+    },
+    {
+      "year": 2023,
+      "number": 1743,
+      "issue_utc": "2023-07-27T22:07Z",
+      "topic": "Severe Thunderstorm Watch 553",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1743.html",
+      "summary": "The severe weather threat will continue for a few more hours from the Mid-Atlantic to southern New England.",
+      "discussion": "Storms have congealed into a southward drifting line from eastern Pennsylvania to eastern Massachusetts. The best severe wind gust potential will likely remain across portions of Massachusetts, Rhode Island, and Connecticut where storms are oriented more normal to the deep-layer shear. Farther west along this line, some isolated damaging wind gusts, but less favorable orientation should result in a more sub-severe threat. Once the storms across southern New England move offshore, expect the severe threat to be more marginal and isolated along the trailing line of storms. ..Bentley.. 07/27/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1744,
+      "issue_utc": "2023-07-28T00:05Z",
+      "topic": "Severe Thunderstorm Watch 554",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1744.html",
+      "summary": "The threat for damaging winds and severe hail should continue this evening.",
+      "discussion": "A small cluster is ongoing across northern WI and adjacent parts of the U.P of MI. Damaging winds should remain the primary threat with this convection as it spreads east-southeastward over the next couple of hours. A slightly less unstable airmass is present over northeastern WI and Lake Michigan, so eventual weakening of the cluster should occur later this evening with eastward extent. Additional, more cellular convection persists across parts of central/eastern MN into northwestern WI. Most of this activity is occurring on outflow from the ongoing cluster, with one persistent supercell continuing southwest of the Twin Cities. Occasional severe hail should be the main threat with these supercells in the short term, as a favorable thermodynamic/kinematic environment remains in place across much of central/eastern MN where the airmass has not been convectively overturned. The potential for these supercells to persist beyond the scheduled expiration of Severe Thunderstorm Watch 554 (02Z/9 PM CDT) is uncertain given nebulous forcing and the lack of a substantial low-level jet increase forecast this evening. An extension in time for an hour or two may eventually be needed if observational trends warrant closer to 02Z. ..Gleason.. 07/28/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1745,
+      "issue_utc": "2023-07-28T02:30Z",
+      "topic": "Severe Thunderstorm Watch 556",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1745.html",
+      "summary": "Isolated severe threat should continue to slowly diminish this evening.",
+      "discussion": "Outflow from multiple thunderstorm clusters has pushed well south of ongoing convection across northern/central WI. Multiple recent observations across this area show sub-severe wind gusts up to around 40 kt occurring. While the 00Z GRB sounding showed around 2000 J/kg of MLCAPE present, modifying this sounding for current surface observations suggests that MLCIN has strengthened somewhat. Tendency should be for these clusters to gradually become more elevated above the slowly stabilizing boundary layer this evening. While isolated strong to damaging winds will remain possible in the short term, the overall severe threat should continue to wane towards 04Z/11 PM CDT, which is the scheduled expiration of Severe Thunderstorm Watch 556. ..Gleason.. 07/28/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1746,
+      "issue_utc": "2023-07-28T07:52Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1746.html",
+      "summary": "An isolated wind-damage threat will likely continue for a couple more hours across northeast Illinois and may impact northwestern Indiana as well. However, the threat is expected to be too marginal for weather watch issuance.",
+      "discussion": "The latest high-resolution radar from Chicago shows a convective line over northern Illinois, moving eastward at about 35 knots. This line is located along the northern edge of an axis of moderate instability, where MUCAPE is estimated by the RAP to be near 4000 J/kg. This, along with lift associated with a shortwave trough (evident on water vapor imagery) will support continued convective development. An isolated wind-damage threat will likely exist along the leading edge of the line. As the line moves eastward toward the Chicago Metro over the next hours, an outflow boundary will move southward across far northeastern Illinois. This outflow boundary should move through the northern and central Chicago Metro before the convection impacts the area. This, along with weak low-level lapse rates and increasing MLCIN (evident on RAP forecast soundings), could temper the wind-damage threat some. Due to these reasons, weather watch issuance appears unlikely."
+    },
+    {
+      "year": 2023,
+      "number": 1747,
+      "issue_utc": "2023-07-28T10:59Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1747.html",
+      "summary": "An isolated wind-damage threat will likely continue for a couple more hours across northern Indiana, and may affect northwest Ohio later this morning. Weather watch issuance appears conditional.",
+      "discussion": "The latest high-resolution radar imagery from Fort Wayne, Indiana shows a line segment in far northwest Indiana extending into southwest Lower Michigan. Another small but strong cluster of storms is ongoing in western Indiana. These two areas of storms are located on the northern edge of a pocket of moderate instability, where the RAP is estimating MUCAPE in the 2000 to 3000 J/kg range. The storms are expected to move east-southeastward along a gradient of instability into northeast Indiana and northwest Ohio over the next couple of hours. RAP forecast soundings in this area have effective shear near 30 knots, and CAPE with large lifted indices. This environment should support a continued wind-damage threat with the stronger multicell line segments. Weather watch issuance will be considered if it appears that a substantial cold pool or more solid MCS is starting to organize."
+    }
+  ]
+}

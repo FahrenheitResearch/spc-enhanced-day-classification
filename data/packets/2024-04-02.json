@@ -1,0 +1,333 @@
+{
+  "convective_day": "2024-04-02",
+  "valid_start": "2024-04-02T12:00Z",
+  "valid_end": "2024-04-03T12:00Z",
+  "max_risk": "MDT",
+  "product_counts": {
+    "MDT": 4,
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2024-04-02",
+      "hhmm": "1200",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2024-04-02T12:00Z",
+      "valid_end": "2024-04-03T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240402_1200.html",
+      "summary": "A potentially substantial severe weather outbreak -- possibly including a few significant/long-track tornadoes -- is anticipated this afternoon and evening, with the highest probability centered over the Ohio Valley. Severe risk exists as far south as the Gulf Coast, and as far east as western portions of Virginia and the Carolinas.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Strong northern-stream upper low, currently located over southern MB, is forecast to drop south across MN into northern IL late in the period. This evolution is driven in part by a 500mb speed max that will translate across the central Plains, increasing to near 100kt over eastern KS/OK by 03/12z. Intense 12hr midlevel height falls are forecast across much of the Great Lakes, OH/TN Valley, and the northern Gulf States, where values in excess of 200m are expected during the latter half of the period. Synoptic front that is currently draped across the OH Valley will be encouraged to gradually advance north due to the digging trough; however, an extensive corridor of convection currently extends across the MS Valley into the OH valley, which is maintaining cool boundary-layer conditions north of I-70. Latest water-vapor imagery suggests a southern-stream short-wave trough is progressing across eastern KS/eastern OK. This feature will progress downstream and likely aid early-day thunderstorm development near the confluence of the MS/OH Rivers. Seasonally high PW airmass currently extends across northern AR/southern MO into southern IL. NAM forecast sounding for JBR at 15z exhibits 60kt"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-04-02",
+      "hhmm": "1300",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2024-04-02T13:00Z",
+      "valid_end": "2024-04-03T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240402_1300.html",
+      "summary": "A severe weather outbreak is possible today over the Ohio Valley with the broader severe weather risk including parts of the Southeast. Strong and potentially long-track tornadoes are possible from Indiana and Ohio southward into the Mid South. A threat for strong tornadoes may focus this evening into tonight across parts of Alabama and Georgia.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A complex and strongly dynamic spring storm system will potentially result in a large area of severe-weather risk from the southern Great Lakes/OH Valley southward into portions of the Deep South, including AL/GA and the western Carolinas late tonight. A potent trough over the Upper Midwest this morning will evolve into a very strong mid-level low over the southwest Great Lakes by Wednesday morning. An intense mid-level speed max over northern Mexico/TX, in association with the southern portion of the larger-scale central U.S. trough, will rapidly move east-northeast during the period and intensify to 125-kt at 500 mb over the southern Appalachians by daybreak Wednesday. Intense 12-hr midlevel height falls are forecast across much of the Great Lakes, OH/TN Valley, and the northern Gulf States, where values in excess of 200m are expected during the latter half of the period. The synoptic front this morning is draped across the OH Valley and will likely advance north due to the digging trough."
+        },
+        {
+          "title": "OH Valley",
+          "text": "Water-vapor imagery loop overnight showed a southern-stream short-wave trough associated with this morning's severe thunderstorm activity straddling the OH River in central KY and southern IN. This early-day thunderstorm complex will probably pose a risk for wind damage and perhaps a couple of tornadoes before it moves into the central Appalachians towards midday (see MCD #341 for short-term details). In its wake, a trailing outflow boundary/effective warm frontal zone will likely advance northward into IN/OH later today with lower to mid 60s progged to near I-70. Models continue to show an appreciable window of opportunity in which cloud breaks/heating and increasing low-level moisture contribute to moderate destabilization during the afternoon. Have adjusted the western envelope of severe probabilities farther west across IN to account for greater destabilization than earlier forecast, but otherwise have left the outlook unchanged across the OH Valley. Scattered thunderstorms will likely develop by early to mid afternoon with discrete supercells evolving from the more intense updrafts. Tornadoes, large to very large hail, and damaging gusts are expected with the supercells that m"
+        },
+        {
+          "title": "Southeast this evening/tonight",
+          "text": "Farther south and initially in the TN/MS/northern AL vicinity, severe thunderstorms are forecast to develop this afternoon as the leading edge of stronger large-scale ascent impinges on the region. A moisture-rich airmass and wind profile favoring supercells, will favor a risk for all severe hazards with the stronger thunderstorms. Although it remains unclear with regard to daytime to evening storm evolution across MS/AL/TN, the approach of the 500-mb speed max and intense shear through a deep layer atop a moist/unstable boundary layer, suggest a bimodal severe threat will probably evolve this evening into the overnight. Model guidance indicates messy but organized storm modes within a larger area of convection will probably develop. Forecast soundings show 300-500 m2/s2 0-1 km SRH from central/eastern AL into GA during the evening and overnight. The risk for tornadoes, including a few strong tornadoes, will be possible with this activity eventually reaching the Carolinas and the eastern FL Panhandle late. ..Smith/Leitman.. 04/02/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-04-02",
+      "hhmm": "1630",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2024-04-02T16:30Z",
+      "valid_end": "2024-04-03T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240402_1630.html",
+      "summary": "A severe weather outbreak is possible through this evening over the Ohio Valley with the broader severe weather risk including parts of the Southeast. Strong and potentially long-track tornadoes are possible from Indiana and Ohio southward into the Mid South. A threat for strong tornadoes may focus this evening into tonight across parts of Alabama and Georgia.",
+      "sections": [
+        {
+          "title": "OH/TN Valley area through this evening",
+          "text": "Complex scenario late this morning with ongoing convection across WV, trailing outflow to the west across KY, and another cluster of storms moving into the trailing outflow zone across TN/KY. The lead storms have produced damaging winds (up to 92 mph measured), though this line of storms should weaken near or just after midday as it encounters the remnant cool air wedge close to the WV/VA border. The storms farther west will move along the remnant outflow zone, where surface temperatures are in the low-mid 70s with dewpoints of 65-70 F. A couple of the storms will likely become persistent supercells capable of producing tornadoes (some of which could be strong/EF2-3) given the already strong wind profiles/long hodographs with effective SRH of 200-300 m2/s2. Uncertainty is relatively high for areas north of the ongoing TN-KY-WV convection. The storms approaching middle TN and southern KY will tend to reinforce the earlier outflow, which will likely interfere with/limit destabilization this afternoon toward parts of OH (especially eastern OH). The corridor of richer low-level moisture from northeast AR into southeast MO (immediately west of the TN storms) suggests that air mass recov"
+        },
+        {
+          "title": "Eastern AL/western GA overnight",
+          "text": "In response to the amplifying midlevel trough/deepening cyclone over the MS/OH Valleys, deep-layer flow and low-level moisture advection will increase tonight across AL/GA. A surge of upper 60s boundary-layer dewpoints and strengthening low-level shear both appear supportive of supercells/tornadoes overnight in a broken band ahead of the synoptic cold front. An isolated strong tornado or two will be possible. ..Thompson/Wendt.. 04/02/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-04-02",
+      "hhmm": "2000",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2024-04-02T20:00Z",
+      "valid_end": "2024-04-03T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240402_2000.html",
+      "summary": "A local severe weather outbreak remains possible through this evening primarily across the Mid-Ohio Valley area, with the broader severe weather risk extending east to the upper Ohio Valley, and south to the Gulf Coast. Strong tornadoes remain most likely from southern Indiana to central Ohio and southward into the Mid South. A threat for strong tornadoes may focus this evening into tonight across parts of Alabama and Georgia.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Previous forecast reasoning largely remains on track, though adjustments to the outlook areas -- including trimming the MDT risk on the eastern fringe -- have been implemented. Multiple rounds of prior convection have hindered warm-sector recovery into the moderate-risk area, but clearing evident in visible imagery from western Kentucky to central Ohio has occurred ahead of the front. This corridor remains the focus for significant severe weather, including potential for strong tornadoes. Elsewhere, earlier reasoning remains valid, with a broad area of severe weather potential still evident from the Ohio Valley to the Gulf Coast. ..Goss.. 04/02/2024 .PREV DISCUSSION... /ISSUED 1122 AM CDT Tue Apr 02 2024/"
+        },
+        {
+          "title": "OH/TN Valley area through this evening",
+          "text": "Complex scenario late this morning with ongoing convection across WV, trailing outflow to the west across KY, and another cluster of storms moving into the trailing outflow zone across TN/KY. The lead storms have produced damaging winds (up to 92 mph measured), though this line of storms should weaken near or just after midday as it encounters the remnant cool air wedge close to the WV/VA border. The storms farther west will move along the remnant outflow zone, where surface temperatures are in the low-mid 70s with dewpoints of 65-70 F. A couple of the storms will likely become persistent supercells capable of producing tornadoes (some of which could be strong/EF2-3) given the already strong wind profiles/long hodographs with effective SRH of 200-300 m2/s2. Uncertainty is relatively high for areas north of the ongoing TN-KY-WV convection. The storms approaching middle TN and southern KY will tend to reinforce the earlier outflow, which will likely interfere with/limit destabilization this afternoon toward parts of OH (especially eastern OH). The corridor of richer low-level moisture from northeast AR into southeast MO (immediately west of the TN storms) suggests that air mass recov"
+        },
+        {
+          "title": "Eastern AL/western GA overnight",
+          "text": "In response to the amplifying midlevel trough/deepening cyclone over the MS/OH Valleys, deep-layer flow and low-level moisture advection will increase tonight across AL/GA. A surge of upper 60s boundary-layer dewpoints and strengthening low-level shear both appear supportive of supercells/tornadoes overnight in a broken band ahead of the synoptic cold front. An isolated strong tornado or two will be possible."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-04-03",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-04-03T01:00Z",
+      "valid_end": "2024-04-03T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240403_0100.html",
+      "summary": "Damaging wind gusts and tornadoes remain possible from the Ohio Valley to the Southeast tonight, particularly over a small part of far eastern Ohio and across portions of Tennessee Valley and Southeast States.",
+      "sections": [
+        {
+          "title": "01Z Update",
+          "text": "Multiple bands of strong to severe thunderstorms continue ahead of an expansive cold front stretching from the IN/OH border southwestward through central KY, western TN, northwest MS, and central LA. Strong wind profiles will continue to support storm organization and the potential for damaging wind gusts and/or tornadoes with any discrete storms or embedded within any of the numerous line segments along and/or ahead of the front."
+        },
+        {
+          "title": "Middle/Upper OH Valley",
+          "text": "The airmass has begun to cool and stabilize ahead of the cold front moving across the region, as evidenced by the 00Z ILN and PIT soundings. Even so, strong ascent is spreading across the region and thunderstorms are expected to persist along and ahead of the front this evening. Many of the storms in this region have trended towards a more cell-in-line/embedded supercell structure as the front approaches. This trend will likely continue throughout the evening and tonight. Wind fields remain very strong, as evidenced by the recent RLX VAD profile which sampled 0-1 km bulk shear of 50 kt and 0-6 km bulk shear over 70 kt. These kinematics will likely still support a threat for damaging gusts and embedded tornadoes throughout the evening and tonight."
+        },
+        {
+          "title": "TN Valley into the Southeast",
+          "text": "Thermodynamic conditions in this region are a bit more favorable than those farther north, supported by mid 60s dewpoints reaching into southern middle TN. Even so, poor lapse rates still limit the overall buoyancy, with recent mesoanalysis estimating MLCAPE below 1500 J/kg across the region. General expectation is for storm coverage to increase this evening, particularly across AL and GA. Wind profiles remain supportive of organized storms, with damaging gusts and tornadoes possible throughout the evening and tonight. ..Mosier.. 04/03/2024"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2024,
+      "number": 341,
+      "issue_utc": "2024-04-02T12:16Z",
+      "topic": "Tornado Watch 73",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0341.html",
+      "summary": "Strong to severe thunderstorms will continue east across parts of central into eastern Kentucky this morning. Damaging gusts and a tornado or two remain possible.",
+      "discussion": "A broken line of thunderstorms across west-central KY has become somewhat less organized compared to an hour ago. This is likely due to some influence of low-level inhibition. Nevertheless, the VWP from KLVX continues to show favorable vertical shear for storm organization and low-level rotation. Instability is modest across the area, but sufficient to support severe storms given strong vertical shear. Fast storm motion will further contribute to damaging gust potential. Meanwhile, enlarged and curved low-level hodographs with 0-1 km SRH values greater than 175 m2/s2 in the presence of a moist boundary layer will support tornado potential. It should be noted this is the first round of strong to severe storms for today. Additional severe storms are expected this afternoon. ..Leitman.. 04/02/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 342,
+      "issue_utc": "2024-04-02T13:32Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0342.html",
+      "summary": "Some severe threat will probably persist this morning as thunderstorms spread northeastward. Watch issuance is possible.",
+      "discussion": "A loosely organized cluster of convection is ongoing this morning over southwestern TN and vicinity. While the boundary layer is only modestly unstable per 12Z BNA sounding and recent RAP forecast soundings over western TN, strong deep-layer shear associated with a pronounced mid/upper-level jet is present over the lower MS Valley into the TN Valley. Given the somewhat linear nature of the ongoing cluster, strong to damaging winds should be the main threat in the near term. But, the presence of a strong southwesterly low-level jet and effective SRH around 250-300 m2/s2 suggests that tornadoes will also be a concern with either line-embedded circulations, or with any supercells that can develop and persist. Trends will be closely monitored for possible watch issuance, pending signs of greater convective organization/intensity."
+    },
+    {
+      "year": 2024,
+      "number": 343,
+      "issue_utc": "2024-04-02T14:00Z",
+      "topic": "Tornado Watch 73",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0343.html",
+      "summary": "A damaging wind and isolated tornado threat may continue into parts of West Virginia this morning. Downstream watch issuance will be needed.",
+      "discussion": "A small, but well organized line of thunderstorms is ongoing this morning across parts of eastern KY and far southern OH. While instability remains weak per recent mesoanalysis estimates and various RAP forecast soundings (around 250-500 J/kg MLCAPE), strong deep-layer shear of 50-60 kt will likely support continued convective organization as this line moves eastward into parts of WV and vicinity this morning. Damaging winds should remain the primary threat given the linear nature of the ongoing convection, but enough low-level shear is also present to support some risk for isolated tornadoes. A downstream watch will be issued shortly."
+    },
+    {
+      "year": 2024,
+      "number": 344,
+      "issue_utc": "2024-04-02T14:59Z",
+      "topic": "Tornado Watch 74",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0344.html",
+      "summary": "A substantial severe wind threat (70-90+ mph gusts), along with isolated tornadoes, will approach Charleston West Virginia and vicinity through noon.",
+      "discussion": "KHTS recently measured a significant severe wind gust to 80 kt (92 mph) with a compact but well organized cluster currently moving quickly eastward across parts of WV. Even though the airmass across this region remains only weakly unstable, very strong low-level and deep-layer shear is helping to compensate and provide convective organization. Recent radar data from KRLX shows enhanced inbound velocities embedded within the line that suggest 70-90+ mph wind gusts will likely continue to be a threat with this line as it approaches the Charleston WV metro and vicinity over the next hour (through noon EDT). In addition to this substantial severe/damaging wind threat, isolated tornadoes embedded within the line also appear possible given the strength of the low-level flow and related shear. ..Gleason.. 04/02/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 345,
+      "issue_utc": "2024-04-02T15:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0345.html",
+      "summary": "A gradually increasing severe hail threat should exist with slowly intensifying thunderstorms across southern Indiana and vicinity. The damaging wind and tornado threat remain less clear, but some risk may eventually develop this afternoon. Trends will be monitored for possible watch issuance.",
+      "discussion": "Convection has been gradually increasing in coverage over the past hour or so across southern IN and vicinity. This activity is largely tied to pronounced ascent associated with a very strong southwesterly mid/upper-level jet. Most of these thunderstorms are currently elevated, and located to the north of an outflow boundary related to earlier morning convection now in WV. Still, visible satellite and surface observation trends show attempts at low-level moisture returning northward ahead of these thunderstorms and filtered daytime heating across parts of southern/central IN. While MUCAPE remains weak at the moment, instability and deep-layer shear are both forecast to increase through the afternoon as a northern and southern-stream shortwave trough phase over the Midwest. This should support a threat for supercells capable of producing mainly severe hail initially. The risk for damaging winds and tornadoes this afternoon will be dependent on whether sufficient low-level moistening/warming will occur to support truly surface-based convection. Regardless of this continued uncertainty with instability, the gradually increasing severe threat over the next few hours may eventually prompt watch issuance."
+    },
+    {
+      "year": 2024,
+      "number": 346,
+      "issue_utc": "2024-04-02T16:12Z",
+      "topic": "Tornado Watch 74",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0346.html",
+      "summary": "A compact, bowing cluster should gradually weaken as it moves into western Virginia this afternoon. Downstream watch issuance is not expected at this time.",
+      "discussion": "It appears that the small, compact cluster/bow that has produced multiple measured severe wind gusts and damage reports across WV is slowly weakening as it encounters a less unstable and increasingly hostile thermodynamic environment in far southeastern WV and western VA. While strong/gusty winds and occasional damage will remain possible in the short term given the cluster's continued organization, downstream watch issuance is not currently expected into western VA. ..Gleason.. 04/02/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 347,
+      "issue_utc": "2024-04-02T16:48Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0347.html",
+      "summary": "Once thunderstorms develop along/ahead of a cold front, they will quickly become severe, which will likely warrant watch issuance.",
+      "discussion": "Cu is gradually becoming more agitated along a surface wind shift line across southeastern MO, and convective initiation appears likely within the next hour or so. The airmass downstream has become at least weakly unstable, with surface temperatures warming into the mid 70s, with surface dewpoints also increasing into the mid to upper 60s. Corresponding MLCAPE generally ranges from 500-1000 J/kg at the moment, but continued daytime heating of this moist airmass should allow for additional destabilization through the afternoon. Very strong effective bulk shear of 50-60+ kt will easily support supercells with associated threat for large hail. Damaging winds will also be possible with any clusters that can consolidate along the wind shift line and spread eastward. The tornado threat remains somewhat unclear, particularly with northward extent into southern IL/IN where the airmass is still attempting to destabilize. Regardless, recent VWPs from KPAH/KVWX show ample low-level shear present to support updraft rotation and some risk for tornadoes with any supercells that can be sustained. Watch issuance will likely be needed once convective initiation appears imminent."
+    },
+    {
+      "year": 2024,
+      "number": 348,
+      "issue_utc": "2024-04-02T16:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0348.html",
+      "summary": "All severe hazards are possible this afternoon near an outflow boundary in eastern Kentucky. A tornado watch is likely this afternoon, though timing is uncertain.",
+      "discussion": "Outflow from this mornings convection along the Ohio River has sagged into east-central Kentucky and has appeared to have stalled. With continued heating, MLCAPE of around 1000 J/kg is possible by this afternoon. This outflow boundary should provide a focus for additional storm development this afternoon in addition to convection in central Kentucky moving eastward. Convection that can organize and interact with the outflow boundary, most likely to its south, will pose a risk for tornadoes, large hail, and damaging winds. Regional VAD winds show low-level hodograph curvature. This should improve with time as the 850 mb winds increase as the upper low deepens. Winds are more backed (i.e. better low-level shear) to the north of the outflow boundary, but destabilization is less certain or at least will take more time to occur. A tornado watch will likely be needed this afternoon, though the exact timing is not clear."
+    },
+    {
+      "year": 2024,
+      "number": 349,
+      "issue_utc": "2024-04-02T17:25Z",
+      "topic": "Tornado Watch 75",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0349.html",
+      "summary": "Ongoing convection in Middle Tennessee may intensify as it ingests increasingly unstable parcels. Additional convection moving northeast out of northern Mississippi may also move into WW 75.",
+      "discussion": "Convection near Nashville has generally been disorganized over the past hour. Heating to its east has been muted on account of cloud cover/anvil debris. To its south/southeast, greater heating has occurred and temperatures are in the low/mid 70s F. Some intensification of this activity is possible. An increase in low-level hodograph curvature is expected through the afternoon which will continue to promote a risk of tornadoes in addition to large hail and damaging winds. Farther west, in the wake of morning convection, some broken cloud cover is allowing surface heating. As the airmass tries to recover, convection in northern Mississippi may intensify as it moves northeast and be capable of a similar tornado, large hail, and wind gusts threat. ..Wendt.. 04/02/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 350,
+      "issue_utc": "2024-04-02T17:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0350.html",
+      "summary": "Though uncertainty exists, a watch is possible for portions of central/southern Mississippi depending on overall trends in storm coverage and organization. Large hail and damaging winds are the primary hazards.",
+      "discussion": "Storms in central Louisiana have steadily deepened over the past hour or two. These storms will continue northeastward into a moist airmass where temperatures are in the low 80s F. Additional storms are possible along the pre-frontal wind shift and later the cold front. The observed 17Z JAN sounding showed a very modest decrease in a warm layer at around 700 mb. Effective shear is sufficient for a few organized updrafts. Additional cooling aloft as the main synoptic trough approaches may also lead to some intensification by late afternoon. While the need for a watch is uncertain at this time, a watch for parts of central/southern Mississippi is possible should trends in convective coverage and organization warrant."
+    },
+    {
+      "year": 2024,
+      "number": 351,
+      "issue_utc": "2024-04-02T19:28Z",
+      "topic": "Tornado Watch 75",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0351.html",
+      "summary": "Thunderstorms moving across western Kentucky and southern Indiana should continue to pose some severe risk this afternoon. Downstream watch issuance will eventually be needed. Tornadoes, large hail, and damaging winds all appear possible. A strong tornado may also occur with any supercell that can be sustained.",
+      "discussion": "Convection has generally struggled to intensify this afternoon in far southern IL/western KY along a pre-frontal trough/wind shift line. Still, the airmass downstream is attempting to destabilize in the wake of earlier convection across parts of northern KY and southern IN. Visible satellite imagery shows some clearing across this area, with surface temperatures gradually warming into the 70s in the vicinity of the Ohio River. The low-level airmass is also slowly moistening as the outflow boundary from morning thunderstorms becomes less well defined, with surface dewpoints rising into the mid to upper 60s. Enhanced deep-layer shear of 50-60 kt will support supercells with associated hail threat, if any can develop ahead of the ongoing cluster. Otherwise, favorable low-level shear, with effective SRH around 250-300 m2/s2, will also foster a tornado risk assuming robust thunderstorms can be sustained. A strong tornado appears possible given the strength of the low-level flow/shear shown in recent VWPs from KLVX. Damaging winds remain a possibility with any small clusters. Given current observational trends and gradual destabilization occurring downstream of the ongoing activity, a downstream Tornado Watch into parts of central KY, southern IN, and southwestern OH will likely be needed before the scheduled 20Z expiration of WW 75. ..Gleason.. 04/02/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 352,
+      "issue_utc": "2024-04-02T19:49Z",
+      "topic": "Tornado Watch 75",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0352.html",
+      "summary": "Tornado potential will continue into the evening as additional storms do appear probable. Wind profiles will remain favorable, but thermodynamic profiles are less supportive. A new tornado watch will be needed.",
+      "discussion": "Storms have struggled to mature and organize across much of Tennessee into eastern Kentucky. The 18Z observed sounding from Nashville showed very favorable wind profile for rotating storms, though the thermodynamic profile indicated weak lapse rates due to the influence of earlier convection/precipitation. Lack of cloud cover near the surface boundary within the Mississippi Valley has allowed some destabilization to occur and cumulus continue to deepen in this area. Mid-level height falls will continue to increase into the evening and the wind profile should still favor tornado potential with any organized storms. That being said, additional storms appear probable later this afternoon into the evening either with the boundary or moving northeast out of Mississippi. The main question will be how intense this activity will be given the thermodynamic constraints. With WW 75 set to expire at 3 PM CDT, a new watch will be needed to account for some continued tornado potential into the evening. ..Wendt.. 04/02/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 353,
+      "issue_utc": "2024-04-02T20:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0353.html",
+      "summary": "A tornado, isolated large hail, and damaging winds appear possible with a supercell in West Virginia as it moves eastward. The need for a watch remains unclear, as the overall severe threat will likely remain isolated.",
+      "discussion": "From a large area of disorganized showers and thunderstorms, a supercell has recently strengthened across WV. The thermodynamic environment across this area remains marginal to support robust convection, as earlier thunderstorms and persistent cloudiness have hindered destabilization to some extent. Still, modest airmass recovery has occurred this afternoon, with latest mesoanalysis estimates showing up to 500 J/kg of MLCAPE present along/downstream of the ongoing supercell. In addition, recent VWPs from KRLX show generally veered, southwesterly low-level flow that quickly strengthens with height through mid levels. Even with these potentially limiting factors, it appears that a TDS has occurred with a recent low-level circulation. In the short term, a tornado will remain possible, along with large hail and damaging winds. Given the isolated severe threat with just one supercell ongoing, the need for a watch downstream remains unclear. Regardless, trends will be closely monitored."
+    },
+    {
+      "year": 2024,
+      "number": 355,
+      "issue_utc": "2024-04-02T21:33Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0355.html",
+      "summary": "A tornado watch may be needed across eastern Tennessee and potentially into far western North Carolina.",
+      "discussion": "A supercell has moved east of watch 79 across eastern Tennessee. Additional storm development is questionable as widespread thunderstorms have developed to the west with anvil debris across much of eastern Tennessee. However, at least scattered supercell development remains possible through early evening. The MRX VWP currently shows less than 100 m2/s2 0-1km SRH with the stronger low-level jet to the west. This wind profile is expected to increase after 00Z as this low-level jet slowly moves east. A tornado watch will eventually be needed this evening, as low-level shear and storm coverage increases."
+    },
+    {
+      "year": 2024,
+      "number": 356,
+      "issue_utc": "2024-04-02T21:34Z",
+      "topic": "Tornado Watch 78",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0356.html",
+      "summary": "The potential for multiple discrete supercells and attendant tornadoes is increasing along an axis from southwest Ohio into central Kentucky and northern Middle Tennessee.",
+      "discussion": "Regional radars show a line of thunderstorms intensifying from southeast IN into west-central KY and northwest TN. Multiple cells in this line have developed mid-level rotation in the past 45 min, with reported tornadoes in the storm west of Cincinnati. Clouds have thinned ahead of this activity, where temperatures have locally warmed into the mid 70s along with dewpoints in the mid 60s. A 50+ knot southerly low-level jet is aiding in impressive shear parameters, with VAD profiles showing 0-3km SRH values of 300-500 m2/s2. Discrete supercells in this line appear to be the primary concern for tornadoes (potentially strong) during the next 1-2 hours. Steep mid-level lapse rates will also promote large hail in the stronger cells. ..Hart.. 04/02/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 357,
+      "issue_utc": "2024-04-02T22:15Z",
+      "topic": "Tornado Watch 78",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0357.html",
+      "summary": "A threat for all severe weather hazards will continue through the evening.",
+      "discussion": "Several supercells with a history of tornadoes are moving into southwest Ohio. These supercells will continue to pose a tornado threat as they move east across southern Ohio. Additional development is ongoing ahead of this activity which may also pose a tornado threat as storms mature. The 21Z ILN RAOB shows an uncapped, moderately unstable atmosphere with low-level shear favorable for tornadoes and some strong tornadoes. Expect a similar environment to spread across much of eastern and central Ohio over the next few hours as airmass recovery continues in the wake of earlier convection. In addition, winds have backed across Ohio with strong pressure falls in response to the rapidly deepening surface low near southern Lake Michigan which will continue to support a tornado threat. The greatest tornado threat is expected south of I-70 in Ohio where dewpoints of 63 to 65F and greater instability will support a greater tornado threat amid favorable low-level shear. Expansion of tornado watch 78 will be needed with an additional tornado watch likely across much of southern, eastern, and potentially northern Ohio."
+    },
+    {
+      "year": 2024,
+      "number": 358,
+      "issue_utc": "2024-04-02T22:53Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0358.html",
+      "summary": "Thunderstorms will become more numerous through the evening, with an increasing risk of tornadoes and damaging winds. Watch issuance is expected in the next couple of hours.",
+      "discussion": "A very warm/moist and moderately unstable and only weakly capped air mass is in place this evening across much of southern MS/AL, with dewpoints in the mid/upper 60s. Recent satellite/radar loops show isolate showers and thunderstorms beginning to develop in this region. Models have been consistent in the development of a strong southerly low-level jet by mid-evening, resulting in northward advection of the better moisture and strengthening low-level wind fields. Forecast soundings suggest rapid enlargement of hodographs after dark, with parameters becoming quite favorable for supercells capable of tornadoes and damaging winds. A tornado watch will be needed for parts of this region in the next couple of hours as more robust convective initiation begins."
+    },
+    {
+      "year": 2024,
+      "number": 359,
+      "issue_utc": "2024-04-02T23:59Z",
+      "topic": "Tornado Watch 78",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0359.html",
+      "summary": "The greatest strong tornado threat in watch 78 and 81 will exist across south-central Ohio this evening.",
+      "discussion": "A long-track supercell has become better organized in the low-levels within the last hour near the Ohio River in south-central Ohio. Recently a TDS was apparent from the ILN WSR-88D in northern Kentucky with another TDS ongoing in Adams County, Ohio as of 2355 UTC. The environment ahead of this supercell remains favorable for tornadoes with STP around 2 and no storm interference anticipated. Therefore, this supercell will pose a continued tornado threat with the potential for strong tornadoes through the evening. ..Bentley.. 04/02/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 360,
+      "issue_utc": "2024-04-03T00:42Z",
+      "topic": "Tornado Watch 81",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0360.html",
+      "summary": "There is a continued threat for tornadoes through the evening within tornado watch 81.",
+      "discussion": "A cluster of storms with embedded supercells extends from east-central Ohio into southern Ohio. Shear ahead of these storms is very favorable with nearly 100% streamwise vorticity in the lowest 1 km at the RLX and PBZ VWP. Instability is the primary limiting factor with dewpoints only in the upper 50s to low 60s and temperatures in the low to mid-60s. However, despite the limited buoyancy, brief tornadoes have been present with several of these storms and a similar threat will continue into the late evening. Shear will increase further as the low-level jet intensifies which will likely maintain the threat into the early overnight hours. ..Bentley.. 04/03/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 361,
+      "issue_utc": "2024-04-03T01:43Z",
+      "topic": "Tornado Watch 82",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0361.html",
+      "summary": "A cluster of strong thunderstorms over west-central AL may intensify in the next hour or two, posing a risk of a few tornadoes and wind damage.",
+      "discussion": "A cluster of thunderstorms that formed over southeast MS has now moved into west-central and southwest AL. The air mass ahead of these storms continues to moisten with dewpoints in the mid 60s now as far north as BHM. Meanwhile, an intensifying southerly low-level jet is focusing across southern/central AL as shown by regional VAD data. Recent hodographs from the BMX/MXX/EOX radars show large, looping shear profiles with 0-3km SRH values of 300-400 m2/s2. 00z RAOBs from BMX/FFC showed a deep warm-layer from 0-4km, that has thus far limited updrafts strength. However, model guidance suggests this layer will cool somewhat in the next 1-2 hours, allowing more robust convection. Both the HRRR and recent WoFS runs show the corridor from the current storms eastward to the south of the BHM area toward the western ATL suburbs as having a relatively greater threat in the next few hours for severe storms including a few tornadoes. ..Hart.. 04/03/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 362,
+      "issue_utc": "2024-04-03T03:45Z",
+      "topic": "Tornado Watch 82",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0362.html",
+      "summary": "A small corridor from central Alabama into west-central Georgia continues to appear have the relatively greatest risk for a few tornadoes for the next 2-3 hours.",
+      "discussion": "Latest radar loop shows a cluster of thunderstorms moving across portions of Chilton/Autauga counties of central AL. Surface obs and longer-term radar trends suggest this cluster is coincident with a mesolow, and recently the circulation tightened up and produced a tornado. Locally enhanced southerly low-level winds ahead of the mesolow/supercell may aid in the development of further rotating storms across Elmore/Coosa/Tallapoosa counties in the next hour, with activity tracking toward west-central GA after 1am. This focused corridor appears to have the greatest shorter-term threat of a few tornadoes and damaging wind gusts. ..Hart.. 04/03/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 363,
+      "issue_utc": "2024-04-03T06:13Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0363.html",
+      "summary": "Strong to isolated severe thunderstorms may develop over parts of the Florida Panhandle into southwest Georgia through the overnight hours. Watch issuance is uncertain and area will continue to be monitored.",
+      "discussion": "Isolated to scattered thunderstorms will continue to lift northeast into portions of the MCD area through the remainder of the overnight hours. Strong vertical shear is in place across this region with regional VWP data indicating shear suitable for supercells. However, a 06z RAOB from TLH shows substantial capping near 700 mb. Forecast soundings suggest capping may erode sufficiently for surface-based storms late tonight into the early morning hours as large-scale ascent increases. However, weak instability and poor lapse rates may preclude a more robust severe threat. Trends will continue to be monitored for possible watch issuance."
+    },
+    {
+      "year": 2024,
+      "number": 364,
+      "issue_utc": "2024-04-03T07:53Z",
+      "topic": "Tornado Watch 83",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0364.html",
+      "summary": "Strong to severe thunderstorms with an attendant risk for damaging gusts and a couple tornadoes will continue to shift east across parts of Georgia and South Carolina through early morning. Trends being monitored for possible watch issuance downstream from Tornado Watch 83.",
+      "discussion": "Stronger surface pressure falls have been noted over GA the past couple of hours. This has allowed for some minor backing of low-level flow ahead of bowing segments from central to eastern GA and several areas of low-level rotation have been noted over the past hour. Area VWPs continue to show impressive low-level and deep shear supporting supercells. Instability remains modest, but sufficient for a continued severe thunderstorm/tornado risk the next few hours. Downstream from Tornado Watch 83 and 84 across portions of southeast GA into the SC Midlands into the Low Country, vertical shear will improve with time. However, it is unclear how much further destabilization will occur with eastward extent. Organized convection will likely persist toward the coast into the morning hours, but low-level inhibition and poor lapse rates my limit a more robust severe risk. Trends will be monitored for possible downstream watch issuance in the next couple of hours. ..Leitman.. 04/03/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 365,
+      "issue_utc": "2024-04-03T09:16Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0365.html",
+      "summary": "Isolated strong to severe thunderstorms will move onshore across the Florida Panhandle and spread east through the morning. Some severe risk may accompany this activity and area is being monitored for possible watch issuance.",
+      "discussion": "Convection just offshore the Florida Panhandle has strengthened and become somewhat better organized over the past 1-2 hours. This activity will move inland and shift east/northeast through the early morning. The 06z TLH RAOB showed substantial capping around 700 mb. However, forecast soundings indicated an eroding cap as large-scale ascent overspreads the area. Strong vertical shear with enlarged and curved low-level hodographs remains apparent in regional VWP data. While instability will be greatest near the coast, sufficient instability extends northward into southern GA to maintain organized convection. Locally damaging gusts and a tornado or two may be possible across the MCD area and a watch may be considered within the hour."
+    }
+  ]
+}

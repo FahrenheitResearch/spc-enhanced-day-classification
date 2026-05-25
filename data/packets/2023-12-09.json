@@ -1,0 +1,194 @@
+{
+  "convective_day": "2023-12-09",
+  "valid_start": "2023-12-09T12:00Z",
+  "valid_end": "2023-12-10T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2023-12-09",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-12-09T20:00Z",
+      "valid_end": "2023-12-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20231209_2000.html",
+      "summary": "Several tornadoes, scattered large hail and areas of damaging winds are expected through the afternoon into the evening from portions of the Ohio and Tennessee Valleys southward to the Lower Mississippi Valley and middle Gulf Coast.",
+      "sections": [
+        {
+          "title": "Lower MS Valley into much of TN and southern KY",
+          "text": "Tornado probabilities have been increased within an Enhanced Risk for the unfolding tornado situation over western into Middle TN and far southern KY, and extending into northern MS. Cells have remained discrete and are currently within a developing instability plume, adjacent to an area of enhanced low-level shear over Middle TN, southern KY and northern MS. The combination of favorable storm mode, and fully-effective 0-1 SRH of 150-200 m2/s2 will pose a damaging tornado risk through the late afternoon. The greatest threat area may remain relatively concentrated due to the cooler air mass to the east, but an isolated strong tornado or two is possible. For more information, see mesoscale discussion 2305. ..Jewell.. 12/09/2023 .PREV DISCUSSION... /ISSUED 1036 AM CST Sat Dec 09 2023/"
+        },
+        {
+          "title": "Gulf Coast/Lower Mississippi Valley/Tennessee Valley",
+          "text": "Region is being increasingly influenced by height falls but otherwise resides between larger scale influences of an upper trough over the Upper Midwest and a positive-tilt trough over the southern High Plains. Increasing warm-sector moisture (generally lower to some middle 60s F surface dewpoints) ahead of a southeastward-moving cold front, along with considerable deep-layer/low-level shear, will be favorable factors for a long-duration severe risk through the afternoon into tonight. However, the likelihood of a complex/mixed quasi-linear convective mode casts uncertainty regarding the magnitude of the severe risk, particularly regarding a supercell-related sustained/focused tornado risk. It is also noted that some guidance suggests that 1-3km AGL winds may somewhat weaken by late afternoon/early evening within the warm sector, while noting SRH will still remain favorable for rotating/severe storms. Storms should continue to increase in coverage through early afternoon, initially near the front across Arkansas northeastward into western portions of Tennessee/Kentucky. Sufficiently steep mid-level lapse rates will support some hail potential, especially the first part of the day, bu"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2023,
+      "number": 2304,
+      "issue_utc": "2023-12-09T16:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2304.html",
+      "summary": "The severe threat will increase with time, with all severe hazards becoming possible by this afternoon. Eventual watch issuance is likely.",
+      "discussion": "A cluster of storms from northeast AR into southwest KY has intensified somewhat over the last 1-2 hours. This convection is likely somewhat elevated, given its relatively fast motion to the northeast and the currently stable appearance boundary-layer clouds on visible satellite across the warm sector to the immediate south. However, MUCAPE of 500-1000 J/kg, relatively cold temperatures aloft, and favorable deep-layer shear could support an isolated short-term hail threat with the strongest elevated storms. Gradual diurnal heating of an increasingly moist warm sector will continue to remove remaining MLCINH through the morning, with an increase in surface-based storm development expected by midday to early afternoon. MLCAPE of 1000-2000 J/kg (greater with southwest extent) and effective shear of 50-60 kt will support organized convection. The environment will support the development and sustenance of supercells, though deep-layer flow largely parallel to the approaching cold front may result in a complex storm mode, with both linear and embedded cellular elements. There will be a tendency for stronger low-level flow to gradually weaken from the southwest with time, but low-level shear/SRH will remain sufficient to support a tornado threat with any sustained supercells later this afternoon. Otherwise, large hail will remain a threat, and damaging-wind potential will become an increasing concern as storm coverage increases. Eventual watch issuance is likely by early afternoon, and perhaps sooner if ongoing attempts at initiation over central AR begin to mature late this morning."
+    },
+    {
+      "year": 2023,
+      "number": 2305,
+      "issue_utc": "2023-12-09T19:59Z",
+      "topic": "Tornado Watch 714",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2305.html",
+      "summary": "The threat for a few tornadoes and isolated severe wind/hail will continue through the afternoon, with storm coverage expected to increase with time.",
+      "discussion": "A broken line of supercells is ongoing early this afternoon from western TN into eastern AR, with occasional rotating cells noted within a larger storm cluster across western KY. A supercell cluster currently approaching the TN/KY border produced an earlier apparent tornado in northwest TN, with another tornado recently noted just southwest of the KHPX radar. The other cells along the broken line will continue to pose a threat of all severe hazards as they move east-northeastward. These cells are ongoing along and just ahead of a composite outflow boundary/cold front that will continue to move eastward this afternoon. Deep-layer flow parallel to the boundary may encourage an increase in storm coverage and a transition to more of a mixed mode with time, though embedded supercells will likely continue to be possible through the afternoon, with all severe hazards possible. The greatest short-term tornado threat (including the potential for a strong tornado) will likely continue to be focused from far northwest MS into western/middle TN, southern KY, and eventually extreme northwest AL, where the most favorable overlap of low-level/deep-layer shear (including 0-1 km SRH of 150-250 m2/s2 noted on regional VWPs and objective mesoanalyses) and instability (MLCAPE of 1000-1500 J/kg) will persist this afternoon, prior to the arrival of the front. This area is being upgraded to an Enhanced Risk (driven by 10% tornado probabilities) in the upcoming 20Z outlook. Also, downstream watch issuance will likely be needed later this afternoon, as storms approach a larger portion of middle TN into northwest AL. ..Dean.. 12/09/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 2306,
+      "issue_utc": "2023-12-09T20:45Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2306.html",
+      "summary": "The severe threat will increase as storms approach from the west. Tornado Watch issuance is likely by 3-4 PM CST.",
+      "discussion": "A broken line of supercells is currently ongoing from southern KY into western TN and northwest MS. While instability is currently quite limited from eastern TN into southeast KY, some moistening/destabilization is expected with time through late afternoon, aided by rather strong southwesterly low-level flow above the surface. With longer-lived supercells already ongoing, organized convection may spread eastward even as the environment becomes somewhat less favorable, with a continued threat of a couple tornadoes and locally damaging wind. In addition to ongoing convection, additional development is possible ahead of the approaching cold front across parts of northern AL into southern middle TN, as a low-level warm advection regime gradually increases into this evening. Supercells may evolve out of this activity as well, with an attendant threat of all severe hazards. Given the concerns described above, Tornado Watch issuance is likely for parts of the region by 3-4 PM CST."
+    },
+    {
+      "year": 2023,
+      "number": 2307,
+      "issue_utc": "2023-12-09T21:00Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2307.html",
+      "summary": "The risk of severe storms capable of all hazards will increase during the next few hours. A Tornado Watch is likely in the next hour.",
+      "discussion": "Latest visible satellite imagery shows continued heating/destabilization of a moist boundary layer across portions of eastern LA into central MS -- ahead of an east-southeastward moving cold front extending from northwest MS southwestward into northern LA. Additionally, a northeast/southwest-oriented differential heating zone is evident from central MS into LA. Thunderstorm development is expected along the front during the next few hours, as midlevel height falls overspread the frontal zone amid continued warm-sector destabilization. A linear mode is expected along/immediately ahead of the front given largely front-parallel deep-layer flow/shear, with an associated severe-wind threat. However, current indications are that a weak frontal wave may develop northeastward along the frontal zone this evening, yielding a modest low-level mass response and increasing low-level hodograph size/curvature. This could promote embedded supercell structures and a tornado risk. This threat will gradually spread eastward along the cold front into the late evening hours. Additional storm development is possible ahead of the cold front in the vicinity of the differential heating boundary across central MS, and these storms would likely remain more discrete given weaker forcing. 40-50 kt of effective shear will favor supercells capable of large hail, damaging winds, and some tornado threat. Overall, confidence in the development of sustained/persistent discrete/semi-discrete supercells is low given lingering capping and the weak forcing for ascent. A Tornado Watch is likely in the next hour for much of the area."
+    },
+    {
+      "year": 2023,
+      "number": 2308,
+      "issue_utc": "2023-12-09T22:15Z",
+      "topic": "Tornado Watch 714",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2308.html",
+      "summary": "A short-term tornado threat continues with ongoing supercells.",
+      "discussion": "At 2215 UTC, long-lived supercells are ongoing north and west of Nashville, within an environment characterized by modest instability but favorable low-level and deep-layer shear. Recent VWPs from KOHX depict 0-1 km SRH of greater than 200 m2/s2, which will continue to support a tornado threat for as long as instability remains sufficient. While an increase in storm coverage and tendency toward more of a linear mode is expected with time, the ongoing supercells are sufficiently ahead of the cold front to remain relatively discrete in the short term as they move quickly east-northeastward across northern middle TN. ..Dean.. 12/09/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 2309,
+      "issue_utc": "2023-12-09T22:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2309.html",
+      "summary": "Storms will pose a risk of large hail and damaging winds into the evening. The tornado threat is expected to be more marginal. A small severe thunderstorm watch may be needed depending on convective trends in the next hour.",
+      "discussion": "A few discrete storms have formed along the cold front in far eastern Texas and west-central Louisiana. The strongest storm in Natchitoches Parish has exhibited supercell characteristics with a TBSS on KSHV/KPOE radars indicating potential for large hail. The 18Z LCH sounding showed some cooling aloft and modest erosion of a inversion around 800 mb. That warm layer aloft may hinder updrafts until stronger forcing arrives later his evening. The greatest threat for large hail will likely be over the next few hours when storms are more discrete. Storm coverage will increase and the mode will become more linear with time as the synoptic trough digs into the Southeast this evening/overnight. At that time, damaging winds would become the primary threat. Potential for tornadoes should remain more limited with low-level shear and hodograph curvature being rather modest per area VAD profiles. A small severe thunderstorm watch may need to be considered, but coverage and intensity may not increase until storms move farther east. Trends will be monitored."
+    },
+    {
+      "year": 2023,
+      "number": 2310,
+      "issue_utc": "2023-12-09T23:03Z",
+      "topic": "Tornado Watch 715",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2310.html",
+      "summary": "The severe threat continues across Tornado Watch 715. All severe hazards remain possible into the evening. A locally higher tornado threat may materialize along or just north of the TN/AL border if discrete, dominant supercells can develop.",
+      "discussion": "A mix of embedded supercells and linear storm modes persist ahead of a cold front across middle TN into northern MS. These storms are approaching the eastern most bounds of Tornado Watch 714 and are entering Tornado Watch 715. Ahead of the ongoing band of storms, discrete convection is trying to mature, with a supercell structure trying to materialize in the Tishomingo County, MS area. The northeast extent of the better surface-based instability extends into middle TN to extreme northwest AL area, where mesoanalysis has shown an appreciable increase in the size and curvature of low-level hodographs (with effective SRH approaching 300 m2/s2 in spots). As such, any discrete storms that can mature into sustained supercells may support a locally higher tornado threat, and a strong tornado cannot be completely ruled out. ..Squitieri.. 12/09/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 2311,
+      "issue_utc": "2023-12-09T23:56Z",
+      "topic": "Tornado Watch 716",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2311.html",
+      "summary": "The threat of tornadoes, damaging winds, and large hail will continue into the evening. Storm coverage along the front will eventually increase and become more linear. Damaging winds and embedded QLCS circulations/tornadoes will become the predominant threats with time.",
+      "discussion": "Convection in the western portions of WW 716 have largely remained a broken line with embedded supercells. More discrete storms remain in southeastern Mississippi which developed along a mesoscale boundary earlier in the afternoon. Area VAD profiles as well as forecast soundings suggest a continued threat of tornado, large hail, and damaging wind gusts into the evening. As the synoptic trough continues to dig southeastward and amplify, more convection should develop along the cold front in Mississippi. Though storms would be more linear, sufficient low-level shear should exist for a QLCS tornado threat. A more organized supercell storm currently in Jasper County, MS, continues east-northeastward. Given the more modest deep-layer ascent and marginally less favorable thermodynamics in Alabama, it is not certain how far north/east the storm will progress. Should this supercell persist, as can occur even in less than ideal environments, low-level shear will improve later this evening in parts of central Alabama. This activity would pose a greater tornado threat should that scenario occur. ..Wendt.. 12/09/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 2312,
+      "issue_utc": "2023-12-09T23:59Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2312.html",
+      "summary": "An isolated severe threat remains possible across portions of central into northeastern Kentucky. A couple of damaging gusts and perhaps a tornado cannot be ruled out into the early overnight hours.",
+      "discussion": "Though surface temperatures have been gradually lowering with the onset of nocturnal cooling, low-level moisture continues to gradually increase with ongoing warm-air advection. Coincidentally, an increase in low-level shear has been noted as a 40 kt 850 mb jet overspreads eastern Kentucky, contributing to enlarging/elongating hodographs. However, the nocturnal cooling is also contributing to stabilization of the boundary layer, lowering the confidence in effective ingestion of the more favorable SRH. At the moment, the severe threat is expected to be isolated at best. Nonetheless, the presence of an impressively sheared environment suggests that a couple of damaging gusts or a tornado could manifest from any storms that ingest surface-based parcels, even for brief periods of time. As such, a WW issuance appears unlikely, though conditions will continue to be monitored."
+    },
+    {
+      "year": 2023,
+      "number": 2313,
+      "issue_utc": "2023-12-10T00:39Z",
+      "topic": "Tornado Watch 715",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2313.html",
+      "summary": "The severe threat continues across Tornado Watch 715. Damaging gusts appear to be the main threat, though a couple of tornadoes remain possible, especially with storms closer to the TN/AL border. The severe threat may persist eastward into northeast AL and southeastern TN, where a WW issuance may ultimately be warranted.",
+      "discussion": "Thunderstorms have recently been merging into a loosely organized squall line across middle TN into eastern MS and far northwest AL, with MRMS mosaic radar data showing these storms percolating in intensity. Low-level shear should remain strong across the region as a 35+ kt low-level jet overspreads the TN Valley (per 00Z mesoanalysis). Given linear storm modes, damaging gusts should become the primary threat into the evening hours. However, a few discrete cells remain near the AL/TN border, and these storms have the best chance at producing a couple of tornadoes into early tonight. Despite waning buoyancy, the strong deep-layer and low-level shear should compensate amid 500 J/kg MLCAPE to support some continuance of severe potential into northeast AL and southeastern TN. Though damaging gusts may be the main threat, given linear structures, the elongated and curved hodographs suggest that some tornado potential will also exist. A downstream Tornado Watch issuance may ultimately be needed."
+    },
+    {
+      "year": 2023,
+      "number": 2314,
+      "issue_utc": "2023-12-10T02:18Z",
+      "topic": "Tornado Watch 715",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2314.html",
+      "summary": "The severe threat continues across Tornado Watch 715. Damaging gusts appear to be the main threat, though a tornado or two cannot be ruled out over the next few hours.",
+      "discussion": "Thunderstorms have consolidated into a QLCS across middle TN into northern AL. Buoyancy continues to gradually wane over the region, though impressive shear profiles remain (i.e. the latest HTX VAD, which shows an elongated, curved hodograph). Given the linear storm mode, damaging gusts should be the main threat as the QLCS progresses across middle TN and northern AL (the remainder of Tornado Watch 715). However, given the impressive shear profiles, any portion of the line where a sustained mesovortex can develop may support the development of a tornado. ..Squitieri.. 12/10/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 2315,
+      "issue_utc": "2023-12-10T02:29Z",
+      "topic": "Tornado Watch 716",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2315.html",
+      "summary": "Tornadoes and damaging winds will remain possible through the evening. Discrete storms ahead of the cold front would pose a higher tornado threat, but their maturation is uncertain. A downstream watch is likely for parts of central/southern Alabama in the next couple of hours.",
+      "discussion": "Convection continues to become more linear along the cold front advancing through Mississippi into northwestern Alabama. This general trend should continue as the main synoptic trough continues east/southeast. A few more discrete elements have been noted in east-central Mississippi. While the longevity of these storms is not certain, they would pose a greater tornado threat and may reach the edge of WW 716 sooner should they mature. That being said, the cold front will likely be the zone for severe storms this evening. Objective mesoanalysis and the KBMX VAD suggest sufficient low-level shear for tornadoes. Furthermore, an increase in low-level winds is expected in parts of Alabama later tonight which would promote an increase in QLCS tornado potential. Damaging winds can also be expected, particularly with any QLCS circulations. A new tornado watch is likely for parts of central into southern Alabama within the next couple of hours. The exact timing of the watch will be somewhat dependent on whether cellular convection matures ahead of the line. ..Wendt.. 12/10/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 2316,
+      "issue_utc": "2023-12-10T02:53Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2316.html",
+      "summary": "An instance or two of damaging gusts or a brief tornado may occur in association with an approaching line of storms. However, the severe threat should be sparse and a WW issuance is not expected.",
+      "discussion": "A QLCS continues to progress east across portions of southern KY into middle TN. However, low-level moisture and overall buoyancy are struggling to overspread far southeastern parts of KY into eastern TN, limiting the severe threat. As the axis of a LLJ overspreads the central Appalachians, strong deep-layer and low-level shear should result. The strong low-level shear suggests that a damaging gust or tornado could occur if a storm or line segment could ingest any surface-based, unstable air parcels. Nonetheless, the limited low-level moisture amid a cooling boundary layer suggests that ingesting surface-based, buoyant parcels will be challenging, so the severe threat should be sparse at best. As such, a WW issuance is not currently anticipated."
+    },
+    {
+      "year": 2023,
+      "number": 2317,
+      "issue_utc": "2023-12-10T03:31Z",
+      "topic": "Tornado Watch 717",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2317.html",
+      "summary": "The severe threat continues across Tornado Watch 717. Damaging gusts are the main threat, though a tornado could still occur.",
+      "discussion": "A QLCS is progressing into the western bounds of Tornado Watch 717, where strong low-level shear remains in place. Buoyancy is limited, and when considering the storm mode, damaging gusts appear to be the primary threat. Given the strong low-level shear though, a tornado or two still cannot be ruled out, particularly with any line-embedded mesovortices. ..Squitieri.. 12/10/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 2318,
+      "issue_utc": "2023-12-10T05:40Z",
+      "topic": "Tornado Watch 717",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2318.html",
+      "summary": "The severe threat continues across Tornado Watch 717. A couple of damaging gusts are the main threat, though a tornado cannot be ruled out.",
+      "discussion": "Linear convection is progressing across Tornado Watch 717, with a history of producing isolated bouts of sub-severe hail and scattered damaging gusts. These storms persist in a low-CAPE/high shear regime, which continues to support some organization. What little buoyancy remains continues to diminish in northern GA and points north and east, casting doubt on a more organized severe threat. However, low-level shear remains quite strong, so an additional damaging gust or even a tornado cannot be ruled out over the next few hours. Given the diminishing downstream buoyancy, convective trends will need to be closely monitored for the need of a downstream WW issuance or local extension. ..Squitieri.. 12/10/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 2319,
+      "issue_utc": "2023-12-10T05:53Z",
+      "topic": "Tornado Watch 718",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2319.html",
+      "summary": "Modest reductions in MLCIN have allowed activity in Alabama to intensify. Greater low/mid-level ascent has fostered additional discrete storms ahead of the cold front. Tornadoes and damaging winds will remain possible into the overnight. A watch east of WW 717 could be needed if discrete storms mature/intensify.",
+      "discussion": "Objective mesoanalysis has shown MLCIN decreasing across central/southern Alabama over the last hour or so. This is likely due to some weak theta-e advection within the low-levels. At the same time, an increase in intensity of two linear segments west and southwest and Birmingham has also been noted. Low-level shear from area VAD profiles continue to suggest potential for embedded QLCS circulations and brief tornadoes. Farther east, as has been the case much of the evening, discrete elements are again trying to mature from southeast Alabama into west-central Georgia. With ascent from the mid-level trough and a modest increase in the low-level jet, this activity seems likely to continue. The primary question with these discrete storms is how mature they will become. Buoyancy drops off to the east, but some eastward push of the better airmass is possible as the trough continues its approach. Should a storm mature, the environment would be similarly supportive of tornadoes farther east as well. This activity will have to be monitored and a watch could be needed if further intensification occurs. Otherwise, strong to severe wind gusts will also be a concern, particularly with any more organized linear segments. ..Wendt.. 12/10/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 2320,
+      "issue_utc": "2023-12-10T08:02Z",
+      "topic": "Tornado Watch 717",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2320.html",
+      "summary": "The threat for damaging winds and a few tornadoes will spread eastward early this morning.",
+      "discussion": "A small, linear complex continues to move east-northeastward across far eastern AL into western GA. Damaging winds should remain the primary concern with this short line segment in the short term. Father south, isolated supercells have developed across southern AL into the northern Gulf in a low-level warm-advection regime ahead of a loosely organized line of showers and thunderstorms. Recent VWPs from various radars across this area show sufficient 0-1-km SRH for continued updraft rotation, and a few tornadoes remain possible for at least a couple more hours early this morning with these supercells. The eastern extent of the severe risk into central GA remains constrained by more limited low-level moisture and related boundary-layer instability. ..Gleason.. 12/10/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 2321,
+      "issue_utc": "2023-12-10T10:00Z",
+      "topic": "Tornado Watch 719",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md2321.html",
+      "summary": "An isolated severe threat, including the potential for a couple of tornadoes, continues early this morning.",
+      "discussion": "Around 500-1000 J/kg of MLCAPE exists in a narrow corridor ahead of ongoing convection and a southeastward-moving cold front across parts of the western FL Panhandle, southern/eastern AL, and western GA. Even with some stability and near-neutral boundary-layer lapse rates noted in RAP forecast soundings across this region, sufficient low-level moisture still likely exists to support surface-based convection. Deep-layer shear remains more than adequate for organized updrafts, with enhanced southwesterly mid-level flow associated with an upper trough aiding around 40-55 kt of effective bulk shear. A mix of short, bowing line segments and occasional supercell structures has been observed over the past couple of hours. Current expectations are for this mixed convective mode to continue for a few more hours early this morning as this activity spreads generally east-northeastward. 150-200 m2/s2 of 0-1-km SRH is still present along/ahead of this convection per latest VWPs from KEVX/KEOX. Accordingly, any supercell that can be sustained remains capable of producing a tornado. Isolated damaging winds may also occur with the more linear convection along/near the cold front. ..Gleason.. 12/10/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

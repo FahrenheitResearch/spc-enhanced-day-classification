@@ -1,0 +1,129 @@
+{
+  "convective_day": "2026-02-19",
+  "valid_start": "2026-02-19T12:00Z",
+  "valid_end": "2026-02-20T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2026-02-19",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2026-02-19T13:00Z",
+      "valid_end": "2026-02-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2026/day1otlk_20260219_1300.html",
+      "summary": "Severe thunderstorms including a few tornadoes, large hail and damaging wind gusts are expected across parts of the Midwest and lower Ohio Valley today. Elsewhere, storms may produce strong wind gusts over parts of coastal south-central California early today.",
+      "sections": [
+        {
+          "title": "Midwest/Ohio Valley",
+          "text": "A strong belt (80-100 kt at 500 mb) of cyclonically influenced westerlies will extend from the Southwest Deserts to the Ohio and Tennessee Valleys, with modest late-day trough amplification over the central Plains and Lower Missouri Valley. A related surface low will transition east-northeastward across the Lower Missouri Valley toward southern Lake Michigan tonight. A modestly moist warm sector will become increasingly established, characterized by mostly 50s F surface dewpoints, northward from the Mid-South across most of Illinois/Indiana into western/southern Ohio by early evening. A steady strengthening of southwesterly winds aloft will occur today, increasingly atop/coincident with the modestly moist warm-sector boundary layer. Long hodographs will be prevalent with upwards of 50-60 kt effective shear by afternoon. Around 200-350 m2/s2 0-1 km SRH is expected to be maximized on the southeast periphery of the surface low and in vicinity of the warm front, with the favorable zone including southern Illinois, southern Indiana and northern Kentucky. Increasing storm development should occur by late morning/midday across eastern Missouri, with maturing/increasingly surface-based sto"
+        },
+        {
+          "title": "Coastal South-Central California",
+          "text": "Bands of shallow convection will continue to move inland this morning. Weak destabilization, along with moderate mean boundary-layer winds just off the surface, could allow for locally strong to damaging gusts as the front progresses southeastward. ..Guyer/Grams.. 02/19/2026"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2026-02-19",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2026-02-19T16:30Z",
+      "valid_end": "2026-02-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2026/day1otlk_20260219_1630.html",
+      "summary": "Severe thunderstorms including a few tornadoes, large hail and damaging wind gusts are expected across parts of the Midwest and lower Ohio Valley today.",
+      "sections": [
+        {
+          "title": "Midwest/Ohio Valley",
+          "text": "Recent surface analysis places a low over eastern KS with a dryline extending southwestward from this low through central OK and into west TX. A warm front also extends eastward from this low across central MO through central IL and central IN, separating the moistening airmass south from the stable and cold airmass north. Surface observations currently show mid 50s dewpoints through southern IL and southern IN, with the 60s dewpoints farther south into western KY. This surface low is forecast to progress northeastward across central MO and into west-central IL today before continuing northeastward into the southern Lake Michigan vicinity by early tomorrow. Continued northward moisture advection is anticipated as this low progresses, but this low-level moistening will be countered somewhat by boundary-layer mixing, resulting in some uncertainty to how high the dewpoints will reach across the OH Valley this afternoon. General consensus places upper 50s dewpoints into the I-70 corridor by the late afternoon. These increasing dewpoints coupled with cold temperatures aloft and afternoon temperatures in the upper 60s/low 70s should result in modest airmass destabilization within the war"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2026-02-19",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2026-02-19T20:00Z",
+      "valid_end": "2026-02-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2026/day1otlk_20260219_2000.html",
+      "summary": "Severe thunderstorms including a few tornadoes, large hail and damaging wind gusts are expected across parts of the Midwest and lower Ohio Valley today.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "No changes to the ongoing forecast appear to be needed at this time. Dewpoints have had a tendency to mix into the upper 50s F this afternoon in the lower Ohio Valley region. Convection has thus far struggled to mature/intensify as a result. Areas of southern Illinois into southwestern Indiana should be favored for more robust storm initiation over the next few hours as the shortwave trough moves in from the west. See the previous discussion for additional details. ..Wendt.. 02/19/2026 .PREV DISCUSSION... /ISSUED 1022 AM CST Thu Feb 19 2026/"
+        },
+        {
+          "title": "Midwest/Ohio Valley",
+          "text": "Recent surface analysis places a low over eastern KS with a dryline extending southwestward from this low through central OK and into west TX. A warm front also extends eastward from this low across central MO through central IL and central IN, separating the moistening airmass south from the stable and cold airmass north. Surface observations currently show mid 50s dewpoints through southern IL and southern IN, with the 60s dewpoints farther south into western KY. This surface low is forecast to progress northeastward across central MO and into west-central IL today before continuing northeastward into the southern Lake Michigan vicinity by early tomorrow. Continued northward moisture advection is anticipated as this low progresses, but this low-level moistening will be countered somewhat by boundary-layer mixing, resulting in some uncertainty to how high the dewpoints will reach across the OH Valley this afternoon. General consensus places upper 50s dewpoints into the I-70 corridor by the late afternoon. These increasing dewpoints coupled with cold temperatures aloft and afternoon temperatures in the upper 60s/low 70s should result in modest airmass destabilization within the war"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2026,
+      "number": 96,
+      "issue_utc": "2026-02-19T15:03Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0096.html",
+      "summary": "Isolated elevated thunderstorms may produce marginally severe hail for a couple of hours this morning. The overall risk should remain limit in magnitude, and a watch is not expected at this time.",
+      "discussion": "Elevated thunderstorms are ongoing this morning within an area of warm advection to the north of a surface warm front. Morning regional RAOBs and latest SPC Mesoanalysis indicated cold temperatures aloft supporting midlevel lapse rates greater than 7 C/km. As a result, MUCAPE has increased to 250-500 J/kg. Sufficient effective shear for organized storms is present. Furthermore, elongated hodographs with increasing west/southwesterly flow aloft are noted. This environment may sporadically support strong storms producing marginal hail up to around 1 inch in diameter. The magnitude of this initial convection is expected to remain limit, precluding watch issuance at this time."
+    },
+    {
+      "year": 2026,
+      "number": 97,
+      "issue_utc": "2026-02-19T16:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0097.html",
+      "summary": "Isolated storms may gradually increase in intensity over the next couple hours. Some small to marginally severe hail could accompany stronger cells in the short-term.",
+      "discussion": "Isolated elevated convection is persisting late this morning as storms approach the Mississippi River near the St. Louis Metro vicinity. These storms are occurring within warm advection in the vicinity of a warm front ahead of a shortwave impulse across southwest MO. Morning regional RAOBs show steep midlevel lapse rates, aided by cold temperatures aloft. While the boundary layer continues to moisten with time and eastward extent, instability will gradually increase. These storms will move into the improving thermodynamic environment downstream across IL. Given favorable vertical shear supporting organized convection, some gradual increase in intensity/organization is possible as convection spreads into west-central IL through midday, and isolated small to marginally severe hail is possible. The overall magnitude of the risk should remain limited over the MCD area, and a watch is not anticipated for this initial convection. Subsequent MCDs will address the expected downstream severe risk across southern/central IL/IN later this afternoon."
+    },
+    {
+      "year": 2026,
+      "number": 98,
+      "issue_utc": "2026-02-19T17:34Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0098.html",
+      "summary": "The severe risk will increase across central/southern Illinois and Indiana into western/central KY over the next 1-2 hours. Storm coverage and intensity will gradually increase, along with a risk for large hail, tornadoes, and strong wind gusts. A tornado watch will likely be needed by 19z for portions of the region.",
+      "discussion": "Broken cloudiness has allowed temperatures to warm into the low/mid 60s across much of the region at midday. A warm front extending across central IL/IN will continue to gradually lift north. Across the moistening warm sector south of the front, dewpoints have increased to the low 60s along the Ohio River southward, and into the upper 50s south of the I-70 corridor. Cold temperatures in the 700-500 mb range atop the moistening boundary layer is supporting destabilization across the region. While MLCAPE is expected to remain modest, vertically veering wind profiles are present and will support supercell thunderstorms. Steep midlevel lapse rates and elongated/straight hodographs above 2-3 km suggest large hail will be possible with these storms. Furthermore, enlarged, favorably curved low-level hodographs and 0-1 km SRH increasing to 150-200 m2/s2 is forecast amid steepening low-level lapse rates. This should support a risk for tornadoes despite the modest boundary layer moisture. A couple of tornadoes could become strong, especially within a corridor from east-central/southeast IL into southern IN. A tornado watch is expected in the next 1-2 hours for portions of the region."
+    },
+    {
+      "year": 2026,
+      "number": 100,
+      "issue_utc": "2026-02-19T20:56Z",
+      "topic": "Tornado Watch 10",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0100.html",
+      "summary": "Storm intensity will continue to gradually increase over the next 1-2 hours with additional development expected across the watch area. Modest buoyancy and favorable shear profiles will continue to support a threat for all severe hazards across WW0010, with some increase in tornado potential expected into this evening.",
+      "discussion": "Thunderstorms have gradually increased in coverage over the past 1-2 hours, primarily over northern/central Kentucky, with several discrete/semi-discrete supercells noted across the area. While only a few isolated instances of marginally severe hail have been noted thus far, gradual strengthening has been observed with some cells as surface heating/moistening coupled with cold temperatures aloft has yielded a modestly unstable air mass (MLCAPE of 500-1000 J/kg) overlapped by favorable deep layer shear profiles (effective bulk shear of 50+ kts). Farther west, latest guidance continues to depict additional thunderstorm development and strengthening across the western portions of the watch area. As storms continue to strengthen, all severe hazards will be possible, with steep mid-level lapse rates and elongated hodographs supporting the threat for large hail and favorable low-level veering wind profiles (0-1 km SRH of 100-150+ m2/s2 per regional VWP) supporting a risk for tornadoes. While the gradual loss of diurnal heating is expected to contribute to low-level stabilization with time later this evening, strengthening flow is expected to support additional increases to low-level hodograph curvature. The favorable shear profiles and increasing SRH will support an increasing tornado threat over the next couple of hours, with the potential for a strong tornado or two."
+    },
+    {
+      "year": 2026,
+      "number": 101,
+      "issue_utc": "2026-02-19T21:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0101.html",
+      "summary": "Isolated thunderstorms may develop over the next hour, though confidence in development is low. If a storm can develop, large hail and possibly a tornado could occur. Monitoring convective trends for possible watch issuance.",
+      "discussion": "Agitated cumulus has been noted in visible satellite imagery this afternoon across east-central MO toward the MS River. This activity is occurring ahead of a surging surface dryline within the modestly moist warm sector. Large-scale ascent is increasing across the region, and low to midlevel flow is likewise becoming more favorable for organized convection. However, the thermodynamic environment remains lackluster given shallow/modest boundary layer moisture with dewpoints generally in the mid to upper 50s F. However, if a storm can develop, steep midlevel lapse rates and supercell wind profiles will support large hail. As the surface low over northeast MO continues eastward, low-level SRH also will increase. If a storm can develop and mature, at least some tornado risk could accompany this activity. Given uncertainty, it is unclear of a small severe or tornado watch will be needed before any developing convection moves east into WW 0010."
+    },
+    {
+      "year": 2026,
+      "number": 102,
+      "issue_utc": "2026-02-19T23:26Z",
+      "topic": "Tornado Watch 10",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0102.html",
+      "summary": "Tornado Watch #10 continues until 0200 UTC. A supercell thunderstorm currently tracking across northern portions of the watch in far western/southern Indiana is the primary focus for severe activity in the short term, and has a history of rotation and brief tornadoes.",
+      "discussion": "The supercell thunderstorm tracking across the northern portions of Tornado Watch #10 is the primary concern for severe weather in the next 1-2 hours, with a history of rotation and tornado production. While further north in the cooler air, VWP profiles from KIND show strong curvature of the hodograph in the lowest levels which will help support continued mesocyclone and tornado development, with values in the 0-500m layer 120 m2/s2. Even further south away from the frontal boundary, profiles from KLVX still show strong support for low-topped supercell longevity. However, some uncertainty exists in how far eastward current convection will be maintained given only modest dewpoints in the low-to-mid 50s F. In spite of this, the cooler temperatures aloft and buoyancy evident in proximity sounding profiles, combined with the strong kinematics discussed and history of tornado production, the expectation is that severe convection should continue eastward into central Indiana for at least the next two hours. This supercell will continue to be capable of all hazards, including a strong tornado."
+    },
+    {
+      "year": 2026,
+      "number": 103,
+      "issue_utc": "2026-02-20T00:03Z",
+      "topic": "Tornado Watch 10",
+      "url": "https://www.spc.noaa.gov/products/md/2026/md0103.html",
+      "summary": "Tornado Watch #10 continues until 0200 UTC. A cluster of supercellular thunderstorms in south-central Illinois is advancing into the watch area, and will pose a threat for all hazards over the next few hours.",
+      "discussion": "As a cluster of supercell thunderstorms enters west-northwestern potions of WW10 across south-central Illinois, the threat for all hazards, including tornadoes, will persist over the next few hours. While VWPs from KLSX shows winds in the low levels beginning to veer into more straight-line hodographs, the environment downstream of the ongoing supercells (e.g. KILX, KVWX) still show strong curvature of the hodograph in the low levels. Buoyancy remains relatively modest, but when combined with observed kinematics, the environment could continue to support mesocyclone development and maintenance as storms continue to mature and enter the watch area. There is still some uncertainty in this longevity given cooler temperatures and lower dewpoints -- particularly where storms have already tracked earlier this afternoon. Recent radar scans may indicate some down-trending of convective activity is occurring (potentially due to poor thermodynamics). Still, the environment does support a continued severe threat, particularly with any long-lived/mature supercell thunderstorms."
+    }
+  ]
+}

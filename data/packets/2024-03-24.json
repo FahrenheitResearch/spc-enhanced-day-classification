@@ -1,0 +1,117 @@
+{
+  "convective_day": "2024-03-24",
+  "valid_start": "2024-03-24T12:00Z",
+  "valid_end": "2024-03-25T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2024-03-24",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-03-24T16:30Z",
+      "valid_end": "2024-03-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240324_1630.html",
+      "summary": "Large hail, damaging gusts and a few tornadoes are possible this afternoon and evening over parts of the central/southern Plains.",
+      "sections": [
+        {
+          "title": "Southern KS into Western OK",
+          "text": "Morning water vapor loop shows a fast-moving negatively-tilted upper trough rotating across the four-corners region toward the southern Plains. Ahead of this system, strong low-level cyclogenesis is occurring over eastern CO, resulting in strong southerly low-level winds throughout much of the southern Plains. Strong heating in the High Plains will help to mix the surface dryline eastward into the eastern TX Panhandle by mid/late afternoon, where widely scattered thunderstorms are expected to form. This will be on the nose of a 70-80 kt mid-level jet max. The synoptic setup, vertical shear profiles, and mid-level lapse rates look very favorable for severe storms today. The major limiting factor for a more significant outbreak is the meager low-level moisture (dewpoints only in the low-mid 50s). This will likely limit the number of storms that form, and result in higher-based storms with somewhat weaker updrafts. Nevertheless, those storms that can become established should be discrete supercells for some period of time and pose a risk of large hail, damaging winds, and a few tornadoes. Have added a small ENH for parts of northwest OK and south-central KS where 12z guidance has high"
+        },
+        {
+          "title": "Northwest KS",
+          "text": "Cold temperatures aloft and convergence near the surface low/front will result in a period of strong/severe thunderstorms this afternoon. While this period of concern will likely only last 2-3 hours, thermodynamic profiles suggest a risk of hail in the stronger cells."
+        },
+        {
+          "title": "West-central to North TX",
+          "text": "It remains unclear how many dryline storms will form this afternoon over west-central TX. CAM guidance is quite diverse, but most models show only one or two storms. Any activity that does form would have a risk of large hail and damaging winds. After dark, a more consistent signal of robust convection occurs as the Pacific cold front and mid-level jet forcing overspreads the area. Forecast soundings suggest sufficient CAPE/shear for a risk of hail and damaging winds into the overnight hours. ..Hart/Thornton.. 03/24/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-03-24",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-03-24T20:00Z",
+      "valid_end": "2024-03-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240324_2000.html",
+      "summary": "Large hail, damaging gusts and a few tornadoes are possible this afternoon and evening over parts of the central/southern Plains.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "...Western/Southern KS into Central OK... 19Z surface analysis places a low over southeast CO and another low farther northeast over the western KS/NE border vicinity. A dryline extends southward from this northern low through western KS, central TX Panhandle, TX South Plains, and Permian Basin. Thunderstorms have initiated along this dryline from southwest KS into the TX South Plains, within a narrow axis of modest buoyancy. These storms are expected to persist and deepen as they move eastward/northeastward, with large hail still anticipated to be the primary severe risk. Highest storm coverage is still forecast for parts of northwest OK and south-central KS later this afternoon/early evening. Additionally, as mentioned in recently issued MCD #292, cooler temperatures aloft and resultant greater buoyancy coupled with a wider warm sector could sustain a supercell or two over southwest KS, with hail and brief tornado risk over a relatively wider area. ...South-Central OK into TX Hill Country.. Guidance remains consistent in forecasting thunderstorm development along the Pacific front from south-central OK into central TX/TX Hill Country tonight. Steep mid-level lapse rates and stron"
+        },
+        {
+          "title": "Southern KS into Western OK",
+          "text": "Morning water vapor loop shows a fast-moving negatively-tilted upper trough rotating across the four-corners region toward the southern Plains. Ahead of this system, strong low-level cyclogenesis is occurring over eastern CO, resulting in strong southerly low-level winds throughout much of the southern Plains. Strong heating in the High Plains will help to mix the surface dryline eastward into the eastern TX Panhandle by mid/late afternoon, where widely scattered thunderstorms are expected to form. This will be on the nose of a 70-80 kt mid-level jet max. The synoptic setup, vertical shear profiles, and mid-level lapse rates look very favorable for severe storms today. The major limiting factor for a more significant outbreak is the meager low-level moisture (dewpoints only in the low-mid 50s). This will likely limit the number of storms that form, and result in higher-based storms with somewhat weaker updrafts. Nevertheless, those storms that can become established should be discrete supercells for some period of time and pose a risk of large hail, damaging winds, and a few tornadoes. Have added a small ENH for parts of northwest OK and south-central KS where 12z guidance has high"
+        },
+        {
+          "title": "Northwest KS",
+          "text": "Cold temperatures aloft and convergence near the surface low/front will result in a period of strong/severe thunderstorms this afternoon. While this period of concern will likely only last 2-3 hours, thermodynamic profiles suggest a risk of hail in the stronger cells."
+        },
+        {
+          "title": "West-central to North TX",
+          "text": "It remains unclear how many dryline storms will form this afternoon over west-central TX. CAM guidance is quite diverse, but most models show only one or two storms. Any activity that does form would have a risk of large hail and damaging winds. After dark, a more consistent signal of robust convection occurs as the Pacific cold front and mid-level jet forcing overspreads the area. Forecast soundings suggest sufficient CAPE/shear for a risk of hail and damaging winds into the overnight hours."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2024,
+      "number": 292,
+      "issue_utc": "2024-03-24T19:03Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0292.html",
+      "summary": "Scattered storms are likely to form along a dryline this afternoon, and several may become severe. The primary risk will be from large hail, though locally damaging gusts or a brief tornado will also be possible.",
+      "discussion": "Visible imagery shows substantial high-based convection forming near and behind the dryline, which currently extends from far southwest KS across the TX Panhandle and South Plains. This area is within a deep-layer steep lapse rate plume. Ahead of the dryline, clearing and heating are occurring, which will help destabilize the air mass. However, moisture is currently limited with only 40s to lower 50s F dewpoints in general. As the dryline continues to move rapidly east, a north-south broken line of storms is forecast to form, with a few robust cells producing hail. The instability axis is forecast to remain relatively narrow, especially near the OK/TX portion of the dryline initially. With time, moisture advection may result in a more favorable area for supercells later today/evening into northwest TX, as surface observations indicate increasing dewpoints. The strong deep-layer shear combined with steep lapse rates will favor hail across the entire area, with any brief tornado threat limited to the narrow uncapped area along the dryline. Given the strong flow aloft over OK and TX, storms may move off the dryline rather quickly, perhaps becoming elevated farther east. However, somewhat weaker flow over KS, as well as a wider warm sector, could sustain a supercell or two with hail and brief tornado risk over a relatively wider area."
+    },
+    {
+      "year": 2024,
+      "number": 293,
+      "issue_utc": "2024-03-24T20:52Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0293.html",
+      "summary": "Storms capable of severe hail and gusty winds will increase in coverage this afternoon.",
+      "discussion": "Day time heating is noted across western Kansas into south-central Nebraska where temperatures have warmed into the mid to upper 60s. Moisture across this region remains limited, with dew points in the 40s. Forcing along the surface cold front to the west amid steep mid-level lapse rates and cooling aloft has allowed thunderstorms to development over the last hour. Further thunderstorm development will be likely through the afternoon and evening, with the potential for instances of severe hail and gusty winds. Given the weak shear and poor thermodynamic profiles, coverage of this threat is uncertain. This area will be monitored for watch potential in the coming hour."
+    },
+    {
+      "year": 2024,
+      "number": 294,
+      "issue_utc": "2024-03-24T21:37Z",
+      "topic": "Severe Thunderstorm Watch 59",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0294.html",
+      "summary": "Large hail, wind damage and an isolated tornado threat are expected over the next few hours, as storms move eastward through WW 59 late this afternoon into early evening.",
+      "discussion": "The latest surface analysis shows a 987 mb low over far southeast Colorado with a dryline extending southward from near the low along the Texas-Oklahoma state line and into northwest Texas. Strong to severe thunderstorms are ongoing just to the east of the dryline form southwest Kansas into western Oklahoma and northwest Texas. The airmass east of the dryline is weakly unstable, with MLCAPE estimated by the RAP in the 500 to 1000 J/kg range. The WSR-88D VWP at Frederick has 0-6 km shear near 60 knots, with some veering with height in the lowest 2 km. The strong deep-layer shear is evident along most of the dryline due to the exit region of an approaching mid-level jet. As this feature moves across the southern and central Plains early this evening, lift and shear will support supercell development. Although large hail and wind damage will be the primary threats, a brief tornado or two could occur with the stronger rotating storms. ..Broyles.. 03/24/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 296,
+      "issue_utc": "2024-03-24T23:05Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0296.html",
+      "summary": "Isolated severe threat will likely continue across parts of northwest Kansas and southern Nebraska. Isolated large hail and a few strong wind gusts will be possible. Weather watch issuance remains possible, although the severe threat is only expected to persist for a few more hours.",
+      "discussion": "The latest surface analysis shows a 987 mb low over far southwest Kansas, with an inverted surface trough extending north-northeastward from northwest Kansas into central Nebraska. Several linear-based storms are ongoing near the trough. In spite of surface dewpoints only in the mid to upper 40s F, the RAP has 500 to 750 J/kg of MLCAPE. The last WSR-88D VWP at Hastings has 30-35 knots of 0-6 km shear, and veering of the winds with height in the lowest 2 km. This should be enough to continue an isolated severe threat. Isolated large hail could occur with strongest of updrafts, along with a few marginally severe wind gusts. Also, a potential for a landspout tornado could continue along and near the eastern edge of the convection."
+    },
+    {
+      "year": 2024,
+      "number": 297,
+      "issue_utc": "2024-03-24T23:46Z",
+      "topic": "Severe Thunderstorm Watch 59",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0297.html",
+      "summary": "Isolated large hail, damaging wind gusts and potential for a brief tornado will likely continue for a couple more hours. As this storms moves to the east of WW 59, a local extension in area may be needed across parts of the area.",
+      "discussion": "The latest surface analysis shows a trough extending southward across west Texas, with a dryline to the east of the trough. Scattered thunderstorms are ongoing to the east of the dryline in northwest Texas, where surface dewpoints are in the mid to upper 50s F and MLCAPE is estimated in the 500 to 1000 J/kg range. The Frederick WSR-88D VWP currently has 0-6 km shear near 60 knots, and veering winds with height in the lowest 1 km. This, along with strong large-scale ascent associated with an approaching shortwave trough, will support a threat for supercells and large hail. Wind damage will also be possible. In addition, low-level shear appears sufficient for a tornado threat, but any threat should remain isolated and brief. As the storm in eastern Wichita County near the Red River moves further east into the weaker instability, a downtrend is eventually expected to occur."
+    },
+    {
+      "year": 2024,
+      "number": 298,
+      "issue_utc": "2024-03-25T00:02Z",
+      "topic": "Severe Thunderstorm Watch 59",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0298.html",
+      "summary": "Isolated large hail and a few strong wind gusts will be possible this evening. The threat is expected to be too isolated for weather watch issuance, to the east of the current watch.",
+      "discussion": "The latest high-resolution radar from Oklahoma City shows a north-to-south corridor of convection across west-central Oklahoma, where a couple severe storms are ongoing. The airmass ahead of this convection is weakly unstable, with MLCAPE generally around 500 J/kg. Water vapor imagery suggests that a subtle shortwave trough is moving through central Oklahoma. This feature should continue to provide support for continued convective development for a couple more hours. Mesoscale analysis from the RAP currently has strong deep-layer shear in place across much of central Oklahoma, suggesting that an isolated severe threat will continue this evening. However, as the storms move further east into weaker instability, any severe threat should become increasingly isolated. Large hail and a few damaging wind gusts will be possible, before the severe threat continues to downtrend further. ..Broyles.. 03/25/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

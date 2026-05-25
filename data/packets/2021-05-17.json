@@ -1,0 +1,327 @@
+{
+  "convective_day": "2021-05-17",
+  "valid_start": "2021-05-17T12:00Z",
+  "valid_end": "2021-05-18T12:00Z",
+  "max_risk": "MDT",
+  "product_counts": {
+    "MDT": 5
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-05-17",
+      "hhmm": "1200",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2021-05-17T12:00Z",
+      "valid_end": "2021-05-18T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210517_1200.html",
+      "summary": "Severe thunderstorms are forecast across portions of the southern Plains later this afternoon and overnight. Very large hail and a few tornadoes will be concentrated across northwest Texas.",
+      "sections": [
+        {
+          "title": "Southern Plains",
+          "text": "Well-defined upper low is currently located over the lower CO River Valley. This feature is forecast to eject into the southern Rockies by 18/00z as 50kt 500mb flow translates across the northern Baja Peninsula into portions of northwestern TX by late evening. In response, lee surface low should hold across southeastern NM which will ensure moist southeasterly low-level flow is maintained across the TX South Plains into far northeastern NM. Additionally, a weak MCS has evolved over northwest TX early this morning with considerable amount of trailing precipitation extending across the TX Panhandle into western KS. The leading edge of this complex should propagate slowly southeast through daybreak, likely spreading into portions of central TX by sunrise. This rain-cooled air mass should contribute to easterly low-level component across the TX South Plains and a remnant convective boundary may be evident in its wake over northwestern TX. If so, this boundary should serve as a primary corridor for focused hail-producing supercells. Latest thinking is intense surface heating will be noted across far west TX into southeast NM such that convective temperatures will be breached by 21z. For"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-05-17",
+      "hhmm": "1300",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2021-05-17T13:00Z",
+      "valid_end": "2021-05-18T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210517_1300.html",
+      "summary": "Severe thunderstorms are forecast across portions of the southern Plains later this afternoon and overnight. Very large hail and a few tornadoes will be concentrated across northwest Texas.",
+      "sections": [
+        {
+          "title": "West TX/Western OK",
+          "text": "An active period of severe weather is forecast for later today across portions of west TX and southwest OK. The latest surface analysis shows an outflow boundary from overnight thunderstorms extending from southeast NM to near Midland, TX. This boundary is not expected to move much farther south before weakening and retreating northward by late morning. This will allow ample low-level moisture to return northward into parts of west/northwest TX by mid afternoon. Strong heating will eliminate the cap along the dryline, resulting in rapid thunderstorm development this afternoon from eastern NM into west TX near Lubbock. These storms will move into an environment of very high instability (MLCAPE over 3000 J/kg), steep mid level lapse rates exceeding 8.0 C/km, and effective shear values of 40-50 knots. Intense supercell structures are expected, capable of very large hail. Low-level shear is not forecast to be particularly strong, but given the unusually favorable thermodynamic environment, a few tornadoes may result this afternoon and evening along the western edge of greatest boundary-layer moisture/CAPE - therefore have added a 10% tornado area. Storms will expand in coverage through"
+        },
+        {
+          "title": "Southwest TX",
+          "text": "Strong instability will also be present along the dryline extending southward toward the Rio Grande. While model guidance is less confident in coverage/placement/timing of storms, there will be a conditional risk of supercells capable of very large hail and damaging winds. Have expanded the ENH risk slightly farther east to account for recent HRRR runs that depict greater coverage of convection."
+        },
+        {
+          "title": "Southeast TX",
+          "text": "A cluster of supercell storms is affecting extreme southeast TX and southwest LA this morning. Local VAD profiles show favorable low-level shear for rotation, but weak winds aloft will limit the overall severe threat. An isolated tornado or damaging wind gust will be possible with this activity. Storms may also develop southwestward toward Houston with a similar low-end risk of gusty winds/brief tornadoes through the morning. ..Hart/Leitman.. 05/17/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-05-17",
+      "hhmm": "1630",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2021-05-17T16:30Z",
+      "valid_end": "2021-05-18T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210517_1630.html",
+      "summary": "Severe thunderstorms are likely across the southern Plains this afternoon and tonight. The potential for very large hail, a few tornadoes, and damaging winds will be focused across a broad part of west/northwest Texas.",
+      "sections": [
+        {
+          "title": "West/southwest/north Texas and southwest Oklahoma",
+          "text": "An active severe-weather day is expected particularly across west/southwest Texas later this afternoon/evening. In the base of an eastward-moving upper trough, an east/northeastward-ejecting high-level jet analyzed over northern Mexico this morning will reach the southern High Plains by around peak heating/early evening, leading to a further strengthening of mid/high-level westerlies that are already seasonally strong (12Z Midland TX observed sounding). Related to convection overnight/early this morning across the Low Rolling Plains and north-central Texas, an outflow boundary continues to settle/decelerate south into the Permian Basin/Concho Valley including Midland/San Angelo areas, east-southeastward toward the Texas Hill Country. Considerable convective overturning and stabilization has occurred in association with this convection/outflow across the Low Rolling Plains and western North Texas, although steady modification/northward mixing of the boundary should occur especially across the Permian Basin and West Texas South Plains later today. It is in relative proximity to this boundary and the north/south-oriented dry line that will have the highest probability of intense surfa"
+        },
+        {
+          "title": "Southeast Colorado/south-central High Plains",
+          "text": "A moist post-frontal environment in conjunction with low-level upslope flow will be conducive for at least isolated severe thunderstorms by mid/late afternoon initially across southeast Colorado/northeast New Mexico including the Raton Mesa vicinity. Although deep-layer shear will not strong, organized multicells and some transient supercells can be expected with large hail and possibly some tornado risk. These storms should move into additional parts of the region including the Texas/Oklahoma Panhandles and southwest Kansas by early evening with mostly a hail/wind risk continuing."
+        },
+        {
+          "title": "Southeast Texas/western Louisiana",
+          "text": "A loosely organized cluster of storms persist across southeast Texas into western/southern Louisiana late this morning. While deep-layer shear and buoyancy are not overly strong, the moist environment and relatively strong low-level shear/SRH have been supportive of transient supercell circulations. This risk may continue this afternoon with at least some potential for a brief tornado and/or locally damaging wind gust, particularly in areas closer to the immediate coast. ..Guyer/Marsh.. 05/17/2021"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-05-17",
+      "hhmm": "2000",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2021-05-17T20:00Z",
+      "valid_end": "2021-05-18T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210517_2000.html",
+      "summary": "Severe thunderstorms remain likely across the southern Plains this afternoon and tonight. The potential for very large hail, a few tornadoes, and damaging winds will be focused across a broad part of west/northwest Texas.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Forecast areas and reasoning laid out in prior outlooks continue to adequately reflect current expectations overall, with respect to the evolving severe weather scenario. As such, little change to outlook lines is required at this time. The main exception is over southern Louisiana, where small/rotating cells persist near and east of a small mesolow in the vicinity of Calcasieu Lake, with at least one brief tornado reported. Given ample low-level shear, the very moist boundary layer, and presence of the mesolow, sufficient risk for additional/brief tornadoes warrants SLGT risk upgrade in this area. For additional short-term information, please refer to SWOMCD #652. Otherwise, aside from a slight westward expansion of 5% wind/2% tornado probability in north central New Mexico, no other substantive changes appear necessary to the current outlook. ..Goss.. 05/17/2021 .PREV DISCUSSION... /ISSUED 1138 AM CDT Mon May 17 2021/"
+        },
+        {
+          "title": "West/southwest/north Texas and southwest Oklahoma",
+          "text": "An active severe-weather day is expected particularly across west/southwest Texas later this afternoon/evening. In the base of an eastward-moving upper trough, an east/northeastward-ejecting high-level jet analyzed over northern Mexico this morning will reach the southern High Plains by around peak heating/early evening, leading to a further strengthening of mid/high-level westerlies that are already seasonally strong (12Z Midland TX observed sounding). Related to convection overnight/early this morning across the Low Rolling Plains and north-central Texas, an outflow boundary continues to settle/decelerate south into the Permian Basin/Concho Valley including Midland/San Angelo areas, east-southeastward toward the Texas Hill Country. Considerable convective overturning and stabilization has occurred in association with this convection/outflow across the Low Rolling Plains and western North Texas, although steady modification/northward mixing of the boundary should occur especially across the Permian Basin and West Texas South Plains later today. It is in relative proximity to this boundary and the north/south-oriented dry line that will have the highest probability of intense surfa"
+        },
+        {
+          "title": "Southeast Colorado/south-central High Plains",
+          "text": "A moist post-frontal environment in conjunction with low-level upslope flow will be conducive for at least isolated severe thunderstorms by mid/late afternoon initially across southeast Colorado/northeast New Mexico including the Raton Mesa vicinity. Although deep-layer shear will not strong, organized multicells and some transient supercells can be expected with large hail and possibly some tornado risk. These storms should move into additional parts of the region including the Texas/Oklahoma Panhandles and southwest Kansas by early evening with mostly a hail/wind risk continuing."
+        },
+        {
+          "title": "Southeast Texas/western Louisiana",
+          "text": "A loosely organized cluster of storms persist across southeast Texas into western/southern Louisiana late this morning. While deep-layer shear and buoyancy are not overly strong, the moist environment and relatively strong low-level shear/SRH have been supportive of transient supercell circulations. This risk may continue this afternoon with at least some potential for a brief tornado and/or locally damaging wind gust, particularly in areas closer to the immediate coast."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-05-18",
+      "hhmm": "0100",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2021-05-18T01:00Z",
+      "valid_end": "2021-05-18T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210518_0100.html",
+      "summary": "Severe thunderstorms will continue tonight across portions of the southern Plains. The potential for very large hail, a few tornadoes, and damaging winds will be focused across a broad part of west/northwest Texas.",
+      "sections": [
+        {
+          "title": "Southern Plains",
+          "text": "Numerous severe thunderstorms have developed across the southern Plains from northeast NM-TX Panhandle-TX South Plains-middle Rio Grande Valley. 00z sounding from EPZ sampled a portion of the mid-level speed max that is translating across northern Mexico into west TX with 50kt observed near 6km. This stronger flow aloft will overspread the expanding complex of storms over northwest TX over the next few hours and continued upscale growth is anticipated through storm mergers. Latest radar data suggests an evolving MCS is beginning to take shape along a corridor from Big Spring-Sweetwater-Monday. This activity should mature over the next several hours then surge east along the I-20 corridor, possibly spreading into the western portions of the Metroplex late this evening. Damaging wind threat may increase along the leading edge of this complex, especially if it matures into a bow-type structure. Another possible MCS may emerge over the TX Panhandle as numerous thunderstorms begin to conglomerate. This activity will begin to propagate toward western OK if a sufficient cold pool materializes as expected."
+        },
+        {
+          "title": "Southeast LA",
+          "text": "Slow-moving MCS has progressed across much of southwestern LA. 00z sounding from LIX exhibits modest shear through 6km along with high PW-air mass. This activity should propagate across southeastern LA over the next several hours and a tornado or two can not be ruled out with embedded weak circulations. For these reasons will maintain some tornado threat with this MCS. ..Darrow.. 05/18/2021"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 648,
+      "issue_utc": "2021-05-17T14:18Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0648.html",
+      "summary": "A tornado or two is possible across southeast TX and southwest LA over the next few hours.",
+      "discussion": "Widespread showers and thunderstorms are ongoing across the region. Overall buoyancy is limited by this widespread convection, and most updrafts have been relatively transient and short-lived. However, occasional updrafts have been able to persist/deepen, which, given the strong low-level shear, has then resulted in rotation. Recent POE and LCH VAD profiles have sampled 0-1 km storm-relative helicity of 350+ and 150+ m2/s2, respectively, over the past half hour. Moderate low-level flow responsible for this increase in low-level vertical shear will likely persist for at least the next few hours, resulting in at least a low-probability tornado threat with any deep/persistent updrafts during this time frame."
+    },
+    {
+      "year": 2021,
+      "number": 649,
+      "issue_utc": "2021-05-17T17:47Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0649.html",
+      "summary": "A localized hail and wind threat will persist in the near-term associated with a southeast moving cluster of thunderstorms. Elsewhere, a localized severe hail or wind threat will be possible as additional thunderstorms develop through the afternoon.",
+      "discussion": "A long-lived cluster of thunderstorms, currently approaching Round Rock, continues to move southeast across central Texas this afternoon. The most intense portion of this elongated cluster is occurring along and north of a residual southward moving outflow boundary from overnight convection. The airmass ahead of this thunderstorm complex remains extremely moist (precipitable water values approaching 2\") and is increasingly unstable (mixed-layer CAPE between 2000-3000 J/kg) and uncapped (mixed-layer CINH less than 25 J/kg). Despite an increasingly favorable thermodynamic environment ahead of the complex, kinematically the environment is less favorable for severe potential as effective-layer shear and low-level shear weaken with eastward extent. Given the existing thunderstorm cluster organization, a continued threat for hail and wind will persist in the near-term. Additionally, given the extremely moist environment and the presence of an outflow boundary, a brief tornado or two cannot be ruled out. However, longer-term prospects for severe potential remain relatively low. Elsewhere, as mentioned, an increasingly unstable and uncapped environment across southeast Texas will allow for thunderstorm development through the afternoon. Localized potential for severe hail or a wet-microburst will exist, but coverage should remain too isolated to warrant a watch."
+    },
+    {
+      "year": 2021,
+      "number": 650,
+      "issue_utc": "2021-05-17T18:39Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0650.html",
+      "summary": "Thunderstorm coverage is expected to increase throughout the afternoon across northeast NM and southeast CO. Some severe storm are probable, with large hail and damaging wind gusts as the primary threats.",
+      "discussion": "Recent surface analysis reveals a relatively complex pattern across the central and southern High Plains. Of interest for northeast NM and southeast CO is the weakening cold front extending from south-central CO southeastward through the TX Panhandle. Temperatures are relatively cool and dewpoints modest on either side of this boundary, but persistent low-level convergence is leading to some deeper cu, particularly in south-central CO. Additionally, area south of front across northeast NM to warm and destabilize. Recent TCC observation reported a temperature of 70 and a dewpoint of 53. Mesoanalysis estimates convective inhibition has eroded across this area, which is matched by modified forecast soundings. An increase in cumulus coverage has been noted over the past hour, with deeper cumulus recently observed closer to the high terrain where orographic effects and strengthening large-scale lift are promoting deeper ascent. Expectation is for continued destabilization coupled with strengthening ascent to result in eventual convective initiation away from the higher terrain. Convergence along the front will also likely result in storm development. A predominantly northeastward storm motion is expected, eventually taking the storms in the TX Panhandle. Some in situ development along the cold front is also possible. Overall vertical shear will remain modest, but still strong enough for organized storm structures, particularly given the steep mid-level lapse rates. Hail will be the primary severe threat, with some damaging wind gusts possible as well. Low-level wind profiles will be weak, but veering with height could still support a brief tornado or two."
+    },
+    {
+      "year": 2021,
+      "number": 651,
+      "issue_utc": "2021-05-17T19:11Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0651.html",
+      "summary": "Thunderstorm initiation is anticipated with the next hour or two across far southeast NM/far southwestern TX Panhandle/western Permian Basin. Supercells capable of all severe hazards are possible and a Tornado Watch will be issued to cover the severe threat.",
+      "discussion": "Recent surface analysis places a low over about 45 miles northwest of ROW. A dryline extends southeastward from this low through much of southeast NM before arcing back more southward across the TX Trans Pecos. Northward returning low-level moisture also results in an effective warm front, which extends from the surface low northeastward through De Baca County NM and then back southeastward through the TX South Plains. Deepen cumulus has been observed within the area between these two boundaries, with a few orphan anvils recently noted. Expectation is for eventual convective initiation along the dryline as it continues eastward/northeastward. Air mass across the region has become moderately unstable, with mesoanalysis estimating 1000 to 1500 J/kg of MLCAPE is in place with little to no convective inhibition. Effective deep layer shear is currently around 30 to 40 kt, with a gradual increase anticipated over the next few hours as the shortwave trough moves through. Overall environment supports initial supercells capable of all severe hazards, including very large hail (i.e. greater than 2\" in diameter) and tornadoes. Some upscale growth is anticipated over time, which will result in a transition to strong wind gusts as the primary severe threat."
+    },
+    {
+      "year": 2021,
+      "number": 652,
+      "issue_utc": "2021-05-17T19:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0652.html",
+      "summary": "Brief tornadoes will be possible across southwest and south-central Louisiana this afternoon.",
+      "discussion": "A very moist airmass remains in place across southwest and south-central Louisiana this afternoon. Within this environment exists a large, slowly eastward moving mesoscale convective system (MCS). At the core of this MCS is a mesoscale convective vortex (MCV), currently located over Lake Charles. To the south and east of this MCV, near-surface wind profiles remain relatively enlarged as compared to the surrounding environment, with 0-1 kilometer shear values around 30 knots and storm-relative helicity values around 225 m2/s2 per KLCH VAD. This kinematic and thermodynamic environment has resulted in a very favorable environment for minisupercell thunderstorms, and a corresponding increase for brief, transient tornadoes, especially to the east of the larger MCV. This MCV will continue to slowly move east through the afternoon, resulting in an increase in tornado potential across south-central Louisiana. Current expectation at this time is that the tornado potential should remain sufficiently brief and transient in nature at any one location to preclude a watch. However, severe weather outlook probabilities will be increased to 5-percent with the next outlook issuance (approximately 20UTC/3PM CDT) to account for this increasing potential. Convective trends will be monitored through the afternoon."
+    },
+    {
+      "year": 2021,
+      "number": 653,
+      "issue_utc": "2021-05-17T21:53Z",
+      "topic": "Tornado Watch 183",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0653.html",
+      "summary": "Thunderstorms capable of producing very large hail, locally severe wind gusts, and a couple of tornadoes will be possible into the evening.",
+      "discussion": "At 2145Z, strong thunderstorms have developed along an outflow boundary across portions of northwest TX. Relatively strong heating on both sides of the boundary has largely removed MLCINH, so continued intensification and development is expected into the early evening. Moderate-to-strong instability (MLCAPE of 1500-2500 J/kg), effective shear of 35-45 kt, and steep midlevel lapse rates will support very large hail (potentially baseball-size or larger) with the strongest cells. While low-level flow is currently weak, some tornado risk may evolve with any supercell interacting with the boundary, especially as the low-level jet begins to increase toward evening. With generally steep low-level lapse rates across the area, isolated severe wind gusts will also be possible. Some upscale growth is possible this evening in conjunction with the intensifying low-level jet, which would increase the threat of damaging wind with time. ..Dean.. 05/17/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 654,
+      "issue_utc": "2021-05-17T22:10Z",
+      "topic": "Severe Thunderstorm Watch 181",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0654.html",
+      "summary": "The threat for severe wind and hail will continue in the near term, especially across northeast New Mexico into the northwestern OK/TX Panhandles. The potential for severe wind may increase into the early evening hours.",
+      "discussion": "Latest regional radar and GOES IR trends show a few discrete supercells, along with severe semi-discrete clusters, developing along the higher terrain of northeast NM/southeast CO and along a dryline across far eastern NM and west TX. Sporadic severe wind and hail have been reported with this activity with 1 inch hail recently noted across eastern NM and a 51 knot convective wind gust reported at KLVS in northern NM. In the near term, the potential for severe wind and hail will continue across all of WW 181, though the corridor of highest severe potential will likely reside from northeast NM into the west/northwestern OK/TX Panhandles region. Across this area, steep low-level lapse rates (near 9 C/km) are overlapping with 35-45 knots of effective bulk shear as well as near 30 knots of 0-3 km bulk shear (noted in regional VWPs), which will continue to support a large hail threat and perhaps increase the potential for severe winds as discrete/semi-discrete storms gradually grow upscale this evening. Further to the north across southeast CO, storm motions have largely been slow and along the axis of initiation, and continued upscale growth is anticipated for the next few hours. Instances of severe hail are possible with any stronger updraft pulses, but weaker deep-layer flow amid steep 0-3 km lapse rates suggest a gradual eastward progression of a broken line, and and isolated severe wind threat, is possible as cold pools begin to consolidate. ..Moore.. 05/17/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 655,
+      "issue_utc": "2021-05-17T22:36Z",
+      "topic": "Tornado Watch 182",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0655.html",
+      "summary": "Supercells with very large hail will be the primary threat in the short term, but the tornado and damaging wind threat will likely increase some into the early evening.",
+      "discussion": "Scattered supercells are ongoing at 2230Z from far east-central NM into southwest TX. With little to no MLCINH remaining and moderate-to-strong instability in place (MLCAPE of 2000-3000 J/kg), continued storm development and intensification is expected through 00Z. Very large hail (potentially larger than baseballs) will the primary short-term threat, given effective shear of 40-50 kt and very steep midlevel lapse rates (as noted on 18Z AMA and MAF and 20Z DRT soundings). Low-level flow/shear is expected to increase somewhat into this evening. As this occurs, the tornado threat may increase with any remaining discrete supercells. The increasing low-level jet may also eventually support some upscale growth with time, which would lead to an increase in the severe wind threat. Isolated significant wind gusts (65+ kt) cannot be ruled out, especially across the central and southern portion of WW 182 where greater boundary-layer heating/mixing has occurred this afternoon. ..Dean.. 05/17/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 656,
+      "issue_utc": "2021-05-17T23:13Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0656.html",
+      "summary": "Intense thunderstorm development is possible this evening along an outflow boundary. A conditional threat for very large hail, locally damaging wind, and a tornado or two will be present with any supercell that develops.",
+      "discussion": "At 23Z, convective initiation appears to be underway across Dimmit County TX. This development is along a remnant outflow boundary, with very hot conditions south of the boundary and very warm/moist conditions noted north of the boundary. Extreme instability (MLCAPE approaching 4000 J/kg) and sufficient effective shear (35-45 kt) would support supercell development with any mature convection in the area. Very large hail would be the primary initial threat, though a tornado would also be possible, given the presence of very large CAPE in the vicinity of the boundary, where low-level shear is locally maximized. Watch issuance may be required soon."
+    },
+    {
+      "year": 2021,
+      "number": 657,
+      "issue_utc": "2021-05-17T23:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0657.html",
+      "summary": "Brief, weak tornadoes remain possible across southern LA this evening, though the duration of the threat remains uncertain.",
+      "discussion": "A broken QLCS associated with a gradually decaying MCV continues to move east/southeast across southern LA. Convective cells continue to develop along and ahead of this line, but have not acquired rotation as rapidly or for a long as prior convection earlier this afternoon. This may be related to gradually diminishing MLCAPE across the region (per RAP mesoanalysis trends) as well as a less favorable shear in the lowest 1-2 km across south-central LA as compared to southwest LA earlier today. Nonetheless, velocity data from KLCH continues to show transient rotation with cells developing along the line, and more persistent rotation associated with one or two cells just offshore. Curvature in the 0-2 km layer noted in KLIX VWP observations, along with nearly 1000 J/kg MLCAPE, suggests that the environment remains supportive of at least a low-end tornado threat for the next few hours. One or two additional brief, weak tornadoes are possible, but the potential for a more robust tornado threat appears low given gradual stabilization and the weakening trend of the MCV."
+    },
+    {
+      "year": 2021,
+      "number": 658,
+      "issue_utc": "2021-05-18T00:04Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0658.html",
+      "summary": "Storms across northwest TX may merge into an eastward-moving cluster this evening, increasing the severe wind risk downstream. Watch issuance is likely.",
+      "discussion": "At 00Z, intense supercells are ongoing across northwest TX. Storm coverage continues to gradually increase, and will likely continue to do so this evening due to cell mergers and gradually increasing low-level flow. An eastward-moving cluster is expected to eventually develop, though the exact timing remains uncertain. MLCINH increases substantially with eastward extent, so storms may initially struggle to advance to the east until more of a cold pool becomes established with ongoing convection across northwest TX. Eventually, a forward-propagating system is expected to move into portions of southwest OK and north-central TX, with a primary risk of damaging wind, though large hail will also continue to be possible with the strongest updrafts. Watch issuance may be needed by 01Z to cover this threat."
+    },
+    {
+      "year": 2021,
+      "number": 659,
+      "issue_utc": "2021-05-18T00:23Z",
+      "topic": "Severe Thunderstorm Watch 181",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0659.html",
+      "summary": "The threat for severe wind and hail will continue for WW 181 for the next few hours. Storms will likely reach southwest Kansas by 03 UTC, and trends will be monitored for the need for a downstream watch.",
+      "discussion": "Prior discrete to semi-discrete convection across northeast NM and the northwestern TX Panhandle continues to grow upscale with a cohesive outflow discernible in velocity data from regional radars. This activity is expected to continue to propagate to the north/northwest into southeast CO, the northern Panhandles, and potentially into southwest KS by around 03 UTC. Additionally, new convective development is noted ahead of this line, but it is unclear if this convection will pose a robust severe threat before merging with the approaching line. The environment ahead of this evolving line remains supportive for organized convection in the near term, though the onset of diurnal cooling may limit instability and overall storm intensity to some degree. The greatest severe risk will likely remain across the Panhandles region into the overnight hours where more persistent discrete storm modes are expected as well as a strengthening low-level jet that will help maintain a robust hail/wind (and perhaps a brief tornado) threat. A downstream watch into southwest Kansas is possible if the line can maintain intensity despite a gradual decrease in instability and boundary-layer decoupling. To the northwest, convection along the CO front range continues exhibit gradual consolidation with an outflow boundary slowly propagating eastward. This activity will continue to pose an isolated severe wind risk for the next 1-2 hours before boundary-layer decoupling occurs. ..Moore.. 05/18/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 660,
+      "issue_utc": "2021-05-18T00:37Z",
+      "topic": "Tornado Watch 182",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0660.html",
+      "summary": "Threat for very large hail and a few tornadoes continues this evening, with an increasing threat of damaging wind with time.",
+      "discussion": "At 0030Z, intense supercells are ongoing across portions of northwest TX, and also southwestward into portions of the TX South Plains. An intense supercell has recently produced a potentially significant tornado across northern Sterling County, based on the strong velocity signature noted on radar. Localized backing of the surface winds is noted near the Sterling County cluster of supercells, which is likely enhancing low-level shear/SRH and aiding in tornado potential, in addition to the ongoing threat of very large hail. MLCAPE of 2000-3000 J/kg, effective shear of 40-50 kt, and very steep midlevel lapse rates (as noted in 00Z DRT sounding) will continue to support intense supercell structures this evening. Given the clustering noted in this area, upscale growth is possible within the next 1-2 hours, which would result in an increasing threat of damaging wind gusts with time tonight. ..Dean.. 05/18/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 661,
+      "issue_utc": "2021-05-18T01:34Z",
+      "topic": "Severe Thunderstorm Watch 184",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0661.html",
+      "summary": "The severe threat associated with a strong supercell continues across south Texas, and additional development is possible in the next 1-2 hours.",
+      "discussion": "Regional radar and GOES IR trends over the past hour continue to show a pair of robust supercells on either side of the Rio Grande exhibiting strong rightward deviant motion as they move to the south along the river. The environment in the vicinity of the U.S. supercell remains supportive for organized convection with nearly 4000 J/kg MLCAPE and nearly 50 knots of effective bulk shear. An increase in MLCIN may hinder storm intensity to some degree over the next hour, but the general expectation is for this storm to persist into the late evening hours as it moves into southern portions of WW 184 towards Laredo, TX. To the north, new convection is developing along a confluence axis and may intensify over the next one to two hours. There is some uncertainty regarding the intensity and coverage of this new convection given increasing inhibition and somewhat weak forcing for ascent, but the general environment will remain supportive for a conditional severe threat through 11 PM CDT. ..Moore.. 05/18/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 662,
+      "issue_utc": "2021-05-18T02:28Z",
+      "topic": "Severe Thunderstorm Watch 181",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0662.html",
+      "summary": "The severe wind and hail potential will continue across the TX and OK Panhandles for the next 1-2 hours, but a gradual weakening trend is expected across WW 181.",
+      "discussion": "A line of storms continues to propagate east/northeast across southeast CO into southwest KS and across the OK/TX Panhandles. This line has produced a handful of measured severe wind gusts in the past hour, and MRMS vertically integrated ice trends show a few stronger updrafts capable of severe hail in the near term. However, composite reflectivity and lightning trends over the past hour have shown a gradual weakening of the line as it moves across southeast CO where deep-layer shear and MLCAPE are diminishing. While sporadic damaging winds and isolated hail remain possible in the near term, this weakening trend should continue. Further to the south across the OK/TX Panhandles, instability and deep-layer shear remain favorable for maintaining the evolving QLCS for the next 1-2 hours. Increasing inhibition and waning instability will likely lead to a gradual weakening trend as the line approaches western OK, but severe wind and a few instances of severe hail remain likely in the near term. Trends will continue to be monitored, but a downstream watch is currently not anticipated. ..Moore.. 05/18/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 663,
+      "issue_utc": "2021-05-18T02:44Z",
+      "topic": "Tornado Watch 182",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0663.html",
+      "summary": "The severe threat continues with ongoing convection, though a gradual decreasing trend is expected through 04Z. Some redevelopment is possible later tonight.",
+      "discussion": "At 0230Z, pockets of strong convection are ongoing across southern portions of the TX Panhandle into the TX South Plains, though a general decreasing trend has been noted over the past hour. Increasing MLCINH should result in a continued gradual weakening trend with time, though some instances of large hail and strong wind gusts will continue to be possible with the remaining convection, given the still-favorable buoyancy and midlevel lapse rates. Later tonight, redevelopment of strong convection may impact at least southern portions of the MCD area, as a low-level jet becomes focused into southwest TX. The late-night activity may pose a hail/wind risk, but any such threat would likely not develop until closer to 06Z or later. ..Dean.. 05/18/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 664,
+      "issue_utc": "2021-05-18T03:23Z",
+      "topic": "Tornado Watch 185",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0664.html",
+      "summary": "A threat for severe wind and hail will persist into late tonight with the ongoing thunderstorm cluster, especially for the southern portion of the cluster into the TX Big Country.",
+      "discussion": "At 0315Z, a loosely organized MCS is ongoing from north-central TX into the TX Big Country. The northern portion of the MCS is struggling to maintain intensity, as it moves into an environment characterized by increasing MLCINH. However, some threat for strong wind gusts, and perhaps some hail with the stronger cores, will persist for at least a couple more hours in that region. Further south into the TX Big Country, where MLCINH is somewhat weaker and favorable buoyancy/shear remains in place, a greater severe threat will likely persist for a few hours this evening. The primary threat in this region will likely be damaging wind given the increasingly linear structure and expansive outflow, though some hail threat will persist with the stronger cores, especially toward the southwest edge of the cluster. Since the threat will persist past the 04Z expiration time of WW 185, a new severe thunderstorm watch will likely be issued for the TX Big Country within the hour."
+    },
+    {
+      "year": 2021,
+      "number": 665,
+      "issue_utc": "2021-05-18T03:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0665.html",
+      "summary": "Redevelopment of severe thunderstorms is possible later tonight. Severe thunderstorm watch issuance is likely by 04Z.",
+      "discussion": "As a low-level jet becomes focused into southwest TX late tonight, redevelopment of strong thunderstorms is expected. The renewed convection will likely be somewhat elevated, but very favorable buoyancy and shear will favor a threat of very large hail with initial development, with some upscale growth potentially leading to a greater damaging wind risk late tonight. A tornado cannot be ruled with any supercell that can become surface based, though any such threat is highly conditional. A severe thunderstorm watch will be issued prior to 04Z to cover the overnight severe threat."
+    },
+    {
+      "year": 2021,
+      "number": 666,
+      "issue_utc": "2021-05-18T04:37Z",
+      "topic": "Severe Thunderstorm Watch 186",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0666.html",
+      "summary": "The threat for at least isolated damaging wind will persist through at least 06Z, and possibly beyond.",
+      "discussion": "At 0430Z, an MCS is continuing to move eastward across north TX. The southern portion of the MCS, to the southwest of the Metroplex, has shown signs of increasing organization, with a well-defined 50-60 kt rear-inflow jet noted between 2-5 km on the KDYX VWP. While this would suggest an increasing damaging wind risk, other competing factors may mitigate the threat, such as increasing MLCINH across the region and the primary outflow tending to surge ahead of the leading convection. Some damaging wind risk is expected to persist until the 06Z expiration time of WW 186, with some potential for the threat to last beyond that time and extend east of the current watch. Depending on convective trends over the next hour, watch extension/expansion may be needed prior to 06Z. ..Dean.. 05/18/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 667,
+      "issue_utc": "2021-05-18T06:02Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0667.html",
+      "summary": "Locally intense winds could accompany a bowing segment tracking eastward across south TX over the next hour or two.",
+      "discussion": "An intense bow is currently tracking eastward across Duval, Jim Hogg and Brooks counties in south TX. This feature produced near-severe wind gusts near Laredo about 60-75 minutes ago and has since remained over mainly rural areas. While low level inhibition is present and may limit the overall severe threat, the latest VWP from BRO indicates a 40-50 kt south/southeasterly low level jet is oriented over the region. Strong instability is still in place, with latest mesoanalysis indicating 2500-3500 J/kg MLCAPE amid steep midlevel lapse rates. In conjunction with the low level jet, this should maintain organization of the bowing feature in the short term, and a couple of locally intense winds could reach the surface despite weak to moderate inhibition. Given the small spatial and temporal nature of the threat, a watch is not expected at this time."
+    },
+    {
+      "year": 2021,
+      "number": 668,
+      "issue_utc": "2021-05-18T06:29Z",
+      "topic": "Severe Thunderstorm Watch 187",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0668.html",
+      "summary": "Additional thunderstorms are expected to develop over western portions of WW 187 over the next hour or two. Large hail will be the main threat, but locally damaging gusts also could occur.",
+      "discussion": "A deepening line of cumulus has been noted in the GOES-16 nighttime microphysics product over the past 30 minutes or so from just northwest of Ft. Stockton to just south of Midland. Most recently, weak midlevel reflectivity cores have become evident in regional radar as well. This activity is developing to the east of a dryline in moist upslope low level flow and to the south of an outflow boundary. Strong instability, with MLCAPE values from 1500-3500 J/kg are in place, and very steep midlevel lapse rates greater than 8 C/km remain over the region amid effective shear greater than 40 kt and a 30+ kt southerly low level jet. This should support organized, somewhat elevated supercells. Large hail and locally strong gusts could accompany these cells. ..Leitman.. 05/18/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 669,
+      "issue_utc": "2021-05-18T08:10Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0669.html",
+      "summary": "A brief, weak tornado is possible across parts of southeast Louisiana early this morning.",
+      "discussion": "Showers and thunderstorms across southeast LA have shown transient, weak rotation the past hour or so. Overall, this activity is occurring in weak instability and modest shear. However, low level southeasterly winds around 20-30 kt are resulting in modest low level hodograph curvature. Furthermore, surface dewpoints near 70 F are aiding in moderate low level instability with a corridor of 0-3 km MLCAPE around 100-125 J/kg evident in latest mesoanalysis. Poor low level lapse rates and overall marginal larger-scale environment will limit longevity/intensity of organized cells. However, the moist/unstable low levels amid somewhat favorable low level shear could result in a brief/weak tornado. The overall threat is expected to remain limited, and a watch is not expected at this time."
+    },
+    {
+      "year": 2021,
+      "number": 670,
+      "issue_utc": "2021-05-18T10:07Z",
+      "topic": "Severe Thunderstorm Watch 187",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md0670.html",
+      "summary": "A cluster of storms over west Texas will continue to weaken early this morning.",
+      "discussion": "The cluster of storms between Midland and San Angelo has shown signs of weakening over the past 30-60 minutes. Convection is moving into an area of increasing MLCIN. The downstream airmass also has been modified by earlier outflow and dewpoints are currently in the mid to upper 50s. As a result, convection is likely now elevated and recent observed wind gusts from regional West Texas Mesonet data indicate gusts generally less than 20-30 mph. A continued weakening trend is expected and additional downstream watches are not anticipated. ..Leitman.. 05/18/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

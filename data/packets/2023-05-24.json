@@ -1,0 +1,190 @@
+{
+  "convective_day": "2023-05-24",
+  "valid_start": "2023-05-24T12:00Z",
+  "valid_end": "2023-05-25T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2023-05-24",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-05-24T16:30Z",
+      "valid_end": "2023-05-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230524_1630.html",
+      "summary": "Scattered severe thunderstorms are expected across the southern High Plains vicinity from 4 PM to Midnight CDT. A few intense supercells are anticipated and will be capable of very large hail. The threat for a few tornadoes should peak between 6 to 9 PM CDT and severe wind gusts between 8 to 11 PM CDT.",
+      "sections": [
+        {
+          "title": "Eastern NM and west TX",
+          "text": "In the wake of an MCS last night, a residual outflow boundary extends northwest from central TX and has become more diffuse near the South Plains and east-central NM border area. Richer boundary-layer moisture has been displaced southwest of the outflow, with upper 50s to mid 60s surface dew points common across the Permian Basin and Lower Pecos Valley. There will be gradual advection of this moisture to the north-northwest along the eastern NM/northwest TX border area. With very steep mid-level lapse rates of 9-9.5 C/km sampled by the 12Z MAF/ABQ soundings, relatively large buoyancy for the High Plains is anticipated at peak heating with MLCAPE from 1500-3000 J/kg. Scattered thunderstorms are most likely to develop in the late afternoon to early evening in/off the Raton Mesa vicinity, with more isolated activity expected south across eastern NM into the Trans-Pecos. While some weakness in the hodograph is expected around 700 mb, greater low-level curvature and speed shear above 700 mb relative to the past few days will yield a more elongated and relatively straight mid-upper hodograph. This should yield several discrete splitting supercells. Given the rather favorable CAPE/lapse r"
+        },
+        {
+          "title": "Northern Great Basin to eastern MT",
+          "text": "While a broad upper trough persists over the West, multiple embedded vorticity maxima will rotate north-northeast across the northern Great Basin to northern High Plains areas. These will aid in scattered to widespread thunderstorm development later this afternoon. Buoyancy will remain weak (except over eastern MT) and deep-layer shear will be relatively modest, especially with eastern extent. Sporadic strong to locally severe wind gusts should be the primary hazard, with a secondary threat for isolated marginally severe hail."
+        },
+        {
+          "title": "South/central FL",
+          "text": "A diffuse front across central FL, and local sea breeze boundaries/collisions farther south, will again support scattered thunderstorms this afternoon. The stronger surface heating and larger MLCAPE will be confined to along and south of the front. Relatively cool mid-level temperatures near -11 C at 500 mb per 12Z MFL/TBW soundings should compensate for weak/weakening upper flow. Isolated strong-severe outflow gusts and small to marginally severe hail will be possible in the more robust clusters. ..Grams/Lyons.. 05/24/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-05-24",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-05-24T20:00Z",
+      "valid_end": "2023-05-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230524_2000.html",
+      "summary": "Scattered severe thunderstorms are expected across the southern High Plains vicinity from 4 PM to Midnight CDT. A few intense supercells are anticipated and will be capable of very large hail. The threat for a few tornadoes should peak between 6 to 9 PM CDT and severe wind gusts between 8 to 11 PM CDT.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Expectations for evolution of the convective/severe risk -- as laid out in prior forecasts -- remain valid at this time, with strong/isolated severe storms occurring across portions of the Great Basin, and expected development of High Plains convection in the next 1 to 2 hours anticipated. The primary adjustment in this update has been to expand the MRGL risk area slightly in portions of Nevada/Utah, to more thoroughly corral the evolving hail/wind risk. ..Goss.. 05/24/2023 .PREV DISCUSSION... /ISSUED 1128 AM CDT Wed May 24 2023/"
+        },
+        {
+          "title": "Eastern NM and west TX",
+          "text": "In the wake of an MCS last night, a residual outflow boundary extends northwest from central TX and has become more diffuse near the South Plains and east-central NM border area. Richer boundary-layer moisture has been displaced southwest of the outflow, with upper 50s to mid 60s surface dew points common across the Permian Basin and Lower Pecos Valley. There will be gradual advection of this moisture to the north-northwest along the eastern NM/northwest TX border area. With very steep mid-level lapse rates of 9-9.5 C/km sampled by the 12Z MAF/ABQ soundings, relatively large buoyancy for the High Plains is anticipated at peak heating with MLCAPE from 1500-3000 J/kg. Scattered thunderstorms are most likely to develop in the late afternoon to early evening in/off the Raton Mesa vicinity, with more isolated activity expected south across eastern NM into the Trans-Pecos. While some weakness in the hodograph is expected around 700 mb, greater low-level curvature and speed shear above 700 mb relative to the past few days will yield a more elongated and relatively straight mid-upper hodograph. This should yield several discrete splitting supercells. Given the rather favorable CAPE/lapse r"
+        },
+        {
+          "title": "Northern Great Basin to eastern MT",
+          "text": "While a broad upper trough persists over the West, multiple embedded vorticity maxima will rotate north-northeast across the northern Great Basin to northern High Plains areas. These will aid in scattered to widespread thunderstorm development later this afternoon. Buoyancy will remain weak (except over eastern MT) and deep-layer shear will be relatively modest, especially with eastern extent. Sporadic strong to locally severe wind gusts should be the primary hazard, with a secondary threat for isolated marginally severe hail."
+        },
+        {
+          "title": "South/central FL",
+          "text": "A diffuse front across central FL, and local sea breeze boundaries/collisions farther south, will again support scattered thunderstorms this afternoon. The stronger surface heating and larger MLCAPE will be confined to along and south of the front. Relatively cool mid-level temperatures near -11 C at 500 mb per 12Z MFL/TBW soundings should compensate for weak/weakening upper flow. Isolated strong-severe outflow gusts and small to marginally severe hail will be possible in the more robust clusters."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-05-25",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-05-25T01:00Z",
+      "valid_end": "2023-05-25T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230525_0100.html",
+      "summary": "Primarily damaging hail and wind are expected over the southern High Plains through late evening. A brief tornado or two may occur along the eastern New Mexico/West Texas border.",
+      "sections": [
+        {
+          "title": "Far eastern NM into west TX",
+          "text": "A north-south axis of around 2000 J/kg MLCAPE currently exists over much of western TX, beneath modest west/northwest flow aloft and near the upper ridge. Visible imagery shows an expansive CU field over the region, and GPS PW values remain around 1.00\" in an uncapped air mass. Numerous storms currently exist over northeast NM and into the far western TX Panhandle, exhibiting mainly multicellular tendencies with one supercell complex evident southeast of TCC. Still, ample instability and a mean storm motion to the southeast may allow for a few transient supercells, with hail over 2.00\" diameter. The 00Z AMA sounding shows steep midlevel lapse rates, but a straight hodograph due to weak winds below 700 mb. The large storm complex over Quay county appears to have the greatest chance of a tornado as it evolves south/southeast toward the TX state line. Otherwise, strong outflow production should eventually result in scattered damaging winds, along with a persistent hail risk as storms move through the South Plains later this evening. Severe potential will favor the instability plume, with inflow aided by increasing 850 mb winds out of the southeast tonight."
+        },
+        {
+          "title": "Eastern MT",
+          "text": "Scattered storms persist near a north-south oriented surface trough over eastern MT. The 00Z GGW sounding shows ample instability with MLCAPE over 1500 J/kg, and winds veering with height. Deep-layer shear is only 25-30 kt, but cool temperatures aloft combined with favorable moist southeast low-level winds may support a hail threat for a few more hours. ..Jewell.. 05/25/2023"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2023,
+      "number": 852,
+      "issue_utc": "2023-05-24T17:48Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0852.html",
+      "summary": "Storms will continue to increase in coverage this afternoon, with localized damaging wind and perhaps some hail possible. WW issuance is not expected.",
+      "discussion": "Seasonably cool midlevel temperatures (around -11 C) were noted on the 12Z TBW and MFL soundings this morning, in association with a weak but rather broad upper-level trough extending from parts of the Southeast into the central/eastern Gulf of Mexico. Robust diurnal heating beneath these cool temperatures aloft will result in moderate to locally strong buoyancy (MLCAPE of 1500-3000 J/kg, greater with southward extent) with minimal MLCINH, and storm coverage will continue to increase through the afternoon. The primary foci for storm initiation will likely be sea breezes and a weak cold front across the central peninsula. With generally weak low-level flow and only modest mid/upper-level flow, storms may tend to be rather disorganized, though some brief uptick in organization could occur with storm mergers and/or cells that remain rooted near one of the boundaries across the area. Localized damaging wind gusts will be possible with the strongest cells/clusters, with some hail also possible given the cooler temperatures aloft and favorable buoyancy. With the severe threat expected to generally be isolated and somewhat disorganized, watch issuance is unlikely."
+    },
+    {
+      "year": 2023,
+      "number": 853,
+      "issue_utc": "2023-05-24T19:03Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0853.html",
+      "summary": "Storms capable of isolated severe gusts and hail will be possible this afternoon.",
+      "discussion": "Convection has recently increased from northern NV into far southern ID, immediately in advance of a mid/upper-level shortwave trough across northwest NV. Modestly enhanced midlevel flow and effective shear east/northeast of the shortwave may eventually support some modestly organized storms, as MLCAPE increases into the 500-1500 J/kg range through the afternoon. The greatest storm coverage is expected in closer proximity to the shortwave from northeast NV into southern ID, though more isolated storms will continue to develop across favored higher terrain areas across northern UT and western WY. Modestly steep midlevel lapse rates will support some isolated hail potential, while the strongest outflow-dominant cells/clusters will also be capable of localized severe gusts. With the threat expected to remain rather isolated, watch issuance is not expected."
+    },
+    {
+      "year": 2023,
+      "number": 854,
+      "issue_utc": "2023-05-24T19:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0854.html",
+      "summary": "Scattered thunderstorms will likely evolve off of the higher terrain and dryline this afternoon. Supercells capable of large to very large hail are likely. A couple of tornadoes are also possible. A Weather Watch will likely be needed this afternoon.",
+      "discussion": "Ahead of a subtle mid-level perturbation across the southern High Plains, afternoon satellite imagery showed towering cumulus and incipient thunderstorms developing along the higher terrain of northeastern NM. As diurnal heating continues, subtle forcing for ascent from the mid-level wave and upslope flow will erode remaining inhibition and allow for robust thunderstorm development this afternoon. Mid to upper 50s dewpoints, along with steep mid-level lapse rates of 8-9 C/km will support a broad plume of moderate (1500-2500 J/kg) MLCAPE. While modest in the low-levels owing to weak surface flow, RAP forecast hodographs are elongated in the mid and upper levels supporting effective shear of 35-45 kt. Weak forcing along the terrain and a diffuse dryline should allow for relatively discrete storms to develop and organize into splitting supercells through the afternoon. As storms develop and track east/southeastward, steep mid-level lapse rates, modest low-level shear, and a supercell mode will be very favorable for large to very large hail initially. Weak low-level flow should strengthen into the evening hours with the development of the low-level jet. Some localized enhancement of low-level shear is also possible along a remnant outflow boundary across portions of the western TX Panhandle. Given the supercell mode and expected discrete nature of storms, a couple of tornadoes are possible. Experimental WOFS and Hi-res CAM guidance suggest storm development will likely occur within the next 1-2 hours. Given the potential for supercells within a favorable parameter space, a Weather Watch will likely be needed this afternoon."
+    },
+    {
+      "year": 2023,
+      "number": 855,
+      "issue_utc": "2023-05-24T20:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0855.html",
+      "summary": "Storms capable of isolated large hail and severe gusts will be possible into early evening.",
+      "discussion": "A supercell is ongoing at 2045 UTC near the Las Animas (Colorado) and Union (New Mexico) county line, with other intensifying storms noted farther west across Huerfano County, CO. Moderate buoyancy (MLCAPE of 1000-1500 J/kg) will continue to support the potential for vigorous updrafts through the remainder of the afternoon into early evening. The strongest deep-layer flow/shear is expected to remain farther south across eastern NM and west TX, but weekly veering wind profiles (as noted on the PUX VWP) are supporting effective shear of 25-35 kt, sufficient for some storm organization and at least transient supercell structures. While the strongest supercells are expected to remain south of the CO border, strong to potentially severe storms may continue to develop near the higher terrain, with some left-splitting supercells also potentially moving into southeast CO from northeast NM. Large hail is likely to be the most prominent hazard, though localized severe gusts will also be possible, especially if there are any outflow mergers and modest upscale growth. With the organized severe threat expected to remain relatively localized over southeast CO, watch issuance is considered unlikely, though this will be reevaluated depending on short-term observational trends through the remainder of the afternoon."
+    },
+    {
+      "year": 2023,
+      "number": 856,
+      "issue_utc": "2023-05-24T20:47Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0856.html",
+      "summary": "A few strong to severe storms may evolve with a risk for wind and hail. It is uncertain if a weather watch is needed.",
+      "discussion": "Across portions of southwest TX, afternoon satellite imagery showed thunderstorms developing across the Davis Mountains and Trans Pecos region of southwest TX. Warm surface temperatures at the nose of a plume of steeper low and mid-level lapse rates were supporting moderate buoyancy with 2000-2500 J/kg of MLCAPE present. Vertical shear of 35-40 kt is sufficient for storm organization into supercells capable of large to very large hail and perhaps isolated severe wind gusts. Storm coverage remains somewhat uncertain owing to very weak forcing for ascent. Some model guidance hints that additional storms may develop along the dryline and spread east/southeast late this afternoon/evening. Should this occur, a locally greater severe threat may materialize necessitating a Weather Watch."
+    },
+    {
+      "year": 2023,
+      "number": 857,
+      "issue_utc": "2023-05-24T22:04Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0857.html",
+      "summary": "A few strong to severe thunderstorms will occur this evening over parts of eastern Montana. Large hail and gusty winds are possible. A watch is unlikely.",
+      "discussion": "Latest surface analysis shows a cold front extending from eastern Phillips County MT southwestward to west of Billings. Visible satellite imagery shows a cu field that clearly shows the front position. Scattered thunderstorms have begun to form along and ahead of front, in a moderately moist and unstable air mass (dewpoints in the upper 50s and MLCAPE of 1000-1500 J/kg). Steep mid-level lapse rates will promote robust updrafts, but rather weak southerly flow through the low/mid troposphere will limit overall convective organization (effective shear < 25 knots). A few organized multicell storms capable of hail and gusty winds are expected for the next few hours, but current indications are that the majority of storms will remain below severe limits. Therefore not currently planning on watch issuance."
+    },
+    {
+      "year": 2023,
+      "number": 858,
+      "issue_utc": "2023-05-24T22:43Z",
+      "topic": "Severe Thunderstorm Watch 235",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0858.html",
+      "summary": "Severe threat continues within WW235. Large hail and gusty winds continue to be the main hazards with ongoing storms.",
+      "discussion": "Storm development has been ongoing across portions of northeastern New Mexico into southern Colorado. Storms are mixed mode with semi-discrete and clustered supercells ongoing. Mode within this region will likely be dictated by boundary interactions and storm mergers, as thunderstorms continue to develop and move toward the Texas border through the evening. The axis of most favorable instability and deep-layer shear remains across the Texas/New Mexico border. Storms may become more organized as they move within this regime, with large hail and gusty winds as the main concern in the near term. CAM guidance consensus suggests a broken line may develop toward the evening, with embedded supercell structures. Around 02-03z, a low-level jet will develop across southwestern Texas into the Texas Panhandle. The increase in surface flow will lead to more curved low-level hodograph shape and increasing potential for a tornado or two, if storm mode can maintain embedded supercell circulations. Should more upscale growth occur, the main threat may shift to damaging winds."
+    },
+    {
+      "year": 2023,
+      "number": 859,
+      "issue_utc": "2023-05-25T00:34Z",
+      "topic": "Severe Thunderstorm Watch 235",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0859.html",
+      "summary": "Severe threat continues within WW235. There is a conditional risk across the far southern portion of the watch for large hail, gusty winds, and a tornado or two into the evening.",
+      "discussion": "A storm ongoing near Tucumcari, NM has produced 2 inch hail along with significant wind gusts as high as 75 mph in the last hour. Additional thunderstorm development is occurring along developing outflow emanating from this storm across south-central Quay and Curry Counties. Expect additional development further south in the next couple of hours with potential for gusty winds and large hail. Further south in WW235, uncertainty grows with a conditional threat through the evening. Recently, an area of more pronounced cumulus development was ongoing across Chaves County. Surface observations indicate that mixing has been occurring with the surface dew point dropping into the upper 40s from the early afternoon mid 50s. Visible satellite has shown many failed attempts at initiation within this area and further west along the dryline. One weak cell was able to initiate but has struggled to intensify. Day Cloud Phase Distinction satellite imagery continues to show deepening cu with evidence of glaciation. As the low level jet intensifies this evening, moisture should increase along with low-level flow. If a cell can successfully initiate in this regime and track eastward, a conditional threat of large hail, damaging winds, and a tornado will be possible through the evening."
+    },
+    {
+      "year": 2023,
+      "number": 860,
+      "issue_utc": "2023-05-25T01:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0860.html",
+      "summary": "Severe threat to continue over the next few hours. New watch issuance need by 03z.",
+      "discussion": "A broken line of storms continues to move south and east across the New Mexico/Texas border. The strongest portion of this line was located near Curry County, where reports of 2 inch hail and gusts up to 90 mph have been reported, along with tornadoes. Trends in WoFs runs continue to show this portion of the line maintaining intensity and continuing to track southward through the evening. The rest of the broken line will continue to advance south and eastward through the evening as well. Along and ahead of this line, effective shear around 40-50kts and MLCAPE around 1000-2000 J/kg will support continued embedded supercell hybrids with potential for damaging winds and large hail. Given these trends, a new watch will be needed by 03z."
+    },
+    {
+      "year": 2023,
+      "number": 861,
+      "issue_utc": "2023-05-25T03:37Z",
+      "topic": "Severe Thunderstorm Watch 236",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0861.html",
+      "summary": "Severe threat continues within WW236. Potential for large hail, damaging wind, and a tornado or two continues.",
+      "discussion": "An increase in the low-level jet has been noted in observations from KMAF and KLBB over the last couple of hours. An intense embedded supercell feature continues to move southward along the axis of strong MLCAPE within deep-layer shear around 50 kts. This has continued to produce strong gusts to around 60 mph and large hail around 1-2 inches. A thunderstorm just south of this has intensified quickly and will be merging with the larger complex. The threat for a tornado or two continues, as increasing low-level flow has led to more hodograph curvature in the bottom 1-2 km of noted at KLBB. This could be further aided by near storm interactions/mergers. Further development continues to be ongoing to the west of the lead cell, with potential for further training transient supercell development into the evening."
+    },
+    {
+      "year": 2023,
+      "number": 862,
+      "issue_utc": "2023-05-25T04:38Z",
+      "topic": "Severe Thunderstorm Watch 236",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0862.html",
+      "summary": "Intense thunderstorms continue to affect areas west of Lubbock along the New Mexico/Texas border. This activity will persist for several more hours, although the overall severe threat will likely slowly diminish through 2am CDT.",
+      "discussion": "Regional radar imagery shows multiple supercell thunderstorms over parts of Roosevelt County NM and Bailey, Lamb, and Cochran Counties TX. These storms are moving slowly south-southeastward at 10-15 knots, and have had a history of very large hail and damaging wind gusts earlier this evening. The activity is along the northern edge of the stronger southeasterly low-level jet, which should maintain convection for several more hours. However, slow diurnal cooling will result in stabilization and eventual decoupling of surface-based parcels. While occasional bouts of large hail and damaging winds will be possible for several more hours, climatology and recent CAM/WoFS runs suggest the more organized threat may begin to wane by 2am CDT. ..Hart.. 05/25/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 863,
+      "issue_utc": "2023-05-25T07:26Z",
+      "topic": "Severe Thunderstorm Watch 236",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md0863.html",
+      "summary": "A threat for large hail and wind damage will likely continue for a couple more hours. However, the threat should become more isolated with time and additional weather watch issuance is not expected.",
+      "discussion": "The latest high-resolution radar imagery from Lubbock shows several supercells embedded in a cluster of strong to severe storms from near the New Mexico-Texas state line extending to just southwest of Lubbock. The storms are associated with a subtle shortwave trough riding eastward over the top of an upper-level ridge. The cluster is located behind an outflow boundary that is surging southward across west Texas. Although instability is weak, moderate deep-layer shear is evident on RAP analysis, with 0-6 km shear mostly between 35 and 40 knots across much of west Texas. The storms should remain organized in this environment for another hour or two, moving east-southeastward across west Texas. Rotating cells could produced isolated large hail. Wind damage will also be possible. The severe threat should become isolated as instability weakens, and the outflow boundary continues to surge southward. ..Broyles.. 05/25/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

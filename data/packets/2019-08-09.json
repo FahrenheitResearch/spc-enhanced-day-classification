@@ -1,0 +1,112 @@
+{
+  "convective_day": "2019-08-09",
+  "valid_start": "2019-08-09T12:00Z",
+  "valid_end": "2019-08-10T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2019-08-09",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2019-08-09T20:00Z",
+      "valid_end": "2019-08-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2019/day1otlk_20190809_2000.html",
+      "summary": "Scattered severe thunderstorms will likely occur across parts of South Dakota this afternoon and evening. A few tornadoes, some of which may be strong, isolated large hail, and scattered severe winds will all be possible. Other isolated to widely scattered severe thunderstorms will remain possible across parts Oregon and Virginia through this evening.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "19Z surface analysis shows a weak low over southwestern SD. Low-level convergence to the east of this low has encouraged recent convective development across central SD. A strong baroclinic zone also extends northwest-southeast across SD. The environment along/near this boundary appears increasingly favorable for significant severe weather this afternoon and evening. Supercell thunderstorms are expected to be the dominant storm mode initially given 45-50+ kt of effective bulk shear, with a couple supercell structures observed already. Isolated large hail should occur with these storms. MLCAPE up to 2500 J/kg will likely develop across the warm sector to the southwest of the boundary across parts of western into south-central SD. A very strongly veering low-level wind profile will provide ample effective SRH along the surface boundary, perhaps upwards of 250-450+ m2/s2. The potential for a few tornadoes in this environment with any supercells warrants an increase in tornado probabilities. A strong tornado may also occur if a supercell can move southeastward along the surface boundary given the very favorable low-level shear expected. A small cluster of storms should eventually devel"
+        },
+        {
+          "title": "SD",
+          "text": "An embedded shortwave impulse is cresting the midlevel ridge and will move east from eastern WY across SD with an attendant surface cyclone. Elevated convection is ongoing in advance of this impulse across western/central SD and the northern extent of this activity should persist east near the SD/ND border. Surface heating on the southern-western flank of this ongoing convection, within a corridor of 65-70 F boundary-layer dewpoints, will contribute to MLCAPE from 1500-2500 J/kg between 21-00Z across west-central into south-central SD. Surface-based thunderstorm development will become more probable in the next few hours, either emanating from the southwest flank of the elevated convection and/or developing westward towards the surface cyclone. These storms should spread southeast along a pronounced differential heating corridor across central to southeast SD. Backed surface winds east of the cyclone, beneath strengthening low/mid-level flow should yield a rather enlarged hodograph towards early evening in a spatially narrow corridor from around Pierre to Mitchell. If a discrete supercell or two can be maintained through this time frame, the tornado risk may be greater than current"
+        },
+        {
+          "title": "Eastern VA",
+          "text": "A subtle mid-upper speed max will progress east-southeastward from eastern WV across VA. Downstream of the Appalachians, robust diabatic heating is well underway and this will contribute to moderate buoyancy with MLCAPE of 1000-2000 J/kg. A pre-frontal surface trough may help focus storm initiation in the next few hours across central/northeast VA, with storms potentially spreading southeastward into early evening. Straight hodographs with effective bulk shear of 30-35 kt and steep low-level lapse rates will support some transient supercell structures capable of producing damaging gusts and marginally severe hail."
+        },
+        {
+          "title": "Northwest",
+          "text": "Embedded shortwave impulses will rotate northward from CA to OR around the eastern periphery of a closed low off the northern CA coast. Typically steep lapse rates over the northern Great Basin and interior Northwest, along with sufficient low-midlevel moisture, will support weak-moderate buoyancy later this afternoon across parts of OR, ID, and northern NV. Scattered thunderstorm development is expected to be focused by ascent preceding the ejecting midlevel waves and surface heating over the higher terrain. The more concentrated storms are anticipated over the OR Cascades and the higher terrain in northeastern OR, where isolated severe wind gusts and marginally severe will be possible with high-based storms in an environment supporting clusters and marginal supercells. Locally strong to severe gusts will also be possible farther east-southeast into parts of northern NV and ID."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2019,
+      "number": 1677,
+      "issue_utc": "2019-08-09T18:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1677.html",
+      "summary": "Thunderstorms capable of damaging winds and isolated large hail are expected this afternoon and evening. A severe thunderstorm watch is possible.",
+      "discussion": "Thunderstorms have formed in southern West Virginia in an area of increased confluence and greater instability (~1500 MLCAPE). Mostly unidirectional west northwesterly flow has limited effective shear magnitude to around 30 knots despite greater than 50 knots of mid-upper level flow per RLX VWP. Storms are currently in a region with a cooler and more moist boundary layer, but once storms move off the higher terrain and into central Virginia, the air mass is much hotter with steep low-level lapse rates. Therefore, the damaging wind threat is expected to increase as storms move into this region. One or two storm clusters may form and move quickly to the southeast. While isolated large hail is possible, the limited instability and modest mid-level lapse rates should limit the hail threat. A severe thunderstorm watch is possible if storm organization becomes substantial enough for a sustained wind damage threat through the afternoon and early evening hours."
+    },
+    {
+      "year": 2019,
+      "number": 1678,
+      "issue_utc": "2019-08-09T18:47Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1678.html",
+      "summary": "Scattered severe thunderstorm development is expected later this afternoon. The most likely hazards will be severe wind and possibly a couple of tornadoes, though some hail will also be possible. Tornado Watch issuance is likely by 20Z.",
+      "discussion": "Earlier elevated convection is gradually shifting eastward across north-central SD, with a recent attempt at surface-based initiation across Jackson County, SD. The convective evolution remains uncertain this afternoon, with subsidence noted in WV imagery in the wake of the elevated storm cluster, but also some indication of increasing low-level convergence along an effective warm front and near a frontal wave east of Rapid City. Midlevel lapse rates are rather modest (generally less than 7 C/km), but rich low-level moisture is supporting moderate buoyancy (MLCAPE of 1500-2000 J/kg) near and south of the boundary. Elongated hodographs will support an initial supercell mode with any sustained surface-based convection this afternoon. An increase in the low-level jet is forecast later this afternoon, which will strengthen low-level shear, especially near and just to the cool side of the surface boundary. There is potential for one or more supercells to develop later this afternoon and track east-southeastward within an environment that will be increasingly supportive of tornadoes, though this potential will be contingent on the timing/location of initiation with respect to the surface boundary. Initial supercell development would also pose some hail risk, though this should be modulated by modest midlevel lapse rates and relatively warm temperatures aloft. Eventual development of an upscale-growing cluster will be possible later on in the convective evolution, which would pose an increasing threat of severe wind. While the timing of the primary threat remains uncertain, Tornado Watch issuance is likely by 20Z to cover what is likely to be an increasing severe threat with time."
+    },
+    {
+      "year": 2019,
+      "number": 1679,
+      "issue_utc": "2019-08-09T20:00Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1679.html",
+      "summary": "Strong to severe thunderstorms are possible this afternoon and evening. A severe thunderstorm watch may be needed before 23Z.",
+      "discussion": "Isolated storms have started to form in northern California and eastern Oregon. Expect storm coverage to increase through the afternoon as instability increases due to boundary layer heating and cooling temperatures aloft ahead of the approaching upper-level low. Severe wind gusts will be the primary threat due to the deeply mixed boundary layer and dry sub-cloud layer. However, isolated hail will be possible, especially in northern California and southwest Oregon where instability and shear will be maximized with supercell storm modes possible. A severe thunderstorm watch may be needed to cover the threat from these storms."
+    },
+    {
+      "year": 2019,
+      "number": 1680,
+      "issue_utc": "2019-08-09T20:43Z",
+      "topic": "Tornado Watch 564",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1680.html",
+      "summary": "The threat for severe wind, hail, and possibly a few tornadoes continues across much of SD. Some upscale growth is possible late this afternoon into the early evening, which would result in an increasing severe wind threat with time.",
+      "discussion": "One surface-based supercell is ongoing across south-central SD as of 2045Z, with other convection across the area generally near or north of the effective warm front. In the short term, a hail and locally severe wind risk will continue with the ongoing supercell and any semi-discrete cells that evolve out of the convection further north, given the presence of moderate buoyancy (MLCAPE of 1500-2500 J/kg) and effective shear of 40-50 kt. The tornado threat will be contingent on supercell interaction with the effective warm frontal zone. The ongoing supercell across south-central SD has thus far tracked slightly south of the effective boundary, though if it continues to track eastward, it may come in closer proximity to the warm front, which is oriented more northwest/southeast with eastward extent. If any semi-discrete supercells can evolve out of the slightly elevated convection to the north, they would also pose a tornado threat as they propagate east-southeast within a helicity-rich environment. The cells near/north of Pierre as of 2045Z may pose the greatest short-term tornado threat, given their proximity to the front. Otherwise, a tendency for upscale growth is expected with time as convection congeals over central SD, with a southeastward-moving complex capable of potentially more widespread severe wind possible by early evening into a larger portion of south-central/southeast SD. ..Dean.. 08/09/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1681,
+      "issue_utc": "2019-08-09T23:03Z",
+      "topic": "Tornado Watch 564",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1681.html",
+      "summary": "The severe threat continues across WW 564.",
+      "discussion": "A cluster of strong to severe storms continues across central portions of South Dakota near 9V9 and around 40 miles north of VTN. These storms have exhibited occasional rotation along with hail and strong wind gusts, which isn't surprising given the moderate CAPE/strong low-level shear environment in place - especially near the effective warm front. A tornado threat will exist, though radar presentation of ongoing storms hasn't been consistent with classic supercellular/mesocyclonic tornadoes over the last hour or so. In fact, storms appear to be congealing into a small linear segment near Buffalo/Lyman Counties. This evolution is consistent with recent high-resolution guidance/CAMs, which suggest that this cluster will begin to migrate southeastward along the warm front toward southeastern South Dakota over time. Upstream, an isolated, hail and wind-producing cell has exhibited supercellular structure over the past hour or so just northeast through east of Rapid City. This cell will continue to pose a severe risk for the next several hours and will approach western portions of WW 564 during that time. ..Cook.. 08/09/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1682,
+      "issue_utc": "2019-08-09T23:59Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1682.html",
+      "summary": "A downstream WW may be needed across portions of the discussion area by 01Z or so.",
+      "discussion": "Surface-based storms in south-central South Dakota are continuing to grow upscale while forward-propagating east-southeastward. The presence of locally enhanced low-level shear near a warm front bisecting the region from WNW-ESE will assist in occasional rotation in a few cells along with continued organization of the ongoing complex in the presence of moderate buoyancy. These storms will pose a hail/wind and isolated tornado risk through the evening, and with 290/30 storm motions, these storms should reach the southeastern extent of WW 564 during the 0130-0230Z time frame. Before this time, local extensions of WW 564 or a new WW (likely Severe Thunderstorm) will be coordinated with affected offices."
+    },
+    {
+      "year": 2019,
+      "number": 1683,
+      "issue_utc": "2019-08-10T00:52Z",
+      "topic": "Severe Thunderstorm Watch 565",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1683.html",
+      "summary": "Severe threat is shifting north across Oregon.",
+      "discussion": "Large-scale forcing ahead of short-wave trough is spreading north across OR early this evening. Scattered strong convection has developed ahead of this feature which is now spreading across northern-eastern portions of the State. As drying surges north, robust thunderstorms are expected to spread into northeast OR over the next few hours. Gusty winds/hail are the primary threats. ..Darrow.. 08/10/2019 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2019,
+      "number": 1684,
+      "issue_utc": "2019-08-10T06:09Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2019/md1684.html",
+      "summary": "Isolated strong storms may continue to pose a risk for severe hail and locally strong surface gusts south of Broken Bow into the Kearney, Lexington and Holdrege areas of south central Nebraska through 3-5 AM CDT.",
+      "discussion": "Strong thunderstorm development continues, mainly focused across central Nebraska, near the Broken Bow area, where a couple of storms may still be producing severe hail and locally strong surface gusts. Even this activity has exhibited recent weakening trends, and there appears little mid/upper support. However, convection has been focused within stronger low-level warm advection, aided by the nocturnal southerly low-level jet, along the eastern periphery of a low-level moist axis which is contributing to CAPE of 1500-3000 J/kg. In the presence of strong vertical shear, beneath modest northwesterly mid-level flow, occasional re-intensification of an isolated storm or two might still be possible, with a tendency for convection to propagate southward toward the Kearney, Holdrege, Lexington areas through 8-10Z."
+    }
+  ]
+}

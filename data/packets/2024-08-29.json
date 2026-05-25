@@ -1,0 +1,118 @@
+{
+  "convective_day": "2024-08-29",
+  "valid_start": "2024-08-29T12:00Z",
+  "valid_end": "2024-08-30T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2024-08-29",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-08-29T16:30Z",
+      "valid_end": "2024-08-30T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240829_1630.html",
+      "summary": "Severe thunderstorms are expected this afternoon and evening over portions of the Upper Midwest, with a threat for tornadoes, damaging winds, and sporadic large hail, especially across parts of Minnesota into western Wisconsin. Other severe storms are expected across the central Plains and Mid-Atlantic/Carolinas.",
+      "sections": [
+        {
+          "title": "Upper Midwest/Central Plains",
+          "text": "Have upgraded portions of central/eastern Minnesota into western Wisconsin to Enhanced Risk for a perceived greater aggregate severe risk, highlighted by a transition to an increased damaging wind potential by evening. An upper-level trough will continue generally east-northeastward from southern Saskatchewan toward Manitoba and eventually far northwest Ontario late tonight, with southern-peripheral height falls and moderately strong southwesterly winds aloft as far south as the far eastern Dakotas and Minnesota into Wisconsin. Scattered thunderstorm development is expected by mid-afternoon along the front from northern Minnesota south-southwestward into southwest Minnesota and the central Plains including eastern/southern Nebraska into northwest Kansas. The most severe-favorable ingredients are expected across central/southern Minnesota, where 2500-3500 J/kg MLCAPE will coincide with 30-40 kt effective shear. Some initial supercells can be expected with large hail. Tornado potential should be maximized across central Minnesota and possibly far western Wisconsin in vicinity of a weak surface wave/warm front-related triple point, where low-level moisture/SRH will be maximized, somew"
+        },
+        {
+          "title": "Carolinas/Mid-Atlantic including parts Virginia/Pennsylvania",
+          "text": "Scattered multicell thunderstorms are expected to form this afternoon, offering isolated damaging wind gusts and marginally severe hail. This activity will develop in a plume of rich low-level moisture, with lower-elevation surface dewpoints in the upper 60s to low 70s F. That, along with diurnal heating offsetting modest mid-level lapse rates, should support MLCAPE in the 2000-3000 J/kg range. ..Guyer/Jewell.. 08/29/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-08-29",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-08-29T20:00Z",
+      "valid_end": "2024-08-30T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240829_2000.html",
+      "summary": "Severe thunderstorms are expected this afternoon and evening over portions of the Upper Midwest, with a threat for tornadoes, damaging winds, and sporadic large hail, especially across parts of Minnesota into western Wisconsin. Other severe storms are expected across the central Plains and Mid-Atlantic/Carolinas.",
+      "sections": [
+        {
+          "title": "20z Update",
+          "text": "Minimal changes were made to the prior outlook. Thunder probabilities have been lowered across western parts of the central Plains behind the cold front. An isolated severe storm will be possible ahead of the front from the central Plains southward into the southern High Plains. Moderate buoyancy is supporting a fair amount of convection with some potential for damaging outflow winds or marginally severe hail. However, weaker deep-layer shear and modest large-scale ascent should keep the threat minimal prior to frontal passage later tonight. Across parts of the upper MS Valley and Midwest will maintain the Level 2/3 Slight/Enhanced as is. Scattered storms are ongoing and expected to increase in coverage through the afternoon and into this evening. Increasing deep-layer shear and partial heating ahead of the bands of storms near the cold front should allow for more robust/organized storms to gradually develop through the remainder of the afternoon. With the expected convective coverage, storm mode is trending toward more linear solutions, though moderate deep-layer shear and strong low-level turning with height may support a few embedded or semi-discrete supercell structures. Damagi"
+        },
+        {
+          "title": "Upper Midwest/Central Plains",
+          "text": "Have upgraded portions of central/eastern Minnesota into western Wisconsin to Enhanced Risk for a perceived greater aggregate severe risk, highlighted by a transition to an increased damaging wind potential by evening. An upper-level trough will continue generally east-northeastward from southern Saskatchewan toward Manitoba and eventually far northwest Ontario late tonight, with southern-peripheral height falls and moderately strong southwesterly winds aloft as far south as the far eastern Dakotas and Minnesota into Wisconsin. Scattered thunderstorm development is expected by mid-afternoon along the front from northern Minnesota south-southwestward into southwest Minnesota and the central Plains including eastern/southern Nebraska into northwest Kansas. The most severe-favorable ingredients are expected across central/southern Minnesota, where 2500-3500 J/kg MLCAPE will coincide with 30-40 kt effective shear. Some initial supercells can be expected with large hail. Tornado potential should be maximized across central Minnesota and possibly far western Wisconsin in vicinity of a weak surface wave/warm front-related triple point, where low-level moisture/SRH will be maximized, somew"
+        },
+        {
+          "title": "Carolinas/Mid-Atlantic including parts Virginia/Pennsylvania",
+          "text": "Scattered multicell thunderstorms are expected to form this afternoon, offering isolated damaging wind gusts and marginally severe hail. This activity will develop in a plume of rich low-level moisture, with lower-elevation surface dewpoints in the upper 60s to low 70s F. That, along with diurnal heating offsetting modest mid-level lapse rates, should support MLCAPE in the 2000-3000 J/kg range."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2024,
+      "number": 2028,
+      "issue_utc": "2024-08-29T17:20Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2028.html",
+      "summary": "Scattered storms will develop from central Pennsylvania southwestward along the Blue Ridge, with locally strong to damaging gusts possible into surrounding areas to the east later today.",
+      "discussion": "A moist and unstable air mass is in place today south and west of the New England surface ridge, and despite slow drying from the east. Visible imagery clearly indicates a very moist air mass with expansive cumulus fields over much of PA and southwestward along the Blue Ridge. GPS PWAT sensors show values of 1.75-2.00\" from eastern VA/DelMarVa northwestward into central PA. Continued heating will lead to accelerated development over the higher terrain of eastern WV and western VA over the next few hours, with additional activity expected over much of central PA where weak convergence exists. Shear will remain weak over most of the area, with propagating clusters of storms expected to move east/southeast into the remainder of central and northern VA and parts of MD. Locally damaging gusts will be possible given the favorable timing of the development with peak heating, and as outflow pushes into regions with steep low-level lapse rates later this afternoon."
+    },
+    {
+      "year": 2024,
+      "number": 2029,
+      "issue_utc": "2024-08-29T17:40Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2029.html",
+      "summary": "Storm coverage and intensity will increase this afternoon in western/central Minnesota. Some initial storms will be supercellular and be capable of large hail and damaging winds. Somewhat rapid upscale growth is expected which will transition the primary threat to damaging winds later this afternoon. A watch is likely in the next 1-2 hours.",
+      "discussion": "Visible satellite/mosaic radar imagery shows a steady increase in convection along/ahead of a cold front near the western Minnesota border. As temperatures continue to warm into the low/mid 80s in west-central/southwest Minnesota, MLCIN will continue to erode and convection should intensify with time and likely expand in coverage as well. Damaging winds will be possible as will large hail. The large hail potential may be maximized farther north where shear is stronger and the mode may remain discrete longer. Though the tornado risk will not be zero, the stronger 850 mb winds are expected to translate eastward with time and the larger low-level SRH should reside closer to the slowly lifting warm front within the Mississippi Valley. The tornado threat is expected to be greater farther east. The main uncertainty is how long a discrete mode will be maintained (most guidance shows relatively quick upscale growth along the front) and when storms will become severe. The current thinking is that a watch will be needed in the next 1-2 hours."
+    },
+    {
+      "year": 2024,
+      "number": 2030,
+      "issue_utc": "2024-08-29T19:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2030.html",
+      "summary": "Storm coverage along the cold front should continue to increase in eastern Nebraska and eventually western Iowa. The slow push eastward of storms and potential for outflow does increase uncertainty in how organized the damaging wind threat will be. Trends will be monitored, but a watch is not expected currently.",
+      "discussion": "Convection has developed along the cold front in south-central Nebraska. Additional storms are likely to develop along the boundary through the afternoon given the destabilization (particularly southeast Nebraska) evident on visible satellite. With shear vectors roughly parallel to the front, storm mode should be decidedly linear. It is possible for a supercell or two to be embedded in the line, especially with northern extent. The main hazard should be damaging winds with isolated large hail more conditional on a discrete storm mode. In northwest Iowa and south-central Nebraska, outflow from convection is evident on KFSD/KUEX radar imagery. With similar potential for outflow pushing away from storms and the frontal motion continuing to the east, there is some chance many storms will be slightly elevated in nature and for corridors of greater wind damage potential to be dependent on mesoscale outflow surges."
+    },
+    {
+      "year": 2024,
+      "number": 2031,
+      "issue_utc": "2024-08-29T20:17Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2031.html",
+      "summary": "Damaging winds and isolated large hail are possible in parts of northern/central Iowa this afternoon into the evening. A watch may be needed this afternoon for parts of these areas.",
+      "discussion": "A line of storms in northwest Iowa will continue eastward into increasing buoyancy in northern/central Iowa. Marginal supercell storms are also moving northeast out of southwest Iowa. Isolated large hail would be possible with the discrete storms, but wind damage will be the main hazard this afternoon/early-evening along the cold front. A watch may be needed this afternoon for parts of these areas."
+    },
+    {
+      "year": 2024,
+      "number": 2032,
+      "issue_utc": "2024-08-29T20:53Z",
+      "topic": "Severe Thunderstorm Watch 662",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2032.html",
+      "summary": "Damaging wind threat will approach the Twin Cities within the next hour. Potential for low-level rotation/QLCS brief tornadoes can also be expected near the warm front.",
+      "discussion": "The most organized line of storms in WW 662 are west and northwest of the Twin Cities area. KMPX shows signs of a stronger outflow surge just west of the metro area. This would pose the greatest risk for severe/damaging gusts in the next hour. Additionally, storms will encounter more backed low-level winds near the warm front. Some increase in low-level rotation within the line is also possible over the next 1-2 hours. ..Wendt.. 08/29/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2033,
+      "issue_utc": "2024-08-29T21:40Z",
+      "topic": "Severe Thunderstorm Watch 662",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2033.html",
+      "summary": "The severe threat continues across WW663. Clusters of strong to severe storms should continue into this evening. Damaging wind gusts and occasional hail are possible.",
+      "discussion": "As of 2130 UTC, several clusters of strong to severe storms were ongoing across WW633. Over the past several hours, these clusters have produced occasional damaging wind gusts and isolated severe hail. The environment across the watch area and much of the Mid Atlantic remains unstable and modestly sheared with 2000 J/kg of MLCAPE from SPC mesoanalysis and 20-25 kt of effective shear via area VADs. Convective coverage may increase slightly over the next coupe of hours as various outflows interact with ongoing and developing clusters. Damaging winds remain the most likely threat, though isolated hail is possible with the stronger updrafts given the degree of buoyancy. Hi-res guidance and the latest observational trends suggest the highest storm coverage may remain over parts of the MD/VA/PA border region this evening. This may support a locally greater corridor of severe risk as some of the ongoing clusters may consolidate further. However, this is uncertain, given the lack of more meaningful broad-scale forcing, and the severe risk remains across much of the watch. ..Lyons.. 08/29/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2034,
+      "issue_utc": "2024-08-29T22:37Z",
+      "topic": "Severe Thunderstorm Watch 662",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2034.html",
+      "summary": "An organized squall line may continue to pose a risk for strong to severe wind gusts and, perhaps, a brief tornado or two, before gradually weakening across north central Wisconsin by 8-9 PM CDT.",
+      "discussion": "Cold surface ridging has been slow to lose influence across much of northern and eastern Wisconsin into Michigan and the adjacent Great Lakes. Although modest destabilization is ongoing along the warm front east-southeast of Minneapolis into the Madison WI vicinity, it is not clear how much longer low-level southeasterly inflow will be sufficiently unstable to maintain the more organized segment of the squall line now in the process of advancing into northwestern and west central Wisconsin. However, cyclonic mesoscale lower/mid-level circulations still evident within the line might maintain a risk for damaging surface gusts and perhaps a brief tornado or two another couple of hours, into the 00-01Z time. Given the 30-35+ kt northeasterly/easterly forward propagation, this risk may spread into portions of north central Wisconsin east of the severe weather watch area. However, it is not yet clear that a new severe weather watch will be needed. ..Kerr.. 08/29/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

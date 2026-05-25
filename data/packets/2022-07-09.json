@@ -1,0 +1,151 @@
+{
+  "convective_day": "2022-07-09",
+  "valid_start": "2022-07-09T12:00Z",
+  "valid_end": "2022-07-10T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2022-07-09",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-07-09T16:30Z",
+      "valid_end": "2022-07-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220709_1630.html",
+      "summary": "Scattered severe thunderstorms are expected later this afternoon through tonight across Montana into North Dakota, with damaging winds and large hail likely. Occasional damaging gusts will also be possible this afternoon/evening across parts of Alabama and Mississippi.",
+      "sections": [
+        {
+          "title": "MT/ND late this afternoon through tonight",
+          "text": "Similar to the previous two days, midlevel shortwave troughs will move around the northwest periphery of the Four Corners midlevel high, from the interior Northwest across MT to ND through tonight. Despite overnight convection, boundary-layer dewpoints remain in the mid 50s to near the higher terrain in west/southwest MT (somewhat higher dewpoints across eastern MT). Steep midlevel lapse rates will again be replenished from the southwest, which in concert with daytime heating, will result in MLCAPE near 1500 J/kg this afternoon/evening. Deep-layer vertical shear will be fairly strong, with long hodographs and effective bulk shear in excess of 45 kt. Much like yesterday, scattered thunderstorm development is expected near or just after 21z, over and immediately northeast of the mountains in southwest MT. Some of these storms could develop supercell structures with an attendant threat for large hail of 2+ inches in diameter. Later this evening, some upscale growth into one or more clusters is expected, with an increase in the threat for damaging winds of 75+ mph. Embedded supercells will remain possible, especially on the southern flank of the convection, as the cluster(s) move eastw"
+        },
+        {
+          "title": "Southeast into TX this afternoon/evening",
+          "text": "Downstream from a midlevel high centered near the Four Corners, a broad zone of cyclonic flow aloft persists from the MS Valley to the Mid-Atlantic/Carolinas. Embedded perturbations within this cyclonic flow, enhanced by prior convection, will continue to move east-southeastward over the Southeast, as a surface cold front drifts slowly southward across VA/KY/TN/AR and north TX. Morning clouds/convection across north GA/northeast AL will produce weak outflow and differential heating zones that will drive afternoon thunderstorm development farther south and west from central AL into the Mid-South along the cold front. Hot afternoon temperatures of 95-100 F and boundary-layer dewpoints in the mid 70s will boost MLCAPE to 3000 J/kg or greater, with thunderstorm development expected by early-mid afternoon. Convection will likely grow upscale into a couple of clusters/lines and spread southward through late afternoon/evening. Though flow aloft will be weak, the large buoyancy and DCAPE near 1000 J/kg will support occasional damaging downbursts. Farther east, the morning convection across GA may persist into the afternoon while spreading southeastward, and additional storms are expected t"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-07-09",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-07-09T20:00Z",
+      "valid_end": "2022-07-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220709_2000.html",
+      "summary": "Scattered severe thunderstorms are expected later this afternoon through tonight across Montana into North Dakota, with damaging winds and large hail likely. Occasional damaging gusts will also be possible this afternoon/evening across parts of Alabama and Mississippi.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "Mostly minor adjustments were made to the outlook to reflect the latest observations or model guidance consensus. The one exception was to expand the Category 3/Enhanced risk into central ND. Some of the latest HRRR guidance members depict robust convection associated with a severe bow-echo MCS progressing into central parts of the state by 12Z. In the 06-12Z period, forecast soundings from several of the last RAP runs depict 9 C/km 700-500 mb lapse rates (and resultant 3500 J/kg MUCAPE), with considerable drying in the 800-600 mb layer. Despite a stable boundary layer, adequate evaporative cooling/ice melting should support strong enough downward momentum transport for an organized severe wind threat with the bow-echo MCS. ..Squitieri.. 07/09/2022 .PREV DISCUSSION... /ISSUED 1130 AM CDT Sat Jul 09 2022/"
+        },
+        {
+          "title": "MT/ND late this afternoon through tonight",
+          "text": "Similar to the previous two days, midlevel shortwave troughs will move around the northwest periphery of the Four Corners midlevel high, from the interior Northwest across MT to ND through tonight. Despite overnight convection, boundary-layer dewpoints remain in the mid 50s to near the higher terrain in west/southwest MT (somewhat higher dewpoints across eastern MT). Steep midlevel lapse rates will again be replenished from the southwest, which in concert with daytime heating, will result in MLCAPE near 1500 J/kg this afternoon/evening. Deep-layer vertical shear will be fairly strong, with long hodographs and effective bulk shear in excess of 45 kt. Much like yesterday, scattered thunderstorm development is expected near or just after 21z, over and immediately northeast of the mountains in southwest MT. Some of these storms could develop supercell structures with an attendant threat for large hail of 2+ inches in diameter. Later this evening, some upscale growth into one or more clusters is expected, with an increase in the threat for damaging winds of 75+ mph. Embedded supercells will remain possible, especially on the southern flank of the convection, as the cluster(s) move eastw"
+        },
+        {
+          "title": "Southeast into TX this afternoon/evening",
+          "text": "Downstream from a midlevel high centered near the Four Corners, a broad zone of cyclonic flow aloft persists from the MS Valley to the Mid-Atlantic/Carolinas. Embedded perturbations within this cyclonic flow, enhanced by prior convection, will continue to move east-southeastward over the Southeast, as a surface cold front drifts slowly southward across VA/KY/TN/AR and north TX. Morning clouds/convection across north GA/northeast AL will produce weak outflow and differential heating zones that will drive afternoon thunderstorm development farther south and west from central AL into the Mid-South along the cold front. Hot afternoon temperatures of 95-100 F and boundary-layer dewpoints in the mid 70s will boost MLCAPE to 3000 J/kg or greater, with thunderstorm development expected by early-mid afternoon. Convection will likely grow upscale into a couple of clusters/lines and spread southward through late afternoon/evening. Though flow aloft will be weak, the large buoyancy and DCAPE near 1000 J/kg will support occasional damaging downbursts. Farther east, the morning convection across GA may persist into the afternoon while spreading southeastward, and additional storms are expected t"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-07-10",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-07-10T01:00Z",
+      "valid_end": "2022-07-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220710_0100.html",
+      "summary": "Scattered severe thunderstorms will spread across Montana into North Dakota tonight with damaging winds and large hail likely. Occasional damaging gusts remain possible this evening across parts of Alabama and Mississippi.",
+      "sections": [
+        {
+          "title": "01z Update",
+          "text": "Early-evening satellite imagery depicts a well-defined short-wave trough ejecting across ID into western MT. This feature will flatten the upper ridge over the northern High Plains tonight as it progresses into western ND by daybreak. In response to this feature, surface low is reorganizing over north-central WY and should track east into western ND by 10/12z. Easterly boundary-layer flow north of this surface cyclone will prove favorable for upscale convective growth ahead of the short wave. Numerous storms have advanced into north-central/central MT at 0030z, and further clustering is anticipated as heights fall across this region tonight. Earlier thoughts regarding the likelihood for a forward-propagating MCS remain. Damaging winds and hail are likely with this evolving complex as it spreads into ND later tonight. An arcing band of storms, roughly 270 miles long, is propagating south across MS/AL. This activity has produced a fair number of wind reports as it surges ahead of the primary front which lags the leading edge of convection by at least 150mi. With temperatures holding in the lower 90s across MS into west-central AL a reservoir of buoyancy has yet to be overturned ahead"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2022,
+      "number": 1427,
+      "issue_utc": "2022-07-09T19:48Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1427.html",
+      "summary": "Thunderstorms will increase in coverage and intensity this afternoon. Isolated to scattered damaging wind gusts are expected to be the main threat. Watch issuance is possible.",
+      "discussion": "Convection is gradually increasing across parts of northern MS/AL this afternoon, along and ahead of a weak cold front that is sagging southward across the area, and also near an outflow boundary across northeast AL. While midlevel lapse rates are generally weak, substantial heating of a very moist boundary layer has resulted in MLCAPE increasing to 2000-3500 J/kg across the region. Deep-layer flow is also weak, though a slight enhancement to midlevel northwesterly flow associated with a weak upper trough may provide sufficient shear for some loosely organized cells/clusters as storms evolve this afternoon. Large PW and steep low-level lapse rates will support a threat of isolated wet microbursts with initial discrete convection. A somewhat greater threat of scattered damaging wind may develop later this afternoon into the early evening, as storm and outflow mergers occur and one or more loosely organized clusters move southward with time. Watch issuance remains possible this afternoon in order to cover this potential damaging wind threat."
+    },
+    {
+      "year": 2022,
+      "number": 1428,
+      "issue_utc": "2022-07-09T20:37Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1428.html",
+      "summary": "Increasing thunderstorm coverage is expected over the next few hours. Initially more discrete storms could produce large hail and strong wind gusts, with a transition to more of a linear mode anticipated later.",
+      "discussion": "Large-scale ascent attendant to a shortwave trough moving northeastward through the northern Great Basin continues to spread across the northern Rockies. This ascent is interacting with the moderately moist air mass in place over the northern Rockies, contributing building cumulus across the high terrain. Steep mid-level lapse rates are also in place (sampled well by the 19Z TFX sounding), resulting in at least moderate buoyancy throughout the region. Convective initiation has already occurred over far east-central ID, and the expectation is for thunderstorm coverage to increase over adjacent southwestern MT over the next hour or two. Combination of ascent, strong vertical shear (i.e. effective bulk shear 45-50 kt), and moderate buoyancy (generally less than 2000 J/kg of MLCAPE) is forecast to result in organized storms, including a few discrete supercells capable of large hail and/or strong wind gusts. Isolated instances of very large hail are possible. Upscale growth is anticipated later this evening as storm outflow amalgamates. When this occurs, the probability for strong wind gusts will increase, including the potential for a few significant wind gusts."
+    },
+    {
+      "year": 2022,
+      "number": 1429,
+      "issue_utc": "2022-07-09T20:57Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1429.html",
+      "summary": "Thunderstorms capable of isolated damaging winds are possible late this afternoon. Watch issuance is unlikely.",
+      "discussion": "Widely scattered thunderstorms have developed this afternoon across parts of central and north TX, generally in the vicinity of diffuse and weak frontal zone. Deep-layer flow/shear is weak, but with temperatures rising into the 102-107 F range and generally large DCAPE across the region, isolated downbursts will be possible as pulse storms intensify and then collapse. Some weak clustering is also possible as outflows consolidate, though convection is generally expected to remain disorganized. The isolated damaging wind threat will be diurnal in nature and tend to diminish this evening. Watch issuance is not expected."
+    },
+    {
+      "year": 2022,
+      "number": 1430,
+      "issue_utc": "2022-07-09T22:35Z",
+      "topic": "Severe Thunderstorm Watch 451",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1430.html",
+      "summary": "The potential for damaging winds and sporadic large hail continues across WW 451. The best near-term wind damage threat will likely reside across eastern Mississippi into central Alabama.",
+      "discussion": "Thunderstorms continue to propagate southward along a cool front across the lower MS River Valley and the Mid-South. Although many of the initial cells have become outflow dominant and/or consolidated into a few clusters, several wind damage reports have been noted over the past 1-2 hours with this activity. The environment ahead of the front remains very thermodynamically favorable for strong to severe convection. Temperatures in the upper 90s with dewpoints in the low to mid 70s are maintaining upwards of 4000-4500 J/kg MLCAPE with negligible inhibition. The nearly 30 F dewpoint depressions are also indicative of the steep low-level lapse rates in place that will further aid the downburst wind potential. Despite weak deep-layer flow, the strong thermodynamics will maintain a severe threat for most of WW 451 well into the evening hours. The best near-term potential for damaging winds will likely reside across east-central MS into western/central AL. Regional reflectivity and velocity trends show loosely organized clusters beginning to show cold pool amalgamation with new development on the leading edge of the outflow. Consequently, this may support a more widespread damaging wind threat compared to locations further west where cells are more isolated in nature. ..Moore.. 07/09/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1431,
+      "issue_utc": "2022-07-10T00:12Z",
+      "topic": "Severe Thunderstorm Watch 452",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1431.html",
+      "summary": "A substantial severe threat will evolve this evening across central and eastern Montana, with destructive winds and hail expected. A new watch is likely east of WW 452.",
+      "discussion": "Storms continue to increase in intensity and coverage over central MT, with several cells now exhibiting a rightward/eastward motion as of 00Z. As height falls with the shortwave trough continue this evening, low-level easterlies will increase, with 850 mb winds providing moist storm relative inflow. As this occurs, an MCS may eventually materialize, with a threat of wind-driven hail and damaging winds. Individual cells may also produce very large hail in excess of 2.00\" diameter. The very steep lapse rates aloft combined with strong shear should maintain the severe threat beyond 06Z despite small boundary-layer inhibition from cooling, eventually entering ND later tonight. ..Jewell.. 07/10/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1432,
+      "issue_utc": "2022-07-10T00:32Z",
+      "topic": "Severe Thunderstorm Watch 451",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1432.html",
+      "summary": "The potential for damaging winds will continue into southern Mississippi and parts of west-central Alabama as storms move out of WW 451. However, a downstream watch is not currently anticipated given recent storm trends.",
+      "discussion": "Initially semi-discrete cells and thunderstorm clusters have now consolidated into a cohesive, southward-propagating line of storms across central MS/AL. While a few measured severe wind gusts have been reported within the past hour, most measured winds have been in the 25-35 mph range. Regional reflectivity and velocity data shows that this line is predominantly outflow dominant, and MRMS vertically integrated ice, as well as echo top data, suggests that most cells within the line are beginning to weaken (with the exception of a more robust cell north of the Jackson, MS area). The downstream environment across southern MS remains supportive for convective maintenance with ample instability (3000-4000 J/kg MLCAPE) and little inhibition, which should allow for a continued threat of sporadic damaging winds across the region. To the east, a residual cold pool from prior convection has weakened instability across southern AL and increased MLCIN per recent mesoanalysis estimates and surface observations. While a few damaging gusts can't be ruled out across southern AL, the severe potential appears lower. Conditions will continue to be monitored, but based on recent convective trends a downstream watch is currently not anticipated. ..Moore.. 07/10/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1433,
+      "issue_utc": "2022-07-10T04:30Z",
+      "topic": "Severe Thunderstorm Watch 453",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1433.html",
+      "summary": "Damaging winds and large hail remain probable across eastern Montana and eventually western North Dakota.",
+      "discussion": "A complex area of severe storms currently extends from northern Rosebud County northward through the Glasgow area where a gust to 68 mph was just measured. Radar coverage is limited over eastern MT due to the KGGW outage, but lightning activity remains strong with the Glasgow storms as well as the larger cluster farther south into Garfield/Rosebud Counties. Here, IR imagery indicates generally stronger/taller convection, with hail cores possibly in excess of 2.00\". A moist and unstable air mass, with steep midlevel lapse rates and a deepening surface low, all suggest a continued and possibly increasing threat of damaging winds tonight, continuing into parts of ND. ..Jewell.. 07/10/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1434,
+      "issue_utc": "2022-07-10T06:59Z",
+      "topic": "Severe Thunderstorm Watch 453",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1434.html",
+      "summary": "Damaging gusts and isolated large hail continue to be possible across western North Dakota. A downstream severe thunderstorm watch will likely be needed for portions of central North Dakota.",
+      "discussion": "Two clusters of storms are current moving out of eastern MT into western ND. The northern most cluster is near the ND/Canadian border, and may continue to lift slightly northeast across the international border. Observational data has been limited due to the ongoing KGGW 88-D outage, however lightning trends coupled with convection moving into range of KBIS and KMBX indicate this northern cluster may pose a lesser severe threat with eastward extent compared to the cluster over Dawson, Wibaux and Fallon Counties in far eastern MT. WW 453 should continue to encapsulate the threat associated with the northern cluster. It is unclear how much of north-central ND may need to be considered for any downstream watch issuance, as the threat may mostly shift north into southeast SK/southern MB. The southern cluster of storms is shifting east at about 45-55 kt. On this track, it is expected to move out of WW 453 by around 08-0830z. A strongly unstable airmass with dewpoints in the upper 60s to low 70s resides across central ND amid intense bulk shear. A modest southerly low-level jet is also indicated in latest mesoanalysis data and from the KBIS VWP. This should support continued storm organization and a damaging wind potential may spread east of WW 453. A downstream watch issuance likely will be needed into portions of central ND in the next hour or so. ..Leitman.. 07/10/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1435,
+      "issue_utc": "2022-07-10T11:22Z",
+      "topic": "Severe Thunderstorm Watch 454",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1435.html",
+      "summary": "Isolated gusts around 45-60 mph remain possible as storm track east into eastern North Dakota the next couple of hours. Sporadic large hail also may occur with the strongest storms.",
+      "discussion": "Strong to severe thunderstorm clusters continue to shift east across ND early this morning. Some weakening has been noted in latest radar imagery, as well as in decreasing lightning trends and slight warming of cloud tops in IR satellite imagery. However, a few observation sites have measured gusts around 45-60 mph over the past 30-60 minutes. Convection will likely continue to gradually decrease in intensity with eastward extent as stronger ascent associated with a weak midlevel shortwave impulse lifts north of the international boarder. A moderately unstable airmass and strong bulk shear will help to maintain periodically intense cells. However, weaker low and midlevel flow along with strong MLCINH should keep damaging wind potential more isolated compared to the past few hours. A few strong to near-severe gusts will remain possible with more intense thunderstorms the next couple of hours before further weakening toward the ND/MN border occurs. Steep midlevel lapse rates and adequate shear also may support isolated large hail with more intense cells. ..Leitman.. 07/10/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

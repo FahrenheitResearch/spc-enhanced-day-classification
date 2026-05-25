@@ -1,0 +1,334 @@
+{
+  "convective_day": "2024-07-15",
+  "valid_start": "2024-07-15T12:00Z",
+  "valid_end": "2024-07-16T12:00Z",
+  "max_risk": "MDT",
+  "product_counts": {
+    "ENH": 3,
+    "MDT": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2024-07-15",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-07-15T12:00Z",
+      "valid_end": "2024-07-16T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240715_1200.html",
+      "summary": "Severe thunderstorms are expected this afternoon and evening across portions of the Midwest, central High Plains, and the lower Great Lakes. The greatest potential for severe/damaging winds appears to be across eastern Iowa into Illinois and Indiana. More isolated strong to severe thunderstorms are possible across southeast Arizona and the New England region.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A complex severe-weather setup is anticipated for today across the Midwest with the potential for one or more severe MCSs. The details of how the severe threat will evolve this afternoon/evening will be conditional on convective evolution of ongoing MCSs across ND and IL/IN through 12 UTC, which introduces considerable uncertainty into the forecast. In general, a broad surface cyclone is forecast to deepen slightly over the upper Great Lakes over the next 12-24 hours as a low-amplitude mid-level wave traverses the northern CONUS. As this occurs, a weak cold front (noted in surface obs across MT and the western Dakotas as of 05 UTC) will migrate south into the Midwest and central Plains by late afternoon. Thunderstorm development and/or re-intensification is anticipated along this boundary and on the northern periphery of a reservoir of a high theta-e air mass in place over the central Plains."
+        },
+        {
+          "title": "Midwest",
+          "text": "Recent CAM guidance depicts a range of possible scenarios for the next 24 hour period. The most probable scenario involves the cluster of thunderstorms ongoing across the Dakotas as of 05 UTC, which will likely weaken by 12 UTC as it approaches the mid-MS River Valley. The remnants of this complex may act as foci for re-development by mid to late afternoon on the northeastern periphery of a reservoir of high theta-e air (denoted by dewpoints in the low to mid 70s) across IA, southern WI, and northern IL. Thunderstorms emerging from this zone will likely organize and intensify into an organized MCS as it propagates southeast into eastern IA and northern IL. If the ND cluster weakens substantially by late morning, convective initiation will likely be focused along the cold front as it migrates south and/or along a residual outflow boundary from ongoing storms. The location of initiation varies in latest model solutions, which introduces uncertainty on where the corridors of relatively higher severe-wind potential will be established. Higher wind probabilities were placed based on where ensemble guidance shows the best QPF signal, which likely correlates to where deep convection will "
+        },
+        {
+          "title": "Northeast",
+          "text": "05 UTC regional radar imagery reveals a mature MCS ongoing across northern IL/IN. A vorticity maximum associated with this system is apparent over lower Lake Michigan, and is expected to migrate east, reaching the lower Great Lakes by around 18 UTC. Mid-level lapse rates are fairly modest across New England per 00 UTC soundings, but dewpoints in the upper 60s/lower 70s should support around 500-1000 J/kg MLCAPE by peak heating. Thunderstorm development ahead of the MCV appears likely based on latest CAM guidance, and slightly augmented flow in the vicinity of the vorticity maximum should result in around 25-30 knots of effective bulk shear. These environmental conditions will likely be sufficient to support organized convective clusters within a somewhat focused corridor across parts of PA and NY."
+        },
+        {
+          "title": "Central High Plains",
+          "text": "Steep mid-level lapse rates and mid-level moisture across the central Rockies will foster another day of widely scattered thunderstorms across CO and WY. Storms will migrate into the central High Plains by late afternoon amid a mean easterly flow regime. Weak low-level storm-relative winds and a deeply mixed boundary layer should yield outflow-dominant storms, but stronger mid-level flow compared to previous days may favor some thunderstorm clustering/cold pool amalgamation. Consequently, a more focused corridor of severe-wind potential may emerge across the central High Plains. While the exact location of where such clusters may emerge remains uncertain, ensemble guidance suggests this is most probable across the NE Panhandle into northeast CO/northwest KS."
+        },
+        {
+          "title": "Southeast Arizona",
+          "text": "Thunderstorm development is expected again along the eastern portions of the Mongollon Rim and out of the Gila region of southwest NM. Southwesterly flow out of Gulf of California will maintain dewpoints in the upper 50s to low 60s that should support MLCAPE values above 1000 J/kg. Warm temperatures in the upper 90s to low 100s should support another day of 40-50 F dewpoint depressions amid deep boundary-layer mixing. Storms moving off the terrain will be capable of strong to severe downburst winds as they migrate into the buoyant, but deeply mixed environment at lower elevations. ..Moore/Darrow.. 07/15/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-07-15",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-07-15T13:00Z",
+      "valid_end": "2024-07-16T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240715_1300.html",
+      "summary": "Severe thunderstorms are possible this afternoon and evening across portions of the Midwest, central High Plains, lower Great Lakes, and Arizona. The greatest potential for severe gusts is over eastern Iowa into Illinois and Indiana.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "Mid/upper-level pattern amplification in the northern stream will contribute to weakening (but not dissipation) of the persistent anticyclone over the Four Corners region. A 500-mb low over northern MB will dig south-southeastward to northwesternmost parts of ON through the period, combining with a series of small shortwave perturbations in the cyclone's southern semicircle to increase both cyclonic flow speeds and height curvature over upper parts of the Midwest, Mississippi Valley and Great Lakes. As this occurs, a shortwave trough -- evident in moisture-channel imagery over the Black Hills and vicinity -- will accelerate eastward to southern MN and northern/western IA by 00Z, then reach Lake Huron, northwestern OH and northern IN by the end of the period. That feature should be preceded by a smaller shortwave trough and MCV -- now apparent over western MN -- and forecast to move across northern WI and Upper MI through this evening. To its southeast and well downstream from the Black Hills perturbation, another MCV was quite evident in composite radar imagery over southern Lower MI, with shortwave trough southwestward to parts of central/eastern IL. This perturbation should move "
+        },
+        {
+          "title": "IA to southern Lower Great Lakes",
+          "text": "The decaying remnants of the prior/overnight MCS responsible for the southern Lower MI MCV also have left an outflow boundary over southern portions of IN/IL, arching northwestward and becoming quasistationary over western IL into southeastern/central IA. Clouds/precip from the prior MCS, and shortwave subsidence/DNVA immediately following its associated shortwave trough, should be long gone by mid/late afternoon, when the airmass along the outflow boundary will have had several hours to modify favorably from west to east. The boundary itself also may drift northward amidst weak but steady ambient warm advection, with the boundary layer favorably destabilizing on both sides. A combination of lift near the boundary, increasing large-scale ascent ahead of the upstream mid/upper-level shortwave trough, steepening low-level lapse rates from diurnal heating, and rich moisture (surface dewpoints commonly upper 60s to low 70s F) are expected to prepare the corridor in and near the \"enhanced risk\" area for severe potential through the afternoon. Isolated to scattered thunderstorms should develop near and north of the western limb of the outflow boundary (mainly IA, but also possibly wester"
+        },
+        {
+          "title": "Northeast",
+          "text": "Scattered thunderstorms are expected to move eastward across this area this afternoon into early evening -- some of which may initiate late morning into midday back in ON closer to the MCV. Activity should aggregate into clusters and/or a short QLCS, yielding damaging to severe gusts. Isolated discrete or line-embedded supercells also are possible, with some attendant severe-hail potential. As the MCV crosses southernmost parts of ON and also Lake Erie today, the foregoing boundary layer over parts of NY/PA will destabilize diurnally, while remaining favorably moist (with lower- elevation surface dewpoints commonly in the mid 60s to near 70 F). This will support a buildup of preconvective MLCAPE into the 1500- 2000 J/kg range (locally higher). Note that models with RAP physics (RAP, HRRR) may be over-mixing higher elevations and underforecasting buoyancy as a result (a common bias). Increase and slight veering of winds with height will contribute to around 30-40 kt effective-shear magnitudes, which may be locally greater in any channels of gradient-flow enhancement from the MCV that extend to or past the zone of convective forcing. Meanwhile, a well-mixed subcloud layer will suppor"
+        },
+        {
+          "title": "Central High Plains",
+          "text": "Isolate to scattered, high-based thunderstorms are expected to form this afternoon over a broad area from central WY to the Front Range and foothills of CO, with the most concentrated convection still progged for portions of southeastern WY, western NE and northeastern CO. Steep low/middle-level lapse rates (8.5-9 deg C/km) are expected by midafternoon over this region, with enough easterly component of flow behind the front (and relate moist advection) to offset mixing and maintain mid 40s to low 50s surface dewpoints in the \"slight risk\" area. These should contribute to a field of peak/preconvective MLCAPE ranging from around 300 J/kg just east of the mountains to around 1500 J/kg over parts of west-central/ southwestern NE. The post-frontal boundary-layer flow also will enhance both storm-relative low-level winds and deep shear (effective-shear magnitudes in the 35-45-kt range). This, along with potential for cold-pool clustering, favors some organization and maintenance of convection across the outlook this evening before diminishing in a more strongly capped, nocturnal boundary layer over lower Plains elevations."
+        },
+        {
+          "title": "AZ",
+          "text": "Widely scattered thunderstorms are expected to form again this afternoon over portions of the Mogollon Rim and smaller terrain maxima to its south, offering locally strong-severe downbursts. Although the synoptic anticyclone will be weakening through the period, associated flow still will support motion toward the west or southwest, atop deep/well-mixed boundary layers of the desert floor. Airmass recovery from the prior day's convection by afternoon will be aided by warm/moist advection and strong diurnal heating. Large dewpoint depressions and deep subcloud layers in lower elevations -- beneath about 1000-1500 J/kg MLCAPE -- will support the gust potential, especially wherever activity can become clustered and maximize regenerative potential through cold-pool-aided lift. ..Edwards/Broyles.. 07/15/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-07-15",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-07-15T16:30Z",
+      "valid_end": "2024-07-16T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240715_1630.html",
+      "summary": "Severe thunderstorms are possible this afternoon and evening across portions of the Midwest, central High Plains, lower Great Lakes, and Arizona. The greatest potential for severe gusts is over eastern Iowa into Illinois and Indiana.",
+      "sections": [
+        {
+          "title": "Midwest",
+          "text": "A broad upper trough is digging southeastward across northwest Ontario and MN today, with strengthening mid level flow across much of the Midwest. Rapid thunderstorm development is expected to occur by mid afternoon across portions of WI/northeast IA, with storms tracking rapidly east-southeastward into northern IL and eventually parts of IN/Lower MI. 12z CAM guidance remains in general agreement that a large bowing complex is likely, although details of the corridor of greatest risk vary between solutions. Regardless, an active severe event is expected for this region, with the potential for isolated instances of significant damaging winds."
+        },
+        {
+          "title": "NY/PA",
+          "text": "Thunderstorms have begun to intensify over eastern Lake Erie, ahead of a strong upper trough and remnant MCVs. These storms are expected to increase in coverage and spread eastward through the day, possibly as far east as southeast NY and northern NJ by evening. Damaging winds and hail are the main concerns with these storms."
+        },
+        {
+          "title": "Central High Plains",
+          "text": "Scattered high-based thunderstorm development is expected this afternoon from western NE southward into parts of northeast CO and western KS. The combination of a deeply mixed boundary layer, sufficient CAPE, and 30+ knots of westerly mid level flow will pose a risk of locally damaging wind gusts in the stronger cells. ..Hart/Halbert/Squitieri.. 07/15/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-07-15",
+      "hhmm": "2000",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2024-07-15T20:00Z",
+      "valid_end": "2024-07-16T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240715_2000.html",
+      "summary": "Severe thunderstorms are expected through this evening across portions of the Midwest, central High Plains, lower Great Lakes, and Arizona. The greatest potential for severe gusts is over eastern Iowa into Illinois and Indiana.",
+      "sections": [
+        {
+          "title": "Midwest",
+          "text": "Both tornado and wind probabilities have been increased with the 20z update to 10 percent, and 45 percent SIG, respectively. Latest satellite imagery shows a modified outflow boundary draped across far eastern IA into northern IL. A very moist airmass with dewpoints in the mid/upper 70s amid strong heating is resulting in a corridor or strong to extreme instability across the region. Favorable vertical shear will support initial supercells, organizing into a bowing MCS with time as low-level flow remains orthogonal to the developing band of storms. The greatest severe wind potential is expected along the instability gradient in the vicinity of the remnant outflow boundary, extending from far eastern IA into extreme southern WI, northern IL, and far northwest IN into this evening. Widespread gusts of 60-70 mph are expected, with some gusts to 85 mph possible. Given favorable low-level shear, mesovortex tornadoes are likely along and near the apex of the developing bow late this afternoon into evening. For short term details on severe potential across this area, reference MCD 1630."
+        },
+        {
+          "title": "NY/PA and the Central High Plains",
+          "text": "No changes have been made with the 20z update. Reference Severe Thunderstorm Watch 538 regarding severe potential across NY/PA, and previous outlook discuss for more details. ..Leitman.. 07/15/2024 .PREV DISCUSSION... /ISSUED 1131 AM CDT Mon Jul 15 2024/"
+        },
+        {
+          "title": "Midwest",
+          "text": "A broad upper trough is digging southeastward across northwest Ontario and MN today, with strengthening mid level flow across much of the Midwest. Rapid thunderstorm development is expected to occur by mid afternoon across portions of WI/northeast IA, with storms tracking rapidly east-southeastward into northern IL and eventually parts of IN/Lower MI. 12z CAM guidance remains in general agreement that a large bowing complex is likely, although details of the corridor of greatest risk vary between solutions. Regardless, an active severe event is expected for this region, with the potential for isolated instances of significant damaging winds."
+        },
+        {
+          "title": "NY/PA",
+          "text": "Thunderstorms have begun to intensify over eastern Lake Erie, ahead of a strong upper trough and remnant MCVs. These storms are expected to increase in coverage and spread eastward through the day, possibly as far east as southeast NY and northern NJ by evening. Damaging winds and hail are the main concerns with these storms."
+        },
+        {
+          "title": "Central High Plains",
+          "text": "Scattered high-based thunderstorm development is expected this afternoon from western NE southward into parts of northeast CO and western KS. The combination of a deeply mixed boundary layer, sufficient CAPE, and 30+ knots of westerly mid level flow will pose a risk of locally damaging wind gusts in the stronger cells."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-07-16",
+      "hhmm": "0100",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2024-07-16T01:00Z",
+      "valid_end": "2024-07-16T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240716_0100.html",
+      "summary": "Damaging squall line will surge across northern Illinois and extreme southern Wisconsin this evening, subsequently advancing into northern Indiana/southern lower Michigan overnight. Winds may gust in excess of 75mph along the surging bow.",
+      "sections": [
+        {
+          "title": "01z Update",
+          "text": "Southern influence of upper MS Valley short-wave trough appears to be encouraging convection across the upper Midwest early this evening. Latest radar data exhibits marked upscale growth in an MCS that now extends from southern WI, arcing southwest across northwest IL into southeast IA. Substantial precip shield/cold pool is evolving which will aid forward propagation downstream into a reservoir of buoyancy that is characterized by MLCAPE in excess of 4000 J/kg, as far east as portions of Indiana. Numerous severe wind gusts have been reported with this evolving complex and this will continue as the leading squall line surges across northern IL toward southern Lake Michigan (including greater Chicago Metro). While damaging winds will be common, embedded tornadoes are expected along the QLCS. Downstream across NY, scattered damaging wind reports continue with a broken squall line that is advancing into the Hudson Valley. This convection is moving through the primary instability axis, and gradual weakening is expected further east across New England. ..Darrow.. 07/16/2024"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2024,
+      "number": 1628,
+      "issue_utc": "2024-07-15T15:52Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1628.html",
+      "summary": "The severe-thunderstorm threat is expected to increase with time this afternoon, with damaging wind, isolated hail, and a tornado or two all possible. Watch issuance is possible by early/mid afternoon.",
+      "discussion": "A well-defined MCV is moving across southeast lower MI late this morning, with another MCV noted over central OH. Downstream of these MCVs, filtered heating of a relatively moist environment will result in MLCAPE increasing into the 1500-2000 J/kg range. Meanwhile, relatively enhanced midlevel flow to the south of the northernmost MCV will support effective shear of 30-40 kt into the afternoon, resulting in a conditionally favorable environment for organized convection across parts of western/central NY/PA. Ongoing convection over southern ON and northeast Lake Erie may eventually spread into parts of western NY and over Lake Ontario through late morning, which could pose a threat of isolated damaging wind and perhaps some hail. Stronger redevelopment is expected by early/mid afternoon from eastern Lake Erie into parts of western NY/northwest PA, in closer proximity to the approaching MCV. Storm coverage with southward extent is more uncertain, but eventual development into a larger portion of western/central PA will also be possible. A tendency toward storm clustering and possible development of a compact MCS is currently expected, with a primary threat of damaging wind gusts as storms move eastward through the afternoon. A couple supercells will also be possible, especially early in the storm evolution, which could pose a threat for isolated hail and possibly a tornado or two. Watch issuance will become increasingly possible early this afternoon in order to address these threats."
+    },
+    {
+      "year": 2024,
+      "number": 1629,
+      "issue_utc": "2024-07-15T18:14Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1629.html",
+      "summary": "Isolated strong to severe storms are possible this afternoon.",
+      "discussion": "Isolated storms are gradually strengthening early this afternoon across southeast NY and also across central MA. A low-amplitude shortwave trough approaching southern New England may support additional storm development through the afternoon, as any remaining MLCINH across the region continues to diminish. Low/midlevel flow is not particularly strong, but modest veering of the wind profile with height will support 20-30 kt of effective shear, which could support modest storm organization in the presence of moderate buoyancy. Steepening low-level lapse rates will support isolated damaging-wind potential with the strongest storms, while small to marginally severe hail cannot be ruled out."
+    },
+    {
+      "year": 2024,
+      "number": 1630,
+      "issue_utc": "2024-07-15T18:59Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1630.html",
+      "summary": "A severe thunderstorm watch is likely later this afternoon for portions of Iowa into Northern Illinois and Southern Wisconsin in anticipation of convective initiation, forecast to occur between 19-21Z. Thunderstorms are expected to grow upscale quickly into a bowing line, which will be capable of 80+ MPH winds, though 1.00+ inch hail and embedded tornadoes are also possible.",
+      "discussion": "A subtle shortwave trough evident in both water vapor channel satellite imagery and RAP analyses is progressing eastward across southwest Minnesota. This shortwave is expected to provide additional ascent for convective initiation between 19-21Z over what is already a moist and unstable airmass, with widespread areas of MLCAPE > 3500 J/kg. This convective initiation is expected to occur anywhere from southern Minnesota, along the existing band of cloudiness, to central Iowa, where MLCINH has already eroded. Forecast profiles in north-central Iowa around the time of convective initiation show some slight curvature of the hodograph, resulting in modest 0-3km SRH of around 120 m^2/s^2. This will support the potential for tornadoes with any storms that remain isolated/discrete, but the overall expectation is for rapid upscale growth into a bowing MCS. The primary concern this evening is for damaging straight-line winds in excess of 80 MPH associated with this MCS, in addition to 1.00+ inch hail. Further east into Illinois, forecast hodographs show more favorable curvature and streamwise vorticity along and south of the surface boundary. Given the environment and expected storm mode, embedded QLCS tornadoes appear possible."
+    },
+    {
+      "year": 2024,
+      "number": 1631,
+      "issue_utc": "2024-07-15T19:18Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1631.html",
+      "summary": "Isolated hail and damaging wind are possible through late afternoon.",
+      "discussion": "Scattered thunderstorms have developed this afternoon from east-central IN into southwest OH, within an area of modest surface confluence and theta-e advection. Evolution of afternoon convection remains somewhat uncertain in the absence of stronger large-scale ascent, but moderate to strong buoyancy (MLCAPE of 1500-3000 J/kg) and marginally supportive effective shear (generally 25-35 kt per regional VWPs) could support stronger multicells and perhaps a supercell, with an attendant threat of hail and locally damaging winds. Watch issuance is currently considered unlikely in the short term, but will be reevaluated if trends support an increase in the potential for multiple severe storms through the afternoon."
+    },
+    {
+      "year": 2024,
+      "number": 1632,
+      "issue_utc": "2024-07-15T19:41Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1632.html",
+      "summary": "Isolated damaging wind is possible through late afternoon.",
+      "discussion": "Convection is gradually deepening this afternoon from south-central PA into northern VA, within an increasingly hot and well-mixed environment. While stronger large-scale ascent is displaced to the north of this region, continued heating/destabilization could support a gradual increase in storm coverage and intensity through the remainder of the afternoon. Deep-layer shear is generally modest and low-level flow is rather weak, but isolated damaging downburst winds will be possible with the stronger cells, as temperatures approach 100 F across the region. Northern portions of the MCD area could see another round of strong to locally severe storms this evening, as an MCV currently moving across western PA glances the region."
+    },
+    {
+      "year": 2024,
+      "number": 1633,
+      "issue_utc": "2024-07-15T20:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1633.html",
+      "summary": "As a cold front moves out of Minnesota, into Northwest Wisconsin, and eventually into the Upper Peninsula, thunderstorm coverage and intensity is expected to increase this afternoon and evening. While these storms will be capable of producing some damaging wind gusts and perhaps some 1.00 inch hail, watch issuance is not expected at this time given the isolated nature of severe occurrence.",
+      "discussion": "Thunderstorms have begun developing within a modestly unstable airmass across the Upper Peninsula/Northern Wisconsin into Eastern Minnesota. Thunderstorm activity will increase as a cold front moves southeastward out of Minnesota into Wisconsin, and deep layer shear magnitudes of 35-40 kts will support at least some isolated severe convection. Given relatively straight-line forecast hodographs and thin buoyancy profiles, isolated damaging wind gusts and hail are the primary hazards expected with any mature multicell clusters that develop."
+    },
+    {
+      "year": 2024,
+      "number": 1634,
+      "issue_utc": "2024-07-15T20:21Z",
+      "topic": "Severe Thunderstorm Watch 538",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1634.html",
+      "summary": "Scattered damaging winds and perhaps a tornado or two will remain possible through late afternoon.",
+      "discussion": "In advance of an MCV approaching eastern Lake Erie, a relatively long-lived supercell has recently intensified east of Buffalo, with other strong storms trailing to the southwest across western NY. A separate small cluster of storms (with a history of wind damage) is ongoing in closer proximity to a separate MCV moving across western PA. Modest enhancement of low/midlevel flow in advance of the MCVs remains evident in regional VWPs, which will continue to support organized convection through the remainder of the afternoon. Some upscale growth remains possible with time, which would potentially support an increase in damaging-wind potential (with at least localized gusts of 60-70 mph) downstream across western NY and north-central PA. However, even if some upscale growth occurs, a couple of embedded supercells will remain possible, with potential for a tornado or two and perhaps some hail. ..Dean.. 07/15/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1635,
+      "issue_utc": "2024-07-15T20:49Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1635.html",
+      "summary": "Isolated severe gusts and perhaps some hail are possible through late afternoon. Some uptick in severe-wind potential is possible with time into the central High Plains.",
+      "discussion": "Scattered high-based convection is developing this afternoon from near the CO Front Range into southeast WY and the Black Hills. Low-level moisture is rather limited across the region, but strong heating has resulted in MLCAPE increasing to near 500 J/kg. Deep-layer shear is rather modest where storms are currently ongoing, with the exception of the Black Hills region, where somewhat stronger deep-layer flow/shear is in place. Steep low/midlevel lapse rates will support a threat of isolated strong/severe gusts in the short term, with some hail potential attendant to the strongest storms. As storms move off of the higher terrain by late afternoon into early evening, there may be some increase in severe-wind potential into parts of the central High Plains, though uncertainty remains regarding the extent (if any) of outflow consolidation and modest upscale growth. Eventual watch issuance is possible if a more organized severe-wind threat becomes evident."
+    },
+    {
+      "year": 2024,
+      "number": 1636,
+      "issue_utc": "2024-07-15T20:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1636.html",
+      "summary": "Thunderstorms are expected to increase in coverage and intensity this afternoon and evening across portions of southeastern Arizona. The primary severe weather threat is expected to be damaging downburst thunderstorm winds.",
+      "discussion": "Thunderstorms have initiated over terrain-favored locations in southeastern Arizona over the past hour. These storms are developing in a modestly unstable environment (MLCAPE of ~1000 J/kg) with deeply mixed boundary layers. Easterly midlevel flow is expected to slightly increase this evening (~20 knots), which may help storms propagate westward off the higher terrain. These storms will primarily pose an isolated threat of damaging downburst winds."
+    },
+    {
+      "year": 2024,
+      "number": 1637,
+      "issue_utc": "2024-07-15T21:36Z",
+      "topic": "Severe Thunderstorm Watch 538",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1637.html",
+      "summary": "A squall line capable of producing severe winds is expected to continue eastward into central and eastern New York later this evening. Downstream watch issuance is anticipated.",
+      "discussion": "Over the past hour, an organized squall line has become established across north-central PA and western NY. Velocity imagery from regional radars suggests that winds may be approaching severe limits, and several wind damage reports have been noted within the past 30-60 minutes. The downstream environment across central and eastern NY remains favorable for maintaining this line with upwards of 1500-2000 J/kg MLCAPE and low-level lapse rates approaching 8 C/km. Additionally, enhanced 50-60 knot mid-level flow in the vicinity of an attendant MCV is noted in regional VWPs, which should continue to favor an organized squall line. Confidence in the potential for damaging/severe winds downstream appears sufficiently high to warrant watch issuance within the next 1-2 hours as the line approaches the eastern fringe of WW 538. ..Moore.. 07/15/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1638,
+      "issue_utc": "2024-07-15T22:26Z",
+      "topic": "Severe Thunderstorm Watch 539",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1638.html",
+      "summary": "A severe hail threat will persist for the next 1-2 hours across central to eastern IA, but a gradual transition to a predominant wind threat appears likely after 00 UTC based on recent convective trends.",
+      "discussion": "Imagery from KDMX over the past 30-60 minutes has shown gradual cold pool amalgamation of initially discrete supercells north of the Des Moines, IA area. New convection developing along the outflow will likely initially pose a large hail threat given sufficiently strong environmental wind shear (around 35 knots observed on the KDMX VWP). However, the mean westerly winds are mostly aligned with the outflow boundary, which will continue to foster upscale growth in the coming hours. How fast semi-discrete cells transition to a more organized MCS remains uncertain, but based on the aforementioned trends and recent HRRR solutions, this transition may occur by around 00 UTC as storms propagate to the east/southeast along a diffuse baroclinic zone towards northwest IL. ..Moore.. 07/15/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1639,
+      "issue_utc": "2024-07-15T23:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1639.html",
+      "summary": "An organizing MCS across eastern Iowa is expected to move into central and northeastern IL, and perhaps far southeast WI, later this evening. Recent convective trends and high-res ensemble guidance suggest one or more bowing segments will be possible; watch issuance is expected in the near term.",
+      "discussion": "MCS organization continues across central to eastern IA with multiple measured and estimated severe wind gusts noted over the past hour. Temperatures falling into the low 70s and upper 60s in the wake of the line of storms indicates that a strong/deep cold pool is becoming established. Recent high-res WoFS guidance has assimilated these recent convective trends well and depicts at least one, possibly two, more focused bowing segments emerging later this evening across central to northern IL with winds possibly up to 70 knots. Additionally, favorable low-level wind shear (upwards of 30 knots) within the 0-3 km layer should support the potential for embedded circulations with the line, especially north of any bowing segments. Downstream watch issuance is expected within the next hour to address this concern."
+    },
+    {
+      "year": 2024,
+      "number": 1640,
+      "issue_utc": "2024-07-15T23:54Z",
+      "topic": "Severe Thunderstorm Watch 540",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1640.html",
+      "summary": "The environment remains conducive for severe thunderstorms across central New York and northeast Pennsylvania to persist for another couple of hours. Wind will be the most common threat.",
+      "discussion": "Two quasi-linear bowing segments are ongoing across the severe thunderstorm watch: one in northeast Pennsylvania and another in central New York. Both of these bowing segments are moving east-northeast within an unstable airmass (CAPE around 1000 J/kg) and have a history of producing wind damage. Despite deep-layer shear decreasing with eastward extent, the organized nature of the convection will allow a wind damage threat to persist for another couple of hours. ..Marsh.. 07/15/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1641,
+      "issue_utc": "2024-07-15T23:55Z",
+      "topic": "Severe Thunderstorm Watch 539",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1641.html",
+      "summary": "A corridor of higher wind potential appears to be emerging across east-central Iowa into northwestern Illinois. High-res experimental guidance suggests wind gusts upwards of 80-90 mph and embedded circulations will be possible over the next 1-2 hours.",
+      "discussion": "Reflectivity and velocity data from KDVN shows a broad circulation developing across the IA/WI/IL tri-state region, which is believed a deepening MCV that is typically associated with a mature MCS. To the southwest, a bowing segment is becoming established across eastern IA. A diffuse baroclinic zone (denoted by temperature/dewpoints in the 90s and upper 70s respectively lies immediately downstream to the southeast of this emerging bow. This should provide a focus for propagation over the next few hours. Latest WoFS guidance and HRRR solutions have picked up on this trend and suggest significant severe wind gusts (including gusts upwards of 80-90 mph) are probable. Additionally, adequately strong (around 30 knots) low-level shear is in place and should support embedded circulations - especially within any portions of the line that can become more north-south oriented. Portions of WW 539 have been added to tornado watch 541 to address this potential. ..Moore.. 07/15/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1642,
+      "issue_utc": "2024-07-16T01:26Z",
+      "topic": "Tornado Watch 541",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1642.html",
+      "summary": "The potential for significant wind gusts upwards of 80-95 mph and embedded QLCS tornadoes will continue as a severe MCS pushes east across northern Illinois.",
+      "discussion": "The evolution of a severe MCS is progressing as expected with two primary bowing segments evident in regional radar across north-central IL and to the east of the Davenport, IA area. Several embedded circulations have been noted as well as multiple reports of wind gusts over 75 mph (including one gust of 93 mph in Stephenson county, IL) across eastern IA and northwest IL. Latest WoFS guidance continues to capture recent convective trends well and depicts the potential for similar wind speeds within the two bowing segments over the next couple of hours. Given aforementioned reports and favorable environmental conditions downstream, these forecasts appear to be reasonable. Observed storm motion tracks and WoFS timing guidance both suggest the MCS will be approaching the lower Lake Michigan shore between 02 to 03 UTC with a slightly later arrival time for eastern IL/far western IN. ..Moore.. 07/16/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1643,
+      "issue_utc": "2024-07-16T02:37Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1643.html",
+      "summary": "A downstream watch across central Illinois into central Indiana is expected within the next hour as a severe MCS continues to push east/southeast.",
+      "discussion": "The southern end of a severe MCS continues to propagate to the southeast along and south of a diffuse baroclinic zone draped into eastern IL/central IN. Severe winds continue to be reported with this line over the past 30 minutes, and GOES IR imagery continues to show strong updraft pulses along the leading edge of the cold pool. High boundary-layer moisture content downstream into central IL/central IN (dewpoints in the upper 70s) will modulate the effects of nocturnal cooling/stabilization resulting in ample buoyancy (3000-4000 J/kg MLCAPE) with limited inhibition for MCS maintenance. Consequently, the expectation is for the MCS to continue well into central IL/central IN with an attendant threat for severe winds, including the potential for signification severe winds (75+ mph)."
+    },
+    {
+      "year": 2024,
+      "number": 1644,
+      "issue_utc": "2024-07-16T03:13Z",
+      "topic": "Tornado Watch 541",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1644.html",
+      "summary": "Conditions remain favorable for significant (75+ mph) wind gusts and QLCS tornadoes as a MCS moves into northwest Indiana and far southwest lower Michigan.",
+      "discussion": "Over the past 30 minutes, multiple QLCS tornadoes have been noted in velocity/correlation coefficient data from radars out of the Chicago, IL area. Additionally, a measured wind gust of 75 mph was reported at the O'Hare airport, and the KLOT VWP observed 60 knot winds within the lowest kilometer associated with the passage of the gust front. GOES IR imagery suggests that this portion of the MCS is currently the strongest with multiple deep convective updrafts embedded within the leading edge of the line. A buoyant air mass remains in place downstream across northwest IN and far southwest MI, and while low-level shear is currently not overly strong downstream, winds in the lowest few kilometers are expected to increase ahead of the MCS due to the deepening MCV currently moving over lower Lake Michigan (such as trend was noted in the KLOT VWP prior to MCS passage, and a similar trend is currently being noted in the KIWX VWP). Consequently, the threat for significant wind gusts and QLCS tornadoes should persist for the next couple of hours. ..Moore.. 07/16/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1645,
+      "issue_utc": "2024-07-16T04:11Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1645.html",
+      "summary": "Thunderstorms developing ahead of an approaching MCV may pose a severe hail/wind threat heading into the early morning hours. Trends will be monitored for potential watch issuance.",
+      "discussion": "Convection across northern IN/southern MI within a warm advection branch ahead of an approaching MCV (currently over lower Lake Michigan) has shown signs of periodic intensification over the past 1-2 hours based on trends in GOES IR imagery and vertically integrated ice. Nocturnal cooling has been somewhat muted by high-quality low-level moisture already in place across northern IN into lower MI (dewpoints in the low 70s), resulting in only a weakly capped environment based on a modified 00 UTC DTX sounding. Despite somewhat poor hodograph structure above 4 km, around 40 knots of effective bulk shear should support some storm organization with any cells that can remain more discrete within the narrow warm advection regime. Consequently, a severe hail and wind risk may persist across lower MI for the next several hours. Convective trends - particularly storm mode - will continue to be monitored for the need for watch issuance later tonight."
+    },
+    {
+      "year": 2024,
+      "number": 1646,
+      "issue_utc": "2024-07-16T05:38Z",
+      "topic": "Severe Thunderstorm Watch 542",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1646.html",
+      "summary": "A wind-damage threat may continue for a few more hours across the southern Great Lakes region. The threat is expected to impact parts of western and central Ohio. However, the threat is expected to become more isolated with time.",
+      "discussion": "The latest mosaic radar imagery shows a decaying linear MCS from southern Lower Michigan into central Indiana and Central Illinois. The eastern most part of the MCS is located near a pocket of strong instability, where MLCAPE is estimated by the RAP in the 3000 to 3500 J/kg range. In addition to the instability, the convective line is being supported by a shortwave trough, evident on water vapor imagery over the southwestern Great Lakes. A distinct 50 to 70 knot rear inflow jet is analyzed by the RAP just behind the MCS. This feature will help the linear MCS to remain strong enough for an isolated wind-damage threat for a few more hours. However, satellite imagery shows warming cloud tops over the last hour, corresponding to more ragged reflectively on radar, suggesting that the MCS will continue to gradually decrease in intensity. ..Broyles.. 07/16/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1647,
+      "issue_utc": "2024-07-16T08:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1647.html",
+      "summary": "An isolated wind-damage threat will likely continue over the next couple of hours across north-central Kansas. Although the threat should remain localized, weather watch issuance still could be needed if the cluster maintains intensity and expands in coverage.",
+      "discussion": "The latest hi-resolution radar imagery from Dodge City shows a small convective cluster over north-central Kansas, just west and northwest of Russell, Kansas. This cluster is located to the west of a pocket of moderate instability, where the RAP has MLCAPE in the 2000 to 2500 J/kg range. The storm cluster appears to be supported by a subtle shortwave trough moving through west-northwesterly mid-level flow. In addition to the instability, the RAP is showing 200 to 300 J/kg of MLCIN. This introduces uncertainty as to how long the cluster can persist, and how much wind can reach the surface. If the storms expand in coverage and remain at a similar intensity, as they move eastward across north-central Kansas early this morning, then weather watch issuance will need to be considered."
+    },
+    {
+      "year": 2024,
+      "number": 1648,
+      "issue_utc": "2024-07-16T11:46Z",
+      "topic": "Severe Thunderstorm Watch 544",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1648.html",
+      "summary": "A wind-damage threat will be possible over the next few hours from northeast Kansas eastward across much of northern Missouri. Weather watch issuance is being considered to the east of WW 544.",
+      "discussion": "The latest hi-resolution radar imagery from Kansas City shows a cluster of strong to severe storms across northeast Kansas and far northwest Missouri. The storms are located along the northern edge of moderate instability near a front oriented east-to-west. The convective cluster is being supported by a subtle shortwave trough moving through the central Plains, and by the exit region of a 30 to 50 knot low-level jet in eastern Kansas. In addition to the moderate instability, MLCIN is estimated by the RAP to be near -300 J/kg. In spite of this, the convection has produced severe gusts, and has generally maintained intensity over the last couple of hours. For this reason, the severe threat is expected to continue as the storms move eastward across northern Missouri this morning. ..Broyles.. 07/16/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

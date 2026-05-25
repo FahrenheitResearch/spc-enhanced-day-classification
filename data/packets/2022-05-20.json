@@ -1,0 +1,152 @@
+{
+  "convective_day": "2022-05-20",
+  "valid_start": "2022-05-20T12:00Z",
+  "valid_end": "2022-05-21T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2022-05-20",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-05-20T16:30Z",
+      "valid_end": "2022-05-21T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220520_1630.html",
+      "summary": "Severe thunderstorms are expected to be most concentrated over portions of the northern Mid-Atlantic states, Lower Michigan, and a small part of the southern Plains.",
+      "sections": [
+        {
+          "title": "Mid Atlantic Region",
+          "text": "A well-defined MCV is noted on satellite imagery over southwest PA. This feature will track eastward today across PA, northern MD, and into NJ, fostering the development of severe thunderstorms. Destabilization ahead of the MCV, combined with strong low and mid-level wind fields near the circulation will promote the development of supercell and bowing structures capable of damaging winds, large hail, and a few tornadoes. Given the rapid eastward motion of the activity, it should move off the NJ coast well before dark, ending the severe threat."
+        },
+        {
+          "title": "MI",
+          "text": "A strong surface cold front currently extends from southern WI northward into upper MI. This front will cross Lake Michigan this afternoon and move into lower MI by early evening. Thunderstorms are expected to form in vicinity of the front and move across parts of the northern Lower MI. Forecast soundings suggest favorable parameters for large hail in the stronger storms, along with the possibility of isolated tornadoes."
+        },
+        {
+          "title": "OK/TX",
+          "text": "A cold front is sagging southward across OK today, and should stall for awhile this evening before progressing into TX overnight. A strengthening southerly low-level jet atop the boundary will lead to scattered thunderstorms in a very unstable air mass. Storms may be supercellular with large hail and damaging winds. A tornado or two cannot be ruled out before activity becomes more linear after dark."
+        },
+        {
+          "title": "FL",
+          "text": "A moist boundary layer is present today across the FL peninsula, along with pockets of strong heating. Scattered thunderstorms have begun to form over south FL, and this activity is expected to build northward through the day. Relatively cool temperatures and modest westerly flow aloft will promote a few organized multicell storm clusters capable of gusty/damaging winds or perhaps hail. ..Hart/Squitieri.. 05/20/2022"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2022-05-20",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-05-20T20:00Z",
+      "valid_end": "2022-05-21T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220520_2000.html",
+      "summary": "Severe thunderstorms are expected to be most concentrated over portions of the northern Mid-Atlantic states, Lower Michigan, and a small part of the southern Plains this afternoon and evening.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "Have trimmed severe probabilities behind a small cluster of thunderstorms over eastern PA. Damaging winds should continue to be the main threat with this activity as it spreads into NJ over the next couple of hours, but a tornado or two also remain possible. See Mesoscale Discussion 842 and 843 for more information on the near-term severe threat across this area. An intense supercell producing a tornado is ongoing at 1958Z over northern Lower MI. The 19Z sounding from APX shows a favorable environment for continued thunderstorm organization, and it appears plausible that this supercell will persist across the rest of northern Lower MI over the next hour or so. A threat for tornadoes, large to very large hail, and damaging winds should persist with this supercell in the short term, and with any other intense thunderstorms that can develop. Still, weak large-scale ascent will probably tend to limit overall coverage through the rest of the afternoon, with the overall severe threat probably remaining fairly isolated. See Mesoscale Discussion 844 for additional details on the near-term severe threat across northern Lower MI. Elsewhere, little to no changes were made to the outlook. ..Gl"
+        },
+        {
+          "title": "Mid Atlantic Region",
+          "text": "A well-defined MCV is noted on satellite imagery over southwest PA. This feature will track eastward today across PA, northern MD, and into NJ, fostering the development of severe thunderstorms. Destabilization ahead of the MCV, combined with strong low and mid-level wind fields near the circulation will promote the development of supercell and bowing structures capable of damaging winds, large hail, and a few tornadoes. Given the rapid eastward motion of the activity, it should move off the NJ coast well before dark, ending the severe threat."
+        },
+        {
+          "title": "MI",
+          "text": "A strong surface cold front currently extends from southern WI northward into upper MI. This front will cross Lake Michigan this afternoon and move into lower MI by early evening. Thunderstorms are expected to form in vicinity of the front and move across parts of the northern Lower MI. Forecast soundings suggest favorable parameters for large hail in the stronger storms, along with the possibility of isolated tornadoes."
+        },
+        {
+          "title": "OK/TX",
+          "text": "A cold front is sagging southward across OK today, and should stall for awhile this evening before progressing into TX overnight. A strengthening southerly low-level jet atop the boundary will lead to scattered thunderstorms in a very unstable air mass. Storms may be supercellular with large hail and damaging winds. A tornado or two cannot be ruled out before activity becomes more linear after dark."
+        },
+        {
+          "title": "FL",
+          "text": "A moist boundary layer is present today across the FL peninsula, along with pockets of strong heating. Scattered thunderstorms have begun to form over south FL, and this activity is expected to build northward through the day. Relatively cool temperatures and modest westerly flow aloft will promote a few organized multicell storm clusters capable of gusty/damaging winds or perhaps hail."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2022,
+      "number": 838,
+      "issue_utc": "2022-05-20T14:39Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0838.html",
+      "summary": "The severe threat is increasing across portions of central PA into MD. Damaging gusts and perhaps a few tornadoes may accompany the strongest, longer lived storms. A WW issuance will be needed within the next couple of hours.",
+      "discussion": "A remnant mid-level MCV (evident via water vapor imagery and 700-500 mb objective analysis fields) is currently located just west of the OH/PA border and continues to track eastward towards central PA, and is expected to support more robust convective initiation in the next few hours. Immediately ahead of the MCV center lies a highly sheared low-level environment, with recent PBZ VAD data showing relatively long, curved low-level hodographs and over 300 m2/s2 of associated 0-1km SRH. At the moment, buoyancy remains scant across portions of western into central PA. However, modest breaks in the clouds are contributing to modest surface heating, with mid 60s F surface temperatures already noted across central PA, with low 70s F along the PA/MD border. With surface dewpoints around 60F across several locales, RAP forecast soundings suggest temperatures need to warm into the lower 70s for appreciable buoyancy to develop given the presence of relatively poor (5.5-6.5 C/km) low and mid-level lapse rates. While buoyancy is expected to initially be marginal (i.e. at or below 1000 J/kg MLCAPE), localized deep-layer ascent and strong low-level shear associated with the approaching MCV should support at least a few strong to severe storms developing early this afternoon. Damaging gusts and perhaps a few tornadoes will be the primary concerns, though a brief instance or two of marginally severe hail cannot be completely ruled out with the longer-lived, persistent rotating updrafts. A WW issuance will be needed within the next couple of hours to address the severe threat."
+    },
+    {
+      "year": 2022,
+      "number": 839,
+      "issue_utc": "2022-05-20T15:31Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0839.html",
+      "summary": "Scattered to numerous storms are expected by afternoon, with locally damaging wind gusts or marginally severe hail.",
+      "discussion": "A moist and unstable air mass is already in place across southern FL, with PWAT over 2.00\" and no capping inversion. Early day storms have left a cooled air mass across the central Peninsula, with heating continuing to the south, which is resulting in MUCAPE over 3000 J/kg. Storms are already forming off the Gulf and Atlantic coasts, with expanding showers over land. Just 1-2 more hours of heating will likely result in a rapid expansion of convection, perhaps spreading northwestward with strong outflow. However, wind fields are weak and storm motion may be erratic. Water-loaded downdrafts may produce locally damaging gusts, and the strong instability and cool midlevel temperatures may support brief periods of marginal hail."
+    },
+    {
+      "year": 2022,
+      "number": 840,
+      "issue_utc": "2022-05-20T17:32Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0840.html",
+      "summary": "Storms crossing Lake Michigan are expected to pose a damaging wind and hail threat across northern Lower Michigan, and perhaps into the far eastern Upper Peninsula. A tornado cannot be ruled out over Lower Michigan.",
+      "discussion": "A broken line of elevated storms have formed over eastern WI, and are now crossing over Lake MI. Cool air aloft in the mid and upper levels is aiding storm strength with hail cores noted at times. Downstream over Lower MI, heating continues, although a capping inversion remains near 700 mb. High clouds overspreading the area may retard heating to some degree, but CIN is expected to be reduced later this afternoon enough to support a continued severe threat as the storms come off Lake MI. Strong deep-layer shear may also help a few of these storms survive the capping inversion. Large hail and damaging gusts appear most likely. If storm mode can trend toward cellular, and the capping inversion gets removed sufficiently, then 0-1 SRH of 100-150 m2/s2 could support a tornado threat, most likely late in the afternoon nearer to peak heating."
+    },
+    {
+      "year": 2022,
+      "number": 841,
+      "issue_utc": "2022-05-20T17:49Z",
+      "topic": "Tornado Watch 251",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0841.html",
+      "summary": "The severe threat continues across Tornado Watch 251. Damaging gusts remain the main threat, though a couple of tornadoes and perhaps marginal hail are still possible. The relatively highest severe threat is confined to a corridor in east-central PA into NJ, where greater low-level moisture and instability are present.",
+      "discussion": "An MCV continues to rapidly track eastward across PA, with thunderstorms developing ahead of the MCV center, both in a squall line across central PA, and with discrete cells in eastern PA. Adequate insolation has allowed surface temperatures to warm into the lower 80s F across southeast PA into central NJ, contributing to 500 J/kg MLCAPE. Instability is expected to remain weak given limited moisture (low to mid 60s F surface dewpoints) overspread by modest low and mid-level lapse rates. Nonetheless, recent observed KCCX VAD profiler data, 17Z mesoanalysis, and 16Z RAP forecast soundings show strong low-level shear present across southeast Pennsylvania toward the Delaware River. As such, a relatively higher corridor of severe potential exists across southeast PA into NJ, where the stronger shear overlaps available buoyancy. Damaging gusts are the main threat, though a couple of tornadoes/instances of marginal hail cannot be ruled out this afternoon."
+    },
+    {
+      "year": 2022,
+      "number": 842,
+      "issue_utc": "2022-05-20T19:20Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0842.html",
+      "summary": "A couple damaging gusts may accompany the northern end of a squall line. A WW issuance is unlikely given the marginal and isolated nature of the severe threat.",
+      "discussion": "A squall line continues to expand northeast into extreme northeast PA as the MCV continues to rapidly track east across central PA. Ahead of the squall in southeast NY, temperatures have warmed into the mid 70s F given adequate diurnal heating, promoting weak low-level instability. 19Z mesoanalysis shows 0-3km lapse rates exceeding 7 C/km in some locales. The modest boundary-layer mixing and strong forcing (to support a squall line) suggests that a couple of strong to potentially damaging gusts may accompany the squall over the next couple of hours. A WW issuance is unlikely though since the severe threat is expected to remain isolated and marginal in magnitude."
+    },
+    {
+      "year": 2022,
+      "number": 843,
+      "issue_utc": "2022-05-20T19:36Z",
+      "topic": "Tornado Watch 251",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0843.html",
+      "summary": "The severe threat continues across Tornado Watch 251. Large hail and damaging gusts appear to be the main threats, though a tornado still cannot be completely ruled out.",
+      "discussion": "A squall line continues to rapidly advance eastward across eastern PA ahead of an MCV (centered in central PA), with semi-discrete convection also progressing into NJ. The discrete storms have had a history of producing isolated severe hail, with a couple of damaging gusts reported with the squall line. With 500 J/kg MLCAPE and adequate low/deep-layer shear in advance of the convection, the stronger storms will remain capable of supporting an isolated damaging gust/large hail threat. The tornado threat is likely being tempered by an overall lack of buoyancy ahead of the MCV. Nonetheless, given the presence of strong low-level shear and sustained, organized storms, a brief tornado still cannot be ruled out until the squall line moves offshore into the Atlantic. ..Squitieri.. 05/20/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 844,
+      "issue_utc": "2022-05-20T19:52Z",
+      "topic": "Severe Thunderstorm Watch 252",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0844.html",
+      "summary": "A tornadic supercell may persist as it travels east/northeast toward Lake Huron.",
+      "discussion": "The storm complex that crossed Lake MI has indeed evolved into a supercell, which has become tornadic as it encountered the warmer surface-based air mass. This storm is currently producing a tornado near Gaylord, MI. The air mass remains relatively warm for the duration of the expected storm track over the next couple hours, and the 19Z APX sounding shows plenty of low-level shear with 0-1 values around 280 m2/s2. This is higher than objective analysis had earlier indicated. As such, the tornado threat is expected to persist until the storm encounters the cooler air near the lake."
+    },
+    {
+      "year": 2022,
+      "number": 845,
+      "issue_utc": "2022-05-20T20:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0845.html",
+      "summary": "At least isolated storms are possible by 22Z, and most likely after 00Z near the front. Large hail may occur, as well as damaging downbursts.",
+      "discussion": "A front is slowly progressing across OK, extending from near Tulsa to just south of Wichita Falls TX. The front is clearly seen on visible imagery, with a line of CU along the front. Area wind profiles suggest the depth of the post-frontal cool air is around 1 km AGL, while modified soundings indicate the capping inversion is likely at or above 2 km AGL. As such, the area remains capped. One exception is into northwest TX where temperatures are above 100 F. Here, dewpoints have mixed below 60s F along the immediate front, but PWAT increases quickly to the east. Isolated cells may form here first, producing brief periods of hail or gusty winds. Other storms are expected to form in the vicinity of the front during the evening, when warm and moist advection occurs through 850 mb. This may cause portions of the boundary to become a warm front and retrograde a bit. The enhanced lift after 00Z may also break the cap, with anywhere from a few storms to a large cluster possible. Winds aloft are weak, so storm motion will likely be driven by propagation/back building. Strong instability will support sporadic large hail, a few severe downbursts, and perhaps very heavy rain where backbuilding occurs. Isolated cells may form over the next couple hours where"
+    },
+    {
+      "year": 2022,
+      "number": 847,
+      "issue_utc": "2022-05-21T00:10Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md0847.html",
+      "summary": "Isolated to scattered thunderstorms developing along and behind a cold front may be capable of strong winds and severe hail. However, the coverage of this threat appears limited, and watch issuance is not anticipated.",
+      "discussion": "A cold front continues to meander to the southeast across IL and MO per recent surface observations and GOES visible imagery. RAP mesoanalysis data shows the environment along and ahead of the cold front remains largely capped, but features 2000-3000 J/kg MUCAPE due to steep mid-level lapse rates between 700-500 mb. Despite recent analyses, recent ACARs soundings from Chicago, IL and St. Louis, MO show weaker capping, and a few weak thunderstorms and convective showers have initiated in both regions. This trend suggests that the cap is breakable given sufficient forcing for ascent along and/or behind the cold front. Lift along the frontal zone may increase over the next 1-2 hours as broad ascent associated with the upper-level trough (currently displaced to the west over the Plains based on recent water-vapor imagery) overspreads the Midwest. This may support isolated to scattered thunderstorm development along and behind the front in the coming hours. This convection may become elevated in nature, but 30-45 knots of effective bulk shear should allow for sufficient storm organization to support a severe hail risk with sporadic strong/locally damaging winds. Overall, the coverage of thunderstorms remains uncertain given the heterogeneity in the regional cap strength, which precludes watch issuance at this time."
+    }
+  ]
+}

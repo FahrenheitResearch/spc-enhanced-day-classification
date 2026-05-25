@@ -1,0 +1,98 @@
+{
+  "convective_day": "2020-03-13",
+  "valid_start": "2020-03-13T12:00Z",
+  "valid_end": "2020-03-14T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-03-13",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-03-13T16:30Z",
+      "valid_end": "2020-03-14T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200313_1630.html",
+      "summary": "A few tornadoes, large hail, and isolated severe wind gusts are expected after 2 PM CDT into tonight across parts of west Texas and southeast New Mexico.",
+      "sections": [
+        {
+          "title": "West TX and southeast NM",
+          "text": "The greatest severe weather potential should remain spatially confined to portions of the Permian Basin where an upgrade to Enhanced Risk appears warranted. Scattered thunderstorms are expected to form during the mid afternoon over eastern slopes of higher terrain across the western parts of the outlook area, from southeast NM through the TX Trans-Pecos. This activity should develop along the northwest extent of the surface baroclinic zone characterized by mid to upper 50s surface dew points, aided by a combination of weak upslope flow and heating of higher terrain. A pocket of MLCAPE between 750-1500 J/kg should be present by peak heating across the Pecos Valley. Veering with height of the low-level wind profile beneath very strong speed shear above 700 mb will yield a rather elongated hodograph, supportive of splitting supercells. Potential will exist for a couple long-track supercells spreading east along the west-east oriented portion of the surface front that is expected to lie along the Concho Valley. Although mid-level lapse rates should not be particularly steep given the positive-tilt of the approaching shortwave trough, 70+ kt effective shear and supercell mode could favo"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-03-13",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-03-13T20:00Z",
+      "valid_end": "2020-03-14T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200313_2000.html",
+      "summary": "A few tornadoes, large hail, and isolated severe wind gusts are expected later this afternoon into tonight across parts of west Texas and southeast New Mexico.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Only minor changes were made to the previous convective outlook and are described below. 1) Expanded lowest-tier severe probabilities farther west into south-central NM and Far West TX based on visible satellite/heating trends. 2) Sharpened the tornado probability gradient to the north of the Midland vicinity. ..Smith.. 03/13/2020 .PREV DISCUSSION... /ISSUED 1129 AM CDT Fri Mar 13 2020/"
+        },
+        {
+          "title": "West TX and southeast NM",
+          "text": "The greatest severe weather potential should remain spatially confined to portions of the Permian Basin where an upgrade to Enhanced Risk appears warranted. Scattered thunderstorms are expected to form during the mid afternoon over eastern slopes of higher terrain across the western parts of the outlook area, from southeast NM through the TX Trans-Pecos. This activity should develop along the northwest extent of the surface baroclinic zone characterized by mid to upper 50s surface dew points, aided by a combination of weak upslope flow and heating of higher terrain. A pocket of MLCAPE between 750-1500 J/kg should be present by peak heating across the Pecos Valley. Veering with height of the low-level wind profile beneath very strong speed shear above 700 mb will yield a rather elongated hodograph, supportive of splitting supercells. Potential will exist for a couple long-track supercells spreading east along the west-east oriented portion of the surface front that is expected to lie along the Concho Valley. Although mid-level lapse rates should not be particularly steep given the positive-tilt of the approaching shortwave trough, 70+ kt effective shear and supercell mode could favo"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-03-14",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-03-14T01:00Z",
+      "valid_end": "2020-03-14T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200314_0100.html",
+      "summary": "Large hail, isolated severe wind gusts, and some tornado threat are expected tonight across parts of west Texas and southeast New Mexico.",
+      "sections": [
+        {
+          "title": "01z Update",
+          "text": "Several discrete supercells have matured across far west TX this evening along the cool side of a synoptic front that is draped from Tom Green to Reeves County. This activity has evolved within a strongly sheared environment that supports sustained rotating updrafts. However, the most favorable thermodynamic environment is narrowly focused near/just south of the wind shift which suggests a narrow corridor for long-lived supercells to track near/just south of a line from INK-MAF. 00z sounding from MAF sampled the cool side of the boundary well with stable boundary-layer conditions at least 1km deep. For these reasons, will orient the ENH Risk along this corridor where large hail should be noted with these storms. Tornado risk should remain focused near the frontal zone where surface-based parcels are decidedly buoyant. ..Darrow.. 03/14/2020"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 177,
+      "issue_utc": "2020-03-13T18:49Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0177.html",
+      "summary": "Thunderstorms will increase in coverage and intensity in the next 1-2 hours and will pose a threat for severe hail, damaging winds, and a few tornadoes. A Tornado Watch is likely.",
+      "discussion": "Low-level upslope flow and heating over much of the high terrain of northern Mexico, far west Texas, and southern New Mexico is contributing to widely-scattered thunderstorm development over the western portion of the MCD area. The coverage and intensity of these thunderstorms is expected to gradually increase over the next 1-2 hours. Maintenance of these storms will be supported by an area of upper 50s surface dewpoints along/southwest of a quasi-stationary/warm front that is draped from near San Angelo, TX, west then northwestward to near Fort Sumner, NM. The front is not expected to move northward much throughout the afternoon. Although mid-level lapse rates will remain modest, heating of the relatively moist boundary layer is expected to continue throughout the afternoon and will result in large enough low-level lapse rates to support MLCAPE of 750-1500 J/kg along and south/southwest of the front. MLCIN will range from near zero over the western portion of the MCD area to -150 J/kg initially over the eastern portion of the MCD area, but most of the MLCIN south/southwest of the front is expected to erode by mid afternoon. Furthermore, sufficient MUCAPE will be present north of the front to maintain storms that develop along (or cross over) the front throughout the afternoon. Very long, nearly-straight-line hodographs will support splitting supercells with a severe hail threat on both sides of the front. Given the expected maintenance of the stable layer north of the front, the severe wind threat should be limited to areas of steep low-level lapse rates along and south/southwest of the front, with the tornado threat initially limited to storms that can tap the higher SRH within easterly surface winds along/south of the front. Given the expected evolution of severe thu"
+    },
+    {
+      "year": 2020,
+      "number": 178,
+      "issue_utc": "2020-03-13T22:26Z",
+      "topic": "Tornado Watch 49",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0178.html",
+      "summary": "A severe threat will continue across southeast New Mexico and far west Texas over the next few hours. Wind damage, hail and an isolated tornado threat are expected.",
+      "discussion": "Latest surface analysis shows a trough extending north to south across south-central New Mexico. A corridor of low-level moisture where warm advection is occurring, is located to the east of the surface trough. Surface temperatures have warmed into the mid 60s to lower 70s F slowed by the overall cloudiness evident on satellite imagery. The heating of the boundary layer has allowed MLCAPE to the increase to between 1000 and 1200 J/kg along the moist corridor, as estimated by the RAP. In response, scattered thunderstorms have developed just to the west of the instability axis from east of El Paso northward to west of Tucumcari. These thunderstorms will continue to move east-northeastward into increasing instability over the next hour or two. This combined with strong deep-layer shear, evident on the Midland WSR-88D VWP will be favorable for severe storms. Large hail will be possible with the stronger updrafts, especially with storms that rotate. As downdraft maturation takes place within the stronger cells, wind damage will also be possible. A tornado or two could also occur, mainly with storms that exhibit supercell characteristics."
+    },
+    {
+      "year": 2020,
+      "number": 179,
+      "issue_utc": "2020-03-14T00:52Z",
+      "topic": "Tornado Watch 49",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0179.html",
+      "summary": "Ongoing supercells will pose a large hail/brief tornado threat over the next 2 to 3 hours.",
+      "discussion": "A well-developed supercell in northwest Reeves county currently has MESH estimates of 2+ inch hail. An additional supercell is developing south of this initial supercell west of Pecos. A downstream environment of 750 to 1000 J/kg MUCAPE and effective shear of 70+ kts should support these storms continuing eastward for a few more hours. The window for surface based storms will likely be limited as the boundary layer is increasingly cool with eastward extent. Low-level flow is weak on the 00Z MAF RAOB (<20 kts below 700mb), but has significant cyclonic curvature. Therefore, a brief tornado threat will likely exist for the next hour or so with a large hail threat continuing thereafter. ..Bentley.. 03/14/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 180,
+      "issue_utc": "2020-03-14T02:32Z",
+      "topic": "Tornado Watch 49",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0180.html",
+      "summary": "Isolated severe threat expected to continue this evening across west-central Texas. Wind damage, large hail and a tornado will be possible. Although a local extension in time may be necessary, particularly for a supercell to the west-southwest of Midland, the threat should be too isolated for new weather watch issuance.",
+      "discussion": "Latest surface analysis shows a 1009 mb low across far West Texas with a moist airmass in place southeast of the low. Surface dewpoints are in the lower 60s F with an axis of moderate instability located from just south of Midland southeastward into the southern Texas Hill Country. Thunderstorms that are ongoing in west-central Texas are located along the northern edge of the stronger instability. In addition, the Midland WSR-88D VWP has 0-6 km shear near 80 kt with a curved hodograph. For this reason, a severe threat, specifically associated with a supercell near I-20 to the west-southwest of Midland, should continue across west-central Texas for several more hours. Supercells will have potential for wind damage, large hail and perhaps a tornado. However, the severe threat had become more isolated in the last hour. This trend may continue as surface temperatures decrease across the region, and weather watch issuance is not expected."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "convective_day": "2022-06-09",
+  "valid_start": "2022-06-09T12:00Z",
+  "valid_end": "2022-06-10T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2022-06-10",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2022-06-10T01:00Z",
+      "valid_end": "2022-06-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2022/day1otlk_20220610_0100.html",
+      "summary": "Scattered severe thunderstorms capable of large hail and potentially intense damaging gusts are expected this evening into late tonight across portions of the central and southern Plains.",
+      "sections": [
+        {
+          "title": "Central/southern Great Plains",
+          "text": "Convection is increasing in coverage and intensity this evening across parts of western/central Nebraska. Moderate buoyancy and favorable deep-layer shear (as noted on the 00Z LBF sounding) will support a threat of very large hail with initially discrete storms. Low-level shear/SRH is also sufficient to support the risk of a tornado or two with any sustained right-moving supercell. Later tonight, some upscale growth is possible, with some potential for an MCS to develop and move south-southeastward along the instability gradient. Should this occur, a corridor of somewhat greater damaging wind threat will be possible from central KS into northern OK. Storms are also increasing this evening along an outflow boundary across the northern TX Panhandle. In the short term, any sustained discrete cells will pose a threat of hail (potentially significant) and locally severe wind gusts, as they move into region where moderate-to-strong buoyancy is in place and effective shear is in the 30-40 kt range. A gradually increasing low-level jet will support upscale growth later this evening, with an increasing threat of severe wind, including the potential for significant (> 65 kt) gusts. A brief t"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2022,
+      "number": 1099,
+      "issue_utc": "2022-06-09T18:21Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1099.html",
+      "summary": "Isolated to scattered thunderstorms will pose a threat for damaging winds through the remainder of the afternoon. This potential will be fairly localized; watch issuance is not expected.",
+      "discussion": "Isolated to scattered thunderstorms continue to develop along a diffuse frontal boundary draped from the southeastern Carolinas into the Gulf Coast. Recent reflectivity data and IR imagery has shown an uptick in updraft intensity over the past hour, likely in response to increasing MLCAPE (latest mesoanalysis estimates suggest 2000-3000 J/kg MLCAPE resides across the region with minimal inhibition). Morning RAOBs and recent ACARS soundings from the region support these estimates and reveal a dry layer between 500-300 mb. This dry layer is supporting column theta-e deficits on the order of 20-30 K, which, when combined with steepening low-level lapse rates and moderate instability, is conducive for strong downbursts capable of damaging (to perhaps severe) winds. This potential will persist through the afternoon as temperatures warm into the 90s ahead of ongoing convection. Despite the favorable thermodynamic environment, winds remain weak throughout the column, which will continue to limit storm longevity, organization, and the potential for a more robust severe weather threat."
+    },
+    {
+      "year": 2022,
+      "number": 1100,
+      "issue_utc": "2022-06-09T18:49Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1100.html",
+      "summary": "Increasing strong thunderstorm development appears likely by 2-4 PM MDT, accompanied by a risk for large hail, strong wind gusts and perhaps a brief tornado or two.",
+      "discussion": "In response to daytime heating and orographic forcing, thunderstorms are beginning to initiate near the eastern slopes of the Sangre de Cristos. Deepening convective development is also noted along the Front Range, where layered cloudiness has inhibited insolation at least somewhat. This is occurring beneath 30-50 kt west-northwesterly flow around 500 mb. However, stronger deep-layer shear supportive of supercells is generally focused closer to the Colorado/Kansas state border area, aided by more pronounced veering of wind fields in lower through mid-levels to the east of the lee surface troughing. The more substantive boundary-layer destabilization is also focused along and east of the surface troughing southward into the Raton Mesa, where mixed-layer CAPE is increasing into the 2000-3000 J/kg range. With additional insolation, mid-level inhibition will continue to erode east of the higher terrain through the next few hours, perhaps supported by large-scale ascent aided by lower/mid tropospheric warm advection, downstream of high level troughing digging to the lee of the northern Rockies. Through 20-22Z, thunderstorm activity is likely to become increasingly numerous across and north through east of the Raton Mesa vicinity, where shear is weaker but thermodynamic profiles (including steep lapse rates) may still be conducive to severe hail and strong downbursts. Outflows may begin to gradually consolidate and contribute to an upscale growing cluster of storms. Other more widely scattered thunderstorm development may also commence northward through eastern Colorado, where the shear is stronger, and the evolution of isolated supercells may promote the risk for severe hail and perhaps a brief tornado or two."
+    },
+    {
+      "year": 2022,
+      "number": 1101,
+      "issue_utc": "2022-06-09T20:22Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1101.html",
+      "summary": "Thunderstorms may develop across parts of western NE and southwestern SD in the coming hours. Severe wind/hail, and perhaps a few tornadoes, will be possible, and a watch will likely be needed to address this potential.",
+      "discussion": "Gradual destabilization is noted in GOES visible imagery across portions of west Nebraska into far southern South Dakota as a previously homogeneous mid-level stratus deck begins to break apart into more agitated cumiliform clouds as temperatures climb into the low 80s and richer boundary-layer moisture (denoted by dewpoints in the 60s) surges northward. Latest mesoanalysis suggests that MLCAPE has increased to 1000-2000 J/kg across western NE, though some inhibition likely remains given some lingering stratus. Surface observations and upper-air analyses show that this region resides within a broad warm frontal zone, which is supporting weak elevated convection on the periphery of the better buoyancy. More robust, surface-based convection is probable in the coming hours as inhibition continues to decrease and a subtle mid-level perturbation (noted in water-vapor imagery moving across WY) moves over the region. Recent hi-res guidance suggests that convective initiation could occur the next few hours, but may occur as late as 00-01 UTC. Regardless of timing, initially discrete cells are expected given the weak forcing for ascent. Storms developing across western SD (most likely off the Black Hills) will likely intensify as they move into NE, though development along the surface warm front is possible closer to 00 UTC. Recent KLNX and KUDX VWP data show a nearly uni-directional northwesterly wind profile above 3 km, which will support the potential for supercells. Large to very large hail and severe winds will be the predominant hazards, though enough low-level helicity is in place across western NE to support a tornado or two given an initially favorable storm mode and adequate boundary-layer moisture. Eventual upscale growth into one or more organized clusters is possibl"
+    },
+    {
+      "year": 2022,
+      "number": 1102,
+      "issue_utc": "2022-06-09T23:33Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1102.html",
+      "summary": "The severe threat may increase across parts of west-central Nebraska during the next couple hours. The primary concern will be large hail. Watch issuance is possible.",
+      "discussion": "Latest visible satellite imagery shows a couple deepening cumulus towers north of North Platte, where a few splitting supercells are evident. Lower 60s dewpoints beneath steep midlevel lapse rates should continue to support an uptick in this activity, while long/generally straight hodographs would favor splitting supercells capable of large hail and locally damaging gusts. With time, there may be a tendency for convection to grow upscale, and the concern for damaging winds could increase with southward extent. A watch could be issued for parts of the area."
+    },
+    {
+      "year": 2022,
+      "number": 1103,
+      "issue_utc": "2022-06-09T23:41Z",
+      "topic": "Severe Thunderstorm Watch 336",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1103.html",
+      "summary": "The threat for severe hail and wind continues, and may spread southeastward across parts of northwest Texas and far southwest Oklahoma. An additional watch may be required.",
+      "discussion": "An axis of stronger MLCAPE currently stretched from northern TX and southern OK into western OK and the eastern Panhandles, with values over 3000 J/kg. Scattered storms persist within the surface trough from northeast NM into the TX/OK Panhandles, beneath modest northwest flow aloft. Given the uncapped air mass downstream, outflow now being created over the area may serve as a focus for an MCS this evening. The initial cells may produce hail, but the primary concern may eventually be damaging wind gusts as a possible complex develops. As such, a new watch may be needed for parts of the TX Panhandle into northwest TX and southwest OK. ..Jewell.. 06/09/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1104,
+      "issue_utc": "2022-06-10T00:36Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1104.html",
+      "summary": "The risk of severe thunderstorms capable of large hail and damaging gusts could spread east-southeastward into parts of western Kansas this evening. Trends are being monitored for possible watch issuance.",
+      "discussion": "Latest regional radar data shows an uptick in convection over parts of east-central Colorado, where surface observations show a diffuse east/west-oriented boundary. Current thinking is that ongoing convection could spread east-southeastward along the boundary into parts of western Kansas -- where rich boundary-layer moisture (middle 60s dewpoints) beneath steep midlevel lapse rates are contributing to strong surface-based instability (2500-3000 J/kg MLCAPE). Regional VWP data shows strong northwesterly midlevel flow overspreading southerly low-level flow, which is resulting in 50-60 kt effective bulk shear oriented oblique to the surface boundary. While a generally long/straight hodograph should favor splitting supercell clusters, modest veering in the 0-3-km layer could allow for dominant right-movers. Large hail and locally damaging gusts will be the primary concerns, though a brief tornado or two cannot be ruled out owing to favorable streamwise vorticity in the boundary layer. Over southwest Kansas, a substantial capping inversion at the base of the EML (per the 00Z DDC sounding) along with ongoing cloud debris could limit the severe risk with southward extent. Trends are being monitored for possible watch issuance over parts of the area."
+    },
+    {
+      "year": 2022,
+      "number": 1105,
+      "issue_utc": "2022-06-10T01:09Z",
+      "topic": "Severe Thunderstorm Watch 337",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1105.html",
+      "summary": "Large hail and damaging gusts remain possible, though a tornado cannot be ruled out over parts of southwest Nebraska.",
+      "discussion": "KLNX radar data shows a strengthening cyclonic supercell tracking southeastward across parts of southern Lincoln County, heading into Hayes and Frontier Counties. Regional VWP data shows increasing clockwise low-level hodograph curvature during the last hour, which is supporting enhanced streamwise vorticity ingestion for this storm. In addition, backed low-level flow ahead of the storm and increasing boundary-layer moisture (middle 60s dewpoints) could favor a localized corridor of heightened tornado potential during the next hour. ..Weinman.. 06/10/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1106,
+      "issue_utc": "2022-06-10T03:06Z",
+      "topic": "Severe Thunderstorm Watch 337",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1106.html",
+      "summary": "Isolated large hail remains possible across the southern and eastern portion of WW337. Downstream watch issuance is not expected.",
+      "discussion": "A few splitting cells continue across parts of central and south-central Nebraska this evening, along the eastern periphery of a weakly unstable airmass. Despite the elevated nature of this activity, strong midlevel flow (40-50 kt in the 3-6-km layer) per the UEX VWP should continue to support isolated large hail. Farther east over eastern Nebraska, poor midlevel lapse rates atop upper 50s/lower 60s dewpoints and increasing nocturnal boundary-layer stability should generally limit the severe threat. Therefore, downstream watch issuance is not expected."
+    },
+    {
+      "year": 2022,
+      "number": 1107,
+      "issue_utc": "2022-06-10T03:38Z",
+      "topic": "Severe Thunderstorm Watch 338",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1107.html",
+      "summary": "Severe wind gusts and sporadic hail remain possible this evening from the eastern Texas Panhandle toward the Red River Valley.",
+      "discussion": "Storms have evolved into a line, with outflow boundaries converging toward a prominent embedded supercell near Donley County TX. This portion of the line is tending to propagate south/southeast, maintaining a favorable boundary-relative position for a supercell. Other parts of the boundary were pushing in more of an eastward direction crossing into western OK. Objective analysis as well as 00Z soundings show a minimal cap, though the relatively deep moist layer may require 2-3km deep outflow to reach the LFC. Given that MUCAPE over 3000 J/kg exists over the entire area downstream of these storms, there is a good chance the system continues for several more hours. The most favored corridor appears to be from the Donley County section to the Red River Valley, or within the instability axis. ..Jewell.. 06/10/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1108,
+      "issue_utc": "2022-06-10T05:18Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1108.html",
+      "summary": "A severe threat will likely continue across parts of northern and central Kansas over the next couple of hours, and may persist through much of the night. Large hail and wind damage will be possible. Weather watch is being considered.",
+      "discussion": "The latest high-resolution radar shows a small cluster of strong to severe thunderstorms in northern Kansas, with a couple supercells embedded within the western end of the cluster. The storms are located along a northwest-to-southeast oriented gradient of moderate instability. The RAP is estimating MLCAPE along this corridor in the 1500 to 2500 J/kg range. This along with lift associated with a gradually strengthening low-level jet, will likely provide support for a severe threat for at least another hour or two. Forecast soundings across northern Kansas tonight, have 0-6 km shear in the 50 to 60 knot range, along with strong directional shear in the lowest 3 km. This combined with 700-500 mb lapse rates near 8.0 C/km will likely support a threat for large hail and wind damage with the more intense supercells. However, some uncertainty exists concerning the duration of the threat. An inversion does exist below 850 mb, which is resulting in some capping issues. The current thinking is that the storms will be able to overcome the cap for awhile, allowing the severe threat to persist."
+    },
+    {
+      "year": 2022,
+      "number": 1109,
+      "issue_utc": "2022-06-10T06:06Z",
+      "topic": "Severe Thunderstorm Watch 338",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1109.html",
+      "summary": "A severe threat is expected to continue to spread eastward across parts of southern and central Oklahoma over the next few hours. Wind damage and large hail will be likely with the stronger cells in the line. WW issuance is being issued soon.",
+      "discussion": "The latest high-resolution radar from Norman shows a well-developed linear MCS across southwestern Oklahoma. The line of severe storms is located along an axis of moderate instability extending east-southeastward across southern Oklahoma into north Texas. The MCS is expected to turn more easterly and move across the northern edge of the stronger instability, across central and southern Oklahoma. In addition to moderate instability, RAP forecast soundings show 0-6 km shear in the 30 to 40 knot range. This environment should continue to support a wind-damage threat for several more hours. ..Broyles.. 06/10/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1110,
+      "issue_utc": "2022-06-10T07:56Z",
+      "topic": "Severe Thunderstorm Watch 339",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1110.html",
+      "summary": "A severe threat is expected to continue as cells move southeastward from southeast Kansas into northern and eastern Oklahoma. Wind damage and isolated large hail will be the main threats. A local extension in area for parts of northeastern Oklahoma between the two ongoing watches may be needed.",
+      "discussion": "The latest mosaic radar imagery from southern Kansas into east-central Oklahoma shows an MCS that is organizing in two parts. The first part is in southeast Kansas along an northwest-to-southeast gradient of instability, where the RAP has MLCAPE in the 500 to 1500 J/kg range. The second is in central Oklahoma, where a pocket of moderate to strong instability exists, with the RAP estimating MLCAPE as great as 3000 J/kg. The two areas of storms are expected to combine into one large MCS, with the stronger part of the MCS moving southeastward across parts of northeast and east-central Oklahoma. Although the severe threat will continue within the ongoing watches, an extension in area between the two watches may be needed for the developing severe threat in northeast Oklahoma. ..Broyles.. 06/10/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2022,
+      "number": 1111,
+      "issue_utc": "2022-06-10T09:18Z",
+      "topic": "Severe Thunderstorm Watch 340",
+      "url": "https://www.spc.noaa.gov/products/md/2022/md1111.html",
+      "summary": "A wind-damage and hail threat may develop from southeast Oklahoma into western Arkansas and far northeast Texas over the next few hours. Although a downtrend in intensity has recently accompanied the MCS, weather watch issuance could be needed if reintensification occurs.",
+      "discussion": "Mosaic radar imagery shows a large MCS located across much of the eastern half of Oklahoma. The MCS is located along a northwest-to-southeast oriented gradient of moderate instability, with the RAP estimating MLCAPE in the 1000 to 2000 J/kg range. The stronger part of the MCS will likely track southeastward along this instability gradient into the Arklatex over the next few hours. A recent downtrend with the MCS is likely do the large number of storms and outflows, which are affecting instability within the airmass. However, if a cold pool can organize within the large consolidated area of storms, then a wind-damage threat could re-emerge. The wind-damage threat, if it redevelops, would likely persist until after daybreak. ..Broyles.. 06/10/2022 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

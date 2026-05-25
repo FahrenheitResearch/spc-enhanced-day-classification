@@ -1,0 +1,291 @@
+{
+  "convective_day": "2023-07-01",
+  "valid_start": "2023-07-01T12:00Z",
+  "valid_end": "2023-07-02T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 5
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2023-07-01",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-01T12:00Z",
+      "valid_end": "2023-07-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230701_1200.html",
+      "summary": "Severe thunderstorms are possible today from the central and southern Appalachians region westward through the Ohio/Tennessee Valleys into the mid-Mississippi Valley. Severe winds gusts, hail, and a tornado or two will all be possible.",
+      "sections": [
+        {
+          "title": "TN Valley into parts of the Southeast/Carolinas/Virginia",
+          "text": "A somewhat separate area of storm development will be possible across parts of the TN Valley into the southern Appalachians, potentially near the remnant outflow from morning convection to the north. Deep-layer shear will be increasingly marginal with southward extent, but a few stronger outflow-driven clusters could eventually spread into parts of the Southeast, Carolinas, and Virginia with a threat of locally damaging gusts."
+        },
+        {
+          "title": "Parts of the Northeast",
+          "text": "Increasing low-level moisture will support potentially moderate buoyancy this afternoon across parts of the Northeast, and scattered thunderstorm development will be possible along/ahead of a weak surface trough. Weak low/midlevel flow and poor midlevel lapse rates should generally limit the severe threat, but stronger upper-level flow may help to support a few weakly organized cells/clusters capable of locally damaging gusts and/or marginal hail."
+        },
+        {
+          "title": "TX Trans Pecos/Permian Basin region",
+          "text": "Moderate to locally strong buoyancy may develop across parts of the TX Permian Basin and Trans-Pecos regions this afternoon, and scattered thunderstorm development will be possible near an outflow-reinforced front, and also across the higher terrain. Deep-layer shear will generally be rather weak, though somewhat stronger shear will be possible near and immediately north of the surface boundary. A few stronger cells/clusters will be possible, with a threat of hail and localized severe gusts. ..Dean/Weinman.. 07/01/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-07-01",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-01T13:00Z",
+      "valid_end": "2023-07-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230701_1300.html",
+      "summary": "Severe thunderstorms with swaths of damaging winds and large hail are expected later today into early tonight across the mid Mississippi and lower Ohio Valleys. More isolated severe storms will be possible farther east into the Appalachians and across west Texas.",
+      "sections": [
+        {
+          "title": "Mid MS and OH Valleys through tonight",
+          "text": "A midlevel shortwave trough over the central Plains will progress eastward to the mid MS Valley by tonight, as embedded, convectively-enhanced perturbations rotate around its southern and eastern periphery. At the surface, the primary undisturbed warm sector resides from the Mid-South into southeast MO/southern IL/western KY this morning, with ongoing convection reinforcing rain-cooled air just south of I-70 across MO/IL into southwest IN. In the wake of the morning convection, the unstable warm sector will spread northeastward some across IL/IN/KY, where MLCAPE will increase to 2500-3500 J/kg during the day. Additional thunderstorm development is expected by mid-late afternoon across eastern MO near a weak surface cyclone and cold front, and storms will then spread eastward across IL and the OH Valley through tonight. Midlevel flow will increase to near 40 kt atop the warm sector, which will favor a mix of supercells and multicell clusters capable of producing damaging winds and large hail. There will be the potential for upscale growth into a larger cluster or line, with a corresponding threat for swaths of wind damage late this afternoon through late evening. The severe threat c"
+        },
+        {
+          "title": "Appalachians area through this evening",
+          "text": "There is some potential for intensification of storms along residual outflows and/or a weak surface trough just east of the Blue Ridge, as the low levels warm/moisten through the afternoon. The stronger flow aloft will remain farther west, but moderate buoyancy could support clusters/line segments capable of producing occasional damaging gusts and marginally severe hail later today into this evening."
+        },
+        {
+          "title": "West/southwest TX area this afternoon/evening",
+          "text": "Weak convergence/ascent along a convectively-enhanced cold front, in combination with daytime heating/mixing, will likely support thunderstorm development near and east of the Davis Mountains and higher terrain in southeast NM. This area will remain south of the stronger midlevel westerly/northwesterly flow, but modest deep-layer shear and MLCAPE near 2000 J/kg will support storm clusters capable of producing a few severe outflow gusts and isolated large hail."
+        },
+        {
+          "title": "PA/NY this afternoon/evening",
+          "text": "Subtle/embedded perturbations will move over the lower Great Lakes region today, around the southern periphery of the midlevel low over the ON/QC border. Surface heating in cloud breaks and boundary-layer dewpoints well into the 60s will support MLCAPE of 1000-1500 J/kg from PA northward into NY (east of the influence of Lake Erie/Ontario). Lapse rates will not be steep, but some modest enhancement to mid-upper flow could be sufficient for a few semi-organized clusters capable of producing isolated wind damage for a few hours this afternoon/evening."
+        },
+        {
+          "title": "Southern MT to northwestern ND this afternoon/evening",
+          "text": "Though forcing for ascent will be weak, at least isolated thunderstorm development will be possible this afternoon/evening from edge of the higher terrain in southern MT northeastward along a weak pre-frontal trough. Surface heating/deep mixing will drive inverted-V profiles with MLCAPE at or above 1000 K/kg, and DCAPE near 1200 J/kg. Weak flow supports relatively slow-moving cells/clusters capable of producing isolated strong-severe outflow gusts. ..Thompson/Gleason.. 07/01/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-07-01",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-01T16:30Z",
+      "valid_end": "2023-07-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230701_1630.html",
+      "summary": "Scattered severe thunderstorms are most likely across parts of the Mid-Mississippi and Lower Ohio Valleys through early evening. Damaging winds and a couple tornadoes will be the main hazards.",
+      "sections": [
+        {
+          "title": "Mid MS/OH Valleys",
+          "text": "A modestly amplified shortwave trough over western NE/KS will progress into IA/MO by tonight, as embedded, convectively enhanced perturbations rotate around its southern and eastern periphery. One such perturbation near the Ozark Plateau will aid in scattered thunderstorm development as it impinges on the Mid-MS Valley. This activity will form within a pronounced differential boundary-layer heating/buoyancy gradient amid large MLCAPE of 3000-4000 J/kg in the undisturbed warm sector over the Mid-South. Within a belt of 35-45 kt mid-level west-southwesterlies, initial supercells/clusters congealing into a forward-propagating linear MCS appears probable. Large hail will be possible, mainly early, but the predominant threat should be damaging wind swaths towards the central OH Valley. A couple of embedded tornadoes will also be possible, mainly focused along/just north of the residual outflow boundary arcing west from ongoing convection over central KY."
+        },
+        {
+          "title": "Permian Basin",
+          "text": "Weak convergence along a convectively enhanced cold front, in combination with a narrow corridor of stronger boundary-layer heating between the front and thicker clouds within the southern-stream closer to the Big Bend, should yield a rather confined corridor of MLCAPE approaching 2500 J/kg in the late afternoon. Deep-layer shear will be modest and convection will probably be slow-moving to the south-southeast but a few severe outflow gusts and isolated large hail will be possible."
+        },
+        {
+          "title": "Lee of the central/southern Appalachians",
+          "text": "There is some potential for intensification of isolated to scattered storms along residual outflows and a weak surface trough just east of the Blue Ridge, as the low levels warm this afternoon. Mid-level lapse rates will remain weak north of southwest VA, while diffluent mid-level flow in the lee of the central Appalachians will generally hold effective bulk shear below 25 kt north of southwest VA. Localized damaging winds and perhaps marginally severe hail will be the main threats."
+        },
+        {
+          "title": "PA/NY",
+          "text": "Subtle/embedded perturbations will move over the lower Great Lakes region today, around the southern periphery of the shortwave trough centered on the Ontario-Quebec border. Surface heating in cloud breaks and boundary-layer dew points in the 60s will support MLCAPE of 1000-1500 J/kg east of the influence of the Lower Great Lakes. Mid-level lapse rates will not be steep, but some modest enhancement to mid-upper flow could be sufficient for a few semi-organized clusters capable of producing isolated wind damage for a few hours centered on late afternoon."
+        },
+        {
+          "title": "Southern MT to ND",
+          "text": "Though forcing for ascent will be weak, at least isolated thunderstorm development will be possible this afternoon/evening from edge of the higher terrain in southern MT northeastward along a weak pre-frontal trough into ND. Surface heating/deep mixing will drive inverted-V profiles with MLCAPE of 500-1500 J/kg. Weak flow supports relatively slow-moving cells/clusters capable of producing isolated strong-severe outflow gusts. ..Grams/Smith.. 07/01/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-07-01",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-01T20:00Z",
+      "valid_end": "2023-07-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230701_2000.html",
+      "summary": "Thunderstorms may gradually consolidate and organize across parts of the middle Mississippi into lower Ohio Valley late this afternoon, accompanied by increasing potential for damaging wind gusts and perhaps a couple of tornadoes into this evening.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "Adjustments have been made to better account for the progression of synoptic and sub-synoptic features and associated trends concerning instability. An increase in thunderstorm development is ongoing across east central and southeast Missouri, aided by forcing associated with a smaller-scale perturbation/speed maximum within positively-tilted larger-scale mid-level troughing gradually shifting east of the central Great Plains. In the presence of strong deep-layer shear beneath a belt of 40+ kt southwesterly 500 mb flow across southeastern Missouri into south central Illinois, it still seems probable that upscale growing convection will become increasingly organized while propagating east of the Mississippi River late this afternoon. Easterly near-surface inflow into updrafts will be characterized by seasonably moist air with moderately large CAPE across southeastern Missouri through southern Illinois, Indiana and western Kentucky. Farther east, toward the Allegheny and Cumberland Plateau, prior convective outflow is maintaining considerable influence and potential for substantive destabilization to maintain activity remains more unclear. ..Kerr.. 07/01/2023 .PREV DISCUSSION... /ISS"
+        },
+        {
+          "title": "Mid MS/OH Valleys",
+          "text": "A modestly amplified shortwave trough over western NE/KS will progress into IA/MO by tonight, as embedded, convectively enhanced perturbations rotate around its southern and eastern periphery. One such perturbation near the Ozark Plateau will aid in scattered thunderstorm development as it impinges on the Mid-MS Valley. This activity will form within a pronounced differential boundary-layer heating/buoyancy gradient amid large MLCAPE of 3000-4000 J/kg in the undisturbed warm sector over the Mid-South. Within a belt of 35-45 kt mid-level west-southwesterlies, initial supercells/clusters congealing into a forward-propagating linear MCS appears probable. Large hail will be possible, mainly early, but the predominant threat should be damaging wind swaths towards the central OH Valley. A couple of embedded tornadoes will also be possible, mainly focused along/just north of the residual outflow boundary arcing west from ongoing convection over central KY."
+        },
+        {
+          "title": "Permian Basin",
+          "text": "Weak convergence along a convectively enhanced cold front, in combination with a narrow corridor of stronger boundary-layer heating between the front and thicker clouds within the southern-stream closer to the Big Bend, should yield a rather confined corridor of MLCAPE approaching 2500 J/kg in the late afternoon. Deep-layer shear will be modest and convection will probably be slow-moving to the south-southeast but a few severe outflow gusts and isolated large hail will be possible."
+        },
+        {
+          "title": "Lee of the central/southern Appalachians",
+          "text": "There is some potential for intensification of isolated to scattered storms along residual outflows and a weak surface trough just east of the Blue Ridge, as the low levels warm this afternoon. Mid-level lapse rates will remain weak north of southwest VA, while diffluent mid-level flow in the lee of the central Appalachians will generally hold effective bulk shear below 25 kt north of southwest VA. Localized damaging winds and perhaps marginally severe hail will be the main threats."
+        },
+        {
+          "title": "PA/NY",
+          "text": "Subtle/embedded perturbations will move over the lower Great Lakes region today, around the southern periphery of the shortwave trough centered on the Ontario-Quebec border. Surface heating in cloud breaks and boundary-layer dew points in the 60s will support MLCAPE of 1000-1500 J/kg east of the influence of the Lower Great Lakes. Mid-level lapse rates will not be steep, but some modest enhancement to mid-upper flow could be sufficient for a few semi-organized clusters capable of producing isolated wind damage for a few hours centered on late afternoon."
+        },
+        {
+          "title": "Southern MT to ND",
+          "text": "Though forcing for ascent will be weak, at least isolated thunderstorm development will be possible this afternoon/evening from edge of the higher terrain in southern MT northeastward along a weak pre-frontal trough into ND. Surface heating/deep mixing will drive inverted-V profiles with MLCAPE of 500-1500 J/kg. Weak flow supports relatively slow-moving cells/clusters capable of producing isolated strong-severe outflow gusts."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-07-02",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-02T01:00Z",
+      "valid_end": "2023-07-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230702_0100.html",
+      "summary": "Storms capable of damaging wind gusts and isolated hail will affect parts of the Midwest and Ohio Valley this evening. Isolated strong/severe storms also remain possible across parts of the northern High Plains, and also the Texas Permian Basin region.",
+      "sections": [
+        {
+          "title": "Missouri eastward through parts of the Ohio Valley",
+          "text": "Multiple storm clusters are ongoing this evening from southern IN into western KY, and also across parts of western/northern MO. The IN/KY storms have a history of producing wind damage and sporadic measured severe gusts, and some damaging-wind threat may continue downstream into parts of southeast IN, southwest OH, and northern KY, where moderate buoyancy and sufficient deep-layer shear will continue to support organized convection through the evening. The influence of outflow from convection that has moved into parts of the Southeast will should limit the southward extent of the remaining severe threat. See MCD 1382 for more information regarding the short-term threat. Farther west, strong thunderstorms have developed across parts of west-central/northwest MO, immediately in advance of a mid/upper-level shortwave trough moving across northeast KS. Deep-layer shear is not overly strong (effective shear generally less than 30 kt), but moderate buoyancy and favorable large-scale ascent attendant to the shortwave will help to sustain an isolated severe hail/wind risk through this evening into parts of central/eastern MO and potentially western IL."
+        },
+        {
+          "title": "Permian Basin region of TX",
+          "text": "Strong storms are ongoing near Midland/Odessa and vicinity this evening near the confluence of several surface boundaries. Deep-layer flow is rather weak, but veering wind profiles are supporting effective shear of 25-30 kt, sufficient for a few strong multicells in the presence of moderate buoyancy. Isolated hail and severe gusts will be possible into mid evening before storms weaken later tonight."
+        },
+        {
+          "title": "Eastern MT into northwest ND",
+          "text": "Scattered high-based storms will likely continue from eastern MT into northwest ND this evening. Deep-layer shear is rather weak, but steep low-level lapse rates and MUCAPE of 500-1000 J/kg may support a few outflow-dominant cells/clusters with a threat of localized severe gusts before storms weaken late tonight. ..Dean.. 07/02/2023"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2023,
+      "number": 1368,
+      "issue_utc": "2023-07-01T13:43Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1368.html",
+      "summary": "Locally strong gusts and small hail may accompany storms storms shifting east this morning. A severe thunderstorms watch is not expected at this time.",
+      "discussion": "A cluster of storms is shifting east this morning across southern IN along the apex of stronger instability nosing into central KY. Surface dewpoints in the upper 60s F and midlevel lapse rates around 7 C/km are contributing to MUCAPE values around 1500-2000 J/kg. However, quite a bit of boundary-layer inhibition is still in place given time of day, and low-level lapse rates remain weak as only modest surface heating has occurred so far. Ahead of the line of storms, clusters of showers and thunderstorms are developing across central KY. This downstream activity and overall poor boundary-layer conditions, severe potential is expected to remain limited over the next couple of hours. Locally strong gusts to 45 mph and small hail will be possible, but a severe thunderstorm watch is not expected at this time."
+    },
+    {
+      "year": 2023,
+      "number": 1369,
+      "issue_utc": "2023-07-01T16:28Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1369.html",
+      "summary": "Severe thunderstorm potential will increase through early afternoon across portions of the Ozarks to the Mid-Mississippi/Lower Ohio Valleys. Damaging gusts and large hail will be possible with thunderstorm activity through the afternoon.",
+      "discussion": "An expansive, increasingly agitated cumulus field is noted in visible satellite imagery late this morning from northern Arkansas into southern Missouri toward the confluence of the Ohio/Mississippi Rivers. Latest objective mesoanalysis data suggests low-level inhibition has quickly eroded as strong heating occurred through the morning hours, and temperatures have rapidly warmed into the low 90s. Generally 70s F dewpoints are contributing to increasing destabilization, with MLCAPE values ranging from 1500-3500 J/kg across the region. These factors will likely result in somewhat early convective initiation across the region ahead of a midlevel shortwave impulse now entering southwest MO. Bulk effective shear from 25-35 kt will allow for organized cells/clusters. Given relatively modest midlevel flow, some upscale development may occur via consolidating outflows via storm interactions and/or generation of a sufficient cold pool. If this occurs, a bowing line of convection may shift generally east across western KY/TN. If a well organized bow emerges, the risk for more widespread damaging (and possibly isolated significant gusts) would increase. However, this scenario remains rather uncertain. Nevertheless, thunderstorm clusters will still be capable of severe/damaging gusts given strong instability and steep low-level lapse rates. Current thinking for convective evolution aligns more with CAM solutions from the NSSL/ARW rather than the HRRR, as the former solutions appear to have a better handle on current observed trends. While some uncertainty exists regarding timing and aerial extent, a severe thunderstorm watch will likely be needed in the next hour or so."
+    },
+    {
+      "year": 2023,
+      "number": 1370,
+      "issue_utc": "2023-07-01T16:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1370.html",
+      "summary": "Thunderstorm clusters may produce strong/locally damaging gusts and hail through the afternoon. A severe thunderstorm watch may be needed.",
+      "discussion": "Thunderstorm clusters have developed across the region early this afternoon amid weakening boundary-layer inhibition. Surface dewpoints in the 70s amid mid 80s to low 90s temperatures are resulting in a corridor of 1500-3000 J/kg MLCAPE. Additional heating during the afternoon will result in some additional increase in instability. While moderate to strong instability will reside over the region, vertical shear is expected to remain modest, with effective shear magnitudes generally around 20 kt forecast. This will limit longevity of organized updrafts, though degree of instability should support at least briefly vigorous thunderstorms. The lack of stronger midlevel flow and deep-layer shear may preclude upscale development, but the parameter space should be sufficient for thunderstorm clusters posing a risk for strong/locally damaging gusts and perhaps hail with the stronger cores. If a sufficient cold pool can be generated, potential for a bowing cluster would increase, but confidence in this scenario is low. A severe thunderstorm watch may be needed in the next 1-2 hours."
+    },
+    {
+      "year": 2023,
+      "number": 1371,
+      "issue_utc": "2023-07-01T17:37Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1371.html",
+      "summary": "Isolated thunderstorms may produce locally strong gusts and hail through the afternoon.",
+      "discussion": "Isolated thunderstorms are developing along a surface trough near the higher terrain of west-central VA. Low to mid 70s surface dewpoints are contributing to 1000-1500 J/kg MLCAPE amid modest midlevel lapse rates. Continued heating will result in steepening low-level lapse rates the next few hours. Vertical shear is expected to remain weak, at or below 20 kt 0-6 km effective bulk shear. This will limit longevity/organization of strong updrafts. Nevertheless, high PW values and boundary-layer mixing to around 1 km could support sporadic downbursts. While midlevel lapse rates and 3-6 km flow will remain weak, large instability from 700-300 mb and somewhat elongated hodographs could support a few instances of near-1 inch hail. The overall threat is expected to remain marginal, and a severe thunderstorm watch is not expected at this time."
+    },
+    {
+      "year": 2023,
+      "number": 1372,
+      "issue_utc": "2023-07-01T17:54Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1372.html",
+      "summary": "Thunderstorm clusters may produce locally strong gusts through the afternoon.",
+      "discussion": "Thunderstorm activity is expected to gradually increase in intensity and coverage through the afternoon as convection develops within broad large-scale ascent downstream from a Canadian midlevel trough. Vertical shear remains weak over the region, but is forecast to gradually increase, with effective shear magnitudes around 25 kt by late afternoon. A moist boundary-layer with dewpoints in the upper 60s to low 70s F is contributing to modest destabilization (1000-1500 J/kg) across the region. This parameter space should support briefly organized cells/clusters and sporadic strong gusts will be possible as convection spreads east/northeast through the afternoon/early evening. The overall severe thunderstorm risk is expected to remain modest, and a severe thunderstorm watch is not currently expected."
+    },
+    {
+      "year": 2023,
+      "number": 1373,
+      "issue_utc": "2023-07-01T17:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1373.html",
+      "summary": "Isolated to widely scattered 50-65 mph gusts are possible this afternoon and wind damage is expected as a result. Large hail is possible but on a more isolated basis.",
+      "discussion": "Visible satellite imagery shows a swelling cumulus field over the Great Smoky Mountains within an area characterized by weak to modest west-northwest flow (20-25 kt northwesterly at 4km ARL at Greer, SC per the VAD). Surface conditions in western NC have warmed into the mid-upper 80s with dewpoints in the upper 60s to 70 deg. Slightly richer moisture is located immediately adjacent to the higher terrain over the Upstate of SC with lower 70s dewpoints in the I-85 corridor. Expecting convective initiation over the higher peaks in western NC by 230pm (1830 UTC). Gradual storm development is expected through 3-4pm while storms intensify. Model forecast soundings indicate PW around 1.8 inches amidst 2500-3000 J/kg MLCAPE by mid afternoon. Steepening low-level lapse rates will support water-loaded downbursts and at least isolated microbursts capable of peak gusts 50-65 mph. The thunderstorm activity will slowly move towards the I-85 corridor by late afternoon."
+    },
+    {
+      "year": 2023,
+      "number": 1374,
+      "issue_utc": "2023-07-01T19:15Z",
+      "topic": "Severe Thunderstorm Watch 427",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1374.html",
+      "summary": "Damaging wind potential may be increasing across parts of southeast Missouri into southern Illinois over the next 1-2 hours.",
+      "discussion": "A cluster of storms from Phelps to Oregon Counties in southeast MO is showing signs of intensification and better organization over the past 30 minutes or so. Radar velocity signatures have increased and reports of wind damage and hail have been noted with this activity. While some semi-discrete cells continue, the cluster over Texas County has shown better organization and an increase in forward propagation. Very steep lapse rates and DCAPE values exceeding 1000 J/kg indicate potential for strong downbursts. If continued organization into a bowing cluster continues, an attendant increase in a swath of damaging winds is expected downstream across parts of east-central/southeast MO and southern IL. ..Leitman.. 07/01/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1375,
+      "issue_utc": "2023-07-01T19:17Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1375.html",
+      "summary": "Isolated severe gusts (60-70 mph) are possible this afternoon as storms move east near I-90.",
+      "discussion": "Water-vapor imagery shows a mid-level shortwave trough moving east-northeast across Alberta and the northern Rockies early this afternoon. Visible satellite/radar composite imagery shows a cluster of intensifying strong to locally severe thunderstorms extending from northeast ID northeastward to immediately east of Helena. This activity will likely continue to develop and move east during the afternoon as additional heating occurs downstream of the storms over south-central MT. Early afternoon surface conditions show temperatures warming through the 80s with dewpoints in the lower to mid 50s. Forecast soundings show steep 0-3 km lapse rates (9+ deg C/km) and MLCAPE approaching 1000 J/kg. The main limiting factor for a more robust severe risk is the modest unidirectional westerly flow (at or below 30 kt from 300 mb to the surface). Nonetheless, the steep-lapse-rate environment and forcing for ascent will likely lead to at least an isolated risk for severe gusts accompanying stronger multicells on the leading edge of a cold pool as it moves east across south-central MT this afternoon."
+    },
+    {
+      "year": 2023,
+      "number": 1376,
+      "issue_utc": "2023-07-01T19:57Z",
+      "topic": "Severe Thunderstorm Watch 428",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1376.html",
+      "summary": "Sporadic strong/locally damaging gusts will continue the next few hours across Severe Thunderstorm Watch 428.",
+      "discussion": "Clusters of strong to severe thunderstorms will continue to shift east across parts of Middle and southeast TN, northern AL/GA and far western NC the next few hours. This activity is occurring in a moderately unstable environment characterized by weak effective shear. Nevertheless, steep low-level lapse rates, high PW, and a corridor of 1000+ J/kg DCAPE exist downstream of ongoing convection. Several measured severe gusts have been noted, along with wind damage, over the past 1-2 hours. Expect sporadic/locally damaging wind potential to persist across eastern portions of Severe Thunderstorm Watch 428. ..Leitman.. 07/01/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1377,
+      "issue_utc": "2023-07-01T20:35Z",
+      "topic": "Severe Thunderstorm Watch 427",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1377.html",
+      "summary": "Damaging gusts and large hail threat will continue across portions of southern Illinois into western Kentucky and southwest Indiana the next few hours. An increasing severe risk is expected to develop late this afternoon into this evening downstream from WW 427 and a new watch will likely be needed.",
+      "discussion": "Intense, severe-warned cells are ongoing across southern IL and parts of western KY. MRMS MESH has indicated hail between 1-2 inch in diameter is possible with these storms as they track generally eastward across a moderate unstable airmass. Effective shear magnitudes around 35-45 kt are noted in objective guidance and regional VWP data. Over the past 30 minutes or so, more discrete cells over southern IL appear to be trying to organize into more of a forward propagating cluster. Damaging wind potential will increase with any upscale development with this activity. Further north and east of WW 427 across east-central IL into parts of central/southern IN and west-central KY, airmass recovery after morning convection appears to be well underway. Low-level inhibition has most eroded as temperatures have warmed into the mid/upper 80s with low/mid 70s dewpoints. The gradient of stronger instability is oriented across this area, and favorable shear is expected to persist as a midlevel shortwave impulse continues to eject across MO and into IL this evening. This should support a continued severe thunderstorm risk into this evening, and a downstream severe thunderstorm watch is likely."
+    },
+    {
+      "year": 2023,
+      "number": 1378,
+      "issue_utc": "2023-07-01T21:39Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1378.html",
+      "summary": "The area is being monitored for an increase in severe-storm potential this afternoon, and a watch is possible.",
+      "discussion": "Latest surface observations and visible satellite/radar imagery show an outflow boundary draped across parts of southwest TX this afternoon, with deepening cumulus and isolated convective development along the boundary. Farther west, an organized storm has developed over the higher terrain. Diurnal destabilization of a moist air mass (middle/upper 60s dewpoints) beneath steep midlevel lapse rates are contributing to strong surface-based instability in the vicinity of the boundary. While low/mid-level flow is not particularly strong, weak low-level east-southeasterlies beneath strengthening westerly flow aloft will still yield around 35 kt of effective shear -- supportive of organized storms including a few supercells. With weak large-scale ascent over the area, an initially discrete/semi-discrete mode will favor large hail, though eventual clustering near the outflow boundary should support an increasing damaging-wind threat. Currently, it is unclear if storm coverage will be sufficient for a watch, though convective trends will be monitored."
+    },
+    {
+      "year": 2023,
+      "number": 1379,
+      "issue_utc": "2023-07-01T21:52Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1379.html",
+      "summary": "Wind gusts of 40-50 kts will be possible with a compact bowing segment in central North Carolina. This activity may persist another 1-2 hours.",
+      "discussion": "A small bowing segment has developed east of Greensboro this afternoon. KRAX radar velocity data showed an area of 50 kt winds within the apex of bow. Earlier this afternoon, near Burlington, a 40 kt gust was observed along with reported tree damage. Given the organization of the bow, it may persist another hour or two despite weak shear and a less favorable downstream airmass. Local winds gusts of 40-50 kts would be possible."
+    },
+    {
+      "year": 2023,
+      "number": 1380,
+      "issue_utc": "2023-07-01T23:05Z",
+      "topic": "Severe Thunderstorm Watch 427",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1380.html",
+      "summary": "Damaging winds will generally be the primary hazards across parts of southern Illinois, southern Indiana, and western Kentucky.",
+      "discussion": "A compact linear segment is evident on MRMS radar imagery in southern Illinois. This feature should continue to move eastward into southern Indiana. Temperatures to the east have risen slightly late this afternoon as the airmass has tried to recover in the wake of earlier day convection. A few isolated supercell structures have also developed ahead of the line as well. Long radar/satellite loops showed some potential impact from more stable air from convection over western/middle Tennessee. Storms appeared to lose some organization as they interacted with that outflow. Further, Mount Vernon, IL observed a 37 kt wind gusts with the strongest inbound winds per KVWX velocity data. Though some low-level stability may temper the threat for a more organized wind damage threat, strong to severe gusts will still remain possible with the most organized storms and where surface temps have remained in the upper 80s F. A low-end tornado threat will also exist in the vicinity of Evansville, IN where surface winds remain backed and the KVWX shows modest low-level hodograph size. ..Wendt.. 07/01/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1381,
+      "issue_utc": "2023-07-01T23:30Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1381.html",
+      "summary": "The severe-storm risk may increase during the next few hours. Isolated large hail and locally damaging gusts are the main concern.",
+      "discussion": "Surface observations indicate a confluence zone extending from east-central KS into central MO this afternoon -- where increasingly agitated cumulus and isolated storm development is underway. Continued diurnal destabilization of a moist boundary layer (middle 60s dewpoints) in the confluence zone should support a gradual uptick in storm coverage during the next few hours. While deep-layer shear is not particularly strong, a unidirectional wind profile with around 30 kt of midlevel flow (sampled by the EAX VWP) could promote brief updraft organization. Initially, discrete/ semi-discrete storms could favor marginally severe hail and locally damaging gusts. With time, deep-layer flow/shear oriented parallel to the confluence zone along with storm splits/mergers could yield a couple clusters capable of severe winds. Current thinking is that any severe risk may remain too isolated/sporadic for a watch."
+    },
+    {
+      "year": 2023,
+      "number": 1382,
+      "issue_utc": "2023-07-02T01:07Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1382.html",
+      "summary": "Locally strong/damaging wind gusts are possible this evening for southwestern Ohio/northern Kentucky. An additional watch is not currently expected this evening.",
+      "discussion": "Storms in southern Indiana will eventually move into southwestern Ohio and northern Kentucky this evening. Modest forcing from a shortwave trough in the Mid-Missouri Valley will provide some additional cooling aloft. While cooling at the surface will not be particularly quick due to the very moist airmass, the overall thermodynamic profile is not likely to support widespread strong/severe convection. The observed 00Z ILN sounding showed capping present in the 850-700 mb layer. Given the lesser degree of organization in the southern Indiana activity over the last hour and the less favorable environment into southwestern Ohio, an additional watch is not currently expected this evening. Locally strong/damaging wind gusts may still occur with the strongest storms, however."
+    }
+  ]
+}

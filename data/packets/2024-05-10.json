@@ -1,0 +1,116 @@
+{
+  "convective_day": "2024-05-10",
+  "valid_start": "2024-05-10T12:00Z",
+  "valid_end": "2024-05-11T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2024-05-10",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-05-10T12:00Z",
+      "valid_end": "2024-05-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240510_1200.html",
+      "summary": "Severe thunderstorms capable of producing damaging wind are possible today across parts of south Georgia into north Florida. A few severe storms capable of producing damaging wind and hail are also possible across northeast South Carolina into southeast North Carolina.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "An amplified upper-level trough will persist over the eastern CONUS today. Within the large-scale trough, one shortwave will move southeastward from the mid MS Valley toward the Southeast, while an upstream shortwave trough (an attendant weak surface low) will move across the northern Great Plains and upper MS Valley. In the wake of extensive early morning convection, a cold front will move southward across parts of the Southeast and Texas."
+        },
+        {
+          "title": "Parts of GA/north FL",
+          "text": "An MCS will likely be ongoing at the start of the period somewhere across south GA/north FL, supported by favorable moisture/instability and strong westerly flow aloft. Some uncertainty remains regarding the timing and intensity of this system later this morning. While the GA/north FL area saw extensive convection and related outflow on Thursday, some recovery is possible prior to the arrival of the MCS, which will support potential for at least scattered damaging gusts before the MCS moves offshore. Depending on the timing and southeastward progression of the MCS, some redevelopment will be possible along the synoptic cold front during the afternoon, from southeast AL into southwest GA and the FL Panhandle vicinity. Deep-layer shear will remain sufficient for organized convection, and a couple stronger cells/clusters will be possible, with a threat of isolated hail and damaging gusts."
+        },
+        {
+          "title": "Parts of the Carolinas",
+          "text": "With the early-day MCS to the south expected to move quickly offshore during the morning, there will be some opportunity for a corridor of moderate destabilization across part of the Carolinas in advance of the cold front. The favorably timed shortwave trough approaching from the northwest will support thunderstorm development along the front, with rather strong deep-layer flow/shear supporting storm organization. A couple of supercells and/or small bowing segments will be possible, with a primary threat of damaging gusts and hail."
+        },
+        {
+          "title": "South-central TX",
+          "text": "A cold front that will move through south-central TX is forecast to slow down through the day, before potentially stalling late tonight. Elevated convection may develop near/north of the front through the day. The intensity of any such convection remains uncertain, but elevated buoyancy may be sufficient to support a strong storm or two with isolated hail as the primary threat."
+        },
+        {
+          "title": "Upper Midwest/Mississippi Valley",
+          "text": "Low-topped convection may develop across parts of MN/WI this afternoon, in association with the shortwave trough moving southeastward across the region. Instability will be quite weak due to limited moisture, but relatively deep mixing and steep low-level lapse rates could support isolated gusty/damaging winds with the strongest convection. ..Dean/Squitieri.. 05/10/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-05-10",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-05-10T13:00Z",
+      "valid_end": "2024-05-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240510_1300.html",
+      "summary": "Severe thunderstorms capable of primarily damaging winds will continue early today across northern Florida and far south Georgia. A few severe storms capable of producing damaging winds and hail are also expected across the Carolinas.",
+      "sections": [
+        {
+          "title": "Southern Georgia/northern Florida",
+          "text": "A well-organized and fast-moving squall line, which had included embedded bowing segments and periodic mesovortices, will continue east-southeastward this morning, favoring the prior-outflow-reinforced instability gradient near the Georgia/Florida border. Damaging winds, along with some QLCS-related tornado risk, will remain a distinct concern prior to the MCS moving offshore. The most prominent severe risk should be with the early day MCS, but some redevelopment will be possible, immediately on the MCS southwestern flank, as well as into the afternoon with some potential recovery ahead of the cold front. This could occur across southeast Alabama/southwest Georgia and the Florida Panhandle. Deep-layer shear will remain conditionally sufficient for organized convection, and a couple stronger cells/clusters will be possible, with a threat of isolated hail and damaging gusts."
+        },
+        {
+          "title": "Carolinas",
+          "text": "With the early-day MCS to the south expected to move quickly offshore during the morning, there will be some opportunity for a corridor of moderate destabilization across part of the Carolinas in advance of the cold front. The favorably timed shortwave trough approaching from the northwest will support thunderstorm development along the front, with rather strong deep-layer flow/shear supportive of storm organization. A couple of supercells and/or small bowing segments will be possible, including risks of large hail and damaging wind gusts."
+        },
+        {
+          "title": "South-central Texas/Edwards Plateau",
+          "text": "To the north of a stalled front, at least isolated elevated convection may develop this afternoon into early evening, particularly across the Edwards Plateau and in closer proximity to the Rio Grande. The intensity of any such convection remains uncertain, but elevated buoyancy may be sufficient to support a few severe storms with large hail as the most probable risk."
+        },
+        {
+          "title": "Upper Midwest/Mississippi Valley",
+          "text": "Low-topped convection is expected to develop across parts of Minnesota and Wisconsin this afternoon, in association with the shortwave trough moving southeastward across the region. Instability will be quite weak due to limited moisture, but relatively deep mixing and steep low-level lapse rates could support isolated gusty/damaging winds with the strongest convection this afternoon. ..Guyer/Broyles.. 05/10/2024"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2024,
+      "number": 746,
+      "issue_utc": "2024-05-10T12:17Z",
+      "topic": "Severe Thunderstorm Watch 229",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0746.html",
+      "summary": "Wind damage, hail and an isolated tornado threat are expected with an MCS, as it moves east-southeastward across southeastern Georgia and northern Florida. The severe threat could impact parts of north-central Florida later this morning, and that area will continue to be monitored for additional watch issuance.",
+      "discussion": "The latest mosaic radar imagery shows a well-developed MCS over southeast Georgia and northern Florida. The MCS will continue to move east-southeastward toward the Atlantic Coast over the next couple of hours. Ahead of the MCS, surface dewpoints are in the lower to mid 70s F, and MLCAPE is estimated by the RAP in the 1500 to 2000 J/kg range. In addition, the Jacksonville, FL WSR-88D VWP has 0-6 km shear near 50 knots suggesting that the large-scale bowing line segment may remain organized. Wind damage will be possible along the leading edge of the more intense line segments. The VWP also has 0-3 km storm-relative helicity around 150 m2/s2 which appears sufficient for an isolated tornado threat with rotating cells embedded in the line. ..Broyles.. 05/10/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 747,
+      "issue_utc": "2024-05-10T17:05Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0747.html",
+      "summary": "Scattered severe storms are likely to develop after 18Z over the central Carolinas, producing damaging hail and wind through early evening as they eventually exit the Atlantic Coast.",
+      "discussion": "Surface analysis shows a deepening trough extending from southeast VA across central NC and into northern SC, with temperatures heating into the upper 70s F. Dewpoints remain in the 60s F, but may gradually mix down a few degrees by peak heating. Morning soundings show steep midlevel lapse rates in place, as well as ample deep-layer shear with mid to high level flow of 50 to 100 kt. This combination is resulting in a favorable environment for large hail, and perhaps a few fast-moving bowing structures with damaging winds. As of 17Z, visible imagery is already showing developing towering CU over northern SC and into central NC. The presence of cirrus from the MCS to the south may have slowed heating a bit, but clearing should continue, aiding destabilization. Scattered to numerous storms are expected to form over the next few hours along the boundary, with both cells and congealing line segments possible. Some of the more isolated hail storms may produce large amounts of 1.00 to 1.75\" hail, with cold, severe downdrafts possible as well."
+    },
+    {
+      "year": 2024,
+      "number": 748,
+      "issue_utc": "2024-05-10T21:48Z",
+      "topic": "Severe Thunderstorm Watch 231",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0748.html",
+      "summary": "The threat for hail and damaging gusts will spread southeastward toward the coast into this evening.",
+      "discussion": "Numerous small cells (some exhibiting supercell characteristics) have produced scattered hail reports in the 1.0 - 1.75 inch diameter range through the afternoon, within an environment characterized by MLCAPE of 750-1500 J/kg and moderate deep-layer shear. Any remaining discrete cells will be capable of producing hail of a similar size into this evening. There has been some tendency for gradually increasing outflow and clustering of storms, which could result in a somewhat greater threat for damaging wind, especially in areas from SC into southeast NC, where warmer temperatures and relatively greater instability remain in place. The primary severe threat should continue to spread toward the coast, though a couple stronger cells could trail the primary band of convection with an isolated severe threat into this evening. ..Dean.. 05/10/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 749,
+      "issue_utc": "2024-05-10T23:32Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0749.html",
+      "summary": "A severe gust or two may accompany the stronger storms until around sunset. A WW issuance is not expected.",
+      "discussion": "Multiple low-topped, high based thunderstorms have percolated in intensity behind the surface cold front over the past few hours, and these storms continue to move southeast atop a dry/mixed boundary layer. 23Z mesoanalysis shows 8.5+ C/km 0-3 km lapse rates preceding the storms, which may foster adequate evaporative cooling beneath the stronger storm cores to support a couple of damaging gusts until around sunset. However, since the severe risk is expected to be sparse, a WW issuance is not anticipated."
+    },
+    {
+      "year": 2024,
+      "number": 750,
+      "issue_utc": "2024-05-11T00:12Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0750.html",
+      "summary": "An isolated damaging gust could accompany any ongoing storms over the next few hours, and a waterspout cannot be ruled out along coastal areas. The severe risk should remain isolated and a WW issuance is not expected.",
+      "discussion": "A cluster of thunderstorms is currently traversing the Big Bend area of northern FL amid a warm and moist low-level airmass. Surface temperatures in the low 80s F amid 70+ F dewpoints yield over 2000 J/kg of SBCAPE on the cool side of a residual baroclinic boundary, where storm maturation could occur. Given the presence of 50+ kt effective bulk shear values (driven by elongated hodographs with modest low-level curvature), transient supercells may develop from the ongoing cluster of thunderstorms. Confidence in this scenario is modest at best. However, any storm that can mature in this environment could produce a damaging gust or two, and a waterspout could also form close to the coastline. The best chance for a gust or waterspout would be in the next few hours, before nocturnal cooling will support boundary layer stabilization and a decrease in thunderstorm potential. Since the severe threat should be sparse at best, a WW issuance is not expected."
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "convective_day": "2024-02-27",
+  "valid_start": "2024-02-27T12:00Z",
+  "valid_end": "2024-02-28T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2024-02-27",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-02-27T16:30Z",
+      "valid_end": "2024-02-28T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240227_1630.html",
+      "summary": "Severe thunderstorms, associated with large hail, damaging gusts, and tornadoes, some of which may be significant, will be possible from late this afternoon into the overnight, across portions of the Ohio Valley and southern Great Lakes.",
+      "sections": [
+        {
+          "title": "OH Valley",
+          "text": "A fast-moving southern-stream shortwave trough over the central Plains will track eastward today and begin affecting parts of MO by late afternoon or early evening. Most 12z guidance suggests that at least isolated thunderstorm development will begin around/after dusk as the large-scale forcing overspreads the northern extent of moist/unstable air mass from southwest MO into southern IL. These storms will intensify and track eastward overnight roughly along the OH river, moving into parts of OH/WV/PA by early morning Wednesday. Initial storms may be discrete, with sufficient vertical shear for supercells structures capable of all severe hazards. As the night progresses, activity will likely evolve into fast-moving bowing structures with an enhanced risk of damaging wind gusts and a few tornadoes. A strong tornado or two cannot be ruled out. Have added an ENH risk area for this scenario overnight."
+        },
+        {
+          "title": "IL/WI",
+          "text": "A compact surface low is forecast to deepen across eastern IA this afternoon, with a narrow warm sector pulling northward into much of northern IL. Strong forcing near the low and along the associated warm front will lead to intense thunderstorms across portions of northern IL after 22z. Forecast soundings show steep low and mid level lapse rates and sufficient CAPE, along with strong low and deep layer shear profiles. This will be conducive to supercell structures capable of very large hail and damaging winds. There remains uncertainty whether these storms will be in the warm-sector, or will be undercut by nearby cold air. Have upgraded a small part of this area to ENH risk for hail, but there is also concern for tornadoes if the activity remains surface-based. ..Hart/Bentley.. 02/27/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-02-27",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-02-27T20:00Z",
+      "valid_end": "2024-02-28T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240227_2000.html",
+      "summary": "Severe thunderstorms, associated with large hail, damaging gusts, and tornadoes, some of which may be significant, will be possible from late this afternoon into the overnight, across portions of northeast Illinois and northwest Indiana as well as the Lower and Middle Ohio Valley.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "...Northern IL/Southern WI This Evening... Recent surface analysis places a low near the IA/MO/IL border intersection. A dryline arcs southeast from this low to near STL and then back southwest into north-central AR. Dewpoints behind this dryline are in the 40s, while dewpoints across much of IL are in the upper 50s/low 60s. A warm front also arcs northeastward from this low to just north of the ORD, then eastward across southern Lake Michigan, and southeastward across northern IN into far west-central OH. General expectation outlined in the previous discussion remains valid, with convective initiation anticipated near this low, with the resulting storms then tracking northeastward in the vicinity of the warm front. It remains uncertain whether or not these storms will be on the warm side of the boundary. Given the kinematic fields, any surface-based storms would likely be supercellular and capable of all severe hazards, including tornadoes. Recent guidance include the 18Z and 19Z WoFS as well as the 12Z MPAS runs all suggest an increasing likelihood for surface-based, warm sector storms. Given these trends, expanded the Enhanced southeastward to include more of northeast IL and fa"
+        },
+        {
+          "title": "OH Valley This Evening and Overnight",
+          "text": "Overall expectation outlined in the previous outlook remains unchanged for tonight across the OH Valley. As the night progresses, activity will likely evolve into fast-moving bowing structures with an enhanced risk of damaging wind gusts and a few tornadoes. Given the strengthening low-level flow, destructive wind gusts around 75 mph are possible, with a strong tornado or two possible as well. ..Mosier.. 02/27/2024 .PREV DISCUSSION... /ISSUED 1026 AM CST Tue Feb 27 2024/"
+        },
+        {
+          "title": "OH Valley",
+          "text": "A fast-moving southern-stream shortwave trough over the central Plains will track eastward today and begin affecting parts of MO by late afternoon or early evening. Most 12z guidance suggests that at least isolated thunderstorm development will begin around/after dusk as the large-scale forcing overspreads the northern extent of moist/unstable air mass from southwest MO into southern IL. These storms will intensify and track eastward overnight roughly along the OH river, moving into parts of OH/WV/PA by early morning Wednesday. Initial storms may be discrete, with sufficient vertical shear for supercells structures capable of all severe hazards. As the night progresses, activity will likely evolve into fast-moving bowing structures with an enhanced risk of damaging wind gusts and a few tornadoes. A strong tornado or two cannot be ruled out. Have added an ENH risk area for this scenario overnight."
+        },
+        {
+          "title": "IL/WI",
+          "text": "A compact surface low is forecast to deepen across eastern IA this afternoon, with a narrow warm sector pulling northward into much of northern IL. Strong forcing near the low and along the associated warm front will lead to intense thunderstorms across portions of northern IL after 22z. Forecast soundings show steep low and mid level lapse rates and sufficient CAPE, along with strong low and deep layer shear profiles. This will be conducive to supercell structures capable of very large hail and damaging winds. There remains uncertainty whether these storms will be in the warm-sector, or will be undercut by nearby cold air. Have upgraded a small part of this area to ENH risk for hail, but there is also concern for tornadoes if the activity remains surface-based."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-02-28",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-02-28T01:00Z",
+      "valid_end": "2024-02-28T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240228_0100.html",
+      "summary": "Severe thunderstorms producing tornadoes, damaging hail and wind remain likely over parts of northern Illinois this evening, and through tonight into parts of the Ohio Valley.",
+      "sections": [
+        {
+          "title": "Northern Illinois and Vicinity",
+          "text": "Supercells, some tornadic, have developed near the surface low just ahead of the cold front over northern IL, and along the east-west boundary which separates the greater theta-e to the south. Very steep lapse rates aloft exist across the warm sector, where mid to upper 50s F dewpoints are contributing to MUCAPE to 2000 J/kg. As the surface low continues to deepen, the low-level jet will strengthen across much of eastern IL, IN, and points south, enhancing shear. As such, hodograph enlargement should support a continued, and possibly increasing, significant-tornado threat across parts of northern IL and eventually northwest IN later this evening. The tornado threat may extend into southern Lower MI as well, coincident with the surface low. For more information, see mesoscale discussion 166."
+        },
+        {
+          "title": "Southern IL and IN across much of the OH Valley Tonight",
+          "text": "A dryline currently extends from central IL southwestward into northern AR, within the low-level lapse rate plume. Although farther south from the surface low, midlevel temperatures remain quite cool, resulting in steep lapse rates. In addition, boundary-layer theta-e remains robust with lower 60 F dewpoints, contributing to around 1000 J/kg MLCAPE. Several more hours of potential boundary-layer moistening will occur ahead of the cold front from AR toward the lower OH Valley tonight, as 850 mb winds increase to 60 kt. Although low-level winds may veer, forecast storm motions are expected to be over 50 kt which may allow for storms to remain just on or even ahead of the cold front. And, effective SRH is forecast to remain over 300 m2/s2. The end result will be storms focused along the front, possibly with linear segments or broken with discrete supercells, with tornado, damaging-wind, and hail potential. Strong-tornado potential will exist with any activity remaining along or just ahead of the cold front. For more information in the near term, see mesoscale discussion 165. ..Jewell.. 02/28/2024"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2024,
+      "number": 163,
+      "issue_utc": "2024-02-27T20:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0163.html",
+      "summary": "A few supercells are expected to develop over parts of northwest Illinois and then spread east-northeast across northern Illinois into far northwest Indiana through early evening. Very large hail to around baseball size will be the primary initial threat. A conditional strong tornado scenario may develop later over northeast Illinois into far northwest Indiana.",
+      "discussion": "20Z subjective surface analysis placed a 990-mb cyclone near the Quad Cities along a pronounced cold front sweeping southeast across the Upper MS to Lower MO Valleys. A bent-back plume of relatively richer surface dew points from the mid to upper 50s lies immediately ahead of this wave, along the northwest periphery of the broader warm-moist sector across the OH Valley and lower Midwest. Within the exit region of an intense mid-level jet shifting east from the southern Great Plains to the Lower OH Valley, continued ascent should yield sufficient weakening of MLCIN during the 22-23Z time frame. Initial storm development is most likely in the immediate vicinity of the surface low. The environment will be favorable for discrete supercells forming despite initially modest low-level shear. Amid very steep mid-level lapse rates, large to very large hail production is expected, with peak intensity around 2 to 3.5 inches possible. The primary uncertainty is with how convection evolves downstream given the relatively narrow warm/moist sector where storms develop. There should be a tendency for convection to spread into a drier boundary layer towards the WI border. It is plausible, within a scenario highlighted by various 12Z MPAS members and occasionally by later WoFS/RRFS/HRRR runs, that a longer-tracked supercell or two may develop into the broader warm-moist sector across northeast IL into far northwest IN. Low-level shear within this region will be increasing towards and after dusk, which will conditionally support potential for a strong tornado into the EF2-EF3 range (peak estimated gusts around 120 to 150 mph)."
+    },
+    {
+      "year": 2024,
+      "number": 165,
+      "issue_utc": "2024-02-27T23:47Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0165.html",
+      "summary": "Isolated storm development along the dryline is possible early this evening. Experimental WOFS guidance and environmental analysis suggest conditional severe potential if supercells are able to develop.",
+      "discussion": "As of 2230 UTC, regional satellite data showed towering altocumulus deepening across parts of central IL. Located along the dryline ahead of a subtle shortwave trough, multiple attempts at CI appear to be underway. The environment downstream of the dryline is conditionally favorable for deep convection, with dewpoints in the upper 50s to low 60s F and steep mid-level lapse rates supporting 1500-2000 J/kg of MLCAPE. Considerable MLCINH (-100 J/kg from mesoanalysis) remains in place, but if deep convection can initiate, 50+ kt of effective shear would favor storm organization with a supercellular mode. Hi-res and experimental forecast guidance has shown isolated storm development early this evening over several prior runs. Should this occur, the environment over eastern IL and western IN is favorable for supercells capable of all severe hazards. ESRH of 300-400 m2/s2, observed from area VWPs, may also support a risk for a strong tornado. While the risk remains very uncertain, given dry air entertainment and the loss of diurnal heating along the dryline, observational trends are being monitored for a possible weather watch. Storm development is much more likely later this evening as the cold front and stronger forcing for ascent approach from the west after 03z."
+    },
+    {
+      "year": 2024,
+      "number": 166,
+      "issue_utc": "2024-02-27T23:59Z",
+      "topic": "Tornado Watch 25",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0166.html",
+      "summary": "Severe thunderstorm clusters, including supercells with the possibility for tornadoes, will spread/develop east toward southern Lake MI over the next several hours.",
+      "discussion": "Secondary surface low appears to be evolving along the front over southeast IA/northwest IL. A multifaceted corridor of low-level convergence arcs east from this feature across northern IL. Over the last few hours significant boundary-layer moistening has advanced as far north as Rockford where surface dew points are now in the lower 50s. Over the next few hours, low-level flow may back slightly downstream, in advance of the low. This should aid convergence along the warm front currently draped from Henry-La Salle-Iroquois County IL. Several maturing thunderstorm clusters are currently located from south of Davenport IA to DeKalb IL. Significant rotation is now observed with several supercells embedded along this corridor. Given the steep lapse rates observed, very large hail can be expected with this activity. Tornado threat is also increasing as environmental parameters become more favorable along the warm front. This activity should spread toward the southern portions of Lake MI, including the metro Chicago area. ..Darrow.. 02/27/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 167,
+      "issue_utc": "2024-02-28T01:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0167.html",
+      "summary": "The severe risk is expected to increase this evening and overnight upper-level ascent and a fast-moving cold front intersect with the retreating dryline. Bowing segments and supercells will be capable of all severe hazards as they spread east along the OH Valley. A new Tornado Watch will likely be needed in the next 1-2 hours.",
+      "discussion": "Over the last hour, surface obs near STL showed the dryline retreating westward with a surge in dewpoints to the low 60s F. Evening water-vapor and IR imagery showed large-scale ascent beginning to impinge on the warm sector across portions of the mid MS and lower OH Valleys. Weak convection in the well-mixed warm sector to the west has steadily deepened, and should move into more robust surface moisture this evening. Additional convection also appears likely to develop along the cold front surging southeastward across eastern MO later tonight. Low 60s F surface dewpoints and ~1000 J/kg of MLCAPE will support strong updrafts within the warm sector. Very favorable deep-layer shear (50-60 kt) will support a mix of supercells and short bowing segments. Damaging gusts and hail appear likely, given the strong vertical shear and favorable buoyancy. Rapidly increasing low-level shear (evident on area VADs) may support a risk for tornadoes, especially with more sustained supercells. A significant tornado also cannot be ruled out, given very large effective helicity of 400-600 m2/s2 and a 50-60 kt 850 mb jet. Confidence remains low on the exact timing of convective initiation, given that some convective inhibition remains. As ascent begins to deepen, most hi-res guidance, and extrapolation of weaker convection farther west, suggests new storms should develop in the next 1-2 hours and quickly become severe. With all severe hazards possible, a new Tornado Watch is likely needed in the next couple of hours for parts of southern IL/ IN into northern KY and southwestern OH."
+    },
+    {
+      "year": 2024,
+      "number": 168,
+      "issue_utc": "2024-02-28T02:28Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0168.html",
+      "summary": "Severe threat will increase across lower Michigan and northern Indiana late this evening. Wind/hail are the primary risks. Severe thunderstorm watch will likely be issued to account for these risks.",
+      "discussion": "High-level diffluent flow is overspreading the central Great Lakes this evening ahead of progressive MS Valley short-wave trough. Boundary-layer moisture has increased substantially across lower MI where mid 50s surface dew points are currently observed. While surface-based instability is currently capped, sustained ascent/moistening aloft will contribute to substantial, weakly inhibited buoyancy by mid evening. Forecast soundings across this region suggest parcels lifted near 850mb will yield MUCAPE in excess of 1500 J/kg. Convection that developed over northern IL has grown upscale and is now a mature MCS as it spreads across the western portion of southern Lake MI. Additionally, a well-defined MCV has evolved near the lakeshore over eastern Lake County. While it's not entirely clear how this complex of storms will be affected as it spreads east, sustained low-level warm advection and steep lapse rates suggest this activity will likely have longevity as it spreads across lake MI into lower MI. While the ongoing storm mode and forecast soundings suggest hail/wind will be the primary risks, a brief tornado can not be ruled out."
+    },
+    {
+      "year": 2024,
+      "number": 169,
+      "issue_utc": "2024-02-28T04:44Z",
+      "topic": "Severe Thunderstorm Watch 27",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0169.html",
+      "summary": "Hail and wind threat continues with convection across southern lower Michigan.",
+      "discussion": "Well-organized MCS that progressed across southern Lake MI has advanced into lower MI, sustained in part by low-level warm advection. MCV has lifted north-northeast to a position about 20 mi west-southwest of MKG. While the overall complex is not quite as organized, one supercell in particular over eastern Van Buren County MI likely remains severe as it tracks east toward Kalamazoo County. This southern storm is most likely slightly elevated in nature, and forecast soundings suggest the most buoyant parcels are near 1 km AGL. Hail/wind remain the primary risks within this warm-advection activity. Severe threat will gradually spread northeast across the remainder of ww26 over the next several hours. ..Darrow.. 02/28/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 170,
+      "issue_utc": "2024-02-28T05:50Z",
+      "topic": "Tornado Watch 27",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0170.html",
+      "summary": "Frontal, and prefrontal convection is expected to gradually increase over the next few hours.",
+      "discussion": "Surface front is surging southeast across IL and currently arcs from near DNV-SAR. Over the last hour or so, convection has gradually increased along/ahead of the immediate wind shift, especially west-southwest of HUF to Effingham. Lightning is increasing with this activity, and trailing midlevel convection across central IL suggests large-scale ascent is overspreading this region. Given these trends, convection may continue to increase near the front as it surges toward southwest IN. ..Darrow.. 02/28/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 171,
+      "issue_utc": "2024-02-28T07:13Z",
+      "topic": "Severe Thunderstorm Watch 26",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0171.html",
+      "summary": "A severe threat is expected to continue across parts of southeast Lower Michigan over the next 1 to 2 hours. Additional weather watch issuance will not be needed, but an extension in area could be done if necessary.",
+      "discussion": "The latest high-resolution radar from Detroit shows a disjointed line of strong to severe storms ongoing 30 to 40 statute miles to the north of Detroit. The line of storms is being supported by a subtle shortwave trough, and an associated vorticity max, located over Lower Michigan evident on water vapor imagery. RAP analysis data suggests the MLCAPE is around 500 J/kg, and WSR-88D VWPs have 45 to 50 knots of 0-6 km shear. This should support isolated supercells capable of producing wind damage and isolated large hail. 0-3 km storm-relative helicity around 225 m2/s2 may also be sufficient for a brief tornado as well."
+    },
+    {
+      "year": 2024,
+      "number": 172,
+      "issue_utc": "2024-02-28T08:01Z",
+      "topic": "Tornado Watch 27",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0172.html",
+      "summary": "A tornado threat is expected to continue across WW 27 for a few more hours. Isolated large hail and wind damage will also be possible.",
+      "discussion": "The latest high-resolution radar imagery shows a couple strong to severe short line segments over southern Indiana. This convection is located along a corridor of instability, where the RAP is estimating MLCAPE in the 500 to 1000 J/kg range. Water vapor imagery and 500 mb analysis from the RAP have a shortwave trough and fast moving vorticity max located in southwest Indiana. This feature will continue to enhance lift and provide support for continued strong thunderstorm development early this morning. The latest WSR-88D VWP from Indianapolis has 0-6 km shear near 55 knots suggesting that supercells with large hail and wind damage will be possible. In addition, a 60 to 70 knot jet is analyzed at 850 mb centered over far northern Kentucky which will continue to provide strong low-level shear sufficient for an isolated tornado threat. Furthermore, an increase in the severe threat could occur over the next few hours in northern Kentucky as cells increase in coverage within and just to the south of WW 27. ..Broyles.. 02/28/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 173,
+      "issue_utc": "2024-02-28T09:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0173.html",
+      "summary": "An isolated severe threat will continue for several hours across parts of the Ohio Valley this morning. Wind damage, hail and perhaps a brief tornado or two will be possible. A new weather watch will need to be issued soon across the region.",
+      "discussion": "The latest high-resolution radar imagery from Wilmington, Ohio shows a line of organizing storms located from southwest Ohio into southwest Indiana. This line is being supported by lift associated with a cold front, and shortwave trough evident on water vapor imagery. The line will continue to progress east-southeastward over the next several hours, with convection moving eastward across the remainder of southern Ohio. Weak instability, along with about 80 kts of 0-6 km shear, evident on the Wilmington, Ohio WSR-88D VWP, will support an isolated severe threat. A potential for wind damage and hail will exist with the stronger cells embedded in the line. A brief tornado or two will be possible, mainly with rotating cells within or ahead of the stronger parts of the line."
+    },
+    {
+      "year": 2024,
+      "number": 174,
+      "issue_utc": "2024-02-28T11:08Z",
+      "topic": "Tornado Watch 28",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md0174.html",
+      "summary": "A tornado threat is expected to continue over the next few hours across parts of central and eastern Kentucky northward into southeast Ohio. Weather watch issuance or a watch extension in area may need to be considered to the east of the current watches.",
+      "discussion": "The latest high-resolution radar imagery from Wilmington, Ohio has a more extensive line segment in central and southern Ohio, containing multiple bowing structures. A tornado was recently reported with a bowing segment to the west of Columbus, Ohio. This part of the northern line is now located to the east of Columbus, and is expected to continue to have a tornado threat over the next hour or two. The severe threat, including a potential for hail and wind damage, may continue after daybreak. Further south in parts of central and eastern Kentucky, high-resolution radar shows a line of strong to severe storms from near Vanceburg, Kentucky southwestward to near Lexington. Strong to severe short bowing structures are evident within the line, with some supercells also present. This line is expected to continue to hold together as it moves eastward across the remainder of eastern Kentucky this morning. The strong low-level shear will likely support an isolated tornado threat. Hail and isolated damaging winds will also be possible. ..Broyles.. 02/28/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

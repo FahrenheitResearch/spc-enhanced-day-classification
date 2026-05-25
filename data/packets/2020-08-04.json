@@ -1,0 +1,154 @@
+{
+  "convective_day": "2020-08-04",
+  "valid_start": "2020-08-04T12:00Z",
+  "valid_end": "2020-08-05T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-08-04",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-08-04T13:00Z",
+      "valid_end": "2020-08-05T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200804_1300.html",
+      "summary": "Tornadoes will be most likely through this afternoon from Delaware into southern New England, with a lingering threat for a couple tornadoes across northern New England this evening. Scattered large hail and severe wind gusts will be possible across the central High Plains from mid-afternoon to mid-evening.",
+      "sections": [
+        {
+          "title": "DE to New England",
+          "text": "As T.C. Isaias rapidly shifts northeastward today, an accompanying very moist low-level environment will permit maintenance of weak buoyancy across the coastal plain of the Northeast into southern New England. Clusters and cells of shallow convection to the north and east of the circulation center will continue to pose a risk for tornadoes. The greatest risk will be where mid 70s surface dew points can become coincident with immense low-level hodograph curvature from DE to the NYC tri-state area. Most guidance is consistent in suggesting the very rich surface moisture will become pinched off across parts of southern New England later today. This suggests the overall tornado risk should decrease this evening as it spreads into northern New England."
+        },
+        {
+          "title": "Central High to Northern Great Plains",
+          "text": "A broad plume of 50s surface dew points is prevalent ahead of a lee surface trough, a low-amplitude shortwave impulse near the MT/SK border, and an MCV near the SD/MT border. The greatest buoyancy this afternoon should develop along the central High Plains portion of the lee trough amid very steep low to mid-level lapse rates, with relatively weaker mid-level lapse rates in the Dakotas. Scattered thunderstorms should initiate near the Front Range during the mid-afternoon and spread east within moderate mid-level west-northwesterlies. The setup should yield supercells initially producing large hail, some of which may be significant, from eastern CO into the NE Panhandle. Conglomerating cold pools should tend to foster multiple clusters as activity spreads towards the KS/CO border longitude. A dearth of surface-based instability with eastern extent in KS/OK suggests waning severe potential during the evening even though an elevated MCS should persist to the southeast. Farther north, scattered thunderstorms are expected as well, mainly across western to central ND in closer proximity to ascent tied to the approaching shortwave trough. Weak mid-level lapse rates should be a limiting fa"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-08-04",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-08-04T16:30Z",
+      "valid_end": "2020-08-05T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200804_1630.html",
+      "summary": "A risk for tornadoes will continue in association with Isaias, across southern New England by late this afternoon, and perhaps through northern New England this evening. Otherwise, scattered thunderstorms across parts of northern and central Great Plains may pose a risk for severe hail and wind late this afternoon and evening.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "Large-scale mid-level troughing remains amplified across much of the Mississippi Valley into the Appalachians, but as a significant embedded short wave impulse pivots across and northeast of the Great Lakes region, some loss in amplitude appears likely to commence later today and tonight. This perturbation is preceded by Isaias, now accelerating north-northeastward across the northern Mid Atlantic coast, and likely to gradually become absorbed within the larger-scale cyclonic flow developing across the St. Lawrence Valley by late tonight. Upstream, some suppression of mid-level ridging appears probable across the Great Plains, perhaps more notably across the northern portions, than central and southern, associated with a more substantive digging short wave impulse now near the international border. Given the persistence of the eastern troughing, seasonably high moisture content air is now largely confined to near and east of the Atlantic Seaboard, with steep lower/mid tropospheric lapse rates largely confined to the Intermountain West, Rockies and adjacent portions of the Great Plains."
+        },
+        {
+          "title": "Northeast",
+          "text": "Clockwise-curved low-level hodographs remain maximized near the core of the strongest 850 mb flow curving to the east and north of Isaias, along which there has been a persistent arcing band of convection, with embedded low-level mesocyclones. This band appears likely to pivot north of Long Island through much of southern New England by late afternoon, accompanied by a continuing risk of tornadoes, as lower/mid 70s surface dew points advect ahead of it. Models suggest that this low-level moist inflow will eventually become cut off, which may lead to decreasing potential for tornadic development across northern New England this evening."
+        },
+        {
+          "title": "Front Range into central Great Plains",
+          "text": "Although late afternoon mid-level height falls may be more subtle than farther north, models suggest that mixed-layer CAPE will become maximized on the order of 2000 J/kg, to the lee of the Front Range by late this afternoon. Aided by orographic forcing and perhaps lift associated with a subtle mid-level impulse, thunderstorms are expected to initiate off the Front Range, then advect off the higher terrain within modest northwesterly mid-level flow. Aided by strong shear, isolated supercells and organizing storm clusters are possible, which may pose a risk for severe hail and strong wind gusts into this evening. ..Kerr/Cook.. 08/04/2020"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 1394,
+      "issue_utc": "2020-08-04T12:59Z",
+      "topic": "Tornado Watch 416",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1394.html",
+      "summary": "The tornado threat is expected to increase into southern New Jersey, northern Delaware, and far eastern Pennsylvania over the next 1-3 hours.",
+      "discussion": "An impressive, long-lived arc of supercells just north/east of the tropical cyclone track continues to rapidly shift north. Supercells with sporadic couplets/tornadoes currently stretch from eastern MD/northern DE southeastward, with cells now approaching coastal southern NJ. The DIX VWP has shown a substantial increase in low-level shear over the past couple hours, with 0-1 km SRH quickly approaching 300 m2/s2. Shear values will likely max-out just before the arcing line of storms arrives later this morning. 12Z soundings also show impressive low-level CAPE, primarily concentrated below 500 mb. Although warming aloft will occur with the approach of the tropical cyclone, areas that experience mid-70 F dewpoints will maintain a tornado risk. ..Jewell.. 08/04/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1395,
+      "issue_utc": "2020-08-04T15:13Z",
+      "topic": "Tornado Watch 416",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1395.html",
+      "summary": "Threat for brief tornadoes currently continues across much of NJ, with the threat then transitioning into southeast NY...NYC...and western Long Island over the next two hours.",
+      "discussion": "Latest surface observations and radar/satellite imagery place the center of Tropical Storm Isaias over the central DE/MD border. Over the past several hours, rain band arcing from about 80 miles northeast of the center to about 130 miles due east of the center has been responsible for numerous low-topped supercells, a few of which maintained enough strength once ashore to produce tornadoes. The deeper cells within the band offshore do not currently appear to have the same structure or intensity as these earlier storms. However, the environment remains strongly sheared, particularly at low-levels. Recent KDIX VAD data has 700-800 m2/s2 of 0-1 km SRH and weather spotters recently confirmed a tornado in Ocean County NJ. Best estimates of the motion of the band is northward/north-northeastward at 35-40 kt. This motion brings the band through much of central NJ by 1600Z and into central Long Island by 1700Z. Storm motion of storms within the band is north-northwestward around 40 to 50 kt, with right-moving supercells moving slightly slower and more northerly. ..Mosier.. 08/04/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1396,
+      "issue_utc": "2020-08-04T15:34Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1396.html",
+      "summary": "Conditions will become increasingly supportive of tornadoes over the next few hours. A Tornado Watch will likely be issued within the next hour.",
+      "discussion": "Wind fields are expected to strengthen significantly across the area over the next few hours as Tropical Storm Isaias continues northward into southern New England. A very moist and modestly buoyant air mass is already in place, and a few stronger storms have been noted over northern portions of the region in the past hour. These storms were likely a result of the strong warm-air advection in place, and were elevated above the boundary-layer as a result. Air mass along the coastal areas is already supportive of surface-based storms, with more area expected to become supportive as this higher theta-e air moves further inland. Thus far, most of the deep convective has remained within a band arc 80 to 100 miles from the center. This band is quickly moving northward, and will likely reach portions of southern New England by 17Z. Additionally, any development ahead of this band will be in a very favorable kinematic environment. Given this potential, a tornado watch will likely be issued within the next hour for much of southern New England."
+    },
+    {
+      "year": 2020,
+      "number": 1397,
+      "issue_utc": "2020-08-04T18:52Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1397.html",
+      "summary": "Convection will increase in coverage and intensity across much of the discussion area this afternoon with an attendant severe hail/wind threat. Convective trends are being monitored for a possible WW issuance.",
+      "discussion": "Latest satellite imagery indicates a gradual increase in towering cumulus over higher terrain, with a few cells beginning to show radar echoes and lightning over southeastern Wyoming and northeastern New Mexico. The cells are in an environment characterized by steep lapse rates and 50s F dewpoints, which is supporting 2000+ J/kg MLCAPE along and east of the Front Range. Additionally, low-level upslope flow - most focused near/northeast of a surface flow near COS and weak mid-level shortwaves near the region were providing lift for initiation along western portions of the discussion area. Over time, storms are expected to mature into a mix of clusters, cells, and linear segments owing to northwesterly flow aloft and 40-45 knots of deep shear across the region. Veering of flow with height is most pronounced across eastern/northeastern Colorado northeast of the surface low and may also provide enough ambient vorticity for storms to rotate. Large hail (perhaps significant in north-central through eastern Colorado) and damaging wind gusts are the primary threats with this activity, with the only lingering concern for issuing a WW being the extent of convective coverage and attendant severe risk. A landspout tornado or two cannot be completely ruled out - especially early in the convective life cycle across northeastern Colorado. Convective trends are being monitored for a possible WW issuance by/before 20-21Z."
+    },
+    {
+      "year": 2020,
+      "number": 1398,
+      "issue_utc": "2020-08-04T19:05Z",
+      "topic": "Tornado Watch 416",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1398.html",
+      "summary": "Threat for tornadoes will continue across southern New England for the next several hours.",
+      "discussion": "Latest surface observations and satellite/radar imagery places the center of Tropical Storm Isaias over northern NJ (about 20-30 miles west-northwest of EWR). Several storms within a rain band arcing from about 110 miles northeast of the center to 150 east of the center have shown persistently deep updrafts and rotation while approaching central/eastern Long Island. However, interaction with land has caused these low-topped cells to lose much of their low-level rotation once onshore. Large, looping low-level hodographs will remain in place over southern New England as the strong low to mid-level winds associated with Isaias persist across the region. Warm temperatures aloft will temper instability area wide, with the highest SBCAPE and MLCAPE values remaining over areas where the dewpoints are at or above 70 deg F. Given the more favorable low-level thermodynamics, areas across RI, eastern CT, and eastern MA appear to have the greatest tornado threat. The more hostile/stable environment across eastern NY, southern VT, and southern NH suggests a somewhat lower tornado threat across these areas for the next few hours. Tornado Watch 416 will be allowed to expire at 20Z. ..Mosier.. 08/04/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1399,
+      "issue_utc": "2020-08-04T21:44Z",
+      "topic": "Tornado Watch 417",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1399.html",
+      "summary": "An isolated tornado threat may develop across parts of New England to the north of Tornado Watch 417 over the next few hours. The threat is expected to be too marginal for weather watch issuance.",
+      "discussion": "Tropical Storm Isaias is currently located in southeast New York. A distinct band of heavy rainfall is ongoing in the northeast quadrant of Isaias from southern Vermont extending southeastward into eastern Massachusetts. This band consists of several discrete cells that are moving quickly northward across the northern part of WW 417. This convection will move into southern Maine and across Vermont and New Hampshire. The WSR-88D VWP at Gray, Maine shows easterly surface winds with gradually veering winds to the south-southeast at 3 km above ground. This combined with speed shear in the low-levels is creating 0-3 km storm relative helicities near 500 m2/s2. However, further to the north, the airmass is less unstable and surface dewpoints are only in the 60s F. Therefore, any tornado threat with the stronger rotating cells within the line should remain marginal."
+    },
+    {
+      "year": 2020,
+      "number": 1400,
+      "issue_utc": "2020-08-04T22:16Z",
+      "topic": "Severe Thunderstorm Watch 418",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1400.html",
+      "summary": "Large to very large hail is possible with a cluster of splitting supercells east of Fort Collins, CO. This activity will pose the greatest risk for hail this evening as it moves SSE/SE this evening. Increasing convective coverage is expected in southeastern CO where storms could grow upscale and move into the TX/OK Panhandles later this evening.",
+      "discussion": "The most robust convection in WW 418 exists within northeastern Colorado, just east of Fort Collins. There, a cluster of intense supercell storms have exhibited potential for large/very large hail per regional radar imagery with a measured 2 inch hailstone reports near Carr, CO. While weak capping does remain to the east, these mature cells are expected to continue for the next few hours to the southeast. Storm motions will be generally to the SSE/SE, but, as has already occurred, a few left-moving storms may move more easterly. Large/very large hail will remain a concern with these storms along along with damaging wind gusts. In time, this activity may grow more upscale where wind gusts would become more of a concern. Farther south, where deep-layer shear is weaker, storms have thus far not intensified. However, with convective coverage beginning to increase, 1500-2000 J/kg of MLCAPE should fuel potential for large hail and damaging wind gusts. High-resolution guidance continues to indicated this area is favored for upscale growth into southeastward propagating linear segment. Given the deep boundary layer and multicellular mode, this solution is plausible. How far to the southeast the severe threat will exist this evening is still somewhat in question, but this area will need to be monitored for possible local WW extensions. ..Wendt.. 08/04/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1401,
+      "issue_utc": "2020-08-04T23:05Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1401.html",
+      "summary": "Isolated large hail and locally damaging wind gusts possible late this afternoon and early evening. Activity should weaken and dissipate after sunset. No WW is expected.",
+      "discussion": "Scattered storms have developed along a surface boundary likely with some influence of an MCV in central South Dakota. Deep-layer shear is roughly perpendicular to the boundary and around 40 kts. Despite modest MLCAPE near 1000-1500 J/kg, a few storms may intensify and produce large hail and locally damaging wind gusts. With capping to the south, it is uncertain how far these storms will progress. If storms can cluster and grow upscale, a marginally greater wind threat would develop. Again, any cluster would likely propagate along the boundary where MLCIN would be minimized. With limited upper-level support, this activity will likely diminish after sunset. No WW is expected."
+    },
+    {
+      "year": 2020,
+      "number": 1402,
+      "issue_utc": "2020-08-05T00:18Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1402.html",
+      "summary": "A few storms will be capable of large hail this evening as well as damaging wind gusts. Some upscale growth and organization along an effective boundary in central North Dakota is possible, which would mean a marginally increased wind gust threat. Limited MLCAPE and and organizing low-level jet decrease confidence in the need for a WW.",
+      "discussion": "A mid-level shortwave continues to approach northwestern North Dakota this evening. Convection has begun to move in from Canada with further development occurring along the cold front and along an effective warm front to the east. Modifying the 00Z observed BIS sounding suggests 500-1000 J/kg MLCAPE ahead of this activity with around 30 kts of effective shear. With a mid-level lapse rate near 7 C/km, some large hail is possible with more intense/discrete storms. Given the upper-level forcing, this activity will likely last into the evening, perhaps 9-10 CDT, until encountering more stable conditions to the east. If storms can cluster and grow upscale, a small linear segment may progress southeast along the effective boundary, marginally increasing the wind gusts threat. Lack of a more buoyant airmass and a weak/negligible low-level jet this evening lend to uncertainty with how far southeast and how severe the activity will be. At present, no WW is anticipated."
+    },
+    {
+      "year": 2020,
+      "number": 1403,
+      "issue_utc": "2020-08-05T02:30Z",
+      "topic": "Severe Thunderstorm Watch 418",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1403.html",
+      "summary": "Severe threat becoming more localized and may persist for another hour or two with remaining organized storms. Majority of WW 418 will be allowed to expire as scheduled.",
+      "discussion": "A couple of organized storms remain within WW 418. The strongest storm is now moving into Crowley County, CO which has recently had measured 2.5 inch hail reported. Overall, with increasing inhibition and lack of organized cold pool development, the severe threat is becoming more localized. A strong/severe storm may be able to linger for another hour or two. Other than the possibility of local extensions to the watch, the remainder of the WW will be allowed to expire as scheduled. ..Wendt.. 08/05/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1404,
+      "issue_utc": "2020-08-05T06:43Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1404.html",
+      "summary": "Storms will increase in coverage over much of Oklahoma, and isolated cells may produce marginally severe hail or wind. Coverage is not expected to warrant a watch.",
+      "discussion": "Isolated cells with periodic hail have developed over northwest OK, ahead of a larger areal increase in storms moving southeastward out of KS. These storms are mainly rooted between 850-700 mb, with elevated CAPE values around 1000 J/kg. Modest northwest flow aloft atop west/southwest winds in the lower levels is resulting in marginally favorable shear profiles for sustained elevated storms. While the boundary-layer is rather stable, storms are expected to increase in coverage through the night via warm advection aloft, and in association with the weak disturbance aloft. Sufficiently steep midlevel lapse rates will favor marginal hail, but the hail threat may decrease with time due to storm interference. Otherwise, localized strong wind gusts cannot be ruled out as aggregate outflow increases."
+    }
+  ]
+}

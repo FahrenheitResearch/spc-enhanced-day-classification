@@ -1,0 +1,218 @@
+{
+  "convective_day": "2023-07-12",
+  "valid_start": "2023-07-12T12:00Z",
+  "valid_end": "2023-07-13T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 4
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2023-07-12",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-12T13:00Z",
+      "valid_end": "2023-07-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230712_1300.html",
+      "summary": "Severe thunderstorms will be possible across much of Missouri, Illinois, and adjacent portions of the central Plains and Midwest on Wednesday. Damaging winds and large hail should be the main threats, with some potential for significant (75+ mph) severe winds across parts of Iowa, Missouri, Illinois, and vicinity.",
+      "sections": [
+        {
+          "title": "IA/MO/IL early today",
+          "text": "A mature, fast-moving bow echo complex is racing across western IA this morning at 50-60 knots. This system has resulted in numerous reports of wind damage across eastern NE, and is likely to maintain organization for a few more hours as it tracks east-southeastward across southern IA, northern MO, and into central IL. The bowing complex should focus along and south of a surface boundary that extends across this same region. CAM solutions differ on longevity of the system, but the potential exists for a rather long-lived wind damage event. Therefore have added a small ENH risk corridor for this system."
+        },
+        {
+          "title": "KS/MO/OK this evening",
+          "text": "The aforementioned severe MCS will lay down a boundary somewhere across central MO into central KS. Strong heating and ample moisture to the south of this boundary will yield MLCAPE values of 3000-4000 J/kg. Large scale forcing will be weak, but the potential exists for widely scattered thunderstorms along the boundary. Forecast soundings show sufficient winds aloft and steep lapse rates to pose a risk of large hail and damaging wind gusts with any storms that can form. A few CAM solutions suggest activity will grow upscale and track southeastward into northeast OK overnight."
+        },
+        {
+          "title": "IN/OH into New England",
+          "text": "A surface quasistationary front currently extends from northern IN into NY and New England. Visible satellite imagery shows mostly clear skies along the boundary, which should allow for substantial destabilization and scattered afternoon thunderstorm development. This corridor lies along the southern fringe of stronger westerly flow aloft, with 25-35 knots of deep-layer shear. This may be sufficient for a few strong storms later today capable of gusty/damaging winds. ..Hart/Leitman.. 07/12/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-07-12",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-12T16:30Z",
+      "valid_end": "2023-07-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230712_1630.html",
+      "summary": "Severe thunderstorms will be possible across much of Missouri, Illinois, and adjacent portions of the central Plains and Midwest on Wednesday. Damaging winds and large hail should be the main threats, with some potential for significant (75+ mph) severe winds across parts of Missouri, Kansas and vicinity.",
+      "sections": [
+        {
+          "title": "Northern IL/southern WI east to northwest OH/southern lower MI",
+          "text": "Current MCS continues a general weakening trend based on IR cloud tops, radar trends and recent reports. Air mass recovery in the wake of the morning convection currently appears plausible, aided by a modestly enhanced low-level jet later this afternoon and evening. Steepening mid-level lapse rates will contribute to moderate/pockets of strong MLCAPE this afternoon, and coupled with 40-50 kts of deep-layer shear would result in a favorable parameter space for supercell development by late afternoon/early evening with all severe hazards possible. Will introduce a small 5 percent tornado probability area across this region, where forecast sounding hodograph structure appears most favorable for low-level rotation/tornado potential east of a weak surface low."
+        },
+        {
+          "title": "KS/MO/OK this evening",
+          "text": "Redevelopment of severe storms appears probable late this afternoon/early evening in the vicinity of an outflow boundary that continues to slow its southward motion across northern portions of KS/MO. Strong/locally extreme MLCAPE is anticipated near/south of this boundary with substantial shear in the cloud-bearing layer. Storms that develop will likely initially possess supercell characteristics with severe hail (possibly significant) and wind, with eventual upscale growth into one or two MCSs capable of potentially significant severe gusts. The Enhanced Risk area has been reoriented based on expected outflow boundary location later this afternoon and a consensus of 12z CAM guidance/HREF ensemble max probabilities."
+        },
+        {
+          "title": "IN/OH into New England",
+          "text": "A surface quasistationary front currently extends from northern IN into NY and New England. Substantial heating is underway east of the front, which should allow for destabilization and scattered afternoon thunderstorm development. This area lies along the southern fringe of stronger west/southwesterly flow aloft, with 25-35 knots of deep-layer shear. This may be sufficient for a few strong storms later today capable of gusty/damaging winds. ..Bunting/Weinman.. 07/12/2023"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-07-12",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-12T20:00Z",
+      "valid_end": "2023-07-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230712_2000.html",
+      "summary": "Severe thunderstorms remain possible across much of Missouri, Illinois, and adjacent portions of the central Plains and Midwest this afternoon through tonight. A few tornadoes should occur this afternoon and evening across parts of northern Illinois into far northwestern Indiana, with a strong tornado possible. Otherwise, damaging winds and large hail should occur with intense thunderstorms that develop, with some potential for significant (75+ mph) severe winds and very large hail across parts of Missouri and Kansas.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "Primary change with this update was to introduce higher tornado probabilities in a narrow corridor across northern IL and far northwestern IN, including Chicago. Recent VWPs from KLOT show impressive low-level shear (0-1 km 35-40+ kt) and enlarged/curved low-level hodographs associated with a focused low-level jet. In the wake of a remnant MCS and lessening precipitation shield, it appears increasingly likely based on recent visible satellite imagery and surface observations that sufficient destabilization to support surface-based convection will occur across this region over the next few hours. Given the very favorable low-level and deep-layer shear available, concern has increased that any supercell which forms in this environment will be capable of producing a tornado. Some potential will exist for a strong tornado as effective SRH strengthens to around 250-350 m2/s2 along/near the developing warm front. The Slight Risk has also been expanded northward in southern Lower MI to account for a small bowing cluster which may develop. No changes have been made to the Enhanced Risk across parts of eastern KS into MO. 18Z sounding from TOP showed warm low/mid-level temperatures and a ca"
+        },
+        {
+          "title": "Northern IL/southern WI east to northwest OH/southern lower MI",
+          "text": "Current MCS continues a general weakening trend based on IR cloud tops, radar trends and recent reports. Air mass recovery in the wake of the morning convection currently appears plausible, aided by a modestly enhanced low-level jet later this afternoon and evening. Steepening mid-level lapse rates will contribute to moderate/pockets of strong MLCAPE this afternoon, and coupled with 40-50 kts of deep-layer shear would result in a favorable parameter space for supercell development by late afternoon/early evening with all severe hazards possible. Will introduce a small 5 percent tornado probability area across this region, where forecast sounding hodograph structure appears most favorable for low-level rotation/tornado potential east of a weak surface low."
+        },
+        {
+          "title": "KS/MO/OK this evening",
+          "text": "Redevelopment of severe storms appears probable late this afternoon/early evening in the vicinity of an outflow boundary that continues to slow its southward motion across northern portions of KS/MO. Strong/locally extreme MLCAPE is anticipated near/south of this boundary with substantial shear in the cloud-bearing layer. Storms that develop will likely initially possess supercell characteristics with severe hail (possibly significant) and wind, with eventual upscale growth into one or two MCSs capable of potentially significant severe gusts. The Enhanced Risk area has been reoriented based on expected outflow boundary location later this afternoon and a consensus of 12z CAM guidance/HREF ensemble max probabilities."
+        },
+        {
+          "title": "IN/OH into New England",
+          "text": "A surface quasistationary front currently extends from northern IN into NY and New England. Substantial heating is underway east of the front, which should allow for destabilization and scattered afternoon thunderstorm development. This area lies along the southern fringe of stronger west/southwesterly flow aloft, with 25-35 knots of deep-layer shear. This may be sufficient for a few strong storms later today capable of gusty/damaging winds."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2023-07-13",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2023-07-13T01:00Z",
+      "valid_end": "2023-07-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2023/day1otlk_20230713_0100.html",
+      "summary": "A few tornadoes remain possible for parts of northern Indiana into southern Lower Michigan over the next few hours. Scattered damaging winds (some 75+ mph) and large to very large hail will be possible this evening for parts of central/eastern Kansas into central/southern Missouri.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A shortwave trough continues to move through the Great Lakes region. Strong to severe storms will continue to move out of Illinois into northern Indiana and southern Michigan this evening. Damaging wind gusts and a few tornadoes will remain possible given the favorable kinematic environment sampled by area VAD data. Strong buoyancy is in place across Kansas into western Missouri. As the low-level jet increases tonight, the expectation is for one or more clusters of storms to develop in parts of central/southeastern Kansas. These storms will initially be capable of large to very large hail given the favorable supercell wind profile. With time, this convection should grow upscale and pose a greater risk of severe/damaging winds. Some of these winds may exceed 75 mph. A modest low-level jet into the central High Plains has helped initiate convection in the Nebraska Panhandle. Additional storms are possible tonight. Large to very large hail has already been reported with the current activity. Hail is expected to remain the greatest threat, though isolated strong/severe winds are possible as well. ..Wendt.. 07/13/2023"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2023,
+      "number": 1504,
+      "issue_utc": "2023-07-12T12:25Z",
+      "topic": "Severe Thunderstorm Watch 476",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1504.html",
+      "summary": "Strong to severe gusts will remain possible across WW 476 over the next couple of hours.",
+      "discussion": "A well organized bowing MCS will continue to quickly shift east/southeast across the region this morning. Measured gusts have decreased across IA compared to earlier gusts over eastern NE. Lower instability with eastward extent, as well as weakening low-level flow, and a persistent cluster of convection across central IA ahead of the main MCS, may all contribute to a gradually diminishing severe risk after 14z. Nevertheless, gusts of 45-60 mph appear likely to persist another couple of hours as convection moves across a moderately unstable and strongly sheared environment. There is some potential that after a relative morning lull, the MCS could reinvigorate later this morning as convection approaches IL, though confidence in this scenario is low. ..Leitman.. 07/12/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1505,
+      "issue_utc": "2023-07-12T13:44Z",
+      "topic": "Severe Thunderstorm Watch 476",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1505.html",
+      "summary": "A damaging wind threat is expected to persist through the morning. Currently a downstream watch is unlikely.",
+      "discussion": "A bowing segment has developed across eastern Iowa ahead of the main squall line. Reflectivity and velocity from KDVN suggest a rear inflow jet may be developing which could increase the potential for some damaging wind gusts across eastern Iowa. However, farther east, across northern Illinois and far eastern Iowa where this bowing segment is moving toward, temperatures are in the mid 60s with progressively decreasing instability. Therefore, expect intensity of this bowing segment to wane once it reaches northern Illinois. Extension of watch 476 into eastern Iowa has been coordinated with WFO DVN to cover the near-term threat, but a downstream severe thunderstorm watch into Illinois is unlikely at this time."
+    },
+    {
+      "year": 2023,
+      "number": 1506,
+      "issue_utc": "2023-07-12T20:05Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1506.html",
+      "summary": "A tornado watch is likely across northern Illinois and possibly southern Wisconsin by 21Z.",
+      "discussion": "The air mass is recovering rapidly across northern Illinois in the wake of the morning MCS. An EML, advecting eastward amid 40-50 knots of mid-level flow has cleared out cloud cover and allowed for surface heating across eastern Iowa and northwest Illinois. Temperatures in this area have warmed into the low 80s with dewpoints remaining steady, or even climbing slightly, into the low 70s. Temperatures remain in the 60s across northern Illinois, but expect this warm front to lift quickly northeast through the evening as a result of surface heating north of this front and strengthening low-level flow in response to the deepening surface cyclone across eastern Iowa. Additional heating, combined with cooling temperatures aloft ahead of the approaching shortwave trough should result in 1500 to 2000 J/kg MLCAPE by this evening across northern and northeast Illinois. This instability will be co-located with a strong, veering wind profile (sampled by the 20Z LOT VWP). Expect a similar wind profile (featuring 200+ m2/s2 0-500m SRH) to remain along the outflow boundary/composite front through the evening. Supercells are expected to form along this boundary as ascent increases ahead of a digging mid-level shortwave trough and within the left-exit region of the upper-level jet. Southerly winds ahead of the surface low will provide sufficient low-level streamwise vorticity for a tornado threat. However, any storms which remain along or slightly north/east of the boundary, where more backed surface winds will be present, should ingest much higher SRH and will pose a greater tornado threat and even the potential for a strong tornado. In addition, large hail and damaging wind gusts will be possible. A tornado watch is likely by 4pm to cover this threat. ..Bentley.. 07/12/2023 ...Please "
+    },
+    {
+      "year": 2023,
+      "number": 1507,
+      "issue_utc": "2023-07-12T21:59Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1507.html",
+      "summary": "Storms may intensify into early evening as they move southeastward, with a threat of isolated hail and damaging gusts.",
+      "discussion": "Thunderstorms have recently developed in northern MO. Based on satellite and mesoanalysis data, this activity is clearly elevated, and likely will remain so in the short term, given substantial MLCINH across the region. However, even for elevated convection that is likely based around 800 mb, MUCAPE in excess of 1500 J/kg and sufficient deep-layer shear (supported by rather strong midlevel west-northwesterlies) conditionally favor the potential for a few organized storms. If any stronger cells/clusters can mature and be sustained into the early evening, some severe threat may evolve with this activity. Steep midlevel lapse rates will favor some hail potential, while a relatively warm and well-mixed boundary layer could support isolated damaging gusts, despite the relatively strong MLCINH. Uncertainty remains rather high regarding the evolution of this convection into the early evening, given its elevated nature and relative lack of stronger large-scale ascent across the area. Watch issuance is currently considered unlikely, but will become possible if organized storms develop or appear imminent."
+    },
+    {
+      "year": 2023,
+      "number": 1508,
+      "issue_utc": "2023-07-13T00:07Z",
+      "topic": "Tornado Watch 477",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1508.html",
+      "summary": "Tornado threat continues within WW477.",
+      "discussion": "Confirmed tornadoes were have occurred across northern Illinois in the last hour. Surface objective analysis indicates 200-300 m2/s2 effective SRH near a lifting warm front located across northern Illinois near the Chicago metro. A low-level jet axis of 30-35 kts extends across north Central Illinois and will gradually shift eastward across Lake Michigan northern Indiana/Michigan through the next few hours. The threat area will likely also shift eastward through time as this occurs. A downstream watch may be needed in the next couple of hours."
+    },
+    {
+      "year": 2023,
+      "number": 1509,
+      "issue_utc": "2023-07-13T00:26Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1509.html",
+      "summary": "Storm coverage is expected to increase this evening, with a threat of hail, severe gusts, and possibly a tornado. Watch issuance is likely.",
+      "discussion": "Some increase in convection has recently been noted within a midlevel cloud deck across east-central KS, which is likely the beginning of an increase in storm coverage and intensity that will continue through the evening. Steep midlevel lapse rates, moderate to strong buoyancy, and effective shear of 40+ kt (as noted on the 00Z TOP sounding) will support organized convection this evening as storm coverage increases within a low-level warm advection regime. Initial discrete storms could pose a risk of very large hail, given the favorable buoyancy and shear. While low-level flow/shear is currently rather weak, some increase is possible this evening, and a tornado cannot be ruled out, especially with any supercell that is sustained within the modified outflow where winds are locally backed. Some upscale growth is possible later this evening, which would pose an increasing severe-wind risk as storms tend to propagate south/southeastward with time. Watch issuance is likely within the hour in response to these threats."
+    },
+    {
+      "year": 2023,
+      "number": 1510,
+      "issue_utc": "2023-07-13T01:21Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1510.html",
+      "summary": "Isolated severe storms will remain possible through the evening, with a threat of large hail and localized strong/severe gusts.",
+      "discussion": "An isolated supercell has recently developed across the NE Panhandle, with 2-inch hail recently reported northeast of Scottsbluff. While buoyancy is not overly strong, with MLCAPE of 500-1000 J/kg per recent mesoanalyses, deep-layer shear is quite favorable (effective shear of 50+ kt), and the ongoing supercell may continue to propagate along a weak surface boundary into west-central NE. Hail (possibly very large in the short term) will be the primary threat, though localized strong/severe gusts will also be possible. With the short-term threat expected to remain quite isolated, watch issuance is currently considered unlikely. Some increase in storm coverage is possible later tonight within a modest low-level warm advection regime, though it remains unclear as to whether any organized upscale growth (with a corresponding increase in severe-wind risk) will occur."
+    },
+    {
+      "year": 2023,
+      "number": 1511,
+      "issue_utc": "2023-07-13T02:06Z",
+      "topic": "Severe Thunderstorm Watch 479",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1511.html",
+      "summary": "A damaging-wind threat will continue to spread southward this evening. Downstream watch issuance is possible.",
+      "discussion": "Convection over eastern MO has recently accelerated south-southeastward and evolved into a small bowing cluster, with rather strong winds (60+ kt) noted at around 1 km AGL from the KLSX radar. While deep-layer shear decreases with southeastward extent, rich low-level moisture and favorable buoyancy (MLCAPE in excess of 2000 J/kg) will support maintenance of this cluster in the short term, given its current state of organization. Some damaging-wind threat may spread south of WW 479, and downstream watch issuance is possible into southeast MO and vicinity prior to 03 UTC. Eventual weakening is expected later tonight, due to the effects of decreasing deep-layer shear and nocturnal cooling/stabilization."
+    },
+    {
+      "year": 2023,
+      "number": 1512,
+      "issue_utc": "2023-07-13T02:46Z",
+      "topic": "Tornado Watch 478",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1512.html",
+      "summary": "Tornado threat continues within WW478.",
+      "discussion": "A line of thunderstorms continues to move eastward across southern Michigan and northern Indiana. The low-level jet continues to shift eastward with time as does the corridor of greatest tornado threat. Surface observations indicate generally backed surface winds along and south of I-95 across southern Michigan and northern Indiana/Ohio. A funnel cloud was reported earlier near Van Buren, MI. The rotation with that storm has since weakened. Loss of daytime heating has led to some reduction of MLCAPE, though a small corridor of 500-1000 J/kg is noted ahead of the line across the MI/IN/OH border. Storms along the south end of the ongoing line within the LLJ and resulting storm relative helicity of 200-300 m2/s2 will continue to be within the most likely corridor for a short term tornado threat."
+    },
+    {
+      "year": 2023,
+      "number": 1513,
+      "issue_utc": "2023-07-13T04:02Z",
+      "topic": "Severe Thunderstorm Watch 479",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1513.html",
+      "summary": "The threat for severe hail/wind continues across WW 479, and may eventually spread south of the watch overnight.",
+      "discussion": "Scattered strong to severe thunderstorms are ongoing late this evening from southeast KS into southwest/central MO. Earlier storms east of Kansas City produced measured wind gusts of 60-70 mph and some hail, but that area of storms subsequently weakened as it moved eastward into parts of central MO in the immediate wake of an earlier storm cluster. Farther west, a potentially severe cell is ongoing across Bourbon County, KS, with additional development noted as far southwest as extreme north-central OK. With a modest low-level jet expected to remain focused across southeast KS/southwest MO, intense storms capable of hail and severe gusts will remain possible across this area into the overnight hours, in the presence of strong buoyancy and favorable deep-layer shear. Some organized upscale growth remains possible, which could eventually result in a severe threat spreading into parts of northeast OK and northwest AR. MLCINH is notably stronger farther southwest into northern OK, but short-term forecast soundings suggest weaker CINH for storms based around 800 mb in this area, and a few stronger elevated cells/clusters could evolve overnight. Given the potential for strong to potentially severe storms to develop and/or move into northern OK and northwest AR, watch issuance downstream of WW 479 is possible later tonight."
+    },
+    {
+      "year": 2023,
+      "number": 1514,
+      "issue_utc": "2023-07-13T04:59Z",
+      "topic": "Tornado Watch 478",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1514.html",
+      "summary": "Some threat for isolated damaging wind and/or a brief tornado continues.",
+      "discussion": "Widespread convection is ongoing early this morning in association with an MCV and related surface low across southeast lower MI. The KDTX VWP continues to depict a very favorable wind profile for organized convection, with backed low-level winds and a 40-50 kt low-level jet. However, storm intensity continues to be limited by weak instability, and this will likely remain the case as convection spreads towards the remainder of southeast lower MI. Locally damaging gusts and perhaps a brief tornado will remain possible with ongoing convection until storms clear WW 478. ..Dean.. 07/13/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1515,
+      "issue_utc": "2023-07-13T07:20Z",
+      "topic": "Severe Thunderstorm Watch 479",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1515.html",
+      "summary": "Strong to isolated severe gusts may continue for another couple of hours across southeast MO into northeast AR.",
+      "discussion": "A bowing cluster of storms tracking east/southeast across south-central MO will continue to shift into parts of southeast MO/northeast AR the next 1-2 hours. This bow has shown some better organization, and increasing velocity signatures aloft (about 4-6 kft ARL). The downstream airmass remains very moist and moderately unstable. Effective shear magnitude around 25-30 kt should aid in maintaining this convection with southeast extent. It is unclear how far east/southeast near-severe caliber winds may continue as low-level inhibition increases toward the MO Bootheel vicinity. Instability also wanes with eastward extent and convection will move further away from the eastern extent of a modest low-level jet. While this may support a gradual weakening trend with time, expected that 45-60 mph gusts will persist for at least the next 1-2 hours. The need for a downstream watch to the east of WW 479 and WW 480 is uncertain, and trends will continue to be monitored. ..Leitman.. 07/13/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2023,
+      "number": 1516,
+      "issue_utc": "2023-07-13T09:01Z",
+      "topic": "Severe Thunderstorm Watch 480",
+      "url": "https://www.spc.noaa.gov/products/md/2023/md1516.html",
+      "summary": "Isolated strong gusts may persist in the short term, though severe potential is expected to diminish over the next 1-2 hours.",
+      "discussion": "A band of convection stretching from northeast OK into northern AR has become less organized with time early this morning. While moderate instability remain over the region, effective shear weakens with southward extent and inhibition increases. Over the last 30-60 minutes, most measured wind speeds have been less than 40 mph. While an isolated gust to 60 mph map be possible in the short term, severe potential is expected to continue to diminish as convection shifts east/southeast the next couple of hours. ..Leitman.. 07/13/2023 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

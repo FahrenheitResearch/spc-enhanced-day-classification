@@ -1,0 +1,225 @@
+{
+  "convective_day": "2020-07-15",
+  "valid_start": "2020-07-15T12:00Z",
+  "valid_end": "2020-07-16T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 5
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-07-15",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-07-15T12:00Z",
+      "valid_end": "2020-07-16T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200715_1200.html",
+      "summary": "Severe storms are most likely this afternoon and evening across parts of the mid Mississippi Valley, with damaging wind, large hail, and a couple of tornadoes possible. More isolated severe storms will be possible over portions of the southern and central High Plains, with large hail and damaging wind as the main hazards.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A broad upper trough is expected to remain in place across the north-central CONUS today into tonight. Multiple embedded shortwave troughs will move eastward within the larger-scale trough, including a potentially vigorous MCV moving from the central Plains into the mid-MS Valley. At the surface, a weakening cold front will likely become nearly stationary across the southern Plains, while a surface wave associated with the MCV is forecast to move from the central Plains into the mid-MS Valley and Midwest by tonight."
+        },
+        {
+          "title": "Mid-MS Valley and Vicinity",
+          "text": "The severe potential across this region will largely be tied to the MCV moving out of the central Plains, and some uncertainty remains regarding the intensity and timing of this feature. Along and east of the MCV track, and south of an outflow-reinforced boundary likely to be somewhere across eastern MO into central IL, moderate to locally strong buoyancy (MLCAPE of 2000-3500 J/kg) is forecast to develop this afternoon, as strong heating occurs within a very moist environment. Intensification of any ongoing convection near the MCV track will be possible by early afternoon, with additional development to the south and east by late afternoon. Modestly enhanced midlevel flow attendant to the MCV will support effective shear of 30-40 kt, sufficient to support organized structures. Convection will likely evolve into one or more clusters, with corridors of damaging wind possible, especially where substantial boundary-layer warming/steepening of low-level lapse rates can occur. Some tornado risk may also evolve, either with any semi-discrete supercells early in the convective evolution, or associated with any cluster or QLCS that interacts with the effective surface boundary."
+        },
+        {
+          "title": "Southern/Central High Plains",
+          "text": "Easterly low-level flow and modest (but sufficient) deep-layer flow/shear will again support a threat of severe thunderstorms across portions of the southern/central High Plains this afternoon and evening. Initiation is expected by early afternoon across the higher terrain of central/southern CO into NM, with convection spreading into a larger portion of the High Plains by late afternoon/early evening. Steep midlevel lapse rates/moderate buoyancy, and effective shear of 25-40 kt, will support a large hail risk with the initial semi-discrete activity, in addition to a threat of locally severe wind gusts. One or more clusters may spread eastward by early evening, with a continued threat of locally severe wind gusts. Overnight, a cluster of storms with a lingering marginal wind/hail risk may persist into portions of western/northern OK and far southern KS, within a plume of strong elevated buoyancy. ..Dean/Lyons.. 07/15/2020"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-07-15",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-07-15T13:00Z",
+      "valid_end": "2020-07-16T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200715_1300.html",
+      "summary": "Severe storms are most probable this afternoon and evening across parts of the mid Mississippi Valley, with damaging wind, large hail, and a couple of tornadoes possible. More isolated severe storms will be possible over portions of the southern and central High Plains, with large hail and damaging wind as the main hazards.",
+      "sections": [
+        {
+          "title": "MO/IL today",
+          "text": "A couple of overnight MCSs across KS/MO/IA have effectively merged into one large cluster now over northeast KS and northern MO. Outflow with the MO convection has sagged southward to the I-70 corridor, and could continue slowly southward through the morning given the large mass of rain and ongoing thunderstorms. Meanwhile, a well-developed MCV over northeast KS will move eastward or east-northeastward today over northern MO, with the southern fringe of the MCV coinciding roughly with the west-east outflow near and just south of I-70. A feed of low-mid 70s boundary-layer dewpoints will be maintained today across MO to the south and east of the ongoing convection, and moisture will also spread into IL during the day. The moistening will occur beneath the northeastern extent of a steep midlevel lapse rate plume from the southern Plains. The net result will be a corridor of strong buoyancy (MLCAPE of 2500-3500 J/kg) along and south of the MO outflow boundary to roughly the Saint Louis area. Additional thunderstorm development is expected by afternoon along the outflow boundary, and perhaps a little to its south in the warm sector in MO. Some enhancement of low-midlevel shear along the"
+        },
+        {
+          "title": "Southern High Plains this afternoon/evening",
+          "text": "An outflow-assisted cold front has moved south to the TX South Plains and eastern NM, in the wake of overnight convection. Low-level flow will become more easterly/upslope through the day from northeast NM into southeast CO, which will again support thunderstorm development this afternoon on the Front Range. The initial storms could be supercells capable of producing large hail, given MLCAPE in excess of 2000 J/kg with steep midlevel lapse rates and effective bulk shear of 30-40 kt. Convection will likely grow upscale into a cluster or two capable of producing damaging winds this evening while moving east-southeastward toward the TX Panhandle, where the severe threat may persist through about 06z."
+        },
+        {
+          "title": "Southeast WI to Northern Lower MI today",
+          "text": "Some cirrus blow off from the large MO storm complex may persist enough to slow surface heating some today along the synoptic front from southeast WI into northern Lower MI. Assuming a few cloud breaks can occur by afternoon, there will be a corridor of weak-moderate buoyancy along the front, which will help focus thunderstorm development. Isolated strong/damaging outflow gusts appear to be the main threat with these storms for a few hours this afternoon/evening."
+        },
+        {
+          "title": "Southern AL to southeast LA this afternoon",
+          "text": "A weak midlevel trough will over the north central Gulf coast, along with daytime heating and local sea breeze circulations, will support scattered thunderstorm development by this afternoon. Very isolated strong downburst winds may occur with the strongest storms, but the overall severe threat appears too low to warrant adding wind probabilities. ..Thompson/Dial.. 07/15/2020"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-07-15",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-07-15T16:30Z",
+      "valid_end": "2020-07-16T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200715_1630.html",
+      "summary": "Severe storms are expected this afternoon and evening across parts of the mid Mississippi Valley, with damaging wind, large hail, and a couple of tornadoes possible. Other severe storms are expected across the south-central High Plains this afternoon and evening.",
+      "sections": [
+        {
+          "title": "Midwest including Missouri/Illinois",
+          "text": "A readily apparent MCV near the Kansas City area at late morning will continue generally eastward toward southern Illinois by this evening. Preceding convection to its east/northeast continues to effectively reinforce a cold pool/front that will demarcate the latitudinal extent of the primary severe risk especially across Missouri, with warm sector dewpoints otherwise ranging from the middle/upper 60s F in central Illinois to lower/mid 70s across central/eastern Missouri. As cloud cover continues to thin/disperse across the warm sector, a corridor of strong destabilization (MLCAPE of 2500-3500 J/kg) is expected this afternoon near/south of the outflow from south-central Missouri toward the greater Saint Louis area/southwest Illinois. Thunderstorm development/intensification is still expected by around mid-afternoon, initially across central/east-central Missouri toward far western Illinois. Strong mid-level winds are associated with the MCV (reference regional WSR-88D VWP data) and some enhancement of low-level winds also exists along the southeast flank of the MCV. This will contribute to an environment supportive of initial supercells, and a gradual evolution of another larger st"
+        },
+        {
+          "title": "Southern High Plains",
+          "text": "An outflow-reinforced front has moved southward and generally stalled across northeast/east-central New Mexico and Texas South Plains. Low-level flow will become more easterly/upslope through the day from northeast New Mexico into southeast Colorado, which will again support thunderstorm development this afternoon on the Front Range/Raton Mesa vicinity. This will include initial supercells capable of producing large hail, given MLCAPE in excess of 2000 J/kg with steep mid-level lapse rates and effective bulk shear of 30-40 kt. Convection will likely grow upscale into an east/southeastward-moving cluster or two capable of producing damaging winds this evening as it persists into and across parts of the Oklahoma/Texas Panhandles."
+        },
+        {
+          "title": "Southeast Wisconsin to northern Lower Michigan today",
+          "text": "Related to the persistent MCS/MCV across the middle Mississippi Valley, residual cloud cover will tend to hinder surface heating and overall destabilization this afternoon near the southwest/northeast-oriented front across the region. Regardless, some increase in convective coverage and intensity can be expected this afternoon, with some potential for isolated damaging thunderstorm wind gusts and possibly some hail, particularly if cloud breaks materialize later today."
+        },
+        {
+          "title": "Gulf Coast including parts of LA/MS/AL and FL Panhandle",
+          "text": "A weak mid-level trough over the north central Gulf coast, along with daytime heating and local sea breeze circulations, will continue to support scattered thunderstorm development this afternoon. Strong downburst winds may occur with the strongest storms through the diurnal heating cycle, with localized wind damage a possibility."
+        },
+        {
+          "title": "Florida Peninsula",
+          "text": "A few stronger/perhaps locally severe thunderstorms could occur this afternoon, mainly across interior/western portions of the southern Florida Peninsula. Within a moist air mass, steep low-level lapse rates and slightly cooler mid-level temperatures may contribute to wet microburst potential. ..Guyer/Bentley.. 07/15/2020"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-07-15",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-07-15T20:00Z",
+      "valid_end": "2020-07-16T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200715_2000.html",
+      "summary": "Severe storms are expected this afternoon and evening across parts of the mid Mississippi Valley, with damaging winds, large hail, and a few tornadoes possible. Other severe storms are expected across the south-central High Plains this afternoon and evening.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "No major changes have been made to the Enhanced Risk across the mid MS Valley or the Slight Risk across the southern/central High Plains. Severe probabilities have been reduced across west-central MO behind a northeastward-moving MCV and associated convection. See recently issued Tornado Watch 373 and Mesoscale Discussions 1233 and 1234 for more information on the short-term severe threat across the mid MS Valley. Convection is increasing in coverage and intensity across southeastern CO and vicinity. See Mesoscale Discussion 1235 for additional details on the near-term severe threat across this region. ..Gleason.. 07/15/2020 .PREV DISCUSSION... /ISSUED 1148 AM CDT Wed Jul 15 2020/"
+        },
+        {
+          "title": "Midwest including Missouri/Illinois",
+          "text": "A readily apparent MCV near the Kansas City area at late morning will continue generally eastward toward southern Illinois by this evening. Preceding convection to its east/northeast continues to effectively reinforce a cold pool/front that will demarcate the latitudinal extent of the primary severe risk especially across Missouri, with warm sector dewpoints otherwise ranging from the middle/upper 60s F in central Illinois to lower/mid 70s across central/eastern Missouri. As cloud cover continues to thin/disperse across the warm sector, a corridor of strong destabilization (MLCAPE of 2500-3500 J/kg) is expected this afternoon near/south of the outflow from south-central Missouri toward the greater Saint Louis area/southwest Illinois. Thunderstorm development/intensification is still expected by around mid-afternoon, initially across central/east-central Missouri toward far western Illinois. Strong mid-level winds are associated with the MCV (reference regional WSR-88D VWP data) and some enhancement of low-level winds also exists along the southeast flank of the MCV. This will contribute to an environment supportive of initial supercells, and a gradual evolution of another larger st"
+        },
+        {
+          "title": "Southern High Plains",
+          "text": "An outflow-reinforced front has moved southward and generally stalled across northeast/east-central New Mexico and Texas South Plains. Low-level flow will become more easterly/upslope through the day from northeast New Mexico into southeast Colorado, which will again support thunderstorm development this afternoon on the Front Range/Raton Mesa vicinity. This will include initial supercells capable of producing large hail, given MLCAPE in excess of 2000 J/kg with steep mid-level lapse rates and effective bulk shear of 30-40 kt. Convection will likely grow upscale into an east/southeastward-moving cluster or two capable of producing damaging winds this evening as it persists into and across parts of the Oklahoma/Texas Panhandles."
+        },
+        {
+          "title": "Southeast Wisconsin to northern Lower Michigan today",
+          "text": "Related to the persistent MCS/MCV across the middle Mississippi Valley, residual cloud cover will tend to hinder surface heating and overall destabilization this afternoon near the southwest/northeast-oriented front across the region. Regardless, some increase in convective coverage and intensity can be expected this afternoon, with some potential for isolated damaging thunderstorm wind gusts and possibly some hail, particularly if cloud breaks materialize later today."
+        },
+        {
+          "title": "Gulf Coast including parts of LA/MS/AL and FL Panhandle",
+          "text": "A weak mid-level trough over the north central Gulf coast, along with daytime heating and local sea breeze circulations, will continue to support scattered thunderstorm development this afternoon. Strong downburst winds may occur with the strongest storms through the diurnal heating cycle, with localized wind damage a possibility."
+        },
+        {
+          "title": "Florida Peninsula",
+          "text": "A few stronger/perhaps locally severe thunderstorms could occur this afternoon, mainly across interior/western portions of the southern Florida Peninsula. Within a moist air mass, steep low-level lapse rates and slightly cooler mid-level temperatures may contribute to wet microburst potential."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-07-16",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-07-16T01:00Z",
+      "valid_end": "2020-07-16T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200716_0100.html",
+      "summary": "Severe storms remain possible this evening across parts of southeastern Illinois and vicinity, with damaging winds, large hail, and a few tornadoes possible. Other severe storms are expected across the south-central High Plains this afternoon and evening.",
+      "sections": [
+        {
+          "title": "01Z Outlook Update",
+          "text": "Much of the outlook has been updated per latest convective trends. There still remains enough potential for a concentration of severe reports in southern/southeastern Illinois ahead of a quasi-linear MCS to support an Enhanced risk (driven by 30% wind probabilities) in that area. Northern portions of the MCS will eventually reach more stable air over Indiana which should gradually lessen the severe threat in that area. Meanwhile, low-level shear is maximized across south-central Illinois and vicinity, and a few cells may have a tendency to rotate and produce a couple of tornadoes. These storms may also persist slightly longer into the night with moderate instability downstream over a broader area near the Ohio River. Farther south, convective overturning has led to a greatly diminished severe threat over much of Alabama and western Georgia. A few cells from northeastern Mississippi through southeastern Louisiana are still thriving on a moderately to strongly unstable airmass and may result in sporadic wind/tree damage in a few areas. 5%/Marginal wind probabilities have been reconfigured to address the threat in these areas. Farther west, a couple of linear segments have evolved fro"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 1231,
+      "issue_utc": "2020-07-15T17:24Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1231.html",
+      "summary": "Isolated wet microbursts are possible through the afternoon.",
+      "discussion": "Numerous storms have already developed along the sea breeze in southern Louisiana and southern Alabama/FL panhandle with additional storms developing north into south-central Alabama. This area will be the favorable corridor for numerous storms beneath cooler mid-level temperatures. Continued storm development is expected through the afternoon along merging outflows and the sea breeze. MLCAPE around 2500 to 3000 J/kg will support vigorous updraft growth, but very weak shear will limit longevity and thus organized severe potential. However, this very weak shear (at or below 15 kts per area VWP and RAP forecast soundings) will support significant water loading of updrafts and the potential for some wet microbursts. The environment is not overly favorable for wet microbursts, but given the number of storms expected, isolated damaging winds are possible from a few of them."
+    },
+    {
+      "year": 2020,
+      "number": 1232,
+      "issue_utc": "2020-07-15T17:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1232.html",
+      "summary": "A few damaging wind gusts are possible this afternoon/early evening.",
+      "discussion": "Thunderstorms have started to develop in south-central Florida and along the sea breeze along the western shore. Expect additional storms to develop in the next 1 to 2 hours along intersecting outflow boundaries amid ~2500 J/kg MLCAPE per SPC mesoanalysis. In addition, the 12Z MFL/TBW RAOBs showed modest 6.5 C/km mid-level lapse rates. Shear is very weak (less than 10 kts in both RAOBs), but the thermodynamic environment should support some strong single cell storms capable of producing isolated damaging winds as they collapse."
+    },
+    {
+      "year": 2020,
+      "number": 1233,
+      "issue_utc": "2020-07-15T18:10Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1233.html",
+      "summary": "Severe thunderstorms capable of all severe hazards, including a few tornadoes, are anticipated this afternoon from central MO into central IL.",
+      "discussion": "Regional radar and satellite imagery reveals an MCV from last night's storms just east of MKC, with associated showers and thunderstorms (and attendant cloud cover) spreading eastward/northeastward from northern/central MO into northern/central IL. Broad area of low surface pressure associated with this MCV exists from central MO to near the MO/IA/IL border intersection, with an embedded surface low over central MO (about 40 miles north of COU). Outflow-reinforced boundary extending southwestward from this low has effectively become the cold front, while a warm front also extends from this low east-northeastward into central IL. The warm sector is currently characterized by temperatures in the mid 80s, mid 70s dewpoints, and weak southerly/southeastward surface winds. Some convective inhibition remains, but the combination of continued diurnal heating and ascent attendant to the front and MCV is expected to overcome this inhibition, resulting in convective initiation. Warm and moist conditions will support moderate instability. Enhanced mid-level flow atop the southerly/southeasterly surface winds will result in moderate vertical shear, with at least some modest low-level curvature. The resulting environment conditions are supportive of initially discrete storms capable of all severe hazards, including a few tornadoes. Linear character to the ascent suggests growth into one or more bowing segments, or perhaps even a coherent convective line, is likely. Once this occurs, the primary severe threat will transition to damaging wind gusts."
+    },
+    {
+      "year": 2020,
+      "number": 1234,
+      "issue_utc": "2020-07-15T19:13Z",
+      "topic": "Tornado Watch 373",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1234.html",
+      "summary": "All severe hazards, including large hail and a tornado or two, are possible along the northern periphery of Tornado Watch 373 for the next hour or two.",
+      "discussion": "Recent surface analysis places a low north of COU in central MO, with a warm front extending east-northeastward across central IL. Showers and thunderstorms have been ongoing across west-central and central IL north of this warm front for the past few hours. However, recent radar imagery has shown a strengthening trend with a few of these storms, particularly the storm in Tazewell County. As evidenced by the 17Z ILX sounding, instability is modest in this region, but vertical shear is strong. As a result, more persistent updrafts should be able to organize/rotate, contributing to a slightly greater severe threat than would otherwise be supported by the instability. Additionally, initially elevated storms (like those west of Tazewell County) may be able to transition to more surface-based if mid-level rotation persists and/or as a result of interaction with the warm frontal zone. Consequently, all severe hazards are possible, including large hail and a tornado or two."
+    },
+    {
+      "year": 2020,
+      "number": 1235,
+      "issue_utc": "2020-07-15T19:40Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1235.html",
+      "summary": "A gradual increase in storm coverage and intensity is expected through the afternoon.",
+      "discussion": "Thunderstorm development has been mainly confined to the higher terrain thus far, but recent development in El Paso county suggests inhibition has eroded enough east of the mountains for surface based storm development. Therefore, expect more storms to move off higher terrain/form in the upslope flow regime along the Front Range over the next few hours. Moderate instability (1500-2000 J/kg MLCAPE) and moderate to strong effective shear (40-45 kts) will support supercells as the primary storm mode initially. Through time, upscale growth is expected with storms eventually congealing into an MCS across southeast Colorado/northeast New Mexico into the TX/OK Panhandles. Convective hazards will follow storm mode with an initial threat of both large hail and damaging winds becoming primarily a severe wind threat by later this evening as storms become more linear. A severe thunderstorm watch will likely be needed this afternoon, and may need to be issued relatively soon if additional storms develop east of/move off the mountains."
+    },
+    {
+      "year": 2020,
+      "number": 1236,
+      "issue_utc": "2020-07-15T22:35Z",
+      "topic": "Tornado Watch 373",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1236.html",
+      "summary": "Severe weather will remain likely across WW373 and 374 into this evening. All modes of severe weather including a few tornadoes will be possible. A small downstream watch may be needed for far eastern Illinois.",
+      "discussion": "22z surface analysis showed the center of an MCV was located across northwest Illinois. A broken band of storms with a few semi-discrete supercells were ongoing ahead of the MCV from north central Illinois, southwest into far eastern Missouri. These storms are expected to persist thanks to moist and unstable conditions with surface dewpoints in the low to mid 70s across much of Illinois. 0-1 km SRH of 150-300 J/kg, as sampled by the ILX VAD, supports low-level updraft rotation. Several supercells and line mesovortices have been observed suggesting all severe hazards, including a few tornadoes, remain possible. There is some uncertainty on the longevity of severe convection across eastern portions of WW373/374. Drier surface conditions and weaker wind fields toward the Indiana border suggest that convection will gradually weaken as it encounters lesser instability and weaker low-level shear away from the MCV. However, a small downstream watch may be needed to cover any short-term threats that persist with storms this evening."
+    },
+    {
+      "year": 2020,
+      "number": 1237,
+      "issue_utc": "2020-07-15T23:14Z",
+      "topic": "Severe Thunderstorm Watch 375",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1237.html",
+      "summary": "Convection should spread east across the remainder of ww375 later this evening. Wind/hail remain possible.",
+      "discussion": "With the upper ridge remaining centered over TX, several weak disturbances, likely convectively enhanced, are rotating across northern Mexico into NM/CO. One such feature may be enhancing thunderstorm activity across southern CO that is now shifting east of the higher terrain. Another disturbance may be located along the AZ/NM border, and this appears partly responsible for upscale growth over NM. In both cases, boundary-layer heating is the primary driver, along with orographic forcing. Over the next few hours, convection should spread across the southwestern High Plains toward the NM/TX border, extending into southeast CO. This activity will likely persist well into the late-evening hours as LLJ is forecast to increase across the TX South Plains after sunset. Watch may be warranted later this evening downstream from parts of the TX Panhandle into southwest KS. ..Darrow.. 07/15/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 1238,
+      "issue_utc": "2020-07-16T01:22Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1238.html",
+      "summary": "Storms moving out of WW373 will pose a risk for a few damaging-wind gusts and perhaps a tornado for the next few hours. WW376 will be locally extended across southern Illinois to cover the threat.",
+      "discussion": "A cluster of storms across south-central Illinois has moved out of WW373 into WW 376 over the last 30 min. Severe weather will remain possible with these storms as they move into an environment characterized by 2500-3500 J/kg of MLCAPE, and little inhibition. Vertical shear weakens with southern extent, with only 25-30 kt of effective bulk shear across western Kentucky and southern Illinois. A messy, but predominately linear storm mode will support a damaging-wind threat with storms as they continue south and east. A tornado or two will also remain possible given backed low-level flow and 100-200 J/kg of 0-1km SRH. WW367 will be locally extended across parts of southern Illinois to cover the threat until 04z expiration."
+    },
+    {
+      "year": 2020,
+      "number": 1239,
+      "issue_utc": "2020-07-16T03:12Z",
+      "topic": "Severe Thunderstorm Watch 377",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md1239.html",
+      "summary": "Gusty winds and marginally severe hail will accompany convection across portions of the southern High Plains the next several hours.",
+      "discussion": "Convection that developed off the higher terrain of NM and southern CO has progressed about 100 miles downstream where some organization is currently observed. MCS has evolved along the NM/TX border with the leading squall line advancing northeast at roughly 20 kt. This activity has struggled to produce more than isolated severe wind gusts over the last few hours, possibly due to outflow racing up to 15 miles ahead of the precip shield. Even so, strengthening LLJ across the TX South Plains should allow this activity to begin turning more east along the instability axis, characterized by MLCAPE of 1500-2000 J/kg. Gusty winds remain the primary threat. ..Darrow.. 07/16/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

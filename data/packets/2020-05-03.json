@@ -1,0 +1,179 @@
+{
+  "convective_day": "2020-05-03",
+  "valid_start": "2020-05-03T12:00Z",
+  "valid_end": "2020-05-04T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-05-03",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-05-03T16:30Z",
+      "valid_end": "2020-05-04T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200503_1630.html",
+      "summary": "Severe thunderstorms capable of damaging winds and hail are expected today from the Ozarks eastward across western Kentucky and northwest Tennessee. Other strong to severe storms are possible farther east in Kentucky into the southern Delmarva, across the northern and central High Plains, and over a small portion of west-central Texas.",
+      "sections": [
+        {
+          "title": "Southern MO into western KY/TN",
+          "text": "A fast-moving bow echo has developed across southern MO. This cluster of storms has produced many reports of damaging winds and hail this morning, and is tracking into a region where strong heating and substantial low-level moisture is present. This should help to maintain intensity through the day as storms track into parts of KY/TN. Therefore have added a small ENH risk for this threat. Refer to MCD #517 for further detail."
+        },
+        {
+          "title": "Central KY/TN into WV and Mid-Atlantic region",
+          "text": "Most 12z model guidance shows scattered afternoon convection forming along the surface boundary from central KY into northern WV as the upper trough approaches. This activity is likely to be less organized than the bowing structure farther west, due to weaker instability and rather weak low-level winds. Nevertheless, a few of the storms may pose a risk of locally damaging wind gusts and hail through the late afternoon and evening hours."
+        },
+        {
+          "title": "Northern Plains",
+          "text": "Similar to last few days, scattered afternoon showers and thunderstorms are expected to affect parts of the northern High Plains region. Activity should be widely scattered. However, inverted-v profiles, steep mid-level lapse rates, and sufficient deep layer shear will promote a few rotating cells capable of gusty winds and hail through the early evening."
+        },
+        {
+          "title": "Central TX",
+          "text": "A surface cold front is sagging southward across OK and northwest TX today. South of the front, hot surface temperatures and considerable MLCAPE will develop, but with minimal forcing for ascent to result in convection. It appears there is a small window of potential near the triple-point of the front and surface dryline later this afternoon near Abilene, TX where an isolated severe storm or two could develop. Any storm that forms will pose a risk of damaging wind gusts and hail. Activity is not expected to last very long after dark. ..Hart/Wendt.. 05/03/2020"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-05-03",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-05-03T20:00Z",
+      "valid_end": "2020-05-04T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200503_2000.html",
+      "summary": "Severe thunderstorms capable of damaging winds and hail are likely this afternoon over Kentucky and Tennessee. Other strong to severe storms are possible farther east extending from West Virginia to the Delmarva, across the northern and central High Plains, and over a small portion of west-central Texas.",
+      "sections": [
+        {
+          "title": "KY/TN area",
+          "text": "Updates to this outlook include expanding the 30% wind probabilities east ahead of the ongoing MCS, and expanding the 15 and 5% farther southeast toward northern AL. While a capping inversion may limit the southern threat areas, the deep cold pool associated with this system may allow for a threat farther southeast than expected. The greatest threat will continue to be over the Enhanced Risk area, closer to the instability axis and ahead of the apex of the bow. ..Jewell.. 05/03/2020 .PREV DISCUSSION... /ISSUED 1117 AM CDT Sun May 03 2020/"
+        },
+        {
+          "title": "Southern MO into western KY/TN",
+          "text": "A fast-moving bow echo has developed across southern MO. This cluster of storms has produced many reports of damaging winds and hail this morning, and is tracking into a region where strong heating and substantial low-level moisture is present. This should help to maintain intensity through the day as storms track into parts of KY/TN. Therefore have added a small ENH risk for this threat. Refer to MCD #517 for further detail."
+        },
+        {
+          "title": "Central KY/TN into WV and Mid-Atlantic region",
+          "text": "Most 12z model guidance shows scattered afternoon convection forming along the surface boundary from central KY into northern WV as the upper trough approaches. This activity is likely to be less organized than the bowing structure farther west, due to weaker instability and rather weak low-level winds. Nevertheless, a few of the storms may pose a risk of locally damaging wind gusts and hail through the late afternoon and evening hours."
+        },
+        {
+          "title": "Northern Plains",
+          "text": "Similar to last few days, scattered afternoon showers and thunderstorms are expected to affect parts of the northern High Plains region. Activity should be widely scattered. However, inverted-v profiles, steep mid-level lapse rates, and sufficient deep layer shear will promote a few rotating cells capable of gusty winds and hail through the early evening."
+        },
+        {
+          "title": "Central TX",
+          "text": "A surface cold front is sagging southward across OK and northwest TX today. South of the front, hot surface temperatures and considerable MLCAPE will develop, but with minimal forcing for ascent to result in convection. It appears there is a small window of potential near the triple-point of the front and surface dryline later this afternoon near Abilene, TX where an isolated severe storm or two could develop. Any storm that forms will pose a risk of damaging wind gusts and hail. Activity is not expected to last very long after dark."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 516,
+      "issue_utc": "2020-05-03T12:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0516.html",
+      "summary": "An isolated large hail threat will likely affect parts of southwestern Missouri over the next couple of hours, and possibly reach south-central Missouri later this morning. A potential may also exist for strong wind gusts. Weather watch can't be ruled out at this time.",
+      "discussion": "Latest surface analysis shows a cold front from northeast Oklahoma into southern Missouri. A line of strong to severe thunderstorms is ongoing to the north of the boundary in southeast Kansas. This line is located along a gradient of moderate instability with the RAP showing an east to west corridor of MUCAPE in the 1500 to 2500 J/kg range. In addition, forecast soundings from southeast Kansas into southwest Missouri this morning show effective shear of 35 to 45 kt with steep mid-level lapse rates. This may be enough to continue a severe threat as the line moves eastward into southwest Missouri over the next few hours. There is some uncertainty concerning the longevity of the convection. To the east across southern Missouri, effective shear is a bit weaker and lapse rates are slightly less steep. This may help keep the severe threat isolated. Even so, the severe threat will continue to be monitored for possible watch issuance."
+    },
+    {
+      "year": 2020,
+      "number": 517,
+      "issue_utc": "2020-05-03T15:34Z",
+      "topic": "Severe Thunderstorm Watch 157",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0517.html",
+      "summary": "Potential for severe hail may continue, while the risk for damaging wind gusts likely increases with an evolving convective system spreading across the Ozark Plateau/Mid South region through 1-3 PM CDT. It seems probable that a new severe weather watch will be needed to the east-southeast of WW 157 by early afternoon.",
+      "discussion": "The ongoing evolving convective system may still largely be rooted within the lower/mid troposphere, supported by lift above a developing surface cold pool and preceding warm advection. However, it is maintaining intensity and continues to organize while propagating east-southeastward around 50 kt. Models suggest that its supporting mid-level impulse may take on more of an easterly component, into the lower Ohio Valley through this afternoon, but cooling in its wake may suppress mid-level inhibition as far south as southeast Missouri, the Missouri Bootheel vicinity and adjacent portions of western Kentucky, Tennessee and northern Arkansas by 18-20Z. Coupled with inflow increasingly emanating from a moist, warming and destabilizing boundary layer with CAPE up to 2000 J/kg, activity may persist and could intensify further even if supporting large-scale forcing for ascent weakens. Although low-level wind fields are weak, with 40-50 kt winds above 700 mb likely to maintain considerable speed to forward propagation, potential for damaging wind gusts probably will continue, particularly if convection continues to support a strengthening surface cold pool. ..Kerr.. 05/03/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 518,
+      "issue_utc": "2020-05-03T17:50Z",
+      "topic": "Severe Thunderstorm Watch 157",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0518.html",
+      "summary": "Potential for strong wind gusts and perhaps a short-lived tornado or two probably will increase through 3-5 PM CDT with an organized cluster of thunderstorms spreading into and across the region.",
+      "discussion": "The organized convective system is maintaining strength and speed of forward (east-southeastward) progagation around 50 kt, toward areas of the Mississippi Valley near and just south of the Ohio River. Its associated surface cold pool appears to be strengthening, with 2-3 mb 2 hourly surface pressure rises evident in 17Z surface observations at Vichy and West Plains, Missouri. Strongest updrafts are now focused on the southern flank of the system which has shifted south of the state border into northern Arkansas, near/east-southeast of Flippin. This is near the northern periphery of very steep mid-level lapse rates associated with warm elevated mixed-layer air, which may be contributing to the occasional production of very large hail in excess of 2 inches based on MRMS data. Otherwise, farther north and northeast, the primary severe threat probably has transitioned to potentially damaging winds along the strengthening gust front. The warming and moistening boundary layer ahead of the gust front continues to destabilize, and convection still seems likely to become rooted increasingly closer to the surface through 20-21Z. Due to weaker flow near the surface, weaker mean flow in the convective layer may result in some slowing of forward propagation. However, further strengthening of the cold pool and rear inflow seems probable, which may be accompanied by increasing potential for intensifying mesovortices near the gust front, along with locally enhanced surface gusts and perhaps a short-lived tornado or two. ..Kerr.. 05/03/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 519,
+      "issue_utc": "2020-05-03T20:08Z",
+      "topic": "Severe Thunderstorm Watch 158",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0519.html",
+      "summary": "An organized cluster of thunderstorms may continue to pose a risk for damaging wind gusts, and perhaps a couple of relatively brief and weak tornadoes, across Middle Tennessee, including the Greater Nashville Metropolitan area by 4-5 PM CDT. A new severe weather watch likely will be issued to the east of WW 158 shortly.",
+      "discussion": "Supported by inflow of moist boundary layer air with CAPE on the order of 1500+ J/kg, a relatively compact but organized and vigorous mesoscale convective system is maintaining intensity as it progresses east of the Mississippi River. Based on recent radar trends, the severe hail threat appears to have diminished, at least somewhat. However, damaging wind gusts continue to be observed, particularly to the southeast of the lower/mid tropospheric mesoscale convective vortex which may turn eastward near/along the Kentucky/Tennessee border. System motion has shown little signs of slowing, and at around 50 kts, convection appears on track to impact the Nashville metroplitan area between 4 and 5 PM CDT. Maintenance of convective intensity, and continuation of associated severe wind and potential for relatively brief, weak tornadoes, into the Cumberland Plateau remains more unclear. Based on its current motion, this possible by 7-8 PM EDT. However, drier air emanating from southeastern U.S. surface ridging may result in less unstable inflow and weakening convective trends as suggested by at least some model output, including the last few runs of the High-resolution Rapid Refresh. ..Kerr.. 05/03/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 520,
+      "issue_utc": "2020-05-03T20:10Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0520.html",
+      "summary": "Isolated to widely scattered thunderstorms are possible this afternoon within the northern High Plains. Multicells and the occasional supercell will be capable of large hail and strong/severe wind gusts. A WW is not anticipated.",
+      "discussion": "Strong heating and increasing mid-level ascent within a narrow corridor of northward returning moisture has led to increasing destabilization across portions of the northern High Plains. Most guidance has underdone the currently observed dewpoints, with most locations remaining in the mid/uppers 40s F. Continued heating/mixing will likely reduce these values, but 1000-1500 J/kg of MLCAPE appears to be a reasonable estimate for buoyancy this afternoon. A few storms have already developed in central Montana as well as near Glasgow, MT within the surface trough. Storms near Glasgow will likely weaken as they move northward into decreasing moisture and cooler temperatures, though continued development southward within the trough and within the Black Hills is possible. Storms within central Montana may also intensify as they encounter better moisture to the east. With effective bulk-shear at around 25-35 kts, multicells and perhaps a supercell or two are the likely storm modes. Steep lapse rates within the lower/mid-troposphere will support large hail and strong/severe wind gusts. The overall threat is expected to remain isolated and not progress very far eastward into a less favorable downstream environment. A WW is not anticipated."
+    },
+    {
+      "year": 2020,
+      "number": 521,
+      "issue_utc": "2020-05-03T20:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0521.html",
+      "summary": "A few supercell thunderstorms will be possible this afternoon. Large hail and strong/severe wind gusts will be the main threats. An area of enhanced low-level SRH near an outflow boundary/surface trough intersection exists in northeast Colorado and adjacent Nebraska. A brief tornado would be possible in these areas. Trends will continue to be monitored, but a WW is not anticipated this evening.",
+      "discussion": "A thunderstorm has developed within the Nebraska Panhandle with increasing cumulus evident on visible satellite southward into northeastern Colorado. This activity is developing where a surface trough intersects a subtle outflow boundary in northern Colorado to near Sidney, NE. A pool of low 50s F dewpoints has boosted MLCAPE values to over 1000 J/kg. Effective shear of 45-55 kts and steep low/mid-level lapse rates will support supercell thunderstorms capable of large hail and strong/severe wind gusts. Weak low-level flow and somewhat large T/Td spreads will limit any tornado threat; however, northeastern Colorado and adjacent southwestern Nebraska will see slightly better low-level hodographs near the outflow/surface trough intersection. A brief tornado is possible in this area. Buoyancy decreases to the east and activity is not expected to progress far from the High Plains. Trends will continue to be monitored, but a WW is not currently expected this evening."
+    },
+    {
+      "year": 2020,
+      "number": 522,
+      "issue_utc": "2020-05-03T22:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0522.html",
+      "summary": "Gradual increase in convective coverage and intensity is underway. A few of the strongest storms may produce large hail or damaging gusts. Convective trends are being monitored for a possible WW issuance.",
+      "discussion": "Relatively widespread convection is underway across portions of the Ohio Valley towards the Central Appalachians given deep-layer ascent supplied by a passing mid-level shortwave and associated surface troughing. While low-level moisture convergence is present across the Ohio Valley, associated low-level flow is quite weak, contributing to mediocre low-level shear profiles. As such, convection has been relatively outflow dominant over the past couple of hours, with a slowly southward sagging outflow boundary identified by KRLX WSR-88D. Nonetheless, convection along the OH/KY border is embedded within stronger mid-level flow associated with the aforementioned trough aloft, where adequate deep-layer shear may support some updraft organization, despite cellular movement being roughly perpendicular to an outflow boundary. Convection will also be glancing the northern periphery of steeper mid-level lapse rates, that in addition to deep-layer shear, may support some isolated severe hail growth. In addition, a mixed out boundary layer (extending up to 700 mb in spots per latest RAP forecast soundings) farther east into West Virginia and points eastward may encourage a few damaging gusts, especially for downdrafts laden with graupel and small hail. The biggest concern for severe is with a the development and northeast movement of a MCV associated with a gradually weakening bow echo to the southwest. This MCV may traverse the aforementioned boundaries, where MCV strengthening and a subsequent, more concentrated damaging wind threat may occur. Conditions will continue to be monitored for the need of a WW issuance."
+    },
+    {
+      "year": 2020,
+      "number": 523,
+      "issue_utc": "2020-05-03T23:18Z",
+      "topic": "Severe Thunderstorm Watch 159",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0523.html",
+      "summary": "A few damaging gusts may accompany the leading line of a weakening bow echo across middle into eastern Tennessee, with some marginally severe hail accompanying storms northeast of Memphis.",
+      "discussion": "Though on a gradual downward trend, the severe threat continues across WW 0159 in association with a classic \"bow and arrow\" structured bow echo across middle into western Tennessee. The bow echo leading line continues to move into a mixed out low-level airmass across eastern Tennessee, with a weakening trend noted. Nonetheless, the leading line continues to traverse a region of steep low and mid-level lapse rates, suggesting that some damaging wind threat will continue with this convection for a few more hours. Farther west, an 925-850 mb moist axis bissects the bow-echo training cold pool, optimizing parcel ascent atop colder, denser air to reach their LFCs across western TN, where stronger storms have been noted based on KNQA WSR-88D data, with up to golfball hail reported over the past hour. Low level moisture advection over the cold pool, with some steeper mid-level lapse rates gradually advection eastward, may foster some severe hail potential with the stronger storms. ..Squitieri.. 05/03/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 524,
+      "issue_utc": "2020-05-04T00:00Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0524.html",
+      "summary": "A couple of damaging wind gusts and brief instances of large hail may accompany the strongest storm cores over the next couple of hours. Boundary layer stabilization after sunset should result in weakening convective trends.",
+      "discussion": "Pulse convection has recently been noted by mosaic composite radar and visible satellite ahead of a dryline over parts of central Texas. These storms are developing in a very hot, dry, deeply mixed boundary layer, with 9+ C/km lapse rates noted within a sfc-500 mb layer (per latest RAP forecast soundings). The steeper mid-level lapse rates may promote large hail growth, though the size and density of hail coverage at any particular location may be modulated by stones falling through a deeply heated and dry column. However, any hail/graupel melting or rain water evaporation in such a column will promote ample latent cooling and associated downward momentum transport to perhaps support strong wind gusts. Storm organization and longevity should be limited some by modest flow and associated weak vertical shear profiles aloft, with convection likely diminishing in coverage and intensity with a rapid cooling boundary layer after sunset. As such, any severe threat that materializes should be sparse and brief enough to preclude a WW issuance. ..Squitieri.. 05/04/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 525,
+      "issue_utc": "2020-05-04T02:59Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0525.html",
+      "summary": "Risk for large hail and locally damaging winds across northeastern Colorado may continue for another couple of hours, before diminishing.",
+      "discussion": "An increase in convective coverage/intensity has been observed over the past hour across northeastern Colorado, where a few intense/supercell storms capable of producing large hail and locally damaging downdrafts have evolved. This development is consistent with recent CAM guidance, particularly the NCEP HRRR-parallel run which has modeled this evolution quite accurately. This convective uptick is occurring in tandem with a local increase in low-level warm advection, owing to the development of a southeasterly low-level jet (50 kt per recent KGLD WSR-88D VWP). While only a narrow axis of instability is indicated (confined to the high Plains of eastern Colorado), expect the strengthening low-level southeasterly flow to maintain robust updrafts for the next couple of hours. Afterward, continued buondary-layer cooling/stabilization should yield a gradual decrease in storm intensity."
+    },
+    {
+      "year": 2020,
+      "number": 526,
+      "issue_utc": "2020-05-04T06:39Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0526.html",
+      "summary": "Large hail and strong wind gusts will be possible over the next few hours from northeast Colorado into northwest Kansas and southwest Nebraska. Although weather watch issuance is not expected, the area will continue to be monitored.",
+      "discussion": "The latest surface analysis shows a 1002 mb low over southeast Colorado with a post-frontal airmass in place across northeast Colorado. Scattered strong thunderstorms are ongoing in this post-frontal airmass near and to the west of the nose of a 40 to 50 kt low-level jet. This convection is supported by large-scale ascent associated with a subtle shortwave trough moving eastward across the central High Plains. Although the RAP is estimating MUCAPE in the 500 to 1000 J/kg range across much of the central High Plains, effective shear is likely above 50 kt. This combined with steep mid-level lapse rates will be favorable for supercells with isolated large hail. Although the storms should remain elevated, a few strong wind gusts will also be possible. The area downshear across south-central Nebraska and north-central to eastern Kansas will be monitored for a more robust severe threat later this morning."
+    },
+    {
+      "year": 2020,
+      "number": 527,
+      "issue_utc": "2020-05-04T10:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0527.html",
+      "summary": "Severe thunderstorms associated with large hail and isolated wind damage appear likely to develop across parts of the central Plains this morning. The severe threat may also affect parts of southwest Missouri. Weather watch issuance will likely be needed.",
+      "discussion": "The latest surface analysis shows a 1002 mb low over far southeast Colorado with low-level moisture maximized to the southeast of the low in Oklahoma. Low-level moisture lessens with northward extent across southern and central Kansas. The distribution of instability is similar to that of low-level moisture, with MUCAPE maximized near 3500 J/kg in Oklahoma. A gradient of instability is present in central and southeast Kansas near an elevated warm front. Short-term model forecasts develop a northwest to southeast band of thunderstorms just after daybreak along the gradient of instability. Initially, the storms will be elevated. Strong effective shear and steep mid-level lapse rates will be favorable for supercells with large hail. As surface temperatures warm, the chance for surface-based thunderstorms will increase, making wind damage a possibility. As the exact corridor with the greatest severe threat becomes more certain, weather watch issuance will likely be needed across parts of the central Plains to the Ozarks this morning."
+    }
+  ]
+}

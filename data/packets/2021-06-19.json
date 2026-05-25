@@ -1,0 +1,265 @@
+{
+  "convective_day": "2021-06-19",
+  "valid_start": "2021-06-19T12:00Z",
+  "valid_end": "2021-06-20T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2021-06-19",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-06-19T20:00Z",
+      "valid_end": "2021-06-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210619_2000.html",
+      "summary": "Damaging thunderstorm wind and isolated large hail are possible from portions of the central High Plains to the Mid-Atlantic. A tornado threat also exists over parts of the central Gulf Coast States to southwestern Georgia, east of the inland track of Tropical Storm Claudette.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "...Central High Plains into the Central Plains... As mentioned in MCD #1012, storms are beginning to develop over the Front Range where upwards of 2000 J/kg SBCAPE in the greater Denver area by RAP forecast soundings. Guidance continues to show that numerous storms will develop, before then moving off the higher terrain into the more moist and unstable air mass over the CO Plains. Additionally, southeasterly low-level flow veering to southwesterly then westerly aloft supports moderate effective bulk shear (30-40 kt) and the expectation is for relatively strong and organized updrafts. Severe Thunderstorm Watch #286 was recent issued over this area. Upscale growth is anticipated later this afternoon/evening, with the stationary boundary likely acting as a corridor for propagation. Numerous CAMs develop a rear-inflow jet with this convective line, and expected coverage of severe winds is now high enough to introduce 30%/Enhanced wind probabilities from far northeast CO eastward along the western and central NE/KS border."
+        },
+        {
+          "title": "MO/IL",
+          "text": "Thunderstorms have quickly developed in the vicinity of central MO/IL border. Strong instability and moderate vertical shear will likely result in strong updrafts capable of large hail and damaging wind gusts. Severe threat in this region could last for several hours and Severe Thunderstorm Watch #287 was recently issued to cover this threat."
+        },
+        {
+          "title": "Downeast/Eastern ME",
+          "text": "As mentioned in MCD #1014 a line of storms which had previously struggled to organize has strengthened in the last 15 to 30 minutes. This line of storms is a combination of both bowing segments and embedded supercells. The thermodynamic environment will likely limit the overall threat, but isolated large hail, damaging wind, or even a tornado remains possible as these storms move eastward over the next few hours. ..Mosier.. 06/19/2021 .PREV DISCUSSION... /ISSUED 1131 AM CDT Sat Jun 19 2021/"
+        },
+        {
+          "title": "AL/GA/FL",
+          "text": "Strong low-mid level wind fields in the southeastern quadrant of TS Claudette will continue to result in favorable vertical shear profiles for rotating storms through the afternoon and evening over parts of AL, GA, and the FL Panhandle. Please refer to WW 285 for further details."
+        },
+        {
+          "title": "OH to Mid Atlantic Region",
+          "text": "Overnight convection has resulted in a large canopy of mid/high clouds across portions of eastern OH and western/central PA. This will significantly limit daytime heating and destabilization later today. Therefore, have adjusted the SLGT risk area farther south into parts of OH/WV/MD where stronger heating is expected, and where CAM guidance in is better agreement regarding thunderstorm development. A shortwave trough currently over Lower MI will help to initiate storms across northern OH by mid-afternoon, with storms tracking southeastward through the evening. Other more isolated clusters of activity are expected from WV into the Chesapeake Valley this afternoon. All of these storms will pose some risk of locally damaging wind gusts and hail."
+        },
+        {
+          "title": "Central High Plains",
+          "text": "Strong daytime heating and ample low-level moisture will lead to scattered thunderstorms by mid/late afternoon over the foothills and adjacent plains of central CO and southeast WY. Storms will spread eastward and intensify by early evening, with several CAM solutions suggesting congealing cold-pools and the risk of significant damaging winds across parts of southwest NE and northeast KS. Considered an upgrade to ENH, but will maintain SLGT due to lack of a well-defined shortwave trough and relatively weak midlevel winds. Nevertheless, will re-evaluate the risk category at 20z."
+        },
+        {
+          "title": "MO/IL/IN",
+          "text": "Visible satellite imagery shows a large area of ACCAS and isolated thunderstorms from portions of northeast MO into central IL. Ample low-level moisture and strong heating in this region will yield afternoon MLCAPE values over 3500 J/kg and the potential for intense thunderstorms. 12z CAMs differ in their convective solutions over this area, but it is likely that one or more clusters of severe storms will develop this afternoon and evening. Storms that develop will pose a risk of large hail, damaging winds, and perhaps a tornado. Please refer to MCD #1009 for details on one particular cluster of ongoing storms."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2021-06-20",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2021-06-20T01:00Z",
+      "valid_end": "2021-06-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2021/day1otlk_20210620_0100.html",
+      "summary": "Damaging winds will be common with convection across the central Plains tonight. Isolated hail/wind are also possible across portions of the mid Mississippi/Ohio Valley region. A couple of tornadoes remain possible in association with the remnants of Claudette.",
+      "sections": [
+        {
+          "title": "01z Update",
+          "text": "Central High Plains convection has developed as earlier anticipated. This activity has matured quickly into an MCS near the CO/NE/KS border, and it will surge east along the NE/KS border after sunset as LLJ strengthens across KS into southern NE. Several wind reports in excess of 75mph have already been reported across eastern CO and if the developing bow over northwestern KS accelerates, additional wind reports in excess of 70mph remain possible. Semi-persistent corridor of back-building thunderstorms continue across northeast MO. A reservoir of very unstable air currently extends across northeast KS/northern MO. With southwesterly inflow into this activity, renewed updrafts may continue to develop into the northwestern flank this complex. Downstream, thunderstorms have organized in the lee of lake MI across northern IN. This activity should propagate southeast over the next few hours and currently resides in an air mass that supports robust updrafts. Will orient the SLGT Risk across northwestern OH/northern IN to account for this cluster. A couple of tornadoes remain possible in association with the remnants of Claudette. Strongest low-level shear is shifting east across the FL P"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2021,
+      "number": 1008,
+      "issue_utc": "2021-06-19T13:33Z",
+      "topic": "Tornado Watch 284",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1008.html",
+      "summary": "The risk for a tornado or two will probably continue through the morning and into the afternoon. A tornado watch will be considered later this morning to the east of tornado watch 284.",
+      "discussion": "KMOB radar imagery shows a couple of embedded rotating updrafts over southern AL and far western part of the FL Panhandle as of 1330 UTC. The 12 UTC Tallahassee raob showed ample buoyancy (1400 J/kg MLCAPE). The raob likely sampled to the east of the moist axis, which was located farther west over the western FL Panhandle where surface dewpoints are 2-4 deg F higher. The KEVX VAD data has shown an increase in 3-km AGL flow with speeds increasing from 40 to 50 kt during the past 2 hours. As a result, the hodograph has enlarged and around 240 m2/s2 0-1 km SRH is noted. Given the very moist/strongly sheared low levels, it seems plausible it will continue to remain favorable for mesocyclogenesis during the morning. The stronger and more persistent circulations will be capable of a couple of tornadoes. As the primary band translates east and north during the morning, the risk for a tornado will probably spread into parts of southeast AL and potentially the central part of the FL Panhandle later this morning and into the afternoon. ..Smith.. 06/19/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1009,
+      "issue_utc": "2021-06-19T16:15Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1009.html",
+      "summary": "A mesoscale area of hail potential will seemingly focus over parts of central and south-central IL through the midday hours. There is relatively large uncertainty in the evolution of this small thunderstorm cluster beyond 1pm.",
+      "discussion": "Radar mosaic shows several outflows from overnight thunderstorm complexes over the OH Valley trailing westward into the mid MS Valley. An area of stronger thunderstorm cores has developed over central IL late this morning on the western periphery of the influence of the thunderstorm cluster near the IN/KY border. Surface temperatures at 11am are relatively mild (low to mid 70s deg F) owing to some cloud debris but clearing skies will enable stronger heating to occur downstream of the central IL thunderstorm cluster. It is unclear whether this convection will remain elevated or transition to surface based over the next few hours. It is this uncertainty, coupled with differing model guidance, that lends question to the potential spatial extent of severe thunderstorm activity this afternoon. Nonetheless, it appears ample flow exists across this region to support organized storms (reference the St. Louis WSR-88D VAD data). Given the limited spatial extent of the ongoing strong to severe thunderstorms over central IL late this morning, this will likely preclude a severe thunderstorm watch issuance. However, convective trends will continue to be monitored over the next few hours for a possible greater-than-expected severe risk."
+    },
+    {
+      "year": 2021,
+      "number": 1010,
+      "issue_utc": "2021-06-19T16:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1010.html",
+      "summary": "A few supercells capable of marginally severe hail and wind damage are possible through the afternoon.",
+      "discussion": "An upper-low is moving across Quebec which is bringing cool temperatures aloft across the Northeast. Meanwhile, at the surface, temperatures have warmed into the mid 70s to low 80s. As the boundary layer has warmed, deep mixing has dropped dewpoints into the low to mid 50s across the region. This has kept instability limited to around 500 J/kg which should be maintained throughout the day and may increase to around 1000 J/kg as the surface continues to warm and dewpoints stabilize within the well mixed boundary layer. The 1630Z VWP from CCX indicates around 40 to 45 kts of westerly flow between 3 and 4 km. This shear will support rotating updrafts which may be strong enough for some marginally severe hail and isolated damaging winds (given the well mixed sub cloud layer and moderately strong flow above 2km) despite an otherwise less than favorable thermodynamic environment. A watch is not likely given the isolated and marginal nature of the threat."
+    },
+    {
+      "year": 2021,
+      "number": 1011,
+      "issue_utc": "2021-06-19T18:13Z",
+      "topic": "Tornado Watch 285",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1011.html",
+      "summary": "Several supercells are developing in the warm sector across southwest GA. The risk for a couple of tornadoes is increasing with potential perhaps peaking between now (210pm EDT) and 4pm EDT.",
+      "discussion": "Radar/satellite imagery indicates the development of several supercells in a destabilizing warm sector near the southeast AL/southwest GA border early this afternoon. KEOX VAD data indicates around 200 m2/s2 0-1km SRH per observed storm motions. A maritime warm front is draped across southwest GA with mid 80s deg F temperatures and southerly flow located to its south, whereas upper 70s and backed east-southeasterly surface flow is located to the north of the boundary. As storms interact with the vorticity-rich zone along the maritime warm front, it seems tornado potential with the supercells will be greatest in the vicinity of the boundary. Additional storms are developing to the south of a storm with a history of a tornado, and these storms will likely move north into the warm frontal zone and potentially pose a tornado risk. ..Smith.. 06/19/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1012,
+      "issue_utc": "2021-06-19T18:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1012.html",
+      "summary": "A severe thunderstorm watch will likely be needed for northeastern CO and parts of western NE. Large hail and severe gusts will be the initial threats before a transition to a more widespread risk for severe gusts towards early evening as storms move towards the KS border.",
+      "discussion": "Midday water-vapor imagery shows a subtle disturbance moving east across southern WY and towards the central High Plains. At the surface, strong heating is resulting in temperatures warming through the 80s across east-central CO northward into the NE Panhandle. Storms are beginning to develop over the Front Range where upwards of 2000 J/kg SBCAPE in the greater Denver area by RAP forecast soundings. Expecting storms to gradually develop over the next 1-3 hours in the vicinity of the I-25 corridor from Pikes Peak northward to the Cheyenne Ridge. Very steep low to mid-level lapse rates will favor the risk for isolated hail/severe gusts to become more common as storms intensify as they move east into richer low-level moisture (longitude of Akron and areas east). Forecast shear profiles will be strongest over northeast CO into the NE Panhandle where southeasterly surface winds veering to 30 kt westerly in the mid levels supports 30-40 kt effective shear. Of particular note, suite of convection-allowing model guidance from this morning showed a unanimous depiction of storms growing upscale into a squall line over northeast CO and moving into northwest KS and southwest NE by early evening."
+    },
+    {
+      "year": 2021,
+      "number": 1013,
+      "issue_utc": "2021-06-19T19:12Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1013.html",
+      "summary": "A few supercells are possible in the next 1 to 2 hours and may grow upscale into a cluster. The primary threat will likely be large hail with some threat for damaging winds.",
+      "discussion": "An area of agitated cumulus has developed on the eastern periphery of an EML plume extending from the Plains into central Missouri. Within this cu field one storm has recently formed near the Mississippi river north of Saint Louis. In this region, dewpoints are in the low to mid 70s with temperatures in the mid 80s to near 90. This warming/moistening has proven sufficient to reduce inhibition across this region with little CINH remaining according to SPC mesoanalysis. In addition, SPC mesoanalysis shows MLCAPE around 2500 to 3000 J/kg. Regional VWPs and SPC mesoanalysis shows around 40 to 45 knots of northwesterly shear across the region. This should be sufficient for storms to organize into supercells. While 12Z CAM guidance has struggled with the timing and evolution of this activity, there is consensus for upscale growth into a cluster once storms develop from each of the CAMS. However, the downstream airmass becomes less favorable with less instability and increasing inhibition/subsidence. Therefore, this activity may struggle to propagate forward and may back build westward toward the greater instability through the afternoon/evening. While damaging wind may be possible, large hail will likely be the greatest threat with this activity."
+    },
+    {
+      "year": 2021,
+      "number": 1014,
+      "issue_utc": "2021-06-19T19:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1014.html",
+      "summary": "Isolated large hail and damaging winds are possible through the early evening.",
+      "discussion": "A line of storms which had previously struggled to organize has strengthened in the last 15 to 30 minutes. This is likely the result of these storms reaching better low-level moisture/convergence where low-level flow is more backed and advecting off the ocean. The KGYX VWP shows 50 knots of flow around 5 km which is sufficient for storm organization. This line of storms is a combination of both bowing segments and embedded supercells. The thermodynamic environment is not overly favorable with MLCAPE around 500 J/kg, but isolated large hail, damaging wind, or even a tornado remains possible. A watch is unlikely due to the limited instability as well as the relatively short duration of the threat before storms move offshore."
+    },
+    {
+      "year": 2021,
+      "number": 1015,
+      "issue_utc": "2021-06-19T20:33Z",
+      "topic": "Tornado Watch 285",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1015.html",
+      "summary": "The most favorable corridor for a tornado will focus along the maritime warm front/differential heating zone draped from west to east across southern GA. An additional tornado watch may be considered towards the expiration time of tornado watch 285 (8pm EDT) or if storms begin to exhibit tornadic supercell potential to the east of tornado watch 285.",
+      "discussion": "Scattered thunderstorms in a mix of discrete cells and bands of deep convection continue to slowly shift to the northeast across southeast AL/southwest GA. A maritime warm front/differential heating zone is stationary and draped from west to east across southeast AL eastward into south-central GA. As stronger updrafts interact with this vorticity rich zone, a greater probability for low-level mesocyclone development and a tornado risk has been apparent so far this afternoon. Expecting the relationship of an increased threat for storm-scale rotation and the differential heating zone to continue through the remainder of the afternoon and perhaps into the early evening. As the boundary layer slowly cools, storm coverage will likely decrease this evening with the overall conditional tornado risk to spatially contract and possibly become quite limited by mid evening. ..Smith.. 06/19/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1016,
+      "issue_utc": "2021-06-19T21:24Z",
+      "topic": "Severe Thunderstorm Watch 286",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1016.html",
+      "summary": "Numerous strong-to-severe thunderstorms have developed from the Nebraska Panhandle southward to south-central Colorado. These storms will initially pose a threat for large hail and damaging winds. As they grow upscale, especially across the eastern Nebraska Panhandle and northeastern Colorado, the threat for a more organized wind threat is expected to develop.",
+      "discussion": "With numerous thunderstorms across the area in close proximity to one another, cold pool mergers are already taking place in the Nebraska Panhandle. As a result, storms are already beginning to surge southeastward. Over the next couple of hours, these storms and the storms in northeastern Colorado are expected to grow upscale. Given the steep lapse-rate environment, sufficient moisture/instability, and increasing midlevel flow/forcing, an organized severe wind threat is expected to develop."
+    },
+    {
+      "year": 2021,
+      "number": 1017,
+      "issue_utc": "2021-06-19T21:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1017.html",
+      "summary": "Storm initiation appears possible in the next 1 to 2 hours across the central and northern High Plains. A narrow corridor of buoyancy will support a few hours of isolated severe potential with high-based storms. Uncertainty on storm coverage and severity remains high.",
+      "discussion": "Ahead of a deepening mid-level trough observed on afternoon water vapor imagery, towering cumulus has become progressively more agitated from far southeastern Montana into northeastern Wyoming. Incipient updrafts along the crest of the Big Horns and higher terrain in southeast Montana suggests the airmass across the High Plains is likely nearing minimal convective inhibition. SPC mesoanalysis indicates between 500-1500 J/kg of MLCAPE have developed in a narrow corridor from the Nebraska Panhandle northward, owing to steep mid-level lapse rates and surface mixing ratios between 8 and 10 g/kg. Weak upslope flow, diurnal heating, and background ascent from the approaching mid-level wave should further diminish remaining inhibition, and may allow for convective development in the next couple of hours. CAM guidance remains unreliable in the weak ascent regime, but does hint at one or more clusters of storms evolving off the higher terrain this evening. The primary severe threats will be damaging outflow winds and hail, given moderate buoyancy and steep low/mid-level lapse rates. Across the Black Hills of western South Dakota, cloud debris from earlier convection is inhibiting strong surface heating casting doubt on storm initiation in this region. Here, deeper surface moisture and higher buoyancy may support a locally greater, but more conditional severe threat for wind and hail into this evening. Given the narrow corridor of destabilization and the uncertainty on storm coverage/intensity, a weather watch is unlikely, though trends will be monitored."
+    },
+    {
+      "year": 2021,
+      "number": 1018,
+      "issue_utc": "2021-06-19T22:00Z",
+      "topic": "Severe Thunderstorm Watch 286",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1018.html",
+      "summary": "An organized wind threat is developing this afternoon/evening across northeastern Colorado, southwestern Nebraska, and northwestern Kansas. A Severe Thunderstorm Watch will be needed downstream of WW286.",
+      "discussion": "Thunderstorms across the eastern Nebraska Panhandle and northeastern Colorado are rapidly growing upscale and surging east-southeastward/eastward. Given the favorable environment downstream, characterized by steep lapse rates, over 2000 J/kg of MUCAPE, and 30-40 knots of effective bulk shear, continued upscale growth and organization is expected. In addition, the southerly low-level jet is expected to increase this evening across central Kansas, providing additional support for convective maintenance and organization. All factors are supportive of the development of a severe-wind-producing MCS, including potential for significant severe winds, over the next several hours."
+    },
+    {
+      "year": 2021,
+      "number": 1019,
+      "issue_utc": "2021-06-19T22:11Z",
+      "topic": "Severe Thunderstorm Watch 287",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1019.html",
+      "summary": "Large hail and damaging winds continues to be possible with storms across the watch area.",
+      "discussion": "A cluster of severe storms was in progress in the St. Louis area at 2210z, with a history of damaging winds and severe hail. New development was occurring upstream in the vicinity of Hannibal, MO, where upwards of 4000 J/kg of MLCAPE is present. The region is on the southern periphery of stronger mid-level flow, and 35-40 kts of northwesterly effective shear will continue to be conducive for supercells with a wind and hail threat. Where additional storm mergers occur, a more concentrated damaging wind risk will be possible with southward moving clusters. ..Bunting.. 06/19/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1020,
+      "issue_utc": "2021-06-19T23:07Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1020.html",
+      "summary": "Ongoing thunderstorms have shown greater organization and increasing severe potential over the last 30 minutes. A few supercells have recently evolved and may pose a risk for strong winds, hail, or a brief tornado into this evening. Uncertainty on storm evolution and longevity remains high. A weather watch is possible, but uncertain.",
+      "discussion": "Along a diffuse frontal zone from eastern Ohio and western Pennsylvania, several small storms have developed early this evening. RADAR and satellite obs suggest these storms have become better organized over the last 30 minutes, with a couple of supercells noted east of Cleveland and north of Pittsburgh. Severe potential may be increasing as convection continues through an environment characterized by weak to moderate buoyancy (500-1000 J/kg) and sufficient (40-50 kts) deep-layer shear for supercells. Locally backed surface winds along the front were contributing to somewhat enlarged low-level hodographs with 0-1km SRH around 100 m2/s2. While not overly supportive of severe weather, storms may pose a risk for damaging wind gusts, hail, or a brief tornado across far eastern OH and western PA this evening. Farther to the east, the airmass remains much less favorable for severe weather owing to persistent cloud cover and cooler temperatures. Any severe threat that does evolve will likely be confined spatial and temporally. Convective trends will be monitored for a possible weather watch, though high uncertainty in storm evolution remains."
+    },
+    {
+      "year": 2021,
+      "number": 1021,
+      "issue_utc": "2021-06-19T23:22Z",
+      "topic": "Tornado Watch 285",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1021.html",
+      "summary": "The risk for a few tornadoes associated with Tropical Depression Claudette will continue through this evening and overnight. A new Tornado Watch will be needed prior to 00z.",
+      "discussion": "Tropical Depression Claudette was located over west-central AL, and continuing to move northeast (see latest NHC Advisory for additional details). Mesoanalysis and area VWP data continue to show a favorable environment for low-level rotation with 0-1 km SRH of 150-200 m2/s2 across much of the current watch area. Short-range guidance suggests relatively strong 850-mb wind fields of 40-45 kt will remain in place overnight across the area, and dew points in the 70s will result in surface-based instability through the overnight hours. Thus, conditions will remain favorable beyond 00z for a few tornadoes across southeast AL, the western FL Panhandle and southwest GA, and a new Tornado Watch will be coordinated prior to 00z. ..Bunting.. 06/19/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1022,
+      "issue_utc": "2021-06-20T00:14Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1022.html",
+      "summary": "Recent vigorous storm development along the eastern shore of Lake Michigan may pose a risk for mainly damaging wind gusts or severe hail this evening. Storms may continue into the first part of the overnight across Ohio and Indiana. A weather watch is uncertain.",
+      "discussion": "As of 2350 UTC, KIWX radar data showed several strong/severe storms developing along a modified lake breeze/stationary front across southern Michigan and northern Indiana. Visible data shows several areas of agitated cumulus along the front and ahead of the ongoing storms suggesting additional development is likely. SPC mesoanalysis indicates these storms are moving into an environment supportive of severe weather potential with moderate buoyancy (1500-2000 J/kg of MLCAPE) and sufficient deep-layer shear (30-40 kts) for organized updrafts. Straight but elongated hodographs and shear vectors largely parallel to the stationary front will favor more linear/cluster modes as increasing storm coverage/interactions develop. Damaging winds appear to be the greatest threat though the degree of buoyancy and some potential for initial supercell structures may also support a threat for large hail. Low confidence in convective evolution exists currently. However, if a deeper cold pool can develop concurrent with an increase in the low-level jet, damaging wind potential may increase downstream across portions of northeast Indiana and northwest Ohio later tonight. Convective trends will be monitored for a possible weather watch."
+    },
+    {
+      "year": 2021,
+      "number": 1023,
+      "issue_utc": "2021-06-20T00:22Z",
+      "topic": "Severe Thunderstorm Watch 288",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1023.html",
+      "summary": "As the storms move out of northeastern Colorado, the severe wind threat will continue into southwestern Nebraska and northwestern Kansas over the next couple of hours.",
+      "discussion": "A couple of surging/bowing segments of the developing MCS have been noted across Yuma and Kit Carson Counties in northeastern Colorado (yielding a severe gust in Wray, CO). In the short term, these would be the favored locations for severe winds. Despite convective cores coming down some over the last hour, the expectation is that the MCS will continue to organize and restrengthen as it moves eastward into a better thermodynamic environment along with the southerly low-level jet increasing into the area over the next few hours."
+    },
+    {
+      "year": 2021,
+      "number": 1024,
+      "issue_utc": "2021-06-20T02:00Z",
+      "topic": "Severe Thunderstorm Watch 288",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1024.html",
+      "summary": "The threat for significant severe winds will continue over eastern portions of the watch area, and a downstream watch will be needed prior to 0245z.",
+      "discussion": "Latest reflectivity/velocity data from KGLD shows an intense bowing line of severe thunderstorms moving east at 50 mph across northwest KS and southwest NE. Several reports of severe wind gusts have been received, including a measured gust to 84 mph in Thomas County, KS. The downstream environment remains supportive of a continued severe risk with strong instability (MUCAPE in excess of 2500 J/kg), and around 35 kts of westerly effective shear. Extrapolation of the current system movement would place the line at the eastern edge of ww 288 by 03z/10 pm CDT, and thus a new Severe Thunderstorm Watch will be needed prior to that time. ..Bunting.. 06/20/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1025,
+      "issue_utc": "2021-06-20T02:49Z",
+      "topic": "Severe Thunderstorm Watch 287",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1025.html",
+      "summary": "An isolated severe threat may continue in and west of Severe Thunderstorm Watch 287, however a new watch is not anticipated.",
+      "discussion": "Strong/occasionally severe storms were occurring across east-central/northeast MO as of 0225z. Trends in radar/reports continue to show a general decrease in intensity over the watch area during the past hour as MLCIN gradually increases due to nocturnal cooling. The more likely area for additional thunderstorm development over the next few hours is west of the current watch over north-central MO, where modest convergence and lower MLCIN is present. With strong instability and 25-30 kts of effective shear, the potential for an isolated severe storm will exist for the next few hours. Given the expected isolated nature of the remaining severe risk, an additional watch is not anticipated however convective trends will be monitored. ..Bunting.. 06/20/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1026,
+      "issue_utc": "2021-06-20T04:09Z",
+      "topic": "Severe Thunderstorm Watch 291",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1026.html",
+      "summary": "An pronounced bowing line of severe thunderstorms will pose a threat for damaging winds east of Severe Thunderstorm Watch 291, and a downstream watch will be issued prior to 05z.",
+      "discussion": "A pronounced bowing line of severe thunderstorms extended from Kearney County NE south to Russell County, KS at 04z. The line was moving northeast at 50 mph, and has produced numerous severe wind reports, several in excess of 80 mph. A strengthening low-level jet and MUCAPE in excess of 3000 J/kg along and south of an east-west stationary front will provide a very favorable environment for the system to maintain its structure and damaging wind potential into far eastern NE, northwest MO and portions of western IA into the early morning hours. Thus, a new Severe Thunderstorm Watch will be needed prior to 05z. ..Bunting.. 06/20/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1027,
+      "issue_utc": "2021-06-20T04:58Z",
+      "topic": "Tornado Watch 289",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1027.html",
+      "summary": "The threat for a few tornadoes continues with bands of showers and thunderstorms associated with Tropical Depression Claudette.",
+      "discussion": "The center of TD Claudette was located over central AL at 0440z and continues to move northeast at 14 mph. Bands of showers and occasional thunderstorms were occurring within two confluence zones in and just west of the watch area, where lower/mid 70s dew points were contributing to SBCAPE of 1000-1500 J/kg. Latest VWP data from KEOX and KTLH sampled 50 kts in the 2-3 km AGL layer, and low-level SRH of 300-400 m2/s2. Hi-res guidance continues to suggest some increase in intensity of convective elements within bands of showers and thunderstorms during the overnight hours, and the environment will continue to support the potential for a few tornadoes. ..Bunting.. 06/20/2021 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2021,
+      "number": 1028,
+      "issue_utc": "2021-06-20T08:37Z",
+      "topic": "Severe Thunderstorm Watch 292",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1028.html",
+      "summary": "The severe threat across WW 292 is expected to become very isolated over the next hour. A new downstream weather watch will not be needed due to the marginal nature of the threat.",
+      "discussion": "The latest radar imagery shows a north-northwest/south-southeast oriented band of strong thunderstorms located in southwest Iowa and northwest Missouri. This band is moving eastward along a quasi-stationary front that extends from southern Iowa into northern Illinois. To the south of the front, the RAP is showing an east-to-west corridor of moderate instability. This combined with about 35 kt of 0-6 km shear, evident on regional WSR-88D VWPs should sustain an isolated severe threat over the next hour. However, the threat should become increasingly marginal as the storms move to the east of the strongest instability. For this reason, a new weather watch will not be needed downstream of WW 292, and the current watch will be allowed to expire at 5 am CDT."
+    },
+    {
+      "year": 2021,
+      "number": 1029,
+      "issue_utc": "2021-06-20T10:00Z",
+      "topic": "Tornado Watch 292",
+      "url": "https://www.spc.noaa.gov/products/md/2021/md1029.html",
+      "summary": "A tornado threat is likely to continue for a couple more hours across parts of the Florida Panhandle, far southeast Alabama and southwest Georgia. Another tornado watch may be needed beyond the 7 am EDT expiration of tornado watch 292.",
+      "discussion": "The latest radar imagery shows a couple of bands of thunderstorms associated with the remnants of Claudette. The first is located from far southeast Alabama into southwest Georgia, with the second smaller band located across the Florida Panhandle. Surface dewpoints in the lower to mid 70s F are contributing to moderate instability, with the RAP estimating MLCAPE in the 1000 to 2000 J/Kg range. In addition, the Tallahassee WSR-88D VWP has a strong wind field in the low to mid-levels. 0-1 km shear is measured near 25 kt with 0-3 km storm-relative helicities around 200 m2/s2. Low-level shear is likely even stronger in southwest Georgia where the southern edge of a jet near 850 mb is located. Due to the strong low-level shear, cells embedded in these two bands will have a chance to be supercellular and produce tornadoes. Although tornadoes may be brief, the threat should at least continue for a couple more hours."
+    }
+  ]
+}

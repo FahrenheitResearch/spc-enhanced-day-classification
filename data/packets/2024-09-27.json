@@ -1,0 +1,98 @@
+{
+  "convective_day": "2024-09-27",
+  "valid_start": "2024-09-27T12:00Z",
+  "valid_end": "2024-09-28T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2024-09-27",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-09-27T12:00Z",
+      "valid_end": "2024-09-28T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240927_1200.html",
+      "summary": "Tornadoes will be most likely during the morning and remain possible into the afternoon across parts of the Carolinas and Virginia, in association with Tropical Cyclone Helene.",
+      "sections": [
+        {
+          "title": "Carolinas/Virginia",
+          "text": "Helene is forecast by NHC to weaken into a tropical storm by the start of the forecast period. Continued weakening and eventual evolution into a post-tropical cyclone is forecast by later tonight, as the cyclone interacts with a mid/upper-level low over the Mid South and curls northwestward toward the Ohio Valley. The associated low-level wind field, coincident with a rich tropical moisture plume (with mid to upper 70s F dewpoints) in the eastern semicircle of the cyclone, will be strongest at the start of the period and substantially weaken during the afternoon. One or more bands of relatively low-topped supercells may be ongoing at the start of the period across parts of the Carolinas, immediately in advance of an increasingly pronounced midlevel dry slot. Low-level shear/SRH will remain quite strong in the morning, and the greatest relative tornado threat is still expected early in the period from the Pee Dee region of SC into the NC Coastal Plain. Convective bands will move northward into the afternoon, with some tornado potential spreading across parts of southern and central Virginia. Weakening low-level flow/shear and increasing influence of the midlevel dry slot should resu"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-09-27",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-09-27T13:00Z",
+      "valid_end": "2024-09-28T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240927_1300.html",
+      "summary": "Tornadoes will be most likely through midday and remain possible into afternoon across parts of the Carolinas and Virginia.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "In mid/upper levels, a zonal to west-southwesterly belt of flow will persist from the northwestern CONUS and western Canada into central Canada, well-removed from a cut-off, cold-core low now evident in moisture-channel imagery over northern MS. This low is expected to pivot slowly northeastward into middle TN by 00Z, then wobble erratically over that area and/or south-central KY through the night as it absorbs the remnant vorticity max from what is now Tropical Storm Helene."
+        },
+        {
+          "title": "SC/NC/VA",
+          "text": "The path of center of Tropical Storm Helene finally has turned northward. See SPC Tornado watch 688 and associated mesoscale discussions for near-term coverage of the tornado threat over the region. Refer to NHC advisories for the latest track/intensity guidance on Helene. The NHC forecast shows that the center should bend northwestward across southwestern NC, eastern TN and into southern KY through tonight, weakening greatly and becoming more closely conjoined with the mid/upper cyclone. For several more hours, into at least midday, a broad area of strong low-level flow above the surface, and related large low-level shear/hodographs, should extend well east and northeast of center across the outlook area, superimposed over: 1. Relatively maximized low-level convergence, in an arc initially located over eastern SC into southern NC, preceded by well-backed surface winds, and forecast to shift northward to northeastward today; 2. A richly moist, high-theta-e and weak-MLCINH boundary layer advecting inland from the Atlantic and characterized by surface dewpoints commonly in the 70s F. These conditions will yield a favorable environment for tornadoes from any supercells that can cross "
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-09-27",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-09-27T16:30Z",
+      "valid_end": "2024-09-28T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240927_1630.html",
+      "summary": "A few tornadoes will be possible this afternoon across parts of North Carolina and Virginia.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "The center of Helene is tracking quickly northward across the mountains over western NC/east TN, with a band of strong convection to the east of the low extending from southern VA into eastern NC. Local VAD profiles, surface observations, and model guidance indicate a continuing very favorable environment for transient rotating updrafts along this line and the risk of a few tornadoes. Guidance suggests that low-level wind shear will slowly weaken this afternoon throughout the northeastern quadrant of the system, with the line of convection lifting northeastward into a progressively less moist air mass. Little diurnal heating is expected ahead of the line, limiting destabilization. These trends would suggest the overall risk of tornadoes will also slowly weaken by evening. ..Hart/Weinman.. 09/27/2024"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2024,
+      "number": 2124,
+      "issue_utc": "2024-09-27T13:48Z",
+      "topic": "Tornado Watch 688",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2124.html",
+      "summary": "Tornado threat is expected to peak into early afternoon across southern, eastern, and central North Carolina, into a part of southern Virginia. This threat will abruptly end in the wake of ongoing band passage associated with Tropical Storm Helene.",
+      "discussion": "Several supercells are ongoing within a roughly 300-km long convective band, with the inland portion approaching the Raleigh-Durham Metro Area and the trailing portion to along the NC/SC border area. Individual cells are largely transient and progressing north at 45-55 kts. The overall band will rapidly sweep across much of central and eastern North Carolina into midday before entering southern VA. Low-level hodographs are currently maximized, with 0-1 km SRH around 500-600 m2/s2 per LTX/RAX VWP data. These are expected to shrink during the afternoon, suggesting the tornado threat will wane later today. Boundary-layer heating will remain limited by pervasive cloud coverage downstream, but even minor insolation amid mid 70s surface dew points should provide enough boost to increase daytime tornado potential. In the wake of the band, substantial mid-level warming/drying will curtail additional development and the threat will be confined along/ahead of the ongoing band. ..Grams.. 09/27/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2125,
+      "issue_utc": "2024-09-27T16:33Z",
+      "topic": "Tornado Watch 688",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2125.html",
+      "summary": "A few brief tornadoes remain possible through the rest of the afternoon as a weakening band of showers with embedded thunderstorms moves across parts of eastern North Carolina and southern Virginia.",
+      "discussion": "Despite numerous low-level mesocyclones during the late morning to midday, tornadogenesis has largely appeared elusive within a persistent band of convection from the central NC/VA border area southward into coastal far southern NC. One strong meso with the deepest updraft last hour may have briefly produced in southern NC per an ILM LSR. Low-level winds have subsided across the coastal plain via LTX VWP data, but do remain sufficient for a brief tornado threat amid 74-78 F surface dew points and temperatures in the low 80s. Farther north, low-level hodographs remain rather enlarged, but will shrink throughout the afternoon. Morning CAM guidance suggest a breakup to the convective band should occur, which will yield a more cellular mode. This would favor potential for a few tornadoes, but should be tempered by the otherwise diminishing shear/ascent environment. ..Grams.. 09/27/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2126,
+      "issue_utc": "2024-09-27T19:28Z",
+      "topic": "Tornado Watch 688",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2126.html",
+      "summary": "A brief tornado or two will remain possible for a couple more hours. An additional tornado watch beyond the 22Z expiration of WW 688 appears unlikely.",
+      "discussion": "Tornado potential has become focused in two regions within WW 688, one near the northeast NC/southeast VA border area and a separate corridor near along the central VA/NC border. The lead convective band has considerably decayed over the past couple hours, but remnants of it continue to move northeast along the northeast NC/southeast VA border area. Surface temperatures and dew points are a couple degrees lower downstream, suggesting the threat will struggle to reintensify. But favorable low-level shear and still adequate tropical boundary-layer moisture suggest a conditional tornado threat remains evident. Farther west, multiple low-topped cells have rotated and produced at least one brief TDS thus far. Surface temperatures have warmed into the low to mid 80s within cloud breaks across central NC and this has compensated for the persistent reduction in low-level SRH per the FCX VWP. A brief tornado or two will remain possible with small discrete cells in this region for another couple hours. ..Grams.. 09/27/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 2127,
+      "issue_utc": "2024-09-27T21:59Z",
+      "topic": "Tornado Watch 688",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md2127.html",
+      "summary": "Some tornado threat may persist into the evening. Some parts of Tornado Watch 688 have been extended in time to expire at 8 PM EDT.",
+      "discussion": "At 2155 UTC, two clusters of relatively low-topped convection with embedded rotating cells are ongoing from extreme northern NC into southern/central VA. One cluster is moving northward to the east of Roanoke, near the leading edge of a pronounced midlevel dry slot. The other cluster is moving across the Tidewater region of Virginia, within a persistent low-level warm-advection regime. Extensive cloudiness and poor lapse rates have limited destabilization, but rich low-level moisture is supporting MLCAPE of around 500 J/kg. Notable weakening of low-level flow has been observed from both the KFCX and KAKQ radars, but 0-1 km SRH remains in the 150 m2/s2 range, sufficient to support some tornado threat with any persistent low-topped supercells. Parts of WW 688 have been extended in time to 8 PM EDT in order to address the remaining threat. ..Dean.. 09/27/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

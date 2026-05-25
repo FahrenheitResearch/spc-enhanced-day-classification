@@ -1,0 +1,266 @@
+{
+  "convective_day": "2024-07-13",
+  "valid_start": "2024-07-13T12:00Z",
+  "valid_end": "2024-07-14T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2024-07-13",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-07-13T16:30Z",
+      "valid_end": "2024-07-14T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240713_1630.html",
+      "summary": "Multiple clusters of strong to severe thunderstorms are possible across portions of the Northern Plains into the Upper Mississippi Valley today and tonight. Other more isolated strong storms are possible in northern New England, and portions of Nevada.",
+      "sections": [
+        {
+          "title": "Northern High Plains",
+          "text": "Relatively fast westerly mid-level flow is present today across the northern Rockies/Plains. Several weak shortwave troughs are tracking across southern Canada and parts of MT/ND today, including one with an associated cluster of thunderstorms over southwest SK. Persistent east-southeasterly low level winds ahead of this system across eastern MT will likely allow it to persist through the day and intensify with afternoon heating. A combination of supercells and bowing structures are suggested by morning CAM guidance, with a risk of large hail and damaging winds tracking across northeast MT into western ND during the late afternoon and evening. Given the consistent signal in guidance for fast-moving storms, and the favorable CAPE/shear environment, have upgraded parts of this corridor to ENH risk."
+        },
+        {
+          "title": "MN/WI and Vicinity",
+          "text": "Remnant MCS and associated MCV is currently located over southeast MN. This system will track southeastward across central/southern WI through the afternoon, where strong daytime heating and dewpoints in the upper 60s to lower 70s will yield strong instability. Re-development of storms is possible, with a few severe/supercell storms possible - capable of hail and damaging wind gusts. Later this evening, thunderstorms are expected to intensify along a weak cold front sagging into northeast ND and northern MN. These storms are depicted by most morning CAM solutions to organize into a linear MCS and spread southeastward across much of MN and northern WI overnight. This scenario would pose a risk of damaging winds and some hail in this area as well."
+        },
+        {
+          "title": "Northern New England",
+          "text": "Scattered thunderstorms have begun to form this afternoon across southern Quebec and parts of northern VT/NH/ME. Relatively strong westerly flow aloft and moderate CAPE values will promote a risk of locally gusty/damaging winds in the stronger cells through the afternoon."
+        },
+        {
+          "title": "NV and Vicinity",
+          "text": "Similar to the last couple of days, ample mid-level moisture is present today across parts of NV, western UT, and northwest AZ. Hot surface conditions and steep mid-level lapse rates will yield widespread inverted-v profiles. Model guidance suggests scattered coverage of high-based thunderstorms, with sufficient winds aloft to promote locally damaging wind gusts in the stronger downdrafts. ..Hart/Squitieri.. 07/13/2024"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-07-13",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-07-13T20:00Z",
+      "valid_end": "2024-07-14T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240713_2000.html",
+      "summary": "Multiple clusters of strong to severe thunderstorms are possible across portions of the Northern Plains into the Upper Mississippi Valley through tonight. Other more isolated strong storms are possible in northern New England, and portions of Nevada.",
+      "sections": [
+        {
+          "title": "20z Update",
+          "text": "The previous outlook remains on track, and no changes are needed with the 20z update. For short term information on severe potential across portions of NV/AZ/UT, as well as across the northern High Plains, see MCDs 1593 and 1594. Otherwise, see previous discussion below for more forecast details. ..Leitman.. 07/13/2024 .PREV DISCUSSION... /ISSUED 1128 AM CDT Sat Jul 13 2024/"
+        },
+        {
+          "title": "Northern High Plains",
+          "text": "Relatively fast westerly mid-level flow is present today across the northern Rockies/Plains. Several weak shortwave troughs are tracking across southern Canada and parts of MT/ND today, including one with an associated cluster of thunderstorms over southwest SK. Persistent east-southeasterly low level winds ahead of this system across eastern MT will likely allow it to persist through the day and intensify with afternoon heating. A combination of supercells and bowing structures are suggested by morning CAM guidance, with a risk of large hail and damaging winds tracking across northeast MT into western ND during the late afternoon and evening. Given the consistent signal in guidance for fast-moving storms, and the favorable CAPE/shear environment, have upgraded parts of this corridor to ENH risk."
+        },
+        {
+          "title": "MN/WI and Vicinity",
+          "text": "Remnant MCS and associated MCV is currently located over southeast MN. This system will track southeastward across central/southern WI through the afternoon, where strong daytime heating and dewpoints in the upper 60s to lower 70s will yield strong instability. Re-development of storms is possible, with a few severe/supercell storms possible - capable of hail and damaging wind gusts. Later this evening, thunderstorms are expected to intensify along a weak cold front sagging into northeast ND and northern MN. These storms are depicted by most morning CAM solutions to organize into a linear MCS and spread southeastward across much of MN and northern WI overnight. This scenario would pose a risk of damaging winds and some hail in this area as well."
+        },
+        {
+          "title": "Northern New England",
+          "text": "Scattered thunderstorms have begun to form this afternoon across southern Quebec and parts of northern VT/NH/ME. Relatively strong westerly flow aloft and moderate CAPE values will promote a risk of locally gusty/damaging winds in the stronger cells through the afternoon."
+        },
+        {
+          "title": "NV and Vicinity",
+          "text": "Similar to the last couple of days, ample mid-level moisture is present today across parts of NV, western UT, and northwest AZ. Hot surface conditions and steep mid-level lapse rates will yield widespread inverted-v profiles. Model guidance suggests scattered coverage of high-based thunderstorms, with sufficient winds aloft to promote locally damaging wind gusts in the stronger downdrafts."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2024-07-14",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2024-07-14T01:00Z",
+      "valid_end": "2024-07-14T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2024/day1otlk_20240714_0100.html",
+      "summary": "Multiple clusters of strong to severe thunderstorms are expected across portions of the Northern Plains into the Upper Mississippi Valley tonight.",
+      "sections": [
+        {
+          "title": "01z Update",
+          "text": "Three primary corridors of strong/severe convection have evolved across the northern Plains into the upper MS Valley early this evening. Early-day convective carcass that was noted over central MN has propagated downstream with the leading edge now advancing southeast across southern WI. This activity has grown upscale into an organized squall line that should progress into northern IL later this evening. Trailing flank across southeast MN should track across northeast IA. Large hail/damaging winds are expected with this convection. Second corridor of strong/severe convection currently extends from the international border, southwest to the ND/MN border. This scattered activity is expected to gradually expand in areal coverage, aided by a short-wave trough that is digging toward the upper Great Lakes. MCS may evolve which should propagate into northern/central WI late tonight. Across the northern High Plains, scattered high-based supercells have developed and are propagating southeast across eastern MT. Models continue to suggest this convection will track southeast along a frontal zone that is currently draped from northwest SD-MLS-LWT. Strong buoyancy, very steep lapse rates, and"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2024,
+      "number": 1592,
+      "issue_utc": "2024-07-13T17:13Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1592.html",
+      "summary": "A few strong storms capable of isolated damaging wind are possible this afternoon.",
+      "discussion": "A mid/upper-level shortwave trough is moving across southern QC early this afternoon, which will continue to aid in thunderstorm development through the afternoon across parts of northern New England. A few storms have recently developed in northern VT, with storm coverage expected to gradually increase through the afternoon across the region. Midlevel lapse rates noted on regional 12Z soundings were quite weak, but some improvement is possible with time as midlevel cooling attendant to the shortwave trough overspreads the region. MLCAPE of 500-1000 J/kg (locally greater) and effective shear of 30-40 kt may support occasional storm organization. Steepening low-level lapse rates will support some potential for damaging wind through the afternoon, though with low-level flow expected to remain rather weak, the wind threat is expected to remain rather isolated. Also, small to marginally severe hail cannot be ruled out with the strongest cells."
+    },
+    {
+      "year": 2024,
+      "number": 1593,
+      "issue_utc": "2024-07-13T19:20Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1593.html",
+      "summary": "Isolated severe gusts may accompany potential microbursts with the stronger storms today. A WW issuance is not expected.",
+      "discussion": "Agitated cumulus, with a few attempts at convective initiation, have been noted over the past couple of hours based on MRMS mosaic radar imagery, visible satellite, and NLDN lightning data. The boundary layer has become deep and well mixed, with 19Z mesoanalysis showing 9-11 C/km 0-3 km lapse rates already in place, and RAP forecast soundings depicting inverted-v profiles extending to 600 mb. Mid-level monsoonal moisture overspreading the mixed boundary layer/steep lapse rates will promote 250-500 J/kg SBCAPE/MLCAPE through the afternoon, which is more than sufficient to support thunderstorm updrafts. Vertical wind shear should be weak, so thunderstorms should be pulse-cellular in nature, with any severe gusts originating from localized, short-lived microbursts. Despite the severe gust potential, the coverage of the severe should be sparse enough to preclude a WW issuance."
+    },
+    {
+      "year": 2024,
+      "number": 1594,
+      "issue_utc": "2024-07-13T19:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1594.html",
+      "summary": "The severe threat is increasing across portions of northern into eastern Montana this afternoon. Severe wind and hail are the main threats. A WW issuance is likely within the next hour or so to address the impending severe threat.",
+      "discussion": "Remnant convection across southwestern MB (Canada) has produced an outflow boundary that is currently situated from roughly the SK/MB/MT border to Richland County, MT. The boundary layer continues to destabilize along this outflow boundary, where visible satellite shows rapidly deepening CU, and MRMS mosaic radar imagery showing the first signs of convective initiation. 19Z mesoanalysis shows a 500 mb speed max with small embedded vort maxima pivoting around the northern periphery of an anticyclone centered over the central Rockies, which will also provide enough lift for thunderstorm development. Along the outflow boundary, upslope flow is contributing to low-level southeasterly winds beneath stronger westerly mid-level flow (driven by the approaching 500 mb speed max), resulting in 50+ kts of effective bulk shear in the form of elongated, straight hodographs. With upper 50s/low 60s F surface dewpoints beneath 7-8 C/km mid-level lapse rates also supporting 2000 J/kg MLCAPE, supercell storm modes are favored early on. Severe wind and hail will be possible (and an instance of 2+ inch diameter hail cannot be ruled out). Some high-resolution convection-allowing guidance shows thunderstorms growing upscale into a bow echo MCS, and this scenario is plausible given the potential for adequate evaporative cooling within a well-mixed boundary layer. Should this occur, a focused corridor of severe winds could develop later this afternoon. A Severe Thunderstorm Watch will be needed within the next hour or so."
+    },
+    {
+      "year": 2024,
+      "number": 1595,
+      "issue_utc": "2024-07-13T20:04Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1595.html",
+      "summary": "Strong to severe storms may increase through the afternoon, with a threat of isolated hail, damaging wind, and possibly a brief tornado.",
+      "discussion": "Some recent intensification has been noted with storms across central WI, and also near the MN/WI to the southeast of the Twin Cities. Both of these storm clusters are located near an outflow-influenced front, with very warm and moist conditions noted south of the effective front across southeast MN and central WI. Convective evolution through the afternoon remains somewhat uncertain, but some increase in storm coverage and intensity will be possible as MLCAPE continues to increase into the 2000-3000 J/kg along/south of the boundary. Effective shear generally ranges from 25-35 kt (greater with westward extent), with some modest increase possible as somewhat stronger midlevel flow overspreads the region through the afternoon. A few stronger clusters and possibly a couple of supercells could evolve with time. Large hail and locally damaging wind would be the most likely hazards, though a brief tornado cannot be ruled out near the boundary. Watch issuance is possible if observational trends continue to support an increase in storm coverage through the afternoon."
+    },
+    {
+      "year": 2024,
+      "number": 1596,
+      "issue_utc": "2024-07-13T20:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1596.html",
+      "summary": "An isolated severe hail/wind threat may accompany any multicell or supercell that can develop and become sustained this afternoon. Given the spatially and temporally constricted nature of the severe threat, a WW issuance is not expected.",
+      "discussion": "Visible satellite imagery depicts agitated CU/attempt at convective initiation over the Black Hills of South Dakota, driven by afternoon peak heating, some orographic lift, and the approach of a 500 mb vort max (per 20Z mesoanalysis). RAP forecast soundings depict a well-mixed boundary layer extending to 700 mb, suggesting that any storms that can become sustained will likely be high-based in nature. Forecast soundings show hodographs of modest length and curvature (hence 30 kts of effective bulk shear) that will gradually enlarge/lengthen through the afternoon, supporting multicells and perhaps a few splitting supercells. While some MLCINH remains, over 1000 J/kg MLCAPE is present, which could support strong enough storms to potentially produce large hail and severe gusts, especially if a sustained supercell structure can materialize. Nonetheless, the severe threat should remain isolated, so a WW issuance is not anticipated."
+    },
+    {
+      "year": 2024,
+      "number": 1597,
+      "issue_utc": "2024-07-13T20:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1597.html",
+      "summary": "Strong to severe storms may develop by late afternoon or early evening and move southeastward. Large hail, damaging wind, and perhaps a tornado or two will all be possible.",
+      "discussion": "Cumulus is gradually increasing this afternoon from southeast ND into western MN, in the vicinity of a surface low and related surface trough. Rich low-level moisture and rather strong heating are supporting moderate to strong buoyancy, with MLCAPE generally in the 2000-3500 J/kg range per recent objective mesoanalyses. Effective shear of 30-40 kt will be sufficient for storm organization, given the favorable instability in place. Details regarding storm evolution remain uncertain this afternoon, given the presence of multiple surface boundaries and only rather subtle large-scale ascent in the short term. However, most guidance suggests increasing potential for storm development by late afternoon into the early evening from southeast ND into northwest MN, as MLCINH continues to decrease. Initial supercell development is possible, with a threat of hail, damaging wind, and possibly a tornado or two. A tendency for upscale growth is expected later in the storm evolution, which could eventually result in a southeastward-moving MCS with a continued damaging-wind threat. Timing of the primary severe threat remains uncertain, but watch issuance will become increasingly possible across the region by late afternoon into the early evening."
+    },
+    {
+      "year": 2024,
+      "number": 1598,
+      "issue_utc": "2024-07-13T20:57Z",
+      "topic": "Severe Thunderstorm Watch 523",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1598.html",
+      "summary": "A narrow corridor of focused damaging winds (perhaps severe) may accompany a small bowing segment over the next couple of hours. Longevity of this bowing complex however is uncertain.",
+      "discussion": "MRMS mosaic radar imagery depicts a small bowing complex that has recently materialized over portions of far western WI in the past hour. KARX regional radar shows a rear-inflow jet present, with inbound velocities approaching 80 kts about 1 km AGL. Assuming efficient downward momentum transport, the ongoing complex may be producing damaging, perhaps severe gusts in abundance. The complex is currently traversing a buoyancy gradient, with MLCAPE exceeding 2000 J/kg amid 30+ kts of effective bulk shear. However, the ARX VAD profile suggests that vertical wind shear (including low-level shear) is not particularly strong, so questions remain regarding how long the bow echo complex will last. Nonetheless, there is some potential for a continued narrow swath of focused damaging winds (perhaps severe, with gusts peaking in the 65-80 mph range) over the next couple of hours. ..Squitieri.. 07/13/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1599,
+      "issue_utc": "2024-07-13T22:14Z",
+      "topic": "Severe Thunderstorm Watch 523",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1599.html",
+      "summary": "An arc of strong to severe thunderstorms within and just west of WW 523 across southwest Wisconsin and southeast Minnesota may spread to the south of WW 523 across parts of northeast Iowa and far southern Wisconsin. Monitoring for the possibility of an additional severe thunderstorm watch farther south.",
+      "discussion": "Primary near-term severe potential has been increasingly focused along the trailing outflow behind a small linear cluster in southwest WI that has produced strong measured gusts and at least one report of tree damage thus far. The discrete supercells along the outflow boundary have held nearly stationary with a slow, east-southeastward drift. A tornado or two, large hail to around 2 inches in diameter, and localized damaging winds will remain the primary near-term threats. With an extremely unstable airmass prevalent over southwest MN and northwest IA, it is plausible that a similar upscale growth evolution with small-scale bowing structures will occur towards the MS Valley in northeast IA and far southern WI. Should this occur, an additional severe thunderstorm watch may be needed south of WW 423. ..Grams.. 07/13/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1600,
+      "issue_utc": "2024-07-13T22:41Z",
+      "topic": "Severe Thunderstorm Watch 522",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1600.html",
+      "summary": "Large hail remains the primary severe threat for the short-term across north-central Montana, but a transition into a more organized cluster/linear segment may occur within the next 1-2 hours. This would support an increasing wind threat downstream across eastern Montana.",
+      "discussion": "Over the past hour, a leading supercell across north-central MT continues to show strong deviant motion to the south/southeast and has a history of producing severe hail (1.0 to 1.75 inch) per recent storm reports. For the next 30-60 minutes, this cell should continue to pose a risk for large to very large hail given a very favorable supercell environment. Radar and satellite trends over the past 30 minutes show increasing cumulus congestus and new cell development in the vicinity of the supercell - likely a result of strengthening ascent in close proximity to the supercell and its robust pressure perturbation responsible for the strong deviant motion. As new cells develop, cold pools will amalgamate leading to gradual upscale growth, likely within the next 1-2 hours. Evolution into an organized line appears probable given strong (nearly 50 knots) deep-layer wind shear nearly parallel to the diffuse frontal boundary. Consequently, the threat for severe wind should increase in the coming hours downstream. Based on the current position of the frontal boundary, the severe threat should mostly remain in WW 522, but additional watch issuance may be needed across southeast MT in the coming hours if it becomes apparent convection will maintain a more southeasterly track. ..Moore.. 07/13/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1601,
+      "issue_utc": "2024-07-14T00:16Z",
+      "topic": "Severe Thunderstorm Watch 524",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1601.html",
+      "summary": "A brief tornado, locally damaging winds, and isolated severe hail will remain the primary threats through about dusk. An increasing risk for damaging winds may occur later this evening towards parts of west-central to north-central Minnesota.",
+      "discussion": "Multiple areas of sustained convection are ongoing, the more prominent of which are near the international border in the Lake of the Woods area, and separately along the surface front/trough over far southeast ND into northwest MN. This latter convection has been holding nearly stationary, which will allow for a progressively deeper cold pool to form across northwest MN. Recent HRRR runs and afternoon guidance remain insistent on upscale growth occurring to the east-southeast into portions of central MN. This appears plausible given the presence of a substantial MLCAPE gradient lying to the southeast of these ongoing storms. ..Grams.. 07/14/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1602,
+      "issue_utc": "2024-07-14T00:57Z",
+      "topic": "Severe Thunderstorm Watch 522",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1602.html",
+      "summary": "The threat for severe hail and wind continues as a cluster of semi-discrete storms moves into southeast Montana. Gradual upscale growth is still expected later this evening as storms move towards the Dakotas.",
+      "discussion": "Despite numerous storm interactions, the predominant storm mode has remained supercellular across eastern MT. At least two supercells continue to exhibit robust mid-level mesocyclones based on KGGW velocity imagery, suggesting that these storms may persist for the next hour or two with an attendant large hail threat. Strong right-mover supercell motion continues to favor a mean south/southeasterly storm motion, but propagation along a diffuse buoyancy gradient may result in a more southeasterly motion with time. Gradual upscale growth is still anticipated later this evening as this cluster of semi-discrete storms migrates further into southeastern MT. Early hints of a somewhat more consolidated cold pool are noted in lowest-tilt velocity imagery between the cells, suggesting that eventual upscale growth remains probable - though the exact timing remains uncertain. Recent probabilistic hazard guidance suggests the wind threat should slowly increase as the cluster migrates closer to the ND/SD border. ..Moore.. 07/14/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1603,
+      "issue_utc": "2024-07-14T01:47Z",
+      "topic": "Severe Thunderstorm Watch 524",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1603.html",
+      "summary": "A small cluster with an embedded supercell may evolve into a small bow and move southeastward across parts of central Minnesota tonight. This may yield a confined swath of damaging winds and some hail, with an additional severe thunderstorm watch likely.",
+      "discussion": "A trio of updrafts persist over northwest MN in Clay and Becker counties, the more prominent of which has been a supercell on the western flank. This specific supercell along the composite front/outflow appears to be developing a substantial enough cold pool for potential acceleration and bowing evolution as it likely tracks along the pronounced MLCAPE gradient to its southeast. The 00Z MPX sounding in the midst of the gradient sampled ample buoyancy and favorable west-northwesterly mid to upper-level flow to support an organized strong to severe wind threat tonight. While low-level flow will remain modest, the degree of warm theta-e advection should be adequate to sustain a small MCS. Latest trends suggest this will likely impact areas along the I-94 corridor into the overnight."
+    },
+    {
+      "year": 2024,
+      "number": 1604,
+      "issue_utc": "2024-07-14T01:53Z",
+      "topic": "Severe Thunderstorm Watch 525",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1604.html",
+      "summary": "Downstream watch issuance into western South Dakota will likely be needed in near future as a cluster of severe thunderstorms continues to organize across southeast Montana.",
+      "discussion": "Regional radar imagery continues to show a pair of semi-discrete supercells migrating across southeastern MT. This cluster has recently produced wind damage in Miles City, MT, including a 72 mph measured wind gust. Velocity data from KGGW and KBLX continue to show well pronounced mid-level mesocyclones, but gradual upscale growth remains anticipated as these cells approach the western Dakotas. Storm track trends over the past 30 minutes show this cluster beginning to track more southeasterly as it encounters a buoyancy gradient draped from southeast MT into west-central SD. Continued propagation along this gradient appears likely with a gradual increase in severe wind potential still anticipated. Storm track timing estimates based on the recently observed motion, as well as HRRR timing forecasts, suggest this cluster should reach the SD border between 03-04 UTC, so downstream watch issuance into SD will likely be needed prior to that time. ..Moore.. 07/14/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1605,
+      "issue_utc": "2024-07-14T03:00Z",
+      "topic": "Severe Thunderstorm Watch 526",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1605.html",
+      "summary": "Sporadic strong to localized severe gusts should remain possible through about Midnight-1 am CDT along the portion of the Mississippi River bordering Wisconsin, Iowa, and Illinois. An additional severe thunderstorm watch appears unlikely.",
+      "discussion": "While the leading MCS in WI clearly weakened, the trailing cluster appeared to have weakened for a time across northeast IA before a recent uptick in reflectivity and cloud top cooling over Clayton County, IA and Grant County, WI. The airmass immediately to the south and southwest of this small cluster remains amply unstable. But the bulk of the convection appears likely to mostly overrun the remnant outflow boundary that is stalling in the wake of the lead MCS. This merger process could yield another uptick in convective intensity before broader weakening trends amid increasing MLCIN occur overnight. ..Grams.. 07/14/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1606,
+      "issue_utc": "2024-07-14T03:54Z",
+      "topic": "Severe Thunderstorm Watch 527",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1606.html",
+      "summary": "An intensifying MCS is expected to move into central SD in the coming hours and will pose a severe wind threat based on recent observed trends and latest forecast guidance.",
+      "discussion": "Upscale growth from a cluster of semi-discrete cells into an organizing MCS is well underway across far southwest ND and northwest SD. GOES IR imagery has shown a steady decrease in cloud-top temperatures over the past 30 minutes, signifying an intensification trend. Multiple severe wind reports, including an 87 mph gust in northwest SD, over the past hour or so validate this trend. The developing MCS should continue to organize and intensify as it migrates in a more buoyant air mass downstream across SD (characterized by 1500-2000 J/kg MLCAPE). While severe gusts appear possible along the length of the line, the potential for severe winds, including significant gusts (75+ mph), appears greatest ahead of a surging section of the line over Butte county, SD that is associated with the remnants of a decaying mesocyclone. Latest HRRR solutions appear to have initialized recent observed trends well and suggest the greatest severe/significant wind threat will be associated with this section of the line as it moves southeast into central SD. Downstream watch issuance will likely be needed within an hour to address this concern. ..Moore.. 07/14/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1607,
+      "issue_utc": "2024-07-14T04:28Z",
+      "topic": "Severe Thunderstorm Watch 528",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1607.html",
+      "summary": "Mixed severe wind and hail threats are likely to continue as a cluster over west-central to central Minnesota potentially accelerates east-southeastward along the I-94 corridor.",
+      "discussion": "The west-central MN cluster has a history of measured wind gusts approaching severe thresholds, along with reported large hail to around 1.5 inches in diameter. Additional storms are forming farther southeast within the modest low-level warm advection regime along the I-94 corridor into east-central MN and west-central WI. Potential merging of the cluster with these leading cells would yield a broader acceleration to the east-southeast, and may result in an increase in strong to severe wind gusts into the greater Twin Cities area during the early morning. ..Grams.. 07/14/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1608,
+      "issue_utc": "2024-07-14T05:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1608.html",
+      "summary": "An isolated large hail and wind damage threat may continue for several more hours across parts of southeast Minnesota into western Wisconsin. A new weather watch to the southeast of WW 528 will likely need to be considered.",
+      "discussion": "The latest hi-resolution radar imagery from Minneapolis shows a cluster of strong to severe storms over southeast Minnesota and western Wisconsin. Most of the storms are multicells, although a supercell is ongoing just to the northwest of Minneapolis. These storms are located along an gradient of moisture and instability that is oriented from north-northwest to south-southeast in the vicinity of Minneapolis. The storms are likely being supported by a minor shortwave trough that is moving through the upper Mississippi Valley. In addition, a maximum in low-level flow is analyzed just to the west of this cluster. The latest WSR-88D VWP at Minneapolis has 0-6 km shear near 50 knots with about 20 knots of speed shear from the surface to about 4 km AGL. This, combined with the moderate instability, should continue to support a severe threat over the next several hours. Isolated large hail and wind damage will be the primary threats."
+    },
+    {
+      "year": 2024,
+      "number": 1609,
+      "issue_utc": "2024-07-14T06:29Z",
+      "topic": "Severe Thunderstorm Watch 527",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1609.html",
+      "summary": "A wind-damage and large-hail threat will likely continue across parts of central and eastern South Dakota over the next few hours, and could affect southwest Minnesota later tonight. Gusts over 80 mph will be possible ahead of the ongoing bow. Weather watch issuance will need to be considered for parts of eastern South Dakota.",
+      "discussion": "The latest mosaic radar imagery shows a well-developed bow echo just to the west and northwest of Pierre, South Dakota. The bow is moving east-southeastward along a corridor of moderate instability, where the RAP is analyzing MLCAPE in the 1200 to 2000 J/kg range. The line appears to be supported by a 45 to 55 knot mid-level speed max over northwestern South Dakota. As the line continues to move east-southeastward at around 50 knots, severe gusts will be likely along the leading edge of the bow. Wind gusts above 80 mph will be possible near the apex of the bow. As the line moves further east, it will encounter stronger instability across southeastern South Dakota. This could help to maintain intensity with the line, making weather watch issuance likely across parts of eastern South Dakota and southwest Minnesota. ..Broyles.. 07/14/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1610,
+      "issue_utc": "2024-07-14T07:50Z",
+      "topic": "Severe Thunderstorm Watch 528",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1610.html",
+      "summary": "The threat for severe wind/hail is expected to persist for at least the next 1-2 hours before gradually diminishing after roughly 10 UTC.",
+      "discussion": "GOES IR imagery over the past 30 minutes continues to show strong updraft pulses embedded within a broader, loosely organized MCS that is slowly pushing south along the MS River. Reflectivity and velocity data from KARX show new convection developing along/just behind a consolidating outflow boundary, suggesting that portions of the MCS may become better organized in the short term. Additionally, weak convection on the western flank of the outflow has shown some signs of modest intensification, possibly due to an ingesting of higher theta-e air to the west of outflow from prior convection. Given these trends, a severe hail and wind risk should persist for the next 1-2 hours. However, the longevity of this complex remains unclear as it moves into an air mass that has already seen some degree of convective overturning (mainly across northeast IA into southwest WI). Mean deep-level flow parallel to the MCS should limit the potential for bowing segments if a balanced updraft/downdraft convergence zone can be established, and storm motions along the boundary should limit individual storm longevity (and any attendant severe hail threat). As such, confidence in the severe potential after roughly 10 UTC is low and downstream watch issuance is not currently anticipated. Trends will be monitored for intensification on the western flank of the MCS that may favor a propagation along the aforementioned low-level theta-e gradient, which could prolong the severe threat. ..Moore.. 07/14/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2024,
+      "number": 1611,
+      "issue_utc": "2024-07-14T08:58Z",
+      "topic": "Severe Thunderstorm Watch 531",
+      "url": "https://www.spc.noaa.gov/products/md/2024/md1611.html",
+      "summary": "A threat for severe gusts may persist in parts of eastern South Dakota and far northeastern Nebraska over the next couple of hours. The threat could also impact far northwest Iowa and far southwest Minnesota, but is expected to become more isolated with time.",
+      "discussion": "According to mosaic radar imagery, a decaying MCS is ongoing across central and eastern South Dakota. Severe gusts are still occurring, in association with the stronger cells embedded in the MCS. As the stronger cells within the complex move east-southeastward into a pocket of moderate to strong instability, severe gusts will be possible over the next one to two hours. However, the MCS is expected to continue weakening, and any potential for severe gusts is expected to become increasingly isolated. ..Broyles.. 07/14/2024 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

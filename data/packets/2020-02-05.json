@@ -1,0 +1,155 @@
+{
+  "convective_day": "2020-02-05",
+  "valid_start": "2020-02-05T12:00Z",
+  "valid_end": "2020-02-06T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2020-02-05",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-02-05T16:30Z",
+      "valid_end": "2020-02-06T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200205_1630.html",
+      "summary": "Severe thunderstorms are expected today and tonight across portions of the lower Mississippi Valley and Southeast, with damaging wind gusts and a few tornadoes.",
+      "sections": [
+        {
+          "title": "Lower MS into TN Valley",
+          "text": "Morning water vapor imagery shows a strong upper trough digging across the southern Plains. In the low-levels, a deepening surface low currently over LA will track northeastward along the front into parts of MS and northwest AL this afternoon and evening. The air mass in the warm-sector has become quite moist with dewpoints in the mid/upper 60s, with forecast soundings suggesting afternoon MLCAPE values around 1500 J/kg. Given the increasing forcing mechanisms, this should be sufficient for scattered thunderstorm development in vicinity of the low and front. 12z CAM solutions suggest that convection will first form over central LA as the large-scale forcing approaches. Low-level vertical shear will promote some risk of discrete supercells, along with more complex bowing structures. Forecast hodographs indicate favorable parameters for a few tornadoes, including the risk of strong tornadoes, as activity builds northeastward across the ENH risk area. Damaging wind gusts and perhaps some hail are also possible in the strongest cells. Later tonight, another round of severe storms appears likely to form along/ahead of the front across the remainder of the SLGT risk area. Models are more"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2020-02-05",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2020-02-05T20:00Z",
+      "valid_end": "2020-02-06T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2020/day1otlk_20200205_2000.html",
+      "summary": "Severe thunderstorms are expected this afternoon through tonight across portions of the lower Mississippi Valley and Southeast, with a few tornadoes, damaging wind gusts, and large hail all possible.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "Mainly elevated supercells have produced several large hail reports across parts of western and northern LA over the past few hours. Additional storms have recently begun to increase in intensity across southern LA/MS in a strengthening low-level warm advection regime. With 1000-1500 J/kg of MLCAPE and 50+ kt of effective bulk shear present, these storms will likely continue to display supercell characteristics. All severe hazards appear possible with this convection. For more information on the near-term severe risk across this area, see Mesoscale Discussion 77. Otherwise, a surface low should gradually deepen through the remainder of the afternoon and into this evening as it develops northeastward from the LA/MS border to the TN Valley. Surface pressure falls around 3-4 mb in the past two hours are preceding this low over central/northern MS and northern AL. Low-level flow has backed to south-southeasterly mainly across central MS in response. A narrow corridor extending southwest to northeast across this region should remain the most favorable for supercells capable of producing a few tornadoes through this evening. Based on short-term model guidance and observational trends, it"
+        },
+        {
+          "title": "Lower MS into TN Valley",
+          "text": "Morning water vapor imagery shows a strong upper trough digging across the southern Plains. In the low-levels, a deepening surface low currently over LA will track northeastward along the front into parts of MS and northwest AL this afternoon and evening. The air mass in the warm-sector has become quite moist with dewpoints in the mid/upper 60s, with forecast soundings suggesting afternoon MLCAPE values around 1500 J/kg. Given the increasing forcing mechanisms, this should be sufficient for scattered thunderstorm development in vicinity of the low and front. 12z CAM solutions suggest that convection will first form over central LA as the large-scale forcing approaches. Low-level vertical shear will promote some risk of discrete supercells, along with more complex bowing structures. Forecast hodographs indicate favorable parameters for a few tornadoes, including the risk of strong tornadoes, as activity builds northeastward across the ENH risk area. Damaging wind gusts and perhaps some hail are also possible in the strongest cells. Later tonight, another round of severe storms appears likely to form along/ahead of the front across the remainder of the SLGT risk area. Models are more"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2020,
+      "number": 75,
+      "issue_utc": "2020-02-05T16:28Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0075.html",
+      "summary": "Thunderstorms are expected to gradually increase in intensity and organization initially from southwest through central Louisiana, and eventually into southwest through central Mississippi into the afternoon. Supercells and bowing segments posing a risk for damaging wind and a few tornadoes will be the main threats. Trends are being monitored for a tornado watch.",
+      "discussion": "A stationary front extends from northwest AL to a weak surface low in northern LA where it becomes a cold front and continuing into southeast TX. Forcing for ascent within the exit region of an upper jet rounding the base of an upper trough is beginning to overtake the western part of the warm sector across southwest through central LA. This is manifested by a recent increase in thunderstorms along and behind the front southwest LA through eastern TX. The southerly low-level jet will also respond and become coupled with the exit upper jet region, and is forecast to increase to 50+ kt this afternoon. The 12Z RAOB data from Lake Charles already showed moderate instability with 2500 J/kg MUCAPE in warm sector. Storms should soon become surface based and organize as supercells as temperatures rise through the low 70s F. The storms will subsequently spread northeast into MS this afternoon. The strengthening low and mid-level jets will support 50+ kt effective bulk shear and 200-300 m2/s2 storm relative helicity with largest hodographs expected east of the northeast migrating surface low."
+    },
+    {
+      "year": 2020,
+      "number": 76,
+      "issue_utc": "2020-02-05T17:16Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0076.html",
+      "summary": "Low-level wind fields on KLIX/KMOD VAD suggest potential for low-level storm rotation. Storm mode and upstream precipitation should limit the overall threat, but isolated strong wind gusts and a brief tornado are possible. Should trends in storm intensity increase, a WW will be considered.",
+      "discussion": "A cluster of storms has develop over the past 2 hours across portions of the Mississippi Delta region and progress northeastward. Storms along the southwestern flank of this activity have shown some transient and weak low-level rotation. Updrafts have remained rather weak with only a few cells showing 50 dBZ cores on the 7 km CAPPI. This is likely due to warm air aloft that was evident on the 12Z LIX and JAN soundings. Further limiting the strength of this activity will be the ongoing rainfall downstream of the stronger cores in LA/MS. Nevertheless, modest to moderate low-level SRH (around 100-200 m2/s2 in the 0-1 km layer) on KLIX/KMOD VAD profiles suggest some storm rotation is possible. Despite the negative factors, isolated strong wind gusts and a brief tornado are possible particularly along the southwestern flank where inflow would be less impacted by precipitation. Trends in storm intensity will be monitored for possible WW issuance."
+    },
+    {
+      "year": 2020,
+      "number": 77,
+      "issue_utc": "2020-02-05T19:19Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0077.html",
+      "summary": "Potential exits for storms to organize and become supercellular over southeast LA into southern MS. Trends are being monitored for a possible tornado watch southeast of tornado watch 22.",
+      "discussion": "Storms have increased in coverage and intensity across the warm sector over southeast LA during the past hour, likely in association with a strengthening southerly low-level jet within the exit region of an approaching upper jet. Latest VWP data from Slidell show an increase in hodograph size with 0-1 km storm relative helicity up to 250 m2/s2 along with 45-50 kt 0-6 km shear. Widespread cloud cover is limiting diabatic heating of the boundary layer with temperatures only from 69-73 F, suggesting some of the updrafts over southeast LA might still be slightly elevated. Moreover, the 18Z Jackson sounding showed warming in the 850-700 mb layer which, in addition to weak solar insolation, might be serving to limit low-level updraft accelerations. Further warming of the surface layer and the increase in forcing for ascent might serve to offset these limiting factors and result in a gradual increase in storm organization this afternoon."
+    },
+    {
+      "year": 2020,
+      "number": 78,
+      "issue_utc": "2020-02-05T19:39Z",
+      "topic": "Tornado Watch 22",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0078.html",
+      "summary": "Threat for damaging wind, some hail and a few tornadoes is expected to persist through the afternoon with primary threat area gradually spreading into central MS.",
+      "discussion": "The warm sector from northeast LA through central MS has been slow to warm due to widespread clouds. Moreover, the special RAOB data from Jackson MS has warmed in the 850-700 mb layer. These factors might be limiting low-level updraft accelerations and overall storm organization so far, despite favorable low-level hodographs and strong 0-6 km shear. Nevertheless, continued slow heating of the surface layer with partial cloud breaks, along with deeper forcing for ascent glancing the warm sector might be sufficient to overcome the limiting factors and result in better storm organization this afternoon. The most favorable environment will likely remain east of the surface low currently located over northeast LA as it tracks northeast along the front through central MS this afternoon. A few supercells and bowing segments capable of tornadoes and damaging wind remain possible. ..Dial.. 02/05/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 79,
+      "issue_utc": "2020-02-05T21:41Z",
+      "topic": "Tornado Watch 22",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0079.html",
+      "summary": "The threat for tornadoes has undergone a significant increase during the past hour from southwest through central MS, and this threat is expected to persist into the evening including the potential for a couple of strong tornadoes.",
+      "discussion": "Storms have undergone a significant increase in organization during the past hour. A couple of storms with a history of producing tornadoes persist from southwest through central MS. Activity is increasing east and southeast of a surface low that will deepen and track northeast along a stationary front this evening. Large low-level hodographs with 300-400 m2/s2 0-1 km storm relative helicity exists along a strengthening low-level jet and within a moderately unstable environment. Additional storms developing in warm sector will likely organize as supercells and bowing segments with an attendant threat for tornadoes and damaging wind. ..Dial.. 02/05/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 80,
+      "issue_utc": "2020-02-05T21:47Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0080.html",
+      "summary": "Storms in central Mississippi have increased in intensity over the last hour. These storms are expected to continue northeast into central/northern Alabama coincident with an increasingly favorable environment for severe storms. Tornadoes, with a strong tornado possible, as well as damaging winds and isolated large hail will be possible this evening. A tornado watch is likely in the next hour or two.",
+      "discussion": "With the continued approach of a mid-level trough, the environment within northern and central Alabama should become more favorable for severe thunderstorms later this afternoon into the evening. Severe storms are ongoing across central Mississippi and have been increasing in intensity over the last hour. With time, mid-level cooling and low-level theta-e advection will help to increase buoyancy across the region to 1000-1500 J/kg MLCAPE. Currently, KHTX/KBMX VAD profiles show 250-300 m2/s2 0-1 km SRH. With an increase in 850 mb flow this evening, low-level hodographs only improve with time. As storms in Mississippi continue northeast, they will continue to pose a threat for a few tornadoes, some potentially strong. Damaging wind gusts and isolated large hail are possible. A tornado watch will be needed in the next 1-2 hours."
+    },
+    {
+      "year": 2020,
+      "number": 81,
+      "issue_utc": "2020-02-05T23:06Z",
+      "topic": "Tornado Watch 22",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0081.html",
+      "summary": "Scattered storms, some capable of a brief tornado or damaging wind gusts, remain possible this evening.",
+      "discussion": "Numerous storms persist both along and ahead of a cold front, affecting much of MS, AL, and southern Middle TN. Shear remains strong with the most favorable hodographs from parts of eastern MS and into northern AL. Lift via warm advection will remain strongest over northern areas, but lift along the cold front and a moist and marginally unstable air mass will conditionally favor severe storms through evening over much of MS and into parts of southern AL. As such, a replacement watch will likely be required."
+    },
+    {
+      "year": 2020,
+      "number": 83,
+      "issue_utc": "2020-02-06T00:33Z",
+      "topic": "Tornado Watch 23",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0083.html",
+      "summary": "A line of storms may produce localized damage over parts of far northern Alabama into southern Middle Tennessee.",
+      "discussion": "Radar shows a QLCS moving east along the AL/TN border, coincident with the surface low and on the northern fringe of the instability plume. Shear is quite strong, and favorable for both damaging winds or even a brief tornado. This line of storms is eventually expected to outrun the better instability, as surface observations show relatively cool air over northern GA. Before this occurs, isolated severe gusts may reach parts of southeastern TN or northwest GA. ..Jewell.. 02/06/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 84,
+      "issue_utc": "2020-02-06T03:43Z",
+      "topic": "Tornado Watch 24",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0084.html",
+      "summary": "Strong storms may persist in the vicinity of the cold front, with marginal hail and wind possible. A tornado threat cannot be ruled out over time, along and east of the front.",
+      "discussion": "In the wake of the earlier warm-advection storms, southerly low-level winds continue to support a moist, unstable air mass with upper 60s F dewpoints. Storms have gradually become stronger along the front, with deep-layer shear nearly parallel to it. Meanwhile, temperatures aloft continue to cool as the upper trough nears. In the near-term, marginally severe hail is possible with cells near or even behind the cold front. Some of the larger cells may eventually pose a localized damaging wind threat should they transition into small bows. Low-level shear remains strong, mainly from east-central MS into AL. Cells upstream of this region will need to be monitored for supercell characteristics, and watch re-issuance could be needed should this occur. ..Jewell.. 02/06/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 85,
+      "issue_utc": "2020-02-06T05:15Z",
+      "topic": "Tornado Watch 24",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0085.html",
+      "summary": "Storms have transitioned into supercells, and a new tornado watch will be needed for the area.",
+      "discussion": "Strong shear acting for a prolonged period on storms along the cold front has resulted in a tornadic supercell, now over Jasper county, MS. The environment ahead of this activity is favorable for a continued tornado threat, with increasing low-level shear into AL. In addition, boundary layer moisture continues to increase, with PWAT values over 1.75\" east of the cold front. Finally, midlevel lapse rates are favorable for robust updrafts, which may aid tornado, and possibly significant tornado threat. Large-scale lift will only increase with time, and additional supercells are possible both along and eventually ahead of the front. As such, an additional tornado watch is likely. ..Jewell.. 02/06/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2020,
+      "number": 86,
+      "issue_utc": "2020-02-06T08:02Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0086.html",
+      "summary": "Increasing thunderstorm development is expected through daybreak and beyond, which may be accompanied by increasing potential to produce tornadoes and/or locally damaging wind gusts. A watch probably will be needed within the next couple of hours.",
+      "discussion": "Broadly anticyclonic mid-level flow persists across much of the Southeast, but models suggest that a gradual transition toward a cyclonic regime may commence by 12-15Z as far east as the eastern Gulf States, as positively tilted large-scale upstream troughing takes on a more neutral tilt. In response to ongoing embedded short wave developments, elongated surface troughing now approaching the Appalachians is forecast to deepen through daybreak and beyond. By 12Z this morning, strongest surface pressure falls may become focused along an axis across southeast Alabama through into the immediate lee of the southern Appalachians. It appears that this will be accompanied by strengthening southerly low-level flow, including within a fairly broad jet around 850 mb (to 50-60+ kt) across much of southern/eastern Alabama, the Florida Panhandle, and Georgia into the western Carolinas. Where this regime overlies the moist warm sector (characterized by surface dew points of 65-70+ F), an increase in mostly discrete thunderstorm development appears possible initially, aided by forcing for ascent associated with low-level warm advection. A weak warm front currently extending across south central through southeast Alabama has been a focus for enhanced low-level shear and isolated convective development the past few hours. If this boundary persists, models are suggestive that it may shift northeastward ahead of the eastward advancing cold front, and extend along a corridor across east central Alabama, southward along or just east of the southern Georgia/Alabama state border area by 12Z. Regardless, as low-level hodographs enlarge beneath the strengthening 850 mb jet, the environment may become increasingly conducive to supercells which could become capable of producing tornadoes, within t"
+    },
+    {
+      "year": 2020,
+      "number": 87,
+      "issue_utc": "2020-02-06T10:33Z",
+      "topic": "Tornado Watch 25",
+      "url": "https://www.spc.noaa.gov/products/md/2020/md0087.html",
+      "summary": "Remaining valid portion of Tornado Watch 25 probably needs to be locally extended in time another couple of hours.",
+      "discussion": "A short wave impulse, which has emerged from the base of large-scale mid/upper troughing, is now accelerating northeast of the Ark-La-Tex region. Forcing for ascent related to this feature has aided increasing thunderstorm development along and in the wake of the cold front, which is still west of Birmingham, Mobile and Biloxi, but is beginning to surge east of New Orleans. Increasing 2-hourly surface pressure rises are now evident in the wake of the cold front across southwestern Mississippi into southeastern Louisiana, and it does appear that an eastward acceleration of the front is underway. However, it may not advance through the remaining valid portions of Tornado Watch 25 until the 12-14Z time frame. Until it does, the environment remains conditionally supportive of severe thunderstorm development ahead of the cold front, with the latest Rapid Refresh suggesting further strengthening of southerly 850 mb flow still possible contributing to strong to extreme low-level shear. ..Kerr.. 02/06/2020 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}
