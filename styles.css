@@ -96,7 +96,7 @@ main {
 
 .metric-grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   gap: 12px;
   margin-bottom: 18px;
 }
@@ -567,6 +567,102 @@ tbody tr.selected {
   color: var(--teal-dark);
 }
 
+.tornado-count {
+  white-space: nowrap;
+  font-weight: 850;
+}
+
+.tornado-count span {
+  display: block;
+  color: var(--muted);
+  font-size: 0.76rem;
+  font-weight: 800;
+}
+
+.tornado-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(118px, 1fr));
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.tornado-stat {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 9px;
+  background: #fbfcfb;
+}
+
+.tornado-stat strong {
+  display: block;
+  font-size: 1.15rem;
+}
+
+.tornado-stat span {
+  color: var(--muted);
+  font-size: 0.76rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.tornado-note {
+  color: #46534e;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.tornado-event-list {
+  display: grid;
+  gap: 9px;
+  margin-top: 10px;
+}
+
+.tornado-event {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 10px;
+  background: #fbfcfb;
+}
+
+.tornado-event-head {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.tornado-event-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 7px;
+  color: #46534e;
+  font-size: 0.84rem;
+}
+
+.radar-targets {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.radar-chip {
+  border: 1px solid #c8d5d0;
+  border-radius: 4px;
+  padding: 4px 7px;
+  background: #ffffff;
+  color: #273530;
+  font-size: 0.8rem;
+  font-weight: 850;
+}
+
+.radar-chip span {
+  color: var(--muted);
+  font-weight: 800;
+}
+
 .source-list {
   display: grid;
   gap: 10px;
@@ -627,10 +723,10 @@ tbody tr.selected {
     gap: 4px;
   }
 
-  th:nth-child(5),
-  td:nth-child(5),
   th:nth-child(6),
-  td:nth-child(6) {
+  td:nth-child(6),
+  th:nth-child(7),
+  td:nth-child(7) {
     display: none;
   }
 }

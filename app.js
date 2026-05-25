@@ -4,11 +4,14 @@ let records = [];
 let filtered = [];
 let selectedDay = null;
 let activePreset = "";
+let tornadoSummary = { days: {}, metadata: {}, day_count: 0, event_count: 0 };
+const tornadoDayCache = {};
 
 const $ = (id) => document.getElementById(id);
 const formatClass = (value) => value.replaceAll("_", " ");
 const formatRisk = (value) => value === "ENH_EQ" ? "ENH equiv" : value;
 const listText = (items, limit = 3) => (items || []).slice(0, limit).map(formatClass).join(", ");
+const formatUtc = (value = "") => value ? value.replace("T", " ").replace(":00Z", "Z") : "";
 const safeText = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({
   "&": "&amp;",
   "<": "&lt;",
@@ -76,6 +79,16 @@ function countBy(items, getter) {
     acc[key] = (acc[key] || 0) + 1;
     return acc;
   }, {});
+}
+
+function tornadoSummaryFor(day) {
+  return (tornadoSummary.days || {})[day] || null;
+}
+
+function tornadoLabel(day) {
+  const summary = tornadoSummaryFor(day);
+  if (!summary) return "0";
+  return `${summary.tornado_count} <span>${safeText(summary.strongest_rating || "UNK")}</span>`;
 }
 
 function addDays(day, offset) {
@@ -178,6 +191,107 @@ function renderMesoanalysis(record) {
   `;
 }
 
+function renderTornadoTargetSummary(day) {
+  const summary = tornadoSummaryFor(day);
+  if (!summary) {
+    return `
+      <div class="detail-section">
+        <h3>Tornado / Radar Targets</h3>
+        <p class="tornado-note">No observed tornado target rows matched this 12Z-to-12Z classified day.</p>
+      </div>
+    `;
+  }
+  const sources = Object.entries(summary.source_counts || {}).map(([name, count]) => `${count} ${name}`).join("; ");
+  return `
+    <div class="detail-section">
+      <h3>Tornado / Radar Targets</h3>
+      <div class="tornado-summary-grid">
+        <div class="tornado-stat"><strong>${summary.tornado_count}</strong><span>tornadoes</span></div>
+        <div class="tornado-stat"><strong>${safeText(summary.strongest_rating || "UNK")}</strong><span>strongest</span></div>
+        <div class="tornado-stat"><strong>${summary.total_fatalities || 0}</strong><span>fatalities</span></div>
+        <div class="tornado-stat"><strong>${summary.total_injuries || 0}</strong><span>injuries</span></div>
+      </div>
+      <p class="tornado-note"><strong>Window:</strong> ${formatUtc(summary.earliest_time_utc)} to ${formatUtc(summary.latest_time_utc)}. <strong>Sources:</strong> ${safeText(sources || "event-level source rows")}.</p>
+      <p class="tornado-note">Loading event-level nearest-radar targets...</p>
+    </div>
+  `;
+}
+
+async function loadTornadoTargets(day) {
+  if (!tornadoSummaryFor(day)) return null;
+  if (tornadoDayCache[day]) return tornadoDayCache[day];
+  try {
+    const response = await fetch(`data/tornado_targets/${day}.json`);
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    tornadoDayCache[day] = await response.json();
+    return tornadoDayCache[day];
+  } catch (error) {
+    return { error: String(error), events: [] };
+  }
+}
+
+function renderRadarTargets(event) {
+  return (event.nearest_radars || []).map((radar, index) => `
+    <span class="radar-chip">
+      ${index + 1}. ${safeText(radar.id)} <span>${safeText(radar.distance_mi)} mi</span>
+    </span>
+  `).join("");
+}
+
+function renderTornadoEvent(event) {
+  const place = [event.location, event.county, event.state].filter(Boolean).join(", ");
+  const path = event.path_length_mi ? `${event.path_length_mi} mi path` : "path length n/a";
+  const width = event.width_yd ? `${event.width_yd} yd wide` : "width n/a";
+  const sourceUrl = event.source_url || "data/tornado_radar_targets.csv";
+  return `
+    <div class="tornado-event">
+      <div class="tornado-event-head">
+        <strong>${formatUtc(event.time_utc)}</strong>
+        <span class="chip">${safeText(event.rating || "UNK")}</span>
+      </div>
+      <div class="tornado-event-meta">
+        <span>${safeText(place || `${event.begin_lat}, ${event.begin_lon}`)}</span>
+        <span>${safeText(path)}</span>
+        <span>${safeText(width)}</span>
+        <span>${event.fatalities || 0} fatal / ${event.injuries || 0} inj</span>
+      </div>
+      <div class="tornado-event-meta">
+        <span>VWP ${formatUtc(event.vwp_start_utc)} - ${formatUtc(event.vwp_end_utc)}</span>
+        <a href="${sourceUrl}" target="_blank" rel="noreferrer">source</a>
+      </div>
+      <div class="radar-targets">${renderRadarTargets(event)}</div>
+    </div>
+  `;
+}
+
+function renderTornadoTargets(day, payload) {
+  const summary = tornadoSummaryFor(day);
+  if (!summary) return renderTornadoTargetSummary(day);
+  if (!payload) return renderTornadoTargetSummary(day);
+  if (payload.error) {
+    return `
+      <div class="detail-section">
+        <h3>Tornado / Radar Targets</h3>
+        <p class="tornado-note">Could not load event-level radar targets: ${safeText(payload.error)}</p>
+      </div>
+    `;
+  }
+  const events = payload.events || [];
+  return `
+    <div class="detail-section">
+      <h3>Tornado / Radar Targets</h3>
+      <div class="tornado-summary-grid">
+        <div class="tornado-stat"><strong>${summary.tornado_count}</strong><span>tornadoes</span></div>
+        <div class="tornado-stat"><strong>${safeText(summary.strongest_rating || "UNK")}</strong><span>strongest</span></div>
+        <div class="tornado-stat"><strong>${summary.total_fatalities || 0}</strong><span>fatalities</span></div>
+        <div class="tornado-stat"><strong>${summary.total_injuries || 0}</strong><span>injuries</span></div>
+      </div>
+      <p class="tornado-note">Nearest three current NEXRAD sites are calculated from each tornado begin point. VWP windows are centered on observed begin time with a +/-30 minute window.</p>
+      <div class="tornado-event-list">${events.map(renderTornadoEvent).join("")}</div>
+    </div>
+  `;
+}
+
 function optionize(select, values, formatter = (x) => x) {
   for (const value of values) {
     const option = document.createElement("option");
@@ -189,11 +303,13 @@ function optionize(select, values, formatter = (x) => x) {
 
 function matchesSearch(record, query) {
   if (!query) return true;
+  const torn = tornadoSummaryFor(record.day);
   const haystack = [
     record.day,
     record.risk,
     record.primary,
     record.ofb,
+    torn ? `${torn.tornado_count} tornadoes ${torn.strongest_rating}` : "",
     record.narrative,
     record.ofb_reason,
     ...(record.secondary || []),
@@ -213,7 +329,11 @@ function applyFilters() {
   const primary = $("classFilter").value;
   const query = $("searchBox").value.trim();
   filtered = records.filter((record) => {
-    const presetOk = activePreset === "corelikely" ? ["core", "likely"].includes(record.ofb) : true;
+    const presetOk = activePreset === "corelikely"
+      ? ["core", "likely"].includes(record.ofb)
+      : activePreset === "observedtornado"
+        ? Boolean(tornadoSummaryFor(record.day))
+        : true;
     return (!year || record.day.startsWith(year)) &&
       (!risk || record.risk === risk) &&
       (!ofb || record.ofb === ofb) &&
@@ -226,9 +346,11 @@ function applyFilters() {
 
 function renderMetrics() {
   const coreLikely = filtered.filter((r) => r.ofb === "core" || r.ofb === "likely").length;
+  const tornadoDays = filtered.filter((r) => tornadoSummaryFor(r.day)).length;
   const high = filtered.filter((r) => r.risk === "HIGH").length;
   $("metricDays").textContent = filtered.length.toLocaleString();
   $("metricCoreLikely").textContent = coreLikely.toLocaleString();
+  $("metricTornadoDays").textContent = tornadoDays.toLocaleString();
   $("metricHigh").textContent = high.toLocaleString();
   $("visibleCount").textContent = `${filtered.length.toLocaleString()} visible`;
 }
@@ -276,6 +398,7 @@ function renderTable() {
       <td><span class="risk ${record.risk}">${formatRisk(record.risk)}</span></td>
       <td>${formatClass(record.primary)}</td>
       <td><span class="regime ${record.ofb}">${record.ofb}</span></td>
+      <td class="tornado-count">${tornadoLabel(record.day)}</td>
       <td class="multi-line">${listText(record.hazards, 4)}</td>
       <td class="multi-line">${listText(record.modes, 4)}</td>
       <td><button class="audit-btn" type="button" data-day="${record.day}">Inspect</button></td>
@@ -350,6 +473,16 @@ async function loadPacket(day) {
   }
 }
 
+async function loadTornadoSummary() {
+  try {
+    const response = await fetch("data/tornado_radar_summary.json");
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    return await response.json();
+  } catch {
+    return { days: {}, metadata: {}, day_count: 0, event_count: 0 };
+  }
+}
+
 async function copyDayLink(day) {
   const url = `${location.origin}${location.pathname}#day=${day}`;
   try {
@@ -379,6 +512,8 @@ async function showDetail(day, updateHash = true) {
     <div class="detail-actions">
       <button id="copyDayLink" type="button">Copy day link</button>
       <a href="data/packets/${record.day}.json" target="_blank" rel="noreferrer">Source packet JSON</a>
+      ${tornadoSummaryFor(record.day) ? `<a href="data/tornado_targets/${record.day}.json" target="_blank" rel="noreferrer">Tornado target JSON</a>` : ""}
+      <a href="data/tornado_radar_targets.csv" target="_blank" rel="noreferrer">Tornado target CSV</a>
       <a href="data/all_classifications.jsonl" target="_blank" rel="noreferrer">Full JSONL</a>
     </div>
     <div class="detail-section">
@@ -410,6 +545,7 @@ async function showDetail(day, updateHash = true) {
         `).join("")}
       </div>
     </div>
+    <div id="tornadoTargets">${renderTornadoTargetSummary(record.day)}</div>
     ${renderMesoanalysis(record)}
     <div id="sourcePacket">${renderSourcePacket(null)}</div>
   `;
@@ -417,7 +553,10 @@ async function showDetail(day, updateHash = true) {
   const copyButton = document.querySelector("#copyDayLink");
   if (copyButton) copyButton.addEventListener("click", () => copyDayLink(record.day));
   renderTable();
-  const packet = await loadPacket(record.day);
+  const [targets, packet] = await Promise.all([loadTornadoTargets(record.day), loadPacket(record.day)]);
+  if (selectedDay !== record.day) return;
+  const targetContainer = document.querySelector("#tornadoTargets");
+  if (targetContainer) targetContainer.innerHTML = renderTornadoTargets(record.day, targets);
   const packetContainer = document.querySelector("#sourcePacket");
   if (packetContainer) packetContainer.innerHTML = packet.error ? `
     <div class="detail-section">
@@ -456,7 +595,10 @@ function syncDetailFromHash() {
 }
 
 async function init() {
-  records = await fetch("data/classifications.json").then((response) => response.json());
+  [records, tornadoSummary] = await Promise.all([
+    fetch("data/classifications.json").then((response) => response.json()),
+    loadTornadoSummary(),
+  ]);
   records.sort((a, b) => a.day.localeCompare(b.day));
   const years = [...new Set(records.map((r) => r.day.slice(0, 4)))].sort();
   const risks = [...new Set(records.map((r) => r.risk))].sort((a, b) => riskOrder[a] - riskOrder[b]);

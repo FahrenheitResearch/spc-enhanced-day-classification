@@ -9,6 +9,7 @@ The page lets people inspect:
 - boundary drivers, storm modes, dominant hazards, and forecast challenges
 - short evidence snippets linked back to SPC Day 1 Outlooks and Mesoscale Discussions
 - organized SPC mesoanalysis map links/previews for each day
+- observed tornado rows with UTC timing, +/-30 minute VWP windows, and the closest three current NEXRAD sites
 - per-day source packets with all attached outlook and MD links for audit/review
 - shareable day links like `#day=2024-05-06`
 - downloadable CSV/JSONL data and the classification schema
@@ -21,6 +22,8 @@ The page lets people inspect:
 - Moderate: 274
 - High: 31
 - Core or likely OFB/MCS boundary regime: 899
+- Classified days with observed tornado radar targets: 1257
+- Observed tornado target rows: 15708
 
 ## Files
 
@@ -29,9 +32,13 @@ The page lets people inspect:
 - `data/classifications.json`
 - `data/packets/YYYY-MM-DD.json`
 - `data/ofb_mcs_boundary_cases.csv`
+- `data/tornado_radar_summary.json`
+- `data/tornado_radar_targets.csv`
+- `data/tornado_targets/YYYY-MM-DD.json`
+- `data/radar_sites.json`
 - `data/CLASSIFICATION_SCHEMA.md`
 - `data/validation_summary.json`
 
 ## Method Note
 
-This classifies the evidence in SPC forecast/outlook text and MDs. It does not verify whether model guidance handled each boundary correctly. The natural next step is comparing the `core` and `likely` OFB/MCS cases against radar and surface observations versus HRRR/RAP/HREF forecasts.
+This classifies the evidence in SPC forecast/outlook text and MDs. Tornado/radar target rows are derived from SPC WCM actual tornado tracks for 2009-2024, latest NCEI Storm Events detail files for 2025-2026, and current NEXRAD site metadata. It does not verify whether model guidance handled each boundary correctly. The natural next step is comparing the `core` and `likely` OFB/MCS cases against radar and surface observations versus HRRR/RAP/HREF forecasts.

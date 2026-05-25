@@ -12,12 +12,13 @@
     <div>
       <p class="eyebrow">SPC Day 1 outlooks + mesoscale discussions</p>
       <h1>Enhanced+ Convective Day Classification</h1>
-      <p class="lede">A searchable taxonomy of Enhanced-equivalent, Enhanced, Moderate, and High SPC Day 1 convective days from 2009 through May 2026. Click <strong>Inspect</strong> on any day to audit the classification against SPC outlooks, mesoscale discussions, and source packets.</p>
+      <p class="lede">A searchable taxonomy of Enhanced-equivalent, Enhanced, Moderate, and High SPC Day 1 convective days from 2009 through May 2026. Click <strong>Inspect</strong> on any day to audit the classification, SPC mesoanalysis links, observed tornadoes, and nearest radar/time targets.</p>
     </div>
     <nav class="downloads" aria-label="Data downloads">
       <a href="data/all_classifications.csv">CSV</a>
       <a href="data/all_classifications.jsonl">JSONL</a>
       <a href="data/ofb_mcs_boundary_cases.csv">OFB/MCS cases</a>
+      <a href="data/tornado_radar_targets.csv">Tornado radar targets</a>
       <a href="data/CLASSIFICATION_SCHEMA.md">Schema</a>
     </nav>
   </header>
@@ -26,6 +27,7 @@
     <section class="metric-grid" aria-label="Dataset summary">
       <div class="metric"><span id="metricDays">1450</span><label>classified days</label></div>
       <div class="metric"><span id="metricCoreLikely">899</span><label>core/likely OFB-MCS</label></div>
+      <div class="metric"><span id="metricTornadoDays">1257</span><label>tornado target days</label></div>
       <div class="metric"><span id="metricHigh">31</span><label>High Risk days</label></div>
       <div class="metric"><span id="metricConfidence">100%</span><label>validated records</label></div>
     </section>
@@ -60,6 +62,7 @@
           <button data-preset="corelikely" type="button">Core + likely OFB/MCS</button>
           <button data-preset="mcswind" type="button">MCS wind days</button>
           <button data-preset="tornado" type="button">Tornado focus</button>
+          <button data-preset="observedtornado" type="button">Observed tornadoes</button>
         </div>
       </aside>
 
@@ -94,6 +97,7 @@
                   <th>Risk</th>
                   <th>Primary class</th>
                   <th>OFB/MCS</th>
+                  <th>Tors</th>
                   <th>Hazards</th>
                   <th>Modes</th>
                   <th>Audit</th>
