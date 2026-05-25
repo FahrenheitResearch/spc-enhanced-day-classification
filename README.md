@@ -8,6 +8,7 @@ The page lets people inspect:
 - OFB/MCS boundary regime labels (`core`, `likely`, `possible`, `none`)
 - boundary drivers, storm modes, dominant hazards, and forecast challenges
 - short evidence snippets linked back to SPC Day 1 Outlooks and Mesoscale Discussions
+- organized SPC mesoanalysis map links/previews for each day
 - per-day source packets with all attached outlook and MD links for audit/review
 - shareable day links like `#day=2024-05-06`
 - downloadable CSV/JSONL data and the classification schema

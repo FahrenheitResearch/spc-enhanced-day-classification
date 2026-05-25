@@ -367,7 +367,7 @@ tbody tr.selected {
 .detail-panel {
   position: fixed;
   inset: 0 0 0 auto;
-  width: min(560px, 100vw);
+  width: min(880px, 100vw);
   transform: translateX(100%);
   transition: transform 160ms ease;
   z-index: 10;
@@ -468,6 +468,103 @@ tbody tr.selected {
 .evidence-item p {
   margin: 6px 0 0;
   color: #3c4843;
+}
+
+.meso-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.meso-toolbar a {
+  color: var(--teal-dark);
+  font-weight: 850;
+}
+
+.meso-pack {
+  margin-top: 14px;
+}
+
+.meso-pack h4 {
+  margin: 0 0 8px;
+  font-size: 0.88rem;
+  color: var(--ink);
+}
+
+.meso-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 10px;
+}
+
+.meso-card {
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fbfcfb;
+}
+
+.meso-preview {
+  display: block;
+  aspect-ratio: 4 / 3;
+  border-bottom: 1px solid var(--line);
+  background: #eef2f0;
+}
+
+.meso-preview img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.meso-card-body {
+  padding: 9px;
+}
+
+.meso-title-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  align-items: baseline;
+}
+
+.meso-title-row a {
+  color: var(--teal-dark);
+  font-weight: 850;
+}
+
+.meso-default-time {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.meso-times {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 8px;
+}
+
+.meso-times a {
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 3px 6px;
+  background: #ffffff;
+  color: #44514c;
+  font-size: 0.76rem;
+  font-weight: 850;
+  text-decoration: none;
+}
+
+.meso-times a:hover {
+  border-color: var(--teal);
+  color: var(--teal-dark);
 }
 
 .source-list {

@@ -17,12 +17,165 @@ const safeText = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({
   "'": "&#39;",
 }[char]));
 
+const mesoBase = "https://www.spc.noaa.gov/exper/ma_archive/images_s4";
+const mesoLoopBase = "https://www.spc.noaa.gov/exper/ma_archive/action5.php";
+const mesoTimes = [
+  { label: "12Z", hour: "12", offset: 0 },
+  { label: "15Z", hour: "15", offset: 0 },
+  { label: "18Z", hour: "18", offset: 0 },
+  { label: "21Z", hour: "21", offset: 0 },
+  { label: "00Z+1", hour: "00", offset: 1 },
+  { label: "03Z+1", hour: "03", offset: 1 },
+  { label: "06Z+1", hour: "06", offset: 1 },
+  { label: "09Z+1", hour: "09", offset: 1 },
+];
+const mesoProducts = {
+  pmsl: "MSL pressure / sfc wind",
+  ttd: "Temp / dewpoint / wind",
+  mcon: "Moisture convergence",
+  sfnt: "Surface frontogenesis",
+  "3cvr": "3km CAPE / sfc vorticity",
+  rgnlrad: "Radar mosaic",
+  "500mb": "500 mb height / temp / wind",
+  "850mb": "850 mb analysis",
+  "300mb": "300 mb analysis",
+  mlcp: "100mb MLCAPE",
+  mucp: "MUCAPE / LPL height",
+  eshr: "Effective bulk shear",
+  shr6: "0-6km shear",
+  srh1: "0-1km SRH",
+  srh3: "0-3km SRH",
+  effh: "Effective SRH",
+  lclh: "LCL height",
+  lcls: "LCL / 0-1km SRH",
+  stpc: "Effective STP",
+  scp: "Supercell composite",
+  dcp: "Derecho composite",
+  mcsm: "MCS maintenance",
+  dcape: "Downdraft CAPE",
+  sigh: "Significant hail",
+  hail: "Hail parameters",
+  laps: "Mid-level lapse rates",
+  pwtr: "Precipitable water",
+  tran: "850mb moisture transport",
+  prop: "Upwind propagation vector",
+};
+const mesoPackCatalog = {
+  overview: { title: "Overview", products: ["pmsl", "500mb", "850mb", "rgnlrad"] },
+  boundary: { title: "Boundary / OFB", products: ["pmsl", "ttd", "mcon", "sfnt", "3cvr", "rgnlrad"] },
+  instability: { title: "Instability / Shear", products: ["mlcp", "mucp", "eshr", "shr6", "laps", "500mb"] },
+  tornado: { title: "Tornado / Supercell", products: ["stpc", "scp", "srh1", "srh3", "effh", "lclh", "lcls"] },
+  wind: { title: "MCS / Wind", products: ["dcp", "mcsm", "dcape", "shr6", "pmsl", "rgnlrad"] },
+  hail: { title: "Hail", products: ["sigh", "hail", "laps", "mlcp", "eshr", "500mb"] },
+  heavyRain: { title: "Heavy Rain", products: ["pwtr", "tran", "prop", "mcon", "850mb", "rgnlrad"] },
+};
+
 function countBy(items, getter) {
   return items.reduce((acc, item) => {
     const key = getter(item);
     acc[key] = (acc[key] || 0) + 1;
     return acc;
   }, {});
+}
+
+function addDays(day, offset) {
+  const [year, month, date] = day.split("-").map(Number);
+  const value = new Date(Date.UTC(year, month - 1, date + offset));
+  return `${value.getUTCFullYear()}${String(value.getUTCMonth() + 1).padStart(2, "0")}${String(value.getUTCDate()).padStart(2, "0")}`;
+}
+
+function mesoUrl(day, product, time) {
+  const ymd = addDays(day, time.offset);
+  return `${mesoBase}/${ymd}/${time.hour}_${product}.gif`;
+}
+
+function mesoLoopUrl(day, product, time) {
+  const ymd = addDays(day, time.offset);
+  return `${mesoLoopBase}?BASICPARAM=${product}.gif&STARTYEAR=${ymd.slice(0, 4)}&STARTMONTH=${ymd.slice(4, 6)}&STARTDAY=${ymd.slice(6, 8)}&STARTTIME=${time.hour}&INC=-6`;
+}
+
+function dayText(record) {
+  return [
+    record.primary,
+    record.ofb,
+    record.ofb_reason,
+    record.narrative,
+    ...(record.secondary || []),
+    ...(record.tags || []),
+    ...(record.boundaries || []),
+    ...(record.modes || []),
+    ...(record.hazards || []),
+    ...(record.challenges || []),
+  ].join(" ").toLowerCase();
+}
+
+function defaultMesoTime(record) {
+  const text = dayText(record);
+  if (text.includes("nocturnal") || text.includes("elevated") || text.includes("overnight")) return mesoTimes[5];
+  if (text.includes("mcs") || text.includes("derecho") || text.includes("qlcs")) return mesoTimes[4];
+  return mesoTimes[3];
+}
+
+function mesoPacksFor(record) {
+  const text = dayText(record);
+  const packIds = ["overview", "instability"];
+  if (["core", "likely"].includes(record.ofb) || /outflow|cold pool|effective boundary|mcv|frontogenesis|differential heating/.test(text)) packIds.push("boundary");
+  if (/tornado|supercell|srh|stp|cyclic/.test(text)) packIds.push("tornado");
+  if (/mcs|derecho|qlcs|bow|wind damage|damaging wind|cold pool/.test(text)) packIds.push("wind");
+  if (/hail|lapse rate/.test(text)) packIds.push("hail");
+  if (/flash flood|training|heavy rain|precipitable|moisture transport/.test(text)) packIds.push("heavyRain");
+  return [...new Set(packIds)].map((id) => mesoPackCatalog[id]);
+}
+
+function renderMesoanalysis(record) {
+  const defaultTime = defaultMesoTime(record);
+  const packs = mesoPacksFor(record);
+  const seenProducts = new Set();
+  const displayPacks = packs.map((pack) => ({
+    ...pack,
+    products: pack.products.filter((product) => {
+      if (seenProducts.has(product)) return false;
+      seenProducts.add(product);
+      return true;
+    }),
+  })).filter((pack) => pack.products.length);
+  const allProducts = [...seenProducts];
+  const loopUrl = mesoLoopUrl(record.day, "pmsl", defaultTime);
+  return `
+    <div class="detail-section">
+      <div class="meso-toolbar">
+        <h3>SPC Mesoanalysis Maps</h3>
+        <a href="${loopUrl}" target="_blank" rel="noreferrer">SPC archive loop</a>
+      </div>
+      <div class="chip-list">${allProducts.map((product) => `<span class="chip">${safeText(mesoProducts[product] || product)}</span>`).join("")}</div>
+      ${displayPacks.map((pack) => `
+        <div class="meso-pack">
+          <h4>${pack.title}</h4>
+          <div class="meso-grid">
+            ${pack.products.map((product) => {
+              const previewUrl = mesoUrl(record.day, product, defaultTime);
+              return `
+                <div class="meso-card">
+                  <a class="meso-preview" href="${previewUrl}" target="_blank" rel="noreferrer">
+                    <img src="${previewUrl}" loading="lazy" alt="${safeText(mesoProducts[product] || product)} ${record.day} ${defaultTime.label}" onerror="this.closest('.meso-card').classList.add('missing'); this.remove();">
+                  </a>
+                  <div class="meso-card-body">
+                    <div class="meso-title-row">
+                      <a href="${mesoLoopUrl(record.day, product, defaultTime)}" target="_blank" rel="noreferrer">${safeText(mesoProducts[product] || product)}</a>
+                      <span class="meso-default-time">${defaultTime.label}</span>
+                    </div>
+                    <div class="meso-times">
+                      ${mesoTimes.map((time) => `<a href="${mesoUrl(record.day, product, time)}" target="_blank" rel="noreferrer">${time.label}</a>`).join("")}
+                    </div>
+                  </div>
+                </div>
+              `;
+            }).join("")}
+          </div>
+        </div>
+      `).join("")}
+    </div>
+  `;
 }
 
 function optionize(select, values, formatter = (x) => x) {
@@ -257,6 +410,7 @@ async function showDetail(day, updateHash = true) {
         `).join("")}
       </div>
     </div>
+    ${renderMesoanalysis(record)}
     <div id="sourcePacket">${renderSourcePacket(null)}</div>
   `;
   $("detailPanel").classList.add("open");
