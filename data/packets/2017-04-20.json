@@ -1,0 +1,159 @@
+{
+  "convective_day": "2017-04-20",
+  "valid_start": "2017-04-20T12:00Z",
+  "valid_end": "2017-04-21T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-04-20",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-04-20T12:00Z",
+      "valid_end": "2017-04-21T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170420_1200.html",
+      "summary": "Severe storms capable of producing damaging winds, hail, and perhaps a tornado or two will be possible across parts of the lower Great Lakes region into the Ohio Valley this afternoon and early evening. Farther southwest, a few severe storms capable of producing large hail are possible across parts of the southern Plains overnight.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A low-amplitude, progressive synoptic pattern will prevail today. A shortwave trough now over the northern Plains will continue through the Great Lakes and OH Valley. Surface low induced by this feature will move through lower MI this afternoon with trailing cold front continuing into the southern Plains. This front will likely stall over northwest TX through southern OK tonight as an upstream shortwave trough reaches the southern High Plains contributing to weak lee cyclogenesis."
+        },
+        {
+          "title": "Great Lakes and Ohio Valley region",
+          "text": "Stationary front currently from central IL through central OH will advance north as a warm front in response to increasing southwesterly low-level winds associated with evolving cyclone over the Great Lakes. By mid day this boundary should extend from the surface low over Lake MI through southern lower MI into northern PA. Trailing cold front will extend southwestward from the low through central IL. Warm sector with upper 50s to around 60F dewpoints will advect through much of the OH Valley into the southern Great Lakes, where diabatic warming should boost MLCAPE to around 1500 J/kg. Thunderstorms are expected to develop along and just ahead of the cold front by early afternoon as the boundary layer destabilizes and convective inhibition weakens. Deep-layer winds will increase primarily over the Great Lakes and northern portions of the OH valley with the approach of a mid-level jet streak within base of the upper trough. Wind profiles will be mostly unidirectional southwesterly, except near the warm front over southern lower MI where larger 0-1 km hodographs will persist. Effective Bulk shear should range from 30-45 kt supporting organized multicells and a few supercells. Damaging"
+        },
+        {
+          "title": "TX Panhandle through OK",
+          "text": "Strengthening nocturnal low-level jet will augment isentropic ascent and destabilization along and just north of the front expected to stall over southern OK through northwest TX. Plume of steeper (7-7.5 C/km) mid-level lapse rates will expand east above the elevated moist corridor contributing to MUCAPE up to 2000 J/kg. Elevated storms should develop over OK during the evening in response to these processes. Effective shear through the cloud layer will support potential for a few rotating updrafts capable of mainly large hail. Farther west, some high resolution guidance suggests additional storms will develop later in the evening within post-frontal upslope regime over northeast NM with arrival of deeper forcing for ascent accompanying a shortwave trough. This activity might continue east within zone of destabilization through the TX panhandle and western OK with primary threat being large hail. ..Dial/Mosier.. 04/20/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-04-20",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-04-20T13:00Z",
+      "valid_end": "2017-04-21T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170420_1300.html",
+      "summary": "Severe storms capable of producing damaging winds, hail, and perhaps a tornado or two will be possible across parts of the southern Great Lakes region and Ohio Valley this afternoon and early evening. Isolated severe storms capable of producing large hail are also possible across parts of the southern Plains tonight.",
+      "sections": [
+        {
+          "title": "Great Lakes and Ohio Valley",
+          "text": "The remnants of an MCS continue to move eastward across lower MI and far northern OH early this morning, with the somewhat stronger and more sustained convection occurring near a west/east-oriented warm front that parallels the IN/MI/OH border vicinity. An upstream upper trough over the Upper Midwest will continue eastward toward the Upper Great Lakes by this evening. A surface low over eastern IA early this morning may modestly deepen as the warm front spreads slowly northward across southern Lower MI and the Lake Erie vicinity. Some concerns exist regarding the degree of destabilization later today ahead of the approaching cold front, particularly given observed mid/high-level cloud cover upstream, which is largely related to a weak eastward-moving impulse and convection over MO. Furthermore, near-frontal convergence should remain modest given the aforementioned impulse and tendency for a pre-cold-frontal veering of low-level winds. Regardless, modest destabilization should occur this afternoon just ahead of the front with as much as 800-1200 J/kg MLCAPE expected around peak heating from IN into southeast lower MI and northwest OH. Strengthening west-southwesterly winds through a"
+        },
+        {
+          "title": "OK and northeast NM/TX panhandle",
+          "text": "A southeastward-moving front is expected to decelerate and stall across OK and western north TX by this evening. Aided by nocturnally increasing isentropic ascent, storms should increase and intensify in a WSW/ENE-oriented corridor across OK this evening just north of the surface front. Ample shear through the cloud-bearing layer, along with relatively steep mid-level lapse rates and as much as 1500-2000 J/kg of MUCAPE, will support elevated supercells capable of large hail. Farther west, while some spatial uncertainty exists regarding the stronger convection late tonight (especially given the highly elevated nature of the storms), various convection-allowing models support the development of potentially severe convection as far west as northeast NM late this evening and overnight. This would be supported by the gradual amplification of an upstream Rockies trough, with steepening mid-level lapse rates supported by a pocket of cooling mid-level temperatures. Severe hail appears possible late this evening and especially overnight across parts of northeast NM into the TX panhandle. ..Guyer/Jewell.. 04/20/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-04-20",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-04-20T16:30Z",
+      "valid_end": "2017-04-21T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170420_1630.html",
+      "summary": "Severe storms capable of producing damaging winds and hail will be possible across parts of the southern Great Lakes region and Ohio Valley this afternoon and early evening. Isolated severe storms capable of producing large hail are also possible across parts of the southern Plains tonight.",
+      "sections": [
+        {
+          "title": "Ohio Valley/Great Lakes area this afternoon",
+          "text": "A midlevel shortwave trough over the upper MS Valley will progress eastward today over the Great Lakes, as an associated surface cyclone develops east-northeastward across Lower MI along a surface warm front. The warm front will move into southern Lower MI this afternoon, and south of the boundary the warm sector will be characterized by surface temperatures in the 75-80 F range with dewpoints in the upper 50s to lower 60s. Midlevel lapse rates will remain modest (near 6.5 C/km), which will limit MLCAPE to near 1000 J/kg. The surface cold front should provide a focus for the development of clusters of storms/line segments by early afternoon across IN/southern Lower MI, with convection subsequently spreading eastward across OH this afternoon. Other storm clusters may also form along the warm front farther east into northwest PA and western NY. The weak-moderate buoyancy, steep low-level lapse rates with daytime heating, and deep unidirectional wind profiles will favor damaging winds as the primary risk, though isolated/marginally severe hail will also be possible. An isolated tornado cannot be ruled out with storms interacting with the warm front, where low-level shear will be stron"
+        },
+        {
+          "title": "Northwest TX this afternoon/evening",
+          "text": "Surface heating south of a slow-moving front and boundary-layer dewpoints in the 60s will contribute to moderate buoyancy, and shallow ascent along the front may be sufficient to initiate isolated storms this afternoon. Marginal supercell structures will be possible since this area is along the southern fringe of the midlevel westerlies, and as low-level southerly flow begins to increase this evening. Isolated large hail/damaging winds will be possible."
+        },
+        {
+          "title": "Central/western OK to the TX Panhandle overnight",
+          "text": "Numerous elevated thunderstorms will likely develop early tonight across western/central OK in a strengthening warm-advection regime atop a shallow cool air mass, north of a cold front that is expected to stall this evening from south central OK into NW TX. Mid 60s boundary-layer dewpoints south of the front and midlevel lapse rates in excess of 7.5-8 C/km will contribute to MUCAPE in excess of 1500 J/kg rooted near 850 mb. Large hail will be the primary risk, especially with any elevated supercells given effective bulk shear in excess of 40 kt. Convection will likely persist through the overnight hours, with additional storm development expected farther west into the TX Panhandle as a midlevel trough now over the Great Basin approaches the southern High Plains. ..Thompson/Cook.. 04/20/2017"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 525,
+      "issue_utc": "2017-04-20T17:36Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0525.html",
+      "summary": "A gradual increase in storm coverage and intensity -- and associated risk for locally damaging winds and hail -- will likely require watch issuance in the next hour or so.",
+      "discussion": "Gradual heating of the pre-frontal boundary layer continues at this time, particularly from the eastern half of Indiana eastward across Ohio and southeast lower Michigan, where less dense cloud cover is indicated at this time. This heating is helping to push mixed-layer CAPE values into the 500 to 1000 J/kg range near and ahead of the front, which is supporting a gradual increase in storm coverage and intensity across the region. The strongest storms at this time are evolving across northern Indiana, near a relative maximum in CAPE per latest objective analysis. As heating/destabilization continues, expect storms to gradually intensify and become locally severe -- aided by moderately strong/unidirectional westerly flow aloft throughout the lower and middle troposphere. Along with hail risk, locally damaging winds will be possible -- particularly presuming anticipated upscale growth of convection into small-scale bands as the afternoon progresses."
+    },
+    {
+      "year": 2017,
+      "number": 526,
+      "issue_utc": "2017-04-20T18:40Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0526.html",
+      "summary": "Isolated strong/locally severe storms will continue developing this afternoon, with some gradual uptick in coverage of risk possible. While it appears at this time that risk should remain sufficiently isolated to preclude WW issuance, we will continue to monitor convective trends across this region.",
+      "discussion": "Latest radar loop shows scattered showers and thunderstorms -- including a few stronger/possibly severe storms -- ongoing across parts of western Pennsylvania at this time. The storms are occurring within a modestly unstable warm sector (mixed-layer CAPE on the order of 500 to 1000 J/kg), within a zone of ascent moving across the area per WV loop. At this time, the spatial extent of severe risk is generally limited to areas west of the Appalachian crest, and into the eastern West Virginia/Maryland panhandles -- i.e. within the axis of greater instability. Meanwhile, implied subsidence is indicated across much of eastern Ohio given trends in the CU field as observed in visible satellite imagery. However, as the next wave of ascent overspreads Ohio with time, new convective development into eastern Ohio could occur. With that said, short-term indications are that WW issuance should remain unnecessary, with severe risk limited to isolated stronger storms/storm clusters."
+    },
+    {
+      "year": 2017,
+      "number": 527,
+      "issue_utc": "2017-04-20T19:07Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0527.html",
+      "summary": "A cluster of thunderstorms moving eastward through the region may pose a marginal wind/hail threat through the afternoon. A WW issuance is not anticipated for this activity.",
+      "discussion": "A cluster of thunderstorms has showing an increase in coverage an intensity over the past hour or so, likely in response to insolation/surface warming and an attendant increase in surface-based instability. These storms were in an environment characterized by weak to moderate instability (around 1500 J/kg ML CAPE) and 40 knots of deep shear, supporting modest storm organization. Latest observations and high-resolution guidance (particularly the HRRR and to a lesser extent, the NAM4) suggest that these ongoing storms may organize into one or two linear segments, with perhaps some component of movement just south of due-east over the course of the afternoon. Isolated instances of damaging wind gusts and 1\" hail cannot be ruled out with this activity, although meager low-level shear and unidirectional wind profiles should mitigate the overall extent of the severe risk in the area. Isolated storms ahead of this band may also briefly produce strong wind gusts."
+    },
+    {
+      "year": 2017,
+      "number": 528,
+      "issue_utc": "2017-04-20T20:31Z",
+      "topic": "Severe Thunderstorm Watch 151",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0528.html",
+      "summary": "Isolated severe risk continues in and near WW #151.",
+      "discussion": "Latest radar loop shows several bands of storms moving across southern Lower Michigan/Indiana/western Ohio at this time, with a new band of storms developing along the immediate frontal zone. This band of storms -- now entering northwest portions of WW #151 -- likely marks the back edge of severe risk, which will gradually advance eastward across the watch over the next few hours. Meanwhile, risk for locally damaging winds and hail continues, as an amply sheared and unstable warm sector remains in place in and near the WW area. ..Goss.. 04/20/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 529,
+      "issue_utc": "2017-04-20T22:40Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0529.html",
+      "summary": "Thunderstorms are expected to develop across northwest TX into central OK this evening. Large hail is the primary risk with this activity.",
+      "discussion": "Surface front has stalled from east central OK into northwest TX early this evening. With surface temperatures in the mid 80s across northwest TX a corridor of modest instability has developed from the TX South Plains to near the Red River. Latest visible satellite imagery depicts a thickening CU field along the front with deeper convection over Haskell/Knox Counties in TX producing weak echo returns. As LLJ strengthens across this region into southwest OK this evening it appears a marked increase in thunderstorm activity will be observed. Numerous elevated thunderstorms should blossom north of the boundary and adequate mid-level lapse rates are in place for robust updrafts. Greatest risk with this activity should be hail."
+    },
+    {
+      "year": 2017,
+      "number": 530,
+      "issue_utc": "2017-04-20T23:01Z",
+      "topic": "Severe Thunderstorm Watch 151",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0530.html",
+      "summary": "Scattered thunderstorms, a few severe, will continue across the southeastern half of WW151 this evening.",
+      "discussion": "Considerable convective overturning has occurred across much of the OH Valley this evening. In the absence of significant buoyancy, stronger low-level forcing along the cold front should serve as the primary focus for most organized thunderstorms over the next few hours. With onset of diurnal cooling it appears the greatest risk will be marginally severe hail and locally gusty winds. Just south of the watch over southern IN, a small cluster of strong/severe thunderstorms has developed. This activity has evolved within slightly more unstable air mass where influence from earlier convection was less disruptive. Even so, marginally severe hail and gusty winds should be the primary threats as this convection spreads toward southwest OH. ..Darrow.. 04/20/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 531,
+      "issue_utc": "2017-04-21T04:30Z",
+      "topic": "Severe Thunderstorm Watch 152",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0531.html",
+      "summary": "Thunderstorms will continue to expand in areal coverage across the Southern Plains north of the Red River. Large hail is the primary severe risk with this activity.",
+      "discussion": "Numerous showers/thunderstorms have developed within warm advection zone across the Southern Plains from northwest TX into extreme southeast KS. While 00z soundings from AMA and OUN do not exhibit significant instability, moisture is advancing north of the boundary into a region of steep mid-level lapse rates. Environmental trends continue to favor additional robust convective development tonight. Two particularly noteworthy supercells have evolved over northwest TX. These storms are propagating southeast toward the primary frontal zone and are likely producing very large hail at times. Current thinking is these storms should remain elevated in nature but given the proximity to the warm sector the inflow layer appears to be ingesting more favorable moisture/instability. Upstream across the TX Panhandle...large-scale forcing for ascent is beginning to spread toward the western-most fringe of higher quality moisture. Isolated thunderstorms have recently developed over northeast NM in advance of a notable short-wave trough. Strong thunderstorms may develop west of WW152 toward 08z then intensify into a possible MCS toward daybreak as it propagates into western OK. ..Darrow.. 04/21/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 532,
+      "issue_utc": "2017-04-21T06:07Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0532.html",
+      "summary": "A new WW issuance into north-central TX is unlikely, as storm coverage is expected to remain quite low to the southeast and south of WW 152. If the storm located in southern Wichita and northern Archer Counties TX remains strong until 07-0730Z, then a marginal hail threat cannot be ruled out into Montague County and other north-central TX counties by 08-09Z.",
+      "discussion": "Trends since 05Z in MRMS 7-km and 9-km CAPPI have shown some weakening with the persistent storm tracking to the east-southeast from western North TX (in southern Wichita/northern Archer Counties at 0545Z) toward north-central TX. However, the last few reflectivity scans have indicated some sustenance with MRMS MESH indicating hail size of 1-1.5 inches in diameter possible. Early overnight surface analyses indicated this storm had moved south of the cold front which extended from northeast AR to southeast OK and then westward in vicinity of the Red River to Wilbarger County TX and southwest across west TX. Given the presence of strong surface-based inhibition and the lack of lift south of the cold front, current thinking suggests this storm should weaken as it moves farther away from the cold front. And, for the same reasoning, new storm development is not expected south of the cold front."
+    },
+    {
+      "year": 2017,
+      "number": 533,
+      "issue_utc": "2017-04-21T08:44Z",
+      "topic": "Severe Thunderstorm Watch 152",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0533.html",
+      "summary": "Recent storm development is being monitored in northeast NM into the northwest TX Panhandle, which is likely the start of the next round of strong to severe storms forecast to spread to the east/southeast across the OK/TX Panhandles into western and central OK through the morning. This will likely warrant a new WW issuance prior to the expiration of WW 152. Meanwhile, isolated strong to severe storms will continue across west-central OK, with storms weakening east of the I-35 corridor.",
+      "discussion": "At 08Z, the strongest storms with some severe hail threat were persisting within and just east and southeast of WW 152. These more isolated storms should eventually weaken, as they move east of the I-35 corridor, where instability is much less than currently analyzed across the western half of OK and western north TX into the TX Panhandle. Meanwhile, trends in IR satellite imagery have indicated an increase in convective clouds/cooling cloud tops across northeast NM into the northwest TX and OK Panhandles, where there has also been a recent uptick in reflectivity per mosaic radar imagery and CAPPI data. This activity indicated the increase in large-scale ascent spreading into the southern Plains this morning with the approach of a central/southern Rockies shortwave trough and accompanying southeastward-digging mid-upper level jets. Attendant height falls have resulted in veering and strengthening 850-mb winds across much of west TX (from AMA southward) allowing for low-level moistening. These factors combined with very steep midlevel lapse rates across much of the TX/OK Panhandles into western OK has resulted in ongoing strong destabilization during the overnight hours with MUCAPE ranging from 1500-2000 J/kg as of 08Z. The recent uptick in reflectivity across northeast NM and part of the northern TX Panhandle has been depicted by the last several runs of the HRRR, with each run suggesting a further increase in storm development toward the east and somewhat to the southeast through this morning. HRRR further suggests an eventual upscale growth into a linear MCS as storms spread into western OK between 13-15Z, reaching the I-35 corridor by late morning. Large hail will be the initial severe-weather risk followed by a combination of damaging winds and hail as the storms be"
+    }
+  ]
+}

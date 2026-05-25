@@ -1,0 +1,141 @@
+{
+  "convective_day": "2017-01-20",
+  "valid_start": "2017-01-20T12:00Z",
+  "valid_end": "2017-01-21T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-01-20",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-01-20T16:30Z",
+      "valid_end": "2017-01-21T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170120_1630.html",
+      "summary": "Severe storms will develop this evening and spread across the lower Mississippi Valley tonight through Saturday morning, with a few tornadoes, large hail, and damaging winds all possible. Strong thunderstorms with at least some severe-weather potential are also possible near the southern California coast this afternoon.",
+      "sections": [
+        {
+          "title": "Lower Mississippi Valley",
+          "text": "The latest surface analysis shows a weak warm front extending from just off the upper TX Gulf Coast into southern LA/MS. This boundary will likely be the main focus for strong to severe storms later this afternoon and tonight. Model solutions suggest that activity will first form along or just north of the boundary near HOU/VCT later this afternoon and spread east-northeastward during the evening. Relatively steep mid level lapse rates and sufficient deep layer shear suggest the potential for rotating storms capable of large hail and gusty winds. Very large hail is possible in the stronger cells as they track eastward into LA. Overnight, a consensus of 12z solutions indicates that the convection tracking eastward across LA will coalesce into a bowing complex that tracks across southern MS. Meanwhile the NAM/RAP/HRRR solutions indicate a strengthening low-level jet and low-level cyclogenesis occurring. Low level vertical shear profiles will also strengthen over this area, posing some risk of isolated tornadoes. These trends suggest an enhanced risk of locally damaging winds, so have added an ENH area for this scenario."
+        },
+        {
+          "title": "Coastal Southern California",
+          "text": "Radar and satellite loops show several bands of showers spreading eastward and inland into southern CA. This pattern will persist into the afternoon, when a combination of daytime heating and cooling mid level temperatures will result in marginal CAPE values and scattered thunderstorm activity. Strong mid and low level winds, combined with some orographically induced veering, may result in a marginal risk of gusty/damaging winds and/or a brief tornado. ..Hart.. 01/20/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-01-20",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-01-20T20:00Z",
+      "valid_end": "2017-01-21T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170120_2000.html",
+      "summary": "Severe storms are expected to develop by this evening and spread across the lower Mississippi Valley tonight through Saturday morning, with a couple of tornadoes, large hail, and damaging winds all possible. Strong thunderstorms with at least some severe-weather potential are also possible near the southern California coast this afternoon.",
+      "sections": [
+        {
+          "title": "20Z Outlook Update",
+          "text": "...Southern California coastal areas... There still appears a window of opportunity for the development of a low-topped supercell or two in the presence of low-level warm advection, as a strong 850 mb speed maximum shifts south of the Los Angeles Basin this afternoon. However, relatively warm mid/upper level air appears to be generally suppressing deep convective development where low-level hodographs are enlarged. In the wake of the digging upper impulse, lower/mid tropospheric cooling may become more supportive of weak boundary layer instability later this afternoon and evening. But it may be that this will largely coincide with veering/weakening of 850 mb flow, and shrinking low-level hodographs with increasingly negligible severe weather potential."
+        },
+        {
+          "title": "Northwestern Gulf Coast and lower Mississippi Valley",
+          "text": "Convective development, associated with low/mid-level warm advection on the leading edge of a developing southerly return flow, now appears underway near lower to middle Texas coastal areas. This still appears likely to gradually increase in coverage late this afternoon through tonight, while developing northeastward through the lower Mississippi Valley by 12Z Saturday. The risk for severe hail may be the primary threat with initial development across parts of upper Texas coastal areas into Louisiana and Mississippi. However, the risk for potentially damaging wind gusts, and tornadoes, probably will increase as activity grows upscale later tonight, as this increasingly coincides with inland boundary layer moistening and destabilization, across parts of southeastern Louisiana into southern Mississippi. Latest model output seems to suggest a greater likelihood that could occur closer to Louisiana/Mississippi coastal areas than previously indicated. ..Kerr.. 01/20/2017 .PREV DISCUSSION... /ISSUED 1118 AM CST Fri Jan 20 2017/"
+        },
+        {
+          "title": "Lower Mississippi Valley",
+          "text": "The latest surface analysis shows a weak warm front extending from just off the upper TX Gulf Coast into southern LA/MS. This boundary will likely be the main focus for strong to severe storms later this afternoon and tonight. Model solutions suggest that activity will first form along or just north of the boundary near HOU/VCT later this afternoon and spread east-northeastward during the evening. Relatively steep mid level lapse rates and sufficient deep layer shear suggest the potential for rotating storms capable of large hail and gusty winds. Very large hail is possible in the stronger cells as they track eastward into LA. Overnight, a consensus of 12z solutions indicates that the convection tracking eastward across LA will coalesce into a bowing complex that tracks across southern MS. Meanwhile the NAM/RAP/HRRR solutions indicate a strengthening low-level jet and low-level cyclogenesis occurring. Low level vertical shear profiles will also strengthen over this area, posing some risk of isolated tornadoes. These trends suggest an enhanced risk of locally damaging winds, so have added an ENH area for this scenario."
+        },
+        {
+          "title": "Coastal Southern California",
+          "text": "Radar and satellite loops show several bands of showers spreading eastward and inland into southern CA. This pattern will persist into the afternoon, when a combination of daytime heating and cooling mid level temperatures will result in marginal CAPE values and scattered thunderstorm activity. Strong mid and low level winds, combined with some orographically induced veering, may result in a marginal risk of gusty/damaging winds and/or a brief tornado."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-01-21",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-01-21T01:00Z",
+      "valid_end": "2017-01-21T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170121_0100.html",
+      "summary": "Scattered severe storms are expected to continue developing this evening across southeast Texas, and spread across the lower Mississippi Valley and into Alabama and the Florida Panhandle tonight through Saturday morning. A few tornadoes, some of which could be strong, large hail, and damaging winds will all be possible. Reminder: This Day 1 Convective Outlook will be valid THROUGH 12Z Saturday (7 AM EST/6 AM CST). An upcoming Day 1 Convective Outlook will be issued around 06Z (1 AM EST/Midnight CST), which will be valid BEGINNING at 12Z Saturday, and continuing through 12Z Sunday.",
+      "sections": []
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 79,
+      "issue_utc": "2017-01-20T20:09Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0079.html",
+      "summary": "Isolated thunderstorms will continue to develop into the late afternoon and evening across the middle and upper Texas coast. Additional development eventually is expected across eastern Texas, but timing of more widespread convection is a bit uncertain. Initial concerns this afternoon will be hail and some strong wind gusts.",
+      "discussion": "Isolated thunderstorms were developing along the middle TX coast near VCT, in the vicinity of a warm front draped northeast to southwest across the coastal plain. Weak destabilization is occurring as temperatures warm into the upper 60s to upper 70s with weak capping eroding. Latest hi-res guidance indicates coverage should remain rather isolated for a few hours, before a gradual increase occurs into the evening hours. This seems reasonable given a weak shortwave impulse is currently moving across the TX Big Bend area and will provide increasing forcing for ascent in the coming hours. In the meantime, isolated strong to severe thunderstorms will be possible during the next few hours in the vicinity of the surface boundary. Forecast RAP soundings coupled with mesoanalysis data show steep low and midlevel lapse rates improving between now and 00z. At the same time, increasing vertical shear, with long hodographs suggest large hail will be the main concern as storm track along to just north of the surface boundary. Some backed low level flow in the vicinity of the boundary will lead to some enhanced shear in the lowest 1 km or so, posing some low-end tornado potential. However, wind speeds less than about 10-15 kt in this layer will limit greater tornado threat. With low level lapse rates increasing to 7-8 C/km, a few strong wind gusts also will be possible. While coverage is expected to remain limited in the short-term, a watch may be needed in the next 1-3 hours, depending on convective trends."
+    },
+    {
+      "year": 2017,
+      "number": 80,
+      "issue_utc": "2017-01-21T00:37Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0080.html",
+      "summary": "Threat for mainly a few instances of damaging wind and large hail will persist over southeast TX next couple hours, spreading into southwest LA by mid evening. With time threat for a few tornadoes is expected to increase, especially across southern LA.",
+      "discussion": "Early this evening a warm front separating rich Gulf moisture from modified continental-polar air extends from southeast LA westward to along the southeast TX coast. This boundary should slowly develop inland, especially later tonight as the low-level jet strengthens across LA. In the meantime, thunderstorms are expected to continue developing initially over southeast TX, but spreading into southwest LA by mid evening as a northeastward-ejecting shortwave trough enhances ascent north of this boundary. As steeper mid-level lapse rates advect eastward in the presence of low-level theta-e advection, instability will increase and the thermodynamic environment should become more supportive of robust updrafts. Strong effective bulk shear will support some supercell and bowing structures with initial threats being mainly large hail and damaging wind. Weak low-level winds may initially limit short-term tornado potential. However, the tornado threat is expected to increase by mid-evening onward and especially later tonight over southern LA as the strengthening low-level jet augments 0-1 km hodograph size."
+    },
+    {
+      "year": 2017,
+      "number": 81,
+      "issue_utc": "2017-01-21T04:04Z",
+      "topic": "Tornado Watch 9",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0081.html",
+      "summary": "Thunderstorms will remain capable of producing large to very large hail, damaging wind and a few tornadoes into the early morning. Greatest threat next few hours will exist across southwest through south-central LA, but threat will eventually expand into southeast LA and southern MS later tonight into early Saturday.",
+      "discussion": "Late this evening a warm front extends along the Gulf Coast through southern LA. As this boundary continues moving slowly north and steeper mid-level lapse rates advect east, the atmosphere will destabilize farther inland with MLCAPE generally from 500 to 1000 J/kg over southern LA. Cluster of storms continues developing through southwest and south-central LA generally along and north of the warm front. However, additional discrete cells have developed in warm sector. The strengthening low-level jet and forcing for ascent in response to the ejecting shortwave trough will continue to promote thunderstorm development next several hours. Moreover, a gradual increase in hodograph size has been observed on the Lake Charles VWP with 0-1 km storm-relative helicity exceeding 200 m2/s2 and effective bulk shear near 65 kt. ..Dial.. 01/21/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 82,
+      "issue_utc": "2017-01-21T04:07Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0082.html",
+      "summary": "Scattered thunderstorms will move east across the discussion area this evening into the overnight hours. A couple of these storms may reach severe limits, with the potential for large hail. However, any instances of large hail should remain sparse enough to preclude watch issuance.",
+      "discussion": "Thunderstorms have re-developed across southeast Texas late this evening, in response to increasing large-scale ascent (and related mid-level cooling) along the leading edge of an impulse transiting east towards the Gulf Coast. While drying aloft will eventually shift the thunderstorm threat eastward into Louisiana, these cells are developing along the leading edge of a plume of steeper lapse rates aloft. With strong southwesterly mid/upper flow positioned over the region, effective shear on the order of 40-45 kts is sufficient for organization of more robust updrafts rooted above the cool/stable surface layer. As such, the strongest cells may be capable of a few large hail reports over the next several hours, before the activity moves east into Tornado Watch 9. Despite this potential, however, increasing MUCIN (with the aforementioned drying aloft) should keep the severe threat localized enough to preclude watch issuance."
+    },
+    {
+      "year": 2017,
+      "number": 83,
+      "issue_utc": "2017-01-21T04:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0083.html",
+      "summary": "Threat for a few tornadoes, damaging wind and large hail will gradually expand east into southeast LA and southern MS through the early morning hours. A tornado watch will be issued by around 05Z.",
+      "discussion": "Late this evening a warm front extends from near the Gulf Coast through southern LA. This boundary will move slowly north through the early morning as the low-level jet strengthens in response to a northeastward-ejecting shortwave trough. Northward advection of richer low-level moisture and eastward expansion of elevated mixed layer plume will destabilize the atmosphere downstream from storms currently developing from southwest through south-central LA. The destabilization process, increasing low-level hodograph size and strong effective bulk shear will promote supercells and bowing segments as storms continue east. Greatest tornado threat may be as storms interact with warm front. Otherwise, large hail and damaging wind will also be likely."
+    },
+    {
+      "year": 2017,
+      "number": 84,
+      "issue_utc": "2017-01-21T07:41Z",
+      "topic": "Tornado Watch 9",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0084.html",
+      "summary": "The greatest threat for additional severe storms across WW 9 is expected across eastern portions of this watch in south-central and east-central Louisiana. The portion of WW 9 in south-central Louisiana may need to be extended temporally beyond the expiration of 08Z as discrete storms continue to develop over that region and also move inland from the Gulf of Mexico. Meanwhile, storms tracking to the east-northeast from southeast Texas into Louisiana should continue to diminish in intensity allowing the rest of WW 9 to expire at 08Z.",
+      "discussion": "Trends in early overnight water-vapor imagery indicated two midlevel shortwave troughs aiding in focused thunderstorm coverage across the northwest Gulf Coast region from southeast TX through LA to southwest MS. The lead impulse and associated thunderstorms from south-central LA to southwest MS are expected to remain the primary severe-weather threat, as this activity advances to the east-northeast into a strongly sheared and moistening environment. Backed (southerly) low-level winds beneath southwesterly midlevel winds will sustain bulk shear for organized storms. LIX holograph also indicated 0-1 km SRH values around 200 m2/s2 favorable for low-level storm rotation and a continued tornado threat for storms across south-central LA. ..Peters.. 01/21/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 85,
+      "issue_utc": "2017-01-21T08:55Z",
+      "topic": "Tornado Watch 10",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0085.html",
+      "summary": "Severe weather including a tornado threat will persist across southeast Louisiana and southern Mississippi during the overnight. The greatest threat for tornadoes in the short term is expected to be from the vicinity of BTR and eastward from Hammond, LA to Hattiesburg, MS with the increase in supercell development.",
+      "discussion": "Recent surface analyses /06-08Z/ indicated a developing mesolow, now located near BTR, with the strongest pressure falls from BTR to MCB, while this region and into southwest and south-central MS also has the coldest cloud tops and greatest lightning coverage/density. The mesolow is expected to track to the east-northeast along a northward-developing warm front through southern MS to central AL (near or just south of a TCL-BHM line) per trends in mesoanalyses and HRRR forecasts. Forcing for ascent associated with a progressive and compact shortwave trough moving into Louisiana at this time will sustain a low-level mass response across and downstream from WW 10. This response is being observed per backed southerly low-level winds with an associated increase in low-level moistening and warm air advection. These factors will further aid in the development of additional thunderstorms east of the main BTR-MCB storm complex into southeast MS and southwest AL through the overnight. Further strengthening of vertically veering wind profiles and increasing deep-layer ascent per an apparent coupled jet structure with the progressive trough suggest supercells should increase in coverage and intensity across WW 10. ..Peters.. 01/21/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 86,
+      "issue_utc": "2017-01-21T09:00Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0086.html",
+      "summary": "The risk for a few tornadoes, damaging winds, and large hail will spread east-northeastward into Alabama and the western Florida Panhandle through sunrise. A tornado watch will likely be needed by 10z.",
+      "discussion": "The ongoing convective cluster and an associated mesolow in southeast LA/southwest MS will continue to develop/move northeastward toward AL, in association with an ejecting midlevel trough (see MCD 0085 for additional information in MS/LA for tornado watch 10). A strengthening southerly low-level jet will likewise develop toward AL and enhance the northward transport of low-level moisture. With at least weak buoyancy rooted at or very near the surface, increasing low-level shear with the approach of the mesolow will support an expansion of the tornado risk from MS into AL through the morning. Thus, a tornado watch will likely be needed by 10z as the initial warm advection storms slowly increase over southwest AL, and the mesolow approaches the MS/AL state line by 12z. ..Thompson.. 01/21/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

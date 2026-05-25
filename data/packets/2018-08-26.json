@@ -1,0 +1,175 @@
+{
+  "convective_day": "2018-08-26",
+  "valid_start": "2018-08-26T12:00Z",
+  "valid_end": "2018-08-27T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 4
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2018-08-26",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-08-26T13:00Z",
+      "valid_end": "2018-08-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180826_1300.html",
+      "summary": "Scattered severe storms are most likely across parts of North Dakota into adjacent portions of northern South Dakota and northwest Minnesota this afternoon into tonight. Very large hail, a few tornadoes, and damaging winds are possible.",
+      "sections": [
+        {
+          "title": "Northern Great Plains and Upper Midwest",
+          "text": "A complex forecast with multiple convective scenarios that may materialize across these regions this afternoon into tonight. Elevated convection ongoing from the ND/SD border area into northwest WI will have a risk for isolated severe hail this morning amid very steep mid-level lapse rates. Otherwise, three mid-level features of interest are the shortwave trough ejecting east from the northern Rockies into the Dakotas by evening, a lead impulse over northwest SD moving towards northern MN, and a sub-tropical impulse over the central Great Plains moving into the Upper MS Valley. For the sub-tropical impulse, diurnal heating downstream of it should aid in surface-based storm development this afternoon along the leading edge of the morning convective debris field. A strengthening LLJ and veer-back-veer wind profiles (especially with northeast extent) should encourage upscale growth into clusters and line segments across parts of southeast MN/northeast IA into WI. Damaging wind and embedded severe hail should be the primary hazards with this activity. Some models suggest storm development may also occur in the wake of this lead activity during the early evening across portions of IA/MN"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2018-08-26",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-08-26T16:30Z",
+      "valid_end": "2018-08-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180826_1630.html",
+      "summary": "Scattered severe storms are most likely across parts of North Dakota into adjacent portions of northern South Dakota and west central through northwest Minnesota this afternoon into tonight. Very large hail, a few tornadoes, and damaging winds are possible.",
+      "sections": [
+        {
+          "title": "North Dakota",
+          "text": "This area remains well north of the stationary/warm front located across SD. However, a warm EML with steep lapse rates has spread east over this region, and some moistening above the stable surface layer will occur within the low-level easterly flow regime supporting 1500-2000 J/kg MUCAPE later today. A cluster of elevated storms is already developing over northeast MT in association with the primary shortwave trough, and storms should intensify later this afternoon as this zone of forcing for ascent overtakes the northwest fringe of the higher theta-e air. Current indications are that most storms will remain at least slightly elevated above the surface layer, but steep lapse rates, moderate instability and strong effective shear will promote organized storms including a few supercells and bowing segments as activity develops eastward from late afternoon into the evening."
+        },
+        {
+          "title": "Northern Iowa, southeast Minnesota and Wisconsin",
+          "text": "Cluster of storms continues advancing through IA in association with a northeast-advancing shortwave trough. This activity will remain embedded within a belt of 35-40 kt deep layer flow but modest 25-35 kt effective bulk shear supportive of mostly multicells and possibly some marginal supercell structures. Some intensification is likely from southeast MN into WI as the boundary layer destabilizes and storms become surface based, posing a risk for mainly isolated damaging wind and hail. ..Dial/Wendt.. 08/26/2018"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2018-08-26",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-08-26T20:00Z",
+      "valid_end": "2018-08-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180826_2000.html",
+      "summary": "Scattered severe storms are expected across parts of North Dakota into adjacent portions of northern South Dakota and west central through northwest Minnesota this afternoon into tonight. Very large hail, a couple of tornadoes, and locally damaging winds are possible.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Aside from minor line adjustments, no major changes to the outlook will be implemented at this time. Confidence has decreased with respect to overall degree/coverage of severe weather risk across the northern Plains within the ENH risk area. Within this area, questions regarding storm coverage exist -- with the uncertainty in part hinted at by the 18z special RAOB from BIS. At this time however, will maintain the ongoing forecast, as potential for at least isolated severe storms -- particularly north of, and over eastern portions of -- the ENH risk area persists. ..Goss.. 08/26/2018 .PREV DISCUSSION... /ISSUED 1130 AM CDT Sun Aug 26 2018/ ...Northeast South Dakota, southeast North Dakota into central Minnesota... A low-amplitude shortwave trough is currently moving through southeast ND into western MN, driving the development of a small cluster of elevated thunderstorms. This activity will continue northeast generally along and north of a quasi-stationary front that extends across northern MN and may pose a modest risk for hail and gusty winds into the early afternoon. The atmosphere should destabilize in wake of the morning storms as the convectively reinforced front begins to lif"
+        },
+        {
+          "title": "North Dakota",
+          "text": "This area remains well north of the stationary/warm front located across SD. However, a warm EML with steep lapse rates has spread east over this region, and some moistening above the stable surface layer will occur within the low-level easterly flow regime supporting 1500-2000 J/kg MUCAPE later today. A cluster of elevated storms is already developing over northeast MT in association with the primary shortwave trough, and storms should intensify later this afternoon as this zone of forcing for ascent overtakes the northwest fringe of the higher theta-e air. Current indications are that most storms will remain at least slightly elevated above the surface layer, but steep lapse rates, moderate instability and strong effective shear will promote organized storms including a few supercells and bowing segments as activity develops eastward from late afternoon into the evening."
+        },
+        {
+          "title": "Northern Iowa, southeast Minnesota and Wisconsin",
+          "text": "Cluster of storms continues advancing through IA in association with a northeast-advancing shortwave trough. This activity will remain embedded within a belt of 35-40 kt deep layer flow but modest 25-35 kt effective bulk shear supportive of mostly multicells and possibly some marginal supercell structures. Some intensification is likely from southeast MN into WI as the boundary layer destabilizes and storms become surface based, posing a risk for mainly isolated damaging wind and hail."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2018-08-27",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-08-27T01:00Z",
+      "valid_end": "2018-08-27T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180827_0100.html",
+      "summary": "Scattered severe storms are expected across the eastern Dakotas into Minnesota tonight. Very large hail, a few tornadoes and locally damaging winds remain possible.",
+      "sections": [
+        {
+          "title": "Northern Plains/Upper MS Valley",
+          "text": "Notable mid-level short-wave trough is ejecting across western ND early this evening. Water vapor imagery suggests large-scale ascent is beginning to spread into the eastern Dakotas, especially north of the warm front and this should encourage elevated convection atop cooler air mass over the next several hours. Of more concern is the potential for isolated supercells along and south of the warm front. 00z soundings from this region continue to exhibit substantial instability and large CAPE values. 00z sounding from ABR supports this with surface-6km shear on the order of 45kt. Convection that is developing across Sully County SD is expected to gradually mature as it encounters increasingly moist/buoyant air mass downstream. Other storms may soon develop along the ND/SD border where low-level shear appears more favorable for possible tornadoes. Very large hail may accompany supercells that develop within this environment this evening. ..Darrow.. 08/27/2018"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2018,
+      "number": 1359,
+      "issue_utc": "2018-08-26T14:53Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1359.html",
+      "summary": "Isolated hail and damaging wind gusts are possible across the region over the next several hours. A watch is not expected in the short-term but trends are monitored.",
+      "discussion": "Thunderstorm coverage across southwest IA and vicinity continues to increase as strong warm-air advection persist into the region, augmented by lift from a low-amplitude shortwave trough moving northeastward into the central Plains. Steep mid-level lapse rates exists downstream across IA (as evidenced by regional 12Z sounding and recent mesoanalysis) and the general expectation is for thunderstorm to continue for at least the next several hours with some increase in coverage possible. Given the relatively warm mid-level temperatures, surface-based storms appear unlikely with updrafts generally expected to remain rooted some where between 850 and 700 mb. Consequently, the primary severe threat is expected to be hail. Even so, high LFCs atop warm mid-level temperatures promote high DCAPE values and the potential for some strong negative buoyancy, resulting in the possibility for damaging wind gusts. A gust of 40 kt was recently measured at SUX. Uncertainty regarding severe storm coverage leads to low watch probability over the next couple of hours but convective trends will be monitored closely."
+    },
+    {
+      "year": 2018,
+      "number": 1360,
+      "issue_utc": "2018-08-26T16:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1360.html",
+      "summary": "Isolated hail and/or damaging wind gusts are possible during the next few hours across southeast SD and west-central/central MN. A relatively greater severe risk is anticipated later this afternoon.",
+      "discussion": "Recent radar imagery has shown a gradual increase in updraft intensity and forward speed of the thunderstorm cluster moving across west-central MN. This is likely due to increased warm-air advection into the region as the mid-level flow continues to strengthen. Some additional support may be a result of increasing theta-e within the upstream parcels. Isolated hail and a few damaging wind gusts are possible within the next hour or two. Vertical shear will remain supportive of thunderstorm organization but the general expectation is for storms to gradually weaken as they progresses into a less favorable thermodynamic environment. Farther west, elevated multi-cellular activity has recently developed across southeast ND. This activity is likely also a result of increased warm-air advection as well as enhanced lift ahead of the approaching shortwave trough. Strong vertical shear (i.e. 0-6 km bulk shear over 50 kt) exists over the area and some updraft organization is possible. Primary severe threat is isolated hail. Marginal thermodynamic environment downstream of these storms will likely limit the overall severe potential for the next few hours."
+    },
+    {
+      "year": 2018,
+      "number": 1361,
+      "issue_utc": "2018-08-26T18:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1361.html",
+      "summary": "Thunderstorms will likely develop across the region within the next hour or two. All severe hazards, including tornadoes, are possible and a Tornado Watch will likely be needed within the next two hours or so.",
+      "discussion": "Recent surface analysis reveals a low near PIR in central SD with a warm front extending northeastward to ABR and then back east-southeastward into southeast MN. Fine line on recent KABR radar imagery appears to delineate this warm front, which is now steadily moving northward. Airmass south of this boundary is very moist with dewpoints currently in the low 70s. Continued diurnal heating of this moist airmass will result in eroding convective inhibition and building instability. Lift provided by the approaching shortwave trough will help erode any remaining convective inhibition, leading to eventual thunderstorm initiation. When this initiation occurs is somewhat uncertain, but the leading edge of the stronger forcing for ascent (demarcated by the increasing vertical development with the cloud band across central SD) continues to progress quickly eastward, suggesting initiation could happen within the next hour or two. Once initiation occurs, the overall environment is supportive of updraft organization and the development of supercells. Steep mid-level lapse rates will support a moderately to strongly unstable airmass with MLCAPE above 2500 J/kg and the resulting potential for large hail. Some very large hail (i.e. greater than 2 inches in diameter) is possible. Low-level flow will also continue to gradually increase, resulting in a corridor of enhanced low-level helicity, particularly near the warm front where surface winds are more southeasterly. As a result, tornadoes are also possible within the strongest and most persistent storms. Strong to severe wind gusts are also possible. Threat for all severe hazards will likely merit the issuance of a Tornado Watch across portions of eastern SD, southeast ND, and far west-central MN within the next two hours or so."
+    },
+    {
+      "year": 2018,
+      "number": 1362,
+      "issue_utc": "2018-08-26T20:51Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1362.html",
+      "summary": "Isolated hail and damaging wind gusts possible this afternoon.",
+      "discussion": "Regional radar imagery has shown episodic updraft strengthening with the elevated line of storms moving northeastward through central WI. Thermodynamic environment downstream of this line has been modifying but current trends suggest this line will soon outrun the more unstable air, particularly on the northern end. Even so, continued warm-air advection will likely allow for storm persistence/redevelopment as they continue eastward. Redevelopment will be favored along the southern flank. Some isolated hail is possible within the strongest storms. Strong thunderstorms have also recently developed farther south across south-central WI. These storms are more firmly rooted within the instability axis, although current storm character suggests they are presently still elevated. Even if these storms do not become surface-based, the low-level moisture is deep enough to support strong instability and the potential for updrafts capable of both isolated severe hail and damaging wind gusts. Relatively weak low-level flow suggests a relatively low tornado threat. Additional development is possible behind these lines, particularly across southern WI. Kinematic environment may be a bit more favorable later this afternoon/evening as low-level flow strengthens."
+    },
+    {
+      "year": 2018,
+      "number": 1363,
+      "issue_utc": "2018-08-26T20:52Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1363.html",
+      "summary": "A few elevated supercells may develop this evening. The primary threat with this activity will be large hail. Uncertainty with regard to overall storm coverage reduces confidence in WW issuance, but one may be needed should convective trends warrant.",
+      "discussion": "While boundary destabilization has been minimal across the discussion area, the approach of mid-level ascent now across southeastern Montana may lead to an uptick in storm coverage/intensity across northwest North Dakota. Latest guidance suggests low-level moistening will continue into early this evening. The 18Z BIS sounding, with the additional low-level moistening, supports elevated convection with MUCAPE of 1000-1500 J/kg possible. KMBX VAD profiles show 60+ kts of 0-6 km shear making supercell storms possible. Large hail will be the primary threat with the strongest, most-organized storms. Storm coverage is the biggest uncertainty. A WW may be needed should trends in coverage/intensity become more clear."
+    },
+    {
+      "year": 2018,
+      "number": 1364,
+      "issue_utc": "2018-08-26T22:14Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1364.html",
+      "summary": "A few severe storms are possible through this evening. The primary threat from these storms will be large hail.",
+      "discussion": "A severe storm dropped golf ball sized hail in McGregor, Minnesota at 2147Z. Recent MRMS MESH suggests this storm may be producing hail in excess of 2 inches now. This storm may persist for a bit longer before outrunning the better elevated instability as it moves northward. Additional storms may form on the southwestern edge of the ongoing convective activity which may pose an additional severe risk. MUCAPE in this area is around 2000 to 3000 J/kg with effective shear around 50 knots per the DLH VWP. A watch is not expected due to the limited coverage of the stronger storms, but a watch could be needed if the coverage of stronger storms is greater than currently anticipated. Given the supercellular nature of the storms and mid-level lapse rates around 7.5 to 8 C/km, large hail is the primary threat. The elevated nature of the storms will limit the threat of damaging winds. ..Bentley.. 08/26/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 1365,
+      "issue_utc": "2018-08-26T23:15Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1365.html",
+      "summary": "Storms coverage will increase through evening, with large hail and damaging wind possible from South Dakota into Minnesota. A tornado cannot be ruled out across northeast South Dakota, southeast north Dakota and west-central Minnesota near the warm front.",
+      "discussion": "A shortwave trough and developing cold front will continue to move eastward across the Dakotas and into northwest MN by late evening. Currently, the cold front is pushing into central SD, with a warm front from the SD/ND border eastward into central MN. South of this front, a moderately unstable air mass exits, which remains capped over most of the area. Recently, storms have begun to develop near the cold front where lift is strongest across central SD. These cluster of storms may continue to grow upscale with a hail and wind threat as it moves east/northeast toward the warm front. Farther north, the air mass north of the warm front is relatively cool and capped, but strengthening warm advection with a 30-40 kt low-level jet as well as lift with the upper trough will result in development from eastern ND into MN this evening. Large hail and damaging winds will be possible, with mixed storm mode. A conditional tornado threat exists for any cellular activity near the warm front."
+    },
+    {
+      "year": 2018,
+      "number": 1366,
+      "issue_utc": "2018-08-27T02:32Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1366.html",
+      "summary": "A marginal severe weather threat remains as storms move east across Michigan. The primary threat will be damaging winds.",
+      "discussion": "A line of storms in west central Michigan has produced measure wind gusts up to 53 mph over the past hour. These marginally severe wind gusts may continue as the storms continue to move east across the state. RAP forecast soundings indicate only weak inhibition ahead of these storms with MLCAPE between 2000 and 3000 J/kg. Surface to 3 km shear around 25 knots per GRR VWP should be sufficient to support at least some upright convection on the leading edge of the cold pool for a few more hours. Slightly backed surface winds have enhanced low level helicity with around 175 m2/s2 of 0-1 km SRH per GRR VWP. However, 0 to 3 km shear is a bit too weak to support more than an isolated threat of QLCS tornadoes. Therefore, expect the primary threat to be gusty winds of 45 to 55 mph continuing for the next few hours."
+    },
+    {
+      "year": 2018,
+      "number": 1367,
+      "issue_utc": "2018-08-27T03:55Z",
+      "topic": "Tornado Watch 351",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1367.html",
+      "summary": "The threat of a few storms persists across WW 351 and 352. The primary threats will continue to be wind and hail.",
+      "discussion": "Storms currently extend from northwest MN across eastern ND, ahead of the primary shortwave trough, and in a zone of low-level warm advection. Other isolated activity also persists across east-central SD where the cold front is moving slower. Storm mode has generally transitioned from cellular to mixed-mode, with more of a linear mode along the main frontal surge from ND into MN. As such, the threat has transitioned to more of a damaging wind threat, along with hail in some of the stronger storm cores. The overall tornado threat appears to be lessening both due to storm mode, and increasing surface-based CIN. That said, the presence of ample low-level shear ahead of the cold front and favorable deep-layer shear may support embedded areas of rotation or a brief/weak tornado in the more unstable areas with dewpoints near 70 F. ..Jewell.. 08/27/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 1368,
+      "issue_utc": "2018-08-27T07:04Z",
+      "topic": "Severe Thunderstorm Watch 352",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1368.html",
+      "summary": "Damaging wind threat spreading across northern Minnesota with potential for WW 352 to be expanded east into part of the Minnesota Arrowhead region.",
+      "discussion": "At 0650Z, mosaic radar imagery showed a line of fast moving (45-50 kt) storms extending from Ontario and across the international border into northern MN (near KINL) and then southwest to southern Beltrami and Hubbard Counties. Although objective analyses had indicated an increase in inhibition during Sunday evening across northern MN, rising surface temperatures and dew points per observations across northeast MN ahead of the line are aiding in late night destabilization, and some steepening of low-level lapse rates. This is being aided further by steep midlevel lapse rates spreading east across this region ahead of a progressive shortwave trough. IR satellite imagery indicated cooling cloud tops with the southern extent of the line, suggesting intensifying storms. Given these factors combined with strong effective bulk shear, the threat for damaging winds persists eastward overnight. ..Peters.. 08/27/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

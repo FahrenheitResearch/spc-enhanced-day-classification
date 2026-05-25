@@ -1,0 +1,116 @@
+{
+  "convective_day": "2017-04-25",
+  "valid_start": "2017-04-25T12:00Z",
+  "valid_end": "2017-04-26T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-04-25",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-04-25T16:30Z",
+      "valid_end": "2017-04-26T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170425_1630.html",
+      "summary": "Thunderstorms capable of large hail, damaging winds, and isolated tornadoes are expected to develop across parts of northeast Oklahoma, southeast Kansas, northwest Arkansas, and western Missouri this evening into overnight hours.",
+      "sections": [
+        {
+          "title": "OK/KS/MO",
+          "text": "The morning surface analysis shows relatively strong southerly low-level winds over east TX/OK, helping to transport 60s dewpoints northward today. While 12Z model solutions are likely too moist, it appears that mid 60s dewpoints will advect/develop into eastern OK, and lower 60s dewpoints into western MO and southeast KS by 00Z. A fast-moving shortwave trough now over eastern NM is expected to begin affecting OK/KS by late this afternoon (21-00Z), resulting in scattered thunderstorm development along a weak surface boundary. Forecast soundings around the time of initial development would support relatively high-based supercells and/or bowing segments capable of large hail and damaging winds. This activity will likely spread east-northeastward into western MO this evening with a continued severe threat. The continued influx of low-level moisture will help to further destabilize parts of eastern OK and southeast KS as storms build slowly southward along the boundary. Most CAM solutions suggest that an increasing capping inversion will limit how far south storms can form. However, the southern-most storm/s will be in an area of large CAPE, strengthening low-level shear profiles, and "
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-04-25",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-04-25T20:00Z",
+      "valid_end": "2017-04-26T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170425_2000.html",
+      "summary": "Thunderstorms capable of large hail, damaging winds, and isolated tornadoes are expected to develop across parts of northeast Oklahoma, southeast Kansas, northwest Arkansas, and western Missouri this evening into overnight hours.",
+      "sections": [
+        {
+          "title": "Central and northeast OK...Southeast KS...Southwest MO",
+          "text": "No changes were made to the previous outlook. Storms are expected to initiate around 23-00Z along the cold front around Ponca City OK and into southeastern KS, on the surface warm nose where CIN will be eroded. Dewpoints continue to slowly rise, partly due to evapotranspiration. Cooling aloft with the shortwave trough will maintain steep lapse rates aloft, favoring vigorous updrafts and hail. Hodographs will continue to lengthen, favoring supercells be evening as the low-level jet backs to more southerly and increases to around 50 kt by 03Z. Hail, wind and a tornado or two will be possible. Additional activity is expected along the front by 03Z extending southwestward into central OK, where large hail and wind are expected, in addition to a brief tornado for any storms that can remain along or south of the front. ..Jewell.. 04/25/2017 .PREV DISCUSSION... /ISSUED 1126 AM CDT Tue Apr 25 2017/"
+        },
+        {
+          "title": "OK/KS/MO",
+          "text": "The morning surface analysis shows relatively strong southerly low-level winds over east TX/OK, helping to transport 60s dewpoints northward today. While 12Z model solutions are likely too moist, it appears that mid 60s dewpoints will advect/develop into eastern OK, and lower 60s dewpoints into western MO and southeast KS by 00Z. A fast-moving shortwave trough now over eastern NM is expected to begin affecting OK/KS by late this afternoon (21-00Z), resulting in scattered thunderstorm development along a weak surface boundary. Forecast soundings around the time of initial development would support relatively high-based supercells and/or bowing segments capable of large hail and damaging winds. This activity will likely spread east-northeastward into western MO this evening with a continued severe threat. The continued influx of low-level moisture will help to further destabilize parts of eastern OK and southeast KS as storms build slowly southward along the boundary. Most CAM solutions suggest that an increasing capping inversion will limit how far south storms can form. However, the southern-most storm/s will be in an area of large CAPE, strengthening low-level shear profiles, and "
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-04-26",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-04-26T01:00Z",
+      "valid_end": "2017-04-26T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170426_0100.html",
+      "summary": "Thunderstorms capable of large hail and damaging winds will increase in areal coverage from parts of northeast Oklahoma, southeast Kansas, northwest Arkansas, and western Missouri this evening into the overnight hours.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Large-scale forcing for ascent appears to be approaching the I-35 corridor this evening, per satellite imagery. Thunderstorms are beginning to increase along the cold front from southeast KS to near OKC and this trend is expected to continue as influence of upper trough interacts with gradually moistening warm sector. However, 00z soundings from OKC and FWD exhibit substantial mid-level drying with PW values less than one inch. Initial convection appears to be entraining a bit of dry air and more significant upward growth may be delayed until stronger ascent/mid-level moistening spreads east. Given the steep lapse rates observed, large hail and damaging winds are expected to be the primary threats as this frontal-induced squall line matures over the next few hours. ..Darrow.. 04/26/2017"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 553,
+      "issue_utc": "2017-04-25T21:57Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0553.html",
+      "summary": "Thunderstorm coverage will increase along the front over the next hour or two with some severe storms likely. Primary severe threats are very large hail and damaging wind gusts. A tornado or two is also possible, particularly with any storms near the southern end of the line around 00Z to 03Z.",
+      "discussion": "Latest surface analysis placed a low over south-central IA with a cold front extending southwestward from the low across eastern KS and north-central OK to another low south of JWG. The cold front then continues westward from this second low into the TX panhandle. A dryline also extends from the second low southward/southwestward into western north Texas. Moisture continues to advect northward ahead of these boundaries with low 60 dewpoints now into central OK with mid 50s extending into southeast KS/far western MO. As the cold front continues southeastward and the subtle lead shortwave trough progresses into the region (evidenced by elevated echos/virga currently moving through western OK), forcing for ascent, both on the meso-alpha and meso-beta scales, will gradually increase with eventual convective initiation anticipated. This convective initiation appears most likely along the cold front from near Logan, Payne, and Noble counties in north-central OK northeastward to around Elk and Wilson counties in southeast KS. Once more persistent updrafts are established, the strongly sheared airmass (0-6 km bulk shear in excess of 50 kt) will favor rotating storms capable of large hail, some potentially greater than 2 inches in diameter, damaging wind gusts, and potentially a tornado or two. The relatively higher tornado threat is most likely towards the southwestern end of any line of convection that develops where the better moisture and instability exist. Additionally, the most likely time frame for any tornadoes would be around 00Z to 03Z as the low-level jet increases and the boundary layer is not overly hostile to surface-based convection. A watch will likely be needed in the next hour to cover this anticipated severe threat."
+    },
+    {
+      "year": 2017,
+      "number": 554,
+      "issue_utc": "2017-04-26T00:14Z",
+      "topic": "Severe Thunderstorm Watch 159",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0554.html",
+      "summary": "Severe thunderstorms will continue to develop across western portions of Watch 159 this evening, with activity gradually spreading east. Large hail and damaging winds will be the primary threats, but a tornado or two will also be possible across primarily southeastern portions of the watch.",
+      "discussion": "More vigorous convection has developed this evening from Chautauqua Co, KS south/southwestward to northern portions of the OKC Metro, in response to low-level convergence along a cold front. Despite considerable residual dry air near the LFC (noted in the 00Z OUN sounding), low-level ascent has been strong enough to sustain a few strong/severe thunderstorms. In conjunction with MLCAPE values around 1500-2500 J/kg, ample effective shear (noted in KTLX VWP data) will continue to support mid-level updraft rotation, enhancing hail growth as these cells spread northeast. In addition to these storms, cells are expected to develop farther south along/west of the boundary. Visible satellite and radar data depict mid-level precipitation to the west/southwest of OKC, suggesting improved large-scale ascent associated with an approaching impulse. This ascent will further reduce convective inhibition across southern portions of the watch this evening. In turn, sustained surface-based updrafts are expected to develop over the next hour or so. As these cells encounter richer moisture to the east (e.g., surface dew points in the mid 60s), they will likely intensify, with an attendant threat for large hail and damaging winds. The damaging wind threat may be bolstered if cells congeal into small bowing segments that propagate into the instability axis over eastern Oklahoma. Additionally, as low-level moisture continues to stream north, a strengthening low-level jet (and resultant uptick in low-level shear) may support a tornado or two across southern/southeastern portions of the watch over the next several hours. ..Picca.. 04/26/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 555,
+      "issue_utc": "2017-04-26T03:30Z",
+      "topic": "Severe Thunderstorm Watch 159",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0555.html",
+      "summary": "Primary severe threat has likely transitioned to occasional instances of large hail, with the greatest threat focused over southern/eastern portions of Watch 159.",
+      "discussion": "Convection has blossomed across much of central Oklahoma this evening, probably in response to a strengthening south/southwesterly low-level jet. While these storms are likely rooted above the surface, residual steep mid-level lapse rates and strong deep-layer shear will support a continued threat for large hail over the next few hours. Additionally, a few cells may merge into small bowing segments, with perhaps enough downward momentum to penetrate a weakly stable surface layer, potentially resulting in isolated instances of strong/damaging winds. Farther southeast, somewhat more discrete convection has evolved, with a supercell over southern Seminole Co, OK as of 0320 UTC. Despite surface dew points in the mid 60s, mean mixing ratios of only 10-12 g/kg and dry mid-levels are likely precluding a greater tornado threat. Indeed, the radar evolution of these cells has been relatively consistent with a dry environment (e.g., higher ZDR in the hook suggesting a lack of smaller drops due to considerable evaporation in the RFD). Nonetheless, a threat for a brief/weak tornado may persist, and Watch 159 may be expanded eastward across parts of the Tulsa CWA. ..Picca.. 04/26/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 556,
+      "issue_utc": "2017-04-26T03:51Z",
+      "topic": "Severe Thunderstorm Watch 159",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0556.html",
+      "summary": "Strong to occasionally severe storms may persist eastward beyond Watch 159. Areal expansion or new watch issuance may be needed.",
+      "discussion": "A pair of small linear segments has evolved from eastern Kansas into far western Missouri this evening, aided by broad large-scale ascent on the eastern fringe of a mid-level trough. While diurnal cooling has reduced surface-based buoyancy some, surface temperatures in the upper 60s/lower 70s and modest low-level moisture are maintaining MLCAPE values around 500-1000 J/kg. Combined with ample south/southwesterly mid-level flow of 50-60 kt, this thermodynamic environment may support a continued damaging wind threat beyond the eastern edge of the ongoing watch. As such, areal expansion or new watch issuance could be needed within the next 30 minutes or so. ..Picca.. 04/26/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 557,
+      "issue_utc": "2017-04-26T06:42Z",
+      "topic": "Severe Thunderstorm Watch 160",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0557.html",
+      "summary": "A severe threat is expected to continue for several more hour across southwest Missouri, northwest Arkansas and eastern Oklahoma. Wind damage and isolated large hail will be the primary threats. Severe storms may eventually affect areas just to the east of WW 160 but any severe threat should be too isolated for additional WW issuance. Local extension may be needed across parts of southern Missouri.",
+      "discussion": "The latest radar analysis shows a nearly continuous line of strong to severe storms extending from southwest of Springfield, Missouri southwestward into southeastern Oklahoma. The RAP is analyzing moderate instability ahead of the line with MLCAPE estimated from 1000 to 2000 J/kg. This combined with lift associated with a 40 to 55 kt low-level jet will help to maintain the line of storms for several more hours. In addition, forecast soundings early this morning across northwest Arkansas have moderate deep-layer shear profiles which will continue to be favorable for wind damage associated with bowing segments within the line itself. Isolated large hail will also be possible with rotating cells. The line of storms will continue to move eastward into south-central Missouri and across northwest Arkansas where a capping inversion atop a stable boundary layer. This should eventually help to weaken the line resulting in a more isolated severe threat."
+    },
+    {
+      "year": 2017,
+      "number": 558,
+      "issue_utc": "2017-04-26T10:37Z",
+      "topic": "Severe Thunderstorm Watch 160",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0558.html",
+      "summary": "The severe threat is expected to continue across parts of eastern Oklahoma and northwestern Arkansas this morning. Severe storms may also develop across parts of northeast Texas. WW issuance will likely be needed across parts of this region over the next hour.",
+      "discussion": "The latest radar analysis shows a developing line of storms extending from far northwest Arkansas southwestward to near the Red River in southern Oklahoma. This line of storms is being supported by forcing along a cold front and lift associated with the western edge of belt of strong low-level flow. Ahead of the line of storms, moisture advection and surface heating this morning will maintain moderate instability across much of the Arklatex. This combined with large-scale ascent associated with an upper-level trough moving into the southern Plains will help the line to gradually become more organized. Regional WSR-88D VWPs show 0-6 km shear in the 60 to 75 kt range with substantial directional shear in the lowest 2 km AGL. This combined with strong forcing should support squall-line development over the next few hours. Rotating cells associated with isolated large hail will be possible within the stronger portions of the line. Wind damage will also be possible with bowing segments that develop along the leading edge of the line."
+    }
+  ]
+}

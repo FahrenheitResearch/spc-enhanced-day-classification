@@ -1,0 +1,127 @@
+{
+  "convective_day": "2018-10-10",
+  "valid_start": "2018-10-10T12:00Z",
+  "valid_end": "2018-10-11T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2018-10-10",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-10-10T16:30Z",
+      "valid_end": "2018-10-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20181010_1630.html",
+      "summary": "Tornadoes are possible today across the Florida Panhandle and Georgia, and into parts of South Carolina by tonight. Locally damaging thunderstorm wind gusts will also be possible across the Midwest through early evening.",
+      "sections": [
+        {
+          "title": "FL/GA/SC",
+          "text": "Tornado probabilities have been increased across the region, largely owing to the strength of major Hurricane Michael and its peripheral wind field. Likely to make landfall across the FL Panhandle early this afternoon, reference the National Hurricane Center for the latest track/intensity details regarding Michael. As Michael continues generally north-northeastward today, an increasingly strong low/mid-tropospheric wind field will spread from the FL Panhandle/northern FL into much of southern/central/eastern GA this afternoon, and into SC by evening. This scenario will support supercells capable of tornadoes in the presence of a moist environment and extreme low-level shear/SRH. While climatological factors would typically suggest a reduced tornado threat tonight, factors such as the strength of the wind field (albeit with a weakening trend) and the proximity of a persistent moist influx off the Atlantic imply that a nocturnal tornado potential will likely exist/linger across parts of SC through early Thursday."
+        },
+        {
+          "title": "Great Lakes and Ohio Valley",
+          "text": "An increasingly negative-tilt shortwave trough will continue northeastward over the Upper Midwest with strengthening deep-layer southwesterly winds overspreading the region. It still appears that overall destabilization this afternoon will be muted by persistent cloud cover in advance of an eastward-moving cold front. While some increase in thunderstorm/updraft intensity can be expected this afternoon as the boundary layer diurnally heats/mixes, and a few fast-moving bowing segments will be possible, the overall severe risk should remain modest. ..Guyer/Squitieri.. 10/10/2018"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2018-10-10",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-10-10T20:00Z",
+      "valid_end": "2018-10-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20181010_2000.html",
+      "summary": "Tornadoes are possible today across the Florida Panhandle, Georgia into parts of South Carolina. Locally damaging thunderstorm wind gusts will also be possible from the Ohio Valley into the Great Lakes through early evening.",
+      "sections": [
+        {
+          "title": "DISCUSSION",
+          "text": "A couple of changes have been made to the outlook for this issuance. The first change is to remove the enhanced risk from parts of the Florida Coast near Apalachicola. Hurricane Michael is moving inland and the tornado threat will decrease from south to north along this part of the coast this afternoon. The second change to the outlook is to trim the marginal risk and thunder line eastward across central Illinois where instability is weak and thunderstorm coverage should remain very isolated. ..Broyles.. 10/10/2018 .PREV DISCUSSION... /ISSUED 1127 AM CDT Wed Oct 10 2018/"
+        },
+        {
+          "title": "FL/GA/SC",
+          "text": "Tornado probabilities have been increased across the region, largely owing to the strength of major Hurricane Michael and its peripheral wind field. Likely to make landfall across the FL Panhandle early this afternoon, reference the National Hurricane Center for the latest track/intensity details regarding Michael. As Michael continues generally north-northeastward today, an increasingly strong low/mid-tropospheric wind field will spread from the FL Panhandle/northern FL into much of southern/central/eastern GA this afternoon, and into SC by evening. This scenario will support supercells capable of tornadoes in the presence of a moist environment and extreme low-level shear/SRH. While climatological factors would typically suggest a reduced tornado threat tonight, factors such as the strength of the wind field (albeit with a weakening trend) and the proximity of a persistent moist influx off the Atlantic imply that a nocturnal tornado potential will likely exist/linger across parts of SC through early Thursday."
+        },
+        {
+          "title": "Great Lakes and Ohio Valley",
+          "text": "An increasingly negative-tilt shortwave trough will continue northeastward over the Upper Midwest with strengthening deep-layer southwesterly winds overspreading the region. It still appears that overall destabilization this afternoon will be muted by persistent cloud cover in advance of an eastward-moving cold front. While some increase in thunderstorm/updraft intensity can be expected this afternoon as the boundary layer diurnally heats/mixes, and a few fast-moving bowing segments will be possible, the overall severe risk should remain modest."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2018,
+      "number": 1557,
+      "issue_utc": "2018-10-10T12:06Z",
+      "topic": "Tornado Watch 406",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1557.html",
+      "summary": "The supercell tornado risk is likely beginning to move onshore and will likely focus near the Apalachee Bay coastal areas during the 8-10am EDT period.",
+      "discussion": "Radar imagery from KTLH shows a cluster of quasi-discrete supercells over Apalachee Bay moving northwest towards the Wakulla County coast. It is here that the supercell tornado risk appears focused during the next few hours as this convection moves ashore. Inputting the supercell motion (150 degrees at 40 kt) yields 240 m2/s2 0-1 km SRH per KTLH VAD data. Low-level shear will likely increase further and become more favorable for low-level mesocyclones and an EF0-EF2 tornado risk this morning with the persistent/more intense mesocyclones. ..Smith.. 10/10/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 1558,
+      "issue_utc": "2018-10-10T16:04Z",
+      "topic": "Tornado Watch 406",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1558.html",
+      "summary": "Tornado risk will continue to increase within the rain bands spreading inland through the afternoon from the central Florida Panhandle to northwest Florida and southwest Georgia, as Hurricane Michael approaches the Florida Panhandle.",
+      "discussion": "At 1520Z, Hurricane Michael was centered approximately 50 SSW of KPFN, with mosaic radar imagery showing three to four rain bands extending as far east as the northwest FL coast and inland across the FL portions of WW 406, and recently into southwest GA. Current track of Michael is to the north-northeast per latest NHC guidance. Trends in low-level SRH per objective analyses indicated more than sufficient values for embedded storm rotation within the rain bands, with SRH expected to increase inland across north FL and southern GA this afternoon, as Michael moves inland. Strong low-level shear located in closer proximity to the center of Michael to near approximately the longitude of KAAF with effective SRH of 500-800 m2/s2 will support a tornado threat. Although rotational couplets through the late morning had been relatively weak and transient across the offshore gulf waters, south of TLH, recent radar trends suggest a little stronger couplets may be trying to develop near and south of Taylor County. Meanwhile, effective SRH of 200-300 m2/s2 across the far northeast Gulf into northwest FL combined with greater instability will also favor low-level storm rotation, as have been observed with the rain band located 25-40 miles west of the northwest FL coast. ..Peters.. 10/10/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 1559,
+      "issue_utc": "2018-10-10T17:29Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1559.html",
+      "summary": "A tornado watch will be issued by mid afternoon across portions of central and southeast Georgia, and perhaps including parts of north Florida and southern South Carolina. A tornado threat will spread to the northeast as Hurricane Michael tracks toward southwest Georgia by early evening, after making landfall early this afternoon.",
+      "discussion": "Trends in mosaic radar imagery suggest a new outer rain band may be developing across southeast into south-central GA (from approximately 25 WSW KSSI to 25 WSW KMCN). The combination of high-moisture-content air (surface dew points in the middle 70s) and surface heating, given the presence of filtered sunshine through high thin cirrus on the northeast periphery of Michael, is resulting in moderate instability. Meanwhile, trends in low-level shear per VAD profile at Valdosta, GA adjusted for storm motions of embedded cells in the rain bands indicated steady strengthening, with 0-1 km SRH approaching 300 m2/s2 and 0-1 km shear around 40 kt. This strengthening trend is expected to persist through the afternoon and evening and expand northward and east some across central and eastern GA into adjacent southern SC, and perhaps north FL, as Michael tracks toward southwest GA. This high low-level shear environment favors an increasing tornado threat and the need for a tornado watch to the north and northeast of WW 406."
+    },
+    {
+      "year": 2018,
+      "number": 1560,
+      "issue_utc": "2018-10-10T20:32Z",
+      "topic": "Tornado Watch 406",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1560.html",
+      "summary": "The tornado threat will continue into this evening to the east of the track of Hurricane Michael, with the greatest short-term threat expected from southeast into central Georgia.",
+      "discussion": "The eye of Hurricane Michael has progressed into the northern FL Panhandle as of 2030Z. A substantial rain shield to the northeast of the center has limited the potential for destabilization across southwest GA, but stronger heating/destabilization (where temperatures have warmed into the 80s F) has allowed for the development of several small rotating cells from the northern FL peninsula into southeast/central GA. The greatest tornado threat for the next few hours will remain from southeast into central GA, as cells continue to develop within the axis of stronger instability and then rotate northwestward into a region of rapidly increasing low-level shear/helicity (0-1 km SRH in excess of 300 m2/s2). Tornado Watch 406 is scheduled to expire at 21Z, and threat should continue shifting away from the remaining portion of this watch into recently issued Tornado Watch 407, but some local extension of WW 406 may be required across the northern Gulf Coast of Florida if any cells redevelop across this area in the short term. ..Dean.. 10/10/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 1561,
+      "issue_utc": "2018-10-10T20:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1561.html",
+      "summary": "Brief tornado may occur with any of the stronger storms. Isolated nature of the threat precludes a WW issuance at this time.",
+      "discussion": "The possibility of a brief tornado may occur within two meso-beta scale regimes across the discussion area. In the first regime, a northwest to southeast oriented band of convection, currently over the NC/SC border, has been sustained for the last few hours along a confluence zone. Here, a modest east-southeasterly oriented 850 mb wind maximum (approaching 30 knots) has supported convection with both a very moist airmass, while contributing to a modest low-level shear profile, with between 100-150 m2/s2 0-1km and 0-3km SRH noted by RAX VWP. With 1000+ J/kg MLCAPE present across the area, it is possible that a few storms may acquire brief, transient rotation. Farther southwest across central South Carolina, low-level shear is poorer, with most recent CAE VWP data suggesting 0-1km and 0-3km SRH well under 100 m2/s2. Still, the airmass across the area is well heated and very moist, with over 1500 J/kg MLCAPE noted. Specfically, both RAP PFC guidance and Mesoanalysis suggest 0-3km MLCAPE values have reached or exceeded 150-200 J/kg within the last few hours. While low-level flow is comparatively weaker, the higher low-level MLCAPE values suggest enhanced tilting/stretching potential of any streamwise or vertically oriented low-level vorticity associated with any cell that can mature and maintain longevity. While the overall tornado threat may increase later this evening, the shorter term risk is expected to be low, given the lack of coinciding favorable buoyancy/kinematic fields and organized storms across the area. As such, a tornado watch issuance is unlikely in the near term."
+    },
+    {
+      "year": 2018,
+      "number": 1562,
+      "issue_utc": "2018-10-11T01:08Z",
+      "topic": "Tornado Watch 407",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1562.html",
+      "summary": "Threat for isolated tornadoes will persist this evening, primarily over parts of southern through central Georgia with a more limited threat in north Florida. Overall threat has decreased compared to earlier today. The threat farther north into SC is not expected to become sufficient for another watch until possibly later tonight.",
+      "discussion": "As of mid evening the center of Michael was located over southwest GA and is forecast by the National Hurricane center to continue a northeast movement tonight, reaching western SC by early Thursday morning. Convection within Michael's outer bands has decreased significantly this evening, likely due in part to loss of daytime heating, with the more active bands within 150 miles east and northeast of the center. Given the size of the 0-1 km hodographs along with mid 70s F dewpoints from south central through east central GA, the threat for isolated tornadoes will persist in this corridor this evening despite the limited buoyancy. While the threat for a tornado or two also persists farther south across north FL, overall threat should gradually decrease with time from the south as Michael continues northward, resulting in a gradual veering and weakening of low-level winds over northern FL. Farther north into SC, low-level shear and size of 0-1 km hodographs have been increasing with time, but the more robust convection is not expected to begin affecting this region until later tonight. ..Dial.. 10/11/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 1563,
+      "issue_utc": "2018-10-11T03:08Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1563.html",
+      "summary": "Given recent convective trends and the approach of Michael, a new tornado watch will likely be needed across much of South Carolina into extreme southern North Carolina that will extend through the overnight.",
+      "discussion": "The center of Michael currently approaching south central GA is forecast by the National Hurricane center to continue northeast tonight. Recent trends have been for convection within the outer bands to increase from the Gulf Stream northwest into southeast SC with some updraft rotation observed within discrete elements. Low-level hodographs will continue to increase in size, and the threat for isolated tornadoes will expand northeast through the overnight."
+    },
+    {
+      "year": 2018,
+      "number": 1564,
+      "issue_utc": "2018-10-11T08:34Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1564.html",
+      "summary": "The possibility for weak/transient supercell structures remains across central SC in association with outer convective bands of tropical cyclone Michael. There is uncertainty whether an additional tornado watch is needed to the northeast of tornado watch 408.",
+      "discussion": "Radar imagery as of 0830z shows a supercell over central SC with other transient structures over eastern SC. The airmass over the Carolina Piedmont is only marginally unstable/supportive for the potential for updrafts to acquire intermittent rotation. Farther east over the coastal plain, upper 70s dewpoints are contributing to greater buoyancy (1200 J/kg MLCAPE) per the 06z CHS raob. A low but persistent threat will likely continue for a few supercell structures and an attendant conditional risk for a weak tornado through the overnight and into the early morning hours. Aside from the narrow spatiotemporal windows of opportunity for short-lived supercells developing and acquiring low-level rotation, weak shear zones along convective banded structures will very likely not yield a tornado risk."
+    }
+  ]
+}

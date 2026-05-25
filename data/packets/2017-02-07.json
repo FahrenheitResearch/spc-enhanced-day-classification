@@ -1,0 +1,159 @@
+{
+  "convective_day": "2017-02-07",
+  "valid_start": "2017-02-07T12:00Z",
+  "valid_end": "2017-02-08T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-02-07",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-02-07T13:00Z",
+      "valid_end": "2017-02-08T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170207_1300.html",
+      "summary": "Severe thunderstorms are expected today especially across the lower Mississippi Valley and central Gulf Coast states, but some strong to severe thunderstorms may occur as far north as the Tennessee Valley and Ohio Valley.",
+      "sections": [
+        {
+          "title": "Portions of LA/MS/AL to FL Panhandle",
+          "text": "A southern-stream shortwave trough (and related mid/high-level speed max) will continue to amplify and spread generally east-southeastward today toward the central Gulf Coast States. Strengthening low/mid-level southwesterly winds will support the continued northeastward transport of low/middle 60s F surface dewpoints across additional portions of MS/AL. Showers/thunderstorms are already increasing within the modestly moist early-day warm sector across southern/eastern LA into MS. Many of these storms should become increasingly surface based into late morning/early afternoon as additional moistening and destabilization occurs. 12Z observed soundings from Shreveport (SHV) and Lake Charles (LCH) sample severe-favorable thermodynamic profiles with very steep mid-level lapse near or excess of 8.0 C/km, aside from 35-45 kt of effective shear. Steadily increasing deep-tropospheric winds and lengthening hodographs, in conjunction with cool mid-level temperatures (roughly -14C to -17C at 500 mb) and steepening lapse rates, appears likely to support supercells capable of large hail, along with some tornado/damaging wind risk, especially from mid/late morning into the afternoon. Storms may m"
+        },
+        {
+          "title": "Tennessee Valley/Ohio Valley/Midwest",
+          "text": "Ahead of a cold front, moist advection will continue to occur in concert with 50+ knot low-level southwesterly winds. Mostly linear bands of strong to locally severe convection are ongoing early this morning from east-central AR into western TN. These storms should develop eastward across additional portions of TN and northern portions of MS/AL. While these storms are likely to develop east of the primary moist/instability axis, a modestly increasing potential for damaging winds, some hail and brief tornado risk can be expected during the day eastward into at least middle TN and northern portions of MS/AL. Farther north into the Ohio Valley and Midwest, current thinking is that extensive ongoing precipitation south of the Ohio River and related cloud cover will tend to hinder appreciable destabilization. While weak buoyancy/strong vertical shear could support some stronger/potentially severe low-topped storms, the overall severe risk should remain limited. ..Guyer.. 02/07/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-02-07",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-02-07T16:30Z",
+      "valid_end": "2017-02-08T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170207_1630.html",
+      "summary": "Severe thunderstorms are expected today especially across the lower Mississippi Valley and central Gulf Coast states, with isolated strong to severe thunderstorms possible as far north as the Tennessee Valley and Ohio Valley.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "The primary surface cyclone will develop east-northeastward from northern IL to southern Quebec by Wednesday morning along a sharp baroclinic zone. A trailing cold front will move slowly southeastward across the central Plains and middle MS Valley, while a remnant lee trough eventually stalls across AR and east TX. Aloft, the shortwave trough of greatest influence will be a southern stream wave now progressing eastward from east TX toward the lower MS Valley."
+        },
+        {
+          "title": "Lower MS Valley to northeast Gulf coast through this evening",
+          "text": "The belt of ascent preceding the east TX midlevel trough is now overspreading LA/MS, where widespread convection is ongoing. The strongest storms will remain along the southern flank of the ongoing clusters from southeast LA into southern MS, while surface heating and moistening farther north toward TN will be inhibited by clouds/rain. Destabilization may keep pace with the LA/MS storms as they spread into southwest AL today, which will maintain the primary severe weather risk through about mid afternoon. Large hail/damaging winds and a couple of tornadoes will be possible given sufficient low-level and deep-layer shear for supercells, along the east fringe of the lapse rate plume with 8 C/km midlevel lapse rates above at least mid 60s boundary layer dewpoints. Storms could persist as a cluster or two into this evening while spreading eastward into the FL Panhandle area, where a few damaging gusts will be possible before storms weaken tonight across north FL. Farther west, the midlevel trough is expected to move east of the instability corridor by mid-late afternoon. This will leave an environment that will be conditionally favorable for supercells from eastern AR southward across "
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 145,
+      "issue_utc": "2017-02-07T13:28Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0145.html",
+      "summary": "Storms may persist today into Tennessee into southern Kentucky, with a possible damaging wind and marginal hail threat redeveloping.",
+      "discussion": "A line of storms currently extends from northeast AR into western TN, with only a marginally wind and hail threat currently. Soundings from around the region show strong mean wind speeds but only weak instability ahead of these storms. During the day, instability will gradually develop eastward across the OH and TN valleys, which may support rejuvenated storms with mainly a wind threat."
+    },
+    {
+      "year": 2017,
+      "number": 146,
+      "issue_utc": "2017-02-07T16:18Z",
+      "topic": "Tornado Watch 26",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0146.html",
+      "summary": "Threat for a few tornadoes, large hail and damaging wind will continue from southeast Louisiana through southern Mississippi into early to middle afternoon.",
+      "discussion": "Late this morning numerous storms are developing from southeast LA through southern MS within a corridor of ascent associated with a secondary branch of the low-level jet and its attendant vorticity maximum moving into western LA. Storms are forming along eastern periphery of an axis of moderate instability that extends from eastern TX through LA into AR. While low-level winds are veered to south southwesterly, 0-1 km storm relative helicity is sufficient for a few low-level mesocyclones and tornadoes, especially in vicinity of a poorly defined coastal warm front across southern LA. Otherwise strong 40-50 kt effective bulk shear will continue to promote supercell structures and some bowing segments with large hail and damaging wind. Primary severe threat is expected to transpire from late morning through the early afternoon across WW 26. However, with time tendency will be for the deeper forcing for ascent to move east of the instability axis. While some upstream development will be possible later this afternoon, subsidence and ewd expansion of eml suggest the environment will become increasingly hostile to more than isolated thunderstorm development within the corridor of greater instability. Some destabilization may occur downstream across the central gulf cost area this afternoon where a severe threat may evolve. ..Dial.. 02/07/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 147,
+      "issue_utc": "2017-02-07T17:20Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0147.html",
+      "summary": "Threat for severe storms including a couple of tornadoes, damaging wind and hail is expected to increase over the central Gulf Coast region into the afternoon.",
+      "discussion": "Broken band of storms continues from central and southwest AL into southern LA. Activity is developing along warm conveyor belt in association with forcing for ascent attending a progressive shortwave trough. A poorly defined warm front was located along the gulf coast area, and this boundary may move further inland as a secondary branch of the southwesterly low-level jet shifts east through the central Gulf Coast region today. Primary limiting factor in this region is marginal instability, and diabatic warming of the boundary layer remains limited by widespread multi-layer clouds. However, theta-e advection accompanying the low-level jet will contribute to at least modest destabilization which (in conjunction with sufficient (40-45 KT) effective bulk shear) suggests storms may eventually begin to organize with both supercells and bowing segments possible. While low-level hodographs are not particularly large, 0-1 km storm relative helicity will be sufficient for a few low-level mesocyclones and a couple of tornadoes. Otherwise, damaging wind and some hail may also occur with the stronger storms."
+    },
+    {
+      "year": 2017,
+      "number": 148,
+      "issue_utc": "2017-02-07T18:22Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0148.html",
+      "summary": "Threat for large hail might evolve over northern Mississippi later today. Given the conditional nature of the threat, any WW issuance later this afternoon will depend on convective trends.",
+      "discussion": "Storms currently developing over northern MS are moving atop a stable boundary layer within a marginal thermodynamic environment and should pose minimal severe risk. In wake of widespread morning clouds and convection, the boundary layer will destabilize over northern Mississippi which (in conjunction with cold air aloft accompanying a thermal trough north of a progressive upper jet axis) will result in 1000-1500 J/kg MLCAPE this afternoon. However, the primary corridor of forcing for ascent will begin to shift east of the more unstable portion of warm sector. Subsidence and warming aloft in wake of the shortwave trough suggests additional thunderstorm development could become problematic. Nevertheless, at least isolated storms may redevelop by mid afternoon in pre-frontal warm sector as the boundary layer destabilizes. While vertical shear will decrease with time, the thermodynamic environment will support a risk for large hail, conditional upon thunderstorm initiation."
+    },
+    {
+      "year": 2017,
+      "number": 149,
+      "issue_utc": "2017-02-07T18:56Z",
+      "topic": "Tornado Watch 26",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0149.html",
+      "summary": "Tornado watch 26 is scheduled to expire at 20Z. However, storms will probably not have cleared the southeast portion of the WW by that time. A local 2 hour extension in time may be necessary for that portion of the WW to cover remaining threat.",
+      "discussion": "Several discrete supercells persist over southeast LA into the MS bootheel and are moving east at around 30 kt. While the atmosphere upstream remains quite unstable, winds are veering and subsidence drying aloft in wake of shortwave trough will likely limit additional development west of ongoing storms. This suggests the primary tornado threat should remain confined to a small area across southeast LA into southeast MS next few hours before storms move into WW 27. Farther north across south central to central MS where the boundary layer is less unstable, primary threat appears to be damaging wind and large hail, but a tornado or two cannot be ruled out. ..Dial.. 02/07/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 150,
+      "issue_utc": "2017-02-07T20:44Z",
+      "topic": "Tornado Watch 27",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0150.html",
+      "summary": "Threat for damaging wind and a couple of tornadoes persists in the southeast half of WW 27. Trends are being monitored for another WW that would include the central and eastern FL panhandle into southwest GA.",
+      "discussion": "As of mid afternoon a cluster of storms persists from southern AL into the western FL panhandle. Activity is moving east at around 30 kt. A few semi-organized structures including bowing segments and embedded meso-vortices continue to be observed. A wswly low-level jet is moving east through the central and northeast Gulf Coast region in association with a mid-level jet attending a progressive shortwave trough. Thus the vertical shear will remain supportive of organized storms. Some destabilization has also occurred downstream from the line into the central FL panhandle where diabatic warming of the boundary layer and modest theta-e advection have contributed to 1000 J/kg MLCAPE. This environment may support an organized severe threat as storms continue east, but given the transition to a dominant linear mode, damaging wind should be the primary threat. However a couple of tornadoes with embedded supercells or meso-vortices remains possible."
+    },
+    {
+      "year": 2017,
+      "number": 151,
+      "issue_utc": "2017-02-07T22:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0151.html",
+      "summary": "Convection spreading across portions of GA into the early evening hours could produce locally damaging wind gusts. Watch issuance is not anticipated.",
+      "discussion": "Loosely organized clusters of convection will continue spreading east-northeastward across portions of GA during the next few hours. While convective inflow should remain marginally unstable, with ample cloud coverage stunting surface heating and dewpoints only holding in the middle 50s, buoyancy/vertical shear will be sufficient for a risk for locally intense convection to continue spreading downstream. This activity would be enhanced by local storm-scale circulations/MCVs noted in recent radar data. With around 35 kt of flow in the 1-2-km above-ground layer per JGX VAD wind profile, convective momentum transport could support locally damaging wind gusts -- aided by sub-cloud evaporative cooling/downdraft enhancements in the only modestly moist environment. Weak instability, and veered flow ahead of the convection, will limit the overall severe risk."
+    },
+    {
+      "year": 2017,
+      "number": 153,
+      "issue_utc": "2017-02-07T22:57Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0153.html",
+      "summary": "Convection spreading across portions of the lower OH Valley region and vicinity into the early evening hours could become locally severe. However, the conditional nature of the severe risk, and limited temporal window for such risk, along with the anticipated limited coverage of the risk, should preclude Watch issuance.",
+      "discussion": "Convection developing along a wind-shift boundary extending from west-central IN to far southern IL is producing lightning north of the Paducah area. Recent visible satellite imagery indicates shallow convective turrets evolving farther north along this boundary in south-central IN. This activity lies along a segment of the boundary that is intercepting a weakly destabilized boundary-layer owing to antecedent insolation. There is some potential for convection to continue to locally intensify prior to nocturnal cooling and stabilization, while spreading eastward/east-southeastward. Given the presence of around 150-250 m2/s2 of effective SRH and adequate deep shear, the risk for a tornado or damaging wind gust cannot be entirely ruled out. However, veered pre-frontal flow resulting in weak frontal convergence (especially with southward extent) coupled with convectively recycled air constituting inflow within the warm sector, should tend to temper the severe risk and minimize convective coverage."
+    },
+    {
+      "year": 2017,
+      "number": 154,
+      "issue_utc": "2017-02-07T23:24Z",
+      "topic": "Severe Thunderstorm Watch 28",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0154.html",
+      "summary": "A squall line will continue tracking eastward across portions of southern GA and the FL Panhandle. Damaging winds -- potentially widespread -- may accompany this activity, along with a tornado or two.",
+      "discussion": "A well organized squall line with embedded bowing segments is advancing eastward around 45-50 kt. A large/broad area of strong rear-inflow winds has been indicated by TLH radar base velocities. Ample vertical shear sampled by the TLH VAD wind profile (around 55-65 kt of 0-6-km bulk shear), amidst around 500-1000 J/kg of MLCAPE, will likely maintain a risk for damaging wind gusts as this activity spreads eastward -- including the Tallahassee area in the 2330-0000Z time frame. Line-embedded circulations may support areas of enhanced wind damage, and perhaps a tornado or two could occur given notable low-level directional/speed shear. The severe risk will decrease behind this line. ..Cohen.. 02/07/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 155,
+      "issue_utc": "2017-02-07T23:39Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0155.html",
+      "summary": "A localized severe risk may spread southeastward across parts of the area during the next couple of hours. The anticipated eventual decrease in severe risk and limited spatial extent of this potential are presently expected to preclude Watch issuance.",
+      "discussion": "A couple of ongoing supercell storms (with recent tornado and severe hail reports) in east-central MS are expected to continue spreading southeastward into the early evening hours. Large-scale subsidence, combined with eventual nocturnal stabilization of the boundary layer, should tend to restrict the temporal duration of the severe risk. Nevertheless, well-established dynamic perturbation pressure gradient forces attendant to the ongoing rotating updrafts may allow sustenance of this activity for a couple more hours. Sufficient buoyancy/shear will exist for all severe hazards in the short term on an isolated/relatively brief basis."
+    },
+    {
+      "year": 2017,
+      "number": 156,
+      "issue_utc": "2017-02-07T23:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0156.html",
+      "summary": "The risk for damaging winds accompanying a squall line may spread east of Severe Thunderstorm Watch 29 within the 0100Z-0230Z time frame, perhaps warranting downstream Severe Thunderstorm Watch issuance.",
+      "discussion": "A well-established squall line with multiple embedded bowing segments/LEWP structures will continue progressing eastward into the evening hours. Forward motions on some of the strongest surges embedded within the line are around 40-50 kt in magnitude, suggesting areas of wind damage likely accompanying this activity. As convection continues to spread eastward during the next few hours, the effects of nocturnal boundary-layer stabilization could result in lessening convective intensity. However, given a relatively moist air mass characterized by lower/middle 60s surface dewpoints supporting around 300-1000 J/kg of MLCAPE ahead of the line, and adequate deep shear, the damaging-wind risk may continue to spread eastward -- especially given the established cold pool. Also, recent southward propagation of the southern flank of the MCS across the far north Gulf may eventually be associated with damaging-wind potential later this evening along the west coast of the Peninsula. Regardless, nocturnal stabilization limits overall confidence in the eventual severe risk, and convective/environmental trends will continue to be monitored."
+    },
+    {
+      "year": 2017,
+      "number": 157,
+      "issue_utc": "2017-02-08T02:36Z",
+      "topic": "Severe Thunderstorm Watch 30",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0157.html",
+      "summary": "The leading convective line of an MCS will track across the region through the evening and into the overnight hours. While isolated damaging wind gusts may accompany this activity, additional Watch issuance is not anticipated. However, portions of Severe Thunderstorm Watch 30 may be locally extended across western parts of the FL Peninsula.",
+      "discussion": "A mature leading-line/trailing-stratiform MCS from southern GA to northern FL will continue tracking eastward and southeastward through the evening and into the overnight hours. The most unstable air ahead of this activity extends from the middle Gulf to the west-central FL Peninsula, with the 00Z Tampa Bay sounding indicating around 800 J/kg of MLCAPE aided by a mean mixing ratio around 12 g/kg. As the northern extent of the leading convective line continues to ingest less-unstable inflow as sampled by the 00Z Jacksonville sounding, the southern flank of the MCS will likely become dominant -- with continued forward motion aided by propagation. This will allow an isolated damaging-wind risk to potentially spread across parts of the western FL Peninsula into the overnight hours, and this could be addressed by a local extension of the Watch. However, given relatively more stable conditions with eastward extent across the FL Peninsula, reinforced by nocturnal cooling, the severe risk should tend to lessen with time. As such, the issuance of a new Watch is not expected. ..Cohen.. 02/08/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

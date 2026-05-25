@@ -1,0 +1,155 @@
+{
+  "convective_day": "2017-09-04",
+  "valid_start": "2017-09-04T12:00Z",
+  "valid_end": "2017-09-05T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 4
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-09-04",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-09-04T12:00Z",
+      "valid_end": "2017-09-05T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170904_1200.html",
+      "summary": "Severe thunderstorms are likely across the lower Great Lakes and Ohio Valley region, perhaps as far southwest as southeast Kansas, Monday afternoon and evening. Additional strong storms may impact the higher terrain into lower deserts of central and southeastern Arizona.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "The amplified mid-level flow across the United States will amplify further on Monday as the western United States ridge builds northward into British Columbia, Canada, and a mid-level trough over south-central Canada and the Upper Great Lakes will dig southward through the Great Lakes and into the Ohio Valley. At the surface, a seasonably strong cold front stretching from the Plains into the Upper Great Lakes at the start of the period will continue to push south and east through the day."
+        },
+        {
+          "title": "Lower Great Lakes southwest into southeast Kansas",
+          "text": "Ahead of the aforementioned south-southeastward moving cold front, the large-scale environment should become increasingly unstable through the morning. By early afternoon, surface-based CAPE should range between 1000-2500 J/kg across the Lower Great Lakes to near 4000 J/kg across southeast Kansas. As the atmosphere destabilizes, deep-layer shear will increase, especially across Illinois northeast into Michigan, as strong mid-level flow associated with the digging mid-level trough overspreads the area. By afternoon, thunderstorms should initiate across northern Illinois, northern Indiana, and southern Michigan along the advancing cold front. Although forecast soundings would suggest that wind fields would be favorable for a tornado or two, especially with initial development, the degree of forcing along the front would tend to suggest quick upscale growth. Strong wind fields through the troposphere will lead to a wind threat with these storms, particularly across Indiana and northwest Ohio, where the overlap of instability and strong mid-level flow overlap the greatest coverage of storms. Thunderstorms should quickly move east, perhaps organizing into one or more bowing segments, th"
+        },
+        {
+          "title": "South-central Arizona",
+          "text": "Increased mid-upper-level moisture in the wake of former Tropical Storm Lidia will leave behind a favorable environment for thunderstorms to develop during the afternoon along the Mogollon Rim. Deep-layer flow appears to be a bit more easterly than in previous days, which should allow for thunderstorms to move off the rim and into the desert. The hot and dry boundary layer atop the lower deserts may support an increased downburst/microburst threat. ..Marsh.. 09/04/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-09-04",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-09-04T13:00Z",
+      "valid_end": "2017-09-05T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170904_1300.html",
+      "summary": "Severe thunderstorms are likely across the lower Great Lakes and Ohio Valley region, perhaps as far southwest as southeast Kansas, this afternoon and evening. Additional strong storms may impact the higher terrain and lower deserts of central and southern Arizona.",
+      "sections": [
+        {
+          "title": "Arizona",
+          "text": "An area of high pressure will be in place today from the Four Corners region northwestward into the Intermountain West. Thunderstorms are forecast to initiate on the southern periphery of the high in southern Arizona as instability develops this afternoon. Forecast soundings at Phoenix for 00Z/Tuesday show instability mainly in the mid-levels with super-adiabatic lapse rates from the surface to 700 mb. This may be enough for a few strong wind gusts especially if a cluster of multicells can get going just after peak heating. ..Broyles/Guyer.. 09/04/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-09-04",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-09-04T16:30Z",
+      "valid_end": "2017-09-05T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170904_1630.html",
+      "summary": "Severe thunderstorms with damaging winds are likely across the lower Great Lakes and Ohio Valley region, perhaps as far southwest as central Missouri, this afternoon through early tonight. Additional strong storms may impact the higher terrain and lower deserts of central and southern Arizona.",
+      "sections": [
+        {
+          "title": "OH Valley/lower Great Lakes through early tonight",
+          "text": "A strong midlevel shortwave trough will continue to amplify over the upper MS Valley and upper Great Lakes through tonight, as an associated surface cold front progresses southeastward across the central Plains and the mid MS/OH Valleys by Tuesday morning. A band of elevated storms associated with low-midlevel frontogenesis will pose a marginal hail risk into early afternoon across northern Lower MI. In the wake of morning elevated convection farther to the south, low-level moistening (surface dewpoints increasing into the 60s) beneath the eastern extent of a steeper midlevel lapse rate plume and daytime heating (surface temperatures warming into the 80s) will contribute to MLCAPE of 1500-3000 J/kg in advance of the cold front this afternoon. Focused ascent in advance of the midlevel trough and along the cold front suggests that thunderstorm development is likely by 21z or so from southeast Lower MI to central IL. Storms will subsequently spread southeastward across OH/IN, and develop along the front into MO, through late evening. There will be some potential for supercells with the initial storm development, though somewhat unidirectional profiles with front-parallel flow/shear ve"
+        },
+        {
+          "title": "AZ later this afternoon/evening",
+          "text": "Strong surface heating will occur today beneath relatively steep midlevel lapse rates (which will act to cap the boundary layer into the afternoon). Convection should form first over the rim and higher terrain in southeastern AZ, and then move west toward the lower deserts given 25 kt easterly midlevel flow. Boundary-layer dewpoints in the 60s across the lower deserts will contribute to moderate buoyancy and the potential for additional storm development with the outflow. Inverted-v profiles will favor a threat for isolated strong/damaging outflow gusts, mainly this evening, while isolated large hail may occur with the midlevel lapse rates in excess of 8 C/km."
+        },
+        {
+          "title": "MN/northwestern WI this afternoon",
+          "text": "Low-topped convection will likely continue through the afternoon, with some boost in coverage expected with daytime heating/mixing. Cool midlevel temperatures within the midlevel thermal trough and conditionally unstable low-midlevel lapse rates will support a continued thunderstorm threat, but anything more than small hail and/or gusty outflow winds should be limited by weak buoyancy. ..Thompson/Gleason.. 09/04/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-09-04",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-09-04T20:00Z",
+      "valid_end": "2017-09-05T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170904_2000.html",
+      "summary": "Severe thunderstorms with damaging winds are likely across the lower Great Lakes and Ohio Valley region, perhaps as far southwest as central Missouri, this afternoon through early tonight. Additional strong storms may impact the higher terrain and lower deserts of central and southern Arizona.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "The only change for this outlook update is to include portions of north-central IN and northwest OH in upgraded 45% wind probabilities over a small corridor within the larger Enhanced (3) Risk category. The KIWX VAD has shown flow strengthening from 35-kt to 50-kt in the 850-700 mb layer during the 16Z to 19Z timeframe. Short-term convection-allowing models continue to show a convective band of thunderstorms developing with a severe gust/damaging wind hazard being the primary threat. Elsewhere...the forecast remains on track. ..Smith.. 09/04/2017 .PREV DISCUSSION... /ISSUED 1129 AM CDT Mon Sep 04 2017/"
+        },
+        {
+          "title": "OH Valley/lower Great Lakes through early tonight",
+          "text": "A strong midlevel shortwave trough will continue to amplify over the upper MS Valley and upper Great Lakes through tonight, as an associated surface cold front progresses southeastward across the central Plains and the mid MS/OH Valleys by Tuesday morning. A band of elevated storms associated with low-midlevel frontogenesis will pose a marginal hail risk into early afternoon across northern Lower MI. In the wake of morning elevated convection farther to the south, low-level moistening (surface dewpoints increasing into the 60s) beneath the eastern extent of a steeper midlevel lapse rate plume and daytime heating (surface temperatures warming into the 80s) will contribute to MLCAPE of 1500-3000 J/kg in advance of the cold front this afternoon. Focused ascent in advance of the midlevel trough and along the cold front suggests that thunderstorm development is likely by 21z or so from southeast Lower MI to central IL. Storms will subsequently spread southeastward across OH/IN, and develop along the front into MO, through late evening. There will be some potential for supercells with the initial storm development, though somewhat unidirectional profiles with front-parallel flow/shear ve"
+        },
+        {
+          "title": "AZ later this afternoon/evening",
+          "text": "Strong surface heating will occur today beneath relatively steep midlevel lapse rates (which will act to cap the boundary layer into the afternoon). Convection should form first over the rim and higher terrain in southeastern AZ, and then move west toward the lower deserts given 25 kt easterly midlevel flow. Boundary-layer dewpoints in the 60s across the lower deserts will contribute to moderate buoyancy and the potential for additional storm development with the outflow. Inverted-v profiles will favor a threat for isolated strong/damaging outflow gusts, mainly this evening, while isolated large hail may occur with the midlevel lapse rates in excess of 8 C/km."
+        },
+        {
+          "title": "MN/northwestern WI this afternoon",
+          "text": "Low-topped convection will likely continue through the afternoon, with some boost in coverage expected with daytime heating/mixing. Cool midlevel temperatures within the midlevel thermal trough and conditionally unstable low-midlevel lapse rates will support a continued thunderstorm threat, but anything more than small hail and/or gusty outflow winds should be limited by weak buoyancy."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 1615,
+      "issue_utc": "2017-09-04T19:17Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1615.html",
+      "summary": "Thunderstorms are expected to increase in coverage into the early evening along a cold front advancing across southern Lower MI, northwest OH, northern and central IN, and into central IL. Damaging winds and hail are expected to be the primary severe-weather threats, resulting in the need for watch issuance by late afternoon (by 21Z).",
+      "discussion": "Visible satellite imagery showed cumulus forming across southwest Lower MI where stronger forcing for ascent is expected to be located (just south of the equatorward-advancing cloud shield with the cold front). Trends in surface analyses indicated the front was continuing to move through Lower MI and northern IL, and now into northwest IN. This boundary is expected to reach southern Lower MI, the rest of northern IN, and northeast to east-central IL between 20-23Z, where it will encounter stronger instability. Ahead of the front, southwesterly low-level winds have allowed greater moisture to spread into northern IN to southern Lower MI and northwest OH, with surface dew points rising through the 60s F. This combined with surface heating and steepening mid-level lapse rates will contribute to increasing instability (mixed-layer CAPE of 1500-2500 J/kg). Forcing for ascent along the cold front and the leading edge of greater height falls with the approaching upstream shortwave trough combined with the stronger instability will support additional storm development as the cold front advances to the south. The air mass across the discussion area remains capped per regional 18Z soundings, though further surface heating and an increase in aforementioned deep-layer ascent should weaken the cap by 21-23Z for sustained updrafts. Linear forcing and shear vectors nearly front parallel should favor damaging winds as the primary threat, though steeper mid-level lapse rates suggest hail will be a threat too."
+    },
+    {
+      "year": 2017,
+      "number": 1616,
+      "issue_utc": "2017-09-04T20:43Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1616.html",
+      "summary": "A severe thunderstorm watch may be needed for portions of central Illinois, with the primary severe threats being damaging winds and some hail.",
+      "discussion": "Latest trends in visible satellite imagery indicated robust updrafts with towering and moderate cumulus clouds forming along a line from 45 N DNV to 35 SE UIN. These clouds appear to be surface based as objective analyses and modified 18Z soundings for current surface conditions suggest inhibition is weakening as temperatures have risen to around 90 F and dew points are sustained around 70 F. Forcing for ascent attendant to the cold front advancing south into this region combined with height falls ahead of the amplifying upper MS Valley mid-level trough is expected to support thunderstorm development into central IL this evening. Strong instability (mixed-layer CAPE of 2000-2500+ J/kg) and an increase of vertically veering winds suggest storms should become organized with damaging winds and hail possible in the stronger storms."
+    },
+    {
+      "year": 2017,
+      "number": 1617,
+      "issue_utc": "2017-09-04T22:10Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1617.html",
+      "summary": "Thunderstorms developing over the higher terrain of mainly central/southern AZ should move west-southwestward this afternoon and evening while posing an isolated threat for damaging winds and marginally severe hail. Watch issuance is unlikely.",
+      "discussion": "Visible satellite and radar imagery as of 22Z depict widely scattered convection that has developed along the Mogollon Rim of central AZ on the southern extent of a mid-level anti-cyclone over the Great Basin. 15-25 kt of northeasterly to easterly mid-level winds are present over much of AZ and western NM per latest RAP Mesoanalysis, and this modestly enhanced flow will likely encourage ongoing thunderstorms to develop west-southwestward off the higher terrain and into the lower deserts of central/southern AZ over the next few hours. Additional convection may form over the White Mountains of southeastern AZ and subsequently move westward towards Tucson. Strong diurnal heating with generally clear skies has allowed surface temperatures to warm into the upper 90s to lower 100s across lower elevations, which is combining with a seasonably moist low-level airmass (surface dewpoints mostly in the mid 50s to mid 60s) to support 500-1500 J/kg of MLCAPE. A very well-mixed boundary layer with inverted-v characteristics will encourage efficient momentum transfer and acceleration of convective downdraft winds to the surface, and isolated instances of damaging winds should be the main threat with convection as it moves off the higher terrain. Some marginally severe hail may also occur given the degree of buoyancy present, along with steep mid-level lapse rates. Regardless, without stronger mid-level winds and related effective bulk shear, the overall severe threat will probably remain too marginal/isolated to warrant watch issuance."
+    },
+    {
+      "year": 2017,
+      "number": 1618,
+      "issue_utc": "2017-09-04T22:50Z",
+      "topic": "Severe Thunderstorm Watch 478",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1618.html",
+      "summary": "Thunderstorms continue to intensify over southeast Lower Michigan and northern Indiana. This activity should continue through the early evening hours, moving into parts of western NY, northwest PA, and northeast OH. This area will be monitored for a new watch.",
+      "discussion": "A line of strong to occasionally severe storms has developed in the past 2 hours across parts of northern IN into southeast Lower MI, with individual cells moving eastward at 35-40 knots. Relatively steep low-level lapse rates, moderate CAPE, and rather strong low-level winds will pose a risk of locally strong/damaging wind gusts as the storms continue to organize. Forecast soundings also suggest parameters favorable for hail in the stronger cells. Given recent convective trends and CAM solutions, it appears likely that some of these storms will begin to affect areas east of WW 478 around 00z. A new watch may be needed in this area, as the air mass moistens/destabilizes and low-level winds continue to strengthen. ..Hart.. 09/04/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1619,
+      "issue_utc": "2017-09-04T23:05Z",
+      "topic": "Severe Thunderstorm Watch 479",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1619.html",
+      "summary": "Strong to severe thunderstorms will continue to develop slowly southward across the watch area this evening.",
+      "discussion": "Scattered intense thunderstorms have developed along a cold front that extends from just north of STL to near LAF. Large hail has been reported from a few of these cells. Rather large CAPE profiles and sufficient deep-layer shear for rotation will continue to promote hail in the stronger cells, along with some increasing risk of locally damaging wind gusts. Visible satellite imagery suggests new development may occur immediately west of WW 479. If this occurs, a local extension of the watch into this region may be warranted. ..Hart.. 09/04/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1620,
+      "issue_utc": "2017-09-05T02:26Z",
+      "topic": "Severe Thunderstorm Watch 478",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1620.html",
+      "summary": "Thunderstorms persist across the watch areas, but have not shown substantial intensification. Present indications are that WWs 478 and 479 will be allowed to expire, or may be locally extended in time in focused areas.",
+      "discussion": "Scattered strong to occasionally severe thunderstorms continue to occur along/ahead of a surface cold front extending from east-central MO into northern OH. While a few of the storms have produced damaging wind gusts and hail, the overall intensity of the activity has been weaker than anticipated. Loss of daytime heating should further lessen the likelihood of significant intensification for the rest of the evening. Therefore, current indications are that most of WWs 478 and 479 will be allowed to expire at 03z. However, focused areas with active thunderstorms may be locally extended as needed. ..Hart.. 09/05/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

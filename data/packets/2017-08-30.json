@@ -1,0 +1,100 @@
+{
+  "convective_day": "2017-08-30",
+  "valid_start": "2017-08-30T12:00Z",
+  "valid_end": "2017-08-31T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-08-30",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-08-30T16:30Z",
+      "valid_end": "2017-08-31T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170830_1630.html",
+      "summary": "Some tornadoes are likely from the Ark-La-Miss to western Alabama this afternoon and evening.",
+      "sections": [
+        {
+          "title": "Ark-La-Miss to AL",
+          "text": "Broken clouds to the east of the mid-level dry slot are allowing for destabilization across most of southern LA/MS with surface temperatures warming towards the middle 80s. Modified 12Z Jackson/Slidell soundings along with 12Z NAM forecast soundings suggest this will result in pockets of MLCAPE reaching 1000-2000 J/kg. Within a belt of 30-45 kt 850-mb southerlies and where surface east-southeasterlies persist, low-level hodographs will support updraft rotation. The most favorable combination of shear/buoyancy should be present from northeast LA across southern MS where at least a few tornadoes are likely amid multiple broken convective bands moving northeast this afternoon. Morning CAMs suggest the tornado threat will nocturnally wane, but a marginal tornado risk may persist overnight."
+        },
+        {
+          "title": "WI",
+          "text": "Small hail and gusty winds may accompany a broken line of storms moving south along a cold front this afternoon. Although mid-level lapse rates are steep, weak unidirectional wind profiles should preclude stronger updraft intensity and discourage an organized severe risk. ..Grams/Kerr.. 08/30/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-08-30",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-08-30T20:00Z",
+      "valid_end": "2017-08-31T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170830_2000.html",
+      "summary": "Some tornadoes are likely from the Ark-La-Miss to western Alabama this afternoon and evening.",
+      "sections": [
+        {
+          "title": "20Z Outlook Update",
+          "text": "The general forecast scenario has exhibited mostly minimal changes through mid-afternoon. Low (5%) probabilities for damaging wind gusts have been expanded eastward into portions of central and southern Georgia in advance of a broken linear segment that has begun to forward propagate near the Albany, GA vicinity. Satellite imagery indicates continued surface heating ahead of this band of storms, and objective analyses indicate roughly 1000-2500 J/kg MUCAPE, which should continue to support an isolated severe threat for the next several hours. Additionally, the Slight risk was expanded eastward into a greater portion of western and southwestern Alabama ahead of a band of storms that have been exhibiting supercellular characteristics near/east of the Mobile area. Surface heating and backed low-level flow ahead of this band will support an isolated wind/tornado threat over the next few hours, and observations/high-resolution guidance suggest a gradual northward shift of this threat into the evening. A band of storms has evolved over eastward Wisconsin today, but has been sub-severe throughout its existence. A general lack of vertical wind shear should result in any severe threat being"
+        },
+        {
+          "title": "Ark-La-Miss to AL",
+          "text": "Broken clouds to the east of the mid-level dry slot are allowing for destabilization across most of southern LA/MS with surface temperatures warming towards the middle 80s. Modified 12Z Jackson/Slidell soundings along with 12Z NAM forecast soundings suggest this will result in pockets of MLCAPE reaching 1000-2000 J/kg. Within a belt of 30-45 kt 850-mb southerlies and where surface east-southeasterlies persist, low-level hodographs will support updraft rotation. The most favorable combination of shear/buoyancy should be present from northeast LA across southern MS where at least a few tornadoes are likely amid multiple broken convective bands moving northeast this afternoon. Morning CAMs suggest the tornado threat will nocturnally wane, but a marginal tornado risk may persist overnight."
+        },
+        {
+          "title": "WI",
+          "text": "Small hail and gusty winds may accompany a broken line of storms moving south along a cold front this afternoon. Although mid-level lapse rates are steep, weak unidirectional wind profiles should preclude stronger updraft intensity and discourage an organized severe risk."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 1600,
+      "issue_utc": "2017-08-30T14:51Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1600.html",
+      "summary": "At least some risk for mainly isolated, relatively short-lived tornadoes is already evident. The extent of this threat remains a bit unclear, but it seems likely to increase into and through early afternoon, particularly within a corridor across east central and southeast Louisiana through much of southern Mississippi, perhaps as far north as the I-20 corridor.",
+      "discussion": "Beneath the lower/mid tropospheric dry slot to the east of the remnant circulation center of Harvey, breaks in low-level cloud cover are likely already allowing for an increase in boundary layer instability in response to insolation. This should continue into and through the midday hours, particularly within a narrow plume of tropical boundary layer moisture (with surface dew points of 75F+) wrapping across southeast Louisiana and Mississippi coastal areas, into the vicinity of the surface cyclone center which continues to slowly track north northeast of Lake Charles. Within/across this corridor of richer boundary layer moisture content, a southeasterly component to the near surface flow beneath southerly 850 mb flow on the order of 40 kt is already contributing to favorable hodographs for the development of substantive low-level mesocyclones. As cells embedded within ongoing and developing bands of convection pivoting around Harvey occasionally strengthen, the risk for mainly isolated, brief tornadoes will probably increase as the boundary layer undergoes further destabilization into and through early afternoon."
+    },
+    {
+      "year": 2017,
+      "number": 1601,
+      "issue_utc": "2017-08-30T17:10Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1601.html",
+      "summary": "A very isolated/brief tornado and strong/gusty wind threat may occur through the afternoon. Watch issuance is not expected.",
+      "discussion": "A broken band of convection on the eastern periphery of TS Harvey has recently increased in coverage and intensity as it moves generally east-northeastward. Filtered insolation has allowed surface temperatures to warm generally into the mid 80s immediately downstream, and a very moist low-level airmass is contributing to MLCAPE of 500-2000 J/kg even through mid-level lapse rates remain poor. These ongoing thunderstorms remain on the eastern fringe of stronger low-level southerly winds associated with the circulation of TS Harvey, with recent VWPs from KEVX/KEOX/KTLH showing generally 25-35 kt of flow between 1-4 km, weakening with eastward extent into the FL Panhandle. 0-1 km winds are mainly southerly to south-southwesterly across this region, which is limiting low-level helicity. Still, enough veering does exist into mid levels to support generally 100-200 m2/s2 of 0-1 km SRH, and a brief tornado could occur on a very isolated basis with any storm in this environment through the afternoon. Strong/gusty winds may also be a threat given the banded nature of ongoing convection. Regardless, the lack of stronger low-level flow and greater 0-1 km SRH will likely limit a greater severe threat, and watch issuance is not expected."
+    },
+    {
+      "year": 2017,
+      "number": 1602,
+      "issue_utc": "2017-08-30T18:09Z",
+      "topic": "Tornado Watch 475",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1602.html",
+      "summary": "The risk for tornadoes appears likely to increase across the Mobile vicinity and surrounding areas of southwestern Alabama through 1-3 PM CDT. This area likely will be added to tornado watch 475 shortly.",
+      "discussion": "The boundary layer over much of central and southern Alabama remains relatively cool/stable in the wake of earlier convective precipitation now in the process of shifting off to the east and dissipating. However, the Mobile area was largely unaffected, with temperatures warming into the 80s coinciding with surface dew point increases through the upper 70s. In the presence of large clockwise curved low-level hodographs on the eastern periphery of the remnants of Harvey, the environment appears increasingly conducive to low-level mesocyclone development, and the risk for mainly relatively short-lived tornadoes, as one outer convective band progresses across and east of the Mississippi/Alabama border area through 18-20Z. ..Kerr.. 08/30/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1603,
+      "issue_utc": "2017-08-30T19:55Z",
+      "topic": "Tornado Watch 475",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1603.html",
+      "summary": "A risk for mainly relatively short-lived tornadoes continues, and may increase during the 4-6 PM CDT time frame.",
+      "discussion": "As the circulation center of Harvey continues a very slow general northeastward migration, the latest Rapid Refresh, among other model output, suggests that southerly 850 flow is in the process of increasing (to 40-50 kt) within a belt across southeastern Louisiana into southern Mississippi. Coinciding with peak late afternoon surface heating and instability, within a plume of tropical boundary layer moisture, some further enlargement of clockwise curved low-level hodographs may still support a renewed increase in convective development capable of producing (mainly) relatively short-lived tornadoes by the 21-23Z time frame. ..Kerr.. 08/30/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1604,
+      "issue_utc": "2017-08-30T22:50Z",
+      "topic": "Tornado Watch 475",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1604.html",
+      "summary": "New Tornado Watch is not anticipated across the central Gulf States.",
+      "discussion": "Remnants of Harvey continue to drift slowly northeast across LA with strongest bands of convection now evident across western FL Panhandle into southern AL. Robust updrafts appear correlated with greater buoyancy along the eastern fringe of Harvey where MLCAPE is on the order of 2000 J/kg across the FL Panhandle. While instability is considerably weaker across MS, latest MRMS data does exhibit some low-level rotation with discrete showers/storms within stronger sheared corridor just northeast of Harvey's center. While 45kt+ LLj will remain centered over MS much of tonight, loss of boundary layer heating/buoyancy will likely hinder updraft strength with this activity. For these reasons current thinking is to not reissue a new Tornado Watch beyond 23z. ..Darrow.. 08/30/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

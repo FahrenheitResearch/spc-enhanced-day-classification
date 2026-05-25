@@ -1,0 +1,151 @@
+{
+  "convective_day": "2017-05-09",
+  "valid_start": "2017-05-09T12:00Z",
+  "valid_end": "2017-05-10T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-05-09",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-05-09T20:00Z",
+      "valid_end": "2017-05-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170509_2000.html",
+      "summary": "Scattered severe thunderstorms with a threat for tornadoes, large hail and damaging winds are expected across parts of eastern New Mexico and west Texas late this afternoon through the overnight period. Other severe storms with large hail and wind damage could occur in parts of eastern Colorado late this afternoon into this evening. A significant change has been made to the outlook for this issuance. An enhanced risk area has been added for parts of southeast New Mexico and west Texas. The upgrade includes adding 30 percent hail and 10 percent tornado contours. The latest HRRR run along with the deterministic solutions from the NAM and GFS appear reasonable. These solutions suggest that several supercells will be possible across the enhanced area early this evening. As the low-level jet strengthens and maximizes over west Texas this evening, conditions will become favorable for large hail and tornadoes. Hailstones of greater than 2 inches in diameter may also occur with the stronger supercells. For the mid to late evening, the models also suggest that a band of severe storms will develop along the western edge of the enhanced risk area and move eastward to the Texas state line by j",
+      "sections": [
+        {
+          "title": "Eastern NM/CO into western KS/TX",
+          "text": "Only minor changes have been made to the ongoing forecast. It appears two regimes of severe weather will occur today. The first will be associated with thunderstorms that form over/near the mountains of north-central NM into southeast CO. Steep mid level lapse rates and continued easterly/upslope flow will result in scattered storms beginning early this afternoon. These storms will likely pose a risk of large hail (possibly very large hail) as they build northeastward into northeast NM and eastern CO. An isolated tornado or two is also possible with the more intense storms in this regime today. The northern extent of the severe risk will likely be delimited by the Denver convergence zone. These storms may spread into western KS and the northern TX Panhandle this evening before weakening. Later this evening, 12Z guidance is in good agreement that a second round of severe storms will develop over parts of southeast NM and southwest TX. These storms are more likely to maintain discrete character, with supercells likely. The storms will track northeastward across eastern NM and into parts of west TX around/after dark posing a risk of very large hail, damaging winds, and a few tornadoes"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-05-10",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-05-10T01:00Z",
+      "valid_end": "2017-05-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170510_0100.html",
+      "summary": "Scattered severe thunderstorms with a threat for tornadoes, large hail and damaging winds are expected across parts of eastern New Mexico and west Texas through the overnight period. Isolated severe storms with large hail and wind damage will linger this evening from far eastern Colorado into western Kansas.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "\"Enhanced\" risk for severe thunderstorms is unchanged; however, severe probabilities have been adjusted downward across much of the higher terrain of NM and CO in the wake of expansive convection and air-mass disruption. Numerous discrete supercells have evolved across southeast NM into the western part of the TX South Plains. This activity is evolving in line with earlier thoughts regarding severe potential. With large-scale forcing for ascent expected to spread into northwest TX later tonight an extended period of organized severe appears possible across this region. 00z soundings from MAF and AMA adequately sample downstream pre-storm environmental conditions with steep lapse rates and surface-6km bulk shear on the order of 50kt. While weak CINH is observed along the eastern fringe of the risk area, capping should not suppress organized severe storms moving into this region later tonight. Farther north across western KS, an expansive cold pool has developed across eastern CO which is forcing strongest convection toward the CO/KS border. Deep-layer shear is more than adequate for robust thunderstorms to spread into western/northwest KS over the next few hours. Hail/wind are the p"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 669,
+      "issue_utc": "2017-05-09T15:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0669.html",
+      "summary": "The risk for severe thunderstorms will gradually increase towards midday into the afternoon. The initial risk will likely be marginally severe hail. A tornado threat may develop later this afternoon across mainly NM associated with a more unstable boundary layer.",
+      "discussion": "Visible satellite/radar mosaic imagery this morning show an agitated cumulus field/developing thunderstorms from near the north side of the Sacramento mountains north towards Santa Fe and near the I-25 corridor in north-central NM and southern parts of CO. Despite the presence of low clouds, mixing and cloud breaks are resulting in surface temperatures warming into the middle 60s near I-40 with cooler temperatures in the higher elevations. The mid-level low over the Sonoran Desert will aid in maintaining east-southeasterly flow/moist fetch into the region. Veering and strengthening winds with height will support rotation with the stronger updrafts once they develop. Due to very weak convective inhibition/low LFC heights, the expectation is for increasing storm coverage through the midday and early afternoon. Once storms mature, a marginally severe hail risk will probably develop with the stronger cores. The risk for isolated severe gusts will increase once 0-2 km lapse rates steepen. The overall threat for severe will likely extend into the late afternoon/evening as increasing ascent associated with the mid-level low overspreads the southern Rockies and Eastern Plains. It seems the risk for more vigorous supercells will maximize later today and a tornado threat will probably accompany the strongest low-level mesocyclones within a moist/increasing SRH environment this evening for primarily portions of east-central and southeast NM."
+    },
+    {
+      "year": 2017,
+      "number": 670,
+      "issue_utc": "2017-05-09T19:16Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0670.html",
+      "summary": "Supercells capable of a couple of tornadoes, large to very large hail, and severe gusts are possible this afternoon into the evening. A tornado watch will be required for much of the discussion area.",
+      "discussion": "Visible satellite imagery shows a bubbling cumulus field across the Permian Basin to the southeast of ongoing supercells located from the north side of the Sacramento mountains to the I-40 corridor near Clines Corners. Surface analysis shows low to middle 50s degrees F dewpoints over the Eastern Plains and middle to upper 50s dewpoints in the TX portion of the Permian Basin amidst southeasterly low-level flow. Buoyancy is expected to increase this afternoon as temperatures warm slightly. By the late afternoon (22Z) onward, forecast soundings show strengthening southeasterly flow in the lowest 1.5 km---effectively enlarging hodographs (0-1 km SRH 200-300 m2/s2) compared to early this afternoon. When combined with moist low levels, strong buoyancy, and a quasi-discrete supercell mode, a strong tornado (appreciable duration) is a possibility. Given the observed trends, it is very likely a tornado watch will be required by the 2030-2100Z period or before."
+    },
+    {
+      "year": 2017,
+      "number": 671,
+      "issue_utc": "2017-05-09T20:29Z",
+      "topic": "Severe Thunderstorm Watch 199",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0671.html",
+      "summary": "A risk for isolated severe thunderstorms continues across portions of southeast CO, and could spread farther east/northeast later this afternoon. However, present indications are that additional Watch issuance will be unlikely.",
+      "discussion": "Loosely organized convective clusters across southeast CO continue to be supported by recycled low-level moisture in a modest upslope-flow regime. Thus far, updrafts have been rather limited with respect to strength and longevity -- yielding an overall dearth of severe occurrences. However, for subsequent convective inflow, surface dewpoints in the lower 50s beneath moderate mid-level lapse rates are supporting sufficient buoyancy well east of the CO Front Range across the High Plains for some -- albeit modest and isolated -- severe risk. Diabatic surface heating and related steepened low-level lapse rates have been most substantial across southern parts of extreme eastern CO into adjacent KS. Ongoing convection will likely develop into these areas through late afternoon, perhaps exhibiting slightly more organization if cold-pool consolidation were to occur amid 30-40 kt of effective shear. Isolated occurrences of severe hail/wind will remain possible, with perhaps a slight uptick in severe-wind potential if a more organized convective system were to evolve. However, given the limited degree of low-level moisture and related limited buoyancy, a more substantial severe risk is not presently expected to extend outside of northern parts of Watch 199. Farther north, into northeast CO, widespread cloud coverage has muted diurnal heating and related buoyancy. These factors should tend to mitigate the severe risk. ..Cohen.. 05/09/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 672,
+      "issue_utc": "2017-05-09T23:12Z",
+      "topic": "Tornado Watch 200",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0672.html",
+      "summary": "Threat for tornadoes, large hail and damaging wind will persist across eastern New Mexico and west Texas through much of the evening. Tornado and overall severe threat is expected to increase over the southern half of tornado watch 200 including southeast New Mexico and west Texas through mid evening.",
+      "discussion": "Early this evening the dryline has retreated as far west as the mountains of east central and southeast NM through southwest TX. The atmosphere remains moderately unstable with steep lapse rates and low-level dewpoints in the upper 40s to low 50s F contributing to 1000-1500 J/kg MLCAPE. VWP data show 40-50 kt effective bulk shear and 100-150 m2/s2 storm-relative helicity supporting organized storms including supercells across all of eastern NM. While 0-1 km hodographs are not particularly large at the current time, the low-level jet will undergo an increase this evening resulting in a substantial increase in storm-relative helicity, especially over southeast NM into southwest TX. This will occur as temperature-dewpoint spreads decrease as a result of both nocturnal cooling and an increase in low-level moisture. Thus discrete storms that develop over the higher terrain of southeast NM will interact with an environment increasingly favorable for supercells with low-level mesocyclones and tornadoes. Farther north across northeast NM, the tornado/severe threat will persist but numerous storm mergers might eventually contribute to upscale growth into lines/clusters with an increasing threat for damaging wind as storms move from northeast NM into southeast CO. An mcd for southeast CO will be issued shortly. ..Dial.. 05/09/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 673,
+      "issue_utc": "2017-05-09T23:24Z",
+      "topic": "Severe Thunderstorm Watch 199",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0673.html",
+      "summary": "An isolated threat for mainly large hail and damaging winds continues across eastern portions of Severe Thunderstorm Watch 199, which expires at 00Z. A local extension in time may be warranted for a couple counties in north-central NM. In addition, a new Severe Thunderstorm Watch in parts of eastern CO into western KS is being considered.",
+      "discussion": "Ongoing convection west of the central mountain chain in NM will likely weaken over the next several hours with the loss of daytime heating and resultant lessening of already weak instability. Other ongoing thunderstorms in eastern Colfax and Mora counties should move toward/into Tornado Watch 200 around 00Z. Across eastern CO and arcing northeastward into southern NE, a pronounced baroclinic zone is present per 23Z observations, and ongoing convection across eastern CO posing an isolated threat for mainly large hail should persist past the 00Z expiration of Severe Thunderstorm Watch 199 as it moves into western KS. The airmass downstream of this activity should remain unstable through the evening hours, as MLCAPE generally ranges from 500-1500 J/kg per recent RAP mesoanalysis. The northern extent of a strengthening low-level jet across the southern/central Plains may also encourage the maintenance of ongoing thunderstorms, and 35-45 kt of effective bulk shear will support updraft organization. There will be some potential for upscale growth of thunderstorms in northeastern NM as they move into southeastern CO and perhaps western KS over the next few hours. If this were to occur, then damaging winds would be a concern in addition to large hail. Therefore, a new Severe Thunderstorm Watch is being considered for parts of eastern CO and western KS. ..Gleason.. 05/09/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 674,
+      "issue_utc": "2017-05-10T00:15Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0674.html",
+      "summary": "A very isolated threat for hail/wind may exist for the next several hours along a stalled front. Watch issuance is not expected.",
+      "discussion": "Isolated convection has recently formed along the KS/NE border along a weak front. Low and mid-level flow across this region will remain weaker compared to locations farther west in closer proximity to an upper low over the Southwest. Still, strong diurnal heating, a shallow moist boundary layer, and weak convergence along the front should support the continuation of isolated convection for the next several hours. MLCAPE generally ranges from 1000-1500 J/kg along and south of the front, and recent VWP from KUEX shows around 35 kt of 0-6 km shear. This should be sufficient for a very isolated large hail and strong to locally damaging wind risk through mid evening. Thereafter, continued diurnal cooling of the boundary layer will likely result in any persistent convection becoming elevated. With current expectations that any severe threat will remain very isolated, watch issuance is not expected."
+    },
+    {
+      "year": 2017,
+      "number": 675,
+      "issue_utc": "2017-05-10T01:41Z",
+      "topic": "Tornado Watch 200",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0675.html",
+      "summary": "Threat for a few tornadoes, large hail and damaging wind will persist over tornado watch 200 the remainder of the evening. The greatest tornado threat is expected from southeast New Mexico into west Texas.",
+      "discussion": "Satellite imagery shows numerous deeper convective towers in the process of developing along retreating dryline from southwest TX through southeast NM. Water vapor imagery indicates what appears to be a zone of ascent spreading east through far west TX and south central NM. This band of ascent should overtake the dryline before 0230Z when additional storms should develop over southeast NM and possibly into Southwest TX. Farther north, storms persist from southeast through east-central NM into western TX. While a few supercells persist, some storms have evolved into line segments. The low-level jet is strengthening, and this will result in more favorable 0-1 km hodographs for supercells with low-level mesocyclones and a few tornadoes as storms develop/persist this evening. Moreover, boundary-layer temperature-dewpoint spreads have decreased as moisture advects northwestward and surface temperatures cool. ..Dial.. 05/10/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 676,
+      "issue_utc": "2017-05-10T02:32Z",
+      "topic": "Severe Thunderstorm Watch 201",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0676.html",
+      "summary": "An isolated severe threat continues across Severe Thunderstorm Watch 201. This threat should slowly decrease through the remainder of the evening.",
+      "discussion": "Ongoing convection across eastern CO/western KS and continuing into the western OK Panhandle has generally struggled in maintaining severe intensity over the past hour or so. This is likely a result of decreasing instability due to the loss of daytime heating, and related strengthening of convective inhibition. Still, several strong cells were noted as of 0230Z across west-central into northwestern KS, and isolated instances of marginally severe hail remain possible with this activity in the short term. A severe wind gust of 59 kt (68 mph) was also reported at the Boise City OK Mesonet site at 0210Z with the line of convection moving eastward across far southeastern CO and the western OK Panhandle. Weak instability characterized by 500-1000 J/kg of MLCAPE and around 45 kt of effective bulk shear will support a continued isolated severe threat east of ongoing convection for the next several hours. ..Gleason.. 05/10/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 677,
+      "issue_utc": "2017-05-10T03:17Z",
+      "topic": "Tornado Watch 200",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0677.html",
+      "summary": "Tornado watch 200 will likely be replaced by another WW before its expiration time of 04Z. All hazards will remain possible through 06Z, but primary threats should gradually transition to damaging wind and large hail.",
+      "discussion": "With a strengthening LLJ and deeper forcing for ascent associated with a northeast-ejecting shortwave trough overtaking the dryline, it appears that the severe-storm threat will persist into the early morning hours. New storms are currently developing in Eddy and Chaves counties of southeast NM in response to these processes. Supercells with all hazards possible will persist through at least 06Z. However, as the boundary layer stabilizes further and as storms begin to grow upscale, the primary threats should transition to damaging wind and large hail after 06Z. ..Dial.. 05/10/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 678,
+      "issue_utc": "2017-05-10T06:29Z",
+      "topic": "Severe Thunderstorm Watch 201",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0678.html",
+      "summary": "Severe weather potential seems to be increasingly negligible with storms now overspreading parts of northwestern Kansas and southern Nebraska, and a new severe weather watch is not anticipated once remaining valid portions of ww 201 expires as 07Z.",
+      "discussion": "Forcing for ascent associated with a short wave impulse emerging from larger-scale upstream troughing will continue to spread northeastward and eastward out of the central high Plains, toward the middle Missouri Valley overnight. This may maintain thunderstorm development above the inversion to the cool side of the surface front extending roughly in west-east fashion along the central/eastern Kansas/Nebraska border area into the Missouri/Iowa border vicinity. However low/mid-level warm advection along this front appears generally weak, and increasing inhibition for modestly moist boundary layer parcels to the south of the front is tending to suppress new storm development along a convective outflow boundary advancing eastward across western into central Kansas. While occasional severe hail may not be entirely out of the question in the lingering warm advection storms across the central Plains, the environment as a whole appears increasingly marginal for severe storm development. ..Kerr.. 05/10/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 679,
+      "issue_utc": "2017-05-10T07:04Z",
+      "topic": "Severe Thunderstorm Watch 202",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0679.html",
+      "summary": "Potential for strong/severe storms probably will linger through at least the 09-11Z time frame. A new watch east of ww 202 is not currently anticipated, but perhaps not entirely out of the question.",
+      "discussion": "Recent radar trends suggest that the number of intense storms has diminished, as the area of general convective development gradually spreads out of eastern New Mexico into the the Texas Panhandle and South Plains vicinity. Stronger activity appears to be in the process of coming focused within a zone of enhanced lower/mid tropospheric warm advection, on the northwestern periphery of warmer and more strongly capping elevated mixed layer air to the west and northwest of Lubbock and Plainview. Aided by a nocturnally peaking southerly low-level jet (50+ kt at 850 mb), occasional severe hail and wind gusts seem likely to remain possible through at least the 09-11Z time frame, while spreading into/through the remainder of the Texas Panhandle, adjacent northwest Texas and perhaps parts of western Oklahoma. ..Kerr.. 05/10/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 680,
+      "issue_utc": "2017-05-10T11:04Z",
+      "topic": "Severe Thunderstorm Watch 202",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0680.html",
+      "summary": "Thunderstorms will continue to spread northeast of the Texas Panhandle, and across portions of western Oklahoma and adjacent southern Kansas through mid morning, perhaps accompanied by some lingering risk for severe hail and wind. Any such threat seems likely to remain fairly localized and marginal, with an additional severe weather watch probably not needed. But trends will continue to be monitored.",
+      "discussion": "Perhaps aided by a lingering, but weakening, southerly 850 mb jet (30-40+ kt), lower/mid tropospheric warm advection may maintain the ongoing cluster of thunderstorms another several hours. Activity appears generally focused on the northwestern edge of warmer and more strongly capping elevated mixed layer air, and is expected to spread northeast of the eastern Texas Panhandle, and across northwestern Oklahoma and adjacent southern Kansas, through the 12-15Z time frame. Although the long-lived discrete supercell near the leading edge of the activity appears to be in the process of weakening, a period of re-intensification of thunderstorms may not be entirely out of the question this morning. If this occurs it probably will remain rather localized, and focused along a remnant outflow boundary from now dissipated preceding convection, which extends northeastward into roughly the I-135/70 vicinity of central Kansas. But, the environment may be at least marginally conducive of occasional strong surface gusts and perhaps severe hail. ..Kerr.. 05/10/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

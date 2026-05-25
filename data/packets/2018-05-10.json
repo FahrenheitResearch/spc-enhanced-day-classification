@@ -1,0 +1,203 @@
+{
+  "convective_day": "2018-05-10",
+  "valid_start": "2018-05-10T12:00Z",
+  "valid_end": "2018-05-11T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2018-05-10",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-05-10T16:30Z",
+      "valid_end": "2018-05-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180510_1630.html",
+      "summary": "Afternoon severe thunderstorms will produce large hail and damaging winds over parts of the central Plains states. A few severe storms capable of damaging winds are also expected to affect portions of the Mid-Atlantic to southern Appalachians.",
+      "sections": [
+        {
+          "title": "Central Plains",
+          "text": "Water vapor loop shows a upper ridge centered over the central Rockies, with an low-amplitude upper trough over the western states. This trough will spread eastward today, with large-scale forcing affecting parts of the central High Plains. Easterly post-frontal surface winds are present across much of NE and eastern WY, where 40s and 50s dewpoints are being slowly transported westward. This combined with strong daytime heating will yield afternoon MLCAPE values around 1000 J/kg in southeast WY, and approaching 2000 J/kg farther east in western NE. Present indications are that thunderstorms will intensify this afternoon to the east of the Laramie range and track eastward into the adjacent plains of western NE. Initial storms will likely have supercellular characteristics due to favorable low level shear/hodographs. An isolated tornado or two is possible, but greater threat appears to be large hail and damaging wind gusts today. Storms are expected to grow upscale though the evening with numerous CAM solutions suggesting bowing storm structures and an increasing risk of damaging wind gusts."
+        },
+        {
+          "title": "Mid Atlantic",
+          "text": "Morning clouds/precipitation are slowly decreasing, allowing pockets of strong afternoon heating over portions of VA/MD. This area will see re-development of thunderstorms by mid afternoon along/ahead the cold front currently over WV. Local VAD and forecast soundings suggest sufficiently steep low-level lapse rates and wind fields to pose a risk of damaging wind gusts in the stronger cells. Isolated severe hail is also possible. Farther north, clouds are holding firm over eastern PA, NJ, and southeast NY. Wind fields are stronger in this area than farther south, but weaker thermodynamics are a mitigating factor. Have trimmed the SLGT risk in NY, but will maintain across eastern PA/NJ where some heating may occur later today. ..Hart/Bentley.. 05/10/2018"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2018-05-10",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-05-10T20:00Z",
+      "valid_end": "2018-05-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180510_2000.html",
+      "summary": "Afternoon severe thunderstorms will produce large hail and damaging winds over parts of the central Plains states. A few severe storms capable of damaging winds are also expected to affect portions of the Mid-Atlantic to southern Appalachians.",
+      "sections": [
+        {
+          "title": "NC",
+          "text": "Given the presence of stronger westerly midlevel winds having spread into northern NC, while strong surface heating is resulting in very steep surface to 3-km lapse rates, the potential for damaging winds and hail should affect more of northern and perhaps central NC this afternoon to early evening. These factors combined with a corridor of moderate instability extending south-southwest ahead of the wind shift support an expansion of the Slight risk area to include more of NC."
+        },
+        {
+          "title": "WV",
+          "text": "Marginal instability along and east of the broken band of storms advancing east through WV this afternoon will continue to pose a risk for severe weather. The Marginal severe risk has been expanded westward to this ongoing band of storms, as marginal instability should limit the coverage of strong-severe storms."
+        },
+        {
+          "title": "Northern NJ into NY and western/northern PA",
+          "text": "Cooler surface temperatures and weaker low-level lapse rates and buoyancy per objective analyses may limit the severe-weather threat across the northern extent of the Slight risk area. Meanwhile, western portions of the Marginal risk area in central to part of northern NY and western to north-central PA will be removed from the severe threat, as the environment stabilizes with the passage of the cold front and convective band. Similarly, the general thunderstorm area will be shifted east out of the upper Ohio Valley and Lower Great Lakes region."
+        },
+        {
+          "title": "Central and southern Plains",
+          "text": "No changes needed for these areas. ..Peters.. 05/10/2018 .PREV DISCUSSION... /ISSUED 1120 AM CDT Thu May 10 2018/"
+        },
+        {
+          "title": "Central Plains",
+          "text": "Water vapor loop shows a upper ridge centered over the central Rockies, with an low-amplitude upper trough over the western states. This trough will spread eastward today, with large-scale forcing affecting parts of the central High Plains. Easterly post-frontal surface winds are present across much of NE and eastern WY, where 40s and 50s dewpoints are being slowly transported westward. This combined with strong daytime heating will yield afternoon MLCAPE values around 1000 J/kg in southeast WY, and approaching 2000 J/kg farther east in western NE. Present indications are that thunderstorms will intensify this afternoon to the east of the Laramie range and track eastward into the adjacent plains of western NE. Initial storms will likely have supercellular characteristics due to favorable low level shear/hodographs. An isolated tornado or two is possible, but greater threat appears to be large hail and damaging wind gusts today. Storms are expected to grow upscale though the evening with numerous CAM solutions suggesting bowing storm structures and an increasing risk of damaging wind gusts."
+        },
+        {
+          "title": "Mid Atlantic",
+          "text": "Morning clouds/precipitation are slowly decreasing, allowing pockets of strong afternoon heating over portions of VA/MD. This area will see re-development of thunderstorms by mid afternoon along/ahead the cold front currently over WV. Local VAD and forecast soundings suggest sufficiently steep low-level lapse rates and wind fields to pose a risk of damaging wind gusts in the stronger cells. Isolated severe hail is also possible. Farther north, clouds are holding firm over eastern PA, NJ, and southeast NY. Wind fields are stronger in this area than farther south, but weaker thermodynamics are a mitigating factor. Have trimmed the SLGT risk in NY, but will maintain across eastern PA/NJ where some heating may occur later today."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2018-05-11",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-05-11T01:00Z",
+      "valid_end": "2018-05-11T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180511_0100.html",
+      "summary": "Scattered severe thunderstorms will remain capable of producing large hail and damaging winds over parts of the central Plains. A few severe storms capable of damaging winds may continue for another hour or two over portions of the Mid-Atlantic to southern Appalachians.",
+      "sections": [
+        {
+          "title": "Nebraska/northeast Colorado and vicinity",
+          "text": "A cluster of strong/locally severe storms from western Nebraska south to northeast Colorado will continue moving eastward across the Nebraska vicinity over the next several hours. With moderate CAPE near the southern Nebraska frontal zone and deep-layer shear supportive of organized eastward-moving storms, risk for locally damaging winds and large hail persists. While a developing low-level jet will likely help sustain convection through most or all of the period, severe risk should gradually begin to decrease into the overnight hours."
+        },
+        {
+          "title": "The Mid-Atlantic region and vicinity into North Carolina",
+          "text": "Thunderstorms continue to gradually diminish in coverage and intensity over much of the outlook area, though locally vigorous storms persist, ahead of the eastward-moving front. Severe risk will gradually wane as storms continue to slowly weaken overall while shifting toward/off the coast. In the mean time, a few locally damaging winds gusts and perhaps some small hail will remain possible early this evening. ..Goss.. 05/11/2018"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2018,
+      "number": 374,
+      "issue_utc": "2018-05-10T16:36Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0374.html",
+      "summary": "Thunderstorms are expected to increase in coverage and intensity this afternoon with initial storms over the central Appalachians then spreading into the Middle Atlantic including VA, MD and northern NC. Isolated damaging wind gusts should be the primary threat.",
+      "discussion": "Early this afternoon a few thunderstorms are developing along the central through southern Appalachians forced by heating over the higher terrain. Strong diabatic warming within the the downstream warm sector with weakening convective inhibition and dewpoints from the upper 50s to near 60 F should support 800-1200 J/kg MLCAPE. Steepening 0-3 km lapse rates with inverted-V boundary layer characteristics, along with 30-40 kt southwesterly flow between 1-4 km will support locally strong downdrafts as storms develop east off the higher terrain. Weak vertical shear (around 30 kt between 0-6 km) will promote multicell storm modes with locally strong to damaging wind gusts as storms evolve into short lines segments and clusters this afternoon and early evening."
+    },
+    {
+      "year": 2018,
+      "number": 375,
+      "issue_utc": "2018-05-10T18:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0375.html",
+      "summary": "Storms will form over the higher terrain within the next hour or two. A watch will likely be needed as these storms move northeast.",
+      "discussion": "The combination of low-level upslope flow, and an approaching shortwave trough will trigger storm development across the higher terrain of the Laramie Range in the next hour or two. Further east, low-level moisture advection beneath very steep mid-level lapse rates greater than 8.5 C/km has led to weak surface-based destabilization across southeastern WY, northeast CO, and southwest NE. Diabatic heating under clear skies in addition to increasing low-level moisture from the southeast will lead to further destabilization with MLCAPE around 1500 J/kg this afternoon. Storms will form on the southern periphery of a mid-level speed max which will provide sufficient mid-level flow for storm organization. This was sampled by the 1818Z VWP from CYS with around 35 knots of west-southwesterly flow around 5 to 6 km. Resultant effective bulk shear values of 40 to 45 knots combined with the greater instability will support supercell structures as these storms move east. Given the steep mid-level lapse rates, and a well-mixed sub-cloud layer, large hail and damaging winds will be the primary threats. Low-level hodographs and storm mode may support a tornado threat, however, high LCLs should limit a greater tornado risk."
+    },
+    {
+      "year": 2018,
+      "number": 376,
+      "issue_utc": "2018-05-10T19:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0376.html",
+      "summary": "Thunderstorms will be capable of producing isolated downburst winds and marginally severe hail as they develop east through North Carolina this afternoon and early evening. The slight risk will be expanded farther south into central North Carolina, and trends will continue to be monitored for a possible WW.",
+      "discussion": "Storms continue developing over higher terrain and spreading east into western North Carolina with additional storms initiating along remnant outflow boundaries. This zone of thunderstorm development will continue east during the afternoon. Strong diabatic heating of the boundary layer has boosted temperatures into the 80s with dewpoints from 55-60F supporting 1000-1500 J/kg MLCAPE. Winds aloft are slightly weaker than farther north in VA, but steep 0-3 km lapse rates and modest buoyancy will support a threat for at least isolated strong to damaging wind gusts, especially as storms begin to congeal into line segments and clusters during next few hours."
+    },
+    {
+      "year": 2018,
+      "number": 377,
+      "issue_utc": "2018-05-10T20:23Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0377.html",
+      "summary": "Thunderstorms may pose a risk for mainly a few strong to locally damaging wind gusts and small to marginally severe hail this afternoon. At this time overall threat does not appear sufficient for a WW, and unless convective trends dictate otherwise, a WW for this region will probably not be needed.",
+      "discussion": "This afternoon a broken line of storms extends from east central NY through south central PA moving east southeast at 25-30 kt. Storms will continue developing along and just ahead of a cold front. The pre-frontal warm sector is only marginally unstable with surface temperatures in the 70s, near 60 F dewpoints, and weak mid-level lapse rates supporting 500-800 J/kg MLCAPE. VWP data indicate the storms are embedded within 35-40 kt effective bulk shear with mostly unidirectional wind profiles. However, slightly larger 0-1 km hodographs reside north of warm front from northeast PA into southeast NY, but the near-surface layer is less unstable in that region. Overall environment appears to support multicell storms as well as a few storms with weak mid-level updraft rotation and marginal supercell structures into early evening. Locally strong wind gusts and marginally severe hail could accompany the stronger cells, but overall coverage of severe events is expected to remain sparse."
+    },
+    {
+      "year": 2018,
+      "number": 378,
+      "issue_utc": "2018-05-10T20:53Z",
+      "topic": "Severe Thunderstorm Watch 78",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0378.html",
+      "summary": "Thunderstorms will remain capable of producing locally damaging wind gusts and marginally severe hail through early evening with greatest severe threat through 23Z expected over southeast Virginia.",
+      "discussion": "Greatest severe threat next hour or two appears to be with line of storms moving through southeast VA where some organized structures including bowing segments continue to be observed. Farther upstream convective overturning and anvil shadows have contributed to a modest reduction in instability, with latest objective analysis indicating around 800-1000 J/kg MLCAPE. Trend has been for storms over WV to weaken. However, some redevelopment might occur as the consolidated outflows advance east of the higher terrain. Other isolated storms will also continue to develop and move into the western portion of WW 78 posing an isolated severe risk, but an overall diminishing trend should occur by 23Z. ..Dial.. 05/10/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 379,
+      "issue_utc": "2018-05-10T23:10Z",
+      "topic": "Severe Thunderstorm Watch 79",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0379.html",
+      "summary": "Scattered thunderstorms continue to pose a threat for large hail and damaging winds, with upscale growth to a linear convective system expected over time.",
+      "discussion": "Scattered thunderstorms have developed across the watch area and continue to intensify as they move into richer low level moisture across portions of western/central NE. MLCAPE of 1500-2000 J/kg and effective bulk shear 40-50 kt will help to sustain the ongoing supercell structures across the area, posing mainly a large hail and damaging wind threat. The more isolated storms, particularly across northwestern/north-central NE, may pose an isolated tornado threat, as low-level winds are now backing within the decoupling boundary-layer resulting in an increase in low-level shear. With time, the scattered storms should begin to merge over the next few hours, with the primary threat transitioning to damaging winds into central portions of NE. ..Karstens.. 05/10/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 380,
+      "issue_utc": "2018-05-10T23:20Z",
+      "topic": "Severe Thunderstorm Watch 80",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0380.html",
+      "summary": "Severe threat will gradually wane over the next few hours.",
+      "discussion": "Loosely organized squall line is progressing east-southeast across ww80 at roughly 20kt. Overall trends with this activity are down with mostly sub-severe hail and gusty winds along the leading edge of convection. With loss of daytime heating it appears severe threat will continue to decrease. ..Darrow.. 05/10/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 381,
+      "issue_utc": "2018-05-10T23:36Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0381.html",
+      "summary": "Strong storms will linger across parts of the lower OH River Valley this evening.",
+      "discussion": "Weak low-level warm advection ahead of a low-amplitude short-wave trough appears mostly responsible for recent convective development along a corridor from portions of southern IL into western KY. This activity should spread southeast over the next few hours and should weaken later this evening as primary zone of isentropic ascent shifts north of this region. Until then, isolated large hail and gusty winds may accompany this strongest convection."
+    },
+    {
+      "year": 2018,
+      "number": 382,
+      "issue_utc": "2018-05-11T00:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0382.html",
+      "summary": "An isolated threat for large hail and damaging winds exists the next few hours... watch issuance unlikely.",
+      "discussion": "Isolated severe storms have developed across portions of eastern CO in response to diurnal heating and low-level upslope flow. Despite moving into an environment with MLCAPE of 1500-2000 J/kg and effective bulk shear of 40-50 kt, a strong capping inversion should help limit the overall coverage, and eventually, intensity of these storms. Thus, an isolated threat for large hail and damaging winds will remain possible for the next few hours, however, issuance of a severe thunderstorm watch is not currently expected."
+    },
+    {
+      "year": 2018,
+      "number": 383,
+      "issue_utc": "2018-05-11T00:39Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0383.html",
+      "summary": "A new watch will be needed soon... damaging winds becoming the primary threat.",
+      "discussion": "Scattered thunderstorms currently located in west-central NE are beginning to merge into a linear convective system. Surface observations across south-central NE show dew points remaining in the mid 50s F with southeasterly surface winds and an increasing low-level jet per the UEX VAD. In addition, MLCAPE ranges from 1000-1500 J/kg with effective bulk shear of 35-40 kt ahead of the storms. Thus, the ongoing storms are expected to remain organized across this area, with damaging winds becoming the primary threat, requiring a new watch."
+    },
+    {
+      "year": 2018,
+      "number": 384,
+      "issue_utc": "2018-05-11T04:16Z",
+      "topic": "Severe Thunderstorm Watch 81",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0384.html",
+      "summary": "Severe risk will spread across southern/eastern portions of ww81.",
+      "discussion": "MCS has evolved over central NE tonight along the nose of LLJ that is expected to veer after midnight. Convection has gradually organized as it spread off the higher Plains region and becomes more focused along a corridor of enhanced low-level warm advection. While the majority of this activity is likely rooted above the boundary layer, flanking updrafts across Dawson/Lincoln Counties appears to be ingesting more buoyant parcels. Severe wind gusts have been reported on latest surface observations from KBBW/KVTN and there is some concern this may continue for the next few hours along/just north of wind shift. Hail may also accompany this activity as it spreads across eastern/southern portions of ww81. ..Darrow.. 05/11/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 385,
+      "issue_utc": "2018-05-11T06:13Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0385.html",
+      "summary": "Trends are being monitored for a possible downstream watch over portions of southeastern NE.",
+      "discussion": "Organized MCS continues to progress across at around 35-40 kt. Severe wind gusts have been measured over the past hours, the strongest of which was 78 mph in Kearney country. Strong to severe winds gusts are expected to continue for at least the next hour or so as the MCS approaches the edge of Severe Thunderstorm Watch 81. Echo tops have decreased slightly over the past 15 mins and the overall thermodynamic environment does not appear favorable for continued persistence of the current MCS intensity. KUEX radar imagery also clearly shows the outflow out ahead of the stronger convection. That being said, the well-organized nature of the system coupled with continued warm-air advection across the frontal zone draped across region may compensate for the marginal thermodynamics. Additionally, stationary front across the region will likely enhance the potential for strong to severe gusts in its vicinity. Trends will be monitored closely over the next hour and a downstream watch may be needed over portions of southeastern NE if severe gusts persist."
+    },
+    {
+      "year": 2018,
+      "number": 386,
+      "issue_utc": "2018-05-11T09:24Z",
+      "topic": "Severe Thunderstorm Watch 82",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0386.html",
+      "summary": "Severe threat continues to gradually diminish across the region.",
+      "discussion": "Initially discrete storms across south-central NE which prompted a local extension of Severe Thunderstorm Watch 81 have gradually lost intensity as they moved eastward/northeastward into the airmass which has been overturned by the earlier MCS. These storms are expected to continue this downward trend, although cell mergers may briefly result in updraft intensification. Farther east (across southeast NE), line of storms that developed via warm-air advection over the MCS outflow continue to track northeastward at 40-45 kt. Like the storms farther west, echo tops with this line of storms have gradually come down as the thermodynamic environment becomes less favorable. Additionally, despite its fast forward motion and linear structure, the elevated nature of the line is likely limiting damaging wind gusts at the surface. Given these factors, it is unlikely that Severe Thunderstorm Watches 81 and 82 will need to be extended past their current expiration times of 10Z. ..Mosier.. 05/11/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

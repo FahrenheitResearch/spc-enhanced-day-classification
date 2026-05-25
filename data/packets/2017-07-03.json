@@ -1,0 +1,157 @@
+{
+  "convective_day": "2017-07-03",
+  "valid_start": "2017-07-03T12:00Z",
+  "valid_end": "2017-07-04T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-07-03",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-07-03T16:30Z",
+      "valid_end": "2017-07-04T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170703_1630.html",
+      "summary": "Widely scattered severe thunderstorms are expected across portions of the central and southern Plains, especially over portions of southern Kansas into Oklahoma. Isolated marginally severe storms are possible across the Ohio Valley into the northern Middle Atlantic, from Arkansas into Middle Tennessee, and over parts of the Carolinas.",
+      "sections": [
+        {
+          "title": "KS/OK",
+          "text": "Morning water vapor loop shows a convectively-aided MCV over extreme southwest KS. This feature is embedded in northwest flow aloft, and will move into OK this afternoon and evening. Ahead of the system, southeasterly low level winds will help to maintain 60s and lower 70s dewpoints along a corridor from northwest into central OK. Forecast soundings also show steep mid level lapse rates and the potential for strong afternoon CAPE. Current indications are that thunderstorms will intensify this afternoon near the MCV and move/build southeastward. Strong consensus exists among 12z CAM solutions for a bowing complex of storms to spread across the ENH region this evening, posing a risk of damaging winds and some hail."
+        },
+        {
+          "title": "Eastern TX Panhandle",
+          "text": "Most model solutions indicate that the initial storms over northwest OK will build southwestward along the effective surface dryline. It is unclear how much augmentation to mid level winds will occur on the southern edge of the MVC over KS/OK. However, if sufficient flow develops, a few supercells will be possible with a risk of large hail and damaging winds."
+        },
+        {
+          "title": "IN to PA",
+          "text": "Scattered thunderstorms are expected to form along a cold front sagging into this region. Deep layer shear is sufficient for a few organized storms. However, mid level lapse rates are not particularly steep, low level winds are weak, and CAPE is not forecast to become very strong. The strongest storms may produce some hail or gusty winds, but the overall threat appears marginal."
+        },
+        {
+          "title": "MS/TN/AL",
+          "text": "A remnant MCV over AR will continue to track slowly eastward today across western TN. Scattered thunderstorms will continue to occur ahead of this system, with an increase in intensity and coverage later this afternoon. Ample CAPE and forcing associated with the MCV may promote a risk of a few severe storms capable of damaging wind gusts."
+        },
+        {
+          "title": "Carolinas",
+          "text": "Strong instability is forecast to develop over parts of SC and southern/eastern NC this afternoon, resulting is a corridor of scattered thunderstorm development. Weak but sufficient cyclonic flow aloft coupled with a decaying MCV over GA may aid in the development a isolated severe storms capable of gusty/damaging wind gusts. ..Hart/Smith.. 07/03/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-07-03",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-07-03T20:00Z",
+      "valid_end": "2017-07-04T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170703_2000.html",
+      "summary": "Widely scattered severe thunderstorms are expected across portions of the central and southern Plains, especially over portions of southern Kansas into Oklahoma. Isolated marginally severe storms are possible across the Ohio Valley into the northern Middle Atlantic, from northern Mississippi into Middle Tennessee, and over parts of the Carolinas.",
+      "sections": [
+        {
+          "title": "20Z Outlook Update",
+          "text": "Portions of the Marginal, Slight, and Enhanced risk areas were expanded southward for this update based on latest high-resolution guidance, which depicts an appreciable wind risk developing in these areas after 00Z as a linear complex organizes in western Oklahoma. Latest observations/objective analyses indicate that although deep shear is marginal, strongly unstable thermodynamic profiles are in place, further supporting the wind risk. The MCS should approach western Arkansas and portions of north-central Texas late tonight, and marginal wind probabilities have been expanded slightly to account for a continued (although lessened) wind risk. In Iowa, eastern Nebraska, and northeastern Kansas, ongoing storms will pose a marginal hail/wind risk over the next several hours given moderate to strong instability in those areas. Shear profiles are fairly weak, however, mitigating any widespread threat. Farther east, the Marginal risk area across the Mid-South has been re-configured to account for eastward progression of an MCS migrating through that region. Storms in the region will pose an isolated damaging wind threat through the early evening, before weakening after dark due to stabili"
+        },
+        {
+          "title": "KS/OK",
+          "text": "Morning water vapor loop shows a convectively-aided MCV over extreme southwest KS. This feature is embedded in northwest flow aloft, and will move into OK this afternoon and evening. Ahead of the system, southeasterly low level winds will help to maintain 60s and lower 70s dewpoints along a corridor from northwest into central OK. Forecast soundings also show steep mid level lapse rates and the potential for strong afternoon CAPE. Current indications are that thunderstorms will intensify this afternoon near the MCV and move/build southeastward. Strong consensus exists among 12z CAM solutions for a bowing complex of storms to spread across the ENH region this evening, posing a risk of damaging winds and some hail."
+        },
+        {
+          "title": "Eastern TX Panhandle",
+          "text": "Most model solutions indicate that the initial storms over northwest OK will build southwestward along the effective surface dryline. It is unclear how much augmentation to mid level winds will occur on the southern edge of the MVC over KS/OK. However, if sufficient flow develops, a few supercells will be possible with a risk of large hail and damaging winds."
+        },
+        {
+          "title": "IN to PA",
+          "text": "Scattered thunderstorms are expected to form along a cold front sagging into this region. Deep layer shear is sufficient for a few organized storms. However, mid level lapse rates are not particularly steep, low level winds are weak, and CAPE is not forecast to become very strong. The strongest storms may produce some hail or gusty winds, but the overall threat appears marginal."
+        },
+        {
+          "title": "MS/TN/AL",
+          "text": "A remnant MCV over AR will continue to track slowly eastward today across western TN. Scattered thunderstorms will continue to occur ahead of this system, with an increase in intensity and coverage later this afternoon. Ample CAPE and forcing associated with the MCV may promote a risk of a few severe storms capable of damaging wind gusts."
+        },
+        {
+          "title": "Carolinas",
+          "text": "Strong instability is forecast to develop over parts of SC and southern/eastern NC this afternoon, resulting is a corridor of scattered thunderstorm development. Weak but sufficient cyclonic flow aloft coupled with a decaying MCV over GA may aid in the development a isolated severe storms capable of gusty/damaging wind gusts."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-07-04",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-07-04T01:00Z",
+      "valid_end": "2017-07-04T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170704_0100.html",
+      "summary": "Thunderstorm complex will spread across the southern Plains tonight. Strong winds and hail can be expected with this activity.",
+      "sections": [
+        {
+          "title": "Southern Plains",
+          "text": "Early-evening satellite imagery/VWP suggest a notable short-wave trough is progressing across KS/eastern TX Panhandle. Significant amount of deep convection has developed ahead of this feature and an MCS is quickly evolving over northwest OK/eastern TX Panhandle. OK mesonet data suggests a well-defined cold pool has formed beneath an expanding precip shield and this should aid southeast movement across a large portion of OK into the early morning hours. 00z sounding from OUN exhibits MUCAPE in excess of 5000 J/kg and sufficient mid-level drying to sustain strong downdrafts. For these reasons have expanded severe probs a bit farther east to include a larger portion of eastern OK in the SLGT risk. Farther west, high plains convection has organized into a squall line across the TX South Plains. As deep-layer flow veers across this region this convection should propagate into northwest TX where moisture/instability remain favorable, given observed shear, for the maintenance of an organized MCS. Strong winds are likely with this activity along with some hail threat. ..Darrow.. 07/04/2017"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 1222,
+      "issue_utc": "2017-07-03T19:53Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1222.html",
+      "summary": "Severe storms capable of damaging winds and hail are expected to form by 21-22Z across the Oklahoma Panhandle region, spreading southeastward through evening.",
+      "discussion": "Strong heating continues across the TX/OK panhandles into western OK, where low-level moisture continues to recover. Visible imagery shows CU fields increasing as well, with surface convergence maximized across the eastern OK panhandle. Continued heating should result in storms forming here by before 22Z. Dewpoints in the 70s currently extend from north central OK southward into TX, with a relative dry area over southwest OK with mid 60s. However, increasingly southerly winds through evening should help all areas to recover. The result will be MLCAPE in excess of 3000 J/kg, with steep midlevel lapse rates in place. Flow aloft is weak, but sufficient for an MCS to form and propagate southeastward through evening with damaging wind threat. Large hail is likely mainly over northwestern area before cells merge into an MCS."
+    },
+    {
+      "year": 2017,
+      "number": 1223,
+      "issue_utc": "2017-07-03T22:02Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1223.html",
+      "summary": "Isolated strong to severe storms along the NM/TX border should intensify and increase in coverage as they move east across the TX Panhandle. An additional severe thunderstorm watch to the west of WW 392 is being considered.",
+      "discussion": "Widely scattered storms are ongoing along the NM/TX border. This activity will pose a risk for isolated severe wind and hail in the near-term given the steep low/mid-level lapse rate environment characterized by 35 to 45 degree surface temperature/dew point spreads. Farther east, richer surface dew points /middle 60s/ are prevalent along the I-27 corridor. It appears plausible that as these storms shift east amid 20-30 kt mid-level westerlies per FDX/AMA VWP data, this activity should intensify. Recent NCEP and ESRL HRRR runs also indicate potential for merging with the trailing portion of the currently separated severe MCS near the eastern TX panhandle/northwest OK border, which may further enhance the severe wind threat later this evening towards the Childress vicinity."
+    },
+    {
+      "year": 2017,
+      "number": 1224,
+      "issue_utc": "2017-07-03T22:49Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1224.html",
+      "summary": "Strong to severe storms will may produce a few instances of severe hail and damaging wind gusts this evening. However, the threat should be sufficiently limited in space and time to preclude watch issuance.",
+      "discussion": "In association with a weak impulse crossing the high Plains, thunderstorms have developed along a lee trough late this afternoon. Within a regime of southeasterly upslope flow, storms are gradually progressing south/southeast in an environment characterized by approximately 1500 J/kg of MLCAPE. Deep-layer flow remains relatively modest, such that storm propagation will likely be driven by merging outflows and new updrafts focused within corridors of higher buoyancy. A deeply mixed boundary layer will encourage a few strong/severe gusts, while some directional shear with height may support enough updraft organization for brief severe hail production. Nonetheless, increasing convective inhibition with eastward extent (as well as through time this evening) suggests storms will be limited in both space and time, such that a watch should not be needed."
+    },
+    {
+      "year": 2017,
+      "number": 1225,
+      "issue_utc": "2017-07-04T00:26Z",
+      "topic": "Severe Thunderstorm Watch 392",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1225.html",
+      "summary": "Strong to severe wind gusts remain likely with an MCS moving southeast from northwest OK and the eastern TX Panhandle, along with a separate cluster evolving east across northwest TX.",
+      "discussion": "Strong to severe wind gusts of 45-60 kt have been common over the past couple hours with an MCS centered over northwest OK/eastern TX Panhandle and an additional cluster near the I-27 corridor in northwest TX. With 20-25 kt low-level inflow per area VWP data that should increase slightly through the evening, strong to embedded severe wind gusts should persist for the next few hours amid the steep lapse rate (7.5 to 8.5 degree C/km from 700-500 mb) environment sampled by the 00Z AMA and OUN soundings. The MCS and cluster will merge over northwest TX and likely continue east-southeast along towards the Red River in OK. Prior to this occurring, isolated severe hail is most probable within this region. ..Grams.. 07/04/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1226,
+      "issue_utc": "2017-07-04T01:23Z",
+      "topic": "Severe Thunderstorm Watch 392",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1226.html",
+      "summary": "Downstream of WW 392, an additional severe thunderstorm watch will likely be issued as an MCS shifts southeast from central OK.",
+      "discussion": "00Z Lamont and Norman soundings sampled large buoyancy with MLCAPE of 3000-3500 J/kg ahead of a southeastward moving MCS across north-central to west-central OK. With an MCV near Enid and composite outflow surging southeast amid modest westerly upper-level flow, organized storm structures should persist the rest of the evening. A cooler boundary-layer relative to farther west within WW 392 may limit widespread severe gusts in eastern OK. But the setup should yield a risk for strong to isolated severe wind gusts, along with embedded severe hail."
+    },
+    {
+      "year": 2017,
+      "number": 1227,
+      "issue_utc": "2017-07-04T03:30Z",
+      "topic": "Severe Thunderstorm Watch 393",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1227.html",
+      "summary": "Widespread strong to isolated severe wind gusts should persist with a QLCS shifting east-southeast. Downstream WW issuance into parts of north-central TX is possible, but the overall threat may gradually diminish across the Red River.",
+      "discussion": "A QLCS extended from Osage to Jackson counties in OK with 40-55 kt wind gusts common along it. Surging portions of the line have forward movement around 35 kt. MCV with this line was centered near Stillwater and has generally tracked east-southeast. With the line having passed through the largest plume of instability, coverage of severe wind gusts are likely near-peak. With the nocturnal increase MLCIN being more pronounced across parts of north and north-central TX, a gradually diminish wind threat may occur here as outflow surges across the Red River. Farther northeast, the organized nature of the MCV will probably result in a longer-lasting wind threat persisting in eastern OK. ..Grams.. 07/04/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1228,
+      "issue_utc": "2017-07-04T05:51Z",
+      "topic": "Severe Thunderstorm Watch 394",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1228.html",
+      "summary": "An isolated wind damage threat is expected to decrease over the next couple of hours as a convective line moves eastward into western Arkansas. Weather watch issuance should not be needed to the east of WW 394.",
+      "discussion": "The latest radar imagery shows a linear MCS moving through eastern Oklahoma. Although satellite shows warming tops with the linear MCS, the convective line is being supported by a southern Plains shortwave trough evident on water-vapor imagery. Surface analysis shows a moist airmass ahead of the line with surface dewpoints in the lower to mid 70s F. This is resulting in moderate instability across far eastern Oklahoma and western Arkansas. This should enable the line to remain intact over the next couple of hours. However, the WSR-88D VWPs at Fort Smith, AR and Little Rock, AR suggest that deep-layer shear weakens with eastward extent. This along with dropping surface temperatures should result in a gradual weakening of the MCS over the next hour or two."
+    }
+  ]
+}

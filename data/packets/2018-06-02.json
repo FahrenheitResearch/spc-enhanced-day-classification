@@ -1,0 +1,130 @@
+{
+  "convective_day": "2018-06-02",
+  "valid_start": "2018-06-02T12:00Z",
+  "valid_end": "2018-06-03T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2018-06-02",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-06-02T20:00Z",
+      "valid_end": "2018-06-03T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180602_2000.html",
+      "summary": "Severe thunderstorms are expected across the Ozark Plateau and middle to lower Mississippi River Valley vicinity late this afternoon and early evening, with additional strong to severe thunderstorms over parts of the Southeast States.",
+      "sections": [
+        {
+          "title": "20Z Outlook Update",
+          "text": "Changes to categorical and probabilistic lines have been made, mostly to account for current trends concerning destabilization and ongoing convective development. Primary severe weather potential still appears centered across parts of the middle to lower Mississippi Valley and Ozark Plateau vicinity, largely driven by the presence of moderate to strong potential instability. Thermodynamic profiles appear generally characterized by steep lower/mid tropospheric lapse rates and mixed layer CAPE in excess of 3000 J/kg, ahead of significant low-level cooling/drying associated with the significant short wave trough advancing across the northern Plains into upper Mississippi Valley. A band of subtle mid-level cooling and weakening of inhibition has allowed for initiation of storms across the northwestern Arkansas vicinity, with a corridor of maximum instability present across much of Arkansas and adjacent southern Missouri. This appears mostly south of the stronger mid-level westerlies, but deep layer shear appears at least modest in strength and sufficient to support one or more organizing storm clusters. Activity should tend to advect eastward/southeastward, with a propagational compone"
+        },
+        {
+          "title": "Ozarks/Mid-South/ArkLaTex/Middle Mississippi Valley",
+          "text": "The remnants of a MCS, that originated in Nebraska yesterday, continues to generally weaken as it moves southeastward across far southeast Missouri as of late morning. A belt of modestly enhanced mid-level westerly winds appears to accompany this MCS per regional WSR-88D VWP data and this should continue to spread east-southeastward across the Mid-South as a modest flattening of the nearby upper ridge occurs. The potential exists for regenerative storm development and intensification this afternoon near the southeastward-moving front and along/south of remnant outflow and/or different heating along the southern edge of the lingering cloud canopy. One or more southeastward-moving clusters should evolve within an increasing unstable environment this afternoon, with parts of Arkansas and the neighboring Mid-South/middle Mississippi Valley currently appearing to have the relatively greatest severe potential. Damaging winds should the most common hazard."
+        },
+        {
+          "title": "Southeast States including parts of AL/GA/SC into North FL",
+          "text": "Surface-based inhibition continues to quickly erode within a very moist air mass as ample insolation/heating is occurring to the south of some early-day storms. Relatively steep lapse rates also exist across the region with the 12Z FFC observed sounding sampling semi-cool mid-level temperatures (-10C at 500 mb). Water vapor imagery at midday features a southeastward-pivoting mid-level disturbance across the region that is accompanied by a belt of modestly enhanced mid/high-level flow, as especially sampled by various WSR-88Ds from eastern Alabama into Georgia. This flow enhancement will contribute to multicellular storm organization and the potential for south/southeastward-moving clusters of convection through the afternoon and early evening. Damaging winds will be the most common hazard but isolated instances of hail are possible as well. For additional short-term details, see Mesoscale Discussion 624."
+        },
+        {
+          "title": "Southwest TX",
+          "text": "Although there are uncertainties related to the strength of capping, it appears there may be some possibility for late afternoon/early evening thunderstorm development along the southward-shifting cold front across areas such as the Edwards Plateau. Should such development occur, a hot/deeply mixed boundary could promote a couple of stronger storms with wind gusts."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2018,
+      "number": 623,
+      "issue_utc": "2018-06-02T14:12Z",
+      "topic": "Severe Thunderstorm Watch 149",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0623.html",
+      "summary": "Limited severe risk persists across parts of central and southern Missouri within WW 149. Limited risk for hail/wind also appears evident across eastern Missouri and into southwest Illinois, though new for a new/downstream watch appears low at this time.",
+      "discussion": "Latest radar loop shows a small cluster of stronger convection crossing the Hickory/Polk county vicinity of southwest Missouri, near the advancing cold front. With ample instability ahead of this cluster, some risk for a locally damaging wind gust and/or marginal hail persists. Farther east, a semi-organized band of storms is moving east-southeast across eastern Missouri, roughly along a warm frontal zone that extends east-southeast into southern Illinois. With an axis of moist air along the boundary, and some early heating that has begun to boost CAPE values, this cluster of storms may remain semi-organized, and persist for the next few hours. Deep-layer shear remains relatively weak -- which should limit severe risk to some degree, and thus at this time a WW does not appear to be required. However, we will continue to monitor destabilization along the warm front and associated convective trends this morning. ..Goss.. 06/02/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 624,
+      "issue_utc": "2018-06-02T15:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0624.html",
+      "summary": "Scattered thunderstorms will continue to expand in coverage and intensify through the afternoon. Wind damage and occasional hail are the main threats. A WW issuance is being considered.",
+      "discussion": "Recent radar mosaic and satellite imagery indicate increasing convective coverage and intensity - particularly near and south of CSG. Objective analyses across this region indicate an uncapped and modestly sheared airmass, with surface-based CAPE values exceeding exceeding 3000 J/kg. With time, gradual upscale growth of the cluster near CSG is expected, along with continue development across the region ahead of this cluster. Forward-propagating bows and isolated cells will be capable of both wind damage and isolated hail instances as storms migrate south-southeastward. Given the aforementioned atmospheric factors, a WW is being contemplated for portions of the region and may be needed around 17Z or so."
+    },
+    {
+      "year": 2018,
+      "number": 625,
+      "issue_utc": "2018-06-02T18:33Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0625.html",
+      "summary": "Severe risk is expected to gradually increase this afternoon in conjunction with afternoon heating. A severe weather watch my be required in time.",
+      "discussion": "Latest radar loop shows a weak/rather low-topped band of convection along what appears to be a pre-frontal wind-shift line, from south central Missouri southwest into eastern Oklahoma to the south of stabilized air over central Missouri as a result of overnight convection. Meanwhile, the airmass ahead of this current convective activity continues to heat/destabilize, and is nearing convective temperatures suggested by morning RAOBs, that is necessary to overcome substantial 700 mb capping. Above the cap, steep lapse rates were observed -- sufficient to support moderate to high surface-based CAPE values. Though deep-layer ascent appears to be lacking across the area, degree of instability and the eroding cap should become sufficient to support an eventual convective increase. Modest but sufficient shear -- per the degree of CAPE -- suggests risk for some eventual organization/possible upscale growth, which is hinted at in various CAM runs showing various iterations of a linear/bowing segment eventually evolving. While timing remains somewhat uncertain, risk may increase over the next few hours to the degree that WW issuance will need to be considered."
+    },
+    {
+      "year": 2018,
+      "number": 626,
+      "issue_utc": "2018-06-02T20:25Z",
+      "topic": "Severe Thunderstorm Watch 150",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0626.html",
+      "summary": "The severe threat continues across central and eastern portions of WW 150 - primarily in southeastern Georgia and northern Florida.",
+      "discussion": "Scattered to numerous thunderstorms continue to propagate eastward/southeastward across the discussion area. One prominent linear segment just moved through VAD, resulting in a 46-knot thunderstorm wind gust. This linear segment extends southwestward toward the Florida Big Bend and will continue to pose a risk of wind damage/severe wind gusts as it migrates through north Florida where a strongly unstable (3000-4000 J/kg MUCAPE) and modestly sheared airmass exists. Other strong to severe, \"pulse-type\" thunderstorms were located across southeastern Georgia along an axis from near VDI to near SAV. The cold pools responsible for thunderstorm propagation in these areas were a bit less mature compared to areas south, resulting in a more sporadic wind damage/gust threat in these areas. Farther west, convection was migrating southeastward into portions of the Florida Panhandle and southeastern Alabama that were previously undisturbed from an earlier convective cluster now located east of this area. An isolated severe threat persists with this activity, although the storms appear to be less-organized compared to the convective cluster to the east. In sum, areas of southern Georgia that have previously been convectively overturned/stabilized may be removed from WW 150 well before the originally scheduled expiration time (00Z - See latest Watch Status guidance for more information on stabilized areas and recommended clearing). Outside of these areas, a considerable wind risk will remain, and a few 1\" hailstones are possible near stronger cores. Some local extensions of WW 150 into northern Florida (Dixie, Gilchrest, and Alachua) may be needed in the next hour or so as well. ..Cook.. 06/02/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 627,
+      "issue_utc": "2018-06-02T20:42Z",
+      "topic": "Severe Thunderstorm Watch 151",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0627.html",
+      "summary": "Severe risk continues across WW 151.",
+      "discussion": "Latest radar loop continues to depict convection that remains somewhat slow to organize/intensify thus far, though a few severe cells have been observed -- including a report of golf-ball-sized hail from an earlier storm in Newton/Boone counties. Having said that, continued heating/destabilization across the area this afternoon will support potential for additional convective development. This combined with some increase in flow expected atop the area suggests a continuation of wind/hail risk in/near the WW area over the next several hours. ..Goss.. 06/02/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 628,
+      "issue_utc": "2018-06-02T23:31Z",
+      "topic": "Severe Thunderstorm Watch 151",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0628.html",
+      "summary": "Strong to severe storms will continue to develop southeast through southeast Missouri and northern through central Arkansas during the next couple hours. While a strong storm or two are moving into the extreme southern part of St Louis county warning area, the areal coverage of of any severe storms should remain too limited for any additional WW issuance.",
+      "discussion": "An expansive outflow boundary extends from northern MS through northeast AR into southeast MO where it intersects a cold front that stretches farther southwest into northwest AR. A reservoir of strong instability (2500-3000 J/kg MLCAPE) resides in warm sector across southern MO into AR. Storms should continue developing southeast along the cold front as well as in association with pre-frontal outflow boundaries. While low-level hodographs are rather small, veering winds through 0-3 km beneath 30-35 kt flow aloft is resulting in effective bulk shear up to 40 kt, sufficient for some supercell structure. However, tendency has been for some of the storms to congeal into clusters, especially over southern MO near the outflow boundary/cold front intersection. While storms will likely persist and develop southeast next 2-3 hours, posing a risk for mainly large hail and damaging wind, weak forcing aloft, lack of a low-level jet and increasing convective inhibition with onset of nocturnal cooling lowers confidence in a longer-term, more robust severe threat. ..Dial.. 06/02/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 629,
+      "issue_utc": "2018-06-02T23:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0629.html",
+      "summary": "A very isolated large hail and strong to locally damaging wind threat may exist for the next couple of hours. Watch issuance is not expected.",
+      "discussion": "It appears that weak low-level convergence along a remnant outflow boundary and modest low-level warm air advection is responsible for a recent uptick in convection across parts of central/eastern IL. A warm and moist low-level airmass across this region is contributing to MLCAPE around 1000-2000 J/kg per 23Z RAP mesoanalysis. Stronger mid-level westerly flow associated with an upper trough over the Upper Midwest and upper MS Valley remains generally displaced to the west of ongoing thunderstorm activity. Still, enough veering and modest strengthening of the low/mid-level flow exists in RAP forecast soundings to support around 30-35 kt of effective bulk shear. Several recent updrafts across eastern IL have shown robust vertical development, and very isolated large hail and strong to locally damaging winds will be possible for the next couple of hours. The loss of daytime heating later this evening will reduce instability and lessen the already marginal severe threat. Therefore, watch issuance is not expected."
+    },
+    {
+      "year": 2018,
+      "number": 630,
+      "issue_utc": "2018-06-03T02:05Z",
+      "topic": "Severe Thunderstorm Watch 151",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0630.html",
+      "summary": "Severe thunderstorm watch 151 is scheduled to expire at 03Z. Widely scattered storms over Arkansas will continue southeast during the next couple hours. Overall trend should be for storms to gradually weaken. However, a couple of storms could pose some risk for isolated hail and strong to damaging wind during the next couple of hours. Another WW issuance is not expected, but a portion of WW 151 could be locally extended in time for an hour or two beyond 03Z if needed.",
+      "discussion": "Widely scattered storms continue southeast through AR this evening. Overall trend has been for storms to become less organized. The 00Z RAOB from Little Rock showed an inversion between 850-700 mb associated with warm air at the base of an elevated mixed layer. This profile should support a substantial increase in convective inhibition with respect to surface-based parcels as the boundary layer cools. This in conjunction with weak forcing aloft and lack of a low-level jet suggest storms should continue a longer-term weakening trend, though a modest severe threat may persist during the next couple of hours especially with storm cluster moving through northeast AR. ..Dial.. 06/03/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 631,
+      "issue_utc": "2018-06-03T06:32Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0631.html",
+      "summary": "Organized cluster of thunderstorms across far eastern Arkansas and northern Mississippi will continue to quickly move south-southeast. Strong, gusty winds will be possible with this cluster for the next few hours.",
+      "discussion": "Long-lived thunderstorm cluster, with history of producing wind damage, is moving quickly south-southeast across far eastern Arkansas and northwest Mississippi. Radar inspection of this thunderstorm cluster suggests it has developed internal structure/organization, including rear-inflow jet, supportive potentially strong surface winds for at least the next few hours. Extrapolation of current storm motions/trends suggests this thunderstorm complex will arrive in the I-20 corridor in the next 2-3 hours. Additionally, thunderstorm intensity has increased with a thunderstorm/thunderstorm cluster across northeast Mississippi. 00Z JAN sounding, along with recent mesoanalysis data, suggests effective bulk shear around 30 knots and a sufficient CAPE reservoir to maintain ongoing thunderstorms. Biggest question regarding severe potential centers around the thunderstorm clusters' ability to bring the strong winds downward through an increasingly stable nocturnal boundary layer. An increasingly hostile low-level environment (such as decreasing low-level lapse rates, increasing convective inhibition) should decrease the ability to mix down strong winds. However, the ability of current thunderstorms to produce wind damage suggests the ability to overcome this detriment and a severe thunderstorm watch is currently being considered."
+    },
+    {
+      "year": 2018,
+      "number": 632,
+      "issue_utc": "2018-06-03T08:54Z",
+      "topic": "Severe Thunderstorm Watch 152",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0632.html",
+      "summary": "Long-lived thunderstorm cluster with a history of damaging winds has dissipated. Although additional isolated thunderstorm may develop and briefly produce gusty winds, the overall threat for organized severe thunderstorms has diminished greatly.",
+      "discussion": "The long-lived thunderstorm cluster that initially originated in southeast Missouri has dissipated. At the same time, briefly severe thunderstorms across northeast Mississippi have weakened significantly. Continued decreasing of the low-level lapse rates along with increasing convective inhibition likely contributed to both of these scenarios. Additional, isolated thunderstorms may develop across and close to the watch area. Despite increasing convective inhibition, most-unstable CAPE values locally in excess of 2000 J/kg will support the occasional strong/intense updraft. Small hail and gusty thunderstorm winds will be possible. Given overall convective trends, decreasing effective bulk shear, and the loss of storms-cale and mesoscale environmental augmentation from long-lived thunderstorm clusters, widespread, organized severe potential will remain low. Thus, portions, if not all, of WW 151 may need to be canceled early. ..Marsh.. 06/03/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

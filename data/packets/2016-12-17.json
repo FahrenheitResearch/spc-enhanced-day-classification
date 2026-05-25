@@ -1,0 +1,105 @@
+{
+  "convective_day": "2016-12-17",
+  "valid_start": "2016-12-17T12:00Z",
+  "valid_end": "2016-12-18T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2016-12-17",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2016-12-17T20:00Z",
+      "valid_end": "2016-12-18T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2016/day1otlk_20161217_2000.html",
+      "summary": "Severe storms are expected to develop late this afternoon into tonight across the ArkLaMiss/Mid South region east northeastward into the central Appalachians. Damaging wind gusts will be the primary threat, but a couple of tornadoes and isolated large hail will also be possible this evening.",
+      "sections": [
+        {
+          "title": "20Z outlook update",
+          "text": "The primary surface frontal low already appears to be centered over the mid Ohio Valley, with little substantive deepening expected until late tonight across the upper Ohio Valley through the lee of the lower Great Lakes region, as stronger mid-level height falls (associated with a pair of phasing short wave perturbations) consolidate over the Great Lakes region. However, in response to the approach of southern stream impulse (now accelerating east northeast of the southern Rockies), the latest Rapid Refresh continues to indicate considerable further strengthening of southwesterly 850 mb flow (60-70+ kt) in a belt northeast of the Mississippi Delta region into middle Tennessee by around 18/00Z. Further intensification of this jet appears possible through the evening while it noses east northeastward through the western slopes of the central Appalachians and adjacent upper Ohio Valley. This appears likely to coincide with a corridor of boundary layer moistening and associated destabilization. Mixed layer CAPE on the order of 500-1000+ J/kg now appears present on the northeastern edge of the plume of richer boundary layer moisture return, across northeastern Arkansas into western Ten"
+        },
+        {
+          "title": "Mid South and Lower Mississippi Valley",
+          "text": "A progressive shortwave trough is noted in water vapor imagery moving across NM into the Southern Plains. This feature will strengthen southerly low-level winds over the Gulf Coast Region and TN/OH Valleys today, leading to rapid warm/moist advection. Surface moisture is streaming into the region, with dewpoints now in the mid 50s to mid 60s throughout the slight risk area. Present indications are that scattered thunderstorms will form along/ahead of an approaching cold front by late afternoon - mainly from western KY into eastern AR, then spreading into west TN and northern MS. Visible satellite imagery suggests a few breaks in the clouds in this region, which may help to weaken the cap and lead to a few discrete cells for a few hours before congealing into a more organized squall line after dark. Forecast soundings in this region suggest the potential for supercells capable of damaging winds, hail, and isolated tornadoes. Even after dark, the intense low-level shear may be sufficient for an occasional QLCS tornado spin-up, but damaging winds should become the dominant threat. The slight risk area has been extended northward into southern KY for this update to reflect 12z model so"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2016-12-18",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2016-12-18T01:00Z",
+      "valid_end": "2016-12-18T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2016/day1otlk_20161218_0100.html",
+      "summary": "Severe storms will continue through tonight across the ArkLaMiss/Mid South region east northeastward into the central Appalachians. Damaging wind gusts will be the primary threat, but a couple of tornadoes and isolated large hail will also be possible. At 00Z, the strong cold front extended from central TX northeast into western KY, with a weak surface low analyzed near the MO Bootheel. Strong/severe thunderstorms were in progress just ahead of the front over eastern/southern AR northeast into western portions of TN/KY. As an upper-level impulse over the southern Plains lifts northeast this evening while phasing with a northern-branch impulse, an increase in large-scale ascent should occur from the TN/OH Valley region into the Great Lakes. Reference MCD 1892 for short-term thinking/convective trends across Tornado Watch 517 and adjacent areas. Farther southwest, thunderstorms should continue to develop near the cold front, with some potential for more discrete pre-frontal storms later this evening across LA. Refer to MCD 1893 for anticipated convective trends in this area. Changes with this outlook include trimming the northern portion of the ENH risk and adjusting risk areas and a",
+      "sections": []
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2016,
+      "number": 1890,
+      "issue_utc": "2016-12-17T19:00Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2016/md1890.html",
+      "summary": "A tornado watch will likely be needed as buoyancy continues to increase and sustained deep/convective initiation occurs over the next few hours.",
+      "discussion": "Visible-satellite imagery shows cloud breaks early this afternoon across the AR/TN portion of the MS valley northeastward into western KY. Temperatures have warmed into the lower to middle 70s deg F over the MS valley and are warming into the middle 60s over the Kentuckiana region. Along with surface heating, increasing low-level moisture is contributing to weak destabilization as SBCAPE and MLCAPE range from 1250 J/kg near Memphis to around 250 J/kg near Louisville. Additional destabilization is expected over the next couple of hours near the Louisville area. Very strong deep-layer wind profiles will support storm organization/rotation once developing updrafts can become strong enough to become sustained. Area WSR-88D VAD data show 0-1 km SRH in the 200-400 m2/s2 range. Given weak capping and the continued warm-air-advection regime aiding in moistening/lifting parcels to their LFC, gradual storm development and intensification are expected. The magnitude of low-level shear will conditionally support an appreciable risk for low-level mesocyclones capable perhaps of a few tornadoes, in addition to isolated damaging wind and marginally severe hail with the stronger storms."
+    },
+    {
+      "year": 2016,
+      "number": 1892,
+      "issue_utc": "2016-12-17T23:45Z",
+      "topic": "Tornado Watch 517",
+      "url": "https://www.spc.noaa.gov/products/md/2016/md1892.html",
+      "summary": "The risk for damaging winds, a few tornadoes, and isolated large hail continues across Tornado Watch 517. The tornado threat will be greatest with any semi-discrete cells ahead of the cold front. Downstream watch issuance to the northeast is not currently anticipated.",
+      "discussion": "At 2330Z, a mostly continuous line of convection is ongoing along a cold front running from northern KY into central AR. Additional shallower convection is ongoing across portions of western TN, northern MS, and AR, but thus far this activity has struggled to deepen. A warm and moist airmass remains in place south of the front, though relatively warm midlevel temperatures are limiting the magnitude of available buoyancy, with MLCAPE largely in the 250-750 j/kg range across the watch area per recent mesoanalysis. While very strong low-level shear and effective helicity in excess of 300 m2/s2 continues to support a tornado threat, the convective mode has thus far been unfavorable, with a tendency for storms near the front to develop into small bowing segments. With mid-upper flow largely parallel to the front and a tendency for storms near the boundary to be undercut with time, it is unclear if any truly discrete cells can develop and be maintained. However, a damaging wind threat and brief tornado threat will continue into this evening with storms along the front, with a greater conditional tornado threat (and isolated large-hail threat) present with any longer-lived discrete supercells that can develop. The severe threat will diminish from west to east as the front advances this evening. While some organized convection may move northeastward out of the watch into portions of northern KY/southern OH with gusty winds possible, very limited instability should limit the severe threat and downstream watch issuance is not currently anticipated. Meanwhile, developing convection across southwest AR may require some counties to be added to the southern portion of the watch if it continues to deepen with time."
+    },
+    {
+      "year": 2016,
+      "number": 1893,
+      "issue_utc": "2016-12-18T00:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2016/md1893.html",
+      "summary": "Convection will likely increase across the region over the next three hours, although the severe weather threat is unclear at this time.",
+      "discussion": "Convection has recently increased along a strong cold front in southwestern Arkansas over the past hour. This trend will likely continue as the front moves southeastward into a moderately unstable airmass. Forcing along the surface front is expected to overcome mid-level capping noted in 00Z Shreveport and Lake Charles soundings, and despite favorable low-level and deep shear for organized convection and supercells, the anafrontal nature of the expected convection will likely yield a limited severe threat tied to isolated hail/wind gusts in the strongest cells. It is worth noting that a few of the high-resolution models indicate pre-frontal convection initiating over primarily over central Louisiana during the 03Z-05Z time frame. Any mid/upper level support for this convection appears to be weak as large-scale forcing for ascent is displaced well to the northwest over Oklahoma, well behind the cold front. Mid-level convective inhibition on the 00Z sounding at Slidell was notably weaker, however, and given the strong shear and moderate instability in place, any pre-frontal cellular activity would likely pose a tornado and damaging wind threat should it mature within the free warm sector. This scenario would require a tornado watch, although the aforementioned lack of mid/upper forcing casts doubt on whether free warm sector initiation will occur. Convective trends will continue to be monitored."
+    },
+    {
+      "year": 2016,
+      "number": 1894,
+      "issue_utc": "2016-12-18T02:28Z",
+      "topic": "Tornado Watch 517",
+      "url": "https://www.spc.noaa.gov/products/md/2016/md1894.html",
+      "summary": "Some risk for damaging wind and a tornado or two will persist for at least the next few hours. A replacement watch will likely be needed by 03Z.",
+      "discussion": "At 0215Z, a nearly solid line of convection is ongoing from southern AR northeast into southern KY. Much of the convection has been undercut by a southeastward moving cold front, but cells along or just ahead of the line have produced some wind damage and a couple of reported tornadoes earlier this evening across portions of Arkansas and Tennessee, and wind gusts in excess of 40 knots were recently noted near Memphis and in northern TN near Clarksville. A largely anafrontal regime is expected to continue, given the progressive nature of the front and limited large-scale ascent across the warm sector. However, some threat of small bowing segments capable of producing wind damage and brief tornadoes will continue, given the very favorable wind profiles in place. A conditional risk of tornadoes remains associated with any discrete cells that can develop ahead of the front, though there is currently no indication of substantial initiation potential ahead of the primary band of convection. Since the severe threat is expected to continue beyond 03Z and eventually move into portions of northern MS/AL and middle TN not currently in the watch, a replacement watch will likely be required within the hour."
+    },
+    {
+      "year": 2016,
+      "number": 1895,
+      "issue_utc": "2016-12-18T05:48Z",
+      "topic": "Tornado Watch 518",
+      "url": "https://www.spc.noaa.gov/products/md/2016/md1895.html",
+      "summary": "The threat for localized damaging winds and perhaps a brief tornado or two continues across valid portion of Tornado Watch 518, with some threat eventually extending to the south and east of the watch overnight.",
+      "discussion": "At 0530Z, a nearly continuous band of convection continues along and just behind a cold front stretching from central LA into middle TN. The bulk of the convection has been undercut by either outflow or the synoptic front, but convective elements along the leading edge have continued to produce strong wind gusts and sporadic damage reports from northern MS into TN. While surface-based instability is decreasing with time, very strong low-level flow and favorable wind profiles will continue to support a threat of sporadic damaging wind and perhaps a brief tornado or two along the leading edge of the convection. Very strong pressure rises behind the front will also support strong post-frontal winds after the strongest convection moves through. Across portions of western/central AL not in watch 518, some severe threat may materialize later tonight, though it remains unclear if downstream watch issuance will eventually be needed. Further southwest across portions of central LA into southwest MS, some threat for damaging winds and perhaps a brief tornado will continue into the overnight hours, and this area will continue to be monitored as well for potential watch extensions or new watch issuance."
+    },
+    {
+      "year": 2016,
+      "number": 1896,
+      "issue_utc": "2016-12-18T07:07Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2016/md1896.html",
+      "summary": "Locally strong to severe wind gusts will remain a potential threat through the early overnight (around 09-10Z) across much of eastern Kentucky, far south and southeast Ohio into western, central and northern West Virginia, and perhaps into southwest Pennsylvania.",
+      "discussion": "Trends in mosaic radar imagery showed a fairly continuous line of low-topped convection with embedded thunderstorms extending from southwest PA and far southeast OH near the OH River into eastern KY. The band of convection was moving to the east at 35-40 kt, while individual line segments (bowing at times) were tracking to the east-northeast at 55-60 kt. This activity will continue to develop along the eastward-advancing cold front into an environment where surface temperatures have been rising into the upper 60s to near 70 F across a 70-90 mile wide warm sector. This rise in surface temperatures has steepened surface to 3 km lapse rates per objective analyses, such that strong winds (50-70 kt at 1 km arl) per warm sector VADs can have this momentum transfer to the surface. This combined with the fast motion of the convection/embedded storms should prove favorable for locally strong to severe wind gusts. The relatively narrow warm sector with a few hundred J/kg of MUCAPE and strong shear will support additional low-topped storms. However, the overall severe-weather threat should diminish as the cold front/convection approach the higher terrain of the Appalachian Mountains where the air mass is more stable."
+    },
+    {
+      "year": 2016,
+      "number": 1899,
+      "issue_utc": "2016-12-18T09:24Z",
+      "topic": "Severe Thunderstorm Watch 519",
+      "url": "https://www.spc.noaa.gov/products/md/2016/md1899.html",
+      "summary": "WW may be canceled early (prior to 11Z) across eastern TN, northern AL, and far northwest GA as low-topped convection undergoes further weakening.",
+      "discussion": "Trends in infrared satellite imagery showed warming cloud tops from middle TN to central MS. This combined with a great reduction in lightning and recent wind gusts with the low-topped convection being sub-severe suggests the overall severe-weather threat should continue to wane, such WW 519 may be canceled prior to 11Z. ..Peters.. 12/18/2016 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

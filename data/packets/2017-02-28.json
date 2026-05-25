@@ -1,0 +1,290 @@
+{
+  "convective_day": "2017-02-28",
+  "valid_start": "2017-02-28T12:00Z",
+  "valid_end": "2017-03-01T12:00Z",
+  "max_risk": "MDT",
+  "product_counts": {
+    "ENH": 2,
+    "MDT": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-02-28",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-02-28T12:00Z",
+      "valid_end": "2017-03-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170228_1200.html",
+      "summary": "Severe thunderstorms are expected to develop from portions of the lower Mississippi Valley to the Ohio Valley Tuesday. Large hail, damaging winds, and a few strong tornadoes are possible.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Ridging appears to be responsible for delaying meaningful convection across the MS Valley late this evening. However, LLJ is beginning to increase across MO/IL and isolated thunderstorms are evolving within a corridor from the Bootheel of MO into central IL. This activity should gradually expand in areal coverage as warm advection lifts north toward the Great Lakes region. Given these trends, there is increasing confidence that much of the southern Plains/lower MS valley will remain convection-free into the afternoon hours. As a result, significant boundary-layer recovery is expected into the OH Valley prior to frontal passage. Late evening model guidance continues to suggest a corridor of strong southwesterly flow aloft will extend from the southern Rockies, into the Great Lakes with 500mb flow expected to increase in excess of 80kt by early afternoon across western portions of the severe risk area. Large-scale height falls will overspread the Mississippi Valley and several convective scenarios may ultimately evolve within a broad moistening warm sector. 1. Warm-advection corridor (northern IL): Strengthening LLJ over IL will aid northward advance of higher quality air mass as sur"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-02-28",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-02-28T13:00Z",
+      "valid_end": "2017-03-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170228_1300.html",
+      "summary": "Severe thunderstorms are expected to develop from portions of the lower Mississippi Valley to the Ohio Valley through tonight. Large hail, damaging winds, and a few strong tornadoes are possible.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A large-scale mid-upper trough over the Great Basin and lower CO River valley will progress eastward to the MS Valley by the end of the period. An associated surface cyclone will develop northeastward from the MO/IA border to Lower MI overnight, as a cold front moves eastward from the Plains to the MS Valley. Ahead of the front, a relatively broad/unstable warm sector is expected from parts of the middle MS and lower OH Valleys southward, where vertical shear will increase with time as the mid-upper trough approaches from the west. Several rounds of strong/severe storms may occur across a broad area, with all severe storm hazards possible this afternoon through tonight, though uncertainty persists with warm sector development through this evening."
+        },
+        {
+          "title": "Northern AR/southern MO to the lower OH Valley this evening",
+          "text": "To the southwest of ongoing elevated storms over northern MS and western TN, rich low-level moisture (boundary layer dewpoints of 65-70 F) is spreading northward from east TX/LA toward eastern OK/AR. Though a subtropical cirrus plume may tend to limit surface heating in some areas, afternoon temperatures well into the 70s along the moist axis will drive MLCAPE values upward to 1500-2500 J/kg. Simultaneously, vertical shear will become increasingly favorable for supercells in the warm sector, with effective bulk shear at or above 70 kt, and effective SRH of 300-400 m2/s2 expected by this evening. The primary uncertainty for diurnal convection in the open warm sector will be a focus for initiation. Only a weak cap is expected this afternoon over the warm sector given soundings modified for upper 70s and upper 60s dewpoints, and the primary source of weak ascent during the afternoon will be low-level warm advection. However, uncertainty remains substantial, as represented by inconsistency among multiple convection-allowing model forecasts. If storms can form in this regime across central/northern AR and southern MO during the afternoon/evening, they will likely become primarily discre"
+        },
+        {
+          "title": "East of the surface cyclone into IL this afternoon/evening",
+          "text": "A few near-surface-based storms could form this afternoon and persist into this evening immediately east of the surface cyclone, along the warm front into central/northern IL as boundary layer dewpoints increase to near 60 F beneath steep midlevel lapse rates. Cloud breaks will dictate the degree of surface heating into northeast MO, with potentially moderate buoyancy (MLCAPE 1000-1500 J/kg) along the north edge of the warm sector into central/northern IL. If storms form within the north edge of the warm sector, strong deep-layer and low-level shear will favor supercells with all severe hazards possible."
+        },
+        {
+          "title": "MO/AR to the OH Valley overnight",
+          "text": "As the surface cyclone develops northeastward to the Great Lakes, the surface cold front will progress eastward to the Ark-La-Miss and lower OH Valley by Thursday morning. One or more bands of convection are likely along or just ahead of the front tonight into Wednesday morning, with an accompanying risk for damaging winds and hail. The wind and tornado risk will be maximized with embedded bowing segments and/or supercell structures within or ahead of the convective band/front, in an environment with strong vertical shear and sufficient low-level moisture/buoyancy. There will also be some risk for more discrete storm development farther south into western and central AR late tonight. ..Thompson/Kerr.. 02/28/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-02-28",
+      "hhmm": "1630",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2017-02-28T16:30Z",
+      "valid_end": "2017-03-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170228_1630.html",
+      "summary": "Severe thunderstorms are expected to develop from portions of the lower Mississippi Valley to the Ohio Valley through tonight. Strong tornadoes will be possible, especially across portions of the lower and middle Ohio Valley. Otherwise, large hail and damaging winds are expected.",
+      "sections": [
+        {
+          "title": "Portions of the Southeast",
+          "text": "Destabilization along the southern/eastern flanks of convection over the TN Valley region may support some increase in convective intensity with storm clusters advancing toward the southern Appalachians. Locally damaging wind gusts may accompany this activity. ..Cohen.. 02/28/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-02-28",
+      "hhmm": "2000",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2017-02-28T20:00Z",
+      "valid_end": "2017-03-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170228_2000.html",
+      "summary": "A widespread area of severe thunderstorms is expected to develop from portions of the lower Mississippi Valley to the Ohio Valley through tonight. Strong tornadoes will be possible, especially across portions of the lower and middle Ohio Valley. Otherwise, large hail and damaging winds are expected. Little in the way of changes have been made to the ongoing outlook. Latest observational trends and model guidance including CAMs indicate initial warm sector storm development is beginning over southern Missouri, with additional storm initiation expected over parts of northwest Arkansas, extreme southeast Kansas, western/northern Missouri into southern Iowa. This activity will be located within a strongly sheared and unstable environment that will promote development of supercells capable of large hail, damaging winds and tornadoes. The initial Missouri activity is likely to intensify as storms develop and spread eastward/east-northeastward into an increasingly broad warm sector extending across the mid-South and into the lower/middle Ohio Valley, as a strengthening low-level jet expands across this region. CAM guidance suggests that some of the initial storms will maintain discrete ce",
+      "sections": [
+        {
+          "title": "Portions of the Southeast",
+          "text": "Destabilization along the southern/eastern flanks of convection over the TN Valley region may support some increase in convective intensity with storm clusters advancing toward the southern Appalachians. Locally damaging wind gusts may accompany this activity."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-03-01",
+      "hhmm": "0100",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2017-03-01T01:00Z",
+      "valid_end": "2017-03-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170301_0100.html",
+      "summary": "A widespread area of severe thunderstorms is expected to develop from portions of the lower Mississippi Valley to the Ohio Valley through tonight. Strong tornadoes will be possible, especially from portions of southern Missouri into the middle Ohio Valley. Otherwise, large hail and damaging winds are expected.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Moderate Risk of severe thunderstorms has been expanded west to include all of southern Missouri. Early evening water vapor imagery depicts a well-defined short-wave trough over CO/NM shifting east in line with earlier model guidance. Mid-level flow is increasing markedly along a corridor from far West TX into the mid MS Valley where 500mb flow is now in excess, or will be soon, of 80kt. Surface observations across eastern NM into the TX Panhandle are gusting in excess of 50kt from the west...reflective of this strong short wave. There is increasing confidence that convection will develop a bit farther west across portions of KS/OK than earlier outlooks indicated, then quickly mature into severe supercells. 00z sounding from AMA depicted a 500mb temperature of -22C and this was a few degrees colder than earlier model guidance suggested. With surface dew points now in excess of 60F across eastern OK into southeastern KS it appears likely that initiation will occur within a few hours along the northwestern edge of this secondary moisture surge. Given the strengthening shear profiles, and very steep lapse rates, higher severe probabilities are warranted into this portion of the easter"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 218,
+      "issue_utc": "2017-02-28T19:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0218.html",
+      "summary": "Thunderstorms are expected to develop this afternoon from south central through northern AR into southern MO and subsequently expand east into southern IL and far west KY. Tornadoes, a few of which could be strong, very large hail and damaging wind may accompany some of the storms. A tornado watch will likely be needed for a portion of this region before 22Z.",
+      "discussion": "As of early this afternoon the pre-frontal warm sector continues to destabilize over the lower to mid MS Valley. Low to mid 60s F dewpoints will advect northward through the evening beneath plume of eastward-expanding steep mid-level lapse rates. RAP objective analysis currently indicates a corridor of 1000-1500 J/kg MLCAPE from MO through AR and eastern OK. A capping inversion at the base of the elevated-mixed layer, widespread middle to high clouds, and weak forcing for ascent have inhibited thunderstorm development so far. However, numerous breaks in the high clouds have evolved, and shallow cumulus development is evident across AR. WV imagery and RUC analysis implies a mid-level impulse moving through OK downstream from the primary shortwave trough located over the southern high plains. Thus a gradual increase in deeper forcing for ascent and differential heating in the boundary layer should eventually contribute to surface-based thunderstorm development in this region, and most CAM guidance indicate thunderstorm initiation by late afternoon. A southwesterly low-level jet will undergo a substantial increase during the evening with enlarged 0-1 km hodographs and strong effective bulk shear supporting fast moving supercells with low-level mesocyclones."
+    },
+    {
+      "year": 2017,
+      "number": 219,
+      "issue_utc": "2017-02-28T20:03Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0219.html",
+      "summary": "The area is being monitored for increasing severe-thunderstorm potential, including the risk for tornadoes, severe hail (possibly significant), and damaging wind gusts. The issuance of a Tornado Watch will likely be required during the next few hours.",
+      "discussion": "A northwest-southeast-oriented warm front extending from surface low pressure in northeastern IA to southern IN will continue to develop northeastward, as the leading edge of a high-level speed maximum also spreads northeastward. Recent water vapor imagery indicates a notable surge of midlevel drying advancing through central IA, likely associated with an impulse embedded within the flow aloft. As forcing for ascent associated with these features continues to overspread the northeastward-developing warm sector (where modest pressure falls are observed), convection should increase in coverage/intensity during the next several hours. Already, isolated elevated convection has been intensifying northeast of the warm front in east-central IL, with additional convection increasing in the open warm sector across south-central IA. Despite the return of only modest boundary-layer moisture (surface dewpoints in the middle 50s to around 60F), steep midlevel lapse rates associated with a well-established elevated mixed layer overlying the area will support sufficient buoyancy for intense updrafts. With 40-60 kt of effective shear, rotating updrafts will likely be capable of producing severe hail -- possibly significant. Damaging wind gusts and tornado potential will exist, especially near and south/southwest of the warm front, where effective inflow layers will extend to the surface. Significant tornadoes could even occur owing to ample streamwise vorticity in the boundary layer (effective SRH around 200-400 m2/s2), and especially in proximity to the warm front given pre-existing vertical vorticity. There is some uncertainty regarding the timing of the more robust increase of surface-based convective risk. Regardless, the risk for all severe hazards will be increasing, likely warra"
+    },
+    {
+      "year": 2017,
+      "number": 220,
+      "issue_utc": "2017-02-28T23:24Z",
+      "topic": "Tornado Watch 42",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0220.html",
+      "summary": "Severe thunderstorms capable of tornadoes, large hail, and damaging winds will continue across portions of Tornado Watch 42 this evening.",
+      "discussion": "A cluster of supercells has organized across northern Illinois late this afternoon on the nose of a stout 850-700-mb jet. A 21Z sounding from Lincoln, IL indicated a strongly veering with height low-level wind profile, topped by steep lapse rates in the approximate 850-650-mb layer, which is fostering vigorous updraft accelerations in these storms. Additionally, low-level storm-relative helicity is maximized in the vicinity of a warm front across northern Illinois currently. As a result, several supercells continue to evolve eastward across the area, with recent reports of a large tornado in eastern La Salle / western Grundy counties. As these cells move east towards northwestern Indiana and Lake Michigan, cooler surface temperatures and lower dew points may favor some slight weakening of these cells and/or less organized storm modes. However, any organized, rotating updraft may be able to sustain itself even in a weakly stable low-level environment, due to a strong upward pressure perturbation gradient force. Moreover, some upscale growth of cells into small bowing segments may yield an attendant damaging-wind threat with these storms as they progress east. ..Picca.. 02/28/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 221,
+      "issue_utc": "2017-02-28T23:28Z",
+      "topic": "Tornado Watch 43",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0221.html",
+      "summary": "The threat for tornadoes may increase over the next few hours across Arkansas into southeastern Missouri, with further development into the lower Ohio Valley and western Tennessee later this evening.",
+      "discussion": "Multiple clusters of thunderstorms continue to evolve across central Arkansas into southern Missouri across the open warm sector and driven mainly by warm advection in the low levels and lack of substantial capping. Cells over Missouri have shown complex storm structures, with several splits noted on radar. This is not surprising given the mainly straight-line hodograph on the 20Z observed SGF sounding. Also evident steep lapse rates and strong deep-layer shear, which support a severe hail threat. As these storms continue eastward, they will encounter a more unstable and more sheared environment supported by a gradually increasing low-level jet and observed axis of mid 60s dewpoints in place. Therefore, potential for stronger rotation and right-moving tornadic supercells will increase over time. To the south, 850-mb flow is a bit stronger and more backed, with a cluster of cells west of the Little Rock area showing mesocyclones at times, but nothing long-lived thus far. However, the LZK VWP as well as objective analysis indicate 250-300 m2/s2 0-3 km SRH in place, with an upward trend in GPS PW observations as well. The increasing low-level jet will further increase low-level shear this evening, favoring tornadic supercells. Model guidance suggests increasing storm coverage spreading eastward across the lower Ohio Valley and western Tennessee, with a risk of tornadoes this evening. As such, additional tornado watches could be required in those areas. ..Jewell.. 02/28/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 222,
+      "issue_utc": "2017-03-01T00:00Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0222.html",
+      "summary": "At least an isolated severe risk in the form of large hail and damaging winds will continue eastward across northern Indiana, far southern Lower Michigan and parts of northern Ohio tonight. A watch will likely be issued.",
+      "discussion": "Multiple clusters of elevated storms have developed and intensified over the past hour across northeast Indiana to the northeast of a warm front across the region. Steep mid-level lapse rates, modest elevated buoyancy, and ample shear through the cloud-bearing layer will support at least some severe hail risk this evening with these mostly elevated storms. Additional upstream storms across north-central/northeast Illinois may gradually move into the region later this evening, all while a warm front and related increasingly moist air mass develops northeastward across the region. This could account for at least some increasing near-surface-based severe risk later this evening with an increasing potential for damaging winds and at least some tornado risk."
+    },
+    {
+      "year": 2017,
+      "number": 223,
+      "issue_utc": "2017-03-01T00:05Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0223.html",
+      "summary": "Storms should increase in coverage across the region this evening, with a growing threat for tornadoes, large hail, and damaging winds. Cells will likely organize from portions of southeastern Kansas northeastward to west-central Illinois over the next several hours. Tornado watch issuance is likely over northern Missouri shortly. Additional watch issuance farther south is also possible this evening.",
+      "discussion": "Observational data early this evening suggest increasing large-scale ascent is beginning to overspread the region, with a few cells developing along surface confluence near the cold front just east of the Kansas City metro. KSGF VWP data depict a growing, clockwise-looping hodograph over the last 2-3 hours, indicating strengthening warm-air advection in response to forcing for ascent with the approaching trough. As mid-level temperatures continue to cool, thunderstorms will organize from southeastern Kansas to northern Missouri. A pool of higher surface dew points (generally in the lower 60s) currently exists across northeast OK and southeast KS, and strengthening low-level south/southwesterly flow should advect this moisture northeast through the evening. With regional soundings sampling steep mid-level lapse rates over the region, MLCAPE values around 1000-2000 J/kg should be realized from southeastern KS into central MO. Strong southwesterly 850-700-mb flow will enhance storm-relative helicity considerably, favoring low-level mesocyclogenesis in any supercellular structures that develop. While there is some uncertainty with the storm mode due to linear forcing along the front, recent convection-allowing guidance suggests that a cluster of supercells may form over the next 2 hours or so. Considering the kinematic and thermodynamic environment, any sustained supercell would be capable of tornadoes, with the potential for a strong tornado or two. These cells would shift northeast from southeastern Kansas into central Missouri through the evening and into the overnight hours. ..Picca.. 03/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 224,
+      "issue_utc": "2017-03-01T01:46Z",
+      "topic": "Tornado Watch 41",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0224.html",
+      "summary": "Scattered supercells, some tornadic, are possible this evening from northern Arkansas into southern Illinois and Indiana. A new tornado watch is likely, replacing eastern parts of tornado watches 41 and 43.",
+      "discussion": "Widely spaced supercells currently persist across southeast MO and northeast AR, with strong rotation and tornadoes reported at times. These cells will continue northeastward across the MS river, where an expansive area of favorable instability and shear remain. In fact, the low-level jet is forecast to increase further, only adding to tornado favorability. Area VAD wind profiles show observed 0-1 km SRH in excess of 400 m2/s2, more than favorable for tornadic supercells given MLCAPE values around 1000 J/kg. Other cells were beginning to form as of 0140 Z across northern AR and southern MO in between the two primary clusters. A further increase in storm coverage is possible this evening with main lifting mechanism being low-level warm advection. ..Jewell.. 03/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 225,
+      "issue_utc": "2017-03-01T02:06Z",
+      "topic": "Tornado Watch 42",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0225.html",
+      "summary": "The severe threat is shifting back to western portions of Tornado Watch 42. An ongoing threat for damaging winds, large hail, and a few tornadoes is expected. In turn, new watch issuance will likely be required prior to the 04Z expiration of Watch 42.",
+      "discussion": "A second round of convection is organizing across northern Missouri, far southeastern Iowa, and western Illinois in response to large-scale forcing for ascent with the approaching trough. Steepening mid-level lapse rates (observed upstream in the 00Z TOP and SGF soundings) and low-level convergence along the surface front will promote further blossoming of convection this evening. While cells may initially struggle due to modest low-level moisture (e.g., low 50s dew points in western Illinois), a corridor of higher dew points to the east will likely yield around 1000 J/kg of MLCAPE late this evening. While some persisting convective inhibition may partially temper a greater severe threat, effective storm-relative helicity on the order of 300-400 m2/s2 will be favorable for low-level mesocyclogenesis. Uni-directional southwesterly flow above 850-mb suggests storms will evolve into small bowing segments, with perhaps embedded supercell structures. Therefore, a renewed threat for damaging winds, a few tornadoes, and large hail will likely evolve across the region late this evening into the overnight. New watch issuance is anticipated prior to the 04Z expiration of Watch 42. ..Picca.. 03/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 226,
+      "issue_utc": "2017-03-01T02:41Z",
+      "topic": "Severe Thunderstorm Watch 45",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0226.html",
+      "summary": "The threat for damaging winds, large hail, and perhaps a tornado will probably be focused across central and southern portions of Severe Thunderstorm Watch 45 over the next several hours.",
+      "discussion": "A bow echo that brought severe wind gusts near the southeastern shore of Lake Michigan is now decaying as it progresses eastward into more stable air. Behind and to the north of this bow, an expansive stratiform region is encompassing much of Lower Michigan, in turn reducing the severe potential. However, to the south of this area, the effective warm front / outflow boundary is providing a focus for renewed convective organization in the form of supercells and small bowing segments across far northwestern Indiana. The 00Z DTX sounding sampled steep lapse rates in the 750-550-mb layer, which in tandem with strong mid-level flow, will maintain a threat for large hail. Additionally, 1-3-km flow around 50-60 kts will support a threat for damaging winds in any bowing segments. Despite relatively stable low-level air, a tornado cannot be ruled out, considering the ample storm-relative helicity indicated by the KIWX VWP. ..Picca.. 03/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 227,
+      "issue_utc": "2017-03-01T04:01Z",
+      "topic": "Tornado Watch 47",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0227.html",
+      "summary": "A considerable increase in the threat for tornadoes, large hail, and damaging winds appears to be developing across the region late this evening. A strong tornado, especially across far southeastern Kansas and southwestern Missouri, cannot be ruled out.",
+      "discussion": "A band of strong to severe thunderstorms has organized across western portions of Tornado Watch 47. The latest KICT and KEAX WSR-88D data indicate several of these cells are rapidly becoming supercellular, aided by approximately 50 kt of effective shear. VWP data from KINX and KSGF indicate 0-1-km storm-relative helicity upwards of 500-600 m2/s2, suggesting an environment very favorable for low-level mesocylogenesis. With the base of a steep-lapse rate plume only 2000-3000 ft above ground level, rapid updraft accelerations closer to the surface will further enhance the tornadic potential late this evening into the overnight. As such, as these cells continue to transit eastward into a corridor of slightly greater low-level moisture, the threat for all severe hazards (including the potential for a strong tornado) will increase. ..Picca.. 03/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 228,
+      "issue_utc": "2017-03-01T04:03Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0228.html",
+      "summary": "A threat of severe storms, including damaging wind and a few tornadoes, is expected to spread northeastward across much of Indiana, western Ohio, and northern Kentucky.",
+      "discussion": "A highly sheared and moistening air mass currently resides across the region, supported by an increasing southwesterly low-level jet to over 60 kt. Effective SRH of 300-400 m2/s2 conditionally favors supercells and/or damaging bows. Cold air aloft combined with lower 60s dewpoints will result in sufficient instability given the extreme shear. Storms over central Indiana as well as points southwest will continue to spread northeastward, requiring a new watch. In addition, another round of severe storms is possible into Wednesday morning as activity now across Illinois along the cold front accelerates eastward. Damaging winds and a few tornadoes are possible."
+    },
+    {
+      "year": 2017,
+      "number": 229,
+      "issue_utc": "2017-03-01T04:09Z",
+      "topic": "Tornado Watch 46",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0229.html",
+      "summary": "Strong to violent tornadoes may exist along a corridor from southeast Missouri into southern Indiana this evening.",
+      "discussion": "Latest radar imagery indicates a possible violent tornado now ongoing near the Illinois/Indiana border now over White county Illinois, moving into Posey county Indiana. Other cells were also redeveloping to the southwest. Given extreme shear parameters and favorable instability in place, this corridor could be active for several hours. ..Jewell.. 03/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 230,
+      "issue_utc": "2017-03-01T04:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0230.html",
+      "summary": "Isolated to scattered severe thunderstorms may develop in the next few hours over eastern Oklahoma into western Arkansas. Tornadoes and very large hail are possible.",
+      "discussion": "Showers appear to be deepening across parts of eastern Oklahoma, in advance of strong cooling aloft and approaching the surface moist axis where dewpoints are in the lower 60s. Due to strong winds and mixing, the boundary layer remains warm with temperatures in the 70s and relatively weak CIN. Given extreme cooling aloft, lapse rates are very steep, with MLCAPE to around 2000 J/kg. Shear is more impressive, with area VWPs indicating 0-1 SRH in excess of 500 to 600 m2/s2. Clearly, the environment favors tornadic supercells, conditional on storms forming. Several CAM solutions indicate storms in this area. A tornado watch is likely to be needed soon."
+    },
+    {
+      "year": 2017,
+      "number": 231,
+      "issue_utc": "2017-03-01T05:52Z",
+      "topic": "Tornado Watch 48",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0231.html",
+      "summary": "A line of strong to severe thunderstorms will shift eastward into northern Indiana and southern Lower Michigan through the early overnight. Occasional strong gusts, marginally severe hail, and perhaps a tornado or two will be possible as these storms progress from Watch 48 into Watch 49.",
+      "discussion": "Regional WSR-88D data depict a line of strong/severe storms stretching from central Illinois northeastward to southern Lake Michigan. The strongest portion of the line appears to be pushing into northwestern Indiana and southwestern Lower Michigan in the form of a bowing segment. While surface temperatures and dew points have decreased ahead of this line, resulting in increasing convective inhibition, strong west/southwesterly flow in low/mid levels (as depicted by the KIWX VWP) will favor occasional bowing structures with enough momentum to create gusty surface winds, despite weak low-level stability. Therefore, occasional strong-wind gusts and a tornado or two from an embedded circulation will be possible through the early overnight. ..Picca.. 03/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 232,
+      "issue_utc": "2017-03-01T06:16Z",
+      "topic": "Tornado Watch 47",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0232.html",
+      "summary": "Severe thunderstorms will progress eastward across Watch 47 through the overnight hours, with a continuing threat for damaging winds and a couple tornadoes.",
+      "discussion": "The composite cold front/outflow boundary has begun to accelerate east/southeast across northern portions of Tornado Watch 47 early this morning. While several updrafts have become rooted over top of the cold pool, a few cells remain rooted along/near the surface boundary. KSGF VWP data recently sampled southwesterly flow around 60-70 kts at 1 km above ground level, with a fairly uni-directional wind profile at low/mid levels. In turn, small bowing structures should continue advancing east/northeastward across Watch 47, with an attendant threat for damaging winds with any near-surface-based parcels. Additionally, strong 0-1-km shear could still favor a tornado or two within any embedded supercell structures as storms advance to the east. ..Picca.. 03/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 233,
+      "issue_utc": "2017-03-01T06:44Z",
+      "topic": "Severe Thunderstorm Watch 45",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0233.html",
+      "summary": "A squall line will continue advancing east across the discussion area early this morning. An attendant threat for damaging winds will persist as these storms track east.",
+      "discussion": "With broader large-scale ascent (e.g., coupled upper jet structure) spreading across the Great Lakes region, rejuvenation of an ongoing squall line over southern Lower Michigan/northern Indiana has occurred. Despite some surface-based convective inhibition/weak low-level stability, the upscale organization of the line, combined with 1-km flow around 50 kts, will maintain a threat for occasional damaging wind gusts, especially in any bowing segments. Additionally, considering the magnitude of the low-level shear, a brief tornado remains possible. ..Picca.. 03/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 234,
+      "issue_utc": "2017-03-01T07:19Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0234.html",
+      "summary": "Strong, and even a few severe, wind gusts will be possible with light precipitation as it moves east into western Pennsylvania and far southwestern New York. However, due to the unorganized nature of these winds, watch issuance is not expected.",
+      "discussion": "Several severe gusts have been recorded across portions of Indiana and Ohio overnight, with the most recent being a 53-kt gust at Cleveland/Hopkins at 0651Z. While strong convection is absent from this area, pockets of stratiform precipitation are the likely cause of these winds. Forecast soundings indicate the lower Great Lakes region is along the eastern edge of an elevated mixed layer in the approximate 850-700 mb layer. Evaporative cooling within the dry layer is enhancing downward motion within this precipitation regime, enabling efficient downward transport of high-momentum air (i.e., southwesterly 1-km flow near 70 kts). Slight temperature rises have been noted with the stratiform precipitation, further suggesting the quasi-heat-burst nature of these strong gusts. As light precipitation transits east into western PA/far southwestern NY, a few strong/damaging gusts may occur. Thereafter, stratiform precipitation should outrun the elevated mixed layer, resulting in a downturn in damaging wind-gust potential."
+    },
+    {
+      "year": 2017,
+      "number": 235,
+      "issue_utc": "2017-03-01T07:32Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0235.html",
+      "summary": "The risk for an isolated tornado may linger another couple of hours across remaining valid portions of tornado watch 46. It is not certain that a new watch will be needed east of this watch as convection spreads toward the upper Ohio Valley and central Appalachians, but trends will continue to be monitored.",
+      "discussion": "Considerable upscale growth of initially discrete storm development has occurred during the past couple of hours across the lower Ohio Valley. This has been aided by an area of enhanced low-level warm advection, in the vicinity of a 60-70 kt west southwesterly 850 mb jet. The strengthening low-level jet core is forecast to continue nosing eastward toward the upper Ohio Valley and western slopes of the central Appalachians through daybreak. While low-level moistening may accompany this feature, it may occur above a residual cooler/drier and more stable near surface layer, reinforced by precipitation spreading east northeastward ahead of the more intense ongoing convective cores. The extent to which storms, on the western edge of the ongoing area of convection, remain based within the boundary layer is becoming increasingly unclear. However, the risk for an additional isolated tornado or two may linger across parts of north central Kentucky another couple of hours. Locally strong wind gusts near stronger activity is also possible, but it seems more likely than not, at this point, that this threat will diminish with activity is it spreads eastward through daybreak."
+    },
+    {
+      "year": 2017,
+      "number": 236,
+      "issue_utc": "2017-03-01T08:09Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0236.html",
+      "summary": "A new tornado watch likely will be issued prior to the 10Z expiration time of tornado watch 46.",
+      "discussion": "Aided by forcing for ascent associated with upper troughing now advancing across and east of the Plains, vigorous convective development is ongoing within a couple of evolving lines. These are focused along a cold front, and a pre-frontal confluence zone (which appears to coincide with a 50-60 kt southwesterly 850 mb jet), which are forecast to advance eastward across the Ozark Plateau into the Mississippi Valley through 11-13Z. Ahead of the convection, into the Mississippi Valley, the warm sector air mass is moist and potentially unstable, in the presence of large clockwise curved low-level hodographs. Isolated discrete storm development may not be out of the question ahead of the lines. If this occurs, they probably will be accompanied by a risk for tornadoes and large hail. Otherwise, with the approach of the evolving convective lines (which seem likely to maintain intensity through at least daybreak), low-level hodographs, while remaining strong, trend more linear, and may be accompanied by primarily a risk for damaging surface gusts."
+    },
+    {
+      "year": 2017,
+      "number": 237,
+      "issue_utc": "2017-03-01T10:19Z",
+      "topic": "Tornado Watch 52",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0237.html",
+      "summary": "A new tornado watch likely will be issued east of tornado watch 52 within the next hour.",
+      "discussion": "Line of vigorous convection, which appeared to initiate along a pre-frontal confluence zone, has accelerated east northeastward across northern/central Arkansas the past couple of hours (at 55-60 kt). Aided by upper forcing for ascent on the southeastern periphery of upper troughing shifting across/east of the Plains, activity seems likely to maintain strength another several hours, progressing east of the Mississippi River, through much of western/central Kentucky and western/middle Tennessee by 13-15Z. The boundary layer across much of this region remains moist and potentially unstable (to both updrafts and downdrafts), in the presence of 40-60 kt west southwesterly deep layer mean flow. With the approach of the line, low-level hodographs appear to be trending more unidrectional, supporting primarily a risk for straight line winds, but a tornado or two may not be out of the question."
+    },
+    {
+      "year": 2017,
+      "number": 238,
+      "issue_utc": "2017-03-01T11:28Z",
+      "topic": "Tornado Watch 52",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0238.html",
+      "summary": "Severe weather threat continues. Areas eastward into the crest of the Appalachians are being monitored for increasing severe weather potential which could require watches by mid morning.",
+      "discussion": "Consolidation of frontal and pre-frontal squall lines has occurred near the confluence of the Ohio and Mississippi Rivers, aided by an area of enhanced mid/upper forcing for ascent which is forecast to shift east northeastward toward the upper Ohio Valley/central Appalachians region through mid day. Embedded within, and perpendicular to, 50-60+ kt west southwesterly deep layer mean flow, the southern flank of the evolving squall line is maintaining rapid forward propagation, and appears likely to progress east of tornado watch 53 by 15-16Z. The primary uncertainty concerning continuing severe potential thereafter, is whether storm motion will outpace appreciable boundary layer destabilization across the western slopes and crest of the Appalachians. However, at least until activity reaches the Cumberland Plateau region, the squall line likely will continue to pose a risk for potentially damaging wind gusts."
+    }
+  ]
+}

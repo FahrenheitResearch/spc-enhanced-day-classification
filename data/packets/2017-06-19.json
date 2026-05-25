@@ -1,0 +1,194 @@
+{
+  "convective_day": "2017-06-19",
+  "valid_start": "2017-06-19T12:00Z",
+  "valid_end": "2017-06-20T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 4
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-06-19",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-06-19T12:00Z",
+      "valid_end": "2017-06-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170619_1200.html",
+      "summary": "Scattered strong to severe thunderstorms will likely occur across portions of the Northeast into the Mid-Atlantic states this afternoon and evening. Damaging wind gusts will be the primary severe hazard but a tornado or two and some hail may also be possible. In addition, isolated strong/gusty winds may develop with thunderstorms across parts of the Southeast and Texas this morning/afternoon.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "An upper trough over the Great Lakes and OH Valley this morning will pivot northeastward across the Mid-Atlantic and Northeast by this afternoon/evening. A southwesterly mid-level jet embedded within this trough will overspread much of the Mid-Atlantic and Northeast in the same time frame. At the surface, a low will develop northeastward across Ontario/Quebec, with a trailing cold front advancing eastward across much of the East Coast states. This front should become less well-defined across the Southeast/TX as it decelerates through the period."
+        },
+        {
+          "title": "Northeast to Mid-Atlantic",
+          "text": "Large-scale ascent associated with the southwesterly mid-level jet will likely encourage convective initiation along/ahead of the cold front from New England to the Mid-Atlantic/NC by midday. There is some potential for ongoing showers and thunderstorms early this morning to hamper diurnal warming ahead of the front later this morning across parts of these areas. But, rich low-level moisture coupled with at least some daytime heating ahead of the front will likely allow weak to moderate instability to develop by early afternoon. Even with mid-level lapse rates expected to remain poor, latest RAP suggests a corridor of generally 1000-2000 J/kg of MLCAPE should develop across the warm sector. This forecast instability coupled with strengthening mid-level southwesterly winds and increasing effective bulk shear values of 30-40 kt will support organized convection. Multicells/bowing line segments should be the primary storm modes given the linear nature of the low-level forcing mechanism (cold front). However, a few embedded supercells are not out of the question with increasing mid-level shear through the afternoon. Consensus of 00Z convection-allowing model guidance remains consistent"
+        },
+        {
+          "title": "Southeast",
+          "text": "Isolated strong/gusty winds may occur with any thunderstorm that develops along or ahead of the slowly southward-moving cold front later today. Low-level lapse rates will steepen with strong diurnal heating, and a very moist airmass will easily support 1500-2000+ J/kg of MLCAPE through peak heating this afternoon. Low and mid-level flow will remain weak across the Southeast, but a few wet downbursts may occur with the strongest cores."
+        },
+        {
+          "title": "TX",
+          "text": "A loosely organized cluster of thunderstorms may be ongoing at the start of the period across north TX into the Arklatex region. If this convection develops early this morning, it should propagate south-southwestward into an area of greater instability across central TX before likely weakening with southward extent due to stronger convective inhibition. While winds through at least mid levels will remain generally weak, some lingering isolated strong/gusty wind and perhaps marginally severe hail threat may persist through mid-morning across this region. Redevelopment of convection along the front this afternoon is highly uncertain. ..Gleason/Cook.. 06/19/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-06-19",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-06-19T13:00Z",
+      "valid_end": "2017-06-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170619_1300.html",
+      "summary": "Strong to severe thunderstorms are forecast over parts of the Northeast into the Mid-Atlantic states this afternoon and evening. Damaging wind gusts will be the primary severe hazard but a tornado or two and some hail may also be possible. Isolated strong to severe thunderstorm gusts are possible farther southwestward, across parts of the Southeast to Texas this morning and afternoon.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "The upper-air pattern will be characterized by synoptic-scale troughing over the upper Great lakes and Mississippi Valley, extending from a large cyclone over northern ON, and strong ridging attendant to a strengthening anticyclone over the Four Corners region. In the base region of the Great Lakes trough, a series of small perturbations and loosely phased vorticity maxima are evident from the lower Great Lakes to IN/IL and IA. These features will pivot northeastward across the lower Great Lakes, upper Ohio Valley and inland Mid Atlantic through the period. Meanwhile, a strong/ upstream shortwave trough -- now evident in moisture-channel imagery over SK -- will move southeastward across southern MB, eastern ND and northern MN through 12Z. At the surface, a cold front was analyzed from southern ON southwestward across central/southwestern IN, the MO Bootheel, central AR, north-central TX, and the Big Bend area of southwest TX. This front will move eastward across the Mid-Atlantic and much of New England through the period, while moving more slowly eastward over the central/southern Appalachians. Farther west, the front should become quasistationary and more diffuse with time."
+        },
+        {
+          "title": "Northeast to Carolinas",
+          "text": "Scattered thunderstorms are expected to develop from late morning and midday through afternoon, primarily near prefrontal convergence/ differential-heating zones, as surface insolation helps to eliminate already-weak MLCINH. The main concern will be damaging gusts, with isolated marginally severe hail or a tornado not out of the question. The greatest potential density of convection, where a favorable buoyancy/shear parameter space should develop, appears to be across the enhanced-risk area. Satellite imagery shows the ragged eastern edge of a corridor of broken, multi-level cloud cover from northern VA northeastward across east-central PA, southeastern NY and VT. Though translating with an eastward component, sufficient heating is expected under the relatively thin and erratic eastern rim of the could cover to foster enough destabilization for convection initiation by midday, in concert with low-level lift along a prefrontal trough/confluence line. Rich boundary-layer moisture already is in place in this corridor, with surface dew points commonly in the upper 60s to mid 70s F (locally higher), and PW readings mainly in the 1.6-1.9-inch range based on GPS-derived data and available"
+        },
+        {
+          "title": "Southern States to TX",
+          "text": "Widely scattered thunderstorms are expected to develop near and ahead of the surface frontal zone, and along residual outflow boundaries, offering the potential for isolated damaging wind. Rich low-level moisture will contribute to favorable buoyancy, though a distinct lack of vertical shear should preclude substantial convective organization. Refer to NHC outlooks for the latest information on potential tropical development over the southern/central Gulf. Current indications are that any related increase in northeastern-sector low-level wind fields and associated tornado potential over land will occur after the end of this period."
+        },
+        {
+          "title": "ND/northwest MN",
+          "text": "Widely scattered to scattered, seasonally low-topped thunderstorms are expected to move southeastward across this area from southwestern MB this afternoon, offering at least isolated potential for damaging wind and hail near severe limits. While effective- shear magnitudes in forecast soundings are not particularly strong (25-35 kt), part of that is related to the shallowness of the buoyant profiles and associated sampling of the calculation levels, very closely beneath the underside of the more intense mid/upper- level winds progged across this area. 75-90-kt anvil-level flow contributes to more favorable 60-70-kt cloud-layer shear, amidst nearly unidirectional deep-layer wind profiles. Despite the cool boundary-layer conditions, lifted parcels should become surface- based. Expect increasing large-scale ascent preceding the shortwave trough (and related steep midlevel lapse rates) to contribute to MLCAPE of 200-500 J/kg atop a shallow but well-mixed subcloud layer. Any aggregation of convective cold pools also will aid in convective-wind potential across this area, generally diminishing through the evening hours. ..Edwards/Smith.. 06/19/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-06-19",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-06-19T16:30Z",
+      "valid_end": "2017-06-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170619_1630.html",
+      "summary": "Strong to severe thunderstorms are forecast over parts of the Northeast into the Mid-Atlantic states this afternoon and evening. Damaging wind gusts will be the primary severe hazard but a tornado or two and some hail may also be possible. Isolated strong to severe thunderstorms are possible farther southwestward, across parts of the Southeast to Texas through late afternoon",
+      "sections": [
+        {
+          "title": "Portions of the Eastern States",
+          "text": "Little overall change has been made to the ongoing forecast. Convection will continue deepening along the eastern fringes of a multi-layered cloud band from northern NY to the southern Appalachians through the afternoon hours. Convection will most notably develop in the short term from the Mid-Atlantic to New England in closer proximity to at least 30-meter/12-hour 500-mb height falls, with convection subsequently developing southward as diurnal heating continues. Numerous bands of convection will elongate north-northeastward while shifting east, ahead of a deeper baroclinic zone crossing the Great Lakes region. As a diffuse warm front advances north across New England, a corridor of 1000-2500 J/kg of MLCAPE will continue to extend north with time -- primarily driven by rich boundary-layer moisture (e.g., 15.5 g/kg mean mixing ratio per Brookhaven NY 12Z sounding). Given 25-35 kt of flow around 1-km above ground per VAD wind profiles over the meridionally extensive moist sector/surface dewpoints in the 70s, scattered damaging wind gusts will be likely -- enhanced in association with line-embedded meso-vortices/small rear inflow jets. Convection will spread toward the Atlantic coast"
+        },
+        {
+          "title": "Portions of ND into western MN",
+          "text": "Clusters of convection will increase ahead of a compact midlevel impulse advancing southeastward from Saskatchewan. Despite a dearth of tropospheric moisture, long mid/high-level hodographs and moderate midlevel lapse rates may support a few persistent convective elements capable of isolated severe hail/wind."
+        },
+        {
+          "title": "Portions of eastern IA/southern WI to western OH",
+          "text": "Cold midlevel conditions above a diurnally warming, though relatively dry, boundary layer will support sufficient instability for sustained convective clusters to move across the region into early evening. Sufficient deep shear and high-level flow may support weakly organized convective structures capable of isolated severe hail/wind. ..Cohen.. 06/19/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-06-19",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-06-19T20:00Z",
+      "valid_end": "2017-06-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170619_2000.html",
+      "summary": "Strong to severe thunderstorms are forecast over parts of the Northeast into the Mid-Atlantic states through this evening. Damaging wind gusts will be the primary severe hazard but a tornado or two and some hail may also be possible. Isolated strong to severe thunderstorms are possible farther southwestward across parts of the Southeastern states, and over south-central and southwest parts of Texas late this afternoon and evening. Several lines of strong/severe storms are progressing across the Mid-Atlantic states and New England, with a continued threat for primarily damaging wind gusts into the evening hours. The western edge of the severe outlook area has been adjusted to reflect the location of the current thunderstorm activity, with the severe threat gradually ending from the west. Otherwise, the marginal risk area over the Texas/Louisiana region has been adjusted to focus primarily over south-central and southwest Texas. This area is along/west of the MCV moving southward into south-central Texas where a convergence boundary extends west-southwest to the north of Marfa. See MD 1097 for additional details over this area. ..Weiss.. 06/19/2017 .PREV DISCUSSION... /ISSUED 1127 AM",
+      "sections": [
+        {
+          "title": "Portions of the Eastern States",
+          "text": "Little overall change has been made to the ongoing forecast. Convection will continue deepening along the eastern fringes of a multi-layered cloud band from northern NY to the southern Appalachians through the afternoon hours. Convection will most notably develop in the short term from the Mid-Atlantic to New England in closer proximity to at least 30-meter/12-hour 500-mb height falls, with convection subsequently developing southward as diurnal heating continues. Numerous bands of convection will elongate north-northeastward while shifting east, ahead of a deeper baroclinic zone crossing the Great Lakes region. As a diffuse warm front advances north across New England, a corridor of 1000-2500 J/kg of MLCAPE will continue to extend north with time -- primarily driven by rich boundary-layer moisture (e.g., 15.5 g/kg mean mixing ratio per Brookhaven NY 12Z sounding). Given 25-35 kt of flow around 1-km above ground per VAD wind profiles over the meridionally extensive moist sector/surface dewpoints in the 70s, scattered damaging wind gusts will be likely -- enhanced in association with line-embedded meso-vortices/small rear inflow jets. Convection will spread toward the Atlantic coast"
+        },
+        {
+          "title": "Portions of ND into western MN",
+          "text": "Clusters of convection will increase ahead of a compact midlevel impulse advancing southeastward from Saskatchewan. Despite a dearth of tropospheric moisture, long mid/high-level hodographs and moderate midlevel lapse rates may support a few persistent convective elements capable of isolated severe hail/wind."
+        },
+        {
+          "title": "Portions of eastern IA/southern WI to western OH",
+          "text": "Cold midlevel conditions above a diurnally warming, though relatively dry, boundary layer will support sufficient instability for sustained convective clusters to move across the region into early evening. Sufficient deep shear and high-level flow may support weakly organized convective structures capable of isolated severe hail/wind."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 1090,
+      "issue_utc": "2017-06-19T14:45Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1090.html",
+      "summary": "Increasing thunderstorm activity is expected into and through the 1-4 PM EDT time frame, accompanied by a risk for potentially damaging wind gusts. At least a couple of severe weather watches appear likely within the next hour or two.",
+      "discussion": "Ahead of lingering pre-frontal convection, insolation within a seasonably high moisture content boundary layer (surface dew points near/above 70F) is contributing to moderately large CAPE and weakening inhibition. This is occurring from the lee of the Allegheny Mountains through much of the Hudson/Champlain Valleys into the mountains of northern New England, where lower/mid tropospheric flow is already cyclonic and modest in strength. Although large-scale upstream troughing is only very slowly progressing eastward, weak mid-level height falls associated with subtle embedded perturbations may aid storm development into the 17-20Z time frame. The initiation of thunderstorms already appears underway across the Poconos, Catskills into and northeast of the Berkshires, and a gradual increase in coverage/intensification seems probable into early afternoon. Eventually, in the presence of soundings that appear characterized by high precipitable water and 30-40 kt south to southwesterly lower/mid tropospheric flow, heavy precipitation loading and downward momentum transfer may contribute to increasing potential for downbursts. Consolidating and strengthening cold pools may also contribute to organizing convection accompanied by strong, potentially damaging wind gusts."
+    },
+    {
+      "year": 2017,
+      "number": 1091,
+      "issue_utc": "2017-06-19T16:14Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1091.html",
+      "summary": "Increasing thunderstorm development appears likely during the next few hours, and may begin impacting the Baltimore/Washington D.C. metropolitan areas by 2-4 PM EDT.",
+      "discussion": "Thunderstorm development is now underway along and southeast of the Allegheny Mountains, as far south as the eastern West Virginia panhandle. This appears to coincide with the southeastern periphery of the stronger mid-latitude latitude westerlies, which may gradually edge toward the Baltimore/Washington D.C. metropolitan areas toward the 18-20Z time frame. As the increasingly weakly capped moist boundary layer continues to destabilize with additional insolation, this is expected to result in increasing and intensifying thunderstorm development. In the presence of 30-40 kt south to southwesterly mean lower/mid tropospheric flow, heavy precipitation loading and downward momentum transfer are expected to slowly lead to increasing potential for downbursts. Farther to the east and south, into parts of the Carolina piedmont and Mid Atlantic coastal plain, where mid-level heights remain fairly high and flow appears a bit weaker, but at least broadly cyclonic, a general increase in thunderstorm development and intensity appears probable through late afternoon."
+    },
+    {
+      "year": 2017,
+      "number": 1092,
+      "issue_utc": "2017-06-19T17:03Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1092.html",
+      "summary": "The area will continue to be monitored for a slow increase in severe-thunderstorm potential through the afternoon. It is unclear whether convective organization and severe coverage will be sufficient for Watch issuance, though the issuance of a Severe Thunderstorm Watch may be possible at some point this afternoon.",
+      "discussion": "Low-level lapse rates are steepening in response to strong insolation amid a moist boundary layer characterized by surface dewpoints generally in the lower/middle 70s. Buoyancy is primarily being driven by the rich moisture, with 1500-2500 J/kg of MLCAPE in place with minimal capping. However, midlevel lapse rates are quite modest, which should mute upward convective-scale accelerations and slow the overall process for convective development -- especially as stronger deep ascent remains well to the north of the region. Nevertheless, low-level ascent associated with the following regimes will be sufficient for a gradual uptick in the number of intensity of thunderstorms during the next few hours: (1) Diurnally enhanced orographic circulations over the southern Appalachians, (2) Differential-heating-induced baroclinicity along the eastern edges of a persistent multi-layered cloud band over far western parts of the Carolinas, (3) Deepening boundary-layer circulations over the Piedmont region, and (4) Sea-breezes boundaries over the coastal plain. With time, amalgamating cold pools should foster multicell clusters spreading eastward and northeastward through the early evening hours, aided by 25-30 kt of effective shear. While DCAPE upwards of 1000 J/kg will be somewhat marginal for intense downdrafts, the substantive upward buoyancy may prove sufficient for localized corridors of greater damaging-wind potential. Regardless, weak deep ascent, modest midlevel lapse rates, and modest low-level flow/deep shear all detract confidence in a more substantial severe risk evolving, though convective/environmental trends will continue to be monitored."
+    },
+    {
+      "year": 2017,
+      "number": 1093,
+      "issue_utc": "2017-06-19T17:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1093.html",
+      "summary": "Convection crossing parts of the southwest Great Lakes region may produce isolated and marginally severe hail/wind this afternoon. However, Watch issuance will not be necessary.",
+      "discussion": "The base of a deep trough and accompanying cold midlevel temperatures are in place across the region. The 12Z sounding at Davenport IA sampled a 500-mb temperature around -17.7C -- highlighting the seasonally anomalously cold air aloft. With strong diabatic surface heating owing to insolation, low-level lapse rates are steepening, and a southeastward-moving convective cluster has developed in south-central WI within the general left-exit region of a high-level speed maximum. Additional cumulus fields are deepening from parts of central IA and within an arc from northern IL to northern Indiana, which may eventually evolve into lightning-producing, though somewhat shallow convection. As all of this activity spreads southeastward/eastward across the region through the afternoon hours, unidirectional wind profiles -- elongated in the mid/high levels -- may support sustained convective cells/clusters. Steep low-to-mid-level lapse rates and relatively low freezing-level heights may support isolated severe hail, while well-mixed boundary layers and related sub-cloud evaporation encourage some risk for isolated damaging wind gusts. However, the dearth of tropospheric moisture, and the paucity of buoyancy will limit the overall severe risk."
+    },
+    {
+      "year": 2017,
+      "number": 1094,
+      "issue_utc": "2017-06-19T18:21Z",
+      "topic": "Severe Thunderstorm Watch 354",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1094.html",
+      "summary": "Thunderstorms accompanied by heavy rain, frequent cloud to ground lightning and increasing (potentially damaging) strong wind gusts may impact much of the Northeast urban corridor (DC to New York) by 3-5 PM EDT.",
+      "discussion": "Continuing insolation has warmed surface temperatures to around 90F through much of the urban corridor from Washington D.C./Baltimore through Philadelphia and New York City. This is contributing to sizable CAPE on the order of 2000 J/kg, ahead of evolving upstream thunderstorm activity which continues to gradually organize and intensify. Through 20-21Z, a consolidating and strengthening cold pool associated with the evolving convective system seems likely to surge northeastward and eastward into the urban corridor, accompanied by increasingly widespread (and potentially damaging) surface gusts on its leading edge. This may be enhanced as convection encounters stronger southerly ambient low-level wind fields, as suggested by the latest Rapid Refresh, on the order of 40+ kt. ..Kerr.. 06/19/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1095,
+      "issue_utc": "2017-06-19T18:42Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1095.html",
+      "summary": "There will exist some isolated severe hail/wind potential with convection spreading across the area from this afternoon into the early evening. Watch issuance is unlikely.",
+      "discussion": "Convection has exhibited slight intensification within a band of midlevel ascent from southeast Saskatchewan to southwest Manitoba, preceding a compact vorticity maximum embedded within 40-50 kt of 500-mb northwesterly flow. Continued diurnal heating of a relatively dry boundary layer ahead of this disturbance will continue to contribute to marginal instability, with MLCAPE around 250-500 J/kg though with lacking MLCINH. As such, convection will spread into and across the discussion area throughout the afternoon and into the evening, and may increase in intensity during the next few hours. Moderately strong mid/high-level flow will support ample convective ventilation and sufficient deep shear for sustained convective cells. Moderately steep midlevel lapse rates may support isolated marginally severe hail. Also, as low-level lapse rates steepen, the potential for well-mixed/dry low-level profiles to support evaporatively cooled downdrafts will exist. Isolated marginally severe wind gusts will be possible. While the compact nature of the upstream disturbance and related preceding upward-motion response will likely support some severe potential, the overall dearth of moisture and paucity of buoyancy should render overall limited/marginal severe potential."
+    },
+    {
+      "year": 2017,
+      "number": 1096,
+      "issue_utc": "2017-06-19T18:58Z",
+      "topic": "Severe Thunderstorm Watch 354",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1096.html",
+      "summary": "Thunderstorms accompanied by locally heavy rain, frequent lightning and potentially damaging wind gusts will overspread the region through 4-6 PM EDT.",
+      "discussion": "Insolation has warmed surface temperatures through the lower/middle 80s within a narrow pre-frontal corridor across interior southern New England through the higher terrain of western/northern Maine. This appears to be contributing to mixed layer CAPE on the order of 1000-2000 J/kg, and likely will provide the focus for the most vigorous thunderstorm development through 20-22Z. This will be accompanied by the risk for potentially damaging surface gusts, particularly from near/northwest of Worcester through areas near/west and north of Manchester/Concord NH, where it appears that ambient southerly 850 mb flow has increased in excess of 40 kt. ..Kerr.. 06/19/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1097,
+      "issue_utc": "2017-06-19T19:40Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1097.html",
+      "summary": "A very isolated severe risk may accompany thunderstorms into the early evening hours, though Watch issuance will not be necessary.",
+      "discussion": "An uptick in cumulus fields has been noted in proximity to a boundary extending east-northeastward from the TX Trans-Pecos region toward areas north of San Angelo. Strong diabatic surface-layer heating is supporting erosion of antecedent capping aloft, with favorably moist low-level profiles yielding 2500-3500 J/kg of MLCAPE near the boundary. Convergence near the boundary -- perhaps aided by the peripheral influence of a decaying, though persistent, convective cluster crossing the TX Hill Country -- could support deeper convective development during the next few hours, with storms potentially lingering into the early evening. Furthermore, orographic ascent over the southwest TX mountains could encourage storm formation. Given the aforementioned buoyancy, a few intense updrafts capable of producing severe hail could evolve. Also, with DCAPE increasing to around 1300-1700 J/kg, some isolated severe-wind risk could occur. However, with the region being displaced to the west of modestly stronger deep shear, convective organization should be greatly lacking, and any severe risk should be very isolated."
+    },
+    {
+      "year": 2017,
+      "number": 1098,
+      "issue_utc": "2017-06-19T22:43Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1098.html",
+      "summary": "Areas of thunderstorms are expected to persist and/or reform across the Carolinas through evening, and a few could contain a marginal wind, hail, or even brief/weak tornado threat.",
+      "discussion": "Numerous storms currently exist across southern VA, with area of storms into central NC into northern SC being enhanced by a northwestward-surging outflow boundary. Satellite imagery shows pockets of heating, and surface obs maintain a very moist air mass with dewpoints into the mid 70s. Even behind the aforementioned boundary, the air mass remains unstable. However, lapse rates aloft are relatively weak. Winds aloft are marginally favorable for severe storms, especially over NC near the base of the upper trough. Area VWPs indicate veering winds with height in the low levels, suggesting marginal supercell potential. The primary cold front remains well to the west, and will not move much. But, given the unstable air mass and multiple outflow boundaries around, storms could redevelop anywhere. The most likely severe threat is localized damaging wind gusts, but a brief/weak tornado can not totally be ruled out with such a chaotic, yet slightly supportive boundary layer."
+    }
+  ]
+}

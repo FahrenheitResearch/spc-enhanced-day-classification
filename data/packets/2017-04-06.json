@@ -1,0 +1,86 @@
+{
+  "convective_day": "2017-04-06",
+  "valid_start": "2017-04-06T12:00Z",
+  "valid_end": "2017-04-07T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-04-06",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-04-06T12:00Z",
+      "valid_end": "2017-04-07T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170406_1200.html",
+      "summary": "Organized severe storms are expected across parts of the Mid-Atlantic States, primarily during the morning and early afternoon hours. The potential exists for tornadoes and a few swaths of damaging winds during this time frame. A lingering severe-weather threat will be possible across central Florida during the morning and may continue into the early afternoon.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A powerful mid/upper trough will advance towards the East Coast this forecast period, as a vigorous impulse rotates around its periphery from the southern Appalachians towards the Mid-Atlantic States by early afternoon, and then northward through New England tonight. Concurrently, a closed low at the center of the trough will deepen as it moves across the lower Great Lakes region. The synoptic surface low is expected to track from northern OH to northern NY, while secondary surface cyclogenesis should be occurring at the start of the forecast period in northwest VA. Surface response to very strong 12-hour 500-mb height falls of 200-260 meters through 18Z will result in strong deepening of the northwest VA low as it tracks into Washington D.C./central MD by 18-19Z, and then into eastern PA by mid-late afternoon. A cold front trailing to the south will surge eastward and should move off the Mid-Atlantic coast by mid afternoon, while the southern advances south across the Florida Peninsula."
+        },
+        {
+          "title": "Mid-Atlantic States to eastern NC",
+          "text": "To the east of the aforementioned deepening secondary surface low and attendant cold front, strong southerly low-level winds will be in the process of transporting moisture poleward, with surface dew points in the lower 60s reaching eastern VA to central MD this morning and across the southern Delmarva Peninsula by early afternoon. The presence of steep midlevel lapse rates spreading across the moisture return into this region through 18Z should result in a moderately unstable warm sector with MUCAPE of 1000-1500 J/kg. Thunderstorms should be ongoing at 12Z today from western VA through central NC to eastern SC. Given the expected degree of destabilization ahead of the cold front combined with strong effective bulk shear and strong forcing for ascent with the midlevel trough and impulse, thunderstorms should increase in coverage and intensity through the morning. Low-level hodograph curvature will support a tornado threat with any discrete cells ahead of the cold front. Meanwhile, increasing forcing for ascent and a somewhat veer-back-veer vertical wind profile suggests the potential for a linear mode with damaging winds spreading across the enhanced risk area this morning into the"
+        },
+        {
+          "title": "Central Florida",
+          "text": "Strong to severe storms should be ongoing at the beginning of the forecast period across central FL, within a moderately unstable and strongly sheared environment. A weak lobe of vorticity is expected to be moving across central FL at 12Z, and should weaken further as it moves east of the Peninsula by early afternoon. Veered low-level winds in the warm sector should be related to reduced convergence in vicinity of the cold front by early afternoon. Until that time, moderate instability and strong deep-layer and low-level shear this morning suggest a lingering severe-weather threat will be possible for the first 2-4 hours of the forecast period. This outlook has introduced a marginal severe risk for isolated strong winds and perhaps a tornado. ..Peters/Cook.. 04/06/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-04-06",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-04-06T13:00Z",
+      "valid_end": "2017-04-07T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170406_1300.html",
+      "summary": "Scattered severe storms with damaging winds, large hail, and a couple of tornadoes will be possible through about midday to early afternoon across the Mid-Atlantic. A marginal wind and hail risk will diminish slowly this morning across central Florida.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "Secondary cyclogenesis is underway near the Blue Ridge in northwest VA, where 3-6 mb pressure falls per two hours have been observed in advance of a negative tilt shortwave trough accelerating northeastward over the southern Appalachians. The northwest VA cyclone will deepen and move north-northeastward to eastern PA by early-mid afternoon. A trailing cold front will move off the NC coast by 18z, and the remaining warm sector near the Delmarva will be pinched off by 21z."
+        },
+        {
+          "title": "Mid-Atlantic region through early afternoon",
+          "text": "Overnight convection has lingered near the NC coast, and anvil cirrus has overspread eastern NC and southeastern VA this morning. Low-level moisture inflow across eastern NC/VA has been disrupted/reduced by this convection, and the clouds will likely slow surface heating prior to frontal passage. However, strong forcing for ascent and modest moisture recovery ahead of the front will support a severe-storm risk until the cold front moves offshore this afternoon. Very strong deep-layer shear and conditionally unstable midlevel lapse rates will support a risk for damaging winds and marginally severe hail with embedded cells/line segments, and an isolated tornado or two cannot be ruled out with fast-moving cells."
+        },
+        {
+          "title": "Central FL this morning",
+          "text": "A pre-frontal band of thunderstorms moving across central FL this morning is expected to weaken slowly as the strong midlevel shortwave trough passes well to the north of this area. Deep-layer shear and buoyancy will be sufficient for a marginal damaging wind risk this morning, prior to the storms weakening. ..Thompson/Cohen.. 04/06/2017"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 460,
+      "issue_utc": "2017-04-06T14:38Z",
+      "topic": "Tornado Watch 132",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0460.html",
+      "summary": "Thunderstorms may continue to pose a threat for a few strong/damaging wind gusts and perhaps a tornado through late morning.",
+      "discussion": "Scattered thunderstorms have organized along a pre-frontal trough this morning, aided by strong forcing for ascent from an impulse advancing across the Carolinas presently. Surface dew points ahead of the line have risen into the upper 50s and lower 60s, with resultant MLCAPE values upwards of 500 J/kg, offering some vigor to more organized updrafts. Reflectivity data this morning suggest a mixture of semi-discrete, small linear, and cluster modes. Regional 12Z soundings depict a veer-back-veer wind profile with height, supporting this somewhat disorganized evolution. Additionally, elongated reflectivity structures likely imply a shear/buoyancy imbalance at present. Nonetheless, modest warm/moist advection northward may yield sufficient buoyancy for a few stronger updrafts through late morning. Strong low/mid-level flow (and related shear) will favor strong/damaging wind gusts and perhaps a brief tornado in any of these cells. Convection is also developing closer to the surface front over south-central Virginia. While the tornado threat should be minimal here due to veered low-level flow and falling dew points, shallow but sufficient buoyancy and ample effective shear may foster a threat for gusty winds and small hail as cells develop eastward. ..Picca.. 04/06/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 461,
+      "issue_utc": "2017-04-06T16:18Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0461.html",
+      "summary": "Isolated instances of damaging winds may occur through mid afternoon from Virginia northward to southern New Jersey. Watch issuance may be possible if convective trends warrant.",
+      "discussion": "Several small bowing segments have organized over northern/eastern Virginia late this morning/early this afternoon, on the nose of robust DCVA associated with a sharp impulse currently lifting north into Virginia. In response, a surface cyclone appears to be organizing over far northern Virginia, with a sharpening trough extending to its south/southeast. Enhanced surface convergence (along this trough, as well as the front to its west) and larger-scale ascent over the region will likely maintain pockets of strong convection lifting northeast from Virginia towards southeastern Pennsylvania and southern New Jersey this afternoon. The near-surface thermal profile becomes considerably more stable with northeastward extent, but considering the strength of forcing for ascent, an isolated damaging-wind risk may extend into southern New Jersey through the afternoon hours, especially where weak diurnal heating occurs. However, due to the expected disorganized nature of the threat, watch issuance is not currently anticipated. Surface/radar observations will be monitored for a more organized uptick in the damaging wind threat, though."
+    },
+    {
+      "year": 2017,
+      "number": 462,
+      "issue_utc": "2017-04-06T19:12Z",
+      "topic": "Severe Thunderstorm Watch 133",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0462.html",
+      "summary": "Isolated strong wind gusts remain possible with thunderstorms heading northeast from Maryland to New Jersey this afternoon. An instance or two of marginally severe hail could occur across Long Island and southern New England through this evening.",
+      "discussion": "A large precipitation shield, with embedded clusters/lines of convection, is advancing northward this afternoon, concurrent with large-scale ascent associated with a strong mid/upper impulse. As convection has rapidly accelerated northeast, it has begun to outrun substantive low-level destabilization associated with modest moisture return and diurnal heating. Therefore, the threat for organized damaging winds is likely decreasing considerably. However, strong southerly flow in low/mid levels (seen in KDIX VWP data) may favor isolated strong wind gusts, as heavier precipitation cores bring stronger momentum closer to the surface. Later this afternoon, relatively steep mid-level lapse rates (e.g., 700-500mb around 7 C/km) are expected to spread across portions of Long Island and southern New England. Combined with 35-45 kt of effective shear, this thermal profile may support a few organized updrafts rooted above a surface stable layer. Isolated strong storms may be capable of marginally severe hail late this afternoon into this evening. ..Picca.. 04/06/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

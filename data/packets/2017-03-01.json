@@ -1,0 +1,194 @@
+{
+  "convective_day": "2017-03-01",
+  "valid_start": "2017-03-01T12:00Z",
+  "valid_end": "2017-03-02T12:00Z",
+  "max_risk": "MDT",
+  "product_counts": {
+    "ENH": 3,
+    "MDT": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-03-01",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-03-01T12:00Z",
+      "valid_end": "2017-03-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170301_1200.html",
+      "summary": "Severe thunderstorms are expected to spread across the Ohio and Tennessee Valley region into the Middle Atlantic states, possibly into southern New England by mid afternoon. Damaging winds are the primary severe threat, though a few tornadoes and hail will be possible, especially west of the Appalachians.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Pronounced mid-level short-wave trough will eject from the plains into the OH Valley by 02/00z, then into NY/PA region by the end of the period. Latest NAM guidance suggests 500mb flow will increase above 100kt along this corridor with 12hr mid-level height falls expected to increase to near 240m across the northeastern states during the latter half of the period. Strong forcing for ascent and cloud-layer mean flow on the order of 75kt will prove favorable for damaging winds with convection Wednesday. Late this evening two convective scenarios are beginning to emerge. 1) Pre-frontal discrete supercells, and 2) Cold front-induced thunderstorms. Pre-frontal supercells have congregated along a corridor from western KY into southwestern OH. This activity will likely continue through the night possibly spreading toward the higher terrain of the central Appalachians early in the day1 period. There is some concern these storms may disrupt the air mass farther north across northern OH/PA, potentially limiting the instability across the strongest forced region. At 01/12z the synoptic frontal position is expected to extend from southern lower Michigan, southwest into the Arklatex region. Sev"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-03-01",
+      "hhmm": "1300",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2017-03-01T13:00Z",
+      "valid_end": "2017-03-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170301_1300.html",
+      "summary": "Widespread wind damage is forecast across parts of Kentucky and Tennessee this morning. Severe thunderstorms will continue to spread across the Ohio and Tennessee Valley regions into the Middle Atlantic states, possibly into southern New England by mid afternoon. Damaging winds are the primary severe threat, though a few tornadoes and hail will be possible, especially west of the Appalachians.",
+      "sections": [
+        {
+          "title": "KY-TN eastward into the Mid-Atlantic states",
+          "text": "Radar imagery early this morning shows an extensive squall line from the upper OH Valley southwestward into portions of west-central KY and middle TN. The southern portion of the squall line has had a several-hour history of widespread measured severe gusts as it tracked from eastern AR into western KY/TN. A MCV associated with this part of the line is forecast to move downstream within a belt of 80-90 kt 500-mb flow. It seems likely the greatest concentration of severe gusts and swaths of wind damage will align from near the I-65 corridor in TN/KY to the spine of the Appalachians by late this morning (16z)---resulting in higher wind probabilities and a moderate risk. It appears increasingly likely destabilization will not be inhibited by prior storm activity from the southern half of WV east-northeastward into the D.C and DelMarVa areas. CAM guidance, in particular the 01/00z NSSL WRF, appears to have a relatively good depiction of the evolving convective lines through 12z this morning. Storm-scale guidance moves a squall line into the I-95 corridor during the early afternoon (roughly 18-21z) coincident with appreciable diurnal destabilization and steepening of low-level lapse rat"
+        },
+        {
+          "title": "northern half of PA into NY and southern New England",
+          "text": "Destabilization this morning will likely be hindered appreciably as widespread cloud cover stunts surface heating. As the northern portions of the squall line over northwestern PA and the upper OH Valley pushes eastward this morning, a corresponding risk for strong to possibly severe gusts may accompany the line. ..Smith.. 03/01/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-03-01",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-03-01T16:30Z",
+      "valid_end": "2017-03-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170301_1630.html",
+      "summary": "Severe thunderstorms with damaging winds are expected from portions of the Southeast to the Mid Atlantic region and parts of southern New England. Damaging winds will be likely, and the risk for tornadoes will exist particularly from parts of northeast Mississippi to portions of north Georgia and vicinity.",
+      "sections": []
+    },
+    {
+      "issued_product_date": "2017-03-01",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-03-01T20:00Z",
+      "valid_end": "2017-03-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170301_2000.html",
+      "summary": "Severe thunderstorms with damaging winds are expected from portions of the Southeast to the Mid Atlantic region and parts of southern New England. Damaging winds will be likely, and the risk for tornadoes will exist particularly from parts of east-central Mississippi to portions of north Georgia and vicinity.",
+      "sections": [
+        {
+          "title": "Southern New England to the Mid-Atlantic States",
+          "text": "Severe weather threat remains valid for southern New England toward DelMarVA as the environment destabilizes poleward, with surface dew points in the 60s now spreading north across NJ. The western parts of Mid-Atlantic severe probabilities have been trimmed from the convective outlook, as the air mass has stabilized in the wake of the storms now reaching parts of the East Coast States. A marginal risk remains for isolated strong to possibly severe storms across the upper OH Valley into western PA as discussed in the previous outlook. Residual moisture located across southern VA in vicinity of the trailing portion of a convective outflow boundary extending southwest from southeast VA to far northwest NC may depict the northern extent of a severe-weather threat as strong to severe storms spread east from the southern Appalachians. The downstream air mass across the Carolinas will continue to destabilize with strong deep-layer and low-level shear supporting all severe hazards into this evening."
+        },
+        {
+          "title": "Carolinas/Southeast States to lower MS Valley",
+          "text": "Strong to severe storms will continue to develop along and ahead of the cold front as it advances through this region of the U.S. during the remainder of the afternoon and through the evening and early overnight. Previous forecast reasoning remains valid, while the western portions of this outlook have been trimmed with the passage of the ongoing band of storms extending from LA to middle and eastern TN as the environment stabilizes in the wake of this activity. ..Peters.. 03/01/2017 .PREV DISCUSSION... /ISSUED 1028 AM CST Wed Mar 01 2017/ ...Portions of the Southeast to the Mid-Atlantic region and southern New England... An extensive belt of strong mid/high-level flow across the Southern and Eastern States will maintain strong deep shear over a moist and diurnally destabilizing warm sector across the area. A squall line from Middle TN toward the central Appalachians will likely spread across the adjacent Piedmont during the next several hours. Re-intensification of this activity is expected, owing to the presence of adequate moisture return (upper 50s to lower 60s dewpoints) amidst surface heating and relatively steep midlevel lapse rates. Swaths of damaging wind gusts will be lik"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 239,
+      "issue_utc": "2017-03-01T13:28Z",
+      "topic": "Severe Thunderstorm Watch 54",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0239.html",
+      "summary": "Strong surface gusts and, perhaps, an isolated tornado or two will remain possible with a squall line overspreading the region through 15-17Z.",
+      "discussion": "The forward motion of the southern flank of the ongoing squall line has slowed some, but movement of the line as a whole still appears around 50 kt. Activity likely will continue into and through the Cumberland Plateau region by 15-17Z. Although the boundary layer air mass appears progressively less unstable with eastward extent across the Cumberland Plateau into the crest of the Appalachians, breaks in cloud cover could still allow for some boundary layer warming and destabilization prior to the arrival of the squall line. Regardless, given the strength of the ambient lower/mid tropospheric flow (including 50-70 kt southwesterly around 850 mb), the environment appears conducive to a continuing risk for potentially damaging surface gusts as the squall line overspreads the region. ..Kerr.. 03/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 240,
+      "issue_utc": "2017-03-01T14:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0240.html",
+      "summary": "A widespread damaging wind threat will likely continue through the afternoon. Severe thunderstorm watch downstream of ongoing line of thunderstorms will very likely be issued by 1530Z.",
+      "discussion": "A line of strong to severe thunderstorms is advancing quickly eastward across the central Appalachians this morning. Damaging winds will remain the main threat with this convection given the linear mode and strong low-level winds noted on area radar velocity imagery. In addition, an isolated tornado may also be possible with embedded circulations within the line. The airmass downstream of the ongoing line is not overly unstable at the moment, with surface temperatures still generally in the 60s and dewpoints in the mid to upper 50s. However, some diurnal heating will likely occur as visible satellite imagery shows clearing along/east of the Appalachians, which should support sufficient instability to continue the damaging wind threat. Instability is more limited with northward extent into PA, and some uncertainty does exist concerning the potential for surface-based convection and the damaging wind threat there."
+    },
+    {
+      "year": 2017,
+      "number": 241,
+      "issue_utc": "2017-03-01T16:08Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0241.html",
+      "summary": "An increasing severe threat is expected over the next several hours, with all severe hazards possible, including a few tornadoes. New tornado watch issuance is likely by 18Z.",
+      "discussion": "Mid-level southwesterly flow along a cold front in middle/western TN has slowed the southeastward movement of the front. A line of convection along/just ahead of the front has displayed some strong to damaging wind threat over the past several hours. The airmass across northern MS/AL ahead of the will continue to destabilize through the afternoon even with partly to mostly cloudy skies present. Steep mid-level lapse rates with an elevated mixed layer are present on the 12Z Jackson, MS sounding and sufficient low-level moisture across the area will support MLCAPE of 500-1000 J/kg this afternoon. 50-60 kt of effective bulk shear will support supercell structures both within and ahead of the line, particularly across northern MS into northern/central AL where semi-discrete convection is already developing as of 16Z. Although low-level flow is veered generally to southwesterly, sufficient curvature in the 0-3 km layer will support effective SRH around 250-300 m2/s2, which suggests at least some tornado threat will likely develop. Large hail will able be possible with the initial discrete convection, with damaging winds becoming more probable with time as thunderstorms congeal into a line."
+    },
+    {
+      "year": 2017,
+      "number": 242,
+      "issue_utc": "2017-03-01T17:25Z",
+      "topic": "Severe Thunderstorm Watch 56",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0242.html",
+      "summary": "Although storms have weakened recently, they are expected to strengthen again and pose a damaging wind threat across the remainder of Severe Thunderstorm Watch 56 through the afternoon.",
+      "discussion": "Recent radar trends have shown weakening in the vertical depth of the line of convection as it crossed the higher terrain of the Appalachian Mountains and encountered only a marginally unstable airmass. Lightning trends have trended downward as well. With time, this line should re-intensify across central/western VA and into far northwestern NC as it encounters a more buoyant airmass characterized by surface dewpoints in the upper 50s to lower 60s and MLCAPE ranging from 250-1000 J/kg. Damaging winds will remain the primary threat. Although not immediately likely, there may also be some increase in the threat for a tornado or two with eastward extent across Severe Thunderstorm Watch 56 (including the DC and Baltimore metro areas), as southerly to southwesterly low-level flow veers and strengthens with height, with enough effective SRH to support embedded circulations within the line. ..Gleason.. 03/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 243,
+      "issue_utc": "2017-03-01T17:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0243.html",
+      "summary": "A damaging wind and isolated tornado threat will increase with a line of storms approaching from the west. Watch issuance is likely.",
+      "discussion": "An ongoing line of showers and thunderstorms across central/western VA is quickly advancing eastward. As it does so, this line should strengthen as it encounters an increasingly moist and unstable airmass. Diurnal heating has allowed temperatures to warm into the upper 60s to upper 70s as of 1745Z, with surface dewpoints generally in the mid 50s to lower 60s. The instability should build northward with time across NJ. 15Z sounding from GSO and 16Z sounding from RNK both reveal steep mid-level lapse rates around 8 degrees C/km that will support weak to moderate instability across this area through the afternoon. Widespread damaging winds appear likely as the convective line restrengthens. In addition, RAP forecast soundings show enlarged low-level hodographs across the eastern VA into Delmarva Peninsula and southern/central NJ, as winds veer from generally southerly to southwesterly with height while also strengthening. This should support an isolated tornado threat with embedded circulations within the line."
+    },
+    {
+      "year": 2017,
+      "number": 244,
+      "issue_utc": "2017-03-01T19:07Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0244.html",
+      "summary": "A risk for severe storms will spread across portions of the southern Appalachians and adjacent Piedmont region, affecting the area around and after 20Z. Watch issuance will be likely.",
+      "discussion": "A squall line with embedded rotating updrafts from eastern TN to north MS will continue spreading eastward through the afternoon. Diurnal heating of a modestly moist boundary layer is supporting MLCAPE around 250-750 J/kg ahead of this activity. With strong deep shear, organized convective structures including occasional bowing segments will spread across the region. This activity will be capable of producing damaging wind gusts. A brief tornado or two cannot be ruled out with line-embedded meso-vortices. Watch issuance will be likely within the next hour or so."
+    },
+    {
+      "year": 2017,
+      "number": 245,
+      "issue_utc": "2017-03-01T19:32Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0245.html",
+      "summary": "Isolated severe potential will spread across parts of the lower MS Valley region and vicinity through the late afternoon/early evening hours. Watch issuance is unlikely.",
+      "discussion": "Thunderstorm development continues southwestward along a weakly convergent segment of a front -- from parts of central MS to southwest LA. Despite weak frontal ascent, strong heating of a moist boundary layer characterized by middle 60s dewpoints is supporting moderate buoyancy. Given effective shear around 40-50 kt with deep flow oriented obliquely to the frontal segment, semi-discrete updrafts and thunderstorm clusters are forecast to spread eastward through early evening. The aforementioned shear/buoyancy may support a few severe thunderstorms. However, weak deep ascent/frontal convergence should tend to limit the overall severe risk."
+    },
+    {
+      "year": 2017,
+      "number": 246,
+      "issue_utc": "2017-03-01T19:50Z",
+      "topic": "Severe Thunderstorm Watch 58",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0246.html",
+      "summary": "A widespread damaging wind threat will continue across Severe Thunderstorm Watch 58 with a line of thunderstorms.",
+      "discussion": "A line of shallow convection with occasional embedded lightning strikes has produced numerous measured severe wind gusts in addition to trees down/damage reports across VA, MD, and DC over the past several hours. This line is moving quickly eastward around 60 mph, and it will continue to pose a widespread damaging wind risk across the Delmarva Peninsula and NJ until it moves offshore. Across southeastern VA, the line has not regenerated, possibly due to slightly stronger capping in the 850-700 mb layer compared to locations farther north. Regardless, a conditional damaging wind threat exists across southeastern VA. Across central/northern NJ into far southern NY, the atmosphere remains only weakly unstable, and the prospect for an appreciable wind threat north of the current Severe Thunderstorm Watch remains unclear. ..Gleason.. 03/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 247,
+      "issue_utc": "2017-03-01T20:11Z",
+      "topic": "Tornado Watch 57",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0247.html",
+      "summary": "The risk for severe storms continues spreading eastward across portions of the southern Appalachians to the TN Valley region to central MS, and will continue spreading eastward into the late afternoon hours.",
+      "discussion": "Semi-discrete supercells and thunderstorm clusters continue near/just ahead of a front from eastern TN to central MS. Straight hodographs indicated by area VAD wind profiles suggest that -- despite adequate crosswise vorticity for rotating storms associated with 50-65 kt of deep shear -- streamwise vorticity is quite limited. As such, storm-relative motion data from single-site radars suggest that any low-level mesocyclones have remained weak. Nevertheless, with mid-level lapse rates around 7-8 C/km sampled by the Jackson and Birmingham 18Z soundings -- suggesting strong convective-scale accelerations and attendant vertical vorticity stretching -- mid-level mesocyclones have been persistent with the most intense cells. Large hail will remain possible with this activity as it spreads eastward, and sporadic damaging-wind gusts may also occur. While the tornado risk remains non-zero for any supercell structures that more substantially deviate to the right of the mean flow (given adequate low-level moisture), the lack of ambient hodograph curvature should limit the efficiency of low-level mesocyclone development. The severe risk will diminish northwest of the aforementioned activity. ..Cohen.. 03/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 248,
+      "issue_utc": "2017-03-01T20:43Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0248.html",
+      "summary": "A risk for severe storms may begin spreading east of Watch 57 after 22Z. While the intensity of this activity may already be at its peak, at least isolated severe potential could exist east of Watch 57 into the evening hours, potentially warranting Watch issuance.",
+      "discussion": "A line of thunderstorms extending northeast-southwest across the TN Valley region will continue spreading eastward into the evening hours, as convective inflow has diurnally destabilized. With surface dewpoints in the upper 50s to lower 60s, MLCAPE on the order of 500-1000 J/kg aided by steep midlevel lapse rates, amidst 40-55 kt of effective shear, will support at least an isolated severe risk during the next several hours. Large hail and sporadic damaging wind gusts should be the primary concerns with this activity. However, with low-level flow remaining quite veered, convective inflow is somewhat limited -- which may restrict the number of robust updrafts lingering past peak heating. Furthermore, with stronger deep ascent becoming increasingly displaced to the northeast of the area, the overall severe risk may gradually lessen into the late afternoon/early evening. Nevertheless, buoyancy/shear will remain adequate for some severe risk into the evening."
+    },
+    {
+      "year": 2017,
+      "number": 249,
+      "issue_utc": "2017-03-01T20:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0249.html",
+      "summary": "Isolated strong/gusty winds approaching severe levels may occur with shallow convection along a cold front. Watch issuance is not expected.",
+      "discussion": "Since 19Z, showers/shallow convection have developed along a cold front across eastern OH, with more isolated activity across eastern KY. Very modest heating has occurred downstream per visible satellite imagery and surface observations, and latest RAP Mesoanalysis and forecast soundings suggest MUCAPE of 100-200 J/kg may be present. While this meager instability will likely be insufficient to support lightning discharges, it may be enough to encourage some convective downdraft enhancement to already strong gradient winds along/behind the front. Accordingly, there is a marginal threat for isolated strong to perhaps damaging winds with this shallow convection. The lack of more robust instability will very likely preclude a more substantial severe threat, and watch issuance is not expected."
+    },
+    {
+      "year": 2017,
+      "number": 250,
+      "issue_utc": "2017-03-01T23:21Z",
+      "topic": "Severe Thunderstorm Watch 59",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0250.html",
+      "summary": "Clusters and small lines of strong/severe thunderstorms will continue east across the region this evening, with an attendant threat for damaging winds, marginally severe hail, and perhaps a tornado. Watch 59 will probably need some eastward expansion and/or a new downstream watch closer to coast could be issued.",
+      "discussion": "Small bowing segments/clusters of occasionally severe thunderstorms are advancing east across the Carolinas early this evening. These storms are encountering an air mass characterized by a relatively well-mixed boundary layer, with dew points in the mid/upper 50s. In turn, mixed-layer convective inhibition may cause less organized cells to weaken further in the near-term. However, considering 1-3 km southwesterly flow around 35-50 kts and relatively steep low-level lapse rates, any modest upscale growth may pose a threat for some strong/damaging gusts in the near term. A southward-sinking outflow boundary over northern NC may continue to provide a focus for downwind propagation, which would also focus a greater wind threat. As such, Watch 59 may need eastward expansion across parts of central NC and central/eastern SC. Later this evening, an increasing low-level jet may advect higher dew points (in the lower 60s) ahead of the line across the eastern Carolinas. A resultant uptick in MLCAPE may encourage some strengthening of these storms later this evening. If such an increasing wind threat were to materialize, new watch issuance would be needed downstream. Additionally, strong low-level wind fields and a moistening boundary layer could support the potential for a tornado or two. ..Picca.. 03/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 251,
+      "issue_utc": "2017-03-01T23:54Z",
+      "topic": "Severe Thunderstorm Watch 60",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0251.html",
+      "summary": "Risk for strong/locally severe storms within the ongoing band of frontal convection continues. Though risk should begin to gradually diminish with time, potential for locally damaging winds and hail will continue, particularly within WW 60.",
+      "discussion": "Latest radar loop shows a broken band of showers and thunderstorms extending from southeast Virginia southwest to south-central Louisiana. The storms are ongoing near/ahead of the steadily advancing cold front, which continues to progress through a modestly unstable but very strongly sheared pre-frontal environment. With the loss of diurnal heating, weak/gradual low-level stabilization is expected, which -- combined with a forecast/gradual decrease in low-level flow -- should result in a lessening of severe risk over the next several hours. Meanwhile however, the environment remains supportive of isolated severe risk in the shorter term, as locally stronger/organized cells persist at this hour within the broader band of convection. ..Goss.. 03/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

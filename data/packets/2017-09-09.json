@@ -1,0 +1,82 @@
+{
+  "convective_day": "2017-09-09",
+  "valid_start": "2017-09-09T12:00Z",
+  "valid_end": "2017-09-10T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-09-10",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-09-10T01:00Z",
+      "valid_end": "2017-09-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170910_0100.html",
+      "summary": "Hurricane Irma is expected to increasingly impact portions of the central and southern Florida Peninsula later this evening through the overnight hours. Among the potential hazards, associated thunderstorm activity will be accompanied by a risk for tornadoes, particularly along southeast Florida coastal areas.",
+      "sections": [
+        {
+          "title": "01Z Outlook Update",
+          "text": "Sizable low-level hodographs (as sampled in the 10/00Z RAOB from Miami), largely due to considerable speed shear in the lowest 1-1.5 km AGL, but also some veering of winds with height, have proven supportive of transient low-level mesocyclones in stronger convection within convective bands pivoting around the northern/eastern periphery of Irma. Irma has maintained a prolonged slow west/northwestward migration, generally paralleling the northern Cuba coast, but a gradual northwestward acceleration away from the Cuba coast toward the lower Florida Keys still seems probable late this evening through the overnight hours. As this occurs, models indicate substantial further enlargement of hodographs within a deepening lower/mid tropospheric layer (including increasing clockwise turning of the shear vectors with height) across southern through central portions of the peninsula, in the right front quadrant of Irma (with respect to storm motion). It is unclear whether boundary layer based instability inland of immediate Atlantic coastal areas remains supportive of an appreciable risk for tornadoes late this evening through the overnight, but inflow of potentially unstable air across and jus"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 1631,
+      "issue_utc": "2017-09-09T12:48Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1631.html",
+      "summary": "The tornado risk, while currently on the marginal side, will increase throughout the morning and (per the forthcoming SPC convective outlook) continue to ramp up later today as more of the favorable sector of Hurricane Irma's envelope spreads across the region. As the tornado threat gradually grows, a watch may be needed at some point in the next few hours.",
+      "discussion": "As of 12Z, the center of Irma was apparent in Miami and Key West radar imagery near the northern Cuba coast, south-southeast of HST. During the next few hours, based on NHC forecast track and translational speed, the center will move abeam of southeastern FL and the upper Keys, and the northeastern quadrant of the circulation envelope will begin to impinge upon southeastern FL. This will include enlarging, increasingly westward-shifting low-level hodographs, the enlargement already apparent in radar VWP time series and comparison of 06Z and 12Z MFL soundings. That trend is forecast to continue through the remainder of the morning. Meanwhile, persistent moisture transport will help to maintain the buoyancy apparent in the MFL sounding, while thetae advection inland overcomes temporary stabilization from the initial QLCS activity. The 12Z surface chart showed a well-defined thermal axis north of the outflow area, from Grand Bahama across Broward and Collier Counties. Despite the mostly dense/thick cloud cover, diffuse/gradual diabatic heating also may contribute to buoyancy inland beginning in another couple hours. As the combined CAPE/shear parameter space gets more favorable, the main driver of the threat increasingly will be convective mode. Outflow-dominant, QLCS-type outer bands now over portions of Miami-Dade, southern Collier and northern mainland Monroe counties largely have moved through the Keys and should exit the discussion area in the next couple hours. Following those, a mixture of clustered, loosely banded and semi-discrete modes is apparent in radar imagery upstream across the Straits and Bahamas. Isolated, weak cyclonic-shear areas already have been apparent in a few embedded cells, manifesting a marginal but still more-favorable mesoscale environment. Mo"
+    },
+    {
+      "year": 2017,
+      "number": 1632,
+      "issue_utc": "2017-09-09T20:12Z",
+      "topic": "Tornado Watch 481",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1632.html",
+      "summary": "Limited tornado risk may gradually increase across south Florida over the next few hours.",
+      "discussion": "Latest satellite and radar loops show Irma moving west-northwest along the northern coast of Cuba at this time, with the eye almost due south of Miami. Somewhat stronger convective cells are currently being observed within a disorganized outer band arcing from the Bahamas northwest into Miami-Dade and Broward counties, and then southwest across Monroe and southern Collier counties and then offshore. Within these cells -- particularly between the Bahamas and the southeast Florida coast -- some rotation has been observed over the past hour. With low-level helicity increasing slowly across south Florida, and more steadily/aggressively across the Keys (0-3 km SRH doubling over the past hour and a half to the 700 to 900 m2/s2 range) nearer to the center of Irma, expect tornado risk to slowly increase over the next several hours."
+    },
+    {
+      "year": 2017,
+      "number": 1633,
+      "issue_utc": "2017-09-09T23:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1633.html",
+      "summary": "Cells offshore about 15-30 miles northeast/east of Vero Beach may pose a tornado threat as they move into the discussion area. A WW issuance is being considered.",
+      "discussion": "Cells east of the discussion area (on the northeastern periphery of the circulation associated with Hurricane Irma) are exhibiting occasional rotation and may pose a threat for brief tornadoes as they reach coastal areas within the next few hours. These cells are in an environment containing deep easterly flow and moderate (2000-2500 J/kg MUCAPE) buoyancy - highest along coastal areas and offshore. Although latest 88D profiler data exhibits relatively marginal shear for updraft rotation (around 100 m2/s2 0-3km SRH), this shear will likely increase in this region with time as Irma moves northwestward toward the southern Florida Peninsula. It is currently unclear how far inland the tornado threat will exist as buoyancy weakens with inland extent. However, the approach of these cells toward coastal areas suggests an increasing tornado threat over the next hour or so, and a WW is being considered for the region."
+    },
+    {
+      "year": 2017,
+      "number": 1634,
+      "issue_utc": "2017-09-10T02:26Z",
+      "topic": "Tornado Watch 481",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1634.html",
+      "summary": "The tornado threat continues across WW 481. A new watch will be coordinated for portions of the region (including an additional part of east-central Florida) by 0330Z.",
+      "discussion": "Hurricane Irma has begun a slow northwestward movement toward the Florida Keys over the past couple of hours. As this motion continues, strengthening kinematic fields will overspread much of central and southern Florida through the overnight hours. Meanwhile, scattered bands and individual convective cells continue to migrate rapidly westward into the region, some of which have exhibited occasional strong rotation and brief tornadoes. This threat should persist overnight - especially along coastal areas where buoyancy is strongest - while also gradually shifting northward toward the Melbourne/Space Coast area. WW 481 is scheduled to expire at 0400Z. A new Tornado Watch will likely be coordinated for much of the region by 0330Z."
+    },
+    {
+      "year": 2017,
+      "number": 1635,
+      "issue_utc": "2017-09-10T06:23Z",
+      "topic": "Tornado Watch 482",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1635.html",
+      "summary": "A tornado threat will continue across parts of south and central Florida through daybreak. The tornado threat may be maximized along the east coast of Florida from north of Miami up to near Melbourne.",
+      "discussion": "The National Hurricane Center is forecasting Hurricane Irma to continue moving northwest which will remain on approach to the Lower Keys through daybreak. Well-defined rainbands extend northward away from the center to about 350 statute miles. Two bands are associated with stronger convection. The first is located just to the south of Melbourne with the second to the east of Lake Okeechobee. On the eastern coast of Florida, the RAP is analyzing moderate instability with stronger instability located offshore. MLCAPE values along the east coast of Florida are estimated to be around 1000 J/kg. Low-level theta-e and buoyancy decrease with westward extent across the Florida Peninsula. In addition, the Miami WSR-88D VWP shows easterly flow at the surface with gradually veering winds with height in the lower to mid-levels. This is creating moderate deep-layer shear and strong low-level shear. 0-1 km shear is estimated near 45 kt which will be favorable for storm rotation with the stronger thunderstorms. Rotating cells that remain semi-discrete should have the greatest potential for tornadoes. The tornado threat across the southern and central Florida Peninsula should continue through daybreak."
+    },
+    {
+      "year": 2017,
+      "number": 1636,
+      "issue_utc": "2017-09-10T10:05Z",
+      "topic": "Tornado Watch 482",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1636.html",
+      "summary": "A tornado threat will continue across south and central Florida this morning. The greatest tornado threat should be on the east coast of the Florida Peninsula.",
+      "discussion": "The National Hurricane Center continues to forecast Hurricane Irma to move north-northwestward into the Florida Keys this morning. Rainbands extend about 300 statute miles to the north of the center. The strongest convection is located from 150 to 175 miles to the north-northeast of the center along the southeast coast of the Florida Peninsula. The RAP is analyzing moderate instability in this vicinity from near Fort Lauderdale, FL northward to north of Melbourne, FL. The strongest low-level shear is analyzed in the Miami area. The combination of instability and shear appear to be maximized across Palm Beach county where rotating cells are currently located. The strongest rotating cells should be able to produce tornadoes. Low-level theta-e and buoyancy decrease with westward extent across the Florida Peninsula suggesting that the greatest threat will remain near the coast."
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "convective_day": "2017-04-02",
+  "valid_start": "2017-04-02T12:00Z",
+  "valid_end": "2017-04-03T12:00Z",
+  "max_risk": "HIGH",
+  "product_counts": {
+    "MDT": 2,
+    "HIGH": 2,
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-04-02",
+      "hhmm": "1200",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2017-04-02T12:00Z",
+      "valid_end": "2017-04-03T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170402_1200.html",
+      "summary": "Numerous severe thunderstorms are forecast from parts of Texas eastward into the lower Mississippi Valley today and into tonight. A concentrated area of significant wind damage is likely near and north of the I-20 corridor in east Texas and Louisiana. The risk for tornadoes, a few of which may be strong/damaging, will probably maximize near and south of I-20 in Texas and Louisiana, along with the threat for hail.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A closed mid-level low will evolve into an open wave and move from northern Mexico/Far West TX eastward to the ArkLaTex by early Monday morning. A broad area of surface low pressure over the Rio Grande Valley will consolidate and develop northeast across central TX during the day and be near the OK/AR border at the end of the period. A maritime warm front will advance northward across the northwest Gulf Coast region during the day as a cold front accelerates eastward across central TX during the afternoon and into LA during the overnight."
+        },
+        {
+          "title": "Central TX eastward into the lower MS Valley",
+          "text": "A multi-hazard, likely multi-scenario forecast with intrinsic complexity/uncertainty is seemingly evident for today into tonight. Late Saturday evening surface analysis and radar imagery show rich low-level moisture over the TX coast with a developing thunderstorm cluster in the middle Rio Grande Valley. Strong to severe thunderstorms will likely be ongoing over central TX. Severe gusts/wind damage appears to be the predominate threat with the early-day MCS. As the surface low deepens, a concurrent strong low-level mass response will occur and the development of a 50-kt LLJ by mid morning is expected. Strong low-level moist advection on the nose of the LLJ will be favorable for a continuation of early morning storms as the LLJ's terminus shifts eastward from east-central TX into the ArkLaTex by mid-late afternoon. A concentrated zone of higher probability wind potential may be realized with a potential bowing system as increasing buoyancy (1000-3000 J/kg MUCAPE) and strong shear lead to an intense bowing MCS moving from TX into the ArkLaTex. Coincident with the diurnal heating cycle, free warm sector thunderstorm initiation is likely from east TX into LA on the northern rim of the "
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-04-02",
+      "hhmm": "1300",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2017-04-02T13:00Z",
+      "valid_end": "2017-04-03T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170402_1300.html",
+      "summary": "A severe thunderstorm cluster will likely affect central/northeast Texas into southern Arkansas and northern Louisiana today with widespread damaging winds, a few tornadoes, and large hail. Tornadic supercells will be possible from east central Texas across central and northern Louisiana, immediately south of larger thunderstorm cluster track. The risk for damaging winds and a few tornadoes will persist overnight across Louisiana and Mississippi.",
+      "sections": [
+        {
+          "title": "Louisiana/Mississippi overnight",
+          "text": "Additional severe storm development is expected by this evening into tonight from extreme southeast TX into LA, ahead of the surface cold front. This convection will form in an environment favorable for supercells, though storm interactions should lead to upscale growth into another band/line. The more discrete storms, as well as circulations embedded within the line, will pose a risk for damaging winds and a few tornadoes overnight into MS, while the convective band could approach west-central or northwest AL near sunrise. ..Thompson/Cohen.. 04/02/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-04-02",
+      "hhmm": "1630",
+      "max_risk_in_product": "HIGH",
+      "valid_start": "2017-04-02T16:30Z",
+      "valid_end": "2017-04-03T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170402_1630.html",
+      "summary": "Widespread severe thunderstorms capable of significant tornadoes, severe wind, and severe hail will spread across portions of east Texas to the lower Mississippi Valley through tonight. The greatest risk for tornadoes will exist from portions of far east Texas eastward across northern Louisiana this afternoon and evening.",
+      "sections": []
+    },
+    {
+      "issued_product_date": "2017-04-02",
+      "hhmm": "2000",
+      "max_risk_in_product": "HIGH",
+      "valid_start": "2017-04-02T20:00Z",
+      "valid_end": "2017-04-03T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170402_2000.html",
+      "summary": "Widespread severe thunderstorms capable of significant tornadoes, severe wind, and severe hail will spread from the Sabine river valley toward the lower Mississippi Valley through tonight. The greatest risk for tornadoes will exist from across Louisiana into Mississippi this afternoon through tonight.",
+      "sections": [
+        {
+          "title": "East Texas into Louisiana and western Mississippi",
+          "text": "Storms continue to evolve across the area, with the most intense cells near the warm front over central LA, and along and just ahead of the cold front/outflow boundary over far eastern TX. South of these boundaries, the air mass is very moist and unstable with gusty southeasterly winds allowing for a gradual northward shift in the greater instability across LA and into southwest MS. Shear profiles strongly favor supercells along with tornadoes, with effective SRH on the order of 400-600 m2/s2 observed on area VAD wind profiles. The area will continue to experience a severe threat for many more hours until the cold front moves through from the west. While only a few of the numerous storms are currently severe, the environment will remain quite favorable and further intensification of storms is expected throughout the afternoon and into the evening. For more information see MCD 403, 404 and 405. ..Jewell.. 04/02/2017 .PREV DISCUSSION... /ISSUED 1127 AM CDT Sun Apr 02 2017/ ...Portions of east Texas to the lower Mississippi Valley through tonight... A long-lived thunderstorm cluster that crossed central Texas through the overnight/morning hours is losing organization as it is advancin"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-04-03",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-04-03T01:00Z",
+      "valid_end": "2017-04-03T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170403_0100.html",
+      "summary": "Numerous severe thunderstorms are possible tonight over the southeastern half of Louisiana, much of Mississippi, and western Alabama. Widespread damaging winds are possible, including the risk for a strong tornado or two during the overnight across parts of southeastern Louisiana and south-central Mississippi.",
+      "sections": [
+        {
+          "title": "Central Gulf Coast states",
+          "text": "An extensive squall line from the lower Sabine Valley northeastward into northern Mississippi will serve as the western delimiter for strong/severe thunderstorms tonight. A very moisture-rich air mass south of a warm front over southern MS will gradually advance northward into central MS tonight and southwestern AL. Steep 700-500 mb lapse rates (7 degrees C/km) sampled in the warm sector from 00z LCH and LIX raobs are contributing to moderate buoyancy (2500 J/kg MLCAPE). As the mid-level trough over TX pivots northeast towards the Ozarks tonight, the strong low-level and deep-layer shear profiles will remain in place across the warm sector. Isolated cells may continue to develop ahead of the squall line and pose a risk for large hail, damaging gusts, and a tornado (possibly strong/damaging) given the large looping hodographs sampled by area 88D VAD winds. Short-term models suggest an acceleration of the southern portion of the squall line across LA and MS tonight. Widespread damaging winds are possible with the squall line, especially near large embedded cores where an embedded supercell tornado and/or mesovortex-tornado risk may develop. Farther east, the 00z BMX raob north of the"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 399,
+      "issue_utc": "2017-04-02T14:04Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0399.html",
+      "summary": "The threat for tornadoes is expected to increase from late morning into the afternoon over a portion of east TX. A tornado watch will likely be issued for parts of east TX into western LA by 16Z, and a PDS tornado watch is being considered. The new watch might also replace the eastern portion of tornado watch 108.",
+      "discussion": "Early this morning numerous discrete to semi-discrete storms including supercells are developing within a zone of warm advection and isentropic ascent in the vicinity of a warm front located from southern LA through eastern TX. The storms north of the warm front are likely slightly elevated, while activity along and just south of this boundary are probably ingesting near-surface-based inflow parcels. Current expectations are for the storms well north of the warm front to weaken as they move north into the more stable boundary layer across northeast TX, but may still pose a short term large hail threat. Visible imagery indicates some diabatic warming may commence by mid morning over southeast TX, contributing to further boundary layer destabilization near the warm front. The front should move slowly north as the low-level jet strengthens across eastern TX into far western LA in response to forcing for ascent within exit region of an upper jet rotating through base of synoptic trough. Increasing 0-1 km hodograph size resulting from the strengthening LLJ and destabilization of the boundary layer should contribute to an increasing threat for supercells with strong low-level mesocyclones and tornadoes as storms continue developing in vicinity of the warm front."
+    },
+    {
+      "year": 2017,
+      "number": 400,
+      "issue_utc": "2017-04-02T14:05Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0400.html",
+      "summary": "An isolated severe risk will exist through the morning hours. Watch issuance is presently unlikely in the short-term, though environmental/radar trends will continue to be monitored. The severe risk will substantially increase later today.",
+      "discussion": "Across the easternmost periphery of a warm advection plume, an isolated cluster of intense storms is spreading eastward across parts of south-central LA. This activity lies along a warm frontal zone extending west-east across southern LA, which is slowly advancing northward. With the 12Z LCH sounding indicating MLCAPE around 2300 J/kg supported by around 8-C/km midlevel lapse rates above a 15-g/kg mean mixing ratio, and minimal MLCINH, only minimal low-level ascent has been necessary to support this activity. As such, other isolated storms may also form over this segment of the warm frontal zone during the next few hours, as modest diurnal heating occurs, while the aforementioned thunderstorm cluster continues spreading eastward. While stronger wind profiles are located to the west, around 35 kt of effective shear and 200 m2/s2 of effective SRH will support occasional supercell structures capable of severe hail, wind, and possibly a tornado risk. However, with stronger deep ascent located farther west, any severe risk should be quite isolated this morning -- before a more substantial increase in the severe risk occurs later today."
+    },
+    {
+      "year": 2017,
+      "number": 401,
+      "issue_utc": "2017-04-02T14:44Z",
+      "topic": "Tornado Watch 108",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0401.html",
+      "summary": "Threat for tornadoes will persist in ww 108 through the morning from south central through a part of southeast TX with greatest near-term tornado threat across that part of southeast TX including the northern part of the Houston county warning area. Otherwise, damaging wind and large hail are also likely with the stronger storms.",
+      "discussion": "Greatest near-term tornado threat appears to be with discrete supercells over the northern part of the Houston county warning area where surface-based storms are interacting with the favorably sheared environment, and large 0-1 km hodographs exist in vicinity of the warm front. Farther west a squall line from near Lampasas to just east of Cotulla is advancing east at 30 kt. While damaging wind remains the primary threat with the line, QLCS tornadoes with embedded meso-vortices are possible as this activity continues east. Primary zone of deeper ascent along and north of the upper jet axis should remain well inland of the south TX coast. The 12Z raob from Corpus Christi indicates a strong cap in place which will likely persist. While the southern portion of the line will likely continue to affect the northern part of the Corpus Christi CWA, current indications are that the line will struggle to develop much farther south which should precluded the need for a WW issuance across south TX. ..Dial.. 04/02/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 402,
+      "issue_utc": "2017-04-02T17:22Z",
+      "topic": "Tornado Watch 109",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0402.html",
+      "summary": "Through 1830Z, the greatest tornado potential will exist for locations near and surrounding the Lufkin area northeastward toward areas around Shreveport and Natchitoches.",
+      "discussion": "Surface pressure falls on the cooler side of an outflow-reinforced warm front analyzed from Nacogdoches County TX to Natchitoches Parish LA are associated with open-warm-sector confluence from the Upper TX Coast northward to the warm front. Convection continues developing along related convergence bands in the weakly capped and strongly unstable warm sector, and will continue spreading toward the warm frontal zone. As this activity matures ahead of a remnant squall line crossing eastern portions of central TX, tornado potential should increase given effective SRH around 400 m2/s2 near the warm front. Significant tornadoes will be possible. ..Cohen.. 04/02/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 403,
+      "issue_utc": "2017-04-02T17:49Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0403.html",
+      "summary": "The severe risk will gradually increase east of ongoing Tornado Watch 109. While not presently likely, these areas will continue to be monitored for possible watch issuance through mid-afternoon. The severe risk and watch probabilities will increase later in the afternoon.",
+      "discussion": "Positive theta-e advection in association with a northward-advancing warm front analyzed from west-central LA to southern LA continues fostering convective development over south-central LA. This activity is blossoming over the northern extent of an uncapped, very moist boundary layer supporting 2000-3000 J/kg of MLCAPE. Lake Charles radar imagery indicates many cells already exhibiting supercellular characteristics, and this activity may continue developing northward across areas east of Tornado Watch 109. Stronger deep ascent remains displaced to the west of the area, and overall confidence in a more widespread severe risk is limited in the short term. Nevertheless, with 35-50 kt of effective shear supporting organized convective structures and effective SRH of 300-500 m2/s2 building northward, the conditional risk for severe hail, wind, and tornadoes may exist through mid-afternoon. By later in the afternoon, as stronger deep ascent arrives, unconditional severe-thunderstorm and tornado probabilities will increase."
+    },
+    {
+      "year": 2017,
+      "number": 404,
+      "issue_utc": "2017-04-02T19:06Z",
+      "topic": "Tornado Watch 110",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0404.html",
+      "summary": "The risk for significant tornadoes is increasing across Particularly Dangerous Situation Tornado Watch 110.",
+      "discussion": "Echo tops in association with supercell clusters and quasi-linear convective segments containing embedded supercells have exhibited notable increasing trends per radar imagery. This activity is intensifying within a warm advection plume preceding a midlevel shortwave trough spreading across Texas. Pressure falls have been increasing in magnitude within the open warm sector from parts of the lower Sabine Valley eastward through central LA, south of a warm front analyzed from south of Shreveport to north of Alexandria LA. This suggests that increasing deep ascent will continue to encourage convective sustenance/intensification. The VAD wind profile at POE indicates a substantially curved hodograph in the lowest 3 km above ground, with around 400 m2/s2 of 0-1-km SRH. Rotating updrafts will remain likely as convection spreads eastward/east-northeastward across the region. The risk for significant tornadoes is increasing, along with damaging winds and severe hail. ..Cohen.. 04/02/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 405,
+      "issue_utc": "2017-04-02T20:08Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0405.html",
+      "summary": "The area is being monitored for increasing severe thunderstorm potential from the west. It is uncertain whether this potential will extend into areas east of ongoing Watch 110 in the short-term. However, the risk for severe storms will increase later this evening into tonight, when watch-issuance probabilities may increase.",
+      "discussion": "Isentropic ascent within a moist/weakly capped air mass continues supporting an area of open-warm sector supercell clusters across south-central LA. The 18Z Slidell LA sounding sampled around 2000-2500 J/kg of MLCAPE, characterizing the inflow over the southern extent of the aforementioned convection. With 40-50 kt of effective shear, and 250-400 m2/s2 of effective SRH, conditional risk for tornadoes, severe hail, and severe wind will exist. Given the breadth of the warm sector, and continued moistening from the south, there is some potential for the aforementioned convection to spread into the area from the west in the short-term, or perhaps convection could develop across the MCD area. Regardless, confidence in sustained severe convection is limited at present. The severe-thunderstorm/tornado potential will increase into the evening hours as comparatively stronger deep ascent approaches the area from the west."
+    },
+    {
+      "year": 2017,
+      "number": 406,
+      "issue_utc": "2017-04-02T20:13Z",
+      "topic": "Tornado Watch 110",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0406.html",
+      "summary": "Threat for a few strong tornadoes will persist next couple hours with discrete storms developing through central LA. In addition, the squall line may pose a risk for a few QLCS tornadoes as well as significant wind damage and hail as it advances east through LA.",
+      "discussion": "Discrete supercells continue to mature as they develop north and interact with warm front across central LA where VWP data show large low-level hodographs with 0-1 km storm relative helicity from 300-400 m2/s2. Tornadoes, a few of which will be strong, will remain likely with these storms this afternoon. Farther west a squall line is advancing east at around 40 kt. Organized structures continue to be observed within the line including bowing segments, embedded supercells and mesovortices. In addition to damaging wind, QLCS tornadoes are likely as the squall line continues east and especially where the line intersects the warm front across central LA. ..Dial.. 04/02/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 407,
+      "issue_utc": "2017-04-02T20:31Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0407.html",
+      "summary": "A Severe Thunderstorm Watch is forthcoming for portions of the area.",
+      "discussion": "Convection associated with the northern extent of an MCS is being enhanced by an MCV. As the downshear airmass continues destabilizing, the risk for severe wind gusts will spread eastward."
+    },
+    {
+      "year": 2017,
+      "number": 408,
+      "issue_utc": "2017-04-02T21:23Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0408.html",
+      "summary": "Isolated severe thunderstorms may occur across the middle and lower TX Coast into the evening hours. While environmental and radar trends will continue to be monitored, present indications are that the severe risk should be too isolated for watch issuance.",
+      "discussion": "Weak low-level ascent along an aggregate outflow / sea breeze / prefrontal trough, extending about 30 miles inland from the TX Coast, is supporting towering cumulus and isolated thunderstorm development. The combination of weak low-level flow and related convergence per area VAD wind profiles and surface observations, and ample midlevel drying per water vapor imagery, suggest that updraft development could be hindered. However, with the approach of a midlevel vorticity maximum from the west, some increase in thunderstorm development may occur along the aforementioned aggregate boundary through the evening hours. Rich low-level moisture and strong surface heating supporting 2500-3500 J/kg of MLCAPE may conditionally support a few sustained and deep updrafts. Moreover, with 55-65 kt of effective shear, organized convection and perhaps an isolated supercell or two could evolve. Sporadic instances of severe wind and/or hail may accompany this activity into the evening hours, before nocturnal destabilization results in a diminishing severe risk."
+    },
+    {
+      "year": 2017,
+      "number": 409,
+      "issue_utc": "2017-04-02T22:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0409.html",
+      "summary": "A bow echo is approaching northern Mississippi early this evening. While the air mass becomes less favorable for strong winds with northeastward extent, some residual damaging-wind threat downstream of Watch 110 may necessitate a small severe thunderstorm watch.",
+      "discussion": "A mature bow echo is accelerating northeastward through northern portions of Watch 110 currently. Surface observations depict a strong pressure rise/fall dipole pattern, with 2+ mb/hr rises behind the line and 1.5-2 mb/hr falls ahead of the line. On the nose of stronger southwesterly mid-level flow, this line should continue to advance northeastward rapidly, likely reaching the northern extent of Watch 110 by 23Z. While southeasterly flow is transporting warm/moist air northward across Mississippi, the speed of this bow will likely outpace significant low-level destabilization, resulting in an eventual downturn in overall intensity. Nonetheless, considering the current organization of the line and the potential for enhanced mixing within a drier low-level air mass to its northeast, some damaging-wind threat may extend beyond the current watch. Therefore, new issuance could be needed within the next hour across northern Mississippi."
+    },
+    {
+      "year": 2017,
+      "number": 410,
+      "issue_utc": "2017-04-02T22:54Z",
+      "topic": "Tornado Watch 110",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0410.html",
+      "summary": "A threat for a couple tornadoes, damaging wind gusts, and a few instances of large hail remains across southern/central portions of Watch 110.",
+      "discussion": "Radar trends across the Sabine Valley depict confluent bands of convection feeding into the upshear flank of a larger-scale convective system over the Mid-South this evening. With an evolution towards a more southwest-northeast band of convection, low-level shear vectors are now oriented more line-parallel, potentially reducing the threat for multiple QLCS circulations. Nonetheless, smaller-scale bow structures and related inflection points embedded within the broader line may still yield a threat for damaging wind gusts and a couple tornadoes this evening. Additionally, continued large-scale ascent with the approach of the main trough is fostering more discrete convective development along the aforementioned confluent bands within the open warm sector. These cells exist within a warm/moist environment characterized by continued ample storm-relative helicity. As such, there will likely remain a threat for a couple tornadoes, damaging gusts, and some large hail over the next several hours. ..Picca.. 04/02/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 411,
+      "issue_utc": "2017-04-03T01:07Z",
+      "topic": "Tornado Watch 110",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0411.html",
+      "summary": "The threat for damaging winds and a few tornadoes may increase some across the discussion area over the next 2-3 hours. A new watch will be issued prior to the 02Z expiration of Tornado Watch 110 across the Lake Charles, LA county warning area.",
+      "discussion": "Opposing propagation and advection vectors have led to a relatively stationary southwest-northeast band of strong/severe convection this evening over extreme southeast Texas and southern/central Louisiana. The 00Z LCH sounding sampled deep southerly flow which is continuing to transport ample moisture towards this linear system. Additionally, relatively steep 700-500mb lapse rates (around 7 C/km) are contributing to MLCAPE values around 2000-3000 J/kg along and to the south of the ongoing complex. As large-scale forcing for ascent amplifies in response to an approaching impulse (noted over south-central Texas in water-vapor imagery), ascending parcels along the southwest edge of this line should be able to reach their LFC more efficiently. The band will then likely re-orient in a more meridional fashion as it advances eastward, encountering an unstable environment with effective SRH around 200-300 m2/s2. In turn, a threat for damaging winds and a few embedded tornadoes may increase somewhat within the next 2-3 hours. A new watch will be issued to replace Watch 110 in the Lake Charles CWA. ..Picca.. 04/03/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 412,
+      "issue_utc": "2017-04-03T02:09Z",
+      "topic": "Tornado Watch 111",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0412.html",
+      "summary": "The threat for damaging winds and a couple of tornadoes still exists across the watch into the overnight hours.",
+      "discussion": "While northern portions of the watch have stabilized owing to earlier convection and ongoing precipitation, MLCAPE over 1000 J/kg (e.g., 00 UTC LIX sounding) remains in place across the warm sector over southeastern Louisiana and southern Mississippi. Discrete storms developing in the warm sector ahead of the main QLCS will pose the greatest threat for tornadoes and large hail over the next few hours. With time, the quasi-stationary QLCS extending southwest-northeast across central Louisiana and Mississippi is expected to assume a more meridional orientation, as the shortwave approaching from the west rotates through the base of the main trough. Consequently, damaging winds from an eastward-propagating MCS will likely become the primary severe weather threat by 05-06Z, though embedded circulations in the line will still pose a tornado risk. ..Jirak.. 04/03/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 413,
+      "issue_utc": "2017-04-03T04:37Z",
+      "topic": "Tornado Watch 111",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0413.html",
+      "summary": "Threat for damaging winds and perhaps a couple of tornadoes will potentially focus over southeastern Louisiana and parts of southern Mississippi later tonight. A replacement watch may be considered prior to the 07Z expiration of Watches 111/113.",
+      "discussion": "An expansive mesoscale convective system continues late this evening across the lower Mississippi Valley. While a considerable precipitation shield over northern Louisiana and central/northern Mississippi has limited the northward progress of a warm front, deep/moist southerly flow across the warm sector is maintaining robust convective elements within the broader system. There has been a relative lull in severe reports recently, but a modest uptick in the potential for damaging winds (and perhaps a couple line-embedded tornadoes) may occur. With increasing large-scale ascent associated with an approaching impulse, cells should organize into a more focused meridional line from southeastern Louisiana northward into Mississippi. MLCAPE values around 1500-2500 J/kg will likely support a squall line that advances towards the central Gulf Coast through the overnight. Line-parallel low-level shear vectors suggest primarily an occasional damaging-wind threat with this line. However, the amplitude of low-level shear may also favor small-scale embedded circulations. A replacement watch could be considered prior to the 07Z expiration of Watches 111/113. ..Picca.. 04/03/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 414,
+      "issue_utc": "2017-04-03T06:51Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0414.html",
+      "summary": "An elevated cluster of thunderstorms will track to the east-northeast across central to northeast AL through 09-10Z. Locally strong wind gusts of 40-50 kt will be possible. Overall limited coverage and severe threat with this cluster of storms precludes the need for severe-weather watch.",
+      "discussion": "Trends in mosaic radar imagery showed a small cluster of storms moving to the east-northeast at 30 kt, and was located from western Jefferson to Bibb counties at 0625Z. Given 05Z RAP forecast soundings indicating a dry sub-cloud layer and 50+ kt velocities on the BMX radar located around 300 ft in western Shelby county, locally strong winds gusts approaching or exceeding 50 kt could occur as these storms advance to the east-northeast. This activity appears to be on the leading northeast edge of higher precipitable water return across AL, while forcing for ascent with a northeastward-moving impulse tracks across northern AL into eastern TN overnight, maintaining convective development."
+    },
+    {
+      "year": 2017,
+      "number": 415,
+      "issue_utc": "2017-04-03T08:59Z",
+      "topic": "Tornado Watch 114",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0415.html",
+      "summary": "Storms capable of producing damaging winds and a tornado threat continue to advance east across WW 114 in southeast LA and southern to east-central MS. The bands of storms, bowing at times, will advance into southwest and central AL early this morning, with central portions of AL expected to be affected prior to the Mobile metro area. A new WW is being considered for parts of central AL.",
+      "discussion": "Trends in mosaic radar imagery showed a quasi-linear MCS advancing steadily toward the east early this morning, while 40-45 kt southerly low-level jet maintains an influx of moisture northward in advance of the QLCS across WW 114 and in AL. This is resulting in destabilization into central AL. Although weak instability at this time in that area, strong bulk shear and an approaching bowing line from east-central MS could pose a severe-weather threat with eastward extent. Ongoing shower and thunderstorms across northern AL should limit the northward extent of greater destabilization to central parts of that state. These factors suggest a new WW will need to be considered within the hour to the east of WW 114. At 0850Z, the QLCS extended from east-central MS (Kemper to Clarke counties), and then southwest through southern MS to southeast LA (approaching Lake Pontchartrain and the New Orleans metro area). Moderately strong instability and effective bulk shear/vectors of 50+ kt crossing the southern extent of the QLCS into southern MS and southeast LA suggest embedded tornadoes will remain a threat, in addition to damaging winds. Latest VWP at Slidell, LA indicated large low-level hodograph curvature, favoring a continued tornado threat (0-1 km SRH close to 300 m2/s2)."
+    },
+    {
+      "year": 2017,
+      "number": 416,
+      "issue_utc": "2017-04-03T11:43Z",
+      "topic": "Tornado Watch 114",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0416.html",
+      "summary": "Severe-weather including damaging winds and a tornado threat continues across the eastern half of WW 114 through 14-15Z. A new tornado watch will be issued around 12Z across the rest of southern AL into the western and central parts of the FL Panhandle.",
+      "discussion": "At 1120Z, mosaic radar imagery showed an eastward-moving QLCS moving across central and southwest AL, extreme southeast MS, and far southeast LA. A 50-60 kt southerly low-level jet extending into southern AL will maintain moisture return beneath steep midlevel lapse rates. This will result in further destabilization with MLCAPE values becoming 1500-2000 J/kg to the east of the ongoing QLCS. Meanwhile, as the upstream shortwave trough takes on more of a negative tilt today, vertically veering winds are expected to strengthen into this afternoon enhancing deep-layer and low-level shear for all severe hazards. Severe weather will persist across the remaining portion of WW 114 into the Southeast States, reaching western portions of GA by late morning or midday, as strong forcing for ascent spreads across the discussion area."
+    }
+  ]
+}

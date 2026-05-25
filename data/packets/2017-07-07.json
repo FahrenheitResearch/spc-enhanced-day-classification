@@ -1,0 +1,206 @@
+{
+  "convective_day": "2017-07-07",
+  "valid_start": "2017-07-07T12:00Z",
+  "valid_end": "2017-07-08T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-07-07",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-07-07T13:00Z",
+      "valid_end": "2017-07-08T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170707_1300.html",
+      "summary": "Severe thunderstorms are expected across the Ohio Valley and portions of the lower Great Lakes mainly this afternoon and early evening. Other more isolated strong to severe thunderstorms can be expected across the central High Plains to the Ozark Plateau and possibly the Carolinas vicinity.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "A relatively amplified large-scale pattern will exist over the CONUS today, with multiple shortwave impulses crossing the Midwest, Northeast States and Plains to the east of an upper-level ridge centered over the Great Basin and Four Corners area."
+        },
+        {
+          "title": "Ohio Valley/Great Lakes",
+          "text": "Strengthening mid/high-level west-northwesterly winds are expected today amidst cyclonic upper flow. Several subtle and/or convectively related disturbances will cross the region today ahead of a more consequential disturbance/speed max that will spread southeastward from northern MN and reach the Lake MI vicinity by early evening. Increasing early-day storms across northern IN could persist southeastward today, especially in areas along and west of MCS-related early-day outflow across OH, with other peripheral development expected near a southeastward-moving front within an increasingly moist and unstable environment especially from southern IL into IN/OH. For additional early-day details, see Mesoscale Discussions 1253 and 1254. 12Z observed soundings from Davenport IA/Lincoln IL sample a plume of relatively steep mid-level lapse rates that will continue to advect east-southeastward across the region today, while the Davenport IA sounding in particular sampled 40-55 kt high-level northwesterly winds. Steepening lapse rates/moderate buoyancy in conjunction with strengthening wind aloft will support some supercells aside from more prevalent line segments/bows. Bouts of severe hail "
+        },
+        {
+          "title": "Central High Plains to Ozark Plateau",
+          "text": "On the periphery of the western states upper ridge, a few weak disturbances may top the ridge over the northern Rockies and dig southeast toward the High Plains of WY/CO. Forecast soundings across the High Plains exhibit surface-6km bulk shear on the order of 35-40 kt, more than adequate for sustaining organized convection including a few supercells where storms develop. Elsewhere, strong heating across southern KS/northern OK into southern MO should encourage relatively high-based convection along southward-moving cold front. Gusty winds are the primary threat with this convection."
+        },
+        {
+          "title": "Carolinas vicinity",
+          "text": "Isolated strong to severe thunderstorms capable of wind damage appear possible across the region mainly this afternoon. ..Guyer.. 07/07/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-07-07",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-07-07T16:30Z",
+      "valid_end": "2017-07-08T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170707_1630.html",
+      "summary": "Severe storms producing scattered swaths of damaging winds and large hail are likely over the Midwest centered on portions of Indiana and Ohio this afternoon.",
+      "sections": [
+        {
+          "title": "THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS CAROLINAS",
+          "text": "...SUMMARY... Severe storms producing scattered swaths of damaging winds and large hail are likely over the Midwest centered on portions of Indiana and Ohio this afternoon."
+        },
+        {
+          "title": "Midwest",
+          "text": "Strong to severe storms are ongoing across parts of northern IN and northwest OH. Robust diabatic heating is underway to the south of this activity, including in the wake of weak outflow near the upper OH River associated with decaying convection approaching the northern/central Appalachians. With widespread lower 70s surface dew points overlapping the eastern periphery of steep mid-level lapse rates around 7 degree C/km from 700-500 mb as sampled by 12Z Davenport and Lincoln RAOBs, large buoyancy will likely develop at peak heating with MLCAPE reaching 2000-3000 J/kg across IL/IN into southwest OH. While stronger mid-level northwesterlies associated with a shortwave trough near the MN/ON border will lag to the northwest of the Midwest storms, moderate west-northwesterlies will be sufficient for organized structures, including embedded supercells and bowing line segments. Multiple MCSs appear probable with the ongoing activity spreading southeast across OH, with additional storms likely forming westward in IN near the intersection of early-day outflow and a southeastward-progressing cold front. Given the dominant linear/cluster modes, damaging winds appear to be the primary hazard,"
+        },
+        {
+          "title": "Central High Plains",
+          "text": "Between a southeast Canada trough and Great Basin anticyclone, modest mid-level northwesterlies will prevail, with a couple embedded disturbances topping the ridge over the northern Rockies. Isolated storms will develop over the Rockies and Black Hills by late afternoon. Effective shear of 25-35 kt may yield a few organized storms as they spread onto the adjacent plains. Sporadic occurrences of hail and wind are probable, but confidence is low in identifying a more concentrated area of storm development for a Slight risk this outlook."
+        },
+        {
+          "title": "Elsewhere",
+          "text": "Generally isolated strong to severe storms mainly with damaging wind and some hail will be possible across the Northeast, Ozark Plateau, Carolinas, and Wisconsin. ..Grams/Mosier.. 07/07/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-07-07",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-07-07T20:00Z",
+      "valid_end": "2017-07-08T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170707_2000.html",
+      "summary": "Severe storms producing scattered swaths of damaging winds and hail will likely persist over the Midwest into the Ohio Valley this afternoon and early evening. Other more sparse/isolated strong to severe storms are possible over the central and southern High Plains and the Great Lakes regions",
+      "sections": [
+        {
+          "title": "Ohio Valley area",
+          "text": "Clusters of storms will continue developing southeast through this region producing mainly strong to severe wind gusts and some hail. Have adjusted the enhanced and slight risk areas to better reflect latest mesoscale trends."
+        },
+        {
+          "title": "Central High Plains region",
+          "text": "Isolated storms developing primarily over the higher terrain will spread southeast into a portion of the High Plains into early evening. A few downburst winds are possible with this activity, but coverage of severe events is expected to remain sparse. ..Dial.. 07/07/2017 .PREV DISCUSSION... /ISSUED 1119 AM CDT Fri Jul 07 2017/"
+        },
+        {
+          "title": "Midwest",
+          "text": "Strong to severe storms are ongoing across parts of northern IN and northwest OH. Robust diabatic heating is underway to the south of this activity, including in the wake of weak outflow near the upper OH River associated with decaying convection approaching the northern/central Appalachians. With widespread lower 70s surface dew points overlapping the eastern periphery of steep mid-level lapse rates around 7 degree C/km from 700-500 mb as sampled by 12Z Davenport and Lincoln RAOBs, large buoyancy will likely develop at peak heating with MLCAPE reaching 2000-3000 J/kg across IL/IN into southwest OH. While stronger mid-level northwesterlies associated with a shortwave trough near the MN/ON border will lag to the northwest of the Midwest storms, moderate west-northwesterlies will be sufficient for organized structures, including embedded supercells and bowing line segments. Multiple MCSs appear probable with the ongoing activity spreading southeast across OH, with additional storms likely forming westward in IN near the intersection of early-day outflow and a southeastward-progressing cold front. Given the dominant linear/cluster modes, damaging winds appear to be the primary hazard,"
+        },
+        {
+          "title": "Central High Plains",
+          "text": "Between a southeast Canada trough and Great Basin anticyclone, modest mid-level northwesterlies will prevail, with a couple embedded disturbances topping the ridge over the northern Rockies. Isolated storms will develop over the Rockies and Black Hills by late afternoon. Effective shear of 25-35 kt may yield a few organized storms as they spread onto the adjacent plains. Sporadic occurrences of hail and wind are probable, but confidence is low in identifying a more concentrated area of storm development for a Slight risk this outlook."
+        },
+        {
+          "title": "Elsewhere",
+          "text": "Generally isolated strong to severe storms mainly with damaging wind and some hail will be possible across the Northeast, Ozark Plateau, Carolinas, and Wisconsin."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 1253,
+      "issue_utc": "2017-07-07T12:02Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1253.html",
+      "summary": "Locally strong/damaging wind gusts will remain possible this morning as a line of storms advances southeast at 35-40 kt across eastern OH through 13-14Z (9-10 AM EDT). These storms should reach northwest PA (Mercer and Lawrence counties around 13Z (9 AM EDT) and into the northern WV Panhandle and southwest PA around or after 14Z (10 AM EDT). WW issuance is unlikely in the short term, though convective trends will be monitored for an increase in storm intensities and/or forward storm movement (e.g. exceeding 40 kt) that would warrant WW issuance later this morning into western PA.",
+      "discussion": "At 1155Z, mosaic radar imagery showed a line of storms extending from Knox County to Cuyahoga County and then over Lake Erie (approximately 35 NNE CLE), and moving to the southeast at 35-40 kt. At this speed, locally strong and/or damaging wind gusts will be possible. Current objective analyses downstream across eastern OH into western PA indicated a more stable air mass, with surface observations also detecting fog at several locations across the discussion area. Meanwhile, visible satellite imagery suggested the onset of diabatic heating, except from southeast OH into far southwest PA where skies are overcast, should allow for gradual steepening of surface-3 km lapse rates through this morning. This could enhance the potential for stronger winds to reach the surface."
+    },
+    {
+      "year": 2017,
+      "number": 1254,
+      "issue_utc": "2017-07-07T12:51Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1254.html",
+      "summary": "Storms are expected to become more widespread through this morning into the early afternoon across northern into central IN and parts of northwest to west-central OH. The probability for an increase in severe storm coverage should increase, with large hail and damaging winds being the primary severe-weather threats. Convective trends will be monitored across this region, with the potential for WW issuance later this morning.",
+      "discussion": "Morning time-lapse of radar imagery and lightning intensities showed a small cluster of storms increasing in intensity across far northern IN (Porter County to Elkhart County), with IR satellite imagery indicating cooling cloud tops. These storms formed in an environment consisting of steep midlevel lapse rates (7-8 C/km in the 3-5 km layer per 12Z RAOBS at ILX/DVN), moderate instability, and effective bulk shear of 35-45 kt. 1.75 inch hail was reported with a storm in Porter County at 1207Z. The 06Z NAM/09Z ESRL HRRR, while slow with convective initiation across northern IN, suggest storm coverage will increase across the rest of northern IN into northwest OH through the late morning and spread into central IN and west-central OH by or after Noon. Visible satellite imagery indicated strong surface heating will occur today, further destabilizing the environment with mixed-layer CAPE exceeding 2000 J/kg. This combined with an increase in effective bulk shear to 40-50 kt this afternoon suggests organized severe storm coverage should increase later this morning into the early afternoon, with large hail and damaging winds the primary severe-weather threats. Although stronger forcing for ascent is expected to arrive into the Midwest later today, the trailing portion of a shortwave trough moving through southern Lower MI at this time may continue to provide sufficient upward vertical motion for additional storm development into this afternoon across the discussion area."
+    },
+    {
+      "year": 2017,
+      "number": 1255,
+      "issue_utc": "2017-07-07T15:22Z",
+      "topic": "Severe Thunderstorm Watch 401",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1255.html",
+      "summary": "Additional thunderstorm intensification will likely require further boundary layer heating and more storm-scale organization for the wind damage threat to increase.",
+      "discussion": "Subjective surface mesoanalysis places a decaying outflow boundary from south-central OH northwestward into northwest OH where the gradient becomes less defined. An appreciably moist/unstable airmass resides near and to the west of the outflow with surface temperatures rising into the lower 80s degrees F with lower 70s dewpoints. Forecast soundings across eastern IN and western OH show temperatures warming into the upper 80s by early to mid afternoon which will contribute to a more unstable boundary layer. Adjustments on the storm-scale will probably be required for the wind-damage risk to increase in the near term across portions of east-central IN and west-central OH. A gust front has become slightly displaced to the south and southwest of the ongoing thunderstorm activity. Once deeper updrafts develop today (echo tops increasing from 35-40 kft to 40-50 kft), it will signal more vigorous thunderstorms and a corresponding uptick in the severe risk will probably materialize. ..Smith.. 07/07/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1256,
+      "issue_utc": "2017-07-07T17:07Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1256.html",
+      "summary": "A new severe thunderstorm watch will likely be needed by 130-200 PM EDT as a squall line over west-central OH moves to the southeast with a corresponding risk for isolated wind damage.",
+      "discussion": "Radar mosaic during the past hour has shown a reorientation of a convective cluster into west-southwest to east-northeast squall line. The Marion, OH ASOS measured a 43-kt gust at 1633Z. Surface conditions over southwest OH have warmed into the middle 80s degrees F with cooler temperatures in the upper 70s over southeastern OH to the north of an outflow boundary. Visible satellite imagery shows a swelling cumulus field across southwestern into south-central OH. To the northeast of the early-day outflow, an absence of cumulus has been noted. This likely delineates a southwest-northeast zone in which the boundary layer will appreciably destabilize and foster a greater threat for wind damage compared to perhaps more of a localized risk to the northeast. Expecting a gradual intensification of thunderstorms this afternoon. Isolated swaths of 50-60 mph winds will be capable of wind damage. An eddy or two embedded within the line may yield a brief/weak tornado or swath of wind damage."
+    },
+    {
+      "year": 2017,
+      "number": 1257,
+      "issue_utc": "2017-07-07T17:19Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1257.html",
+      "summary": "Thunderstorm coverage is expected to increase across east-central IL and west-central IN. Some of these storms will likely be severe and a watch will be needed across portions of region.",
+      "discussion": "Recent surface analysis reveals numerous boundaries across the region. The most prominent in terms of convective development is the southwestward progressing outflow boundary extending from Cook (in far northeast IL) county southeastward into central IN and then eastward into central OH. Several strong/severe storms developed quickly along this boundary in Lake and Porter counties. Intensity of these storms appears to have peaked but additional cellular development is possible along this outflow boundary with the thermodynamic and kinematic environment supportive of strong updrafts capable of hail and damaging downburst winds. Another surface boundary in the region is the pre-frontal trough extending from Cook county southwestward to just south of PIA and continuing southeastward into northeast MO. Development has occurred along this boundary in Grundy county with additional development possible ahead of this boundary across east-central IL where dewpoints in the 70s and cooling mid-level temperatures have resulted in no convective inhibition and MLCAPE around 2000 J/kg. Overall, thunderstorm coverage is expected to increase in the area between the two boundaries mentioned with some of these storms capable of large hail and damaging wind gusts. A watch will likely be needed to covered this severe weather threat."
+    },
+    {
+      "year": 2017,
+      "number": 1258,
+      "issue_utc": "2017-07-07T19:35Z",
+      "topic": "Severe Thunderstorm Watch 402",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1258.html",
+      "summary": "Swaths of wind damage from isolated 50-65 mph gusts are likely west of the spine of the Appalachians. It is unclear how much of a severe risk will develop east of severe thunderstorm watch 402. An additional watch is possible (50%).",
+      "discussion": "Radar mosaic shows a forward propagating squall line with a bowing segment moving southeast at 40 kt over far southeastern OH with a MCV probably beginning to develop in east-central OH. Surface observations from central OH have measured gusts in the 35-50 kt range during the past 1.5 hours. Subjective surface analysis indicates a low-level moist axis extending northeast from northern Ky along the OH River Valley into southwest PA with 68-73 degree F surface dewpoints. A slightly drier airmass (less buoyant) is located over the Shenandoah Valley with lower 60s dewpoints but 0-3 km lapse rates have steepened. Current thinking is the squall line will move into the eastern portions of severe thunderstorm watch 402 over the next few hours. An EXtension-in-Area (EXA) to the watch will likely be needed given the airmass recovery from Cumberland county, MD southward into Pocahontas county, WV. Although short-term model guidance suggests an overall weakening in the convective line from the Cumberland county to Pocahontas county corridor, the airmass has destabilized east of the higher terrain. The convective line will probably be maintained and may yield a localized to isolated risk for wind damage during the early evening across western and northern portions of VA. ..Smith.. 07/07/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1259,
+      "issue_utc": "2017-07-07T19:54Z",
+      "topic": "Severe Thunderstorm Watch 401",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1259.html",
+      "summary": "Line of storms moving through central IN is expected to continue southeastward for at least the next few hours. Continued threat for damaging wind gusts and isolated hail will necessitate the issuance of a downstream watch.",
+      "discussion": "Complicated surface pattern exists across the region with multiple boundaries interacting with the ongoing convective complexes. Outflow boundary associated with the convective line moving across southeast OH extends back northwestward through southwest OH and into central IN where it intersects a pre-frontal trough ahead of the approaching cold front. The intersection is near OKK, where several ongoing storms have recently strengthened, likely as a result of storm mergers. Overall expectation is for the ongoing complex to continue southeastward along and south of the outflow boundary into southeast IN, southeast OH, and portions of north-central KY. Damaging wind gusts and isolated hail are possible as these storms continue southeastward and a watch will likely be needed across portions of the region. Some of this area (i.e. southwest OH) is in Watch 401, which is schedule to expire at 21Z, so the new watch will be issued to effectively replace portions of Watch 401."
+    },
+    {
+      "year": 2017,
+      "number": 1260,
+      "issue_utc": "2017-07-07T21:24Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1260.html",
+      "summary": "Thunderstorms capable of damaging wind gusts are possible across southeast CO this afternoon/evening.",
+      "discussion": "Recent KPUX radar imagery shows well-defined outflow propagating from the storms over El Paso and Pueblo counties. Airmass over the region is characterized by a well-mixed boundary layer with temperatures in the mid 90s and dewpoints around 50. Latest mesoanalysis suggest MLCAPE is around 1000 J/kg and little to no convective inhibition. As a result, additional development is possible along the outflow, leading to some potential for a forward-propagating convective system. However, confidence is low in the potential for upscale growth. Even if linear development is realized, the lack of stronger flow aloft should preclude the organization of a long-lived, severe MCS. Regardless of the overall convective evolution, given the deeply mixed environment and high cloud bases, some strong wind gusts are possible along the leading edge of the outflow. Large uncertainty regarding the overall convective evolution precludes higher watch probabilities but convective trends will be monitored closely."
+    },
+    {
+      "year": 2017,
+      "number": 1261,
+      "issue_utc": "2017-07-07T21:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1261.html",
+      "summary": "Isolated damaging wind gusts are possible across southern KS and northern OK for the next several hours. Anticipated isolated nature of the severe threat is expected to preclude the need for a watch.",
+      "discussion": "Recent visible satellite imagery has shown increased cu along the cold front draped along the OK/KS border. Convective initiation has been realized near eastern OK/KS border vicinity and a few deeper cu appear to be developing over the central OK Panhandle and southwest KS. Temperatures have climbed into the upper 90s/low 100s with dewpoints in the upper 50s to low 60s, which is supporting MLCAPE around 2000 J/kg and little to no convective inhibition. The region is displaced south of the stronger mid-level flow aloft, which is limited vertical shear and the potential for better storm organization. Even with only limited storm organization, moderate instability will still support strong updrafts. These strong updrafts within the moist but deeply mixed airmass will result in the potential for some water-loaded downbursts. Resulting limited severe coverage and lack of better storm organization is expected to preclude the need for a watch."
+    },
+    {
+      "year": 2017,
+      "number": 1262,
+      "issue_utc": "2017-07-07T22:34Z",
+      "topic": "Severe Thunderstorm Watch 402",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1262.html",
+      "summary": "Thunderstorms will overspread southern Indiana and north central/ northeastern Kentucky through 8-10 PM EDT, with potentially damaging wind gusts becoming the primary severe weather threat. The need for additional watches to the south/southeast of current watches is not currently anticipated, but trends will continue to be monitored.",
+      "discussion": "A corridor of stronger pre-frontal surface heating to near 90F, beneath a plume of modestly steep mid-level lapse rates associated with elevated mixed layer air emanating from the central Plains, has contributed to moderate mixed layer CAPE across the region. And 30 kt west northwesterly deep layer mean flow is contributing to at least some continuing southward propagation of upstream vigorous convective development into this environment. Aided by favorably unstable inflow, thunderstorms seem likely to maintain intensity into at least the 00-02Z time frame, accompanied by a risk for potentially damaging surface gusts, near/west through north of Louisville eastward along/north of the Interstate 64 corridor of north central and northeastern Kentucky. ..Kerr.. 07/07/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1263,
+      "issue_utc": "2017-07-07T22:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1263.html",
+      "summary": "An isolated large hail and damaging wind threat should continue for the next few hours. Watch issuance is unlikely.",
+      "discussion": "Within large-scale upper troughing centered over the Great Lakes region, a compact shortwave trough with associated mid-level 50+ kt speed maximum is moving southeastward across WI late this afternoon. Recent visible satellite and radar imagery show a lake breeze boundary extending north-south across eastern WI, and several thunderstorms have recently intensified along this boundary as large-scale ascent attendant to the shortwave trough overspreads this region. While relatively cool surface conditions exist across eastern WI behind a surface cold front, there is sufficient cooling aloft to support weak instability, with 22Z RAP Mesoanalysis estimating up to 500 J/kg of MLCAPE has developed. Strengthening northwesterly winds above the boundary layer are supporting around 40-50 kt of effective bulk shear, and one of the thunderstorms that crossed the boundary has exhibited supercell characteristics and produced both severe hail (up to 1.5 inches) and tree damage. Additional isolated instances of large hail and strong/damaging winds will remain possible for the next several hours, with the best severe potential likely focused along the lake breeze when thunderstorms cross this boundary. This isolated severe threat should diminish later this evening with the loss of daytime heating and resultant reduction in instability. The limited spatial/temporal nature of the threat suggests watch issuance is unlikely."
+    },
+    {
+      "year": 2017,
+      "number": 1264,
+      "issue_utc": "2017-07-08T01:04Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1264.html",
+      "summary": "Widely spaced thunderstorms may pose an isolated severe threat through the remainder of the evening. Watch issuance is unlikely.",
+      "discussion": "Within a corridor a greater low-level moisture oriented from western SD to western KS, isolated convection has developed over the past several hours. The ongoing thunderstorms across southwestern SD may be related to ascent attendant to a ribbon of mid-level vorticity evident in water vapor satellite imagery. The environment across this region will support supercell structures with both a large hail and damaging wind threat, as MLCAPE ranges from 500-2000 J/kg and effective bulk shear of 35-50 kt encourages updraft organization. One of these supercells across northwestern KS has produced up to golf ball sized hail, and MRMS max hail size estimates hail up to 2.5 inches in diameter may be occurring with this thunderstorm as of 01Z. Other ongoing convection across northeastern CO will gradually spread into the better thermodynamic and kinematic environment over the next several hours, and may also pose an isolated severe threat. It is not clear if any of these widely spaced thunderstorms will be able to grow upscale into a small bowing line complex given only a modest increase in southerly low-level flow that is forecast to occur this evening. Still, there may be some potential for upscale growth with the activity emanating from northeastern CO eventually merging with the isolated supercell over northwestern KS. Regardless, current thinking is that the overall severe risk across this region should remain too isolated to warrant watch issuance, but radar trends will be monitored through the evening."
+    }
+  ]
+}

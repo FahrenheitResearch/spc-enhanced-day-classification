@@ -1,0 +1,131 @@
+{
+  "convective_day": "2017-09-01",
+  "valid_start": "2017-09-01T12:00Z",
+  "valid_end": "2017-09-02T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-09-01",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-09-01T13:00Z",
+      "valid_end": "2017-09-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170901_1300.html",
+      "summary": "Severe thunderstorms capable of isolated tornadoes and damaging wind gusts are expected over the Carolinas and southern Appalachians vicinity this afternoon into early evening.",
+      "sections": [
+        {
+          "title": "Carolinas/Southern Appalachians",
+          "text": "The remnants of Harvey, centered across the Tennessee Valley early this morning, will continue to spread slowly northeastward today and tonight. On the eastern periphery of remnant Harvey, a moderately strong low-level wind field will overspread the southern Appalachians vicinity including eastern portions of TN/KY and as far east the Piedmont of the Carolinas. Although cloud cover remains semi-prevalent in some areas early this morning, a more appreciable warming of the boundary layer will occur within the warm sector especially to the east of the southern Appalachians spine and along/south of sharpening west/east frontal zone across the Carolinas where around 500-1500 J/kg of MLCAPE is expected. Convection will likely increase and intensify this afternoon within the convergence bands east of the center of remnant Harvey. Piedmont areas and locations just east of the mountains across northern SC into NC should have the relatively highest potential for a few tornadoes this afternoon, especially with storms developing near and interacting with the aforementioned surface front across the Carolinas where low level shear/SRH will be maximized. Elsewhere, storms developing farther south"
+        },
+        {
+          "title": "Eastern North Dakota/Northwest Minnesota",
+          "text": "An upper trough will continue to amplify and dig southeastward over the Canadian Prairies and adjacent Upper Midwest through tonight. Low-level moisture will steadily increase across the region today and a narrow corridor of modest instability will develop in the pre-frontal warm sector along the eastern fringe of steeper mid-level lapse rates. Increasing forcing for ascent and adequate near-frontal convergence should allow for the development of widely scattered near-surface-based storms across eastern ND/northwest MN late this afternoon into evening. A few of the storms could produce locally damaging wind gusts. ..Guyer/Broyles.. 09/01/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-09-01",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-09-01T16:30Z",
+      "valid_end": "2017-09-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170901_1630.html",
+      "summary": "Severe thunderstorms capable of producing tornadoes and damaging wind gusts are expected over the Carolinas and southern Appalachians vicinity this afternoon into this evening.",
+      "sections": [
+        {
+          "title": "Eastern TN/KY to the Carolinas through this evening",
+          "text": "Remnants of tropical cyclone Harvey will continue moving northeastward today over TN/KY while weakening slowly. East of the circulation center, a belt of stronger low-midlevel southwesterly flow (30-50 kt per 12z soundings and recent VWPs) extends over the southern Appalachians and Carolina piedmont. At the surface, a surface trough/weak cold front will move slowly eastward across northern GA through the afternoon, while some consolidation of a baroclinic zone should occur across central NC. Broken bands of convection will form late this morning into this afternoon along and east of the surface trough, and the storms will spread northeastward across the Carolinas into this evening. There will be a narrow window of opportunity for rotating storms by midday or early afternoon from northeastern TN into eastern KY, near and just north of the surface triple point where limited surface heating may occur in small cloud breaks. The more substantial supercell/tornado threat area will be farther east into the Carolinas this afternoon, where warm sector storms interact with the east-west oriented front across NC. Here, low-level shear and hodograph curvature will be enhanced (within and just "
+        },
+        {
+          "title": "Eastern ND/northwestern MN this afternoon/evening",
+          "text": "A lead shortwave trough is passing over the eastern Dakotas as of late morning, with a band of rain/weak convection preceding the wave. Some destabilization may occur in cloud breaks this afternoon across eastern ND, though storm initiation will have to rely on only shallow ascent along a surface cold front late this afternoon/evening. Vertical shear and buoyancy could become sufficient for supercells, thus will maintain a MRGL area to reflect the conditional severe threat. ..Thompson/Gleason.. 09/01/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-09-01",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-09-01T20:00Z",
+      "valid_end": "2017-09-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170901_2000.html",
+      "summary": "Severe thunderstorms capable of producing tornadoes and damaging wind gusts are expected over mainly the Carolinas into this evening.",
+      "sections": [
+        {
+          "title": "NC/SC and GA",
+          "text": "Radar imagery indicated bands of storms extending from the Carolinas into southern GA, with the greatest coverage of stronger/more intense storms moving through central NC and north-central SC during the mid afternoon. Trends in surface and low-level wind profiles into the afternoon indicated veering to the southwest from far western NC/SC through northeast to southwest portions of GA. Given this trend, resulting in reduced low-level convergence, western portions of the severe-risk probabilities have been trimmed from the west. This includes reducing the size of the Enhanced risk area, as the greater coverage for a tornado threat is expected to affect mainly central NC and into portions of north-central SC. Meanwhile, the rest of the Enhanced and Slight risk areas remain valid, with the west-east oriented baroclinic zone in northern NC continuing to be reinforced by ongoing convection/precipitation being the northern extent of the Slight risk."
+        },
+        {
+          "title": "Eastern KY/extreme southwest VA/extreme northeast TN",
+          "text": "The lack of stronger/sustained updrafts into the mid afternoon, located closer to the remnant circulation of tropical cyclone Harvey, is likely due to the dearth of greater instability and limited convergence. Given this trend and the time of day (i.e., shorter probability for additional sufficient surface heating/ destabilization), this outlook will indicate lower tornado probabilities, resulting in a Marginal severe risk."
+        },
+        {
+          "title": "Eastern ND/northwest MN",
+          "text": "No changes as moderate instability has developed ahead of the cold front, and isolated storms have formed near this boundary in northeast ND. Thus, a marginal risk is maintained."
+        },
+        {
+          "title": "South TX",
+          "text": "A moderately unstable environment and convergence in vicinity of a boundary extending westward into south-central TX (35 SW PSX to approximately 15 NNE COT) and near a westward-moving sea breeze through Deep South TX should support additional isolated thunderstorms. This outlook includes a General thunderstorm area for parts of South TX. ..Peters.. 09/01/2017 .PREV DISCUSSION... /ISSUED 1119 AM CDT Fri Sep 01 2017/"
+        },
+        {
+          "title": "Eastern TN/KY to the Carolinas through this evening",
+          "text": "Remnants of tropical cyclone Harvey will continue moving northeastward today over TN/KY while weakening slowly. East of the circulation center, a belt of stronger low-midlevel southwesterly flow (30-50 kt per 12z soundings and recent VWPs) extends over the southern Appalachians and Carolina piedmont. At the surface, a surface trough/weak cold front will move slowly eastward across northern GA through the afternoon, while some consolidation of a baroclinic zone should occur across central NC. Broken bands of convection will form late this morning into this afternoon along and east of the surface trough, and the storms will spread northeastward across the Carolinas into this evening. There will be a narrow window of opportunity for rotating storms by midday or early afternoon from northeastern TN into eastern KY, near and just north of the surface triple point where limited surface heating may occur in small cloud breaks. The more substantial supercell/tornado threat area will be farther east into the Carolinas this afternoon, where warm sector storms interact with the east-west oriented front across NC. Here, low-level shear and hodograph curvature will be enhanced (within and just "
+        },
+        {
+          "title": "Eastern ND/northwestern MN this afternoon/evening",
+          "text": "A lead shortwave trough is passing over the eastern Dakotas as of late morning, with a band of rain/weak convection preceding the wave. Some destabilization may occur in cloud breaks this afternoon across eastern ND, though storm initiation will have to rely on only shallow ascent along a surface cold front late this afternoon/evening. Vertical shear and buoyancy could become sufficient for supercells, thus will maintain a MRGL area to reflect the conditional severe threat."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 1609,
+      "issue_utc": "2017-09-01T17:07Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1609.html",
+      "summary": "The risk for a couple of tornadoes and potentially damaging wind gusts may begin to increase by 18-20Z. Trends are being monitored for an increasing severe weather threat which could require a watch.",
+      "discussion": "Surface heating within a seasonably moist low-level environment to the lee of the southern Appalachians is contributing to ongoing boundary layer destabilization and deepening convective development across the Carolina piedmont. A relatively warm mid-level environment is resulting in generally weak lapse rates, but CAPE of 500-1000 J/kg should increase at least some further through the afternoon, and this is expected to support the gradual initiation of scattered thunderstorm activity through 18-20Z. This will coincide with some further strengthening of lower/mid tropospheric wind fields as the weakening remnants of Harvey migrate northeastward across the Tennessee Valley. Beneath 40-50 kt southwesterly 500 mb flow, a belt of 30-40 kt southerly 850 mb flow is in the process of nosing northeastward into/through the Carolina piedmont. The latest Rapid Refresh continues to suggest that this speed maximum will gradually weaken through the afternoon, however it may still remain strong enough to contribute to modest low-level hodographs, particularly where near surface winds maintain an easterly component along an evolving frontal zone across western into central North Carolina. Given the thermodynamic environment along this boundary, it appears that low-level and deep layer shear may become supportive of supercell structures in any discrete storm development. This could be accompanied by the risk for a couple of tornadoes. Otherwise, localized potentially damaging wind gusts may be possible in stronger convection, aided by heavy precipitation loading."
+    },
+    {
+      "year": 2017,
+      "number": 1610,
+      "issue_utc": "2017-09-01T18:24Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1610.html",
+      "summary": "An isolated/brief tornado and strong/gusty wind threat may develop this afternoon. Due to the limited spatial threat, watch issuance is unlikely.",
+      "discussion": "To the northeast of the center of circulation of post-tropical cyclone Harvey, a narrow zone of partial cloud breaks has allowed modest surface heating to occur early this afternoon across portions of northeastern TN and eastern KY. 18Z surface analysis shows a boundary draped generally east-west across NC, arcing northwestward across the Appalachians into far western VA/eastern KY. The modest diurnal heating and a somewhat moist low-level airmass is resulting in weak instability across this region, with MUCAPE up to 500 J/kg. The low and mid-level wind field will be supportive of updraft rotation, as VWPs from KJKL/KMRX show veering/strengthening winds through at least 4 km, with 0-3 km SRH in excess of 300 m2/s2. An isolated/brief tornado and strong/gusty straight-line winds cannot be ruled out given the favorable kinematics. However, the thermodynamic environment is expected to remain poor owing to mid-level lapse rates around 5.5-6.0 C/km. In addition, the small area along/south of the surface boundary where storms can remain surface based suggests watch issuance will probably not be needed."
+    },
+    {
+      "year": 2017,
+      "number": 1611,
+      "issue_utc": "2017-09-01T19:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1611.html",
+      "summary": "Mainly an isolated strong to damaging wind threat should persist through this evening. Watch issuance is possible.",
+      "discussion": "Scattered convection has developed within a weak confluence zone this afternoon across parts of eastern GA into central/eastern SC. Ample heating ahead of this activity has warmed surface temperatures into the upper 80s to mid 90s as of 19Z. This heating combined with a very moist low-level airmass (characterized by surface dewpoints in the lowe to mid 70s) is supporting 1500-2500 J/kg of MLCAPE. A corridor of 35-50 kt mid-level southwesterly winds is present to the east of the circulation of the remnant of Harvey, and resultant 30-40 kt of effective bulk shear values should allow for some organization with the ongoing convection as it spreads eastward over the next few hours. A mix of multicell and supercell structures could occur given the shear profiles present, with supercells more probable closer to the NC/SC border where shear is strongest. Strong to locally damaging winds will likely be the primary severe weather threat across this region, although an isolated tornado could occur across north-central into northeastern SC in closer proximity to a surface boundary and slightly greater effective SRH. Convective trends will be monitored for possible watch issuance for some portion of this region through the afternoon."
+    },
+    {
+      "year": 2017,
+      "number": 1612,
+      "issue_utc": "2017-09-01T20:44Z",
+      "topic": "Tornado Watch 477",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1612.html",
+      "summary": "The risk for an isolated tornado or two is expected to persist at least another couple of hours, along with a continuing risk for thunderstorms capable of producing potentially damaging wind gusts. It is not clear that another watch will be needed, but trends will continue to be monitored for this possibility across the remainder of eastern North Carolina.",
+      "discussion": "It appears that at least some weakening of lower/mid tropospheric wind fields associated with the remnants of Harvey has occurred. However, deep layer shear along a quasi-stationary frontal zone extending across central North Carolina remains strong. This has proven supportive of sustained supercell structures in the presence of weak to moderate boundary layer instability, including a pair of cells west through south of Raleigh, just ahead of an eastward advancing consolidating line of storms. Although low-level shear may remain somewhat modest to weak, particularly across the eastern North Carolina coastal plain, the supercells may still pose a risk for tornado development into the 22-23Z time. Otherwise, increasing organization to the upstream squall line suggests potential for increasing strong surface gusts as it advances eastward during the peak late afternoon instability. Farther west, there still appears potential for renewed thunderstorm development around the Charlotte area, where near surface winds have backed to southeasterly, maintaining surface dew points in the lower/mid 70s. ..Kerr.. 09/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1613,
+      "issue_utc": "2017-09-01T23:23Z",
+      "topic": "Tornado Watch 477",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1613.html",
+      "summary": "Tornado threat continues across WW477, primarily over eastern portions of the watch.",
+      "discussion": "Considerable amount of convective overturning has occurred across northern portions of WW477 which is reinforcing a well-defined boundary that is currently draped from near CLT to GSB. While the storm mode has gradually evolved into clusters and short line segments, a few supercells persist, especially near the wind shift over eastern portions of the watch. As diurnal cooling commences this evening weakening buoyancy should limit eastward extent of severe threat over coastal regions. While isolated severe may be noted immediately downstream of WW477 over the next hour or so at this time a new WW is not anticipated east of the current watch. ..Darrow.. 09/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

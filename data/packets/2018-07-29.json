@@ -1,0 +1,182 @@
+{
+  "convective_day": "2018-07-29",
+  "valid_start": "2018-07-29T12:00Z",
+  "valid_end": "2018-07-30T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2018-07-29",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-07-29T16:30Z",
+      "valid_end": "2018-07-30T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180729_1630.html",
+      "summary": "Scattered severe storms are expected from the central High Plains to the southern Great Plains from mid-afternoon into Monday morning. Very large hail, a few tornadoes, and damaging winds are anticipated.",
+      "sections": [
+        {
+          "title": "Mid-MS Valley to the Arklatex",
+          "text": "An MCV is present over the Ozarks with a substantial, yet overall decaying convective band to its south and southwest into far northeast TX. With weak mid-level lapse rates in the downstream air mass, along with an extensive cloud shield, confidence is low regarding substantial intensification and/or new development along convective outflow. One corridor for an isolated severe risk would probably be along the portion of the outflow in the Arklatex vicinity on the periphery of robust surface heating underway across eastern TX. Another corridor may be east of the MCV across the Mid-MS Valley with some threat for locally damaging winds."
+        },
+        {
+          "title": "Central/southern AZ",
+          "text": "In the wake of extensive convective overturning last night, an MCV is present across southwest AZ. This feature should drift northwest and will result in strengthening diabatic heating over the lower deserts as ongoing cloudiness shifts/dissipates. Nevertheless, storm development over the higher terrain should be more isolated during the late afternoon/early evening compared to yesterday. Mid-level easterlies around 20 kt will still promote potential for small multicell clusters to move west off the terrain. Thus, will maintain low severe wind probabilities centered on the Phoenix to Tucson metro areas. ..Grams/Leitman.. 07/29/2018"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2018-07-29",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-07-29T20:00Z",
+      "valid_end": "2018-07-30T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180729_2000.html",
+      "summary": "Scattered severe storms are expected from the central High Plains to the southern Great Plains through tonight. Very large hail, a few tornadoes, and isolated intense wind gusts are anticipated.",
+      "sections": [
+        {
+          "title": "Central to Southern Plains",
+          "text": "A significant-severe wind area (for the potential of isolated 75+ mph gusts) has been added across eastern Colorado and far western Kansas, where a few intense HP supercells / small-scale bows are anticipated later this afternoon into this evening. Steep mid-level lapse rates, moderate insolation, and strong northwesterly flow aloft should all contribute to an increased threat of damaging winds with these cells, and the enhanced risk has been expanded accordingly as well. Otherwise, the slight risk has been expanded southward over Oklahoma, where confidence is increasing that a weakening, but still robust convective system will maintain some damaging wind threat late tonight into central/southern portions of the state. ..Picca.. 07/29/2018 .PREV DISCUSSION... /ISSUED 1129 AM CDT Sun Jul 29 2018/ ...Central High Plains this afternoon to southern/central Plains tonight... Another round of scattered storms will initiate from the Black Hills to the higher terrain of central/eastern WY and north-central CO where sustained surface heating is underway northwest of remnant stratus/mid-level clouds. Amplification of another mid-level speed max will yield highly elongated hodographs. In conj"
+        },
+        {
+          "title": "Mid-MS Valley to the Arklatex",
+          "text": "An MCV is present over the Ozarks with a substantial, yet overall decaying convective band to its south and southwest into far northeast TX. With weak mid-level lapse rates in the downstream air mass, along with an extensive cloud shield, confidence is low regarding substantial intensification and/or new development along convective outflow. One corridor for an isolated severe risk would probably be along the portion of the outflow in the Arklatex vicinity on the periphery of robust surface heating underway across eastern TX. Another corridor may be east of the MCV across the Mid-MS Valley with some threat for locally damaging winds."
+        },
+        {
+          "title": "Central/southern AZ",
+          "text": "In the wake of extensive convective overturning last night, an MCV is present across southwest AZ. This feature should drift northwest and will result in strengthening diabatic heating over the lower deserts as ongoing cloudiness shifts/dissipates. Nevertheless, storm development over the higher terrain should be more isolated during the late afternoon/early evening compared to yesterday. Mid-level easterlies around 20 kt will still promote potential for small multicell clusters to move west off the terrain. Thus, will maintain low severe wind probabilities centered on the Phoenix to Tucson metro areas."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2018-07-30",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-07-30T01:00Z",
+      "valid_end": "2018-07-30T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180730_0100.html",
+      "summary": "Scattered severe storms will continue this evening and tonight from the central High Plains to the southern Great Plains. Large hail and damaging wind gusts are anticipated, along with a the risk for a tornado or two.",
+      "sections": [
+        {
+          "title": "Central High Plains southeast across Kansas/Oklahoma",
+          "text": "Isolated thunderstorms are ongoing from portions of Wyoming and southern South Dakota southward across eastern Colorado/western Kansas, with the most intense storms moving southeast across eastern Colorado. An isolated storm over the Weld County Colorado area remains capable of producing hail/damaging winds and possibly a tornado, but overall the tornado risk should continue to gradually diminish. Meanwhile, risk for large hail continues, and potential for damaging winds should increase over the next couple of hours, as storms grow upscale and spread southeastward in conjunction with a strengthening low-level jet. The initial hints of this upscale growth are occurring with an intense convective cluster moving south-southeast across eastern Colorado. Intense wind gusts and very large hail remain possible with this cluster, and additional upscale growth should result in damaging wind risk spreading southeastward into portions of Kansas/Oklahoma and parts of the Texas Panhandle over the next several hours."
+        },
+        {
+          "title": "Southern Arizona",
+          "text": "Isolated thunderstorms are ongoing over parts of northern Arizona near the Rim, with more widespread convection moving slowly east-southeast across southeastern portions of the state. While storms have shown little organization, limited risk for a locally damaging gust or two will continue over the next few hours, as storms drift into lower elevation areas. ..Goss.. 07/30/2018"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2018,
+      "number": 1193,
+      "issue_utc": "2018-07-29T18:22Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1193.html",
+      "summary": "A few strong wind gusts are possible this afternoon. The marginal nature of the threat will preclude the need for a watch.",
+      "discussion": "A line of storms was showing signs of some intensification this afternoon across parts of northeast TX into far southern AR. These storms are along the southward tracking cold front and associated with the remnants of an overnight MCS. The downstream airmass has experienced strong heating and with temperatures in the 90s and dewpoints near 70 F and MLCAPE has increased to around 2000 J/kg. However, modest midlevel lapse rates and weak deep layer shear will limit organization and longevity of stronger cells. This weak shear, high CAPE environment coupled with PW values around 2 inches, will support occasional strong downburst winds. The overall threat is expected to remain limited and a watch is not anticipated."
+    },
+    {
+      "year": 2018,
+      "number": 1194,
+      "issue_utc": "2018-07-29T18:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1194.html",
+      "summary": "A tornado watch will likely be needed by 2-3pm MDT for expected severe thunderstorm development this afternoon and an associated risk for tornadoes, from southeast WY into northeast CO. A severe thunderstorm watch will likely be issued farther east from the Black Hills vicinity southward into northwest KS.",
+      "discussion": "Visible satellite imagery shows an agitated cumulus field over extreme southeast WY located downstream and to the southeast of glaciating convection 35 mi south of DGW. Low-level upslope flow is maintaining a moist fetch into the central High Plains and the boundary layer will continue to warm through the middle to upper 70s by mid afternoon. KCYS VAD data shows a strongly veering hodograph around 1-1.5 km ARL with flow increasing with height through 5km. Forecast soundings show west-northwesterly flow increasing from 50kt at 500mb to 90kt at 250mb. As low-level lapse rates steepen and additional heating occurs, convective inhibition will erode and isolated to scattered thunderstorms will develop and intensify. Supercells are likely to evolve from the most intense updrafts with splitting supercells expected given the straight-line hodographs depicted in forecast soundings. Large to very large hail will likely occur with the stronger and more persistent/rotating updrafts. A tornado risk will tend to be confined to southeast WY and northeast CO where RH in the boundary layer will not support as much of a destructive tendency for cold/hostile RFDs. The tornado risk is conditional on right-moving supercells interacting and favorably augmenting the near-storm environment later this afternoon and early evening. Farther northeast near the Black Hills and the western part of the NE Sandhills, less favorable buoyancy and low-level shear will tend to promote a hail/wind risk with the stronger storms."
+    },
+    {
+      "year": 2018,
+      "number": 1195,
+      "issue_utc": "2018-07-29T19:12Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1195.html",
+      "summary": "A few storms may briefly become severe this afternoon and evening. Strong wind gusts and hail will be possible with the strongest cells. The marginal nature of the threat will preclude watch issuance at this time.",
+      "discussion": "Convection has begun over the higher terrain of northern WY this afternoon as temperatures have warmed into the mid 70s to near 80 degrees. Modest boundary layer moisture remains across the region with surface dewpoints generally in the low to mid 50s beneath modestly steep midlevel lapse rates around 7-7.5 C/km, resulting in weak to moderate destabilization. A weak upper shortwave impulse tracking east-southeast across the northern High Plains will provide deep layer forcing for ascent, and 0-6km shear around 30-50 kt across the MCD region will further aid in some updraft organization. All combined, this environment should be supportive of a few strong to severe thunderstorms capable of strong wind gusts and hail. Given the isolated nature of the threat, a watch is not anticipated at this time."
+    },
+    {
+      "year": 2018,
+      "number": 1196,
+      "issue_utc": "2018-07-29T20:20Z",
+      "topic": "Tornado Watch 322",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1196.html",
+      "summary": "Several hail-prolific producing supercells will pose a giant hail (potentially 3+ inches in diameter) and tornado risk for the next 1-2 hours as the storms move through extreme southeast WY into northeast CO.",
+      "discussion": "Radar imagery shows 3 large hail-producing supercells over southeast WY to the northeast of CYS. The KCYS VAD shows an impressive deep-layer shear profile with southeasterlies veering to the west at 1.5 km ARL and strengthening in excess of 75kt at 8km. As a result, 75kt 0-6 km shear and moderate buoyancy will favor very large to giant hail growth (2-3.5 inches in diameter) during intermittent periods of more intense updraft spurts. The risk for a supercell tornado will remain with the 2 downstream supercells in Laramie County, WY as the storms move into northern Weld County, CO. ..Smith.. 07/29/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 1197,
+      "issue_utc": "2018-07-29T20:34Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1197.html",
+      "summary": "Isolated storms may produce strong, locally damaging winds through the evening. Given the marginal and isolated nature of the threat, a watch is not expected.",
+      "discussion": "A cluster of thunderstorms near Tuscon recently recorded a gust of 48 kt at ALK. This cluster will continue to produce occasionally strong wind gusts as it migrates westward given a deeply mixed and dry sub-cloud layer. With northward extent into parts of central AZ, midlevel lapse rates become steeper, on the order of 7.5-8 C/km near PHX and PRC. In this vicinity, early cloud cover has resulting in some lingering inhibition, but hi-res guidance continues to suggest at least a couple of storms may develop this evening, leading to a strong wind threat. Though this scenario is less clear than the ongoing storms further south, potential impact could be greater if storms affect the Phoenix area. Overall threat should remain marginal and isolated and a watch is not anticipated."
+    },
+    {
+      "year": 2018,
+      "number": 1198,
+      "issue_utc": "2018-07-29T22:07Z",
+      "topic": "Severe Thunderstorm Watch 322",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1198.html",
+      "summary": "The severe threat continues across WW 323.",
+      "discussion": "Scattered, mainly hail-producing thunderstorms are ongoing across northern portions of the Watch (southwestern South Dakota into northwestern Nebraska). A couple of significant severe hail instances have also been observed. The moderately unstable, yet strongly sheared environment in place across the WW will continue to support large (isolated significant) hail and damaging wind gusts throughout the evening. While low-level shear profiles aren't particularly impressive, weak low-level southeasterly flow beneath 50-60 kt west-northwesterly mid-level flow will support occasional updraft rotation and perhaps a brief tornado or two given favorable storm mode. Some upscale growth may also occur in the next 1-2 hours given convective trends and recent high-resolution model guidance. This which may also increase the damaging-wind threat over time. ..Cook.. 07/29/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 1199,
+      "issue_utc": "2018-07-29T23:23Z",
+      "topic": "Tornado Watch 322",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1199.html",
+      "summary": "The severe threat continues across WW 322.",
+      "discussion": "Southeastward-moving thunderstorms continue to migrate across WW 322 at this time. Favorable shear/buoyancy profiles have supported occasional tornado and very large hail reports - especially with a cluster of supercells migrating across northeastern Colorado. Over the past hour or so, one dominant high-precipitation supercell has evolved over Morgan and Washington Counties and an expansive cold pool has spread northwest from this storm across much of Weld County and vicinity. This may signal the beginning of upscale growth advertised by the past several runs of high-res models. Upstream (in southeastern Wyoming), cellular storms may continue to pose a threat for very large hail and a tornado or two given favorable shear profiles and storm mode. Eventually, ongoing storms will move top the remnant cold pool across northeastern Colorado, which may lessen the overall tornado threat but still support large hail in the strongest cores. Farther south, convection near/west of Pueblo, CO has exhibited brief supercellular characteristics and necessitated a spatial expansion of the WW. Hail, damaging wind gusts, and tornadoes may evolve from any dominant storm that can materialize in this region. ..Cook.. 07/29/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 1200,
+      "issue_utc": "2018-07-30T00:18Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1200.html",
+      "summary": "Severe threat, likely associated with a leading supercell cluster, is expected to expand southeast through southeast Colorado into southwest Kansas this evening. Damaging wind and large hail will be the primary threats. A WW will likely be needed by 01Z south of WW 332 and 323.",
+      "discussion": "Early this evening a cluster of storms including an embedded supercell is moving south southeast into east central CO near the KS border at around 35 kt. Tendency has been for new updrafts to form along western portion of attendant, surging outflow boundary. RAP point forecast soundings and Dodge City 00Z RAOB indicate a modest inversion around 700 mb over southwest KS. Nevertheless, an expansion in storm coverage is expected as the evolving cold pool interacts with the moderately unstable environment. Latest radar trends also indicate a broader-scale circulation (MCV) embedded within this complex of storms, and new updrafts are developing immediately downstream in west-central KS along what appears to be a warm advection wing. Given the favorable kinematic environment, upscale growth into an organized MCS appears likely with damaging wind becoming the main threat, though large hail will remain possible."
+    },
+    {
+      "year": 2018,
+      "number": 1201,
+      "issue_utc": "2018-07-30T02:44Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1201.html",
+      "summary": "A severe thunderstorm watch will likely be issued by 03Z from the Texas and Oklahoma panhandles into central Oklahoma as storms continue developing southward into the southern Plains. Large hail and damaging wind appear likely with primary threat transitioning to damaging wind.",
+      "discussion": "Cluster of storms continues developing along and north of an outflow boundary that is moving south at around 40 kt through southwest KS. Strong to severe storms are embedded within this MCS, and new development appears likely as the outflow boundary intercepts richer low-level moisture with surface dewpoints near 70 F present near the KS/OK border supporting 1500-2500 J/kg MUCAPE. As new updrafts initiate along the outflow boundary, the MCS is expected to evolve into an organized linear system with bowing segments and embedded meso-vortices possible into the early morning."
+    },
+    {
+      "year": 2018,
+      "number": 1202,
+      "issue_utc": "2018-07-30T04:49Z",
+      "topic": "Severe Thunderstorm Watch 324",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1202.html",
+      "summary": "Southward-moving convective clusters and linear segments will continue to pose a risk of large hail and damaging wind gusts over the next few hours.",
+      "discussion": "A couple of broken bands of convection have evolved across the WW areas over the past hour or so - one from near EHA to near AVK along the Kansas/Oklahoma border and a second band near PUB eastward to near LAA. 7.5-8.0 C/km mid-level lapse rates are continuing to support this activity despite nocturnally cooling surface conditions. The storms are also approaching a residual instability axis extending from the northern Texas Panhandle east-southeastward into central Oklahoma. The instability/shear combination will continue to support occasional 1+ inch hail, while occasional damaging wind gusts will become likely as storms further congeal and forward-propagate southeastward. To the north of the Kansas/Oklahoma band of storms, substantial convective overturning has resulted in stabilization of the airmass across southwest Kansas. Portions of WW 324 may be cancelled before the scheduled expiration time in these areas as a result. ..Cook.. 07/30/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 1203,
+      "issue_utc": "2018-07-30T07:01Z",
+      "topic": "Severe Thunderstorm Watch 325",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1203.html",
+      "summary": "An ongoing threat for damaging wind gusts and isolated hail will continue for at least the next couple of hours. Convective trends will be monitored for a possible spatial extension of WW 325 or a new downstream WW issuance.",
+      "discussion": "Convection continues to congeal into an expansive mesoscale convective complex while moving southwestward across western/central Oklahoma and the eastern Texas Panhandle. These storms continue to be sustained by an upstream axis of moderate (2000-3000 J/kg) instability and favorable deep shear for storm organization. Mostly near/sub-severe wind gusts and small hail have been observed over the past half-hour or so as storms have lessened in intensity slightly. However, at least an isolated risk for damaging wind gusts and one-inch hail stones will persist with this activity as it approaches the Oklahoma City metro through 0800Z and the southern extent of WW 325 through roughly 0830-0930z. Beyond that point, it is uncertain if the magnitude of the severe threat will necessitate a new Severe Thunderstorm Watch issuance, and any lingering threat may be handled effectively by local spatial extensions. Convective trends will be monitored in the near term."
+    },
+    {
+      "year": 2018,
+      "number": 1204,
+      "issue_utc": "2018-07-30T11:27Z",
+      "topic": "Severe Thunderstorm Watch 326",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1204.html",
+      "summary": "Portions of squall line may remain marginally severe as it moves through southeast Oklahoma and north central to northeast Texas through the early morning. Portion of WW 325 including the Fort Worth county warning area can be locally extended south if needed, but overall threat does not appear sufficient for an additional downstream watch.",
+      "discussion": "Squall line from southeast OK into northwest TX is moving southeast at 30-35 kt. Strongest portion of the line remains over southeast OK where deep convergence appears maximized in vicinity of an just south of an MCV circulation. A corridor of moderate instability with 1500-2000 J/kg MLCAPE persists downstream from the MCS, but a stable surface layer and weak to modest flow through 6 km should temper overall severe threat. Nevertheless, convergence along consolidated outflow boundary along with deeper forcing, and some augmentation of the wind profiles accompanying the MCV, should help sustain the storms through southeast OK and north TX few hours, where pockets of locally strong to marginally severe (40-50 kt) gusts remain possible. ..Dial.. 07/30/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

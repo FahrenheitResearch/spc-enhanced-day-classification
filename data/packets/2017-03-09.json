@@ -1,0 +1,170 @@
+{
+  "convective_day": "2017-03-09",
+  "valid_start": "2017-03-09T12:00Z",
+  "valid_end": "2017-03-10T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-03-09",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-03-09T16:30Z",
+      "valid_end": "2017-03-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170309_1630.html",
+      "summary": "Scattered severe thunderstorms are expected this afternoon and evening across the Ozark Plateau into the Tennessee Valley, with attendant risks for large hail, damaging wind, and a couple tornadoes.",
+      "sections": [
+        {
+          "title": "Ozark Plateau to the Tennessee Valley",
+          "text": "Elevated convection is ongoing across southeast KS and is likely to persist through today given an upstream feed of low-level moisture characterized by upper 50s to lower 60s surface dew points over central OK beneath a plume of very steep mid-level lapse rates near 8 degrees C/km from 700-500 mb per 12Z Lamont, OK RAOB. This activity will pose a risk for isolated severe hail. For additional short-term discussion, please see MCD 274. With time (towards 21Z), surface-based storms should form along the southwest/southern flank of the remnant elevated convection as air mass destabilization/pronounced increase in boundary-layer moisture occurs across the Ozark Plateau. A veering wind profile with height amid strong mid-level west-northwesterlies will favor an elongated hodograph. This should result in splitting supercells with a primary initial risk of large hail (some of which may be significant). A couple tornadic storms appear possible, if boundary-layer moisture can become sufficiently rich. During the evening, this convection should consolidate and grow upscale into a southeast-moving MCS over the Mid-South. Damaging wind should become the primary hazard. Potential for further exp"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-03-09",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-03-09T20:00Z",
+      "valid_end": "2017-03-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170309_2000.html",
+      "summary": "Scattered severe thunderstorms are expected this afternoon and evening across the Ozark Plateau and into the Tennessee Valley, with attendant risks for large hail, damaging wind, and a couple tornadoes.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Forecast reasoning from prior outlooks remains valid, with an increase/upscale expansion of convection expected over the next several hours. The primary change to the outlook this update has been an east-southeastward expansion in damaging wind risk across the Tennessee Valley area. CAM runs, and latest trends with respect to low-level moistening as revealed by afternoon surface obs, suggest that a fairly well-organized MCS which should be crossing the mid-Mississippi and Tennessee Valleys this evening may remain intense enough to allow risk for damaging winds to eventually spread as far east as the southern Appalachians. ..Goss.. 03/09/2017 .PREV DISCUSSION... /ISSUED 1030 AM CST Thu Mar 09 2017/"
+        },
+        {
+          "title": "Ozark Plateau to the Tennessee Valley",
+          "text": "Elevated convection is ongoing across southeast KS and is likely to persist through today given an upstream feed of low-level moisture characterized by upper 50s to lower 60s surface dew points over central OK beneath a plume of very steep mid-level lapse rates near 8 degrees C/km from 700-500 mb per 12Z Lamont, OK RAOB. This activity will pose a risk for isolated severe hail. For additional short-term discussion, please see MCD 274. With time (towards 21Z), surface-based storms should form along the southwest/southern flank of the remnant elevated convection as air mass destabilization/pronounced increase in boundary-layer moisture occurs across the Ozark Plateau. A veering wind profile with height amid strong mid-level west-northwesterlies will favor an elongated hodograph. This should result in splitting supercells with a primary initial risk of large hail (some of which may be significant). A couple tornadic storms appear possible, if boundary-layer moisture can become sufficiently rich. During the evening, this convection should consolidate and grow upscale into a southeast-moving MCS over the Mid-South. Damaging wind should become the primary hazard. Potential for further exp"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-03-10",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-03-10T01:00Z",
+      "valid_end": "2017-03-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170310_0100.html",
+      "summary": "Scattered severe thunderstorms will persist this evening into the overnight hours across the Ozark Plateau and eventually the Tennessee Valley, with attendant risks for large hail, damaging wind, and a couple tornadoes.",
+      "sections": [
+        {
+          "title": "Ozark Plateau to the Tennessee Valley",
+          "text": "On the fringe of stronger westerly mid-level flow, strong/severe thunderstorms are continuing to evolve across portions of southern Missouri early this evening. Over time, cold pool mergers and propagation into the instability axis to the south will foster upscale growth of a bowing complex that will push east/southeast into western Tennessee late this evening and portions of northern Mississippi/Alabama overnight, with an attendant threat for damaging winds. Additionally, an amplifying low-level jet centered over eastern Arkansas/western Tennessee late this evening will support enough low-level shear such that a couple of line-embedded/QLCS tornadoes will also be possible. Farther west, a few clusters with embedded supercells will likely propagate southward into more favorable buoyancy over northwestern Arkansas over the next 1-2 hours. These storms will be accompanied by a threat for large hail, damaging wind gusts, and a couple tornadoes as well. ..Picca/Broyles.. 03/10/2017"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 274,
+      "issue_utc": "2017-03-09T16:02Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0274.html",
+      "summary": "Thunderstorms will increase in areal coverage as they spread from southeast Kansas into southern Missouri. Hail may accompany the strongest storms, some of which could exceed 1 inch in diameter.",
+      "discussion": "Low-level warm advection, in concert with moistening atop the boundary layer, appears to be responsible for northwest-southeast oriented band of convection over southeast KS. Visible satellite imagery, and forecast sounding data, strongly suggest this activity is rooted atop the boundary layer. Parcel acceleration will be maximized by steep lapse rate environment which should enhance the hail threat with these storms. Latest short-range model guidance suggests this band of storms will migrate into southern MO over the next few hours with gradual maturation into a larger complex of storms expected. While hail may exceed one inch in diameter at times, current thinking is more significant severe threat may hold off until mid afternoon, potentially concentrated over portions of southern MO. Unless these storms become efficient in producing large hail a severe thunderstorm watch will likely be issued for more concentrated mature complex later today."
+    },
+    {
+      "year": 2017,
+      "number": 275,
+      "issue_utc": "2017-03-09T19:04Z",
+      "topic": "Severe Thunderstorm Watch 70",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0275.html",
+      "summary": "Severe threat continues across WW70. Severe threat is also increasing along the western through southern flank of the watch from southeast Kansas into northwest Arkansas. New severe thunderstorm watch may be required to account for this threat.",
+      "discussion": "Early-day convection that developed over southeast Kansas has matured into a northwest-southeast oriented MCS as it shifts into Missouri. Hail has been noted with the strongest elevated updrafts and this threat should linger until the MCS shifts east of the stronger buoyancy. Of some concern is the new boundary-layer CU field deepening west of CNU within a very steep low-level lapse rate environment. Latest diagnostic data suggests this region is minimally capped and low-level convergence is likely adequate for this activity to evolve into strong/severe thunderstorms over the next few hours. Latest thinking is supercells should develop by 21z over southeast KS then propagate toward northern AR this evening. While large hail is the primary threat, damaging winds may also accompany this surface-based convection. ..Darrow.. 03/09/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 276,
+      "issue_utc": "2017-03-09T20:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0276.html",
+      "summary": "Probabilities for severe storm development still seem fairly low, but perhaps non-zero, late this afternoon and evening. The need for a watch is not anticipated, but trends will be monitored.",
+      "discussion": "The dryline remains rather diffuse, with generally weak low-level convergence. However, attempts at initiation of deep convection are ongoing across parts of northwest Texas, where forcing associated with a subtle impulse within weak westerly mid-level flow may be contributing to some weakening of inhibition. South of the Red River, deep layer mean flow is rather weak (on the order of 30 kt or less), but veering low-level winds with height beneath 50 kt high level flow (near/above 300 mb) could still be sufficient to support at least short-lived supercell structures with sustained convective development. The extent of the potential for sustained convective development remains unclear, but an isolated strong/severe storm or two may not be entirely out of the question, from where attempts are ongoing, southward along the dryline into parts of the Edwards Plateau by 23-01Z. If this occurs, activity probably will be accompanied by some risk for isolated severe hail and/or a locally strong surface gust."
+    },
+    {
+      "year": 2017,
+      "number": 277,
+      "issue_utc": "2017-03-09T21:27Z",
+      "topic": "Severe Thunderstorm Watch 70",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0277.html",
+      "summary": "Greatest severe risk, through 23z, will extend from southeastern Kansas to central Missouri.",
+      "discussion": "Long-lived MCS has propagated into central MO as low-level flow veers and warm advection focuses along a corridor from southeastern KS into southern IL. Hail has been the primary severe threat with the elevated MCS and the leading edge of this activity is struggling to maintain intensity as it progresses into less buoyant air mass. A few strong storms could migrate into the southwestern portions of STL CWA but the greater threat will likely focus across the Ozark Plateau region. Farther west, it appears inhibition has weakened sufficiently for sustained deep updrafts across southeast KS. Lightning is now observed over Crawford County and trailing convection along the dry line should mature into thunderstorms shortly. With an expanding CU field over the warm sector it appears an upward evolving thunderstorm complex is likely into the evening hours. ..Darrow.. 03/09/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 278,
+      "issue_utc": "2017-03-09T22:45Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0278.html",
+      "summary": "A mainly damaging wind and hail threat should increase over the next hour or so, and a Severe Thunderstorm Watch will be issued downstream of ongoing thunderstorms.",
+      "discussion": "Latest radar and visible trends show two short bowing line segments with embedded supercell characteristics over south-central MO, moving southeastward with time. The airmass downstream of these storms should continue to destabilize with low-level warm and moist air advection occurring. Consolidation into a larger squall line with time appears likely, and damaging winds along with some large hail should be the main threats through the evening hours as the line advances across the Mid-South. In addition, a tornado or two embedded within the line will not be out of the question with effective SRH expected to increase this evening with a strengthening southwesterly low-level jet."
+    },
+    {
+      "year": 2017,
+      "number": 279,
+      "issue_utc": "2017-03-09T23:36Z",
+      "topic": "Severe Thunderstorm Watch 70",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0279.html",
+      "summary": "A large hail and damaging wind risk continues across Severe Thunderstorm Watch 70 and 71 with ongoing thunderstorms, with downstream watch issuance into northern Arkansas and the Mid-South likely by 01Z (7 PM CDT).",
+      "discussion": "Multiple supercell thunderstorms are ongoing across southern MO as of 2330Z per recent radar imagery, with very large hail up to 3 inches in diameter reported. With very steep mid-level lapse rates (near 9.0 degrees C/km in the 700-500 mb layer) present per the 17Z Lamont OK sounding, large hail will continue to be a concern with any supercell structures over the next several hours as MLCAPE generally ranges from 500-1500 J/kg downstream of ongoing convection and effective bulk shear remains in the 40-55 kt range. A risk for a tornado or two is also apparent in the short term with these supercells as southwesterly winds associated with a low-level jet veer to westerly/northwesterly with height while strengthening, supporting effective SRH values of 250-325 m2/s2 per RAP Mesoanalysis. The overall threat across Severe Thunderstorm Watch 71 in northeast OK and northwest AR is more conditional, as thunderstorms have struggled to form along a dryline thus far, likely due to stronger capping associated with the very pronounced elevated mixed layer. With time, the ongoing semi-discrete supercells and short bowing line segments are expected to grow upscale into a squall line along/ahead of a southward-moving cold front and pose a greater damaging wind threat through the evening hours as the downstream airmass remains sufficiently unstable. A new Severe Thunderstorm Watch will very likely be required for northern AR into the Mid-South by 01Z."
+    },
+    {
+      "year": 2017,
+      "number": 280,
+      "issue_utc": "2017-03-10T00:39Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0280.html",
+      "summary": "Isolated hail is possible for the next hour or two within the widely scattered thunderstorms across eastern MS and far western AL.",
+      "discussion": "Widely scattered thunderstorms have developed across eastern MS and far northwest AL, likely as a result of forcing for ascent associated with a subtle lead shortwave trough interacting with the unstable airmass across the region. Low-level flow is weak but strong flow in the mid and upper level is promoting effective bulk shear around 40-50 kt, which is supportive of organized storms and rotating updrafts. Given the weak low-level flow, the main threat for the next hour or two will be large hail. The loss of daytime heating and eastward progression of these storms into an environment characterized by less low-level moisture and less overall instability is expected to result in gradually waning storm intensity. Widely scattered nature of the threat and expectation for diminishing storm strength preclude the need for a watch."
+    },
+    {
+      "year": 2017,
+      "number": 281,
+      "issue_utc": "2017-03-10T01:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0281.html",
+      "summary": "An initial large hail threat should transition to mainly a damaging wind risk later this evening as a line of thunderstorms moves across this region. A local extension of Severe Thunderstorm Watch 72 will likely be needed in parts of western KY, and a downstream watch issuance in middle TN will likely be required in the next hour or two.",
+      "discussion": "Thunderstorms have rapidly developed across western KY ahead of line of thunderstorms over the MO Bootheel region within a low-level moisture plume and southwesterly low-level jet. Although this leading activity is likely elevated above a stable near-surface layer, strong deep shear will favor updraft organization and associated large hail threat. Damaging winds will likely become the main threat later this evening with a bowing line beginning to become more organized over southeast MO. Low-level moist air should continue to develop northeastward into middle TN and parts of southern KY per latest surface observations and short-term model guidance, which will support a continuation of surface-based thunderstorms and a damaging wind threat."
+    },
+    {
+      "year": 2017,
+      "number": 282,
+      "issue_utc": "2017-03-10T03:30Z",
+      "topic": "Severe Thunderstorm Watch 71",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0282.html",
+      "summary": "Threat for hail and damaging wind gusts will persist across the region for the next several hours.",
+      "discussion": "Structure of the regional radar data suggests the linear transition of the previously cellular convection is complete with an unbroken line of thunderstorms now extending from eastern OK across northern AR and into western TN. Most progressive part of the line is across western TN where the more orthogonal orientation of the convection promotes more downwind propagation. Farther west, the line is still moderately progressive, aided by the northwesterly flow aloft and the southeastward progressing cold front. As such, some wind threat will persist for the next few hours, although the increasingly stable low-level airmass suggests the primary severe threat will remain large hail. This hail threat supported primarily by steep mid-level lapse rates (as sampled by the 00Z LZK sounding) and strong bulk shear. ..Mosier.. 03/10/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 283,
+      "issue_utc": "2017-03-10T04:42Z",
+      "topic": "Severe Thunderstorm Watch 74",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0283.html",
+      "summary": "Mainly a damaging wind threat continues across Severe Thunderstorm Watch 74. A downstream Severe Thunderstorm Watch will likely be needed soon if current trends continue. Probability of new watch issuance is around 80%.",
+      "discussion": "A well organized bowing line of thunderstorms extends from approximately 15 miles north of Nashville to 55 miles east of Jackson TN as of 0440Z, moving quickly eastward/southeastward. This line has had multiple wind damage reports associated with it over the past several hours across western TN/KY, and the airmass downstream across middle TN into northern MS/AL remains weakly unstable, with MLCAPE generally ranging from 250-500 J/kg. Mainly a damaging wind threat should continue to progress southeastward with the line across the remainder of middle TN and into northern AL/MS, likely within the next hour or so given a forward speed around 40-55 kt at the apex of the bow. Some hail threat will persist with an embedded supercell at the southern flank of the line in southern middle TN, as well as with warm air advection driven elevated convection ahead of the line. A brief tornado may also be possible with embedded circulations within the line given effective SRH values ranging from 250-400 m2/s2 per 04Z RAP Mesoanalysis and recent VWPs from area radars. Given current radar trends and the likelihood for damaging wind gusts to continue with the southeastward moving bow, a downstream watch will likely need to be considered soon for some portions of northern MS, northern/central AL, and perhaps far northwestern GA."
+    },
+    {
+      "year": 2017,
+      "number": 284,
+      "issue_utc": "2017-03-10T06:50Z",
+      "topic": "Severe Thunderstorm Watch 75",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0284.html",
+      "summary": "A damaging wind/large hail threat will continue across Severe Thunderstorm Watch 75 through the early overnight hours. Additional downstream watches are not expected.",
+      "discussion": "A long-lived and well-organized bow echo continues moving quickly southeastward/southward across northern MS/AL into southeastern TN and northwestern GA as of 0650Z, posing a mainly damaging wind threat. A few instances of large hail remain possible as well with embedded supercells both within and ahead of the line. The thermodynamic environment across southeastern TN into northwestern GA will become increasingly marginal/hostile to continued maintenance of the bow, as surface dewpoints decrease into the 30s/40s with eastward extent in these areas. Accordingly, the line of storms is expected to quickly weaken on its eastern flank. Across northern MS and northern/central AL, the line has become less well defined per recent radar imagery. Regardless, locally strong to damaging winds should remain possible for the next several hours as at least some weak instability (100-500 J/kg MUCAPE) persists across this region. Although a marginal wind threat may continue outside of the current bounds of Severe Thunderstorm Watch 75, additional watches are not expected at this time. Small local extensions in area of the current watch may be possible though. ..Gleason.. 03/10/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 285,
+      "issue_utc": "2017-03-10T09:09Z",
+      "topic": "Severe Thunderstorm Watch 75",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0285.html",
+      "summary": "Fast-moving linearly organized storms may continue to pose a localized damaging wind risk across additional portions of central Alabama and/or north Georgia over the next hour or two, but the overall severe-wind risk should continue to steadily diminish. Severe thunderstorm watch 75 will be allowed to expire at/before scheduled 10Z expiration.",
+      "discussion": "A fast-moving squall line continues to steadily progress southeastward with a 50-knot forward motion, approaching the I-20/I-85 corridors of north-central Alabama and north Georgia as of 09Z. A 49-knot wind gust was recently measured at Birmingham around 234 am CST, with a 45-knot gust also noted at Dobbins Air Force Base around 340 am EST. Recent analysis features a modest pressure fall/rise couplet across northern Alabama, while pre-frontal warming/moistening has been noted across central portions of Alabama/Georgia ahead of the convective line. Even so, cloud tops continue to gradually warm, likely related to increasingly elevated/stable inflow in the presence of considerable boundary layer inhibition. Near-severe-wind gusts capable of localized wind damage may remain possible over the next 1-2 hours mainly given the fast-forward-motion of the convection. However, overall convective updraft/downdraft intensities are likely to otherwise continue to diminish. No additional Watch issuances are anticipated. ..Guyer.. 03/10/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

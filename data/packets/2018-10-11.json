@@ -1,0 +1,88 @@
+{
+  "convective_day": "2018-10-11",
+  "valid_start": "2018-10-11T12:00Z",
+  "valid_end": "2018-10-12T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2018-10-11",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-10-11T13:00Z",
+      "valid_end": "2018-10-12T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20181011_1300.html",
+      "summary": "Tornadoes are possible today across central and eastern North Carolina and southeast Virginia.",
+      "sections": [
+        {
+          "title": "Mid Atlantic Region",
+          "text": "The center of Michael continues to track quickly northeastward across SC this morning, and is forecast to move across NC and into southeast VA. Overnight, a large shield of heavy rain has been present ahead of the center of Michael, with very few discernible convective elements that pose a risk of rotation. However, ahead of this precipitation shield, scattered discrete showers/thunderstorms have been occurring with occasional weak rotational couplets. It is this region of the storm that will pose a risk of tornadoes through the day. A consensus of CAM solutions suggest that low-level baroclinicity will increase ahead of the system from north-central NC into southeast VA. This corridor will see a rapid increase in vertical shear profiles later this morning, with model forecast soundings showing helicity values of 300-400 m2/s2. Early visible satellite imagery also shows breaks in the cloud cover in this region, which should help to boost temperatures into the upper 70s or lower 80s and destabilize an already very moist air mass. These factors suggest the potential for increasing coverage of discrete supercell convection and a few tornadoes today over the ENH risk area. Other more i"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2018-10-11",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-10-11T16:30Z",
+      "valid_end": "2018-10-12T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20181011_1630.html",
+      "summary": "A few tornadoes are likely through about 11 PM EDT from northern/eastern North Carolina across southern Virginia into the Delmarva region. The most probable corridor is across northeast North Carolina and southeast Virginia this afternoon.",
+      "sections": [
+        {
+          "title": "Mid-Atlantic States",
+          "text": "Primary expansion change is to adjust the Slight Risk slightly farther north across parts of DE/MD. Considered further increasing tornado probabilities across northeast NC and southeast VA, but deferred. The center of TC Michael continues to track quickly northeast, just northeast of Charlotte as of 16Z, and will reach southeast VA this evening. Arcing band of showers and sporadic thunder is ongoing from just north/east of Raleigh-Durham to coastal NC. Breaks in the cloud cover downstream of this band have resulted in surface temperatures warming into the lower to middle 80s already, which is supporting a moderately buoyant air mass with MLCAPE from 1000-1500 J/kg. As this convective arc spreads northeast through the afternoon, intensification of embedded updrafts is expected along the northeast periphery of the strong low-level wind field. This will favor a swath of effective SRH from 200-500 m2/s2, supporting several rotating cells into early evening. Increasing baroclinicity downstream of the track of Michael in the Delmarva region suggests that favorable low-level southeasterlies will generally remain close to the coastal regions near the southern portion of Chesapeake Bay. Thi"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2018,
+      "number": 1565,
+      "issue_utc": "2018-10-11T12:31Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1565.html",
+      "summary": "Gradual destabilization this morning will become more favorable for cellular development and a corresponding increased risk for tornadoes. A tornado watch will likely be needed in the next couple of hours.",
+      "discussion": "Radar mosaic shows the center of tropical cyclone Michael over central SC as of 825am EDT. A wide shield of heavy rain encompasses the northern semicircle of the weakening tropical system but a south-southeast to north-northwest zone of quasi-discrete convection is located immediately to the northeast of the rain shield. It is here and to the east and southeast that destabilization (through advection and weak heating) will promote increased potential for stronger updrafts and quasi-discrete supercells later this morning into the afternoon. Forecast soundings from near Raleigh northeastward into southeast VA show hodographs enlarging with 0-1 km SRH ranging from 250-350 m2/s2 by 15-18z. Moderate buoyancy (1000 J/kg MLCAPE) is already evident in the coastal plain (reference the 12z MHX raob) and will spread inland as temperatures rise into the upper 70s degrees F in the corridor from the Triangle into southeast VA. Several tornadoes are possible in the vicinity of this strengthening baroclinic zone to the northeast of the center of Michael's circulation where the combination of strongest pressure falls, buoyancy, and shear overlap."
+    },
+    {
+      "year": 2018,
+      "number": 1566,
+      "issue_utc": "2018-10-11T16:48Z",
+      "topic": "Tornado Watch 409",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1566.html",
+      "summary": "Risk for a few tornadoes will continue this afternoon within the northeast quadrant of T.S. Michael.",
+      "discussion": "Latest radar and satellite imagery shows the center of T. S. Michael over south-central North Carolina, moving northeast at around 15 kt. Ahead of the center, dense cloud cover is evident over all but far northeast North Carolina and into eastern Virginia. With some heating/destabilization ongoing across this portion of the WW area, the tornado risk will likely be maximized across this area later this afternoon. In the shorter term, brief/weak rotation has been observed with a few of the northward- and northwestward-moving updrafts from eastern North Carolina into south-central Virginia. This area -- just ahead of the more widespread/stratiform rain surrounding Michael's center -- will remain the focus for brief tornadoes over the next 1-2 hours. ..Goss.. 10/11/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 1567,
+      "issue_utc": "2018-10-11T19:54Z",
+      "topic": "Tornado Watch 409",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1567.html",
+      "summary": "Risk for a few tornadoes continues this afternoon north and east of the center of T.S. Michael.",
+      "discussion": "Latest observations/imagery indicates that the low-level center of T. S. Michael is crossing central North Carolina at this time, moving in an east-northeasterly direction. Earlier breaks in the cloud cover over parts of eastern Virginia/northeastern North Carolina have allowed some heating/destabilization to occur, though cloud cover has now overspread the entire region. While the instability field would suggest that the greatest risk for tornadoes will reside over southeast Virginia over the next few hours within this more favorable thermodynamic environment, transient low-level rotation has been observed with several small updrafts north of Michael's center -- i.e. a county either side of the Virginia/North Carolina border, over western portions of the Tornado Watch. Overall, as Michael continues moving east-northeast, risk for tornadoes -- be it from individual cells over eastern Virginia/northeast North Carolina or within the enhanced convective band just north of Michael's center -- will be maximized over south-central and southeast Virginia and possibly far northeast North Carolina over the next several hours. ..Goss.. 10/11/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 1568,
+      "issue_utc": "2018-10-11T22:16Z",
+      "topic": "Tornado Watch 409",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1568.html",
+      "summary": "The greatest threat for isolated tornadoes is expected to persist through early evening across southeast Virginia into far northeast North Carolina. The tornado threat may increase as far north as southern Maryland, where a local extension of WW 409 might be needed.",
+      "discussion": "The primary threat for isolated tornadoes should persist through early evening with a couple of outer bands located over southeast Virginia, northeast of the center of Michael. Discrete elements continue to be observed within the bands including supercell structures. VWP data from Wakefield indicate large, 0-1 km hodographs where surface winds remain backed to easterly. The low-level jet accompanying Michael will shift east, northeast through eastern VA next couple hours resulting in an increase in low-level shear as far north as southern MD where the threat for isolated tornadoes may increase through early evening. However, the remaining threat appears limited in area north of the current WW, so rather than a new WW issuance, best course of action may be to locally extend WW 409 into southern MD as needed. ..Dial.. 10/11/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 1569,
+      "issue_utc": "2018-10-12T00:02Z",
+      "topic": "Tornado Watch 409",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1569.html",
+      "summary": "The threat for isolated tornadoes will persist through eastern VA and possibly into southern MD through about 03Z. Current tornado watch is scheduled to expire at 01Z, but a local extension for a couple of hours from eastern VA and into southern MD will probably be needed.",
+      "discussion": "The outer convective rainbands of Michael will continue developing through the remainder of eastern VA this evening. Largest 0-1 km hodographs accompanying the attendant low-level jet will remain confined to eastern VA and possibly as far north as southern MD. The tornado threat appears to be ending across eastern NC as low-level winds veer and dryer air aloft is entrained into the southern periphery of the circulation. ..Dial.. 10/12/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "convective_day": "2018-08-20",
+  "valid_start": "2018-08-20T12:00Z",
+  "valid_end": "2018-08-21T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2018-08-20",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-08-20T13:00Z",
+      "valid_end": "2018-08-21T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180820_1300.html",
+      "summary": "Scattered severe storms are likely across the Mid-South from mid-afternoon to early evening. Damaging winds should be the primary hazard, but a couple tornadoes and large hail are possible.",
+      "sections": [
+        {
+          "title": "THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS MID-SOUTH",
+          "text": "...SUMMARY... Scattered severe storms are likely across the Mid-South from mid-afternoon to early evening. Damaging winds should be the primary hazard, but a couple tornadoes and large hail are possible."
+        },
+        {
+          "title": "Mid-MS Valley to Mid-South/Ark-La-Tex",
+          "text": "Shortwave trough over the Lower MO Valley will slowly dampen as it shifts east into IL/IN through early Tuesday. Associated surface cyclone over southwest IA will gradually fill as it reaches northern IN. An arcing cold front will lie across the Mid-MS Valley to Ark-La-Tex region this afternoon. Scattered to numerous storms will form along this boundary during mid to late afternoon, with initial development by early afternoon near the MO/AR border. The air mass ahead of the front will become moderately unstable over southern IL/southeast MO to strongly unstable across the Mid-South and Ark-La-Tex. Despite the slowly weakening trough, a belt of 40-50 kt 700-mb west-southwesterlies will overspread the Mid-South portion of the front and warm sector. This should be the most likely corridor for supercells and bowing line segments. Damaging winds from strong to isolated severe wind gusts appear to be the primary hazard, although a couple tornadoes and large hail are possible."
+        },
+        {
+          "title": "Eastern IA and Northern IL/IN",
+          "text": "A warm front will attempt to advance northeast and approach the I-80 corridor through this afternoon. Ongoing convective swath to the northeast of the front at present will slow its advancement and the northern extent of weak surface-based instability should remain confined near the boundary. Guidance differs on the strength of low-level winds along the front, but consensus indicates overall weakening will occur through the day as cyclolysis occurs. Nevertheless, some vertical veering with height along the boundary will support modestly enlarged low-level hodographs that might yield a brief tornado or two. At this time, confidence is not large enough to warrant a categorical upgrade, but it remains possible in later outlooks."
+        },
+        {
+          "title": "Northern Rockies and Eastern Great Basin",
+          "text": "A shortwave trough over the Pacific Northwest will drift east with scattered storms expected to develop across the higher terrain of central ID/southwest MT and arcing south across western WY into northern UT. Vertically veering wind profiles with height over the northern Rockies will offer some risk for a couple supercells that may produce severe hail. Otherwise, a broad swath of 35-55 kt 500-mb southwesterlies will support isolated severe wind gusts with deeply mixed thermodynamic profiles across northern UT/southwest WY."
+        },
+        {
+          "title": "NC",
+          "text": "As a short wave impulse over VA shifts offshore today, a belt of 15-25 kt mid-level westerlies should be maintained across much of NC. Scattered storms in this region may form into loosely organized clusters producing locally strong wind gusts and attendant tree damage. ..Grams/Broyles.. 08/20/2018"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2018-08-20",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-08-20T16:30Z",
+      "valid_end": "2018-08-21T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180820_1630.html",
+      "summary": "Scattered severe storms are likely across the Mid-South from mid-afternoon to early evening. Damaging winds should be the primary hazard, but a couple tornadoes and large hail are possible.",
+      "sections": [
+        {
+          "title": "Mid MS Valley",
+          "text": "Only minor changes have been made to the ongoing forecast. An unseasonably strong upper low is present today over MO, with a band of moderately strong mid-level winds rotating cyclonically around the base of the low into parts of MO/AR/IL/KY/TN. It appears that initial convection will develop soon over south-central MO and north-central AR, and track eastward across the ENH risk area through the afternoon. Forecast soundings show favorable winds aloft and sufficient CAPE for a risk of bowing line segment capable of damaging wind gusts. Initial activity could also pose a threat of hail and perhaps a tornado or two. Have expanded the risk areas a little farther north into central/southern IL where clearing/destabilization appears likely. Further details will be available in an MCD that will be issued soon."
+        },
+        {
+          "title": "Northern IL and vicinity",
+          "text": "Easterly surface winds over northern IL, will result in marginally favorable hodographs for a few rotating storms later this afternoon along and north of the warm front lifting across the region. Widespread clouds will limit heating/destabilization, but morning model guidance suggests the potential for a few isolated storms capable of brief spin ups or damaging wind gusts."
+        },
+        {
+          "title": "NC",
+          "text": "Scattered thunderstorms are expected once again today over parts of NC, where ample low level moisture remains. Winds in the lower troposphere are weak, but the strongest cells will be capable of locally gusty/damaging winds."
+        },
+        {
+          "title": "Northern Great Basin",
+          "text": "A strong shortwave trough is moving across eastern OR and will affect parts of ID/MT/UT/WY later today. Low level moisture is limited, but forecast soundings suggest steep low-level lapse rates and increasing risk of a few damaging wind gusts as the mid-level wind max overspreads the region. Small hail will also be possible in the higher elevations. ..Hart.. 08/20/2018"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2018-08-20",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-08-20T20:00Z",
+      "valid_end": "2018-08-21T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180820_2000.html",
+      "summary": "Scattered severe storms are likely across the Mid-South into early evening. Damaging winds should be the primary hazard, but a couple tornadoes and large hail are possible.",
+      "sections": [
+        {
+          "title": "Mid MS Valley",
+          "text": "Probabilities have been trimmed across portions of AR/MO to account for the eastward progression of the primary band of thunderstorms. As this band spreads eastward through the afternoon, corridors of damaging wind remain possible, along with more isolated instances of large hail and perhaps a tornado or two. See the previous discussion below for more information."
+        },
+        {
+          "title": "Eastern IN/Western OH",
+          "text": "The 5% wind and 2% tornado probabilities have been expanded to the north and east to cover the rest of eastern IN and more of western OH, to account for the cluster of thunderstorms spreading northeast along a surface warm front. Transient supercell structures and small bowing segments will remain possible with this activity through the afternoon. See MCD 1326 for more discussion regarding this region."
+        },
+        {
+          "title": "Elsewhere",
+          "text": "No other changes have been made to the outlook. See the previous discussion below for more information. ..Dean/Dial.. 08/20/2018 .PREV DISCUSSION... /ISSUED 1130 AM CDT Mon Aug 20 2018/"
+        },
+        {
+          "title": "Mid MS Valley",
+          "text": "Only minor changes have been made to the ongoing forecast. An unseasonably strong upper low is present today over MO, with a band of moderately strong mid-level winds rotating cyclonically around the base of the low into parts of MO/AR/IL/KY/TN. It appears that initial convection will develop soon over south-central MO and north-central AR, and track eastward across the ENH risk area through the afternoon. Forecast soundings show favorable winds aloft and sufficient CAPE for a risk of bowing line segment capable of damaging wind gusts. Initial activity could also pose a threat of hail and perhaps a tornado or two. Have expanded the risk areas a little farther north into central/southern IL where clearing/destabilization appears likely. Further details will be available in an MCD that will be issued soon."
+        },
+        {
+          "title": "Northern IL and vicinity",
+          "text": "Easterly surface winds over northern IL, will result in marginally favorable hodographs for a few rotating storms later this afternoon along and north of the warm front lifting across the region. Widespread clouds will limit heating/destabilization, but morning model guidance suggests the potential for a few isolated storms capable of brief spin ups or damaging wind gusts."
+        },
+        {
+          "title": "NC",
+          "text": "Scattered thunderstorms are expected once again today over parts of NC, where ample low level moisture remains. Winds in the lower troposphere are weak, but the strongest cells will be capable of locally gusty/damaging winds."
+        },
+        {
+          "title": "Northern Great Basin",
+          "text": "A strong shortwave trough is moving across eastern OR and will affect parts of ID/MT/UT/WY later today. Low level moisture is limited, but forecast soundings suggest steep low-level lapse rates and increasing risk of a few damaging wind gusts as the mid-level wind max overspreads the region. Small hail will also be possible in the higher elevations."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2018,
+      "number": 1325,
+      "issue_utc": "2018-08-20T16:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1325.html",
+      "summary": "WW issuance is likely by early afternoon across southeast Missouri, northeast Arkansas, western Tennessee, western Kentucky, southern Illinois, and perhaps northwest Mississippi, as a severe-weather threat is expected to develop from thunderstorms that form across this region and spread east. All severe hazards are possible, though damaging winds should be the primary threat.",
+      "discussion": "Visible satellite imagery showed limited cloudiness across central AR in the wake of thunderstorms and sufficient breaks in clouds and/or dissipating clouds across northern AR into southeast MO to sustain strong diabatic heating into the afternoon. Despite weak midlevel lapse rates, high moisture content air (precipitable water near or greater than 2 inches and surface dewpoints into the lower 70s F) extending north into the middle MS/lower OH Valleys and surface heating will result in moderate destabilization which is already present northward across AR. Further warming of surface temperatures will boost buoyancy across the northern portions of the discussion area through the afternoon to support thunderstorm development. Meanwhile, the convection advancing across southern MO this morning, as detected by satellite and mosaic radar imagery, is likely indicating the leading extent of forcing for ascent spreading into the Ozarks/Mid-South region today. This is attendant to a shortwave trough/speed max rounding the base of the central U.S. cyclone, with WSR-88D VWP data from southern MO to eastern OK showing strengthening westerly winds (40-50 kt) around 700 mb. This ascent and a cold front advancing east across the discussion area this afternoon and evening will result in a broken line of strong to severe storms advancing eastward. An increase in effective bulk shear (up to 35-40 kt) with shear vectors oriented across the front suggest embedded supercells will be possible in the line of storms. Strengthening southwesterly 850-mb winds will favor low-level rotation and a tornado threat, while strong, damaging winds may be a greater threat, given the potential for bowing structures."
+    },
+    {
+      "year": 2018,
+      "number": 1326,
+      "issue_utc": "2018-08-20T18:27Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1326.html",
+      "summary": "A few rotating storms possible within a moist environment near/along a surface warm front. Severe wind gusts will likely be the primary threat; however, a tornado or two may be possible. A WW is not anticipated, but trends will be monitored.",
+      "discussion": "A few storms within cluster along and near a warm front have shown some signs of mid-level rotation per KIND radar. While buoyancy has so far remained modest, with MLCAPE 500-1000 J/kg, clearing south of the front should lead to increased instability into the afternoon. With the approach of a mid-level trough, effective bulk shear values have increased to 30-40 kts. While the main threat with this activity will likely be damaging wind gusts, enhanced SRH near the front and deep layer shear oriented perpendicular to the warm front, a few organized, quasi-discrete storms may acquire rotation. Given the moist environment with low LCLs, a tornado or two cannot be ruled out even with relatively meager low-level lapse rates. Questions about how discrete storms will be as well as the overall coverage of storms limit confidence in WW issuance. However, trends will continue to be monitored."
+    },
+    {
+      "year": 2018,
+      "number": 1327,
+      "issue_utc": "2018-08-20T20:14Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1327.html",
+      "summary": "Thunderstorms are expected to increase in coverage across southern Arkansas, and then into northern Louisiana and west-central Louisiana late this afternoon into the evening. Isolated severe storms will be possible with locally strong wind gusts being the primary threat.",
+      "discussion": "Trends in lightning data indicated some increase in thunderstorm development across far southern AR, as the southern extent of stronger forcing for ascent spreading east through the Ozarks region glances this area. Meanwhile, additional storms are expected to form as the southern extent of a cold front advances to the east/southeast across the discussion area, where the environment has become very unstable (MLCAPE 2000-3000 J/kg). Westerly midlevel winds should remain generally weaker with southward extent into northern LA, resulting in effective bulk shear favoring multicell storm modes. Given the presence of high CAPE, steep low-level lapse rates, and DCAPE exceeding 1000 J/kg, strong wind gusts should be the primary severe-weather threat with any of the stronger/sustained storms. The modest effective bulk shear should limit overall storm organization and coverage of severe storms. This factor maintains uncertainty in the need for watch issuance, with convective trends continuing to be monitored."
+    },
+    {
+      "year": 2018,
+      "number": 1328,
+      "issue_utc": "2018-08-20T21:00Z",
+      "topic": "Severe Thunderstorm Watch 344",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1328.html",
+      "summary": "Damaging wind gusts and a tornado threat persist across WW 344, as bands of storms in southern Illinois and southeast Missouri, and more discrete storms in central Arkansas advance east. Counties in the wake of these storms can be cancelled from from the watch. Farther southeast, additional counties may need to be added across northwest Mississippi and perhaps into southwest Tennessee as discrete strong to severe storms affect this region.",
+      "discussion": "At 2050Z, mosaic radar imagery indicated bands of storms extending from southwestern IL into southeast MO, while storms are remaining more discrete into northeast and central AR. The CAPE/shear parameter space along and east of this activity remains sufficient for additional severe storms with all severe hazards possible. Damaging winds are the primary severe-weather threat, though vertically veering winds continue to favor low-level storm rotation and a tornado threat into the evening. ..Peters.. 08/20/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 1329,
+      "issue_utc": "2018-08-20T21:46Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1329.html",
+      "summary": "A narrow spatial window remains for a brief tornado or two with a band of thunderstorms developing northeastward late this afternoon into early evening. Watch issuance is unlikely.",
+      "discussion": "A broken line of thunderstorms has recently developed across far eastern IA into parts of northern IL along an occluding warm front. Limited diurnal heating to the north of this boundary has allowed for weak instability to develop late this afternoon, with 21Z RAP mesoanalysis estimating MLCAPE up to 1000 J/kg is present. Both the low and mid-level flow is not overly strong across this region as an occluding upper low continues to develop slowly eastward across the Upper Midwest this evening. Still, VWPs from several radars just to the north of the warm front (KMKX/KLOT) do show a veering and modestly strengthening wind profile in the 0-3 km AGL layer. Coupled with a north-northeasterly storm motion, this low-level veering is supporting around 100 to locally 150 m2/s2 of effective SRH. A couple of cells within the broken line have exhibited low-level rotation, with one report of a tornado in Clinton County IA at 2049Z. Current expectations are for a brief tornado or two to remain possible with these low-topped thunderstorms for the next couple of hours. However, the airmass with northward extent (into southern WI) quickly becomes less unstable due to persistent cloud cover. Therefore, the overall limited spatial and temporal nature of the severe threat will probably remain too marginal to justify watch issuance, although radar and mesoscale trends will be closely monitored."
+    },
+    {
+      "year": 2018,
+      "number": 1330,
+      "issue_utc": "2018-08-20T22:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1330.html",
+      "summary": "A very isolated gusty wind and marginally severe hail risk should continue through the evening. Watch issuance is not expected.",
+      "discussion": "A few thunderstorms have developed this afternoon across the Bitterroot Mountains of ID/MT. 22Z surface observations show a cold front located across this region, and the 12Z sounding from BOI showed 700-500 mb lapse rates around 8.4 C/km. These steep mid-level lapse rates should somewhat compensate for limited low-level moisture, with MLCAPE of 250-500 J/kg noted on 22Z RAP mesoanalysis generally along and south of the front. Enhanced southwesterly mid-level winds attendant to a positively tilted mid/upper-level trough over the northern Rockies are contributing to 40-50 kt of effective bulk shear. Some potential for updraft organization will continue for the next few hours while the airmass remains weakly unstable. Very isolated instances of strong/gusty downdraft winds will be possible with a deeply mixed boundary layer and related steep low-level lapse rates south of the front. Marginally severe hail may also occur with the strongest cores. The overall severe threat will very likely remain too sparse/marginal to justify a watch."
+    },
+    {
+      "year": 2018,
+      "number": 1331,
+      "issue_utc": "2018-08-20T22:57Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md1331.html",
+      "summary": "Isolated 50-60 mph gusts, capable of wind damage, are possible with any supercell or stronger multicell early this evening. Although a severe thunderstorm watch will probably not be needed across north-central MS to the south of the existing watches, this area will be monitored.",
+      "discussion": "Radar shows a broken cluster of a mixed mode of supercells and multicells across the lower MS Valley early this evening. This activity has developed on the southern periphery of stronger forcing for ascent that is largely displaced to the north of the middle MS Valley. An extremely moist axis extends north-northeastward over the Delta region with upper 70s dewpoints yielding lowest 100mb mean mixing ratios of 19 g/kg. Despite the relatively weak lapse rates per forecast soundings, around 3000 J/kg of MLCAPE exists from northeast LA into northern MS. An outflow boundary from earlier-day convection over southeast MS and west-central AL is slowly progressing northwestward across the greater Jackson-Columbus corridor. The focus for severe thunderstorm potential will be north and west of this boundary during the evening as storms gradually move east. Wet microbursts appear to be the primary threat with the stronger storms. Tornado potential will likely be relatively limited across northern MS given a veer-back-veer signature evident on the area VADs."
+    }
+  ]
+}

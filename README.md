@@ -1,6 +1,6 @@
 # SPC Enhanced+ Day Classification
 
-Interactive GitHub Pages dashboard for a classification of SPC Day 1 convective days that reached Enhanced, Moderate, or High risk from 2019 through the archive available on 2026-05-25.
+Interactive GitHub Pages dashboard for a classification of SPC Day 1 convective days that reached Enhanced, Moderate, or High risk from the Enhanced-category start in late 2014 through the archive available on 2026-05-25.
 
 The page lets people inspect:
 
@@ -14,11 +14,11 @@ The page lets people inspect:
 
 ## Dataset
 
-- Classified days: 539
-- Enhanced: 443
-- Moderate: 89
-- High: 7
-- Core or likely OFB/MCS boundary regime: 287
+- Classified days: 809
+- Enhanced: 665
+- Moderate: 133
+- High: 11
+- Core or likely OFB/MCS boundary regime: 419
 
 ## Files
 

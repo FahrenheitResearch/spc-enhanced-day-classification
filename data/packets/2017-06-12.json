@@ -1,0 +1,301 @@
+{
+  "convective_day": "2017-06-12",
+  "valid_start": "2017-06-12T12:00Z",
+  "valid_end": "2017-06-13T12:00Z",
+  "max_risk": "MDT",
+  "product_counts": {
+    "MDT": 4,
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-06-12",
+      "hhmm": "1200",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2017-06-12T12:00Z",
+      "valid_end": "2017-06-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170612_1200.html",
+      "summary": "Severe thunderstorms are likely this afternoon into tonight across the north-central High Plains. Other severe thunderstorms are expected from parts of the northern Rockies to the Upper Midwest, with other strong storms possible across Maine and west Texas this afternoon into evening.",
+      "sections": [
+        {
+          "title": "THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS MAINE",
+          "text": "...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS WEST TEXAS..."
+        },
+        {
+          "title": "MT/WY/CO Front Range and North-central High Plains",
+          "text": "The overall setup appears very favorable for a corridor of locally intense severe thunderstorms including supercells across the region later this afternoon into evening, especially across eastern WY into SD and parts of the NE panhandle. An amplifying upper trough over the Great Basin will begin to eject more east-northeastward today, with ample height falls and considerably strengthening mid/high-level southwesterly winds overspreading CO/WY into the north-central High Plains through into this evening. In concert with this large-scale scenario, relatively rich low-level moisture will continue to develop west-northwestward in concert with east-southeasterly low-level upslope flow to the north of a sharpening/northward shifting surface cyclone. Regarding this relatively rich moisture, Sunday evening's 00Z observed soundings from Dodge City, Amarillo, North Platte, and Denver all featured precipitable water values in the upper 10-20th percentile for daily climatological values. Given the timing/degree of forcing for ascent and moisture, storms should steadily increase initially across the northern Rockies vicinity including parts of ID/southern MT into WY, with other potentially more"
+        },
+        {
+          "title": "Middle MO Valley/Upper Midwest to Lake MI vicinity",
+          "text": "At the very least, there appears to be an appreciable conditional severe risk across the region this afternoon into tonight. While upper-level heights may gradually rise in most areas, a potentially unstable air mass will exist along a roughly west-east frontal corridor, with the possibility of at least isolated deep convective development by late afternoon into evening owing to sufficient near-boundary convergence/warm advection. A near-boundary maximized corridor of moderate to strong buoyancy and 30-40 kt effective shear would support severe storms including a few supercells capable of large hail and damaging winds."
+        },
+        {
+          "title": "Maine",
+          "text": "A weak mid-level disturbance/MCV, potentially related to upstream convection over the Great Lakes early this morning, should approach the region later today as an influx of somewhat richer low-level moisture develops into the region. It appears that the aforementioned forcing for ascent will be relatively well-timed with which could be a moderately destabilized air mass this afternoon, in the presence of relatively strong effective shear. At least some hail/damaging wind potential appears possible."
+        },
+        {
+          "title": "West TX",
+          "text": "Although very warm mid-level temperatures will exist across the region, the influence of weak height falls in conjunction with ample near-dryline mixing should be sufficient to develop a few thunderstorms late this afternoon into early evening. While low/mid-tropospheric winds will be weak with only 25-30 kt of effective shear, steep lapse rates/deeply mixed boundary layers and moderate buoyancy will conditionally support some potential for hail and stronger downdraft winds. ..Guyer/Gleason.. 06/12/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-06-12",
+      "hhmm": "1300",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2017-06-12T13:00Z",
+      "valid_end": "2017-06-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170612_1300.html",
+      "summary": "Severe thunderstorms with tornadoes, very large hail, and damaging winds are likely this afternoon into tonight across the north-central High Plains. Other severe thunderstorms are expected from parts of the northern Rockies to the Upper Midwest, as well as across Maine and west Texas this afternoon into evening.",
+      "sections": [
+        {
+          "title": "Central/northern High Plains this afternoon into tonight",
+          "text": "On the southeastern periphery of the closed low over NV, a 70+ kt midlevel jet streak will eject northeastward to the northern High Plains tonight. A related lee cyclone will deepen across northeast CO by this evening, before translating to central NE/SD by the end of this forecast period. Initial boundary-layer dewpoints in the low 60s will spread northwestward from northeast CO into eastern WY today as low-level upslope flow strengthens in response to lee cyclogenesis. Daytime heating within this upslope regime, beneath steep midlevel lapse rates, will drive moderate-strong buoyancy (MLCAPE of 2000-3000 J/kg) and weakening convective inhibition by mid afternoon. A special NSSL sounding from Cheyenne WY at 12z revealed a 100-mb mean mixing ratio of 12.5 g/kg and only a weak cap. Thunderstorm development appears likely by early-mid afternoon from just northeast of the lee cyclone in CO northward to the east slopes of the Laramie and Big Horn ranges. As buoyancy increases through the afternoon, both deep-layer and low-level shear (i.e., hodograph length and curvature) will also increase, resulting in a favorable environment for tornadic supercells. The initially discrete supercells "
+        },
+        {
+          "title": "Northern Rockies this afternoon/evening",
+          "text": "A gradual increase in low-level moisture will occur today as far west as southwestern MT. Convection is expected to form over the high terrain by early-mid afternoon and spread northward, as large-scale ascent increases in advance of the ejecting midlevel low now over NV. Weak-moderate buoyancy and substantial deep-layer southerly shear will support a threat of organized/supercell storms capable of producing isolated large hail and damaging gusts."
+        },
+        {
+          "title": "Mid MO Valley to the Great Lakes through tonight",
+          "text": "Isolated strong/severe storms have formed this morning in eastern/southeastern NE in a zone of low-level warm advection on the nose of the steepest midlevel lapse rates. Though the low-level jet will weaken some later this morning and the ongoing storms could likewise weaken, lingering outflow boundaries could also provide some focus for additional storm development this afternoon. Otherwise, scattered thunderstorm development is expected on the synoptic front farther to the north, from southeastern SD eastward near the IA/MN border. One or more thunderstorm clusters could pose a large hail/damaging wind threat along this corridor. A couple of tornadoes with more discrete storms will also be possible, given the narrow corridor of somewhat enhanced vertical shear along the boundary. Weaker buoyancy and vertical shear suggest that the severe-storm threat will diminish with eastward extent into Lower MI."
+        },
+        {
+          "title": "Maine today",
+          "text": "A series of remnant/subtle MCVs will move from the Great Lakes to Maine today and potentially help focus storm initiation. Boundary-layer dewpoints in the 60s and surface heating in cloud breaks will drive potentially moderate buoyancy this afternoon, and deep-layer unidirectional wind profiles with substantial speed shear could support some storm organization/supercell structures. The strongest storms may produce isolated large hail and/or damaging gusts."
+        },
+        {
+          "title": "West TX this afternoon/evening",
+          "text": "Strong surface heating/mixing on the west edge of the richer low-level moisture should support at least widely-scattered thunderstorm development late this afternoon from parts of the Trans-Pecos to the Caprock. Moderate buoyancy, a deep mixed boundary layer, and modest deep-layer vertical shear could support a few marginal supercells capable of producing some hail/wind. ..Thompson.. 06/12/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-06-12",
+      "hhmm": "1630",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2017-06-12T16:30Z",
+      "valid_end": "2017-06-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170612_1630.html",
+      "summary": "Severe thunderstorms with tornadoes, very large hail, and damaging winds are likely this afternoon into tonight across the north-central High Plains. Other severe thunderstorms are expected from parts of the northern Rockies to the Upper Midwest, as well as across Maine and west Texas this afternoon into evening.",
+      "sections": [
+        {
+          "title": "Northern High Plains",
+          "text": "An upper low is centered over NV this morning, with a progressive shortwave trough rotating through the base of the low and into UT. Lift and mid-level cooling ahead of this feature is expected to promote thunderstorm development over parts of the northern Rockies and High Plains this afternoon and evening. East-southeasterly low-level winds over southeast WY and northeast CO have transported rich boundary-layer moisture back to the foothills, where daytime heating and approaching trough will likely result in first initiation of thunderstorms. Forecast soundings in this area show very steep lapse rates and large CAPE values, as well as favorable low-level and deep-layer vertical shear. Discrete supercells will be likely as activity moves off the higher terrain and into the adjacent High Plains. Parameters appear quite favorable for very large hail and tornadoes with these storms. Strong tornadoes are possible today. This evening, several CAM solutions suggest an upscale evolution to one or more bowing complexes as storms move into western NE/SD."
+        },
+        {
+          "title": "NE/IA/MN/WI",
+          "text": "Scattered strong/severe thunderstorms are ongoing this morning over parts of southeast SD and southwest MN. This activity is in proximity to a surface boundary that extends eastward into southern WI. Given the strong heating and destabilization occurring along the boundary, it appears likely that this activity will persist through much of the day and build eastward along the front. Large hail and damaging winds will be possible in this corridor. Models hint at the development of a bowing MCS this evening, affecting parts of IA/WI."
+        },
+        {
+          "title": "MT/WY",
+          "text": "To the northwest of the primary severe concern today (southeast WY), there will be a risk of severe storms capable of large hail and damaging winds into parts of western MT and northern WY. Thunderstorms may form through the afternoon over parts of eastern ID and central WY, and build northward into MT during the evening. Large hail and gusty/damaging winds will be possible in the strongest cells."
+        },
+        {
+          "title": "Maine",
+          "text": "Strong heating is occurring today over much of ME, with fast westerly flow aloft and dewpoints in the 60s. A consensus of 12z model guidance shows considerable coverage of afternoon thunderstorms in this region. Forecast soundings show moderate CAPE values and sufficient deep-layer shear to support a few rotating storms. Hail will be the main threat in the stronger cells, but gusty outflow winds will also be possible. ..TX.. A few high-based thunderstorms capable of gusty winds and hail will be possible this afternoon over parts of west TX, in a corridor of strong CAPE and steep low-level lapse rates. This threat should be focused in the 23-03z period. ..Hart/Jirak.. 06/12/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-06-12",
+      "hhmm": "2000",
+      "max_risk_in_product": "MDT",
+      "valid_start": "2017-06-12T20:00Z",
+      "valid_end": "2017-06-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170612_2000.html",
+      "summary": "Severe thunderstorms with tornadoes, very large hail, and damaging winds are likely this afternoon into tonight across the north-central High Plains. Other severe thunderstorms are expected from parts of the northern Rockies to the Upper Midwest, as well as across Maine and west Texas this afternoon into evening.",
+      "sections": [
+        {
+          "title": "20Z Update",
+          "text": "Little changes needed to the ongoing forecast. Latest observational trends/guidance continue to suggest that a relatively rapid increase of intense surface-based thunderstorms will occur over the next few hours across the northern CO into WY Front Range and adjacent High Plains, with considerable towering cu and incipient thunderstorm development at 20Z spanning areas from west of Boulder/Fort Collins CO north-northwestward to areas near/west of Laramie/Casper WY, with other towering cu farther east across southeast WY roughly near the I-80 corridor. All indications are that supercells capable of large hail and tornadoes, some of which may be strong, are likely especially with the Moderate Risk corridor as storms spread northeastward through the early evening hours. Elsewhere, a cluster of storms are likely to continue to pose a damaging wind/severe hail risk from southeast MN into central WI this afternoon in close proximity of a roughly west/east-oriented front where moderate buoyancy/effective shear are collocated. These storms should reach eastern WI by late afternoon/early evening and there is some possibility a severe risk could even continue into lower MI. ..Guyer.. 06/12/20"
+        },
+        {
+          "title": "Northern High Plains",
+          "text": "An upper low is centered over NV this morning, with a progressive shortwave trough rotating through the base of the low and into UT. Lift and mid-level cooling ahead of this feature is expected to promote thunderstorm development over parts of the northern Rockies and High Plains this afternoon and evening. East-southeasterly low-level winds over southeast WY and northeast CO have transported rich boundary-layer moisture back to the foothills, where daytime heating and approaching trough will likely result in first initiation of thunderstorms. Forecast soundings in this area show very steep lapse rates and large CAPE values, as well as favorable low-level and deep-layer vertical shear. Discrete supercells will be likely as activity moves off the higher terrain and into the adjacent High Plains. Parameters appear quite favorable for very large hail and tornadoes with these storms. Strong tornadoes are possible today. This evening, several CAM solutions suggest an upscale evolution to one or more bowing complexes as storms move into western NE/SD."
+        },
+        {
+          "title": "NE/IA/MN/WI",
+          "text": "Scattered strong/severe thunderstorms are ongoing this morning over parts of southeast SD and southwest MN. This activity is in proximity to a surface boundary that extends eastward into southern WI. Given the strong heating and destabilization occurring along the boundary, it appears likely that this activity will persist through much of the day and build eastward along the front. Large hail and damaging winds will be possible in this corridor. Models hint at the development of a bowing MCS this evening, affecting parts of IA/WI."
+        },
+        {
+          "title": "MT/WY",
+          "text": "To the northwest of the primary severe concern today (southeast WY), there will be a risk of severe storms capable of large hail and damaging winds into parts of western MT and northern WY. Thunderstorms may form through the afternoon over parts of eastern ID and central WY, and build northward into MT during the evening. Large hail and gusty/damaging winds will be possible in the strongest cells."
+        },
+        {
+          "title": "Maine",
+          "text": "Strong heating is occurring today over much of ME, with fast westerly flow aloft and dewpoints in the 60s. A consensus of 12z model guidance shows considerable coverage of afternoon thunderstorms in this region. Forecast soundings show moderate CAPE values and sufficient deep-layer shear to support a few rotating storms. Hail will be the main threat in the stronger cells, but gusty outflow winds will also be possible. ..TX.. A few high-based thunderstorms capable of gusty winds and hail will be possible this afternoon over parts of west TX, in a corridor of strong CAPE and steep low-level lapse rates. This threat should be focused in the 23-03z period."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-06-13",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-06-13T01:00Z",
+      "valid_end": "2017-06-13T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170613_0100.html",
+      "summary": "Severe thunderstorms capable of large hail, damaging winds, and a few tornadoes will remain possible across parts of the northern/central High Plains this evening into tonight. Elsewhere, a few severe storms remain possible over northern Wyoming into southern Montana, as well as across portions of the Midwest.",
+      "sections": [
+        {
+          "title": "High Plains",
+          "text": "Scattered strong to severe storms continue to evolve across the region this evening, with multiple reports of very large hail, tornadoes, and damaging winds over the last several hours. As a low-level jet continues to strengthen over the next several hours, severe cells should grow upscale, trending towards one or more bowing segments across portions of northwestern Nebraska and far southern South Dakota later this evening. Dry mid-level air and residual boundary-layer moisture (e.g., surface dew points in the upper 60s to near 70 across northern Nebraska/southern South Dakota) will support ample downdraft momentum, likely resulting in one or more localized swaths of wind damage spreading northeast. Despite the expected/ongoing mode transition, strong storm-relative inflow (and considerable veering of winds with height) may continue to favor a few tornadoes in any residual supercell structures or line-embedded circulations. Additionally, embedded mesocyclones will continue to offer a threat of large hail, some of which could be over two inches in diameter this evening."
+        },
+        {
+          "title": "Northern Wyoming into Montana",
+          "text": "Several clusters of severe storms continue to spread northward across the region this evening, along and ahead of a bent-back front over the region. While an expanding precipitation shield and some upscale growth will likely result in a slow downward trend in the severe threat, sufficient boundary-layer moisture and ample effective shear will maintain a threat for large hail, damaging winds, and a couple tornadoes before more substantial weakening occurs."
+        },
+        {
+          "title": "Upper Great Lakes",
+          "text": "A mesoscale convective system is pushing across southern/eastern Wisconsin this evening, making steady progress towards Lake Michigan. While some uncertainty remains regarding the potential for severe-wind gusts downstream (due to gradually increasing convective inhibition), a hot, well-mixed boundary-layer, characterized by surface dew points in the 60s, may maintain a potential for pockets of damaging winds as the line reaches Lower Michigan. As such, 15-percent wind probabilities are expanded eastward. ..Picca.. 06/13/2017"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 993,
+      "issue_utc": "2017-06-12T16:28Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0993.html",
+      "summary": "Thunderstorms are expected to increase in coverage and intensity through the afternoon hours. Large hail and potentially damaging winds will be the primary threats and a watch is possible by 18z.",
+      "discussion": "A cluster of thunderstorms occasionally producing large hail was located over southeast South Dakota and southwest Minnesota at 1615z. The storms have thus far been slightly elevated to the north of a quasi-stationary frontal boundary that extends from central Nebraska northeast along the Minnesota/Iowa border and into central/southern Wisconsin. Temperatures continue to warm to the south of the front, and with the nose of a plume of steep mid-level lapse rates across the area, strong surfaced-based instability will develop this afternoon. Visible satellite imagery reveals increasing cumulus field development along the front as CINH erodes, and thunderstorms are likely to increase in coverage/intensity over the next few hours within the discussion area. In the presence of effective shear generally ranging between 30 and 40 kts, supercells and clusters of severe storms will be possible with large hail and damaging winds. Where cold pools can congeal, a more concentrated damaging wind threat may develop with east/southeast-moving bowing segments. Some tornado risk will exist given the favorable low-level SRH near the boundary with the more discrete storms that develop. Given the expected increase in storm coverage and severe potential, a watch is likely prior to 1730z for the eastern two-thirds of the discussion area."
+    },
+    {
+      "year": 2017,
+      "number": 994,
+      "issue_utc": "2017-06-12T17:23Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0994.html",
+      "summary": "Isolated instances of severe hail and gusty winds will be possible with thunderstorms this afternoon across eastern Idaho initially, then spreading northward and eastward into adjacent portions of Montana and Wyoming. Trends will continue to be monitored for the necessity of a severe thunderstorm watch.",
+      "discussion": "Mid-level ascent ahead of the closed upper-level low over northeastern Nevada has encouraged early thunderstorm initiation over portions of eastern Idaho this morning. Diurnal heating in cloud-free areas to the north and east of these initial thunderstorms will allow for destabilization with MLCAPE values approaching 1000 J/kg later this afternoon. Given effective bulk shear values around 40 knots, organized and sustained updrafts will be possible in the strongest storms resulting in a risk of severe hail and damaging winds. Thunderstorm intensity and coverage trends will continue to be monitored into the afternoon hours for the possibility of a severe thunderstorm watch."
+    },
+    {
+      "year": 2017,
+      "number": 995,
+      "issue_utc": "2017-06-12T17:29Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0995.html",
+      "summary": "Potentially rapid development of severe thunderstorms including supercells is expected by early-mid afternoon. Tornadoes, some potentially strong, along with very large hail and damaging winds will be possible. A Tornado Watch will be issued by early afternoon.",
+      "discussion": "Surface observational trends show a very moist upslope low-level flow across the discussion area at 17z with surface dew points in the mid 50s-lower 60s. Breaks in cloud cover are allowing for steady diurnal heating and moderate/strong surfaced-based buoyancy is expected to be in place by early-mid afternoon. Latest visible imagery depicts a few towering cumulus clouds along the west edge of the deeper moisture across central Wyoming, and thunderstorm development will become likely over the next couple of hours with continued heating/low-level upslope flow and large-scale ascent in advance of an upper low over Nevada. Strengthening mid-level flow will result in deep-layer shear of 50-60 kts across the area, favoring supercell structures as the initial storm mode. Very steep mid-level lapse rates will be favorable for very large hail, and increasing low-level winds with time will result in long hodographs with substantial low-level curvature/low-level SRH. Given this setup, strong tornadoes will be possible this afternoon. Given recent observational trends, a Tornado Watch will be needed early this afternoon."
+    },
+    {
+      "year": 2017,
+      "number": 996,
+      "issue_utc": "2017-06-12T19:22Z",
+      "topic": "Severe Thunderstorm Watch 316",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0996.html",
+      "summary": "The threat for damaging winds and isolated large hail will continue across the watch area. With time, the risk for damaging winds in particular may develop east of the current watch area.",
+      "discussion": "A loosely organized cluster of severe storms was located over southeast Minnesota at 1915z, with a recent history of measured severe gusts and radar indications of marginally severe hail. The storms have been moving northeast near and just north of a quasi-stationary surface boundary which extends east across portions of southern/central Wisconsin. An increase in stratiform precipitation to the west of the cluster suggests that a developing cold pool may result in a transition to a more focused damaging wind risk as this convective system begins to move east along the instability gradient the remainder of this afternoon/early evening. In addition, any storm development along the boundary to the east of the convective system would also have severe potential given strong surface-based buoyancy and 35-40 kts of westerly deep-layer shear. Across western portions of the watch area, the aforementioned region of stratiform precipitation/resultant destabilization has diminished the severe risk. ..Bunting.. 06/12/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 997,
+      "issue_utc": "2017-06-12T19:29Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0997.html",
+      "summary": "Isolated-to-scattered thunderstorms are expected to develop in the next couple of hours across Maine. The strongest storms will be capable of producing severe hail and damaging winds. A severe thunderstorm watch is possible if coverage of severe storms appears sufficient.",
+      "discussion": "The focus for convective initiation is ill-defined across Maine this afternoon though a few west-southwest to east-northeast bands of towering cumulus have become apparent in visible satellite imagery. The northern-most of the cloud bands, which may be aided by a weak mid-level impulse, across northern Maine extending westward into eastern Quebec appears the most likely to generate deep convection. With surface dew points in the mid-60s F, there should be sufficient instability (MLCAPE values over 1000 J/kg) to get organized updrafts given the more-than-sufficient effective bulk shear (i.e., around 50 knots). The most likely severe hazards will be damaging wind gusts and severe hail. Convective trends will continue to be monitored, especially the overall coverage of thunderstorms, regarding the need for a severe thunderstorm watch."
+    },
+    {
+      "year": 2017,
+      "number": 998,
+      "issue_utc": "2017-06-12T20:17Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0998.html",
+      "summary": "Thunderstorms are beginning to form over central Wyoming. Coverage and intensity of storms are expected to increase throughout the afternoon hours, as they spread northward over time. Large hail and damaging winds will be the primary severe weather threats from the strongest storms, likely requiring a watch.",
+      "discussion": "Strong insolation has led to destabilization across central and northern Wyoming in advance of an upper-level low over northeastern Nevada. As the upper-low approaches the area, mid-level ascent will favor increasing storm coverage and intensity. With low 50s F dewpoint temperatures holding across much of the region, MLCAPE values will approach 1000 J/kg. The instability coupled with effective deep-layer shear around 50 knots will be more than sufficient to support rotating updrafts. Large hail and damaging winds will be the primary severe weather hazards. Severe storm coverage is expected to be sufficient to require a watch."
+    },
+    {
+      "year": 2017,
+      "number": 999,
+      "issue_utc": "2017-06-12T20:51Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0999.html",
+      "summary": "Isolated strong/severe thunderstorms will be capable of damaging gusts late this afternoon into early evening. The threat is expected to be isolated and a watch is not anticipated.",
+      "discussion": "Strong diurnal heating in the vicinity of a diffuse dryline has resulted in weak-moderate surface based instability and very steep low-level lapse rates. Latest visible satellite and radar data show towering cumulus across the Texas South Plains and far west Texas with an isolated thunderstorm west of Fort Stockton. Despite weak mid-level southwesterly flow of 15-20 kts, southeast low-level flow is contributing to effective shear averaging 25-35 kts. Isolated high-based thunderstorms will continue to develop through early evening and the strongest storms will be capable of damaging gusts. Sufficient shear is in place for some risk for large hail, especially over southern portions of the discussion area. Overall coverage is expected to remain isolated and a watch is not anticipated."
+    },
+    {
+      "year": 2017,
+      "number": 1000,
+      "issue_utc": "2017-06-12T22:48Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1000.html",
+      "summary": "Storms advancing east from central WI may pose a risk for producing severe weather into west-central and perhaps central Lower MI by mid-late evening. Watch potential will continue to be monitored for this region, though current likelihood for issuance is low.",
+      "discussion": "Late afternoon/early evening surface analyses showed a boundary extending from south-central WI across the middle portion of Lake Michigan into west-central Lower MI (Mason and Manistee Counties), then east-northeast near KHTL to Alcona County MI. Despite clouds across much of north-central and central Lower MI, a corridor of surface dew points in the upper 60s to 70 F in vicinity of the boundary and some late-day heating in west-central Lower MI is resulting in mixed-layer CAPE of at least 1000 J/kg. Meanwhile, if the ongoing bowing line of storms moving east at 35-40 kt across south-central WI maintains this forward speed, it will reach west-central Lower MI around 02Z. Uncertainty exists with the effect the pre-bow storms have on the forward speed of the bow and its potential to reach parts of Lower MI prior to boundary-layer stabilization with the loss of daytime heating. Any storms that can move across Lake Michigan will move into at least a moderately unstable environment through mid evening with effective bulk shear strengthening as westerly midlevel winds increase. Last several runs of the HRRR suggest storms will move across north-central Lower MI from 02/03Z through 07Z."
+    },
+    {
+      "year": 2017,
+      "number": 1001,
+      "issue_utc": "2017-06-12T23:05Z",
+      "topic": "Tornado Watch 317",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1001.html",
+      "summary": "All severe hazards, including strong tornadoes, large to giant hail, and damaging winds will continue with multiple supercells across Particularly Dangerous Situation Tornado Watch 317. A downstream watch into western/central NE and southern SD will be needed within the next several hours.",
+      "discussion": "At least 3 supercells are ongoing as of 23Z across far southeastern WY/northeastern CO into far western NE. With a very favorable thermodynamic and kinematic environment characterized by MLCAPE of 2000-3500 J/kg and effective bulk shear of 50-60 kt, these supercells have produced over a dozen reports of significant hail (2 inch in diameter or greater) over the past few hours, with several reports of hail greater than 4 inches. At least 2 tornadoes have also occurred. The airmass downstream of ongoing convection will easily support continued significant severe hail, along with a risk for tornadoes and damaging winds through this evening. Strong tornadoes will continue to be a possibility with any discrete supercell across far southeastern WY, northeastern CO, and western NE for the next few hours given a strongly veering and strengthening wind profile with height. Of note, 0-1 km SRH is around 300 m2/s2 per recent VWP from KCYS, and 0-3 SRH is around 500 m2/s2. A southerly low-level jet will strengthen to around 40-50 kt across western/central NE into southern SD this evening/tonight, and all severe hazards will remain possible into this evening across these areas. Evolution from discrete supercells into one or more bowing line segments appears likely to occur at some point later this evening in tandem with the increasing low-level jet, which would likely increase the threat for damaging winds with eastward extent. In addition, large hail and a few tornadoes should continue to be a threat with any supercell embedded within the line(s). A downstream watch in western/central NE and southern SD will be needed within the next several hours. ..Gleason.. 06/12/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1002,
+      "issue_utc": "2017-06-12T23:38Z",
+      "topic": "Severe Thunderstorm Watch 316",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1002.html",
+      "summary": "Severe threat for damaging winds and hail persists across WW 319 this evening, while these threats have moved east of WW 316 (allowing this latter watch to be canceled early).",
+      "discussion": "Mosaic radar imagery showed an ongoing bow advancing to the east at 35-40 kt across south-central toward eastern WI, with the bow currently extending from western Waupaca County to Waushara and Green Lake Counties at the bow apex to Sauk County. From the apex of the bow, a surface boundary extended eastward to Sheboygan County and across the middle portion of Lake Michigan. The environment downstream from the bow remains moderately unstable with effective bulk shear of 40-50 kt oriented parallel to the surface boundary. These factors suggest a continued forward propagation of the bow with damaging winds being the primary threat along the bow path. Meanwhile, additional strong to severe storm development remains possible with northward extent (across the WI counties of Marathon to Oconto) where sufficient instability and strong bulk shear favor storm organization with a hail and damaging wind threat. ..Peters.. 06/12/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1003,
+      "issue_utc": "2017-06-13T00:00Z",
+      "topic": "Severe Thunderstorm Watch 318",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1003.html",
+      "summary": "An isolated threat for large hail and damaging winds continues across WW 318. A tornado or two also remains possible mainly across southern/eastern portions of the Watch.",
+      "discussion": "Convection has increased in coverage and intensity across northern/central WY over the past several hours as an upper low moves northeastward across the northern Great Basin. Strong mid to upper-level winds are contributing to generally 40-50 kt of effective bulk shear in/near the Severe Thunderstorm Watch. Although low-level moisture is more limited across this region (mid/upper 40s to mid 50s dewpoints) compared to southeastern WY, steep mid-level lapse rates overlying this sufficient moisture and diurnal heating have resulted in MLCAPE of 500-1500 J/kg. Multiple supercell structures have been observed per KRIW and KBLX radars, and isolated large hail and damaging winds will continue to be a threat through the evening hours as storms move northward into southern MT. A tornado or two will also remain possible, particularly across the Bighorn Basin and vicinity. Across this area, slightly greater low-level moisture (dewpoints in the low to mid 50s) is allowing for lower LCL heights, and a supercell over Johnson County WY has recently produced a tornado (as of 2342Z), along with 2+ inch hail. Diurnal cooling later this evening will act to reduce available instability to maintain storm intensity, and the overall severe threat should slowly lessen over the next few hours. ..Gleason.. 06/13/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1004,
+      "issue_utc": "2017-06-13T02:02Z",
+      "topic": "Tornado Watch 317",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1004.html",
+      "summary": "A threat for a few tornadoes and scattered large hail/damaging winds continues across valid portions of WW 317/320. Parts of WW 317 have been locally extended in time until 03Z based on latest radar trends.",
+      "discussion": "Two semi-discrete supercells continue across western NE as of 02Z. The southernmost storm has had multiple tornado and large hail reports associated with it over the past several hours. A strongly unstable airmass into central NE/southern SD, where MLCAPE ranges from 2500-3500 J/kg per 01Z mesoanalysis, will very likely support continued severe-caliber storms into the late evening. Strong effective bulk shear values of 50-60+ kt owing to a northeastward- moving upper low over the northern Great Basin will also contribute to robust updraft organization, with all severe hazards remaining possible. A short-term (next hour or two) tornado threat should be maximized across parts of western NE into far southwestern SD with the previously mentioned semi-discrete supercells. Across this area, strongly veering/strengthening low-level winds are contributing to a relative maximum in effective SRH values (300-500+ m2/s2). Additional convection has recently formed along northern portions of the Laramie Mountains in east-central WY, and this activity may also pose some severe risk, although instability is weaker with northward extent. Current expectations are still for ongoing storms to grow upscale into one or more bowing line segments as they move into north-central NE and western/central SD later this evening. If this were to occur, then damaging winds would likely become the primary severe threat. ..Gleason.. 06/13/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1005,
+      "issue_utc": "2017-06-13T02:30Z",
+      "topic": "Severe Thunderstorm Watch 321",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1005.html",
+      "summary": "Severe-weather threat (primarily damaging winds) has exited the land areas of WW 319 in eastern WI, with the storms moving across middle portions of Lake Michigan. Potential continues for storms to be capable of producing strong wind gusts as they spread across Lake Michigan, reaching the eastern shore of Lake Michigan between 0230-03Z, and then advancing inland across Lower MI late this evening/early overnight.",
+      "discussion": "Trends in mosaic radar imagery indicated the strongest and most persistent portion of the eastward-moving band of storms was located over the open waters of the north-central to central portions of Lake Michigan (or from 45 NE KMTW to 35 WSW KMBL) at 0210Z. The storm motion is toward the east-northeast at 35-40 kt and should reach the eastern shore of Lake Michigan by 0230-03Z in the MI counties of Mason, Manistee, and Benzie. Although objective analyses indicated ongoing boundary-layer stabilization with an increase in surface-based inhibition/weakening surface-3-km lapse rates, the strength of the cold pool could prove sufficient to support stronger wind gusts reaching the surface. This potential should be further aided by an increase in MUCAPE (per objective analyses) of 1500-2000 J/kg, as a plume of steep midlevel lapse rates spreads across into Lower MI, sustaining the band of storms. ..Peters.. 06/13/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1006,
+      "issue_utc": "2017-06-13T04:14Z",
+      "topic": "Tornado Watch 320",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1006.html",
+      "summary": "All severe hazards remain possible with the storms moving northeast through northwest NE and southwest SD. Meanwhile, a bowing line has recently formed in the SD counties of Jackson and Bennett. This bowing line and at least one additional bowing line expected to form in southwest SD overnight will pose a threat for damaging winds across parts of central and northern SD, where a new WW will be coordinated soon. Additional storms may form in northeast SD ahead of the lead bow with a threat for hail and strong wind gusts.",
+      "discussion": "CAPE/shear parameter space including strong effective SRH remains favorable for discrete/semi-discrete supercells with an attendant tornado threat across the valid portions of WW 320 in northwest NE to western SD. Mosaic radar imagery indicated the recent development of a bow in Jackson and Bennett Counties SD, with this bow tracking toward the northeast. Last several runs of the HRRR continued to suggest upscale development of one or two bows tracking from southwest to central and northern SD through the overnight. This downstream environment was supporting of sustained bow structures as strengthening southerly low-level winds result in further poleward theta-e advection across SD. This combined with forcing for ascent with height falls ahead of the northeastward-moving Great Basin upper low will support storm development through tonight."
+    },
+    {
+      "year": 2017,
+      "number": 1007,
+      "issue_utc": "2017-06-13T04:58Z",
+      "topic": "Severe Thunderstorm Watch 321",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1007.html",
+      "summary": "The severe-weather threat continues across northeast Lower Michigan as a band of storms advances to the east at 40 kt. The severe-weather threat has ended across the northwest part of WW 321 as storms have moved into northeast Lower Michigan, while farther south a more stable environment precluded storms in central parts of Lower Michigan.",
+      "discussion": "At 0445Z, mosaic radar imagery indicated a short band of storms advancing east across northeast Lower Michigan at 40 kt, with this activity expected to move east of the Lake Huron shore around 06Z. These storms will move along an instability gradient posing a continued threat for strong/damaging wind gusts. ..Peters.. 06/13/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1008,
+      "issue_utc": "2017-06-13T07:33Z",
+      "topic": "Severe Thunderstorm Watch 322",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1008.html",
+      "summary": "Widespread 50-70 mph gusts are likely for at least the next couple of hours. The need for a new severe thunderstorm watch into southeastern ND is unlikely but a watch extension-in-area (EXA) could be used for the northeastern-most counties in SD if severe gusts are still occurring as the squall line moves through Spink and Brown counties.",
+      "discussion": "Radar mosaic shows a severe squall line moving northeast at 50 kt on the apex of a bowing segment moving into southwestern Faulk county as of 0730Z. Surface observations on either end of the squall line recorded severe gusts (KMBG 51 kt at 0653Z; KPIR 62 kt at 0619Z). Expecting the potential for severe gusts to remain high, especially ahead of the bowing segment moving northeast towards Aberdeen with radar velocities from KABR indicating an intense rear-inflow jet (75-85 kt at 5,000 ft). 07Z surface data shows pressure falls are occurring (2mb/2hr) ahead of the line in northeast SD. The steep mid-level lapse rate environment will remain very supportive of squall line longevity and expecting widespread 50-70 mph gusts with localized gusts with the bowing segment in the 60-85 mph range. ..Smith.. 06/13/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

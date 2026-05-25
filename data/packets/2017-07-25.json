@@ -1,0 +1,124 @@
+{
+  "convective_day": "2017-07-25",
+  "valid_start": "2017-07-25T12:00Z",
+  "valid_end": "2017-07-26T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 4
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-07-25",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-07-25T12:00Z",
+      "valid_end": "2017-07-26T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170725_1200.html",
+      "summary": "Severe thunderstorms with damaging winds and large hail will be possible across portions of the northern Plains and the Upper Mississippi Valley this afternoon and evening. A couple of tornadoes are also possible from eastern South Dakota into central Minnesota.",
+      "sections": []
+    },
+    {
+      "issued_product_date": "2017-07-25",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-07-25T13:00Z",
+      "valid_end": "2017-07-26T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170725_1300.html",
+      "summary": "Severe thunderstorms with damaging winds, large hail and the possibility of tornadoes are forecast across portions of the northern Plains and the Upper Mississippi Valley this afternoon and evening. Isolated severe thunderstorm gusts also are possible over parts of the Great Basin.",
+      "sections": [
+        {
+          "title": "Synopsis",
+          "text": "The northern-stream pattern aloft will become more zonal through the period, as troughing exits the Northeast and weakens across the downstream North Atlantic. A strong shortwave trough -- accompanied by a compact mid/upper-level cyclone now located over the MB/SK border -- is forecast to move eastward across much of northwestern ON by the end of the period, with at least weak height falls extending across much of MN/WI and Upper MI. A broad, messy area of convectively generated/enhanced vorticity -- now evident in moisture-channel imagery over parts of UT, western CO and eastern NV -- will eject northeastward, evolving into a more distinct shortwave trough over eastern SD and central NE by 12Z. Meanwhile, a mid/upper low currently stationary over the northern CA coast will remain so today, then begin to move eastward across northern CA late tonight. At the surface, a wavy frontal zone was analyzed from a low offshore from the Mid-Atlantic across southern VA, KY, southern MO, and northwestward generally up the Missouri Valley to another low in central SD. Under weak flow aloft, disorganized general thunderstorms will be possible near and south of the frontal zone over the Southeast"
+        },
+        {
+          "title": "Northern Plains to western Lake Superior Region",
+          "text": "Scattered thunderstorms are expected to develop late this afternoon near the frontal zones, initially across southern and eastern SD, then into southwestern/central/south-central MN, as a combination of strong warm-sector heating and frontal convergence overcomes the cap. Large hail is probable, along with at least isolated damaging gusts. The cape/shear parameter space also supports a supercellular tornado risk, though longevity of favorable storm mode is uncertain. The 12Z ABR sounding sampled the base of a strong elevated mixed layer, with robust basal inversion between 750-850 mb. Another sounding is planned there at 18Z. This is partly to evaluate the change in low-level thermodynamics through midday, including cap strength and the progress of boundary-layer theta-e advection under that cap, in the northern fringe of most focused severe probabilities. Pending that and forthcoming 12Z model guidance, and evaluating current diagnostics and prior/overnight progs, no major changes to the prior outlook in this region are justified. Some southward nudge of slight/enhanced probabilities is being done in deference to the most probable corridor of afternoon storm initiation near and ea"
+        },
+        {
+          "title": "Western Great Basin",
+          "text": "Widely scattered to scattered thunderstorms are expected to develop this afternoon into early evening over higher terrain from the eastern Sierras across the western Great Basin. Activity should move mostly northward to northeastward over lower intermountain terrain, where pockets of clearing permit enough insolation to develop a well-mixed subcloud layer, in turn supporting a hybrid wet/dry downburst thermodynamic configuration. While mid/upper- level lapse rates are not forecast to be especially large, sufficient low-level moisture in place to support weakly inhibited MLCAPE in the 500-1500 J/kg range. A large area of difluent, southwesterly to south-southwesterly flow will persist over the region east of the slow-moving mid/upper-level low/trough. This will occur beneath a belt of relatively maximized 250-mb to anvil- level flow, contributing to both convective ventilation and cloud-layer shear, though weak low-level winds are forecast. Lack of both buoyancy and greater low/middle-level flow/shear preclude a better-organized severe threat. ..Edwards.. 07/25/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-07-25",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-07-25T16:30Z",
+      "valid_end": "2017-07-26T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170725_1630.html",
+      "summary": "Scattered severe storms are expected across parts of the Upper Midwest during the late afternoon and evening. Large hail, damaging winds, and a couple tornadic storms will be possible.",
+      "sections": [
+        {
+          "title": "Upper Midwest",
+          "text": "Pronounced capping as sampled by the 12Z Aberdeen sounding will inhibit surface-based storm development until late afternoon. Hot temperatures from 100-104 degree F will be necessary to minimize MLCIN, and this should occur across western NE into south-central SD where a thermally-induced cyclone should form along a quasi-stationary front. Storm initiation should occur in this vicinity amid a deeply mixed thermodynamic profile characterized by steep tropospheric lapse rates. Frontal convergence and warm-air advection across the boundary should yield scattered storm development to the east-northeast across eastern SD into central/southern MN during the evening. Here, large buoyancy with MLCAPE of 2000-3500 J/kg should be present amid upper 60s to lower 70s surface dew points. Deep-layer shear will be sufficient for organized updrafts on the southern periphery of moderate mid/upper-level westerlies associated with a Manitoba shortwave trough. However, weaknesses in the hodograph and orientation of the front should foster a predominately messy storm mode, with cells likely evolving rapidly into clusters. This setup should result in a mix of large hail and damaging winds. A couple torn"
+        },
+        {
+          "title": "Western Great Basin",
+          "text": "Scattered storms will again develop this afternoon and evening downstream of a nearly stationary mid-level low along the northern CA coast. Winds below the 500-mb level will be light, with a belt of 50-60 kt high-level southwesterlies confined to the upper portion of the convective cloud layer. Effective shear will likely remain weak, below 20 kt. This will minimize the risk for severe wind gusts from organized storms. However, localized severe wind gusts will be possible where robust diabatic heating occurs, to the north/west of pervasive cloud cover over the southern/eastern Great Basin. ..Grams/Cohen.. 07/25/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-07-25",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-07-25T20:00Z",
+      "valid_end": "2017-07-26T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170725_2000.html",
+      "summary": "Scattered severe storms are expected across parts of the Upper Midwest during the late afternoon and evening. Large hail, damaging winds, and a couple tornadic storms will be possible.",
+      "sections": [
+        {
+          "title": "Upper Midwest",
+          "text": "No appreciable changes have been made to the 1630z outlook. Earlier thoughts regarding the evolution of convection along a boundary draped from northern NE into MN remain. The last six or so runs of the HRRR model are very consistent in thunderstorms initiating over south-central SD where surface temperatures have soared above 100F. This breach of convective temperature should result in thunderstorm development by 21-22z. Subsequent development northeast along the boundary into MN will occur by early evening. For more information refer to MCD #1420. ..Darrow.. 07/25/2017 .PREV DISCUSSION... /ISSUED 1124 AM CDT Tue Jul 25 2017/"
+        },
+        {
+          "title": "Upper Midwest",
+          "text": "Pronounced capping as sampled by the 12Z Aberdeen sounding will inhibit surface-based storm development until late afternoon. Hot temperatures from 100-104 degree F will be necessary to minimize MLCIN, and this should occur across western NE into south-central SD where a thermally-induced cyclone should form along a quasi-stationary front. Storm initiation should occur in this vicinity amid a deeply mixed thermodynamic profile characterized by steep tropospheric lapse rates. Frontal convergence and warm-air advection across the boundary should yield scattered storm development to the east-northeast across eastern SD into central/southern MN during the evening. Here, large buoyancy with MLCAPE of 2000-3500 J/kg should be present amid upper 60s to lower 70s surface dew points. Deep-layer shear will be sufficient for organized updrafts on the southern periphery of moderate mid/upper-level westerlies associated with a Manitoba shortwave trough. However, weaknesses in the hodograph and orientation of the front should foster a predominately messy storm mode, with cells likely evolving rapidly into clusters. This setup should result in a mix of large hail and damaging winds. A couple torn"
+        },
+        {
+          "title": "Western Great Basin",
+          "text": "Scattered storms will again develop this afternoon and evening downstream of a nearly stationary mid-level low along the northern CA coast. Winds below the 500-mb level will be light, with a belt of 50-60 kt high-level southwesterlies confined to the upper portion of the convective cloud layer. Effective shear will likely remain weak, below 20 kt. This will minimize the risk for severe wind gusts from organized storms. However, localized severe wind gusts will be possible where robust diabatic heating occurs, to the north/west of pervasive cloud cover over the southern/eastern Great Basin."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 1419,
+      "issue_utc": "2017-07-25T18:11Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1419.html",
+      "summary": "Isolated strong downburst winds possible this afternoon.",
+      "discussion": "East of the midlevel low over the northwest CA coast, deep convection is beginning to develop over the high terrain from the east slope of the Sierra Nevada into west central NV. Continued surface heating will drive sufficient buoyancy for thunderstorms to move northward-northeastward off the high terrain, while deep-layer vertical shear will be sufficient for some storm-scale organization. Steepening low-level lapse rates and some midlevel dry air will support the potential for strong downdrafts, some of which could produce marginally severe outflow winds."
+    },
+    {
+      "year": 2017,
+      "number": 1420,
+      "issue_utc": "2017-07-25T19:41Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1420.html",
+      "summary": "Severe thunderstorm development is expected around the 2030Z-2130Z time frame. Severe Thunderstorm Watch issuance will be likely.",
+      "discussion": "Initial boundary-layer cumulus development is noted in Cherry County NE, along a northeast-southwest frontal segment that extends into northeast SD. Despite weak large-scale ascent, hot surface temperatures into the upper 90s to near 104F have permitted the erosion of antecedent capping near and south the front. Sufficient frontal ascent will support deep convective development within the next couple of hours. Initial development may be focused in northwest/north-central NE, downshear from a 1008-mb, thermally-enhanced frontal cyclone analyzed south-southeast of Chadron, with activity also developing and spreading into SD into the late afternoon and evening. The 18Z Aberdeen SD RAOB sampled steep mid-level lapse rates, and modifications to the low-level thermodynamic profile to account for observations near/south of the boundary indicate MLCAPE around 2000-3500 J/kg -- aided by surface dewpoints holding in the 60s in many areas. Sufficient mid-level flow will exist -- especially with northward extent across the region (around 40 kt sampled by the aforementioned sounding) -- for convective organization/clusters. Severe hail and wind will be likely. Intense cold pools will likely amalgamate as convective coverage increases into the evening, fostering localized pockets of convective upscale growth. This will locally bolster the severe-wind risk, with the severe-hail risk continuing amidst steep lapse rates."
+    },
+    {
+      "year": 2017,
+      "number": 1421,
+      "issue_utc": "2017-07-25T20:21Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1421.html",
+      "summary": "The severe-thunderstorm risk will be increasing through late afternoon and then continue into the evening. Severe hail and wind, and perhaps some limited tornado risk, are expected to accompany storms. Present indications are that Watch issuance will be likely.",
+      "discussion": "A quasi-stationary frontal zone arcs from far eastern SD into southwest and south-central MN into north-central IA. While substantial MLCIN for mixed-layer parcels continues, modest surface heating amid upper 60s to lower 70s surface dewpoints is promoting strong destabilization amidst steep mid-level lapse rates. This is especially the case over the warm side of the frontal zone, where MLCAPE upwards of 3500 J/kg exists based on modifications to the 18Z Aberdeen SD RAOB. Elevated convection along the southern periphery of a subtle mid-level impulse crossing the northern High Plains has shown some signs of intensification in far eastern SD near the frontal zone. While likely remaining elevated in the short term, the moist and diurnally heated, destabilizing boundary layer may contribute to some intensification of this activity as it spreads into MN, with isolated severe potential. Subsequently, storms will likely develop across the discussion area through the late afternoon and into the evening hours, in response to strengthening warm advection and persistent frontal ascent. The aforementioned buoyancy, combined with 30-45 kt of effective shear, will likely support severe hail and wind. Increasing convective coverage into the evening should yield localized upscale convective growth with corridors of greater severe-wind risk, while the severe-hail risk continues. Some limited tornado risk could exist with any supercell structures residing along the warmer side of the frontal zone, where the combination of 150-250 m2/s2 of effective SRH and surface-based effective inflow layers will exist. However, this risk may be curtailed by strong outflow as convection increases in coverage and cold pools amalgamate, with a storm mode becoming predominated by clusters. Uncertainty exi"
+    },
+    {
+      "year": 2017,
+      "number": 1422,
+      "issue_utc": "2017-07-25T23:25Z",
+      "topic": "Severe Thunderstorm Watch 436",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1422.html",
+      "summary": "The threat of locally damaging winds or hail persists across a wide area from north central Nebraska into southern Minnesota.",
+      "discussion": "Scattered storms continue to evolve within the surface trough where strong heating occurred this afternoon. Hail cores have been noted on many of the cells, with a few left-moving storms evident. Strong outflow has been measured, and radar shows areal extent of outflow boundaries increasing with time. This is likely to have a stabilizing effect by early evening, when coverage of severe storms is expected to wane. However, strong instability currently exists over a large area, and isolated severe storms remain possible both north and south of the ongoing convective axis until the air mass is overturned. ..Jewell.. 07/25/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

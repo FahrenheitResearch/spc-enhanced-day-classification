@@ -1,0 +1,89 @@
+{
+  "convective_day": "2017-05-25",
+  "valid_start": "2017-05-25T12:00Z",
+  "valid_end": "2017-05-26T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-05-25",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-05-25T20:00Z",
+      "valid_end": "2017-05-26T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170525_2000.html",
+      "summary": "Scattered severe thunderstorms capable of severe gusts are likely this afternoon and evening over parts of the central High Plains. Other strong storms are possible across the Mid Atlantic Coast region.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "The notable changes for this outlook update include: 1) Upgrade to 30% wind probabilities over parts of the central High Plains. Visible satellite and radar imagery show a linear cluster of strong/severe thunderstorms over northeastern CO near and north of a triple point. Very steep lapse rates/evaporative cooling coupled with organized storms will lead to a concentrated area of severe gusts this afternoon into the early evening as the activity moves eastward along the KS/NE border vicinity. 2) Removed low probabilities over south FL. ..Smith.. 05/25/2017 .PREV DISCUSSION... /ISSUED 1119 AM CDT Thu May 25 2017/"
+        },
+        {
+          "title": "Synopsis",
+          "text": "The elongated mid-level cold core, of large-scale upper troughing now encompassing most areas east of the Mississippi Valley, is in the process of pivoting northeastward across the southern Atlantic coast states. As it continues northeastward, then northward, mostly off the Mid Atlantic coast through the remainder of the period, the mid Ohio Valley closed low appears likely to redevelop east northeastward into southern New England by 12Z Friday. As it does, an associated occluded surface low should weaken across the mid/upper Ohio Valley, and the secondary surface low (now east southeast of the Washington D.C./Baltimore area) may eventually deepen near the southern New England coast. In the wake of the short wave impulse, mid-level heights are expected to rise, but models do suggest that mid/upper flow will remain at least broadly cyclonic across much of the south Atlantic Seaboard, including the Florida peninsula. It also appears that a cold front, trailing from the Mid Atlantic surface low, may progress through the remainder of the central and southern Florida peninsula, before stalling and weakening. Upstream, broad mid/upper ridging is expected to continue developing northeastw"
+        },
+        {
+          "title": "Mid Atlantic region",
+          "text": "The lack of stronger vertical shear and stronger, or at least more focused, mid-level forcing for ascent appear limiting factors concerning severe weather potential for today. However, modest destabilization associated with insolation and cooling aloft may contribute to thermodynamic profiles supportive of scattered thunderstorm activity with at least some severe wind/hail potential (mostly marginal)."
+        },
+        {
+          "title": "South Florida",
+          "text": "Model output suggests that a weak area of low pressure may develop near/ahead of the cold front, in the vicinity or southeast of Lake Okeechobee, during the day today. If this occurs, locally enhanced convergence may provide a focus for storm initiation, in the presence of sizable CAPE and lingering strong westerly mid/upper flow. Otherwise, weak frontal/pre-frontal low-level convergence seems likely to limit the potential for sustained vigorous thunderstorm development."
+        },
+        {
+          "title": "Central high Plains",
+          "text": "A signal is evident, within the output of an ensemble of convection allowing model guidance, that suggests sustained organized storm development is at least possible within a corridor across parts of northeast Colorado into northwest Kansas late this afternoon and evening. Thermodynamic profiles across this region probably will become favorable, with at least some further moistening beneath very steep mid-level lapse rates. Given this environment, the deep layer shear probably will be sufficient to enhance any convective development. However, deterministic model output appears at least a bit more unclear concerning supporting forcing for this activity. As a result, severe weather potential seems largely conditional, but perhaps enough to maintain slight risk probabilities."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 838,
+      "issue_utc": "2017-05-25T12:23Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0838.html",
+      "summary": "A few thunderstorms may become marginally severe later this morning, with hail or wind. But coverage may not warrant a watch.",
+      "discussion": "A weak cold front currently extends across south Florida, with substantial tropical moisture to the south. The 12Z MFA and KEY soundings both show PW approaching 2\" along with 2000-3000 J/kg MLCAPE in place. Further, mid to upper level wind fields remain strong, which is lengthening hodographs. Scattered storms currently exist along the front and extending southwestward over the Gulf, with a few showers ahead of the front as well. With pockets of heating, a few of these storms could become marginally severe with hail or wind. However, generally unfavorable synoptic-scale conditions will ensue throughout the day with the upper trough lifting away from the area. Thus, the overall threat is not expected to be widespread or warrant a watch."
+    },
+    {
+      "year": 2017,
+      "number": 839,
+      "issue_utc": "2017-05-25T16:59Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0839.html",
+      "summary": "Scattered thunderstorms should gradually increase in intensity over the course of the afternoon, although any severe threat is expected to remain isolated. A weather watch issuance is not currently anticipated for this activity.",
+      "discussion": "The combination of continued pockets of surface heating and forcing for ascent aloft with approach of a mid-level disturbance over southern Ohio will foster a gradual increase in convective coverage and intensity across the discussion area this afternoon. 500-1500 J/kg MUCAPE and 40-50 knot deep shear could foster organized, sustained updrafts with some threat for 1-1.5\" hail stones and damaging wind gusts in/near the strongest activity. Weak low-level shear profiles will foster more outflow-dominant/forward propagating storms initially although low-level flow will increase some later in the afternoon. Any severe threat should be too isolated to necessitate a severe thunderstorm watch issuance."
+    },
+    {
+      "year": 2017,
+      "number": 840,
+      "issue_utc": "2017-05-25T18:35Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0840.html",
+      "summary": "An isolated large hail and damaging wind threat may develop over the next several hours. Watch issuance is possible depending on convective trends.",
+      "discussion": "18Z surface analysis depicts a cold front arcing from a low over north-central SD across parts of central/western NE and into northeastern CO. A small cluster of thunderstorms ongoing as of 1830Z across northeastern CO is probably associated with a minor shortwave trough embedded within larger upper troughing extending from Saskatchewan into the northern Plains/Rockies and Great Basin. Additional thunderstorms will likely form over the next several hours across parts of northern/central CO as broad large-scale ascent attendant to the upper trough overspreads this region. The boundary layer downstream of ongoing convection across the central High Plains is becoming well-mixed this afternoon with plentiful diurnal heating occurring. Although low-level moisture remains somewhat modest with surface dewpoints generally in the mid 40s to lower 50s, steep mid-level lapse rates and cool mid-level temperatures are contributing to MLCAPE up to 1000 J/kg per latest RAP Mesoanalysis. Additional heating may encourage instability to increase up to 1500 J/kg along and south of the front by peak heating this afternoon. Strengthening mid-level west-southwesterly winds associated with the mid/upper-level trough will support effective bulk shear values of 35-45 kt across this region through this evening, which should be sufficient for supercell structures. Recent short-term convection-allowing model guidance remains unclear regarding the coverage and intensity of thunderstorms this afternoon. But, the overall parameter space will be favorable for organized updrafts with an isolated large hail and damaging wind risk, with at least some chance at upscale growth into one or more line segments potentially focused along/near the front. If radar/satellite trends indicate an increase in convecti"
+    },
+    {
+      "year": 2017,
+      "number": 841,
+      "issue_utc": "2017-05-25T22:23Z",
+      "topic": "Severe Thunderstorm Watch 267",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0841.html",
+      "summary": "Isolated severe thunderstorms will push southeast across western Kansas this evening, with a continuing threat for large hail, damaging winds, and perhaps a tornado.",
+      "discussion": "A pair of severe storms has organized over northwest Kansas this evening, with a report of 3-inch diameter hail and a tornado earlier in Yuma County, Colorado. These cells have recently decreased in intensity somewhat; however, as outflow/merged cold pools push southeast (enhanced by large temperature-dew point spreads), new updrafts will likely develop, occasionally acquiring rotation. Such cells will continue to be capable of large hail and damaging winds, with a brief tornado possible as well. While the overall intensity trend will be downward later this evening as cells move into an environment of larger convective inhibition, any sustained updraft rotation (and related upward perturbation pressure gradient force) would allow stronger cells to move farther east towards central Kansas. Across southwest Kansas, deep convection has struggled to sustain itself, likely due to considerable dry-air entrainment. Due to a relatively narrow corridor favorable for initiation (between the dry line and considerable convective inhibition to the east), the potential for robust, sustained cells remains limited. In turn, new watch issuance or expansion of Watch 267 appears unlikely at this time. Nonetheless, a cell or two could deepen enough this evening for a brief large hail and/or wind threat. ..Picca.. 05/25/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 842,
+      "issue_utc": "2017-05-26T01:10Z",
+      "topic": "Severe Thunderstorm Watch 267",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0842.html",
+      "summary": "Thunderstorms will continue to progress east/southeast this evening, with a few more instances of large hail and/or damaging winds possible. However, the overall threat should further wane over the next few hours. Downstream watch issuance is not anticipated but trends will continue to be monitored.",
+      "discussion": "Recent regional WSR-88D data indicate the overall organization of a pair of severe storms has trended downward over the last hour or so. Reflectivity data have suggested a transition to a more diffuse cluster mode, versus the previous southeastward-propagating supercell/bowing structures. This trend is likely to continue, as storms move into an environment characterized by increasing convective inhibition. Furthermore, warm-advection related cells ahead of the main cores are likely stabilizing the downstream environment further. As such, downstream watch issuance is not anticipated as storms approach the southeastern extent of Watch 267. However, a few cores could occasionally intensify over the next 2-3 hours, with large hail and damaging winds remaining possible (as evidenced by upshear propagation/development over southeastern Gove County recently). ..Picca.. 05/26/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

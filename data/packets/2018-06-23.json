@@ -1,0 +1,212 @@
+{
+  "convective_day": "2018-06-23",
+  "valid_start": "2018-06-23T12:00Z",
+  "valid_end": "2018-06-24T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2018-06-24",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-06-24T01:00Z",
+      "valid_end": "2018-06-24T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180624_0100.html",
+      "summary": "Scattered severe storms are expected to persist over a portion of the central and southern Plains into tonight. A few severe storms will continue this evening from middle Tennessee into northern Alabama.",
+      "sections": [
+        {
+          "title": "Central and southern Plains region",
+          "text": "Cluster of storms including a few supercells persist from southeast CO into west Central KS. The atmosphere from southwest KS into OK remains moderately to strongly unstable with steep lapse rates and 2000-3500 J/kg MLCAPE. Convective inhibition will increase with the loss of daytime heating. However, tendency has been for storms to congeal into a more solid line and setup appears favorable for storms to begin to organize as a forward propagating MCS as the low-level jet strengthens this evening. Though models differ on evolution of these storms, latest HRRR runs maintain an organized MCS through southwest KS into northern and central OK overnight. Have therefore introduced an enhanced risk to account for this scenario, and should this transpire, a corridor of damaging wind gusts can be expected. Farther south, storms have initiated within zone of deep mixing along dryline over west central TX as well as farther north in vicinity of the boundary across southern OK. Isolated large hail appears to be the main threat with these storms. Given a significant increase in convective inhibition with loss of diabatic warming, longevity of these storms remain uncertain, but a strengthening lo"
+        },
+        {
+          "title": "Middle Tennessee through central Alabama",
+          "text": "Brief window remains for a tornado or two as cluster of storms over north central Alabama interact with an old outflow boundary. Threat should diminish by late evening. ..Dial.. 06/24/2018"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2018,
+      "number": 835,
+      "issue_utc": "2018-06-23T12:17Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0835.html",
+      "summary": "Long-lived thunderstorm cluster continues to move across east-central Arkansas this morning. Additional thunderstorms to the east, across northeast Mississippi and northern Alabama, continue to increase in intensity and coverage. Hail and gusty winds will be possible with both clusters of thunderstorms. Trends will be monitored for a potential Severe Thunderstorm Watch.",
+      "discussion": "Long-lived quasi-linear convective system (QLCS) continues to maintain its intensity, or even slightly strengthen, this morning as it moves along and south of I40 in eastern Arkansas. Additionally, to the east of this cluster of thunderstorms, another cluster of thunderstorms continues to slowly intensify and increase in coverage this morning across northeast Mississippi and northern Alabama. The QLCS across Arkansas continues to be fed by lower-tropospheric theta-e advection as it traverses along the cool side of the theta-e gradient, Farther east, the theta-e gradient becomes more diffuse, with the ongoing thunderstorms across northeast Mississippi and northern Alabama being in a relative theta-e minimum. Considerable uncertainty remains with how these two distinct areas of convection will interact and evolve this morning. Overnight thinking was that the QLCS would eventually weaken this morning and thunderstorms farther east would develop later. However, observations hint at the development of a mesocale convective vortex within the parent mesoscale convective system across Arkansas. This would suggest the QLCS may persist through the morning and into the afternoon. This idea is supported by the latest HRRR runs. Isolated large hail and strong thunderstorm wind gusts would be the primary threat. The thunderstorm cluster to the east of the QLCS is likely being aided by warm-air advection, which may result in an isolated severe hail or wind report, but the activity may decrease in intensity later this morning as warm-air advection weakens. However if the ongoing thunderstorms can develop a cold pool, they may become better organized allowing them to persist into the afternoon and pose a longer hail/wind threat. Given the uncertainty in spatio-temporal evolution of the "
+    },
+    {
+      "year": 2018,
+      "number": 836,
+      "issue_utc": "2018-06-23T15:32Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0836.html",
+      "summary": "A small thunderstorm complex with some damaging wind potential will continue east across the region through early afternoon. A watch could be considered, if convective trends warrant.",
+      "discussion": "A localized convective system, likely enhanced by an MCV and focused confluence/ascent, is moving east across southern TN and northern AL around 35-45 mph this morning. 12Z regional soundings sampled unimpressive mid-level lapse rates, and continued precipitation to the south is limiting insolation ahead of this line. Furthermore, KCRX in northeast MS did not register a strong surface gust with passage of the line. Still, some filtered sunlight (with a modest enhancement of low-level lapse rates) and around 35-45 kt of 850-500mb flow may support enough downward momentum transport for a few damaging gusts through early afternoon, and a watch may be considered if organizational trends warrant."
+    },
+    {
+      "year": 2018,
+      "number": 837,
+      "issue_utc": "2018-06-23T17:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0837.html",
+      "summary": "An organized thunderstorm risk, yielding weak supercells and multicells, will likely be capable of isolated to widely scattered 45-60 mph gusts this afternoon. Localized wind damage is the primary hazard.",
+      "discussion": "Water-vapor imagery shows a mid-level trough over the upper OH Valley/central Appalachians pivoting eastward towards the Mid-Atlantic states this afternoon/evening. Visible imagery shows a swelling cumulus field across the coastal plain of VA into the greater Raleigh, NC metro. Surface analysis shows temperatures warming to the 88-92 degree F range within a very moist airmass (12Z MHX RAOB 18.3 g/kg lowest 100mb mean mixing ratio). Although 700-500 lapse rates are weak (at or below 5.4 degrees C/km per 12Z regional RAOBs), strengthening southwesterly flow with height (45-50 kt at 500mb per KAKQ VAD data) results in 40 kt 0-6 km shear supportive of a weak supercell/organized multicell mode. Damaging winds will likely be the primary hazard with gusts in the 45-60 mph range."
+    },
+    {
+      "year": 2018,
+      "number": 838,
+      "issue_utc": "2018-06-23T19:17Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0838.html",
+      "summary": "Thunderstorms are expected to develop over western/central Oklahoma by late afternoon. Several will likely become severe, accompanied by a threat of large hail (some potentially 2+\" in diameter), damaging winds, and perhaps a tornado. Watch issuance is likely.",
+      "discussion": "Visible satellite imagery shows developing cumulus along a boundary extending from western Oklahoma east/southeastward to near Norman. A 19Z OUN sounding sampled a subsidence inversion near 850-800 mb, although it has lifted considerably since 12Z. Subtle mid-level ascent is currently overspreading the region, and modest cooling aloft should combine with further surface heating to remove remaining inhibition over the next couple of hours. Steep mid-level lapse rates and a warm/moist boundary layer should contribute to around 2500-3500 J/kg of MLCAPE as well. In turn, once profiles near 850-700mb moisten sufficiently, rather robust convection is forecast to develop near the boundary. Ample veering of winds with height will likely support one or more high-precipitation supercells, capable of very large hail (2+\" in diameter possible) and damaging winds. Although storm-relative helicity is not particularly strong, backed near-surface flow and any southeasterly propagation component may locally enhance the potential for a tornado. Over time, intense precipitation cores/outflow will likely force upscale growth into a complex that accelerates south/southeast towards the Red River. Considering the threat, watch issuance will likely be needed within the next few hours."
+    },
+    {
+      "year": 2018,
+      "number": 839,
+      "issue_utc": "2018-06-23T19:36Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0839.html",
+      "summary": "Isolated thunderstorms could pose a risk for large hail and damaging winds into this evening. Watch issuance could be needed.",
+      "discussion": "A few strong/severe storms have developed near the Palmer Divide eastward into northwest Kansas this afternoon, amidst an environment characterized by favorable effective shear, but modest boundary-layer moisture (e.g., upper 40s/lower 50s dew points). Still, sufficient mixed-layer buoyancy exists for isolated multicells/splitting supercells, capable of large hail and damaging winds. If a few cells continue to organize and evolve southeastward into improved storm-relative flow and higher dew points, an increasing severe threat would likely evolve, perhaps in the form of a small convective complex. As such, convective trends are being monitored for possible watch issuance."
+    },
+    {
+      "year": 2018,
+      "number": 840,
+      "issue_utc": "2018-06-23T19:38Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0840.html",
+      "summary": "Thunderstorms will continue to develop and probably intensify this afternoon. Localized gusts of 45-55 mph are possible and potentially capable of pockets of wind damage.",
+      "discussion": "Visible imagery this afternoon shows a cluster of thunderstorms developing over the Savannah River Valley. Surface temperatures ahead of this activity have warmed into the lower 90s degrees F and lower 70s dewpoints. Modifying the 12Z CHS RAOB for current conditions near the coast yields around 2000 J/kg MLCAPE. Despite the relatively weak unidirectional westerly flow over the region, KCAE VAD data has shown slightly stronger 700mb flow than depicted in model guidance (observed 35-40 kt). It seems likely the multicellular cluster of the Savannah Valley will continue to move east towards the SC Lowcountry during the next several hours. Water-loading downdrafts with an occasional strong microburst are forecast. The risk for localized wind damage may increase over the next few hours."
+    },
+    {
+      "year": 2018,
+      "number": 841,
+      "issue_utc": "2018-06-23T21:40Z",
+      "topic": "Severe Thunderstorm Watch 205",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0841.html",
+      "summary": "A threat for isolated severe wind gusts will continue for the next few hours in WW 205. Storms may develop to the west and north of the WW. An additional WW is not likely due to the expected isolated nature of the severe threat.",
+      "discussion": "Storms that initially developed in WW 205 have now moved offshore. A supercell over Fauquier County, VA has show broad rotation over the last hour or so on KLWX radar. A few small showers have also formed to the west of WW 205, but have generally struggled to mature. While ongoing storms will be moving into richer boundary layer moisture and better instability -- MLCAPE from 1000-2000 J/kg -- the current thinking is that storm coverage and intensity will generally stay low given the better forcing lifting to the northeast per water vapor imagery. Should any storm mature, the primary threat will continue to be severe wind gusts. While an additional WW is not anticipated, trends will be monitored. ..Wendt.. 06/23/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 842,
+      "issue_utc": "2018-06-23T21:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0842.html",
+      "summary": "Gradually increasing convection across the discussion area may necessitate a Severe Thunderstorm Watch issuance, although convective coverage is uncertain.",
+      "discussion": "Satellite and objective analyses indicate a continually destabilizing and weakly inhibited airmass across the discussion area in the wake of an early morning MCS. Convection continues to evolve across southeastern Missouri and southern Illinois and is likely being enhanced by lift aloft associated with a mid/upper shortwave trough centered over Iowa. Instability increases with southward extent, although forcing for ascent is generally weaker with southward extent as well. Shear profiles support storm organization with any cells or linear segments that can organize, although generally weak low-level shear should favor outflow-dominant, hail/wind producing convection through the evening. Models generally depict a varied degree of convective coverage and upscale growth through the evening. The most likely region for more widespread coverage appears to exist downstream of current development from southeastern Missouri into western/middle Tennessee. Uncertainties regarding convective coverage preclude WW issuance at this time, although trends will be monitored."
+    },
+    {
+      "year": 2018,
+      "number": 843,
+      "issue_utc": "2018-06-23T22:09Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0843.html",
+      "summary": "Isolated strong to severe storms will remain possible into this evening across southeast South Dakota and northeast to east-central Nebraska. A marginal severe risk precludes the need for a watch.",
+      "discussion": "Trends in mosaic radar imagery indicated a broken band of discrete storms developed and continued to form this afternoon to early evening in vicinity of a surface boundary extending southeast from an area of low pressure in central SD. The boundary extended into eastern NE to far eastern KS, where the environment is moist (surface dew points into the middle 60s) and temperatures near and west of the boundary had warmed into the 80s contributing to moderate buoyancy. Although midlevel heights will be rising this evening across the central Plains and mid Missouri Valley, forcing for ascent attendant to an eastward-moving midlevel circulation across SD and eastern NE should favor additional sustained updrafts until the boundary-layer stabilizes later this evening. Despite modest midlevel lapse rates, moderate buoyancy and vertically veering winds suggest CAPE/shear parameter space will result in a couple additional rotating updrafts, with a marginal risk for all severe hazards."
+    },
+    {
+      "year": 2018,
+      "number": 844,
+      "issue_utc": "2018-06-23T22:14Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0844.html",
+      "summary": "Scattered storms continue to migrate eastward across the discussion area and will pose a threat for occasional, isolated hail and damaging wind gusts through sunset. A WW issuance is not anticipated.",
+      "discussion": "Scattered strong to occasionally severe thunderstorms continue to migrate/propagate eastward across Wyoming this afternoon. These storms are in a weakly unstable environment (500-1000 J/kg SBCAPE), with 30-45 kt deep shear profiles and steep low- to mid-level lapse rates supporting occasional, yet isolated severe hail and wind in the most intense cells. Large-scale lift associated with an upstream wave over the northern Rockies is also enhancing storm coverage and should continue to do so through the evening before low-level stabilization lowers the overall severe threat. Some upscale growth into linear segments may occur in southeastern Wyoming and western Nebraska overnight, resulting in a lingering severe threat in these areas. The overall magnitude of the threat should preclude any WW issuance, however."
+    },
+    {
+      "year": 2018,
+      "number": 845,
+      "issue_utc": "2018-06-23T23:37Z",
+      "topic": "Severe Thunderstorm Watch 206",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0845.html",
+      "summary": "Clustering of storms across east-central CO into adjacent northwest KS are expected to grow upscale into a forward-propagating MCS this evening into tonight, tracking to the south/southeast. Large hail will continue to be a severe threat this evening, though strong/damaging winds are expected to become the primary severe hazard later this evening to the early overnight.",
+      "discussion": "Storms that formed and continue to affect the northern part of WW 206 have produced severe hail as the primary hazard so far. However, trends in mosaic radar imagery across east-central CO and adjacent northwest KS suggest upscale growth is underway with some linear structure from Cheyenne County CO to Wallace County KS. Wind profile per GLD radar indicated strengthening deep-layer winds which were veering with height. Downstream objective analyses across southeast CO, southwest KS into far northeast NM, OK/TX Panhandles and northwest OK indicated very strong instability (MLCAPE exceeding 2000-3000 J/kg) and effective bulk shear exceeding 40-45 kt. This CAPE/shear parameter space combined with further strengthening of a southerly low-level jet into western KS this evening suggests forward propagation will become likely, with damaging winds the primary severe-weather threat into the late evening across southeast CO, southwest KS to the OK Panhandle. ..Peters.. 06/23/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 846,
+      "issue_utc": "2018-06-24T00:50Z",
+      "topic": "Severe Thunderstorm Watch 207",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0846.html",
+      "summary": "Storm development remains possible yet this evening across western and central Oklahoma and adjacent extreme northwest Texas, though current thinking suggests severe potential may be isolated. An additional severe-weather threat is being monitored for later tonight (after 2 AM CDT) for much of western, northern, and central Oklahoma, as the potential exists for a fast-moving line of storms (producing damaging winds) to track southeast from western Kansas.",
+      "discussion": "Trends in early evening local radar imagery and lightning data indicated a couple of storms forming across southwest OK (Greer and Jackson Counties) where the environment remained very unstable (MLCAPE exceeding 3000 J/kg) and effective bulk shear was increasing with time to at least 40 kt. This CAPE/shear parameter space in addition to steep lapse rates and vertically veering winds per 00Z OUN sounding and an expected increase in southerly low-level winds across western OK suggest all severe hazards will be possible during the early evening. A lack of discernible low-level convergence in the eastern part of WW 207 to focus storm development suggests this part of the watch could be canceled early. The latest runs of the operational HRRR indicated a forward-propagating MCS advancing to the southeast from eastern CO/western KS and reaching northwestern OK around 07Z (2 AM CDT), and into central OK by 10-11Z (5-6 AM CDT). Given the reservoir of instability across the southern Plains and expected strengthening southerly low-level jet tonight, the short-term forecast confidence continues to increase with this scenario."
+    },
+    {
+      "year": 2018,
+      "number": 847,
+      "issue_utc": "2018-06-24T01:23Z",
+      "topic": "Tornado Watch 208",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0847.html",
+      "summary": "A few of the stronger storms, particularly in northern portions of WW 208, will continue to pose a tornado threat for the next hour or two.",
+      "discussion": "Two clusters of storms have persisted in WW 208 -- one in south-central Tennessee and another in northern/central Alabama. With effective deep-layer shear values from 25-35 kts, storms have been able to maintain marginal supercellular structure. VWP data shows favorable low-level hodograph curvature and 20-25 kts of 0-1 km shear for KHTX. 0-1 km shear decreases with southward extend per KGWX VWP showing around 10 kts. The area of greatest tornado threat for the next few hours appears to be southern Middle Tennessee and parts of northwestern Alabama. A storm along Wayne County, TN and Lauderdale County, AL has shown stronger mid-level rotation and exhibited rightward deviant storm over the last half hour. Furthermore, deep-layer shear should remain stronger in this area, due to proximity to a weak mid-level wave, as well as better low level shear. Storms moving south into central Alabama should become more disorganized with time as shear decreases to the south. The overall threat should diminish as continued boundary layer cooling will increase convective inhibition. ..Wendt.. 06/24/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 848,
+      "issue_utc": "2018-06-24T01:33Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0848.html",
+      "summary": "Large hail and strong/damaging wind gusts will be the primary severe-weather hazards with the remains severe storms that occur across the Texas Big Country until about 10 PM CDT.",
+      "discussion": "Trends in mosaic radar imagery indicated a few robust/sustained severe storms remained located across the TX Big Country this evening. Objective analyses showed these storms were located within an axis of very strong instability (MLCAPE 2000-3000 J/kg) and effective bulk shear of 30-40 kt. Forcing for ascent attendant to a weak midlevel, eastward-moving, impulse will support additional strong to severe storms in the short term with favorable CAPE/shear parameter space resulting in hail and strong/damaging wind gusts as the main severe threats. The overall severe risks should diminish by 03Z as the onset of surface cooling stabilizes the boundary layer, rapidly increasing inhibition."
+    },
+    {
+      "year": 2018,
+      "number": 849,
+      "issue_utc": "2018-06-24T02:32Z",
+      "topic": "Severe Thunderstorm Watch 206",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0849.html",
+      "summary": "A new severe thunderstorm watch will be coordinated soon for parts of southwest and south-central Kansas, north-central and northwest Oklahoma, and into parts of the Oklahoma and Texas Panhandles. Damaging winds are expected to be the primary severe-weather hazard through the late evening and the overnight.",
+      "discussion": "Trends in radar imagery across southwest KS indicated a recent increase in forward speed (35-40 kt) of the southwest portion of the line of storms across this region in the KS counties of Hamilton and Kearny. Surface observations indicated temperatures in the wake of the storms were in the 50s and 60s, while downstream readings were in the upper 70s and 80s. The cold pool development and the increase in storm motion is likely indicating the impending scenario developing for tonight of a forward-propagating MCS to track southeast into the southern Plains producing damaging winds. The presence of a nearly untapped very unstable downstream environment (MUCAPE 2500-3500 J/kg) across the discussion area, with a strengthening southerly low-level jet at 40-50 kt from west TX into southwest KS through early overnight, veering later tonight toward daybreak Sunday. Southern parts of WW 207 may be extended in time beyond the 03Z expiration as ongoing and any new storms will continue to pose a severe threat, given the presence of moderately strong instability and effective bulk shear of 45 kt."
+    },
+    {
+      "year": 2018,
+      "number": 850,
+      "issue_utc": "2018-06-24T06:25Z",
+      "topic": "Severe Thunderstorm Watch 209",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0850.html",
+      "summary": "Severe thunderstorms capable of strong, damaging winds continue to move east-southeast across portions of southwest Kansas and are now beginning to impact northwest Oklahoma. These thunderstorms will continue through the morning hours posing a continued threat of strong winds and some hail.",
+      "discussion": "Well organized mesoscale convective system (MCS) continues to move east-southeast across southwest Kansas. The leading edge of the MCS is characterized by a bow echo that has produced measured wind gusts in excess of 60 knots within the past few hours. This MCS appears to move moving along the north side of a strong 850 theta-e gradient, which loosely coincides with the most-unstable CAPE gradient. In the near-term, expectation is that this MCS will continue along the 850 millibar theta-e gradient. This would take the MCS across north-central Oklahoma and far southern south-central Kansas. Given the organization of the MCS and an environment characterized by most-unstable CAPE values of 1500-2500 J/kg within the CAPE reservoir to the south and deep layer shear of 35-50 knots, severe thunderstorm winds and possibly some hail will remain possible through the morning hours. A local extension of WW208 or possibly a new WW across portions of northeast Oklahoma may be necessary later this morning and the evolution of the ongoing MCS will be monitored for this need. One potential hindrance to the longevity of the MCS (and in turn WW issuance needs) is the ongoing convection across central and eastern Oklahoma that is moving north into northeast Oklahoma. As this convection moves into northeast Oklahoma, it could exhaust some of the higher octane airmass across central Oklahoma. This would induce a weakening trend within the aforementioned MCS as it moves into and through Oklahoma."
+    },
+    {
+      "year": 2018,
+      "number": 851,
+      "issue_utc": "2018-06-24T06:53Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0851.html",
+      "summary": "Strong, gusty winds and hail will be possible in and around thunderstorms for the next 1-2 hours.",
+      "discussion": "Elevated thunderstorms within the great Dallas-Fort Worth metro will have the potential to produce hail for the next few hours as they persist within an environment of 2000-3000 J/kg of most-unstable CAPE. This threat should not be particularly long lived given the region is just south of the better deep-layer shear. Additionally, warming cloud tops and overall radar trends of the parent mesoscale convective system (MCS) suggest an increasingly hostile environment for thunderstorm longevity. As the parent MCS continues to decay, subsidence and downward momentum transport within and near the decaying MCS across north-central Texas has resulted in heat bursts across the region. Areas in Stephens County, TX, currently warmed to 99F with a dewpoint of 44F as a result of one of these heat bursts. Given steep mid-level-lapse rates atop the cooling nocturnal boundary layer, any downward momentum transport will have the potential for additional heat bursts."
+    },
+    {
+      "year": 2018,
+      "number": 852,
+      "issue_utc": "2018-06-24T07:16Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0852.html",
+      "summary": "Isolated severe thunderstorms with a threat of hail will continue through the morning. Trends will be monitored for possible watch.",
+      "discussion": "Thunderstorms are developing within northeast Colorado in response to increasing warm-air advection stemming from a strengthening low-level jet and large-scale ascent associated with a short-wave trough across the northern Rockies. Mid-level lapse rates on the order of 8-9 C/km, most-unstable CAPE values around 2000 J/kg, and deep-layer shear on the order of 40-50 knots will continue to support a hail threat with any sustained, vigorous updraft. Thunderstorm coverage is expected to continue to increase through the morning, making it increasingly difficult for thunderstorms to remain isolated enough to fully realize the environment's potential. Thus, the destructive interference between competing updrafts should preclude a more robust large hail threat. As such, trends will continue to be monitored for possible watch needs."
+    },
+    {
+      "year": 2018,
+      "number": 853,
+      "issue_utc": "2018-06-24T07:33Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0853.html",
+      "summary": "Isolated severe thunderstorms capable of large hail will be possible through the morning. The limited spatial coverage of thunderstorms should preclude the need for a watch.",
+      "discussion": "Thunderstorms are developing within a zone of 850-millibar theta-e advection. The overall environment in which the storms are developing is characterized by most-unstable CAPE around 2000 J/kg and is on the southern fringes of a belt of deep-layer shear around 30-40 knots. Although the overall environment will be supportive of isolated supercell-like structures capable of large hail, weak forcing and the overall limited coverage should preclude the need for a watch."
+    },
+    {
+      "year": 2018,
+      "number": 854,
+      "issue_utc": "2018-06-24T10:11Z",
+      "topic": "Severe Thunderstorm Watch 210",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0854.html",
+      "summary": "Thunderstorms capable of large hail and gusty outflow winds will continue through the morning. As these storms move into western Arkansas, a new watch may be necessary.",
+      "discussion": "Long-lived bow echo continues to move across central and northeast Oklahoma along the 850-millibar theta-e gradient, which loosely corresponds to the most-unstable CAPE gradient. Given most-unstable CAPE values of 2000 J/kg and deep-layer shear on the order of 40 knots ahead of the parent mesoscale convective systems (MCS), and an even better CAPE reservoir to the southwest, all indications are that the ongoing MCS will exit WW210 later this morning. Additionally, warm-air advection thunderstorms across east-central and northeast Oklahoma continue to persist. Large hail and gusty winds remain possible with these storms. On their current trajectory, these storms will exit WW210 in the next 1-2 hours, which will likely require a new watch."
+    }
+  ]
+}

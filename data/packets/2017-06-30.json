@@ -1,0 +1,161 @@
+{
+  "convective_day": "2017-06-30",
+  "valid_start": "2017-06-30T12:00Z",
+  "valid_end": "2017-07-01T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-06-30",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-06-30T20:00Z",
+      "valid_end": "2017-07-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170630_2000.html",
+      "summary": "Severe thunderstorms are possible this afternoon over parts of Oklahoma, spreading into parts of north Texas and western Arkansas this evening. A few severe storms may also affect parts of New York, northeast Pennsylvania, and New England later today. Finally, strong to severe storms will be possible over parts of the Ohio Valley and Lower Great Lakes Region. Damaging wind gusts and occasional severe hail are the primary threats.",
+      "sections": [
+        {
+          "title": "20Z Outlook Update",
+          "text": "Adjustments have been made to categorical and probabilistic outlook lines, in an attempt to account for latest trends concerning ongoing destabilization and convective potential. The most notable of these is to increase severe probabilities to an enhanced slight risk categorization across much of southern Oklahoma and adjacent portions of northern Texas. Strong destabilization is ongoing across this region, as a seasonably moist boundary layer continues to warm with insolation, beneath a remnant plume of warm elevated mixed layer air on the southern fringe of larger-scale troughing within the mid-latitude westerlies. This may be just south of a belt of modest (30-50 kt) westerly 500 mb flow, where deep layer mean wind fields appear on the order of 20 kts, but veering of winds with height does appear to be contributing to moderate deep layer shear supportive of organized convective development. This could include a couple of supercells initially, before increasing convective development, consolidation and upscale growth leads to the evolution of an organizing cluster with increasing potential for strong surface gusts. Storms may initiate where low-level surface convergence is locall"
+        },
+        {
+          "title": "Northeast",
+          "text": "The morning water vapor loop shows a weak shortwave trough moving across western NY/PA. This feature will track eastward across New England today, providing subtle lift and organization for scattered showers and thunderstorms. Clouds are thinning ahead of the system over eastern NY/PA and much of New England, where surface temperatures are forecast to warm to near 80F with dewpoints in the 60s. Moderate CAPE values will support vigorous updrafts with 35-45 knots of effective shear helping storm organization. The stronger cells in this region will pose a risk of locally damaging wind gusts and some hail."
+        },
+        {
+          "title": "OK/TX/AR",
+          "text": "A large nocturnal MCS continues to dissipate at it moves southeastward across AR. Strong heating along the western flank of this system will result in a very unstable air mass across central and southern OK this afternoon, where steep mid level lapse rates and dewpoints in the 70s are present. Scattered thunderstorms are expected to form in this zone, drifting slowly southeastward this evening into parts of western AR and north TX. Thermodynamic parameters will favor the risk of large hail and damaging wind gusts."
+        },
+        {
+          "title": "OH Valley",
+          "text": "The northeastern flank of the aforementioned dissipating MCS is moving into southern IL. Pockets of moderate CAPE will form ahead of the remnant boundaries, promoting the development of scattered afternoon strong thunderstorms. Vertical shear is not particularly strong in this area, but residual forcing from the convectively-induced upper feature may be sufficient for a few severe storms capable of damaging winds and hail."
+        },
+        {
+          "title": "Northeast NM",
+          "text": "Most CAM solutions suggest a small cluster of thunderstorms tracking southeastward across northeast NM this afternoon and evening, posing a risk of isolated hail and gusty winds."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 1196,
+      "issue_utc": "2017-06-30T16:48Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1196.html",
+      "summary": "Thunderstorms are expected to increase in coverage and intensity during the afternoon with a risk for damaging winds and isolated large hail. Trends will be monitored for the possibility of a severe thunderstorm watch over portions of the area prior to 19Z.",
+      "discussion": "Diurnal destabilization is underway across much of the discussion area as sufficient breaks have been noted in cloud cover/ongoing precipitation over central/eastern NY, with more robust heating across northeast PA. Despite weak mid-level lapse rates, dew points in the mid/upper 60s will lead to pockets of MLCAPE in the 1000-1500 j/kg range this afternoon. Modest large-scale ascent and strenghtening mid-level flow associated with a convectively enhanced mid-level impulse will develop across the discussion area over the next several hours, and an increase in thunderstorms is expected during the early-mid afternoon. Largely unidirectional flow and deep-layer shear ranging from 35-45 kts will be favorable for multicell clusters/short line segments and a few supercell storm structures. Damaging winds will be the primary severe weather threat, though isolated instances of large hail will also be possible. A severe thunderstorm watch may be needed over portions of the discussion area prior to 19Z."
+    },
+    {
+      "year": 2017,
+      "number": 1197,
+      "issue_utc": "2017-06-30T17:56Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1197.html",
+      "summary": "A risk for damaging winds and isolated large hail will exist across the area this afternoon. Short-term trends will be monitored for the possibility of a severe thunderstorm watch in the 19Z-20Z time frame.",
+      "discussion": "Thunderstorms have increased in coverage across portions of east-central Illinois and central/northern Indiana as diurnal heating of a very moist air mass continues near/in advance of a weak confluence zone/residual outflow boundary from northwest Indiana south into southern Illinois. Moderate surface-based instability is in place across the area, and large-scale ascent associated with a convectively-induced mid-level impulse will develop over the area during the remainder of this afternoon. A modest increase in mid-upper-level flow will contribute to deep-layer shear of 30-40 kts by late afternoon, supporting multicell clusters and perhaps a few supercells with mid-level rotation. Damaging winds will be the primary threat, and isolated instances of large hail will also be possible. Convective trends will be monitored and a severe thunderstorm watch may be needed in the 19Z-20Z time frame."
+    },
+    {
+      "year": 2017,
+      "number": 1198,
+      "issue_utc": "2017-06-30T18:54Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1198.html",
+      "summary": "Scattered thunderstorm development is expected later this afternoon. Large hail and damaging wind will be possible, and watch issuance is possible later this afternoon.",
+      "discussion": "Visible satellite indicates towering cumulus developing over the the Sangre de Cristo range of New Mexico, to the east and northeast of Sante Fe. Modestly moist upslope flow, in conjunction with continued heating/destabilization, will eventually result in scattered thunderstorm development across the higher terrain of northern NM and southern CO. Steep midlevel lapse rates/moderate instability and sufficient effective shear will favor supercell development with time, with a corresponding threat of large hail and perhaps locally damaging wind. With time, convection will spread southeast into the lower elevations of southeast CO/northeast NM, and eventually into the OK/TX Panhandles. There is some potential for upscale growth and an increasing damaging wind threat with time, though even if convection remains largely discrete, the large hail threat and isolated damaging gust threat will persist. Watch issuance is possible later this afternoon over portions of the area to cover the threat."
+    },
+    {
+      "year": 2017,
+      "number": 1199,
+      "issue_utc": "2017-06-30T20:20Z",
+      "topic": "Severe Thunderstorm Watch 385",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1199.html",
+      "summary": "The threat for damaging winds and perhaps isolated large hail continues primarily over the eastern two-thirds of the watch area.",
+      "discussion": "A loosely organized area of strong/occasionally severe thunderstorms was moving across eastern New York/northeast Pennsylvania at 2015Z. A tendency towards a more linear reflectivity structure/short line segments has been noted since 1930Z over east-central New York in the general vicinity of KSCH, with a subtle low/mid-level cyclonic circulation was evident over Saratoga County NY. Latest objective analysis and area VWP data indicate 35-45 kts of deep-layer shear and 1000-1500 j/kg of MLCAPE, and this downstream environment will continue to support a risk for isolated/widely scattered damaging winds for the next few hours. Across western portions of the watch area, generally weak buoyancy (500-locally 1000 j/kg) and adequate shear remains in place for at least some risk for a stronger storm over the next couple of hours with the convective line currently moving through central New York state. ..Bunting.. 06/30/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1200,
+      "issue_utc": "2017-06-30T20:21Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1200.html",
+      "summary": "Scattered strong/severe thunderstorm development is expected across portions of Oklahoma and west/north Texas later this afternoon. Severe thunderstorm watch issuance is likely by 21-22Z.",
+      "discussion": "The primary outflow boundary from the earlier MCS that moved across much of northern OK is now draped along the Red River, with a secondary boundary in place further north from northwest AR into central/northern OK. To the south of the southern boundary, strong heating is underway within a very moist environment, and MLCAPE has increased into the 2500-4000 J/kg range per recent mesoanalyses. Substantial airmass recovery appears to be underway between the two boundaries, with dewpoints increasing to near 70 F, though the character of the cumulus field suggests that significant inhibition remains across portions of central/eastern OK. With time, continued heating and erosion of inhibition will allow thunderstorm development, with initial development most likely across portions of southwest OK and western north TX, where the strongest heating is occurring, and perhaps into central OK in the vicinity of the northern boundary. The initial mode will likely be primarily discrete, with sufficient deep-layer shear for supercells. Very steep midlevel lapse rates and strong buoyancy will support a threat of potentially very large hail. A brief tornado also cannot be ruled out with any supercell that interacts with any of the pre-existing boundaries, though weak low-level flow should otherwise limit the coverage of the tornado risk. A substantial increase in storm coverage by early evening will allow for some upscale growth, with an increasing threat of damaging winds spreading eastward with time."
+    },
+    {
+      "year": 2017,
+      "number": 1201,
+      "issue_utc": "2017-06-30T21:23Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1201.html",
+      "summary": "Isolated strong/severe thunderstorm development is possible later this afternoon. At this time, coverage is expected to remain too sparse for watch issuance.",
+      "discussion": "Cumulus has recently increased along a surface trough across portions of the TX South Plains into the Big Country, with at least one recent attempt at initiation across Knox County. With temperatures having warmed to near 100 F in the vicinity of the surface trough, removing most of the inhibition across the area, isolated thunderstorm development is possible. While midlevel flow is not as strong as areas farther north, light southeasterly flow veering to westerly aloft is resulting in 25-35 kt of effective shear, resulting in the potential for weakly rotating updrafts. Steep low-level lapse rates and strong DCAPE will support a threat of isolated severe wind gusts. Steep midlevel lapse rates will also support some hail risk, especially with northern and eastern extent in areas where deeper moisture and stronger buoyancy are in place. At this time, the coverage of the threat is expected to remain too sparse for watch issuance in the short term."
+    },
+    {
+      "year": 2017,
+      "number": 1202,
+      "issue_utc": "2017-06-30T23:06Z",
+      "topic": "Severe Thunderstorm Watch 385",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1202.html",
+      "summary": "Severe threat appears to be waning across much of the Northeast. Strongest storms should congregate over southern New England over the next hour or so.",
+      "discussion": "Weak MCV has evolved within larger cluster of convection over New England...roughly along the VT/MA border. This feature is moving east around 30kt and should track offshore in the next two hours. While strong convection was noted immediately ahead of this feature earlier this evening, strongest storms currently trail across CT through northern NJ into eastern PA where surface temperatures are holding in the 80s. Gusty winds and perhaps small hail are the primary threats, especially near the southern edge of WW385. ..Darrow.. 06/30/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1203,
+      "issue_utc": "2017-06-30T23:27Z",
+      "topic": "Severe Thunderstorm Watch 386",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1203.html",
+      "summary": "Thunderstorms will continue to develop/expand in coverage through the evening. Large hail and damaging thunderstorm winds will be the primary threat in the near-term, with an eventual transition to thunderstorm winds later this evening.",
+      "discussion": "Thunderstorms continue to develop along and near an outflow boundary draped from northwest Texas, across southwest Oklahoma, and into west-central Arkansas. To the south of this boundary, a sheared, very unstable airmass remains in place, with most-unstable CAPE values between 2500-4000 J/kg and deep-layer shear on the order of 45 knots. This environment will maintain thunderstorm organization and support large hail (locally in excess of 2\") through the evening. With time, thunderstorms should grow upscale into one or more bowing clusters. As this convective evolution occurs, a transition from large hail and damaging thunderstorm winds to predominantly damaging thunderstorm winds should occur. ..Marsh.. 06/30/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1204,
+      "issue_utc": "2017-07-01T00:51Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1204.html",
+      "summary": "Ongoing thunderstorms across northeast New Mexico are expected to persist into the evening hours. Large hail and strong, gusty winds will be possible with these thunderstorms. Additional thunderstorms may develop farther east/southeast over portions of the Texas Panhandle. Large hail and strong thunderstorm winds would be possible with these activity. The area will continue to be monitored for a possible Severe Thunderstorm watch.",
+      "discussion": "Thunderstorms across northeast New Mexico and extreme southern Colorado will continue into the evening. Here, most-unstable CAPE values between around 1000 J/kg and deep layer shear between 40-50 knots will support thunderstorm updraft organization, leading to a large hail and strong thunderstorm wind risk persisting into the evening. At least initially, the relatively isolated nature of the risk should preclude the need for a severe thunderstorm watch. Farther east, across portions of the Texas Panhandle a more favorable environment for thunderstorms appears to be in place. The combination of steep mid-level lapse rates (9 C/km) and surface dewpoints in the mid-50s to lower-60s have yielded most-unstable CAPE values on the order of 2000-3000 J/kg. Additionally, deep-layer shear remains on the order of 50 knots. Despite the 00Z/01 July sounding from Amarillo, TX, being capped, numerical guidance, including the 18Z NAM and multiple runs of the ESRL-HRRR, are insistent on the development of additional thunderstorms later this evening across this region. Latest water vapor imagery suggests a subtle speed max/short-wave trough may be moving east-southeast across southern Colorado. Ascent with this mid-level feature may be the thunderstorm initiating/maintaining mechanism this evening into the overnight. Given the aforementioned favorable environment, a severe thunderstorm watch may become necessary should additional thunderstorm initiation become likely. Confidence in this scenario is sufficiently high to warrant the introduction of 15% wind and hail probabilities (and a categorical Slight Risk) with the forthcoming 01Z Convective Outlook."
+    },
+    {
+      "year": 2017,
+      "number": 1205,
+      "issue_utc": "2017-07-01T03:24Z",
+      "topic": "Severe Thunderstorm Watch 386",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1205.html",
+      "summary": "Scattered thunderstorms will persist across the southern Plains into the early morning hours; however, only isolated severe is expected with this activity.",
+      "discussion": "Low-level warm advection is focused across the TX South Plains this evening as LLJ is gradually strengthening across this region. This appears to be partly responsible for renewed convective development in the vicinity of Stonewall County TX. Additional convection is beginning to strengthen across the southeast TX Panhandle along an ill-defined outflow-reinforced synoptic front. Hail may be noted with this activity across the high plains due to steeper lapse rate environment along the southern fringe of stronger northwestely mid-level flow. Considerable convective overturning across OK has stabilized much of the state and severe threat appears to be waning. Although isolated damaging wind gust or hail may be noted with convection near the Red River, new WW is not expected at this time. ..Darrow.. 07/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1206,
+      "issue_utc": "2017-07-01T04:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1206.html",
+      "summary": "Thunderstorms will persist for at least the next couple of hours. Large hail and strong thunderstorm winds may be possible. The relatively small area and duration should preclude the need for a watch.",
+      "discussion": "A lone thunderstorm has moved out of the higher terrain of New Mexico into the east New Mexico plains. This thunderstorm continues to indicate the potential for large hail, and recent radar trends have suggested an increase in the potential for strong thunderstorm winds. This threat should continue to persist as the thunderstorm continues to move southeast. To the east of this cell, new thunderstorms have developed across portions of the southwest Texas Panhandle. These thunderstorms all developing within an environment characterized by steep mid-level-lapse rates and surface dewpoint temperatures in the mid-to-upper 50s. This has resulted in most-unstable CAPE values up to around 2000 J/kg. Deep-layer shear values remain sufficient for thunderstorm organization, although shear drops off quickly farther south. The environment in both of these areas will support severe thunderstorm potential for the next couple of hours. However, the thunderstorms should eventually move far enough east that they will move into a more hostile environment -- one that has been worked over by earlier convection. Recent surface observations indicate strong surface-pressure rises and a cooler, more stable airmass to the southeast of the aforementioned thunderstorm areas as outflow from thunderstorms farther east pushes west. Additionally, the synoptic cold front is slowly moving south across the southern High Plains, limiting the potential for any left splits to persist for any long duration as they move northward. Given this limited spatio-temporal environment conducive for development/maintenance of severe thunderstorms, a watch is currently not expected. However, isolated large hail and strong thunderstorm winds will remain possible for the next couple of hours."
+    },
+    {
+      "year": 2017,
+      "number": 1207,
+      "issue_utc": "2017-07-01T07:56Z",
+      "topic": "Severe Thunderstorm Watch 387",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1207.html",
+      "summary": "Severe winds and isolated large hail will remain possible in the watch corridor for a few more hours before the activity encounters less-favorable air and weakens. Although it is uncertain how long this activity will remain organized at severe levels, recent upscale growth, combined with a favorable inflow environment just above the surface indicate the threat may persist across the Big Country before activity weakens.",
+      "discussion": "A long-lived small cluster of severe storms, that formed yesterday afternoon in the southern Sangre de Cristos of northern NM, has persisted into west Texas. Despite brief weakening just east of the TX/NM line, this activity re-strengthened and produced a 70-kt gust at the Levelland West Texas Mesonet site at 650Z. An additional severe-storm cluster developed to its east and is crossing portions of Dickens/Crosby/Kent/Garza counties at this time. The clusters may merge in the next 1-2 hours, leading to an upscale-grown MCS that, in turn, would move east-southeastward to southeastward north of an older outflow boundary that is analyzed near a MAF-COM line, and along fresher, aggregated outflow boundaries north of that. The most probable corridor for a resulting severe threat corresponds to the new watch, between the southern outflow boundary and what appears to be prohibitively cool/stable outflow air across northwest TX, where additional precip is reinforcing static stability. Modified RAOBs and forecast soundings indicate this environment is characterized by 1000-2000 J/kg MUCAPE and roughly 40-kt northwesterly effective-shear vectors, which also may contribute to a southeastward turn. A broad/35-40-kt LLJ is evident in VWP, with associated isentropic lift over the outflows and to LFC expected to support convective/severe potential for a few more hours, until the LLJ weakens/veers. ..Edwards.. 07/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 1208,
+      "issue_utc": "2017-07-01T10:25Z",
+      "topic": "Severe Thunderstorm Watch 387",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1208.html",
+      "summary": "Locally strong/damaging wind gusts cannot be ruled out through early this morning across the Texas Big Country as a solid band of storms advances to the east-southeast. The need for a new severe-thunderstorm watch is unlikely, at this time, for areas downstream across the southwest portion of the FWD county warning area and the adjacent part of the EWX county warning area.",
+      "discussion": "At 0950Z, mosaic radar imagery showed a solid band of storms extending from Haskell County to northwest Coke and southeast Mitchell counties, with the southern extent of this band having the fastest movement to the southeast at 40 kt. This faster storm motion is likely due to better proximity to stronger 2-hourly surface pressure rises of 4-mb within the attendant cold pool. In addition, early morning surface and radar imagery analysis detected a composite convective outflow boundary extending from northeast TX (25 SE GGG) westward to 40 E SEP to near MKN and BWD, then west-northwestward to northeast Coke County and southwest to 35 S MAF. The main band of storms has remained north of the outflow boundary, and should continue to move the southeast through the eastern part of WW 387, given northwesterly shear vectors remaining perpendicular to the convective band. Recent surface observations with the passage of the band of storms have remained sub-severe. Although a strong/damaging wind gust cannot be ruled out, given the strong surface pressure rises, warming cloud tops with this MCS and weakening/veering low-level jet suggest the overall severe-weather threat is likely waning. Meanwhile, higher theta-e air near and south of the composite convective outflow boundary across the southwest portion of FWD county warning area into adjacent counties of EWX county warning area suggest more favorable inflow air to sustain any remaining thunderstorms that reach those areas. However, the weakening low-level jet should limit ascent into the southern part of the MCS and preclude a greater severe-weather threat this morning that would warrant a new WW. This scenario is supported by the last several HRRR runs, showing the stronger storms weakening by 15Z from SJT to BWD to near FTW. ."
+    }
+  ]
+}

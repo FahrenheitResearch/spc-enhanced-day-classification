@@ -1,0 +1,104 @@
+{
+  "convective_day": "2017-10-01",
+  "valid_start": "2017-10-01T12:00Z",
+  "valid_end": "2017-10-02T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-10-01",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-10-01T16:30Z",
+      "valid_end": "2017-10-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20171001_1630.html",
+      "summary": "Severe thunderstorms are expected this afternoon and evening across parts of the central and northern Plains. Large hail and damaging gusts are expected, along with the possibility of a tornado or two.",
+      "sections": [
+        {
+          "title": "Central High Plains",
+          "text": "A diurnally persistent/synoptically aided low-level jet continues to stream a relatively moist air mass (near 60F surface dewpoints) northward across the region in areas near and east of a north/south-oriented lee trough and upstream cold front. The cold front will gradually overtake the lee trough while steady lee-side surface cyclogenesis occurs over northeast CO through the afternoon. Storms should initially develop/intensify over the northern CO mountains including the foothills/front range vicinity this afternoon, with a subsequent deepening/intensification likely by late afternoon as these storms encounter an increasingly moist and unstable air mass toward the CO/NE/KS border vicinity near the surface low and along/just north of the surface front. Other presumably more isolated storms may develop a little farther south/east across northwest KS with a warmer and more unstable air mass near/south of the surface triple point. Steep lapse rates, moderate buoyancy and increasingly southwesterly winds above the surface (40+ kt effective shear) will support supercells capable of large hail, with the possibility of locally damaging winds, particularly as storms grow upscale early thi"
+        },
+        {
+          "title": "Central/Eastern Dakotas",
+          "text": "Widely scattered thunderstorms are expected to form this afternoon over parts of the east-central Dakotas, offering at least some possibility for severe hail and locally damaging gusts. This will occur as the cold front impinges upon the narrow yet favorable corridor of buoyancy left behind the morning clouds/convection. This plume will be characterized by as much as 1000-2000 J/kg MLCAPE. 35-45 kt effective-shear magnitudes will contribute to storm organization, with multicells likely along with the possibility of a couple of supercells. ..Guyer/Picca.. 10/01/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-10-01",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-10-01T20:00Z",
+      "valid_end": "2017-10-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20171001_2000.html",
+      "summary": "Scattered severe storms are expected through this evening across northeast Colorado, southern and central Nebraska, and northwest Kansas. Very large hail is the primary hazard, with damaging gusts and a few tornadoes possible.",
+      "sections": [
+        {
+          "title": "Central/Southern High Plains",
+          "text": "Setup still appears to favor a couple of long-track supercells with significant severe hail as the main hazard. Tornado threat appears to be shifted slightly farther east-southeast given the large temperature/dew point spreads across northeast CO west of the dryline. Recent HRRR-NCEP and HRRR-ESRL runs remain insistent on potential discrete supercell formation emanating out of a clumping cumulus field near the dryline bulge over west-central KS. Have expand Slight risk south to account for this potential. Have also expanded Marginal risk south along the dryline given storm development across northeast NM. Please see MCD 1678 for additional short-term information."
+        },
+        {
+          "title": "Central/eastern ND",
+          "text": "A corridor of weak buoyancy characterized by MLCAPE of 500-1000 J/kg has developed within a narrow warm sector plume between a cold front and persistent stratus deck over the Red River Valley and MN. The most likely zone for storms to persist is across central ND, downstream of ongoing initiation along the ND/SD border. Setup continues to be supportive of a couple transient supercells and multicells with a Marginal risk for all hazards. ..Grams.. 10/01/2017 .PREV DISCUSSION... /ISSUED 1130 AM CDT Sun Oct 01 2017/"
+        },
+        {
+          "title": "Central High Plains",
+          "text": "A diurnally persistent/synoptically aided low-level jet continues to stream a relatively moist air mass (near 60F surface dewpoints) northward across the region in areas near and east of a north/south-oriented lee trough and upstream cold front. The cold front will gradually overtake the lee trough while steady lee-side surface cyclogenesis occurs over northeast CO through the afternoon. Storms should initially develop/intensify over the northern CO mountains including the foothills/front range vicinity this afternoon, with a subsequent deepening/intensification likely by late afternoon as these storms encounter an increasingly moist and unstable air mass toward the CO/NE/KS border vicinity near the surface low and along/just north of the surface front. Other presumably more isolated storms may develop a little farther south/east across northwest KS with a warmer and more unstable air mass near/south of the surface triple point. Steep lapse rates, moderate buoyancy and increasingly southwesterly winds above the surface (40+ kt effective shear) will support supercells capable of large hail, with the possibility of locally damaging winds, particularly as storms grow upscale early thi"
+        },
+        {
+          "title": "Central/Eastern Dakotas",
+          "text": "Widely scattered thunderstorms are expected to form this afternoon over parts of the east-central Dakotas, offering at least some possibility for severe hail and locally damaging gusts. This will occur as the cold front impinges upon the narrow yet favorable corridor of buoyancy left behind the morning clouds/convection. This plume will be characterized by as much as 1000-2000 J/kg MLCAPE. 35-45 kt effective-shear magnitudes will contribute to storm organization, with multicells likely along with the possibility of a couple of supercells."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 1678,
+      "issue_utc": "2017-10-01T19:39Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1678.html",
+      "summary": "Severe threat is increasing across the central High Plains. Tornado Watch is warranted for this region and will likely be issued by 2030z.",
+      "discussion": "Large-scale forcing for ascent is spreading across the central Rockies with high-based convection increasing across the northern CO Rockies into the High Plains where boundary-layer moisture is somewhat limited at the time. This activity is expected to mature over the next few hours as it encounters increasingly moist air mass from extreme northeast CO into southwest NE. Bow-type structures may ultimately evolve from this activity as it propagates northeast along a boundary draped across this region. Farther south, strong boundary-layer heating has contributed to a substantial dry line surge into northwest KS. CU field is increasing in areal coverage both west and east of the dry line, indicative of convective temperatures being breached. It appears thunderstorms will evolve across northwest KS over the next few hours and shear/instability favor discrete supercells. Latest HRRR model guidance supports this idea with two distinct scenarios evolving this evening. While storm mode may favor wind/hail with activity spreading across northeast CO into southwest NE, higher moisture/instability across northwest KS into south-central NE suggests a few tornadoes may evolve from supercells across this region. Tornado watch will likely be issued within the hour to account for this threat."
+    },
+    {
+      "year": 2017,
+      "number": 1679,
+      "issue_utc": "2017-10-01T21:19Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1679.html",
+      "summary": "Isolated storms may be capable of marginally severe hail and strong wind gusts through this evening. Watch issuance is not expected.",
+      "discussion": "Aided by broad ascent from an embedded shortwave trough lifting across North Dakota, isolated thunderstorms have developed near an eastward-advancing front this afternoon. A small corridor of clearing near the front has fostered MLCAPE upwards of 1000 J/kg. Furthermore, regional VWP data sample around 40-50 kt of south/southwesterly mid-level flow, adequate for occasional updraft organization. In turn, the strongest cores may be capable of marginally severe hail and a few stronger gusts over the next several hours. However, deep-layer shear vectors with a significant component parallel to the front suggests cell mergers, as well as undercutting by the front, will lead to a generally disorganized evolution. Therefore, watch issuance is not expected."
+    },
+    {
+      "year": 2017,
+      "number": 1680,
+      "issue_utc": "2017-10-01T23:40Z",
+      "topic": "Tornado Watch 490",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1680.html",
+      "summary": "Scattered strong thunderstorms have developed across the watch area, with large hail being reported. The hail threat will continue for the next few hours, along with the possibility of damaging wind gusts and a couple of tornadoes. A tornado watch remains in effect.",
+      "discussion": "Supercell thunderstorms continue to develop within the watch area, where MLCAPE values are in excess of 2000 J/kg and effective bulk shear ranges from 40-50 kt. These storms are expected to continue for the next few hours. As the low-level jet begins to increase toward sunset, low-level shear should increase, which may increase the tornado potential, especially farther east where low-level moisture is slightly better. However, large hail continues to be the primary threat. Areas of south-central NE and north-central KS are being monitored for a possible watch extension or perhaps a new watch may be issued within the next few hours as the storms move to the edge of the watch."
+    },
+    {
+      "year": 2017,
+      "number": 1681,
+      "issue_utc": "2017-10-02T01:14Z",
+      "topic": "Tornado Watch 490",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1681.html",
+      "summary": "Scattered thunderstorms continue to develop and move into portions of central NE and north-central KS, posing a threat for large hail. Although the threat for tornadoes is beginning to decrease, tornado and severe thunderstorm watches remain in effect across the region.",
+      "discussion": "Storms across central NE have begun to grow upscale into a linear system that should continue to move eastward for the next few hours. These storms will continue to pose a threat for damaging winds and some isolated hail potential where the environment out ahead remains marginally favorable, with MLCAPE values remaining above 1000 J/kg. Farther south across north-central KS, an isolated supercell continues to move east-northeastward, with large hail reported. The threat for a tornado remains possible with this storm as low-level shear should continue to strengthen over the next few hours as evident in the Hastings VWP. However, increasing convective inhibition should lead to the storm's demise."
+    },
+    {
+      "year": 2017,
+      "number": 1682,
+      "issue_utc": "2017-10-02T03:54Z",
+      "topic": "Severe Thunderstorm Watch 491",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md1682.html",
+      "summary": "A severe threat will continue for a couple more hours from eastern Nebraska possibly extending southwestward to near the Kansas border. Large hail and wind damage will be the primary threats. Tornado watch 490 will be allowed to expire.",
+      "discussion": "The latest radar imagery shows a nearly continuous line of strong thunderstorms extending from near Norfolk, Nebraska south-southwestward to north of Hastings and into northwest Kansas. The line is located along a cold front with an axis of instability just ahead of the front. RAP analysis suggests that moderate instability is located across the western third of Kansas with weaker instability across east-central Nebraska. In addition, the Hastings WSR-88D VWP shows strong deep-layer shear suggesting that the severe threat should persist for a few more hours. Although isolated supercell structures with isolated large hail will still be possible, a transition to linear has already occurred. This will favor wind damage as the primary threat. As the line of storms moves eastward into decreasing instability and as a capping inversion increases, the severe threat should become more isolated and marginal."
+    }
+  ]
+}

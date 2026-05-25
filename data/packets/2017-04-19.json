@@ -1,0 +1,152 @@
+{
+  "convective_day": "2017-04-19",
+  "valid_start": "2017-04-19T12:00Z",
+  "valid_end": "2017-04-20T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 4
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-04-19",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-04-19T12:00Z",
+      "valid_end": "2017-04-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170419_1200.html",
+      "summary": "Severe thunderstorms capable of large hail, damaging winds, and a tornado or two will be possible from the central Plains to the middle to upper Mississippi Valley today into tonight.",
+      "sections": [
+        {
+          "title": "Southern Great Lakes",
+          "text": "An upper-level ridge will be in place across the Great Lakes region today. At the surface, a cold front will move southward across lower Michigan reaching northern Indiana and northern Ohio during the afternoon. Surface heating and low-level convergence along and ahead of the front may result in isolated to scattered thunderstorm initiation during the late afternoon. Forecast soundings in northern Indiana and northern Ohio at 00Z/Thursday show surface dewpoints near 60 F, MLCAPE of 1500 J/kg, along with 25 kt of 0-6 km shear. This may be enough to support a marginal severe threat with the stronger multicells along the front. Strong wind gusts and hail will be possible. ..Broyles/Mosier.. 04/19/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-04-19",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-04-19T13:00Z",
+      "valid_end": "2017-04-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170419_1300.html",
+      "summary": "Severe thunderstorms capable of large hail, damaging winds, and a few tornadoes will be possible from the central Plains to the upper Mississippi Valley mainly from mid-afternoon into tonight.",
+      "sections": [
+        {
+          "title": "Central Plains/middle MO Valley to upper MS Valley",
+          "text": "Embedded within a moderately strong belt of west-southwesterly mid-level winds, water vapor imagery features an eastward-moving shortwave trough from WY into the north-central High Plains. This impulse will continue east-northeastward and reach the Upper Midwest tonight. To the north of a roughly west/east-oriented front, bands of convection (strong in some cases) are ongoing this morning across eastern NE into southern IA and northwest IL. A few of the stronger cores could produce hail this morning mainly from far eastern NE into western IA. On the southern fringes of this early-day convection and related cloud cover, the air mass is expected to become moderately unstable (1500-2000 J per kg MLCAPE) late this afternoon. This will especially be the case across southeast NE/northeast KS ahead of a southeastward-moving cold front, and across IA near and south of a northward-shifting warm front. Current thinking is that surface-based thunderstorms will initially develop by mid/late afternoon across east/southeast NE and northeast KS into far western IA. Very steep mid-level lapse rates, moderate buoyancy and supercell-favorable wind profiles will support the possibility of large hail."
+        },
+        {
+          "title": "Southern Great Lakes to upper OH Valley",
+          "text": "Additional moistening will occur across the region today in advance of a slow-southeastward-moving front. A weak westerlies-embedded impulse, related to convection near the IA/IL Quad Cities this morning, will continue eastward today and have at least some influence on increasing diurnal convective development this afternoon from northeast IL into northern portions of IN and OH. Sufficient heating and destabilization in the presence of around 35 kt of effective shear may support storms capable of isolated severe hail and locally damaging winds. ..Guyer/Jewell.. 04/19/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-04-19",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-04-19T16:30Z",
+      "valid_end": "2017-04-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170419_1630.html",
+      "summary": "Severe thunderstorms capable of producing large hail, damaging winds, and a few tornadoes will be possible from the central Plains to the upper Mississippi Valley mainly from mid-afternoon into tonight.",
+      "sections": [
+        {
+          "title": "Northeast KS to IA and southwest WI through tonight",
+          "text": "A low-amplitude midlevel trough over the central High Plains will progress eastward to the mid MO Valley by this evening, and continue to the upper MS Valley overnight. An associated surface cyclone near the KS/NE border will develop east-northeastward along a warm front to southeast NE this afternoon and southwest WI by early Thursday. Boundary layer dewpoints in the lower 60s are spreading northward south of the warm front, and will combine with daytime heating and steep midlevel lapse rates to support MLCAPE near 1500 J/kg. Lingering convective inhibition suggests that thunderstorm development this afternoon/evening will largely be confined to the synoptic cold front, and in the zone of isentropic ascent north of the warm front and immediately in advance of the surface cyclone. Moderate buoyancy and strong deep-layer shear (effective bulk shear near 50 kt) will support a risk for supercells, and storms should remain semi-discrete given substantial cross-boundary flow/shear vectors. The strongest storms will be capable of producing isolated very large hail and damaging winds. Low-level shear will be strongest near the surface warm front, where the tornado risk will be greatest fo"
+        },
+        {
+          "title": "Southern Lower MI, northern IN and northern OH this afternoon",
+          "text": "A possible weak MCV over northern IL will move eastward through the afternoon. Modest destabilization of the boundary layer to the east may support a few small clusters of storms that will subsequently move eastward through the afternoon over southern Lower MI, northern IN, and northern OH. Isolated damaging winds and marginally severe hail will be possible. ..Thompson/Cook.. 04/19/2017"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2017-04-19",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-04-19T20:00Z",
+      "valid_end": "2017-04-20T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170419_2000.html",
+      "summary": "Severe thunderstorms capable of producing large hail, damaging winds, and a few tornadoes will be possible from the central Plains to the upper Mississippi Valley mainly from mid-afternoon into tonight.",
+      "sections": [
+        {
+          "title": "Discussion",
+          "text": "Current outlook reasoning remains generally on track, and thus only minor tweaks to the outlook are being implemented at this time. The main changes to the severe risk areas have been to trim tornado probabilities across Iowa a bit farther south. With the surface warm front still over far southern Iowa per latest visible satellite and surface observations -- i.e. slower in northward advance than model forecasts have suggested -- tornado risk is currently suppressed southward, as well. With that said however, clearing evident in satellite imagery north of the warm front should allow heating/mixing -- and thus northward advance of the warm front -- over the next few hours. As such, the line tweaks remain minimal. Otherwise, the ongoing expectations reflected in the outlook -- that storms will develop southward from the low along the warm front in the next few hours, posing risk for large hail/locally damaging winds and a couple of tornadoes -- remain valid. For additional short-term information, please refer to SWOMCD #519 (across the ENH and SLGT risk areas), and SWOMCD #518 (farther east within the MRGL risk area over southern Lower Michigan, northern Indiana, and northern Ohio). ."
+        },
+        {
+          "title": "Northeast KS to IA and southwest WI through tonight",
+          "text": "A low-amplitude midlevel trough over the central High Plains will progress eastward to the mid MO Valley by this evening, and continue to the upper MS Valley overnight. An associated surface cyclone near the KS/NE border will develop east-northeastward along a warm front to southeast NE this afternoon and southwest WI by early Thursday. Boundary layer dewpoints in the lower 60s are spreading northward south of the warm front, and will combine with daytime heating and steep midlevel lapse rates to support MLCAPE near 1500 J/kg. Lingering convective inhibition suggests that thunderstorm development this afternoon/evening will largely be confined to the synoptic cold front, and in the zone of isentropic ascent north of the warm front and immediately in advance of the surface cyclone. Moderate buoyancy and strong deep-layer shear (effective bulk shear near 50 kt) will support a risk for supercells, and storms should remain semi-discrete given substantial cross-boundary flow/shear vectors. The strongest storms will be capable of producing isolated very large hail and damaging winds. Low-level shear will be strongest near the surface warm front, where the tornado risk will be greatest fo"
+        },
+        {
+          "title": "Southern Lower MI, northern IN and northern OH this afternoon",
+          "text": "A possible weak MCV over northern IL will move eastward through the afternoon. Modest destabilization of the boundary layer to the east may support a few small clusters of storms that will subsequently move eastward through the afternoon over southern Lower MI, northern IN, and northern OH. Isolated damaging winds and marginally severe hail will be possible."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 518,
+      "issue_utc": "2017-04-19T18:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0518.html",
+      "summary": "Convection is expected to gradually increase across the region, with a marginal hail/wind threat expected with stronger thunderstorm cores. A WW is not anticipated.",
+      "discussion": "Mosaic radar imagery/satellite observations suggest an increase in convective activity in western portions of the discussion area (especially in northern Indiana and southwestern Michigan) over the past hour. These trends should continue with time, owing to continued insolation/surface-based destabilization amidst a weakly capped airmass. Storms should remain mostly multicellular owing to unidirectional wind profiles and relatively weak low-level flow, although an isolated supercell cannot be ruled out. Some impetus for organization will likely evolve from remnants of a mesoscale convective system moving eastward across southwestern Michigan currently. Hail and damaging wind gusts are possible with the strongest cells especially as storms migrate eastward into northern Ohio/southeastern Michigan. Generally, limited instability and weak low-level shear should keep the overall threat with this activity marginal/isolated enough to preclude the need for a WW issuance."
+    },
+    {
+      "year": 2017,
+      "number": 519,
+      "issue_utc": "2017-04-19T19:29Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0519.html",
+      "summary": "Thunderstorm development with increasing severe weather potential is expected by late afternoon. At least a couple of severe weather watches are likely to be issued across the region by 21Z.",
+      "discussion": "A cyclonic mid/upper jet streak (including 50+ kt at 500 mb) is in the process of nosing through the central Plains and mid Missouri Valley region. Strongest forcing for ascent in the exit region of this feature likely will remain focused well to the cool side of a fairly sharp surface frontal zone, along which a modest surface cyclone is now beginning to migrate east northeast of the central Nebraska/Kansas border area. At the same time, the nose of a plume of warm and capping elevated mixed layer air is wrapping into the mid Missouri Valley region, across much of the warm/moist sector of the surface low, and northward to the cool side of the front ahead of the low. However, latest model output, including the Rapid Refresh, suggests that the leading edge of lower/mid tropospheric cooling is now roughly near/east of the Grand Island NE through Russell KS. As this continues to spread east northeastward this afternoon, guidance indicates that it may provide the focus for increasing thunderstorm development by 21-23Z, from near the surface low southward along the dryline (as it is overtaken by the southward advancing cold front) into parts of central Kansas. In the presence of thermodynamic profiles characterized by very steep mid-level lapse rates and mixed layer CAPE on the order of 1500-2000 J/kg, deep layer shear appears more than sufficient for supercells. Near a 40 kt southerly 850 mb jet, sizable clockwise curved low-level hodographs will contribute to a risk for tornadoes. The extent of the tornado threat remains a bit uncertain due to an expected tendency for fairly deep boundary layer mixing and some drying within the warm sector, and rather cool/stable air to the north of the front. Any tornadic potential may tend to be maximized within a rather narrow corridor "
+    },
+    {
+      "year": 2017,
+      "number": 520,
+      "issue_utc": "2017-04-19T22:30Z",
+      "topic": "Tornado Watch 148",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0520.html",
+      "summary": "Severe thunderstorm threat should increase across Tornado Watch 148 over the next few hours.",
+      "discussion": "Large-scale forcing for ascent appears to be increasing across eastern NE early this evening, per visible satellite imagery where rapid increase in elevated convection is noted. Frontal convection should increase markedly over the next few hours and spread/develop from southeast NE into southwest IA. With low-level warm advection expected to increase across central IA it appears thunderstorms will evolve along/north of the warm front as well. Large hail and damaging winds are the primary threats with convection along the cool side of each boundary while any meaningful tornado threat should be confined to warm-sector supercells that don't get undercut by the cold front. ..Darrow.. 04/19/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 521,
+      "issue_utc": "2017-04-19T23:55Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0521.html",
+      "summary": "Thunderstorms are expected to increase in areal coverage across much of central and northern Iowa over the next few hours. Marginally severe hail is the primary risk with convection north of the warm front.",
+      "discussion": "Low-level warm advection should aid areal expansion of convection across much of central and northern IA over the next few hours. Latest surface analysis suggests the primary warm front has advanced into southern Crawford/Carroll counties, just north of current Tornado Watch 148. A marked increase in thunderstorm activity has been noted along the cold front extending from northwest IA into southeast NE. Activity north of I-80 has yet to exhibit very large hail, possibly due to unfavorable storm mode and significant clustering. Unless discrete supercells evolve near the warm front it appears much of the elevated convection may struggle to generate large hail. For these reasons will continue to monitor for possible ww."
+    },
+    {
+      "year": 2017,
+      "number": 522,
+      "issue_utc": "2017-04-20T00:01Z",
+      "topic": "Severe Thunderstorm Watch 149",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0522.html",
+      "summary": "Severe thunderstorms are expected to continue for the next few hours along the southern end of a cold front pushing through central KS. Primary severe threat is large hail. Isolated hail and damaging winds gusts are also possible with the cluster of storms moving southeastward across western KS.",
+      "discussion": "Thunderstorms developed rapidly over the past hour and half along a cold front tracking southeastward into northeast and central KS. Latest surface analysis placed this front from BIE in southeast NE to just southeast of RSL in central KS to north of DDC in southern KS. Expectation is for this front to continue pushing southeastward with the ongoing storms expected to persist for at least the next few hours. The downstream environment across northeast KS is already stabilizing somewhat. The stabilizing trend is expected continue with storm intensity gradually decreasing as a result. Storms along the southern end of the line should persist longer given the presence of better low-level moisture and instability as well as increased convergence resulting from a strengthening low-level jet. These storms also have the highest likelihood of severe as they encounter the better instability. Primary severe threat remain large hail with some damaging wind gusts also anticipated. Farther northwest, a pair of storms developed near the central KS/CO border behind the cold front with recent radar scan suggesting these storms are quite intense (i.e. MESH around an inch and over 50 dBZ on the 9 km CAPPI). Recent storm motion on this cluster is estimated to be southeastward at 40 kt. The downstream thermodynamic environment is not overly favorable, but enough instability exists for storm persistence, particularly given the strength of the bulk shear. Deeply mixed downstream environment is favorable for damaging wind gusts and some severe threat could result as this cluster continues southeastward. A local watch extension may be needed to cover this potential threat. ..Mosier.. 04/20/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 523,
+      "issue_utc": "2017-04-20T02:01Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0523.html",
+      "summary": "A downstream watch may be needed to address the potential severe threat across east-central and southeast KS.",
+      "discussion": "A line of severe thunderstorms is moving southeastward across central KS at about 20-25 kt. This storm motion will put this line of storms near the edge of watch 149 around 03Z. Some slowing of the cold front and, as a result, the storms along it, is anticipated as it becomes more displaced from its parent upper system (currently moving across the northern Plains). Even so, increasing low-level flow will increase convergence into the frontal zone and the general expectation is for thunderstorms to persist for the next several hours into east-central and southeast KS. Effective bulk shear will remain supportive of organized updrafts but given the linear storm mode and continually stabilizing low-levels, the areal coverage of any severe threat is uncertain. Southwestward backbuilding is expected across western portions of the front moving into south-central KS. Some hail and wind threat is possible across this area, particularly with any initial development, but, as with area farther east, decreasing instability, a more linear storm mode, and undercut nature to the convection suggest a fairly limited overall severe threat. Convective trends across this entire region will be monitored closely for potential downstream watch issuance."
+    },
+    {
+      "year": 2017,
+      "number": 524,
+      "issue_utc": "2017-04-20T03:06Z",
+      "topic": "Severe Thunderstorm Watch 150",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0524.html",
+      "summary": "Marginally severe hail and gusty winds remain possible with squall line as it progresses across western/northern portions of WW150.",
+      "discussion": "Frontal convection has gradually become less organized over the last hour or so, but a robust squall line continues its eastward movement across WW150 at roughly 35kt. Air mass ahead of this activity over central IA is modestly unstable but convection appears to be slightly elevated in nature and overall intensity has waned somewhat. Thunderstorms have struggled to produce large hail this evening and latest MRMS data suggests hail is mostly sub-severe. Current thinking is gusty winds, along with marginally severe hail, are the primary threats with this frontal squall line. ..Darrow.. 04/20/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

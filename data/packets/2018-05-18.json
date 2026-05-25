@@ -1,0 +1,155 @@
+{
+  "convective_day": "2018-05-18",
+  "valid_start": "2018-05-18T12:00Z",
+  "valid_end": "2018-05-19T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2018-05-18",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-05-18T16:30Z",
+      "valid_end": "2018-05-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180518_1630.html",
+      "summary": "Severe thunderstorms are possible near the Front Range of the Rockies eastward into parts of the central and southern Plains late this afternoon and tonight.",
+      "sections": [
+        {
+          "title": "Central and Southern Plains",
+          "text": "Nocturnal and morning convection now located over eastern Nebraska and north central Kansas has generated an east-west low-level boundary that extends from central Kansas into southeast Colorado. Areas of widespread stable low clouds, especially over eastern Colorado but also evident over northwest and north central Kansas, will inhibit diabatic heating into at least early afternoon, and may promote maintenance of a differential heating discontinuity that will help focus later thunderstorm development. The large scale pattern will continue to be characterized by modest southwest flow aloft advancing eastward over the central and southern Plains as weak perturbations embedded into the flow move toward the High Plains. A surface low over southeast Colorado may drift southward as strong heating occurs this afternoon, with the aforementioned boundary serving as a focus for thunderstorm development later this afternoon and evening. North of the boundary, an easterly component to the low-level flow will provide moist upslope winds, and dependent on the degree of cloud dissipation and development of pockets of stronger heating, may support additional storm development by mid-to-late after"
+        },
+        {
+          "title": "Tennessee/Lower Ohio Valley and the Southeast",
+          "text": "Widespread convection is anticipated this afternoon as the moist air mass over the region destabilizes amidst diurnal heating. Weak vertical shear across the area suggests that the only severe potential would come from water-loaded downbursts which result from updraft strengthening due to cell mergers, but this is expected to occur only on a very isolated/episodic basis. ..Weiss/Leitman.. 05/18/2018"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2018-05-18",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-05-18T20:00Z",
+      "valid_end": "2018-05-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180518_2000.html",
+      "summary": "Severe thunderstorms are possible near the Front Range of the Rockies eastward into parts of the central and southern Plains late this afternoon and tonight. Damaging wind is most likely across Kansas this evening.",
+      "sections": [
+        {
+          "title": "Central Plains",
+          "text": "Changes to this outlook update include expanding the Enhanced Risk for damaging wind farther east across KS as an MCS is expected to materialize and persist through the evening. Satellite imagery and surface analysis continues to show heating and destabilization south of the primary front across central KS, along with expanding CU fields and moisture advection out of OK. A strong, relatively backed low-level jet this evening will provide favorable storm relative inflow into any convective system, while steep midlevel lapse rates maintain updraft vigor. Large hail is also possible especially with early cellular activity. For more information see mesoscale discussion 450."
+        },
+        {
+          "title": "Southeast LA and coastal MS and AL",
+          "text": "Scattered storms currently extend from central LA into the FL Panhandle, beneath a weak upper trough which is providing cool temperatures aloft. Heating and the existence of low 70s F dewpoints has led to a zone of over 2000 J/kg MLCAPE which is currently supporting a hail threat in the strongest cells. These storms are tied to the diurnal cycle and should dissipate by around 00Z. Until then, a small Marginal Risk area has been added for hail and wind. ..Jewell.. 05/18/2018 .PREV DISCUSSION... /ISSUED 1128 AM CDT Fri May 18 2018/"
+        },
+        {
+          "title": "Central and Southern Plains",
+          "text": "Nocturnal and morning convection now located over eastern Nebraska and north central Kansas has generated an east-west low-level boundary that extends from central Kansas into southeast Colorado. Areas of widespread stable low clouds, especially over eastern Colorado but also evident over northwest and north central Kansas, will inhibit diabatic heating into at least early afternoon, and may promote maintenance of a differential heating discontinuity that will help focus later thunderstorm development. The large scale pattern will continue to be characterized by modest southwest flow aloft advancing eastward over the central and southern Plains as weak perturbations embedded into the flow move toward the High Plains. A surface low over southeast Colorado may drift southward as strong heating occurs this afternoon, with the aforementioned boundary serving as a focus for thunderstorm development later this afternoon and evening. North of the boundary, an easterly component to the low-level flow will provide moist upslope winds, and dependent on the degree of cloud dissipation and development of pockets of stronger heating, may support additional storm development by mid-to-late after"
+        },
+        {
+          "title": "Tennessee/Lower Ohio Valley and the Southeast",
+          "text": "Widespread convection is anticipated this afternoon as the moist air mass over the region destabilizes amidst diurnal heating. Weak vertical shear across the area suggests that the only severe potential would come from water-loaded downbursts which result from updraft strengthening due to cell mergers, but this is expected to occur only on a very isolated/episodic basis."
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2018-05-19",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-05-19T01:00Z",
+      "valid_end": "2018-05-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180519_0100.html",
+      "summary": "Severe thunderstorms will persist from the Front Range of the Rockies eastward into parts of the central and southern Plains tonight.",
+      "sections": [
+        {
+          "title": "01Z Update",
+          "text": "Convection has largely evolved as anticipated across much of the Plains. Primary change to the outlook was to remove marginal probabilities across southeast LA were the severe threat no longer exists. Some very minor adjustments were made to the Enhanced area but the expectation for a corridor of damaging wind gusts persists. Overall convective coverage is expected to increase across the central Plains during the next few hours as the low-level jet strengthens. ..Mosier.. 05/19/2018"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2018,
+      "number": 450,
+      "issue_utc": "2018-05-18T19:43Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0450.html",
+      "summary": "Thunderstorms capable of producing large hail and damaging wind are expected to develop by 21-22Z. Storms will eventually grow upscale into lines with primary threat transitioning to damaging wind this evening. A couple of severe thunderstorm watches are anticipated by 21Z including one from southeast CO into southwest KS, and another watch likely from the eastern TX panhandle into western OK.",
+      "discussion": "A quasi-stationary front extends from an area of low pressure over southeast CO through central KS. Cold front extends from the low through extreme southeast CO into northeast NM. Dryline stretches south through the western OK and TX panhandles into west TX. Mid to upper 50s F dewpoints reside in warm sector beneath a capping inversion at the base of a warm elevated-mixed layer contributing to MLCAPE around 2000 J/kg. Elevated convection has been occurring over west TX near Lubbock, and additional mid-level convection has developed during the last hour from east NM into the TX panhandle. This activity is likely rooted above 700 mb and appears to be forming in association with mid-level ascent associated with a shortwave trough moving northeast through eastern NM. This ascent combined with dryline mixing should erode the cap sufficiently for storms to become rooted in the boundary layer over the TX panhandle after 21Z. Additional storms are expected to develop farther north in KS along stationary boundary as well as along cold front and in the upslope region of southeast CO. Vertical wind profiles with 30-40 kt effective bulk shear will support both multicell and some supercell structures. Weaknesses in the winds aloft and large low-level temperature-dewpoint spreads suggest storms should become outflow dominant and congeal into line segments. Large hail and damaging wind will be the main threats."
+    },
+    {
+      "year": 2018,
+      "number": 451,
+      "issue_utc": "2018-05-18T19:50Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0451.html",
+      "summary": "Thunderstorm coverage will increase over the next few hours. Some stronger storms could produce strong winds and hail. A watch is not expected at this time.",
+      "discussion": "Scattered thunderstorms have developed in upslope flow along the higher terrain of eastern WY. Abundant sunshine across the region has allowed temperatures to warm into the upper 60s, except for parts of southeast WY where temperatures had only climbed to near 60 degrees as of 19z. The southeastern portion of WY has remained under more cloud cover related to overnight convective debris on the north side of an outflow boundary that stretched from eastern CO into northern KS. This area may take a bit longer to become uncapped, compared to farther north. Streamline analysis highlights moist upslope flow with dewpoints across the High Plains of eastern WY and western SD/NE generally in the low 50s. Expansive cumulus across the region is indicative of the weakly unstable airmass noted in 19z mesoanalysis. 30 kt or less of deep layer shear and weak forcing will limit organization as storms move off of higher terrain. However, steep mid and low level lapse rates will support some marginal hail and gusty wind threat through the afternoon and evening. Given the marginal nature of the threat, a watch is not expected at this time."
+    },
+    {
+      "year": 2018,
+      "number": 452,
+      "issue_utc": "2018-05-18T21:06Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0452.html",
+      "summary": "A few strong storms may produce marginally severe hail near higher terrain in north-central CO. Strong storm potential appears more uncertain and conditional further east and a watch is not expected at this time.",
+      "discussion": "Convection continues over the higher terrain of north-central CO. The 19z RAOB from DNR indicated a stout cap just above 700mb. This is evident in visible satellite imagery where overcast skies have dominated much of the region today. Cloud cover has been slow to erode to the north of an outflow boundary which extends eastward from east-central CO through northern KS. This cloud cover and weaker destabilization compared to points further south across southeast CO has lead to considerable uncertainty in convective evolution and any related severe threat. Steep midlevel lapse rates and modest but adequate deep-layer shear could support some marginally severe hail near and adjacent to higher terrain. Storms may struggle to maintain intensity moving off of higher terrain however. Given this uncertainty and capping issues further east into the high Plains of northeastern CO, a watch is not expected at this time."
+    },
+    {
+      "year": 2018,
+      "number": 453,
+      "issue_utc": "2018-05-18T23:04Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0453.html",
+      "summary": "An isolated hail/wind threat will continue as storms evolve across the discussion area this evening. A WW issuance is not anticipated for this activity.",
+      "discussion": "Scattered strong to severe storms continue to slowly propagate across the discussion area at this time and are focused mainly in a couple of areas - one cluster over far eastern Wyoming and another cluster near a slow-moving front over west-central South Dakota. Localized boundary interactions have resulted in a couple of supercellular structures near/north of Rapid City despite relatively weak kinematic profiles. Meanwhile, the cluster across eastern Wyoming has shown a tendency for slow eastward propagation. Despite weak shear profiles, moderate instability (1500-2000 J/kg MUCAPE) and ~8 deg C/km mid-level lapse rates are supporting a large hail risk in the strongest cells. Localized damaging wind gusts are possible as well. With time, models and observations both support continued forward-propagation through the discussion area - especially if storms congeal into linear segments as suggested by the most recent HRRR runs. This threat should be too isolated/marginal to necessitate a WW issuance, although convective trends will be monitored."
+    },
+    {
+      "year": 2018,
+      "number": 454,
+      "issue_utc": "2018-05-18T23:27Z",
+      "topic": "Severe Thunderstorm Watch 104",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0454.html",
+      "summary": "Large hail and damaging winds are the primary severe-weather threats across WW 104, though any storm with deviant motion may produce a tornado.",
+      "discussion": "Trends in mosaic radar imagery and GOES-16 imagery indicated rapid storm development across the northern TX Panhandle since 2145-2155Z. Surface streamline and objective analyses indicated strong deep-layer convergence from eastern Hutchinson and Roberts counties TX to Beaver County OK. Across this corridor, there is a thetae-rich environment, very strong instability (MLCAPE 2000+ J/kg), and strong effective bulk shear (stronger with northward extent into the OK Panhandle) for continued supercell development. Trends in individual radar imagery indicated storm splits with at least one left mover having had strong anticyclonic rotation as it tracked into Beaver County OK around 2230Z. The available thermodynamics and increasing effective bulk shear with northward extent will continue to support supercells capable of producing large hail and damaging winds. The storms across the northern TX and eastern OK Panhandles should continue to develop and shift or also form into southwest KS (reference WW 105) where the CAPE/shear parameter space is even more favorable for sustained robust supercell development ahead of an approaching eastern NM shortwave trough. Storms forming across the southern part of WW 104 will continue to pose a severe-weather threat as they move northeast and north into stronger instability across the eastern TX Panhandle and western OK. ..Peters.. 05/18/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 455,
+      "issue_utc": "2018-05-18T23:27Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0455.html",
+      "summary": "Thunderstorm initiation is occurring across the discussion area and these trends should continue. Hail and damaging wind gusts are most likely, although a tornado or two may also occur. Convective trends are being monitored for either a WW issuance or local extensions of WW 105.",
+      "discussion": "Satellite imagery continue to indicate an increasingly agitated cumulus field across much of west-central and northwestern Kansas, and a few thunderstorms have developed just north of a warm frontal zone near I-70. The environment supporting this activity is characterized by strong instability (2000+ J/kg MUCAPE) and sufficient deep shear (40-45 knots) for storm organization. Furthermore, backed surface winds along and north of the warm frontal zone are enhancing low-level shear, and will likely promote updraft rotation in storms that can mature while traversing this region. Large to very large hail and damaging wind gusts are the primary threats, although a tornado threat will be present as well with any cellular convection that develops. A local extension of Severe Thunderstorm Watch 105 may be needed in the near term, and a new tornado watch cannot completely be ruled out given convective trends."
+    },
+    {
+      "year": 2018,
+      "number": 456,
+      "issue_utc": "2018-05-19T02:08Z",
+      "topic": "Severe Thunderstorm Watch 105",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0456.html",
+      "summary": "The severe threat continues across WW 105. Local spatial extensions may be needed to include Kit Carson and Yuma Counties soon.",
+      "discussion": "Convection has evolved into a mixed mode of linear, forward-propagating segments and clusters of cells across the discussion area. Strong to severe wind gusts have been reported with the linear segments, while significant hail has been noted especially with supercellular storms across northwestern Kansas. Storms should continue to grow upscale into linear segments with time, with large hail and damaging wind gusts remaining possible given ample shear and moderately to strongly unstable thermodynamic profiles - especially where storms can propagate into an undisturbed pre-convective airmass. An isolated tornado or two cannot be completely ruled out - especially with storms interacting with a surface warm front across the region. Storms across eastern Colorado have exhibited a more linear orientation and should result in a hail/wind threat as they enter Kit Carson and Yuma Counties in Colorado. Spatial extensions of WW 105 should be considered in those areas. Finally, a few areas of southwestern Kansas (near Dodge City and Liberal) have experienced convective overturning and low-level stabilization behind a forward-propagating linear segment entering western portions of WW 106. While the severe threat has diminished some in the near-term in these areas, some risk for redevelopment of primarily elevated storms is possible for the next few hours as a 40-45 kt south-southeasterly low-level jet persists across that area. Marginal hail appears to be the most likely threat in these areas. ..Cook.. 05/19/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 457,
+      "issue_utc": "2018-05-19T02:40Z",
+      "topic": "Severe Thunderstorm Watch 104",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0457.html",
+      "summary": "Local WFO extension in time and area may be needed for WW 104 for part of OK for an isolated threat for hail and/or damaging wind gusts.",
+      "discussion": "At 0230Z, mosaic radar imagery indicated a strong-severe storm in southwest OK and additional strong to severe storms moving to the east-northeast through extreme northwest to north-central OK. The onset of boundary-layer cooling, given the loss of daytime heating has strengthened surface-based inhibition per modification of 00Z OUN sounding. This factor should limit the likelihood for more widespread storms, though residual moderate elevated instability and steep midlevel lapse rates suggest isolated severe hail will remain possible in the short term across southwest OK. Farther north, the southern extent of a band of intense storms moving through central KS extended into northern Woods and northwest Alfalfa Counties OK. Locally strong damaging winds and/or hail will remain a threat, with this portion of the line possibly posing a severe risk to Grant County in the short term. A strengthening cap should limit the southward extension of the KS storms. ..Peters.. 05/19/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 458,
+      "issue_utc": "2018-05-19T04:14Z",
+      "topic": "Severe Thunderstorm Watch 105",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0458.html",
+      "summary": "The severe threat continues across WWs 105 and 106, although this threat appears to be on the wane. Isolated instances of severe wind and hail remain possible through at least 04Z across western Kansas, and 05Z across central Kansas.",
+      "discussion": "The overall severe threat has diminished some across WWs 105 and 106 over the past hour or so due to a couple of influences: 1) nocturnal boundary layer stabilization, and 2) widespread convective overturning. Nevertheless, one persistent linear segment continues across northwestern Kansas currently and will have a threat for damaging wind gusts for the next hour or so. Given ongoing stabilization, portions of WW 105 in effect for these areas may be allowed to expire at its originally scheduled time (04Z). Farther south, isolated thunderstorms have redeveloped from southwest Kansas southward into the Texas Panhandle. Although low-level stabilization has occurred across these areas, steep mid-level lapse rates will continue to sustain elevated storms and a few instances of large hail may still occur. Farther east, an extensive line of storms extending from near Russell to just west of Wichita continued to propagate eastward into a weakly to moderately unstable airmass (MUCAPE values between 1000-2000 J/kg). An isolated damaging wind threat should continue through the originally scheduled expiration time of WW 106 (07Z), and some hail threat will exist with more cellular convection developing on the southern flank of this linear MCS across far southern Kansas and extreme northern Oklahoma. ..Cook.. 05/19/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

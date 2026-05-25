@@ -1,0 +1,99 @@
+{
+  "convective_day": "2018-06-05",
+  "valid_start": "2018-06-05T12:00Z",
+  "valid_end": "2018-06-06T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2018-06-05",
+      "hhmm": "1200",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2018-06-05T12:00Z",
+      "valid_end": "2018-06-06T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2018/day1otlk_20180605_1200.html",
+      "summary": "Scattered severe thunderstorms with large hail and wind damage are forecast across the northern Plains this afternoon and evening.",
+      "sections": [
+        {
+          "title": "Northern Plains",
+          "text": "An upper-level ridge will move eastward across the northern Plains today as a shortwave trough moves into the northern High Plains. At the surface, a cold front will move across the western Dakotas as a low deepens ahead of the front. A warm front should be located across southwestern Minnesota. Moisture advection will take place across the eastern half of South Dakota into southern North Dakota during the day where dewpoints should reach the lower to mid 60s F. This will contribute to moderate destabilization beneath a modest capping inversion by mid to late afternoon. As the cap weakens, convection is forecast to first initiate in northeastern North Dakota by sometime during the early to mid evening with storms gradually developing southward into northeastern South Dakota. Uncertainty exists on exactly when convection initiation will take place. Other storms may initiate in the Black Hills and move northeastward into central South Dakota during the early evening. A potential for MCS development will exist across parts of southeastern North Dakota and far northern South Dakota. RAP forecast soundings from Bismarck, ND eastward to near Fargo, ND show an impressive thermodynamic env"
+        },
+        {
+          "title": "Southern and Central Plains",
+          "text": "An upper-level ridge will move slowly eastward across the southern Rockies today with mid-level flow from the north-northwest across the southern Plains. At the surface, a moist airmass will be in place across the eastern half of Texas and eastern two-thirds of Oklahoma. Surface dewpoints near 70 F should contribute to moderate to strong destabilization by mid to late afternoon with MLCAPE values reaching the 2000 to 3000 J/kg range. Although large-scale ascent will be weak, isolated thunderstorms may initiate as low-level convergence increases during the late afternoon along with western gradient of instability from near the KS-CO state line south-southwestward into west Texas. Instability, steep mid-level lapse rates and directional shear may be enough for marginally severe hail."
+        },
+        {
+          "title": "East Texas/Louisiana/Central Gulf Coast",
+          "text": "Mid-level flow will be from the north-northwest today across eastern parts of the southern Plains eastward into the lower Mississippi Valley. At the surface, a moist airmass will be in place in this area with surface dewpoints in the lower to mid 70s F. This should enable moderate instability to develop across much of the region by afternoon. Some thunderstorms will likely develop along residual outflow boundaries and in areas that heat up the most. Due to the instability and steep low-level lapse rates, a marginal wind damage threat will be possible with the stronger multicells. ..Broyles/Dean.. 06/05/2018"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2018,
+      "number": 645,
+      "issue_utc": "2018-06-05T19:05Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0645.html",
+      "summary": "Isolated occurrences of strong/damaging wind gusts, along with small hail, will be possible as scattered low-topped convective cells move across the region. A WW is not anticipated.",
+      "discussion": "The latest radar and visible satellite loops over the MCD area indicate an increase in convection over the past hour, coincident with afternoon heating of the boundary layer beneath cold mid-level temperatures. Resulting CAPE has fostered convective enhancement, near a cold front roughly bisecting Pennsylvania from west to east. Strong/nearly unidirectional west-northwest flow aloft is indicated across the region, which is promoting fast-moving cells. As such, a few of the stronger cells will likely produce momentum-enhanced downdrafts capable of minor wind damage through the afternoon. The loss of peak heating will allow rapid airmass stabilization, and a corresponding decrease in convective intensity into the early evening hours."
+    },
+    {
+      "year": 2018,
+      "number": 646,
+      "issue_utc": "2018-06-05T19:51Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0646.html",
+      "summary": "Strong winds and some hail may accompany thunderstorms across parts of the southern High Plains, especially the eastern Texas Panhandle into early evening.",
+      "discussion": "Strong surface heating is contributing to a deepening boundary layer across the southern High Plains this afternoon. Temperatures have warmed into the upper 90s to near 100F from the TX South Plains into the OK Panhandle. As a result, convective temperatures have been breached and thunderstorms are now forming from northeast NM into southeast CO. This activity is expected to expand in areal coverage as it begins to propagate slowly southeast, aided in part by a weak mid-level disturbance. Forecast soundings across this region exhibit inverted-V profiles with substantial sub-cloud drying and surface/temperature dew point spreads on the order of 50F. CAM guidance also suggests a gradual increase in areal coverage as this activity moves/propagates slowly southeast. If a sufficient cold pool can evolve with this convection, storms may be forced into the southeast TX Panhandle/northwest TX where PW values are more supportive of stronger downdrafts. At this time severe coverage may be too sparse to warrant a watch. However, will continue to monitor this region."
+    },
+    {
+      "year": 2018,
+      "number": 647,
+      "issue_utc": "2018-06-05T23:01Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0647.html",
+      "summary": "Storms may develop across portions of central North Dakota by 01-02Z. Supercells with large hail and damaging wind will be the initial threats, but a brief tornado may also be possible. With time storms are expected to evolve into an MCS with damaging wind becoming the main threat. A WW will probably be needed this evening, most likely 01-02Z.",
+      "discussion": "Early this evening a cold front extends from northeast through southwest ND. A warm front stretches from southwest MN into eastern ND where it intersects the cold front. Warm sector between these boundaries has become moderately unstable with 8 C/km 700-500 mb lapse rates situated above upper 50s F low-level dewpoints resulting in up to 2500 J/kg MLCAPE. Warm air at the base of the elevated mixed layer has resulted in a capping inversion, and this region has been under the influence of shortwave ridging much of the day. However, water vapor imagery indicates a shortwave trough near the MT/ND border. Increasing ascent associated with this feature and a strengthening low-level jet should result in the development of storms along the cold front this evening with consensus among CAMS suggesting between 01 and 02Z. RAP analysis indicates a 50 kt mid-level jet accompanying the shortwave trough, and this will contribute to sufficient effective bulk shear for supercells as the initial storm mode with damaging wind and large hail the main threats. Despite higher than optimal LCL heights, a brief tornado or two cannot be ruled out, mainly within a small window before storms grow upscale."
+    },
+    {
+      "year": 2018,
+      "number": 648,
+      "issue_utc": "2018-06-05T23:54Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0648.html",
+      "summary": "Convective evolution is uncertain, but at least isolated severe wind/hail will be possible into this evening.",
+      "discussion": "At 2345Z, convection is rapidly intensifying across southeast MT, with elevated storms noted further north into east-central MT. This activity appears to be associated with a midlevel shortwave trough moving through central/eastern MT. Forecast soundings modified for observed surface conditions indicate a relative minimum in MLCINH across southeast MT into northwest SD, indicating the potential for surface-based storms. MLCAPE of 1500-2500 J/kg and effective shear of 40-50 kts are supportive of organized storm structures, including the potential for supercells with an associated large hail risk. The evolution of this convection is uncertain given stronger capping noted further east, but at least a small window exists with the potential for a supercell or two from southeast MT into northwest SD and potentially far southwest ND. Further south, a thunderstorm cluster is spreading northeastward across western SD. This convection initiated in a region of weaker midlevel flow/effective shear, and as a result has quickly become outflow dominant. A short-term threat for severe wind gusts (and possibly marginally severe hail) will exist with this activity, before it likely weakens later this evening as it moves into a strongly capped environment further east. In addition, the outflow from this cluster will eventually spread into northwest SD/southwest ND, and may interact with the developing convection in that region with some potential for upscale growth. Given the uncertainties mentioned above, the need for watch issuance remains unclear, though if convection across southeast MT continues to intensify, a watch may be needed to cover that threat in addition to the threat further northeast, which was covered in MCD 647."
+    },
+    {
+      "year": 2018,
+      "number": 649,
+      "issue_utc": "2018-06-06T04:26Z",
+      "topic": "Severe Thunderstorm Watch 155",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0649.html",
+      "summary": "Threat for damaging wind and hail should persist through the early morning from northern South Dakota into southeast North Dakota. At least a modest severe threat could evolve east of WW 155 into a few counties of northwest MN. Though a downstream WW is not anticipated in the near term, WW 155 can be locally extended farther east as needed.",
+      "discussion": "Forcing for ascent attending an eastward-advancing shortwave trough has contributed to development of numerous storms across eastern ND, primarily in post frontal region where the atmosphere remains moderately unstable with MUCAPE around 1500 J/kg. Despite the post-frontal nature of the storms, steep mid-level lapse lapse rates (up to 8.5 C/km 700-500 mb), moderate instability and effective bulk shear sufficient for elevated supercell structures will continue to support a threat for large to very large hail next couple hours while storms are still discrete. Isolated damaging wind may also accompany the stronger cores. Some storms are approaching the eastern bound of WW 155 along the ND/MN border where a warm front resides. The atmosphere east of the warm front is not as unstable, but some destabilization will occur as this boundary shifts east, suggesting some severe threat could expand into a couple of rows of counties in northwest MN during the next hour or so. Farther southwest across SD, numerous storm mergers have occurred, and storms have evolved into a forward propagating MCS. Damaging wind and hail will remain possible as this cluster continues east next few hours. ..Dial.. 06/06/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2018,
+      "number": 650,
+      "issue_utc": "2018-06-06T06:40Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0650.html",
+      "summary": "Large hail is possible across north-central TX during the next few hours.",
+      "discussion": "A thunderstorm initiated quickly across northwest Collin county and recently underwent a storm split, with both splits likely currently producing severe hail. Deep moisture (i.e. 15.8 g/kg 100-mb mean mixing-ratio on the 00Z FWD sounding) and steep mid-level lapse rates currently support moderate to strong instability across the region. Recent mesoanalysis estimates MUCAPE is currently around 3000 J/kg. Additionally, recent KFWS VAD shows a vertically veering wind profile with 0-3 km SRH over 450 m2/s2 and 0-6 km bulk shear over 45 kt. Even greater SRH is likely being realized by the southwestward moving storm. These factors, coupled with favorable warm-air advection aided inflow, will likely support storm maintenance for the next few hours. Given the elevated character of the storms, the primary severe threat is large hail. Isolated instances of very large hail (i.e. greater than 2 inches in diameter) cannot be ruled out."
+    },
+    {
+      "year": 2018,
+      "number": 651,
+      "issue_utc": "2018-06-06T07:48Z",
+      "topic": "Severe Thunderstorm Watch 156",
+      "url": "https://www.spc.noaa.gov/products/md/2018/md0651.html",
+      "summary": "Strong wind gusts and isolated hail will remain possible across west-central/southwest MN and east-central SD for the next few hours",
+      "discussion": "Organized MCS continues to track southeastward through west-central MN and east-central SD. Estimated motion on the northern portion of this convective system is southeastward (i.e. from about 300 degrees) at 40-45 kt, which is a bit faster than the southern end. Strong wind gusts (i.e. around 35 kt) have been measured across west-central MN. Despite the decrease in instability, updraft strength has remained fairly strong within the northern portion of the line, which is a testament to its well-organized structure. However, the downstream airmass will become increasingly hostile to convective and the general expectation is for a downward trend in intensity to begin soon. Updraft strength within the southern portion of the line over east-central SD has actually increased over the past hour as it has transitioned from an easterly storm motion to more northeasterly motion. Additionally, the strong pressure fall/rise/fall pattern noted in the surface observations is contributing to strong wind gusts well behind the leading edge of the line. Earlier this evening PIR gusts over 50 kt for about an hour and HON recently gusted to 64 kt. Airmass downstream across southwestern MN is a bit more unstable than areas farther north but strong convective inhibition is still expected to result in gradually diminishing storm strength. Even with the expectation for the line to begin weakening, damaging wind gusts and isolated hail will still be possible for the next few hours across both west-central MN and east-central NE/southwest MN. ..Mosier.. 06/06/2018 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "convective_day": "2017-04-30",
+  "valid_start": "2017-04-30T12:00Z",
+  "valid_end": "2017-05-01T12:00Z",
+  "max_risk": "ENH",
+  "product_counts": {
+    "ENH": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2017-04-30",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH",
+      "valid_start": "2017-04-30T13:00Z",
+      "valid_end": "2017-05-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2017/day1otlk_20170430_1300.html",
+      "summary": "Severe thunderstorms capable of damaging winds and tornadoes are expected today into tonight, especially across the central Gulf Coast States. Other severe storms could occur as far north as the Midwest and southern Great Lakes region.",
+      "sections": [
+        {
+          "title": "Lower MS River Valley/Gulf Coast States",
+          "text": "A linearly organized broken cluster of storms is ongoing across along the LA/MS vicinity, where multiple tornadoes have occurred in the pre-dawn hours, and extends southward into south-central LA early this morning. These storms will continue to spread east-northeastward through the morning/afternoon hours. Although high-level winds are not overly strong per regional 12Z soundings, a modest but strengthening westerly component aloft in conjunction with strong low-level shear, including modestly backed southeasterly surface winds, will continue to support a mixed convective mode including embedded supercells/mesovortices capable of tornadoes and damaging winds. A strong tornado cannot be ruled out. See Mesoscale Discussion 611 for additional short-term details. The tornado/damaging wind risk should shift into portions of AL by this afternoon, including the possibility of some regenerative development later this afternoon into early evening particularly on the southern flank of convection/possible outflow amidst moist confluent low-level flow."
+        },
+        {
+          "title": "Midwest/southern Great Lakes and Ohio Valley",
+          "text": "Questions exist regarding the extensiveness and likelihood of appreciable destabilization later today in a scenario that appears otherwise very favorable for severe thunderstorms given ample deep-layer/low-level shear. These uncertainties are related to extensive convection ongoing early today across the middle MS River Valley and lower OH Valley, with an east/northeastward-moving MCV also a factor across eastern IL/northern IN today. Ahead of the cold front, gradual destabilization should occur into this afternoon along the southern/eastern fringes of ongoing precipitation and residual outflows, with the possibility of least some damaging wind/marginally severe hail risk developing this afternoon. As the upstream trough approaches the region and surface low spreads northeastward and deepens, at least a narrow corridor of modest destabilization could allow for late afternoon and evening increase in fast-moving storms capable of a severe risk. ..Guyer/Mosier.. 04/30/2017"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2017,
+      "number": 613,
+      "issue_utc": "2017-04-30T15:06Z",
+      "topic": "Tornado Watch 181",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0613.html",
+      "summary": "The threat for mainly isolated damaging wind and a few tornadoes is expected to persist across the remainder of WW 181 including eastern MS and southeast LA. Based on current trends, a downstream tornado watch will probably be needed prior to 16Z that would include northeast MS and portions of central and northern AL.",
+      "discussion": "Line of strong to severe storms continues advancing east at 35-40 kt through MS with embedded organized structures evident including meso-vortices as well as a book-end vortex and bowing segment over central MS. The 12Z RAOB from Birmingham AL showed limited instability, substantial capping inversion and weak 0-6 km vertical shear. However, winds aloft will gradually strengthen farther east today as a mid-level jet rotates newd through the eastern periphery of upper low circulation. Though widespread multi-layer clouds will slow diabatic warming of boundary layer, at least weak theta-e advection along the strong southerly low-level jet and some cloud breaks should contribute to 500-1000 J/kg MLCAPE and weakening convective inhibition. These processes might be sufficient to sustain a severe threat farther east into AL into the afternoon. ..Dial.. 04/30/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 614,
+      "issue_utc": "2017-04-30T18:21Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0614.html",
+      "summary": "Threat for isolated damaging wind and a couple of tornadoes is expected to increase this afternoon over middle Tennessee into southern Kentucky. Also additional storms farther west across north central AL should eventually move into northeast AL and northwest GA. A ww will likely be issued downstream from ww 182 prior to 19Z.",
+      "discussion": "Early this afternoon a band of convection extends across the western portions of middle TN with more organized activity farther south into northern AL. The downstream atmosphere is only marginally unstable with widespread clouds slowing diabatic warming of the boundary layer. Nevertheless, as temperatures slowly warm through the 80s F MLCAPE from 500-1000 J/kg will become sufficient to support at least a modest threat for organized storms given strengthening deep-layer, unidirectional winds, 30-40 kt effective bulk shear, and around 200 m2/s2 0-1 km storm relative helicity based on current storm motions. The convection is expected to gradually increase or maintain intensity as it develops east next few hours. Storms may organize with embedded meso-vortices and bowing segments posing a risk for isolated damaging wind and a couple of tornadoes."
+    },
+    {
+      "year": 2017,
+      "number": 615,
+      "issue_utc": "2017-04-30T18:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0615.html",
+      "summary": "Isolated damaging wind gusts are possible but the limited severe threat is expected to preclude the need for a watch.",
+      "discussion": "Transient updrafts have been noted for several hours within the warm-air advection regime across the region. Robust development has been largely absent thus far but recent radar and satellite imagery better vertical development across OH where the leading edge of the large-scale height falls are likely impinging on the region. Despite warm and moist surface conditions (i.e. temperatures in the 80s and dewpoints in the low 60s), warm temperatures aloft and poor mid-level lapse rates will limit instability. Shear is strong enough for a few more organized updrafts capable of isolated damaging wind gusts. A wet downburst or two may also occur as a result of storm interactions and the resultant water-loading. However, the general expectation is for the majority of storms to remain sub-severe and the overall severe threat to remain low."
+    },
+    {
+      "year": 2017,
+      "number": 616,
+      "issue_utc": "2017-04-30T19:25Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0616.html",
+      "summary": "Isolated strong wind gusts and marginal hail are possible throughout the remainder of the afternoon.",
+      "discussion": "An isolated thunderstorm developed along the stationary boundary draped from just south of EKN in eastern WV to north of CGE and SBY on the Delmarva Peninsula. This storm is now weakening but, given the persistent convergence along the boundary within the warm and moist airmass over the region, a similar scenario may occur again. Additional thunderstorms may initiate over the higher terrain and then move into the area. Instability will be limited by warm mid-level temperatures by recent mesoanalysis still estimates MLCAPE around 1500 J/kg. Recent LWX VAD show a kinematic environment that is favorable for some updraft organization. Primary negative factor is the neutral or weak height rises across the region and the general dearth of any large-scale forcing for ascent. As a result, updraft maintenance/persistence seems unlikely. Even so, a couple of wet downbursts are possible due to water loading and some marginal hail is possible, particularly with initial development."
+    },
+    {
+      "year": 2017,
+      "number": 617,
+      "issue_utc": "2017-04-30T20:42Z",
+      "topic": "Tornado Watch 182",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0617.html",
+      "summary": "Threat for isolated damaging wind and a couple of tornadoes should persist through early evening, with greatest threat expected from Middle Tennessee, northeast Alabama into northwest GA.",
+      "discussion": "Line of storms from middle TN through central and southwest AL is advancing east at 30-40 kt. The most organized portion of the line with embedded mesovortices and bowing segments extends from middle TN into northeast AL. The downstream atmosphere is only marginally unstable with 500-1000 J/kg MLCAPE. However, surface temperatures are warming into the 80s with steepening low-level lapse rates. Activity is embedded within strong unidirectional southerly winds with 40-45 kt 0-6 km shear and around 250 m2/s2 0-1 km storm relative helicity based on current storm motions. Isolated damaging wind appears to be the primary threat given a dominant linear mode, through a couple of tornadoes remain possible with any embedded supercells or mesovortices. Farther southwest, the more southwesterly orientation of the squall line relative to the mean deep-layer flow has resulted in a tendency for updrafts to develop behind the leading outflow, which has limited the severe threat overall. ..Dial.. 04/30/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    },
+    {
+      "year": 2017,
+      "number": 618,
+      "issue_utc": "2017-04-30T20:58Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0618.html",
+      "summary": "Isolated damaging wind gusts are possible for the next hour or so across portions of central KY.",
+      "discussion": "Recent radar imagery shows a well-defined line of thunderstorms moving across TN and AL moving generally northeastward. Estimated speed along the northern portion this line is around 45 to 50 kt and BNA reported a 44 kt gusts around 20Z. This storm motion takes the northern portion of the line into south-central KY soon. The low-level environment across the region is a bit drier than areas farther south (i.e. dewpoints in the upper 50s and low 60s across central KY versus mid to upper 60s in TN and AL). This is mitigating the overall instability and is expected to result in a general downward/diminishing trend in storm strength over the next few hours. However, the well-developed nature of the convective line and favorable line-parallel orientation to the bulk shear suggests sporadic damaging wind gusts are possible for the next hour or so. Limited/marginal nature of the severe risk is expected to preclude watch issuance but convective trends across the region will be monitored closely."
+    },
+    {
+      "year": 2017,
+      "number": 619,
+      "issue_utc": "2017-05-01T07:09Z",
+      "topic": "Severe potential",
+      "url": "https://www.spc.noaa.gov/products/md/2017/md0619.html",
+      "summary": "A severe-storm risk including a brief tornado and/or localized damaging wind gust may shift eastward across southern AL and the western FL panhandle through the early morning hours.",
+      "discussion": "Some stronger storms have evolved across southwest AL early in the overnight, with other storms exhibiting weak/transient rotation farther south near Mobile Bay vicinity. These storms are occurring near a slow-eastward-moving cold front, with a weak frontal wave (1010 mb surface low) noted across south-central AL. Strong pressure falls of 3-5 mb/2-hours are noted across south-central AL. The primary limiting factor, or at least point of uncertainty, relates to extensive convection and outflow earlier in the day during the late afternoon and early evening. However, in the wake of the prior outflow, a steady thermodynamic recovery appears to be occurring northward into south-central AL where temperatures and dewpoints have risen 3-5 deg F and 2-4 deg F, respectively, over the past two hours. Regional wind profiles (based on WSR-88D VWP data) are sampling strong and veering wind profiles with 0-1 km SRH estimated to be as high as 250-300 m2/s2. While the influence of prior convection should generally be a detrimental factor, it is possible that some additional storm intensification occurs including bowing structures and a few embedded mesovortices/weak supercells with at least some low-end risk for a tornado and/or damaging wind gust. ..Guyer.. 05/01/2017 ...Please see www.spc.noaa.gov for graphic product..."
+    }
+  ]
+}
