@@ -1,0 +1,152 @@
+{
+  "convective_day": "2011-04-21",
+  "valid_start": "2011-04-21T12:00Z",
+  "valid_end": "2011-04-22T12:00Z",
+  "max_risk": "ENH_EQ",
+  "product_counts": {
+    "ENH_EQ": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2011-04-22",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2011-04-22T01:00Z",
+      "valid_end": "2011-04-22T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2011/day1otlk_20110422_0100.html",
+      "summary": "",
+      "sections": [
+        {
+          "title": "THERE IS A SLGT RISK OF SVR TSTMS PORTIONS SW TX TO SWRN OK",
+          "text": "...THERE IS A SLGT RISK OF SVR TSTMS PORTIONS NERN OK/KS/AR/MO..."
+        },
+        {
+          "title": "SYNOPSIS",
+          "text": "BROAD AREA OF CYCLONIC FLOW OVER NWRN CONUS IS ASSOCIATED WITH TWO SHORTWAVE TROUGHS... 1. STRONGER PERTURBATION MOVING SLOWLY EWD ACROSS ERN PORTIONS WA/ORE TOWARD ID...AND 2. LEADING/SRN TROUGH NOW APPARENT IN MOISTURE CHANNEL IMAGERY AND VWP/RAOB DATA OVER UT. AS HEIGHTS FALL TO ITS NW...LEADING TROUGH WILL MOVE EWD ACROSS CENTRAL ROCKIES TO ERN WY...BLACK HILLS AND NEB PANHANDLE REGION. BY 12Z...LOW-AMPLITUDE TROUGHING...WITHOUT SIGNIFICANT VORTICITY CONCENTRATIONS...SHOULD EXTEND SWD ACROSS NM AND FAR W TX. AT SFC...QUASISTATIONARY FRONT WAS ANALYZED AT 23Z FROM SEA BREEZE INTERSECTION OVER SERN GA WWD OVER SRN AL...BECOMING DIFFUSED BY OUTFLOW FROM EARLIER CONVECTION OVER SRN PORTIONS MS/AL. BOUNDARY THEN BECAME BETTER-DEFINED AGAIN AS WARM FRONT ACROSS EXTREME NRN LA...NE TX...JUST N OF DFW METROPLEX...THEN WSWWD TO JUST N ABI. FRONT MERGED WITH DRYLINE NEAR SERN LYNN COUNTY TX. BLENDED WARM FRONT/DRYLINE EXTENDED NWD ACROSS WRN SOUTH-PLAINS OF TX AND WRN PANHANDLE TO SFC LOW OVER SERN CO. SECONDARY/FRONTOGENETIC ZONE WAS EVIDENT FROM NEAR ADM WNWWD NEAR LTS...THEN NWWD ACROSS N-CENTRAL PORTIONS TX PANHANDLE. EXCEPT WHERE LOCALLY MODULATED BY OUTFLOW...SRN BOUNDARY SHOULD WE"
+        },
+        {
+          "title": "NERN OK/KS/AR/MO",
+          "text": "LARGE COMPLEX OF MAINLY NON-SEVERE CONVECTION IS MOVING NEWD ACROSS OZARKS REGION ATTM...ALTHOUGH OCNL SVR HAIL CANNOT BE RULED OUT FROM CORES ALONG ITS SRN/WRN FRINGES WHERE ACCESS TO MOST BUOYANT/ELEVATED INFLOW WILL REMAIN. REF SPC WW 175 AND ACCOMPANYING MESOSCALE DISCUSSIONS FOR NEAR-TERM GUIDANCE. OVERNIGHT...EXPECT COMBINATION OF HEIGHT FALLS...STRENGTHENING DEEP-LAYER SHEAR...AND INCREASING WAA/MOISTURE TRANSPORT INTO NRN PARTS OF THIS REGION...AHEAD OF APCHG SHORTWAVE TROUGH. AS THIS OCCURS...ELEVATED WARM FRONTOGENETIC FORCING AND ISENTROPIC ASCENT TO LFC EACH SHOULD STRENGTHEN AS WELL...WITH CORRESPONDING DEVELOPMENT/INCREASE IN COVERAGE/INTENSITY OF TSTMS OVER LOWER MO VALLEY REGION."
+        },
+        {
+          "title": "SW TX TO SWRN OK",
+          "text": "SEVERAL STG-SVR TSTMS...INCLUDING A FEW SUPERCELLS CAPABLE OF VARY LARGE/DAMAGING HAIL AND TRANSIENT TORNADOES...ARE APPARENT E OF DRYLINE OVER WW 176. OPTIMAL COMBINATION OF BUOYANCY AND SHEAR SHOULD REMAIN INVOF WARM-FRONTAL ZONE FROM SNK/ABI AREAS EWD TOWARD SEP/MWL AREA...ALONG WITH EFFECTIVE SRH AND LOW-LEVEL VORTICITY IN SUPPORT OF SUPERCELLS. INCREASING CAPPING WITH TIME...PER MODIFIED 00Z FWD/DRT RAOBS FOR SFC COOLING...CASTS SOME UNCERTAINTY ON HOW FAR E ACTIVITY CAN PERSIST ACROSS/BEYOND WW AREA. SRN COMPLEX MAY GROW UPSCALE SUFFICIENTLY TO ORGANIZE COLD POOL AND PERSIST ACROSS PORTIONS EDWARDS PLATEAU/SWRN HILL COUNTRY. SEE WW AND ATTENDANT MESOSCALE DISCUSSIONS FOR NOWCAST INFORMATION ON SVR THREAT IN THIS REGION. MODIFIED RAOBS AND FCST SOUNDINGS SUGGEST ENVIRONMENT SUPPORTING ELEVATED SUPERCELLS AND LARGE HAIL POTENTIAL N OF SFC FRONT THROUGH MUCH OF TONIGHT...MAIN UNCERTAINTIES INVOLVING INITIATION AND COVERAGE. CONVECTION NEAR TRIPLE POINT MAY MOVE ALONG OR N OF FRONT AS FRONT LIFTS NWD...AND/OR ADDITIONAL TSTMS MAY DEVELOP N OF FRONT. HODOGRAPHS APPEAR RATHER LARGE AND CURVED FOR SUSTAINED LEFT-SPLITS...AND ARE FCST TO GROW BIGGER OVERNIGHT AS LLJ STRENGTHENS TO 40"
+        },
+        {
+          "title": "CENTRAL HIGH PLAINS",
+          "text": "ISOLATED STG-SVR GUSTS ARE STILL POSSIBLE FOR ANOTHER COUPLE OF HOURS FROM HIGH-BASED CONVECTION MOVING OVER DEEPLY WELL-MIXED BOUNDARY LAYER. HOWEVER...LARGE DEWPOINT DEPRESSIONS AT SFC WILL CONTRIBUTE TO SHARP DIABATIC COOLING/STABILIZATION AND WEAKENING OF WIND THREAT THIS EVENING. ..EDWARDS.. 04/22/2011"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2011,
+      "number": 502,
+      "issue_utc": "2011-04-21T15:00Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0502.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 503,
+      "issue_utc": "2011-04-21T19:08Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0503.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 504,
+      "issue_utc": "2011-04-21T19:19Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0504.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 505,
+      "issue_utc": "2011-04-21T19:25Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0505.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 506,
+      "issue_utc": "2011-04-21T20:23Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0506.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 507,
+      "issue_utc": "2011-04-21T21:40Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0507.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 508,
+      "issue_utc": "2011-04-21T22:10Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 176",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0508.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 509,
+      "issue_utc": "2011-04-21T22:52Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0509.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 510,
+      "issue_utc": "2011-04-21T23:13Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 175",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0510.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 511,
+      "issue_utc": "2011-04-22T02:15Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 176",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0511.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 512,
+      "issue_utc": "2011-04-22T04:27Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0512.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 513,
+      "issue_utc": "2011-04-22T10:18Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 177",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0513.html",
+      "summary": "",
+      "discussion": ""
+    }
+  ]
+}

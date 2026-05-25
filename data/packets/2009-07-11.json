@@ -1,0 +1,167 @@
+{
+  "convective_day": "2009-07-11",
+  "valid_start": "2009-07-11T12:00Z",
+  "valid_end": "2009-07-12T12:00Z",
+  "max_risk": "ENH_EQ",
+  "product_counts": {
+    "ENH_EQ": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2009-07-11",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2009-07-11T13:00Z",
+      "valid_end": "2009-07-12T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2009/day1otlk_20090711_1300.html",
+      "summary": "",
+      "sections": [
+        {
+          "title": "THERE IS A SLGT RISK OF SVR TSTMS OVER THE CENTRAL HIGH PLAINS",
+          "text": "...NORTHEAST ACROSS THE CENTRAL APPALACHIANS/OH RIVER VALLEY... MID LEVEL HEIGHT FALLS WILL OVERSPREAD THE LOWER GREAT LAKES AND MUCH OF THE NORTHEAST THIS PERIOD AHEAD OF STRONG SHORTWAVE TROUGH AND ASSOCIATED MID/UPPER LEVEL JET ALREADY NOSING ACROSS THE GREAT LAKES REGION. MORNING VISIBLE IMAGERY INDICATES MOSTLY CLEAR/PARTLY CLOUDY SKIES WILL SUPPORT HEATING THROUGH THE 70S F INTO MUCH OF PA/NY AHEAD OF SURFACE COLD FRONT NOW ADVANCING EWD ACROSS ONTARIO/LOWER MI...WITH 80-90F TEMPS SWWD INTO THE OH RIVER VALLEY. AS AIR MASS DESTABILIZES THROUGH THE MID/LATE MORNING...SEVERE THREAT SHOULD STEADILY INCREASE INTO THE EARLY AFTERNOON FROM PORTIONS OF OH INTO WRN-CENTRAL PA/NY. FORECAST SOUNDINGS INDICATE SHEAR WILL BECOME QUITE STRONG WITH EFFECTIVE SHEAR OF 40-50 KT SUPPORTING A THREAT OF SUPERCELLS AND SMALL BOW ECHOES. ACTIVITY WILL INCREASE IN COVERAGE AND INTENSITY THROUGH THE DAY AND SPREAD ESEWD WITH SEVERE THREAT WANING AFTER DARK. LARGE HAIL AND DAMAGING WINDS WILL BE PRIMARY THREATS...ALTHOUGH STRONG LOW LEVEL SHEAR UNDER 35-40 KT SWLY LLJ SUGGESTS A FEW TORNADOES REMAIN POSSIBLE. FARTHER SWWD INTO THE OH RIVER VALLEY...REGION WILL REMAIN ON FRINGES OF LARGE SCALE SUPPOR"
+        },
+        {
+          "title": "CENTRAL HIGH PLAINS INTO THE NRN HIGH PLAINS",
+          "text": "STRONG-SEVERE STORMS ARE ONGOING AT DAYBREAK OVER SWRN SD WHICH ARE EXPECTED TO WEAKEN DURING THE MORNING. MORE ROBUST ACTIVITY SHOULD AWAIT AFTERNOON HEATING WITHIN MOIST UPSLOPE REGIME ACROSS MUCH OF THE CENTRAL HIGH PLAINS. COMBINATION OF UPSLOPE FLOW AND ASCENT AHEAD OF SUBTLE IMPULSES ROTATING AROUND PERIPHERY OF MID/UPPER LEVEL HIGH PRESSURE OVER THE SRN HIGH PLAINS SHOULD SUPPORT INCREASING STORMS LATER TODAY OFF THE HIGHER TERRAIN. SHEAR WILL BE MORE THAN ADEQUATE FOR SUPERCELLS...WITH EVENTUAL EVOLUTION INTO A FEW CLUSTERS/LINES PERSISTING EWD INTO THE CENTRAL PLAINS WITH DIMINISHING SEVERE THREAT OVERNIGHT. OVER THE NRN HIGH PLAINS...WV IMAGERY INDICATES SHORTWAVE TROUGH DIGGING SEWD ACROSS THE CANADIAN PRAIRIES EARLY THIS MORNING WHICH IS FORECAST TO SKIRT ND/NRN MN OVERNIGHT. REGION REMAINS UNDER INFLUENCE OF SURFACE HIGH PRESSURE THIS MORNING WITH RESULTANT DRY SURFACE CONDITIONS. HOWEVER...ALONG WRN PERIPHERY OF THIS HIGH SUFFICIENT HEATING/MOISTENING MAY OCCUR AHEAD OF DIGGING IMPULSE FOR MARGINAL INSTABILITY AND THE POTENTIAL FOR A FEW STRONGER STORMS INTO THE EVENING. SWLY LLJ IS FORECAST TO INTENSIFY ACROSS SD OVERNIGHT AND MAY FEED ELEVATED TSTMS INTO PORTIONS OF"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2009,
+      "number": 1516,
+      "issue_utc": "2009-07-11T12:14Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1516.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1517,
+      "issue_utc": "2009-07-11T14:31Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1517.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1518,
+      "issue_utc": "2009-07-11T16:09Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1518.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1519,
+      "issue_utc": "2009-07-11T18:37Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 570",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1519.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1520,
+      "issue_utc": "2009-07-11T20:37Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1520.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1521,
+      "issue_utc": "2009-07-11T21:35Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1521.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1522,
+      "issue_utc": "2009-07-11T23:06Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1522.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1523,
+      "issue_utc": "2009-07-11T23:20Z",
+      "topic": "HEAVY RAINFALL VALID 112320Z - 120115Z COMPLEX SFC FRONTAL ZONE STRETCHES WSWWD ACROSS IL/MO/KS",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1523.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1524,
+      "issue_utc": "2009-07-12T01:01Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1524.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1525,
+      "issue_utc": "2009-07-12T01:46Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 571",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1525.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1526,
+      "issue_utc": "2009-07-12T03:25Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 571",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1526.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1527,
+      "issue_utc": "2009-07-12T05:40Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 572",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1527.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1528,
+      "issue_utc": "2009-07-12T07:30Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1528.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1529,
+      "issue_utc": "2009-07-12T08:05Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 572",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1529.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1530,
+      "issue_utc": "2009-07-12T09:48Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1530.html",
+      "summary": "",
+      "discussion": ""
+    }
+  ]
+}

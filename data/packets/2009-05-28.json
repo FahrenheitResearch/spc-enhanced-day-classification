@@ -1,0 +1,107 @@
+{
+  "convective_day": "2009-05-28",
+  "valid_start": "2009-05-28T12:00Z",
+  "valid_end": "2009-05-29T12:00Z",
+  "max_risk": "ENH_EQ",
+  "product_counts": {
+    "ENH_EQ": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2009-05-28",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2009-05-28T16:30Z",
+      "valid_end": "2009-05-29T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2009/day1otlk_20090528_1630.html",
+      "summary": "",
+      "sections": [
+        {
+          "title": "THERE IS A SLGT RISK OF SVR TSTMS IN SWRN TX",
+          "text": "...SYNOPSIS... THE MAIN FEATURE OF CONVECTIVE SIGNIFICANCE THIS AFTERNOON/EVENING WILL BE A MID LEVEL TROUGH SHIFTING SLOWLY EWD ACROSS THE OH/TN VALLEYS SWD INTO THE GULF COASTAL STATES. MORNING WV IMAGERY SHOWED SHORTWAVE TROUGHS EMBEDDED WITHIN THIS TROUGH OVER KY AND NRN AR/MO. A HIGH LEVEL SPEED MAX AT 80-100 KT WAS LOCATED ON THE SOUTH SIDE OF THE AR/MO SYSTEM...STRETCHING FROM CENTRAL OK INTO WRN TN. AT THE SURFACE...WEAK SURFACE LOW WAS LOCATED IN FAR SRN IL...WITH A COLD FRONT EXTENDING NEWD FROM THE LOW INTO NWRN OH...AND SWD ACROSS FAR NWRN AL/ERN MS."
+        },
+        {
+          "title": "CENTRAL APPALACHIANS SWWD INTO AL/GA",
+          "text": "SUNSHINE THROUGH SCT-BROKEN CLOUDS HAS WARMED TEMPERATURES INTO THE MID/UPPER 70S FROM AL NEWD INTO SRN KY. AS READINGS WARM INTO THE 80S...MID/UPPER 60S DEWPOINTS WILL CONTRIBUTE TO MLCAPE VALUES NEAR 2000 J/KG. THOUGH WINDS THROUGH THE LOWER HALF OF THE TROPOSPHERE ARE GENERALLY WLY...STRENGTHENING WINDS ALOFT... ESPECIALLY BETWEEN 400 AND 200 MB...ARE EXPECTED TO PROVIDE SUFFICIENT DEEP LAYER SHEAR FOR ORGANIZED STRONG/SEVERE LINE SEGMENTS DURING THE AFTERNOON/EARLY EVENING HOURS. THE DEGREE OF INSTABILITY AND UNDIRECTIONAL WLY WINDS COMBINED WITH MID LEVEL DRYING...AS INDICATED ON 12Z LIT/JAN/SHV SOUNDINGS...SHOULD FAVOR WIND DAMAGE WITH LINE SEGMENTS. HOWEVER...500 MB TEMPERATURES AROUND -10C AND 500-700 MB LAPSE RATES AT 7C/KM MAY ALSO SUPPORT HAIL. FARTHER NEWD ACROSS OH AND WRN PA/NY...MORE PERSISTENT CLOUDS WILL LIMIT INSTABILITY COMPARED TO AREAS FARTHER SOUTH. HOWEVER... FORCING ASSOCIATED WITH UPPER TROUGH AND TEMPERATURES/DEWPOINTS IN THE 70S/60S MAY YIELD A FEW STORMS WITH SEVERE HAIL AND STRONG WINDS. FARTHER E ACROSS THE MID/SRN ATLANTIC STATES...ISOLATED STRONG STORMS ARE ALSO POSSIBLE...BUT WEAKER SHEAR SHOULD RESULT IN LESS ORGANIZED/PERSISTENT STORMS THAN IN THE"
+        },
+        {
+          "title": "SWRN TX AND THE RIO GRANDE VALLEY",
+          "text": "LINGERING LOW-LEVEL MOISTURE N OF STALLED FRONT IN MEXICO...PLUS COMBINATION OF WEAK ASCENT ASSOCIATED WITH SRN JET STREAM AND DAYTIME HEATING SHOULD SUPPORT THUNDERSTORM DEVELOPMENT ACROSS SWRN TX BY LATE AFTERNOON. VEERING WIND PROFILES IN THE LOWER 3 KM AND MLCAPE VALUES OF 1000-2000 J/KG WOULD SUPPORT A FEW STORMS WITH HAIL AND STRONG OUTFLOW WINDS."
+        },
+        {
+          "title": "FL",
+          "text": "STORMS HAVE ALREADY DEVELOPED OVER THE WRN COAST OF THE PENINSULA AND THE WLY WINDS ALOFT WILL CARRY THESE STORMS TOWARD THE EAST COAST. THOUGH DEEP LAYER SHEAR IS WEAK...MLCAPES AOA 2000 J/KG WILL SUPPORT SHORT LIVED WIND/HAIL EVENTS."
+        },
+        {
+          "title": "ORE/NERN CA",
+          "text": "DAYTIME HEATING AND LINGERING MID LEVEL MOISTURE AROUND THE NWRN PERIPHERY OF THE MID LEVEL RIDGE IN NV ARE EXPECTED TO SUPPORT WIDELY SCATTERED THUNDERSTORM DEVELOPMENT OVER THE HIGHER TERRAIN OF SRN ORE AND NERN CA LATE TODAY. DESPITE WEAK INSTABILITY...MID LEVEL LAPSE RATES IN EXCESS OF 8 C/KM...AND INVERTED-V SOUNDINGS SHOULD YIELD STORMS WITH STRONG GUSTY WINDS. ..IMY/GRAMS.. 05/28/2009"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2009,
+      "number": 882,
+      "issue_utc": "2009-05-28T17:28Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md0882.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 883,
+      "issue_utc": "2009-05-28T19:41Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md0883.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 884,
+      "issue_utc": "2009-05-28T19:49Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md0884.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 885,
+      "issue_utc": "2009-05-28T20:54Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 313",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md0885.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 886,
+      "issue_utc": "2009-05-28T23:34Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 313",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md0886.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 887,
+      "issue_utc": "2009-05-29T00:36Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md0887.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 888,
+      "issue_utc": "2009-05-29T07:16Z",
+      "topic": "HEAVY RAINFALL VALID 290716Z - 290945Z SHORT-TERM HEAVY RAIN THREAT WILL CONTINUE WITH MCS AS IT MOVES OUT OF SRN HILL COUNTRY OVER SAT-HDO-UVA AREAS",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md0888.html",
+      "summary": "",
+      "discussion": ""
+    }
+  ]
+}

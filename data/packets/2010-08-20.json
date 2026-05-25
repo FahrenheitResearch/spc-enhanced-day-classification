@@ -1,0 +1,119 @@
+{
+  "convective_day": "2010-08-20",
+  "valid_start": "2010-08-20T12:00Z",
+  "valid_end": "2010-08-21T12:00Z",
+  "max_risk": "ENH_EQ",
+  "product_counts": {
+    "ENH_EQ": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2010-08-20",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2010-08-20T16:30Z",
+      "valid_end": "2010-08-21T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2010/day1otlk_20100820_1630.html",
+      "summary": "",
+      "sections": []
+    },
+    {
+      "issued_product_date": "2010-08-20",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2010-08-20T20:00Z",
+      "valid_end": "2010-08-21T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2010/day1otlk_20100820_2000.html",
+      "summary": "",
+      "sections": [
+        {
+          "title": "UPPER GREAT LAKES TO LOWER MO VALLEY/OZARKS",
+          "text": "FEW CHANGES TO PRIOR OUTLOOK REASONING. DAMAGING WINDS VIA MULTICELLS/SOME SUPERCELLS ARE EXPECTED TO REMAIN THE PRIMARY CONCERN WITHIN A MODERATE TO STRONGLY UNSTABLE PRE-COLD FRONTAL AIRMASS. SOME DISCRETE STORMS/SUPERCELLS CAPABLE OF SEVERE HAIL WILL ALSO MAINLY BE POSSIBLE ACROSS WI INTO THE UP OF MICH/FAR NORTHERN LOWER MI...WITH A TORNADO RISK AS WELL IN VICINITY OF THE WARM FRONT. REFERENCE EXISTING SEVERE TSTM WATCHES 627/628 AND SUBSEQUENT MESOSCALE DISCUSSIONS/WATCHES FOR ADDITIONAL SHORT TERM DETAILS. ..GUYER.. 08/20/2010 .PREV DISCUSSION... /ISSUED 1107 AM CDT FRI AUG 20 2010/ A BROAD UPPER TROUGH IS TRACKING ACROSS THE CENTRAL UNITED STATES TODAY...WITH WATER VAPOR IMAGERY SHOWING THE PRIMARY MID LEVEL VORT MAX OVER KS/NEB. AS THIS FEATURE MOVES EASTWARD...AN ASSOCIATED WEAK COLD FRONT WILL PROVIDE THE PRIMARY FOCUS FOR AFTERNOON AND EVENING THUNDERSTORMS FROM UPPER MI/WI INTO KS/OK. POCKETS OF STRONG HEATING AHEAD OF THE FRONT WILL COMBINE WITH DEWPOINTS WELL INTO THE 70S TO YIELD MLCAPE OVER 2500 J/KG. EFFECTIVE SHEAR PROFILES WILL ALSO BE FAVORABLE FOR ORGANIZED MULTICELL STORMS WITH EMBEDDED SUPERCELLS/BOW ECHOES POSSIBLE. DAMAGING WINDS WILL BE THE MAIN THREAT...W"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2010,
+      "number": 1726,
+      "issue_utc": "2010-08-20T16:29Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1726.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1727,
+      "issue_utc": "2010-08-20T18:33Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1727.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1728,
+      "issue_utc": "2010-08-20T20:18Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 627",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1728.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1729,
+      "issue_utc": "2010-08-20T20:56Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1729.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1730,
+      "issue_utc": "2010-08-20T22:20Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 628",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1730.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1731,
+      "issue_utc": "2010-08-20T22:26Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1731.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1732,
+      "issue_utc": "2010-08-21T00:46Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 628",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1732.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1733,
+      "issue_utc": "2010-08-21T01:33Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 630",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1733.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1734,
+      "issue_utc": "2010-08-21T03:19Z",
+      "topic": "HEAVY RAINFALL VALID 210319Z - 210445Z A THREAT FOR HEAVY RAINFALL WILL BE PRESENT ACROSS CNTRL MO LATE THIS EVENING INTO THE OVERNIGHT PERIOD. RAINFALL RATES OF 1 TO 2 INCHES PER HOUR WILL BE POSSIBLE WITH THE MORE INTENSE AND SLOWER MOVING THUNDERSTORMS. A SERIES OF SHORT-LINE SEGMENTS ONGOING IN WCNTRL MO WILL CONTINUE TO MOVE EWD ALONG A GRADIENT OF MODERATE INSTABILITY. OBJECTIVE ANALYSIS SUGGESTS MLCAPE VALUES INCREASE INTO THE 2000 TO 3000 J/KG RANGE ACROSS SRN MO SUGGESTING THE CLUSTER OF STORMS SHOULD HAVE PLENTY OF INSTABILITY TO BE MAINTAINED FOR SEVERAL MORE HOURS. GPS PRECIPITABLE WATER VALUES ARE MEASURED AT GREATER THAN 2 INCHES ACROSS CNTRL MO WHICH ALONG WITH SFC DEWPOINTS IN THE LOWER TO MID 70S F SHOULD PROMOTE VERY HEAVY RAINFALL WITH THE SLOWER MOVING LINE-SEGMENTS. RAINFALL RATES OF 1 INCH PER HOUR SHOULD EXIST WITH THE STRONGER CELLS WITH LOCALLY 2 INCHES PER HOUR POSSIBLE. ..BROYLES.. 08/21/2010 ATTN",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1734.html",
+      "summary": "",
+      "discussion": ""
+    }
+  ]
+}

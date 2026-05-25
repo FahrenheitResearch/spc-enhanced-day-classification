@@ -1,0 +1,145 @@
+{
+  "convective_day": "2009-08-14",
+  "valid_start": "2009-08-14T12:00Z",
+  "valid_end": "2009-08-15T12:00Z",
+  "max_risk": "ENH_EQ",
+  "product_counts": {
+    "ENH_EQ": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2009-08-14",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2009-08-14T16:30Z",
+      "valid_end": "2009-08-15T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2009/day1otlk_20090814_1630.html",
+      "summary": "",
+      "sections": [
+        {
+          "title": "THERE IS A SLGT RISK OF SVR TSTMS IN THE WESTERN NEB AREA",
+          "text": "....NRN PLAINS... AT 16Z...A SURFACE LOW WAS LOCATED ABOUT HALFWAY BETWEEN RAP/BIS IN NWRN SD. A COLD FRONT TRAILED SWWD INTO NERN WY...WITH A WARM FRONT EXTENDING NEWD FROM THE LOW INTO NRN MN. NORTH OF THIS BOUNDARY...PERSISTENT STRONG TO OCCASIONALLY SEVERE STORMS WERE MOVING ENEWD THROUGH FAR NWRN MN. LOW LEVEL JET NEAR 25 KT IS LIKELY TO MAINTAIN THIS CLUSTER OF STORMS ACROSS NRN MN THROUGH THE AFTERNOON. HOWEVER...CONVECTION IS EXPECTED TO REMAIN NORTH OF SURFACE BOUNDARY/CAPPING INVERSION...SO SEVERE THREAT SHOULD PRIMARILY BE HAIL. SOUTH OF QUASI-STATIONARY FRONT...STRONG HEATING OVER THE WARM SECTOR SHOULD INCREASE THE CONVERGENCE NEAR THE FRONT. STRONGLY CAPPED MORNING SOUNDINGS ACROSS ND/MN SHOULD INHIBIT SURFACE BASED CONVECTION THROUGH MOST OF THE DAY. HOWEVER...INCREASING LOW LEVEL CONVERGENCE AND FORCING ALOFT ARE EXPECTED TO INITIATE STORMS BY LATE AFTERNOON. ALTHOUGH THE STRONGER WINDS ALOFT/SHEAR ARE EXPECTED TO REMAIN NORTH OF THE FRONT...THE COMBINATION OF STRONG INSTABILITY...MLCAPES UP TO 3000 J/KG AND DEEP LAYER SHEAR AT 30-40 KT WILL BE SUFFICIENT AT LEAST FOR STORMS WITH SOME MID LEVEL ROTATION. THE THERMODYNAMIC ENVIRONMENT LOOKS MOST SUITED FOR SEVERE HAI"
+        },
+        {
+          "title": "NRN ROCKIES",
+          "text": "STRONGER FORCING ASSOCIATED WITH AN UPPER THERMAL TROUGH AND 50-60 KT MID LEVEL JET MAX WILL SPREAD EWD ACROSS MT INTO THE EVENING HOURS. ALSO...MODELS SUGGEST A SHARP BAROCLINIC ZONE WILL DEVELOP IN ASSOCIATION WITH THESE FEATURES AND BE LOCATED IN CENTRAL MT BY 21-00Z. SINCE THIS REGION WILL BE NORTH OF INITIAL SURFACE FRONT IN WY/SD...INSTABILITY WILL BE MARGINAL WITH MUCAPES FROM 500-1000 J/KG. HOWEVER...STRONG LINEAR FORCING ALONG BAROCLINIC ZONE AND UNIDIRECTIONAL SWLY WINDS ALOFT SUGGEST A SQUALL LINE WILL EMERGE ALONG DEVELOPING BOUNDARY...WITH WIND DAMAGE THE MAIN THREAT. THE STRONG FORCING IS LIKELY TO SUPPORT THIS COMPLEX OF STORMS ENEWD INTO ERN MT/WRN ND TONIGHT."
+        },
+        {
+          "title": "SRN/CENTRAL HIGH PLAINS",
+          "text": "MID/UPPER LEVEL VORT/SHORTWAVE TROUGH WAS WELL DEFINED ON MORNING ANALYSIS AND WV IMAGERY MOVING THROUGH WRN CO/NWRN NM...AND IS FORECAST TO MOVE INTO ERN CO BY LATE AFTERNOON. MOISTURE WAS EVIDENT ACROSS THE CENTRAL/SRN HIGH PLAINS FROM 925-700 MB...WITH PW VALUES BETWEEN 1-1.5 INCHES. DESPITE SOME MORNING MID/HIGH CLOUDS...DIURNAL HEATING AND LIFT ASSOCIATED WITH UPPER TROUGH SHOULD BE FAVORABLE FOR CONVECTION TO DEVELOP DURING THE MID TO LATE AFTERNOON HOURS. MODERATE TO STRONG INSTABILITY COMBINED WITH APPROACHING UPPER WAVE AND 20-30 MID LEVEL WINDS MAY SUPPORT A FEW SEVERE STORMS. THE THREAT APPEARS A LITTLE GREATER ACROSS FAR NERN CO/NWRN KS AND WRN NEB WHERE THE LIFT SHOULD BE THE GREATEST. ..IMY/SMITH.. 08/14/2009"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2009-08-14",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2009-08-14T20:00Z",
+      "valid_end": "2009-08-15T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2009/day1otlk_20090814_2000.html",
+      "summary": "",
+      "sections": [
+        {
+          "title": "NRN ROCKIES",
+          "text": "STRONGER FORCING ASSOCIATED WITH AN UPPER THERMAL TROUGH AND 50-60 KT MID LEVEL JET MAX WILL SPREAD EWD ACROSS MT INTO THE EVENING HOURS. ALSO...MODELS SUGGEST A SHARP BAROCLINIC ZONE WILL DEVELOP IN ASSOCIATION WITH THESE FEATURES AND BE LOCATED IN CENTRAL MT BY 21-00Z. SINCE THIS REGION WILL BE NORTH OF INITIAL SURFACE FRONT IN WY/SD...INSTABILITY WILL BE MARGINAL WITH MUCAPES FROM 500-1000 J/KG. HOWEVER...STRONG LINEAR FORCING ALONG BAROCLINIC ZONE AND UNIDIRECTIONAL SWLY WINDS ALOFT SUGGEST A SQUALL LINE WILL EMERGE ALONG DEVELOPING BOUNDARY...WITH WIND DAMAGE THE MAIN THREAT. THE STRONG FORCING IS LIKELY TO SUPPORT THIS COMPLEX OF STORMS ENEWD INTO ERN MT/WRN ND TONIGHT."
+        },
+        {
+          "title": "SRN/CENTRAL HIGH PLAINS",
+          "text": "MID/UPPER LEVEL VORT/SHORTWAVE TROUGH WAS WELL DEFINED ON MORNING ANALYSIS AND WV IMAGERY MOVING THROUGH WRN CO/NWRN NM...AND IS FORECAST TO MOVE INTO ERN CO BY LATE AFTERNOON. MOISTURE WAS EVIDENT ACROSS THE CENTRAL/SRN HIGH PLAINS FROM 925-700 MB...WITH PW VALUES BETWEEN 1-1.5 INCHES. DESPITE SOME MORNING MID/HIGH CLOUDS...DIURNAL HEATING AND LIFT ASSOCIATED WITH UPPER TROUGH SHOULD BE FAVORABLE FOR CONVECTION TO DEVELOP DURING THE MID TO LATE AFTERNOON HOURS. MODERATE TO STRONG INSTABILITY COMBINED WITH APPROACHING UPPER WAVE AND 20-30 MID LEVEL WINDS MAY SUPPORT A FEW SEVERE STORMS. THE THREAT APPEARS A LITTLE GREATER ACROSS FAR NERN CO/NWRN KS AND WRN NEB WHERE THE LIFT SHOULD BE THE GREATEST."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2009,
+      "number": 1882,
+      "issue_utc": "2009-08-14T15:25Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1882.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1883,
+      "issue_utc": "2009-08-14T19:03Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1883.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1884,
+      "issue_utc": "2009-08-14T19:32Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1884.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1885,
+      "issue_utc": "2009-08-14T20:42Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1885.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1886,
+      "issue_utc": "2009-08-14T23:10Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 702",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1886.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1887,
+      "issue_utc": "2009-08-15T00:45Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 703",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1887.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1888,
+      "issue_utc": "2009-08-15T01:37Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 704",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1888.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1889,
+      "issue_utc": "2009-08-15T04:47Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 705",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1889.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1890,
+      "issue_utc": "2009-08-15T05:05Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1890.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2009,
+      "number": 1891,
+      "issue_utc": "2009-08-15T07:31Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2009/md1891.html",
+      "summary": "",
+      "discussion": ""
+    }
+  ]
+}

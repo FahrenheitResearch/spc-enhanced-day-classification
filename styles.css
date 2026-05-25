@@ -349,6 +349,7 @@ tbody tr.selected {
   font-weight: 850;
 }
 
+.risk.ENH_EQ { background: #ecfdf5; color: #0f6848; }
 .risk.ENH { background: #fff1d6; color: #824600; }
 .risk.MDT { background: #ffe2d6; color: #8c260a; }
 .risk.HIGH { background: #ffe0ef; color: #8d1147; }

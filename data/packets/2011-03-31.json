@@ -1,0 +1,79 @@
+{
+  "convective_day": "2011-03-31",
+  "valid_start": "2011-03-31T12:00Z",
+  "valid_end": "2011-04-01T12:00Z",
+  "max_risk": "ENH_EQ",
+  "product_counts": {
+    "ENH_EQ": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2011-03-31",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2011-03-31T13:00Z",
+      "valid_end": "2011-04-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2011/day1otlk_20110331_1300.html",
+      "summary": "",
+      "sections": [
+        {
+          "title": "FL",
+          "text": "ACTIVE THUNDERSTORMS HAVE REDEVELOPED OVERNIGHT IN THE NERN GULF OF MEXICO AND MOVED INLAND ACROSS NRN FL PENINSULA AHEAD OF THE LARGE SCALE TROUGH SWINGING ACROSS THE SERN U.S. TODAY. WHILE THE AIR MASS OVER THE GULF IS VERY MOIST AND UNSTABLE...PREVIOUS CONVECTIVE ACTIVITY HAD TEMPORARILY STABILIZED THE FL PENINSULA. HOWEVER WITH THE 40KT LOW LEVEL JET AND STRONG DEEP LAYER SHEAR PER 12Z TBW SOUNDING...FAST MOVING BOWING SEGMENTS HAVE ALREADY TRAVERSED THE CENTRAL PENINSULA. THERE IS NOW AN EFFECTIVE E/W BOUNDARY EXTENDING FROM N OF MLB TO TPA THAT WILL FOCUS ADDITIONAL SEVERE THUNDERSTORMS AS THE BOUNDARY DEVELOPS SWD THRU THE PENINSULA INTO THE AFTERNOON. WITH THE VERY STRONG SHEAR ALREADY IN PLACE EMBEDDED SUPERCELLS WILL LIKELY BE ASSOCIATED WITH THE LINE SEGMENTS. WITH HEATING S OF CONVECTION MLCAPES WILL CLIMB TO ABOVE 1500 J/KG BY LATER MORNING INCREASING THE TORNADO POTENTIAL WITH ANY SUPERCELL THAT DEVELOPS. PRIMARILY ELEVATED STORMS WILL SPREAD NEWD AHEAD OF SFC LOW ACROSS NERN FL AND COASTAL AREA OF GA AND SRN SC. A FEW SEVERE STORMS ARE LIKELY IN THIS REGION THRU MID AFTERNOON GIVEN THE MUCAPES AROUND 500 AND STEEP MID LEVEL LAPSE RATES. AS THE SFC LOW MOVES NEWD TO O"
+        }
+      ]
+    },
+    {
+      "issued_product_date": "2011-03-31",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2011-03-31T16:30Z",
+      "valid_end": "2011-04-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2011/day1otlk_20110331_1630.html",
+      "summary": "",
+      "sections": [
+        {
+          "title": "FL PENINSULA",
+          "text": "A ENE-WSW ORIENTED QUASI-LINEAR CONVECTIVE COMPLEX...WITH EMBEDDED BOWS/SUPERCELLS...WILL CONTINUE TO DEVELOP INLAND/MOVE EASTWARD ACROSS MAINLY THE CENTRAL FL PENINSULA THROUGH EARLY/MID AFTERNOON. ASSOCIATED OUTFLOW-REINFORCED EFFECTIVE BOUNDARY WILL CONTINUE TO BE SHUNTED SLOWLY SOUTHWARD BY CONTINUOUS STORM REGENERATION/SUBSEQUENT OUTFLOW...WITH THE BRUNT OF THE SEVERE THREAT FOCUSED IN VICINITY OF THE BOUNDARY. THAT SAID...SOME ADDITIONAL/SEMI-DISCRETE DEVELOPMENT CANNOT BE RULED OUT IN THE ADJACENT VERY MOIST/WEAKLY CAPPED WARM SECTOR AS AMPLE HEATING CONTINUES TO OCCUR ACROSS THE SOUTHERN HALF OF THE PENINSULA AMID RELATIVELY CLOUD-FREE SKIES. VERY STRONG DEEP LAYER SHEAR /IN EXCESS OF 60 KT/...ALBEIT WITH GRADUAL VEERING IN THE LOW LEVELS WITH TIME...WILL CONTINUE TO SUPPORT A COMBINATION OF BOW ECHOES/EMBEDDED SUPERCELLS CAPABLE OF DAMAGING WINDS AND ISOLATED TORNADOES INTO THE EVENING. ..GUYER/ROGERS.. 03/31/2011"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2011,
+      "number": 321,
+      "issue_utc": "2011-03-31T13:39Z",
+      "topic": "TORNADO WATCH 80",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0321.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 322,
+      "issue_utc": "2011-03-31T16:12Z",
+      "topic": "TORNADO WATCH 80",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0322.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 323,
+      "issue_utc": "2011-03-31T18:56Z",
+      "topic": "TORNADO WATCH 81",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0323.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 324,
+      "issue_utc": "2011-03-31T22:22Z",
+      "topic": "TORNADO WATCH 81",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0324.html",
+      "summary": "",
+      "discussion": ""
+    }
+  ]
+}

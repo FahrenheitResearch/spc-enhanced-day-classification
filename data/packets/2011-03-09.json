@@ -1,0 +1,105 @@
+{
+  "convective_day": "2011-03-09",
+  "valid_start": "2011-03-09T12:00Z",
+  "valid_end": "2011-03-10T12:00Z",
+  "max_risk": "ENH_EQ",
+  "product_counts": {
+    "ENH_EQ": 2
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2011-03-09",
+      "hhmm": "1300",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2011-03-09T13:00Z",
+      "valid_end": "2011-03-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2011/day1otlk_20110309_1300.html",
+      "summary": "",
+      "sections": []
+    },
+    {
+      "issued_product_date": "2011-03-09",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2011-03-09T16:30Z",
+      "valid_end": "2011-03-10T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2011/day1otlk_20110309_1630.html",
+      "summary": "",
+      "sections": []
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2011,
+      "number": 212,
+      "issue_utc": "2011-03-09T12:28Z",
+      "topic": "TORNADO WATCH 45",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0212.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 213,
+      "issue_utc": "2011-03-09T14:32Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0213.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 214,
+      "issue_utc": "2011-03-09T15:31Z",
+      "topic": "TORNADO WATCH 46",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0214.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 215,
+      "issue_utc": "2011-03-09T17:09Z",
+      "topic": "TORNADO WATCH 46",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0215.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 216,
+      "issue_utc": "2011-03-09T18:38Z",
+      "topic": "TORNADO WATCH 47",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0216.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 217,
+      "issue_utc": "2011-03-09T19:04Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0217.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 218,
+      "issue_utc": "2011-03-09T21:14Z",
+      "topic": "TORNADO WATCH 47",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0218.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 219,
+      "issue_utc": "2011-03-09T21:38Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 48",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md0219.html",
+      "summary": "",
+      "discussion": ""
+    }
+  ]
+}

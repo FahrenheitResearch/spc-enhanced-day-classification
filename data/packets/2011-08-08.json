@@ -1,0 +1,157 @@
+{
+  "convective_day": "2011-08-08",
+  "valid_start": "2011-08-08T12:00Z",
+  "valid_end": "2011-08-09T12:00Z",
+  "max_risk": "ENH_EQ",
+  "product_counts": {
+    "ENH_EQ": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2011-08-09",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2011-08-09T01:00Z",
+      "valid_end": "2011-08-09T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2011/day1otlk_20110809_0100.html",
+      "summary": "",
+      "sections": [
+        {
+          "title": "THERE IS A SLGT RISK OF SVR TSTMS OVER PORTIONS OF THE MIDWEST",
+          "text": "...THERE IS A SLGT RISK OF SVR TSTMS INTO THE UPPER GREAT LAKES/UPPER MS VALLEY REGION..."
+        },
+        {
+          "title": "CENTRAL PLAINS INTO PARTS OF OK/AR AND VICINITY",
+          "text": "INCREASINGLY WIDESPREAD STORMS CONTINUE TO EVOLVE FROM THE NEB PANHANDLE/NERN CO SEWD INTO THE OZARKS...WHERE MIXED-LAYER CAPE AVERAGING AROUND 1000 J/KG EXISTS PER EVENING RAOBS. WITH THIS REGION ON THE SWRN EDGE OF A BELT OF MODERATELY STRONG MID-LEVEL NWLYS...EXPECT SEVERE THREAT TO CONTINUE WHILE STORM COVERAGE INCREASES FURTHER WITH DEVELOPMENT OF A 30-PLUS KT SWLY LOW-LEVEL JET. GREATEST THREAT APPEARS TO EXIST ACROSS WRN AND CENTRAL KS AND VICINITY...WHERE 30% WIND PROBABILITY IS BEING INTRODUCED THIS FORECAST."
+        },
+        {
+          "title": "MIDWEST",
+          "text": "STORMS HAVE INCREASED IN COVERAGE OVER THE PAST COUPLE OF HOURS INVOF REMNANT CONVECTION/MCV FROM PRIOR CONVECTION...WHERE 500 TO 1500 J/KG MIXED-LAYER CAPE IS INDICATED. ALONG WITH SOME ATTEMPTS AT UPSCALE/BOWING ORGANIZATION OVER NERN IL...A FEW ISOLATED ROTATING/SUPERCELL STORMS HAVE ALSO BEEN OBSERVED. WITH 40-PLUS KT MID-LEVEL WLY/WNWLY FLOW...POTENTIAL FOR ROBUST/SEVERE STORMS TO CONTINUE THROUGH THE EVENING APPEARS TO EXIST -- WITH MAIN THREATS TO REMAIN DAMAGING WINDS AND HAIL."
+        },
+        {
+          "title": "WRN UPPER GREAT LAKES/UPPER MS VALLEY",
+          "text": "STORMS HAVE ORGANIZED/INTENSIFIED IN THE LAST COUPLE OF HOURS FROM WRN LK MI SWWD INTO FAR NWRN WI...NEAR THE SURFACE COLD FRONT AND ASSOCIATED UPPER LOW MOVING INTO FAR SWRN ONTARIO/NRN MN ATTM. 500 TO 1500 J/KG MIXED-LAYER CAPE ACROSS WI AND WRN UPPER MI SHOULD HELP TO SUSTAIN STORMS OVER THE NEXT COUPLE OF HOURS...BUT EXPECT SOME WEAKENING IN TERMS OF STORM INTENSITY INTO THE EVENING AS DIURNAL STABILIZATION INCREASES. ..GOSS.. 08/09/2011"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2011,
+      "number": 1899,
+      "issue_utc": "2011-08-08T17:19Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1899.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1900,
+      "issue_utc": "2011-08-08T18:06Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1900.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1901,
+      "issue_utc": "2011-08-08T19:04Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1901.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1902,
+      "issue_utc": "2011-08-08T20:09Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1902.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1903,
+      "issue_utc": "2011-08-08T22:00Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1903.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1904,
+      "issue_utc": "2011-08-08T22:23Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1904.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1905,
+      "issue_utc": "2011-08-08T22:30Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1905.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1906,
+      "issue_utc": "2011-08-08T23:27Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 746",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1906.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1907,
+      "issue_utc": "2011-08-09T00:27Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 747",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1907.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1908,
+      "issue_utc": "2011-08-09T00:34Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 748",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1908.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1909,
+      "issue_utc": "2011-08-09T04:00Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 748",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1909.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1910,
+      "issue_utc": "2011-08-09T04:27Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 752",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1910.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1911,
+      "issue_utc": "2011-08-09T07:21Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 751",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1911.html",
+      "summary": "",
+      "discussion": ""
+    }
+  ]
+}

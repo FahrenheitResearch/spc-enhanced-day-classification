@@ -1,4 +1,4 @@
-const riskOrder = { ENH: 1, MDT: 2, HIGH: 3 };
+const riskOrder = { ENH_EQ: 0, ENH: 1, MDT: 2, HIGH: 3 };
 const regimeOrder = { core: 1, likely: 2, possible: 3, none: 4 };
 let records = [];
 let filtered = [];
@@ -7,6 +7,7 @@ let activePreset = "";
 
 const $ = (id) => document.getElementById(id);
 const formatClass = (value) => value.replaceAll("_", " ");
+const formatRisk = (value) => value === "ENH_EQ" ? "ENH equiv" : value;
 const listText = (items, limit = 3) => (items || []).slice(0, limit).map(formatClass).join(", ");
 const safeText = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({
   "&": "&amp;",
@@ -119,7 +120,7 @@ function renderTable() {
   $("dayTable").innerHTML = filtered.map((record) => `
     <tr data-day="${record.day}" class="${record.day === selectedDay ? "selected" : ""}">
       <td><strong>${record.day}</strong></td>
-      <td><span class="risk ${record.risk}">${record.risk}</span></td>
+      <td><span class="risk ${record.risk}">${formatRisk(record.risk)}</span></td>
       <td>${formatClass(record.primary)}</td>
       <td><span class="regime ${record.ofb}">${record.ofb}</span></td>
       <td class="multi-line">${listText(record.hazards, 4)}</td>
@@ -218,7 +219,7 @@ async function showDetail(day, updateHash = true) {
   $("detailContent").innerHTML = `
     <h2>${record.day}</h2>
     <div class="detail-meta">
-      <span class="risk ${record.risk}">${record.risk}</span>
+      <span class="risk ${record.risk}">${formatRisk(record.risk)}</span>
       <span class="regime ${record.ofb}">${record.ofb} OFB/MCS</span>
       <span class="chip">${record.confidence} confidence</span>
     </div>
@@ -295,6 +296,11 @@ function applyPreset(preset) {
   applyFilters();
 }
 
+function syncDetailFromHash() {
+  const hashMatch = location.hash.match(/day=(\d{4}-\d{2}-\d{2})/);
+  if (hashMatch) showDetail(hashMatch[1], false);
+}
+
 async function init() {
   records = await fetch("data/classifications.json").then((response) => response.json());
   records.sort((a, b) => a.day.localeCompare(b.day));
@@ -303,7 +309,7 @@ async function init() {
   const regimes = [...new Set(records.map((r) => r.ofb))].sort((a, b) => regimeOrder[a] - regimeOrder[b]);
   const classes = [...new Set(records.map((r) => r.primary))].sort((a, b) => formatClass(a).localeCompare(formatClass(b)));
   optionize($("yearFilter"), years);
-  optionize($("riskFilter"), risks);
+  optionize($("riskFilter"), risks, formatRisk);
   optionize($("ofbFilter"), regimes, (value) => `${value} OFB/MCS`);
   optionize($("classFilter"), classes, formatClass);
   for (const id of ["yearFilter", "riskFilter", "ofbFilter", "classFilter"]) $(id).addEventListener("change", () => { activePreset = ""; applyFilters(); });
@@ -313,8 +319,8 @@ async function init() {
   document.querySelectorAll("[data-preset]").forEach((button) => button.addEventListener("click", () => applyPreset(button.dataset.preset)));
   filtered = [...records].sort((a, b) => b.day.localeCompare(a.day));
   render();
-  const hashMatch = location.hash.match(/day=(\d{4}-\d{2}-\d{2})/);
-  if (hashMatch) showDetail(hashMatch[1], false);
+  syncDetailFromHash();
+  window.addEventListener("hashchange", syncDetailFromHash);
 }
 
 init();

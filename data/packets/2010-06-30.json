@@ -1,0 +1,134 @@
+{
+  "convective_day": "2010-06-30",
+  "valid_start": "2010-06-30T12:00Z",
+  "valid_end": "2010-07-01T12:00Z",
+  "max_risk": "ENH_EQ",
+  "product_counts": {
+    "ENH_EQ": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2010-06-30",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2010-06-30T20:00Z",
+      "valid_end": "2010-07-01T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2010/day1otlk_20100630_2000.html",
+      "summary": "",
+      "sections": [
+        {
+          "title": "TX COASTAL REGION TO SW LA COAST",
+          "text": "SLIGHT RISK HAS BEEN EXTENDED NNEWD TO INCLUDE THE FULL EXTENT OF THE TX COAST AND SWRN LA COAST. NELY SURFACE WINDS WITHIN THESE AREAS COMBINED WITH LOW-MID LEVEL WIND PROFILES VEERING WITH HEIGHT WILL CONTINUE TO RESULT IN CURVED HODOGRAPHS. OBJECTIVE ANALYSES SHOWED EFFECTIVE SRH VALUES OF 300-500 M2/S2 OVER S TX WHICH IS LOCATED IN CLOSER PROXIMITY TO HURRICANE ALEX AND VALUES OF 200-300 M2/S2 FROM THE MIDDLE TX COAST TO SW LA. TORNADO PROBABILITIES HAVE BEEN INCREASED TO 10 PERCENT OVER THE DEEP S TX COASTAL AREA WHERE SEVERAL CONVECTIVE BANDS WITH EMBEDDED ROTATIONAL COUPLETS ARE EXPECTED TO MOVE ONSHORE AND INLAND THROUGH TONIGHT WITH THE APPROACH OF ALEX AND EVENTUAL LANDFALL TONIGHT /SEE LATEST NHC ADVISORIES FOR ADDITIONAL INFORMATION/. FARTHER NNE ALONG THE MIDDLE-UPPER TX COAST TO SW LA...THE FAVORABLE SRH VALUES WILL SUPPORT AN ISOLATED TORNADO THREAT AS CONVECTIVE BANDS MOVE INLAND."
+        },
+        {
+          "title": "ELSEWHERE",
+          "text": "NO CHANGES REQUIRED ACROSS THE REST OF THE CONUS AS FORECAST REMAINS ON TRACK. ..PETERS.. 06/30/2010 .PREV DISCUSSION... /ISSUED 1131 AM CDT WED JUN 30 2010/"
+        },
+        {
+          "title": "S TX THROUGH TONIGHT",
+          "text": "HURRICANE ALEX IS FORECAST TO MAKE LANDFALL TONIGHT IN NE MEXICO /SEE LATEST NHC ADVISORIES FOR ADDITIONAL INFORMATION/. MULTIPLE CONVECTIVE BANDS N OF THE CENTER WILL CONTINUE TO OVERSPREAD S TX THROUGH TONIGHT AS THE STORM MOVES TO THE WNW...AND LOW-LEVEL SHEAR WILL LIKEWISE INCREASE. GIVEN THE BROAD PLUME OF 77-80 F DEWPOINTS N/NE OF THE HURRICANE CORE...THE THREAT FOR SURFACE-BASED SUPERCELLS SPREADING INLAND WILL SLOWLY INCREASE THROUGH THE AFTERNOON...WITH AN ATTENDANT RISK FOR A FEW TORNADOES."
+        },
+        {
+          "title": "MT/WRN ND AREA THROUGH TONIGHT",
+          "text": "SOME MIDLEVEL CONVECTION PERSISTS OVER SW/S CENTRAL MT THIS MORNING WITHIN A MOISTURE PLUME TO THE IMMEDIATE E/SE OF AN EJECTING MIDLEVEL SHORTWAVE TROUGH OVER NW MT. THE MOST PROBABLE SCENARIOS FOR THIS AFTERNOON WILL BE FOR NEW STORMS TO FORM ON THE E EDGE OF THE THICKER CLOUDS AND ALONG THE SURFACE FRONT IN SE MT/WRN ND...WHILE OTHER STORMS FORM OVER THE HIGH TERRAIN OF SW/S CENTRAL MT AND SPREAD NEWD IN THE WAKE OF THE MORNING CLOUDS. THE STORM ENVIRONMENT WILL VARY FROM STRONGER DEEP-LAYER SHEAR AND WEAKER INSTABILITY THIS AFTERNOON ACROSS THE HIGHER TERRAIN OF S/SW MT...THE STRONGER INSTABILITY/GREATER CONVECTIVE INHIBITION AND WEAKER VERTICAL SHEAR INVOF THE SURFACE FRONT ACROSS ERN MT/WRN ND. THE NET RESULT SHOULD BE PROFILES SUFFICIENT FOR BOTH ORGANIZED STORM CLUSTERS AND SOME EMBEDDED SUPERCELL STRUCTURES...WITH EACH CAPABLE OF PRODUCING DAMAGING WINDS AND LARGE HAIL."
+        },
+        {
+          "title": "SE STATES INTO FL THIS AFTERNOON",
+          "text": "WIDESPREAD CLOUDS AND DEEP MOIST PROFILES HAVE OVERSPREAD THE GULF COAST AND SE ATLANTIC STATES. COMPARED TO PREVIOUS DAYS...SURFACE HEATING AND INSTABILITY HAVE BEEN REDUCED...AND THE RELATED POTENTIAL FOR DAMAGING DOWNBURSTS HAS LIKEWISE BEEN REDUCED ACROSS THE CAROLINAS INTO GA. FARTHER S...RICH MOISTURE AND SUBSTANTIAL DAYTIME HEATING WILL DRIVE LOCAL SEA BREEZE CIRCULATIONS AND THE FORMATION OF SCATTERED THUNDERSTORMS THIS AFTERNOON ACROSS FL. THE DOWNBURST THREAT MAY BE LOCALLY ENHANCED IN A SMALL AREA NEAR AND SW OF LAKE OKEECHOBEE WHERE STORM/BOUNDARY MERGERS OCCUR IN AN ENVIRONMENT WITH MLCAPE NEAR 3000 J/KG. ADDITIONALLY...NLY FLOW ALOFT WILL TRANSPORT ANVIL BLOWOFF TO THE S AND AWAY FROM THE AREA OF STRONGEST HEATING S OF OKEECHOBEE...ALLOWING INSTABILITY TO BE MAXIMIZED."
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2010,
+      "number": 1165,
+      "issue_utc": "2010-06-30T15:17Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1165.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1166,
+      "issue_utc": "2010-06-30T18:13Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1166.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1167,
+      "issue_utc": "2010-06-30T19:28Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1167.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1168,
+      "issue_utc": "2010-06-30T21:54Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1168.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1169,
+      "issue_utc": "2010-06-30T22:56Z",
+      "topic": "TORNADO WATCH 430",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1169.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1170,
+      "issue_utc": "2010-07-01T01:02Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1170.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1171,
+      "issue_utc": "2010-07-01T04:34Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 434",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1171.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1172,
+      "issue_utc": "2010-07-01T04:51Z",
+      "topic": "TORNADO WATCH 433",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1172.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1173,
+      "issue_utc": "2010-07-01T06:19Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 434",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1173.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1174,
+      "issue_utc": "2010-07-01T07:58Z",
+      "topic": "TORNADO WATCH 433",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1174.html",
+      "summary": "",
+      "discussion": ""
+    }
+  ]
+}

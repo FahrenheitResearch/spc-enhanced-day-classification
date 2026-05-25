@@ -1,0 +1,90 @@
+{
+  "convective_day": "2011-06-29",
+  "valid_start": "2011-06-29T12:00Z",
+  "valid_end": "2011-06-30T12:00Z",
+  "max_risk": "ENH_EQ",
+  "product_counts": {
+    "ENH_EQ": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2011-06-30",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2011-06-30T01:00Z",
+      "valid_end": "2011-06-30T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2011/day1otlk_20110630_0100.html",
+      "summary": "",
+      "sections": [
+        {
+          "title": "THERE IS A SLGT RISK OF SVR TSTMS PORTIONS MT",
+          "text": "...SYNOPSIS... UPR AIR PATTERN OVER CONUS WILL REMAIN DOMINATED BY HIGH-AMPLITUDE RIDGING...EXTENDING FROM 500-MB HIGH OVER S-CENTRAL HIGH PLAINS ACROSS MN. MID-UPR CYCLONE -- NOW EVIDENT IN MOISTURE CHANNEL IMAGERY AND RAOB DATA OVER SIERRAS S RNO...IS FCST TO EJECT NEWD TO WRN UT OVERNIGHT. MEANWHILE...WEAKER PERTURBATION NOW OVER SWRN ID SHOULD ACCELERATE NEWD ACROSS MT...AS HEIGHTS OVER NRN ROCKIES FALL IN ADVANCE OF TROUGH NOW CROSSING PORTIONS WA AND SRN BC. AT SFC...LOW ANALYZED AT 23Z OVER N-CENTRAL MT SHOULD MOVE NEWD TO SERN SK BY 06Z...WITH TRAILING COLD FRONT CROSSING ERN MT AND PORTIONS WRN ND AND NRN WY BY END OF PERIOD. PREFRONTAL TROUGH WILL BECOME BETTER-DEFINED OVERNIGHT..AND BY 12Z...EXTEND FROM CENTRAL ND SWD ACROSS WRN NEB THEN SSWWD OVER ERN CO."
+        },
+        {
+          "title": "NRN PLAINS/ROCKIES",
+          "text": "SCATTERED TSTMS EVIDENT OVER PORTIONS N-CENTRAL/NERN MT POSE SVR THREAT. THIS INCLUDES SUPERCELLS WITH ATTENDANT RISK FOR DAMAGING HAIL AND A TORNADO OR TWO...ESPECIALLY WHERE ENCOUNTERING MORE ROBUST MOISTURE PLUME ANALYZED IN NERN MT. REF SPC WW 574 AND RELATED MESOSCALE DISCUSSIONS FOR NEAR-TERM DETAILS. WHILE BULK OF CONVECTION SHOULD MOVE NEWD ACROSS WW AREA INTO CANADA THROUGH REMAINDER EVENING...SECOND RELATIVE CONCENTRATION MAY DEVELOP FARTHER SE OVER PORTIONS ERN WY AND MOVE NEWD OVER WRN SD OVERNIGHT...IN ZONE OF WAA/ISENTROPIC ASCENT NEARLY COLLOCATED WITH DEVELOPING/EWD MOVING SFC TROUGH. ISOLATED SVR GUSTS/HAIL MAY OCCUR WITH THIS ACTIVITY ALSO...THOUGH THREAT DOES NOT APPEAR AS WELL-ORGANIZED AS WITH MT CONVECTION."
+        },
+        {
+          "title": "INTERMOUNTAIN W AND PORTIONS GREAT BASIN",
+          "text": "WIDELY SCATTERED TSTMS FCST TO DECREASE GRADUALLY IN COVERAGE/INTENSITY THROUGH REMAINDER EVENING...AMIDST COMBINATION OF DIABATIC SFC COOLING AND INCREASING COVERAGE OF OUTFLOWS. HOWEVER...IN MEANTIME...ISOLATED SVR GUSTS STILL ARE POSSIBLE PRIMARILY IN LOW-LEVEL MOIST PLUME EXTENDING FROM AZ NNEWD ACROSS CENTRAL/ERN UT AND SRN WY. 00Z SLC RAOB...SAMPLING WRN FRINGE OF THIS REGIME...SHOWED FAVORABLE SHEAR FROM SFC THROUGH MIDLEVELS -- I.E. EFFECTIVE SHEAR MAGNITUDE 55-60 KT -- AND DEEP/WELL-MIXED SUBCLOUD LAYER SUPPORTING POTENTIAL FOR DOWNBURSTS. MAIN LIMITING FACTORS WILL BE AFOREMENTIONED STABILIZING FACTORS AND LACK OF GREATER CONVECTIVE COVERAGE. ..EDWARDS.. 06/30/2011"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2011,
+      "number": 1441,
+      "issue_utc": "2011-06-29T18:35Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1441.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1442,
+      "issue_utc": "2011-06-29T19:41Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1442.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1443,
+      "issue_utc": "2011-06-29T20:41Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1443.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1444,
+      "issue_utc": "2011-06-29T20:43Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1444.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1445,
+      "issue_utc": "2011-06-30T00:17Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 574",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1445.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 1446,
+      "issue_utc": "2011-06-30T03:03Z",
+      "topic": "TORNADO WATCH 575",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md1446.html",
+      "summary": "",
+      "discussion": ""
+    }
+  ]
+}

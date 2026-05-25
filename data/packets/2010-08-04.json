@@ -1,0 +1,194 @@
+{
+  "convective_day": "2010-08-04",
+  "valid_start": "2010-08-04T12:00Z",
+  "valid_end": "2010-08-05T12:00Z",
+  "max_risk": "ENH_EQ",
+  "product_counts": {
+    "ENH_EQ": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2010-08-05",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2010-08-05T01:00Z",
+      "valid_end": "2010-08-05T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2010/day1otlk_20100805_0100.html",
+      "summary": "",
+      "sections": [
+        {
+          "title": "IND EWD INTO THE DELMARVA AND MID ATLANTIC",
+          "text": "A BROAD ZONE OF LOW LEVEL WARM ADVECTION WILL PERSIST FROM THE MID MS VALLEY EWD ACROSS THE OH VALLEY TO THE E COAST WITH WLY 850 MB FLOW INCREASING TO OVER 30 KTS. MEANWHILE...MID/UPPER HEIGHT FALLS WILL PERSIST AS A LARGE SCALE TROUGH SINKS SWD ACROSS THE GREAT LAKES. WITH A VERY MOIST AND UNSTABLE AIR MASS IN PLACE...CONDITIONS WILL REMAIN FAVORABLE FOR SEVERE WIND WITH ANY ORGANIZED CLUSTERS. ONE CLUSTER WAS OVER INDIANA AT 01Z...AND WILL PROCEED EWD INTO OH WITH A WIND THREAT. TO THE SE...OTHER SUBSTANTIAL STORMS WILL CONTINUE ESE ACROSS VA AND INTO NRN NC THIS EVENING. GIVEN NWLY DEEP LAYER EFFECTIVE SHEAR AROUND 25-30 KTS...AND STRONG INSTABILITY...GUSTY OUTFLOW CAN BE EXPECTED WITH THESE STORMS BEFORE THEY DIE OVER NC."
+        },
+        {
+          "title": "ERN WY...SWRN SD...WRN NEB",
+          "text": "AFTER BEING RELATIVELY COOL AND STABLE MOST OF THE DAY...THE AREA HAS BECOME MODERATELY UNSTABLE EARLY THIS EVENING. 00Z RIW AND RAP SOUNDINGS SHOW RELATIVELY STEEP LAPSE RATES ALOFT WITH SUFFICIENT DEEP LAYER SHEAR FOR SUPERCELLS. AS GRADUAL HEIGHT FALLS PERSIST...AND A SELY LOW LEVEL JET INCREASES TO AROUND 15 KTS...SCATTERED STORMS...SOME SUPERCELLS...ARE LIKELY AS THEY MOVE ACROSS ERN WY AND EVENTUALLY INTO WRN SD/NEB. LARGE HAIL WILL BE THE PRIMARY SEVERE THREAT...BUT GUSTY WINDS MAY OCCUR AS WELL...ESPECIALLY IF STORMS CAN BOW AS THEY TRAVEL SEWD IN A FORWARD PROPAGATING SENSE. ..JEWELL.. 08/05/2010"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2010,
+      "number": 1559,
+      "issue_utc": "2010-08-04T14:11Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1559.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1560,
+      "issue_utc": "2010-08-04T16:51Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 566",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1560.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1561,
+      "issue_utc": "2010-08-04T17:58Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1561.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1562,
+      "issue_utc": "2010-08-04T19:09Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 566",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1562.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1563,
+      "issue_utc": "2010-08-04T19:18Z",
+      "topic": "OUTLOOK UPGRADE VALID 041918Z - 042015Z THREAT FOR LOCALIZED DAMAGING WINDS/MARGINAL HAIL WILL INCREASE THROUGH EARLY EVENING ALONG THE CANADIAN BORDER FROM FAR NRN NY INTO WRN NEW ENGLAND. PORTIONS OF THIS AREA WILL BE UPGRADED TO A SLIGHT RISK IN THE 20Z CONVECTIVE OUTLOOK",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1563.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1564,
+      "issue_utc": "2010-08-04T19:27Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1564.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1565,
+      "issue_utc": "2010-08-04T19:52Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 567",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1565.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1566,
+      "issue_utc": "2010-08-04T20:23Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1566.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1567,
+      "issue_utc": "2010-08-04T21:30Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1567.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1568,
+      "issue_utc": "2010-08-04T22:22Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1568.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1569,
+      "issue_utc": "2010-08-04T22:25Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 568",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1569.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1570,
+      "issue_utc": "2010-08-04T23:48Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 570",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1570.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1571,
+      "issue_utc": "2010-08-05T00:10Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1571.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1572,
+      "issue_utc": "2010-08-05T00:55Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 568",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1572.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1573,
+      "issue_utc": "2010-08-05T01:21Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1573.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1574,
+      "issue_utc": "2010-08-05T01:26Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1574.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1575,
+      "issue_utc": "2010-08-05T03:52Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 571",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1575.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 1576,
+      "issue_utc": "2010-08-05T11:20Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md1576.html",
+      "summary": "",
+      "discussion": ""
+    }
+  ]
+}

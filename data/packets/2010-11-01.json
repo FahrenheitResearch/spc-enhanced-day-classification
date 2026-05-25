@@ -1,0 +1,84 @@
+{
+  "convective_day": "2010-11-01",
+  "valid_start": "2010-11-01T12:00Z",
+  "valid_end": "2010-11-02T12:00Z",
+  "max_risk": "ENH_EQ",
+  "product_counts": {
+    "ENH_EQ": 3
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2010-11-01",
+      "hhmm": "1630",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2010-11-01T16:30Z",
+      "valid_end": "2010-11-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2010/day1otlk_20101101_1630.html",
+      "summary": "",
+      "sections": []
+    },
+    {
+      "issued_product_date": "2010-11-01",
+      "hhmm": "2000",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2010-11-01T20:00Z",
+      "valid_end": "2010-11-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2010/day1otlk_20101101_2000.html",
+      "summary": "",
+      "sections": []
+    },
+    {
+      "issued_product_date": "2010-11-02",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2010-11-02T01:00Z",
+      "valid_end": "2010-11-02T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2010/day1otlk_20101102_0100.html",
+      "summary": "",
+      "sections": [
+        {
+          "title": "S THROUGH E TX...WRN LA AND SWRN AR",
+          "text": "EARLY EVENING WATER VAPOR IMAGERY SHOWED A WELL-DEFINED SHORTWAVE TROUGH DIGGING SSEWD ACROSS THE WRN EXTENT OF THE SRN PLAINS... WITH THIS FEATURE DEEPENING AS IT MOVES FARTHER INTO TX TONIGHT/ EARLY TUESDAY. STRONGER MIDLEVEL WINDS /50+ KT/ WERE BEGINNING TO ROUND THE BASE OF THE TROUGH INTO NRN/CENTRAL PARTS OF TX AND WILL CONTINUE TO SPREAD E/SEWD ACROSS THE SLIGHT RISK AREA...INCREASING DEEP LAYER SHEAR VALUES. IN THE LOW LEVELS...A SURFACE LOW IS FORECAST TO DEVELOP OVER E TX TONIGHT...WHILE A COLD FRONT... CURRENTLY EXTENDING FROM THE OK/AR BORDER SSWWD INTO NERN TX AND THEN SWWD TO NEAR AUS TO THE TX BIG BEND REGION...WILL ADVANCE SEWD TOWARD THE TX COAST. TSTM COVERAGE IS EXPECTED TO INCREASE TONIGHT INTO TUESDAY MORNING FROM THE NRN EXTENT OF THE SLIGHT RISK AND SWWD INTO S TX WITH ACTIVITY SPREADING TOWARD THE LOWER MS VALLEY AND TX GULF COAST BY 12Z TUESDAY. RECENT REGIONAL RADAR IMAGERY SHOWED TSTMS DEVELOPING ALONG A PRE-FRONTAL TROUGH/CORRIDOR OF LOW LEVEL CONVERGENCE TO THE W AND N OF HOU...WITH THIS ONGOING ACTIVITY EXTENDING FROM 50 S CLL TO IER AND ALSO NWD TO THE VICINITY OF SHV AND ARKLATEX REGION. A MODERATELY UNSTABLE AIR MASS ALONG AND E TO S OF THE COLD FRO"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2010,
+      "number": 2031,
+      "issue_utc": "2010-11-01T23:24Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md2031.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 2032,
+      "issue_utc": "2010-11-02T00:33Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md2032.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 2033,
+      "issue_utc": "2010-11-02T03:19Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 738",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md2033.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2010,
+      "number": 2034,
+      "issue_utc": "2010-11-02T07:40Z",
+      "topic": "SEVERE THUNDERSTORM WATCH 738",
+      "url": "https://www.spc.noaa.gov/products/md/2010/md2034.html",
+      "summary": "",
+      "discussion": ""
+    }
+  ]
+}

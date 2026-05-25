@@ -1,0 +1,86 @@
+{
+  "convective_day": "2011-10-18",
+  "valid_start": "2011-10-18T12:00Z",
+  "valid_end": "2011-10-19T12:00Z",
+  "max_risk": "ENH_EQ",
+  "product_counts": {
+    "ENH_EQ": 1
+  },
+  "outlooks": [
+    {
+      "issued_product_date": "2011-10-19",
+      "hhmm": "0100",
+      "max_risk_in_product": "ENH_EQ",
+      "valid_start": "2011-10-19T01:00Z",
+      "valid_end": "2011-10-19T12:00Z",
+      "url": "https://www.spc.noaa.gov/products/outlook/archive/2011/day1otlk_20111019_0100.html",
+      "summary": "",
+      "sections": [
+        {
+          "title": "FL TO COASTAL CAROLINAS",
+          "text": "SURFACE LOW CURRENTLY ACROSS THE NORTHEAST GULF OF MEXICO SHOULD CONTINUE TO DEEPEN/DEVELOP NORTHEASTWARD TONIGHT TOWARD THE COASTAL CAROLINAS...WITH A MOIST AIRMASS POTENTIALLY MOVING INLAND MAINLY ACROSS THE IMMEDIATE COASTAL AREAS OF THE CAROLINAS. THE PRIMARY SEVERE THREAT AT LEAST OVER THE NEXT FEW HOURS WILL BE ACROSS THE CENTRAL AND ESPECIALLY SOUTHERN FL PENINSULA...WHERE THE 00Z OBSERVED SOUNDING FROM MIAMI REFLECTED STRONG LOW LEVEL SHEAR /350+ M2 PER S2 0-1 KM SRH/ COINCIDENT WITH A MOISTURE-RICH AIRMASS. SUPERCELLS/TORNADOES WILL REMAIN POSSIBLE. FOR ADDITIONAL SHORT-TERM DISCUSSION ON THE SOUTH FL TORNADO THREAT...REFERENCE MESOSCALE DISCUSSION 2263. FOR THE NEAR-COASTAL CAROLINAS...THE LIKELIHOOD/EXTENT OF THE DEVELOPMENT OF A MARITIME AIRMASS /CONDUCIVE FOR A SURFACE BASED STORM THREAT/ INLAND AHEAD OF A NORTHEASTWARD DEVELOPING SURFACE LOW REMAINS IN QUESTION. THAT SAID...AT LEAST SOME SUPERCELL/TORNADO AND PERHAPS DAMAGING WIND THREAT CANNOT BE RULED OUT LATER TONIGHT GIVEN A DRAMATICALLY INCREASING DEEP LAYER FLOW FIELD/LOW LEVEL SRH."
+        },
+        {
+          "title": "TN VALLEY TO WEST/NEAR THE APPALACHIANS",
+          "text": "WHILE SCATTERED TSTMS WILL PERSIST ALONG/AHEAD OF AN EASTWARD ADVANCING COLD FRONT TONIGHT...LOSS OF DAYTIME HEATING WILL LEAD TO A QUICK WANE OF ALREADY MODEST SURFACE BASED BUOYANCY. ACCORDINGLY...ANY LINGERING SEVERE HAIL/WIND WILL CONTINUE TO BECOME INCREASINGLY MARGINAL/ISOLATED THIS EVENING. ..GUYER.. 10/19/2011"
+        }
+      ]
+    }
+  ],
+  "mesoscale_discussions": [
+    {
+      "year": 2011,
+      "number": 2259,
+      "issue_utc": "2011-10-18T16:15Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md2259.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 2260,
+      "issue_utc": "2011-10-18T19:50Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md2260.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 2261,
+      "issue_utc": "2011-10-18T22:05Z",
+      "topic": "SEVERE POTENTIAL",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md2261.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 2262,
+      "issue_utc": "2011-10-18T22:41Z",
+      "topic": "TORNADO WATCH 867",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md2262.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 2263,
+      "issue_utc": "2011-10-19T00:39Z",
+      "topic": "TORNADO WATCH 867",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md2263.html",
+      "summary": "",
+      "discussion": ""
+    },
+    {
+      "year": 2011,
+      "number": 2264,
+      "issue_utc": "2011-10-19T04:25Z",
+      "topic": "TORNADO WATCH 868",
+      "url": "https://www.spc.noaa.gov/products/md/2011/md2264.html",
+      "summary": "",
+      "discussion": ""
+    }
+  ]
+}

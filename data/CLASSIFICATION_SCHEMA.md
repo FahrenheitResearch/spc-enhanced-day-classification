@@ -1,7 +1,9 @@
 # SPC Enhanced+ Day Classification Schema
 
 Scope: one record per SPC Day 1 convective day, where a convective day is
-12Z-to-12Z and at least one Day 1 product carried ENH/MDT/HIGH.
+12Z-to-12Z and at least one Day 1 product carried ENH/MDT/HIGH or a
+pre-Enhanced-era product met the later Enhanced-equivalent probability
+threshold.
 
 Use Day 1 outlook discussions for forecast intent and mesoscale discussions
 for how the event evolved. Prefer the latest outlook when products conflict,
@@ -10,7 +12,9 @@ but preserve meaningful trend changes.
 ## Required JSONL Fields
 
 - `convective_day`: `YYYY-MM-DD`.
-- `max_risk`: `ENH`, `MDT`, or `HIGH`.
+- `max_risk`: `ENH_EQ`, `ENH`, `MDT`, or `HIGH`. `ENH_EQ` is used only for
+  pre-Enhanced-era days whose Day 1 probabilities meet later Enhanced-equivalent
+  thresholds while the official categorical product was still `SLGT`.
 - `primary_class`: concise human-readable class.
 - `secondary_classes`: 1-5 additional classes if needed.
 - `tags`: 4-14 short tags from the taxonomy below or similarly specific tags.
