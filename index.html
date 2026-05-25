@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Interactive classification of SPC Day 1 Enhanced-or-higher convective days since 2019 using outlooks and mesoscale discussions.">
+  <title>SPC Enhanced+ Day Classification</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">SPC Day 1 outlooks + mesoscale discussions</p>
+      <h1>Enhanced+ Convective Day Classification</h1>
+      <p class="lede">A searchable taxonomy of ENH/MDT/HIGH SPC Day 1 convective days from 2019 through May 2026, with a special flag for OFB/MCS-driven boundary regimes.</p>
+    </div>
+    <nav class="downloads" aria-label="Data downloads">
+      <a href="data/all_classifications.csv">CSV</a>
+      <a href="data/all_classifications.jsonl">JSONL</a>
+      <a href="data/ofb_mcs_boundary_cases.csv">OFB/MCS cases</a>
+      <a href="data/CLASSIFICATION_SCHEMA.md">Schema</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="metric-grid" aria-label="Dataset summary">
+      <div class="metric"><span id="metricDays">539</span><label>classified days</label></div>
+      <div class="metric"><span id="metricCoreLikely">287</span><label>core/likely OFB-MCS</label></div>
+      <div class="metric"><span id="metricHigh">7</span><label>High Risk days</label></div>
+      <div class="metric"><span id="metricConfidence">100%</span><label>validated records</label></div>
+    </section>
+
+    <section class="workspace">
+      <aside class="filters" aria-label="Filters">
+        <div class="filter-head">
+          <h2>Filters</h2>
+          <button id="resetFilters" type="button">Reset</button>
+        </div>
+        <label>
+          Search
+          <input id="searchBox" type="search" placeholder="boundary, mode, date, hazard">
+        </label>
+        <label>
+          Year
+          <select id="yearFilter"><option value="">All years</option></select>
+        </label>
+        <label>
+          Max risk
+          <select id="riskFilter"><option value="">All risks</option></select>
+        </label>
+        <label>
+          OFB/MCS boundary regime
+          <select id="ofbFilter"><option value="">All regimes</option></select>
+        </label>
+        <label>
+          Primary class
+          <select id="classFilter"><option value="">All classes</option></select>
+        </label>
+        <div class="quick-actions" aria-label="Common filters">
+          <button data-preset="corelikely" type="button">Core + likely OFB/MCS</button>
+          <button data-preset="mcswind" type="button">MCS wind days</button>
+          <button data-preset="tornado" type="button">Tornado focus</button>
+        </div>
+      </aside>
+
+      <section class="content">
+        <div class="visual-grid">
+          <section class="panel">
+            <div class="panel-title">
+              <h2>Primary Classes</h2>
+              <span id="visibleCount">0 visible</span>
+            </div>
+            <div id="classChart" class="bar-chart"></div>
+          </section>
+          <section class="panel">
+            <div class="panel-title">
+              <h2>OFB/MCS Regime By Year</h2>
+              <span>12Z-to-12Z days</span>
+            </div>
+            <div id="yearChart" class="year-chart"></div>
+          </section>
+        </div>
+
+        <section class="panel table-panel">
+          <div class="panel-title">
+            <h2>Classified Days</h2>
+            <span id="tableHint">Select a row for evidence</span>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Date</th>
+                  <th>Risk</th>
+                  <th>Primary class</th>
+                  <th>OFB/MCS</th>
+                  <th>Hazards</th>
+                  <th>Modes</th>
+                </tr>
+              </thead>
+              <tbody id="dayTable"></tbody>
+            </table>
+          </div>
+        </section>
+      </section>
+    </section>
+  </main>
+
+  <aside id="detailPanel" class="detail-panel" aria-live="polite" aria-label="Selected day details">
+    <button id="closeDetail" type="button" aria-label="Close details">Close</button>
+    <div id="detailContent">
+      <p class="empty-detail">Select a classified day to inspect the evidence.</p>
+    </div>
+  </aside>
+
+  <script src="app.js"></script>
+</body>
+</html>
