@@ -20,6 +20,59 @@ const safeText = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({
   "'": "&#39;",
 }[char]));
 
+const meowdarBase = "https://fahrenheitresearch.github.io/meowdar-95/";
+
+function meowdarArchiveUrl(event, radar) {
+  const targetTime = radar?.vwp_target_utc || event.vwp_target_utc || event.time_utc;
+  if (!radar?.id || !targetTime) return "";
+  const params = new URLSearchParams({
+    site: radar.id,
+    mode: "archive",
+    time: targetTime,
+    frames: "3",
+    center: "1",
+    autoload: "1",
+    polar: "1",
+    product: "REF",
+    src: "spc-classification",
+  });
+  if (event.convective_day) params.set("day", event.convective_day);
+  if (event.id) params.set("event", event.id);
+  const labelParts = [event.rating, event.state, formatUtc(targetTime)].filter(Boolean);
+  if (labelParts.length) params.set("label", labelParts.join(" "));
+  return `${meowdarBase}?${params}`;
+}
+
+function eventImpactScore(event) {
+  return (Number(event.rating_value) || 0) * 100000
+    + (Number(event.fatalities) || 0) * 2000
+    + (Number(event.injuries) || 0) * 40
+    + (Number(event.path_length_mi) || 0);
+}
+
+function primaryMeowdarEvent(events) {
+  return [...(events || [])]
+    .filter((event) => event?.nearest_radars?.length)
+    .sort((left, right) => eventImpactScore(right) - eventImpactScore(left))[0] || null;
+}
+
+function renderMeowdarDayLaunch(events) {
+  const event = primaryMeowdarEvent(events);
+  const radar = event?.nearest_radars?.[0];
+  const url = event && radar ? meowdarArchiveUrl(event, radar) : "";
+  if (!url) return "";
+  const place = [event.location, event.county, event.state].filter(Boolean).join(", ");
+  return `
+    <div class="meowdar-launch">
+      <div>
+        <strong>Open peak target in Meowdar</strong>
+        <span>${safeText(event.rating || "UNK")} ${safeText(place || `${event.begin_lat}, ${event.begin_lon}`)} &middot; ${safeText(radar.id)} &middot; ${formatUtc(radar.vwp_target_utc || event.vwp_target_utc || event.time_utc)}</span>
+      </div>
+      <a href="${safeText(url)}" target="_blank" rel="noreferrer">3-frame archive loop</a>
+    </div>
+  `;
+}
+
 const mesoBase = "https://www.spc.noaa.gov/exper/ma_archive/images_s4";
 const mesoLoopBase = "https://www.spc.noaa.gov/exper/ma_archive/action5.php";
 const mesoTimes = [
@@ -231,11 +284,13 @@ async function loadTornadoTargets(day) {
 }
 
 function renderRadarTargets(event) {
-  return (event.nearest_radars || []).map((radar, index) => `
-    <span class="radar-chip">
-      ${index + 1}. ${safeText(radar.id)} <span>${safeText(radar.distance_mi)} mi</span>
-    </span>
-  `).join("");
+  return (event.nearest_radars || []).map((radar, index) => {
+    const url = meowdarArchiveUrl(event, radar);
+    const chipText = `${index + 1}. ${safeText(radar.id)} <span>${safeText(radar.distance_mi)} mi</span>`;
+    return url
+      ? `<a class="radar-chip meowdar-radar-link" href="${safeText(url)}" target="_blank" rel="noreferrer" title="Open a centered 3-frame archive loop in Meowdar">${chipText}<em>Meowdar</em></a>`
+      : `<span class="radar-chip">${chipText}</span>`;
+  }).join("");
 }
 
 function renderTornadoEvent(event) {
@@ -287,6 +342,7 @@ function renderTornadoTargets(day, payload) {
         <div class="tornado-stat"><strong>${summary.total_injuries || 0}</strong><span>injuries</span></div>
       </div>
       <p class="tornado-note">Nearest three current NEXRAD sites are calculated from each tornado begin point. VWP windows are centered on observed begin time with a +/-30 minute window.</p>
+      ${renderMeowdarDayLaunch(events)}
       <div class="tornado-event-list">${events.map(renderTornadoEvent).join("")}</div>
     </div>
   `;

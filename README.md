@@ -10,6 +10,7 @@ The page lets people inspect:
 - short evidence snippets linked back to SPC Day 1 Outlooks and Mesoscale Discussions
 - organized SPC mesoanalysis map links/previews for each day
 - observed tornado rows with UTC timing, +/-30 minute VWP windows, and the closest three current NEXRAD sites
+- Meowdar archive links for observed tornado targets, using centered 3-frame loops at the target time
 - per-day source packets with all attached outlook and MD links for audit/review
 - shareable day links like `#day=2024-05-06`
 - downloadable CSV/JSONL data and the classification schema
@@ -38,6 +39,18 @@ The page lets people inspect:
 - `data/radar_sites.json`
 - `data/CLASSIFICATION_SCHEMA.md`
 - `data/validation_summary.json`
+
+## Meowdar Links
+
+Observed tornado targets launch Meowdar with a stable archive URL:
+
+```text
+https://fahrenheitresearch.github.io/meowdar-95/?site=KPAH&mode=archive&time=2021-12-11T02%3A54%3A00Z&frames=3&center=1&autoload=1&polar=1
+```
+
+The first radar chip opens the nearest current NEXRAD site, while the other
+chips provide alternates. The day-level launch chooses the highest-impact
+target by rating, casualties, and path length.
 
 ## Method Note
 
