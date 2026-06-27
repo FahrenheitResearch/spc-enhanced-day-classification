@@ -23,8 +23,8 @@ The page lets people inspect:
 - Moderate: 274
 - High: 31
 - Core or likely OFB/MCS boundary regime: 899
-- Classified days with observed tornado radar targets: 1257
-- Observed tornado target rows: 15708
+- Classified days with observed tornado radar targets: 1281
+- Observed tornado target rows: 16227
 
 ## Files
 
@@ -54,4 +54,4 @@ target by rating, casualties, and path length.
 
 ## Method Note
 
-This classifies the evidence in SPC forecast/outlook text and MDs. Tornado/radar target rows are derived from SPC WCM actual tornado tracks for 2009-2024, latest NCEI Storm Events detail files for 2025-2026, and current NEXRAD site metadata. It does not verify whether model guidance handled each boundary correctly. The natural next step is comparing the `core` and `likely` OFB/MCS cases against radar and surface observations versus HRRR/RAP/HREF forecasts.
+This classifies the evidence in SPC forecast/outlook text and MDs. Tornado/radar target rows are derived from SPC WCM actual tornado tracks for 2009-2024, latest NCEI Storm Events detail files plus SPC preliminary reports for recent 2026 days, and current NEXRAD site metadata. It does not verify whether model guidance handled each boundary correctly. The natural next step is comparing the `core` and `likely` OFB/MCS cases against radar and surface observations versus HRRR/RAP/HREF forecasts.

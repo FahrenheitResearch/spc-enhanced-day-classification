@@ -27,7 +27,7 @@
     <section class="metric-grid" aria-label="Dataset summary">
       <div class="metric"><span id="metricDays">1450</span><label>classified days</label></div>
       <div class="metric"><span id="metricCoreLikely">899</span><label>core/likely OFB-MCS</label></div>
-      <div class="metric"><span id="metricTornadoDays">1257</span><label>tornado target days</label></div>
+      <div class="metric"><span id="metricTornadoDays">1281</span><label>tornado target days</label></div>
       <div class="metric"><span id="metricHigh">31</span><label>High Risk days</label></div>
       <div class="metric"><span id="metricConfidence">100%</span><label>validated records</label></div>
     </section>
@@ -57,6 +57,10 @@
         <label>
           Primary class
           <select id="classFilter"><option value="">All classes</option></select>
+        </label>
+        <label>
+          Tornado state
+          <select id="tornadoStateFilter"><option value="">All tornado states</option></select>
         </label>
         <div class="quick-actions" aria-label="Common filters">
           <button data-preset="corelikely" type="button">Core + likely OFB/MCS</button>

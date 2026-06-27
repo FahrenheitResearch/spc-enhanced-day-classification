@@ -138,6 +138,10 @@ function tornadoSummaryFor(day) {
   return (tornadoSummary.days || {})[day] || null;
 }
 
+function tornadoStateCountsFor(day) {
+  return tornadoSummaryFor(day)?.state_counts || {};
+}
+
 function tornadoLabel(day) {
   const summary = tornadoSummaryFor(day);
   if (!summary) return "0";
@@ -366,6 +370,7 @@ function matchesSearch(record, query) {
     record.primary,
     record.ofb,
     torn ? `${torn.tornado_count} tornadoes ${torn.strongest_rating}` : "",
+    ...Object.entries(torn?.state_counts || {}).map(([state, count]) => `${state} tornado ${count}`),
     record.narrative,
     record.ofb_reason,
     ...(record.secondary || []),
@@ -383,6 +388,7 @@ function applyFilters() {
   const risk = $("riskFilter").value;
   const ofb = $("ofbFilter").value;
   const primary = $("classFilter").value;
+  const tornadoState = $("tornadoStateFilter").value;
   const query = $("searchBox").value.trim();
   filtered = records.filter((record) => {
     const presetOk = activePreset === "corelikely"
@@ -394,6 +400,7 @@ function applyFilters() {
       (!risk || record.risk === risk) &&
       (!ofb || record.ofb === ofb) &&
       (!primary || record.primary === primary) &&
+      (!tornadoState || Number(tornadoStateCountsFor(record.day)[tornadoState] || 0) > 0) &&
       presetOk &&
       matchesSearch(record, query);
   }).sort((a, b) => b.day.localeCompare(a.day));
@@ -631,14 +638,14 @@ function render() {
 
 function resetFilters() {
   activePreset = "";
-  for (const id of ["yearFilter", "riskFilter", "ofbFilter", "classFilter"]) $(id).value = "";
+  for (const id of ["yearFilter", "riskFilter", "ofbFilter", "classFilter", "tornadoStateFilter"]) $(id).value = "";
   $("searchBox").value = "";
   applyFilters();
 }
 
 function applyPreset(preset) {
   activePreset = preset;
-  for (const id of ["yearFilter", "riskFilter", "ofbFilter", "classFilter"]) $(id).value = "";
+  for (const id of ["yearFilter", "riskFilter", "ofbFilter", "classFilter", "tornadoStateFilter"]) $(id).value = "";
   $("searchBox").value = "";
   if (preset === "mcswind") $("searchBox").value = "mcs wind";
   if (preset === "tornado") $("searchBox").value = "tornado";
@@ -660,11 +667,16 @@ async function init() {
   const risks = [...new Set(records.map((r) => r.risk))].sort((a, b) => riskOrder[a] - riskOrder[b]);
   const regimes = [...new Set(records.map((r) => r.ofb))].sort((a, b) => regimeOrder[a] - regimeOrder[b]);
   const classes = [...new Set(records.map((r) => r.primary))].sort((a, b) => formatClass(a).localeCompare(formatClass(b)));
+  const tornadoStates = Object.entries(Object.values(tornadoSummary.days || {}).reduce((counts, day) => {
+    for (const state of Object.keys(day.state_counts || {})) counts[state] = (counts[state] || 0) + 1;
+    return counts;
+  }, {})).sort(([a], [b]) => a.localeCompare(b));
   optionize($("yearFilter"), years);
   optionize($("riskFilter"), risks, formatRisk);
   optionize($("ofbFilter"), regimes, (value) => `${value} OFB/MCS`);
   optionize($("classFilter"), classes, formatClass);
-  for (const id of ["yearFilter", "riskFilter", "ofbFilter", "classFilter"]) $(id).addEventListener("change", () => { activePreset = ""; applyFilters(); });
+  optionize($("tornadoStateFilter"), tornadoStates.map(([state]) => state), (state) => `${state} (${tornadoStates.find(([value]) => value === state)?.[1] || 0} days)`);
+  for (const id of ["yearFilter", "riskFilter", "ofbFilter", "classFilter", "tornadoStateFilter"]) $(id).addEventListener("change", () => { activePreset = ""; applyFilters(); });
   $("searchBox").addEventListener("input", () => { activePreset = ""; applyFilters(); });
   $("resetFilters").addEventListener("click", resetFilters);
   $("closeDetail").addEventListener("click", () => $("detailPanel").classList.remove("open"));
