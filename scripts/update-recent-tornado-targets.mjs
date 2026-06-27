@@ -10,6 +10,69 @@ const ROOT = process.cwd();
 const DATA_DIR = path.join(ROOT, "data");
 const TARGET_DIR = path.join(DATA_DIR, "tornado_targets");
 
+const OFFICIAL_SURVEY_SUPPLEMENTS = [
+  {
+    day: "2026-04-23",
+    state: "OK",
+    county: "Grant",
+    locationPattern: /renfrow/i,
+    timeUtc: "2026-04-23T23:42:00Z",
+    location: "5 N Deer Creek",
+    rating: "EFU",
+    path_length_mi: 1,
+    width_yd: 50,
+    fatalities: 0,
+    injuries: 0,
+    comments: "NWS Norman 2026 Oklahoma tornado table: Grant County tornado, 5 N Deer Creek, EFU.",
+    source_url: "https://www.weather.gov/oun/tornadodata-ok-2026",
+  },
+  {
+    day: "2026-04-23",
+    state: "OK",
+    county: "Kay",
+    locationPattern: /braman/i,
+    timeUtc: "2026-04-24T00:00:00Z",
+    location: "4 SW Blackwell Lake - 1 SSW Braman",
+    rating: "EF1",
+    path_length_mi: 10,
+    width_yd: 400,
+    fatalities: 0,
+    injuries: 0,
+    comments: "NWS Norman 2026 Oklahoma tornado table: Kay County tornado from 4 SW Blackwell Lake to 1 SSW Braman, EF1.",
+    source_url: "https://www.weather.gov/oun/tornadodata-ok-2026",
+  },
+  {
+    day: "2026-04-23",
+    state: "OK",
+    county: "Garfield",
+    locationPattern: /vance|enid/i,
+    timeUtc: "2026-04-24T01:11:00Z",
+    location: "3 SW Vance AFB - 5 ESE Enid",
+    rating: "EF4",
+    path_length_mi: 10,
+    width_yd: 600,
+    fatalities: 0,
+    injuries: 1,
+    comments: "NWS Norman 2026 Oklahoma tornado table: Garfield County tornado from 3 SW Vance AFB to 5 ESE Enid, EF4.",
+    source_url: "https://www.weather.gov/oun/tornadodata-ok-2026",
+  },
+  {
+    day: "2026-04-23",
+    state: "OK",
+    county: "Kay",
+    locationPattern: /newkirk/i,
+    timeUtc: "2026-04-24T01:13:00Z",
+    location: "1.5 SE Newkirk",
+    rating: "EFU",
+    path_length_mi: 0.6,
+    width_yd: 50,
+    fatalities: 0,
+    injuries: 0,
+    comments: "NWS Norman 2026 Oklahoma tornado table: Kay County tornado near 1.5 SE Newkirk, EFU.",
+    source_url: "https://www.weather.gov/oun/tornadodata-ok-2026",
+  },
+];
+
 const STATE_CODES = {
   ALABAMA: "AL",
   ALASKA: "AK",
@@ -286,6 +349,46 @@ function summarizeDay(day, events, metadata) {
   };
 }
 
+function minutesBetweenIso(a, b) {
+  const aTime = new Date(a).getTime();
+  const bTime = new Date(b).getTime();
+  if (!Number.isFinite(aTime) || !Number.isFinite(bTime)) return Infinity;
+  return Math.abs(aTime - bTime) / 60_000;
+}
+
+function applyOfficialSurveySupplements(day, events) {
+  const supplements = OFFICIAL_SURVEY_SUPPLEMENTS.filter((item) => item.day === day);
+  if (!supplements.length) return events;
+  const used = new Set();
+  return events.map((event) => {
+    const supplement = supplements.find((item, index) => {
+      if (used.has(index)) return false;
+      if ((event.state_code || normalizeState(event.state)) !== item.state) return false;
+      if (!String(event.county || "").toLowerCase().includes(item.county.toLowerCase())) return false;
+      if (!item.locationPattern.test(String(event.location || ""))) return false;
+      return minutesBetweenIso(event.time_utc, item.timeUtc) <= 15;
+    });
+    if (!supplement) return event;
+    used.add(supplements.indexOf(supplement));
+    return {
+      ...event,
+      source: "SPC preliminary storm reports + NWS Norman survey supplement",
+      source_url: supplement.source_url,
+      survey_source: "NWS Norman 2026 Oklahoma tornado table",
+      survey_source_url: supplement.source_url,
+      rating: supplement.rating,
+      rating_value: ratingValue(supplement.rating),
+      rating_estimated: false,
+      location: supplement.location,
+      path_length_mi: supplement.path_length_mi,
+      width_yd: supplement.width_yd,
+      fatalities: supplement.fatalities,
+      injuries: supplement.injuries,
+      comments: [supplement.comments, event.comments].filter(Boolean).join(" Original SPC report: "),
+    };
+  });
+}
+
 async function fetchText(url) {
   const response = await fetch(url, { headers: { "user-agent": "meowdar-data-refresh" } });
   if (!response.ok) throw new Error(`${url} HTTP ${response.status}`);
@@ -492,6 +595,7 @@ async function main() {
           vwp_end_utc: shiftMinutes(event.time_utc, VWP_WINDOW_MINUTES),
         };
       });
+      events = applyOfficialSurveySupplements(day, events);
     }
     if (!events.length) continue;
     generated.set(day, events);
@@ -504,9 +608,10 @@ async function main() {
       "StormEvents_details-ftp_v1.0_d2025_c20260323.csv.gz",
       path.basename(new URL(NCEI_DETAILS_URL).pathname),
       "SPC *_rpts_filtered.csv preliminary reports for classified 2026 days missing NCEI tornado rows",
+      "NWS Norman 2026 Oklahoma tornado table survey supplements for selected OUN preliminary rows",
     ],
-    recent_tornado_coverage: "NCEI Storm Events latest available detail files plus SPC preliminary storm-report fallbacks for recent 2026 classified days",
-    note: "Radar targets are the closest current NEXRAD sites to each tornado begin point; no radar files are downloaded. Recent SPC preliminary rows may have inferred EF labels from comments until NCEI ratings are available.",
+    recent_tornado_coverage: "NCEI Storm Events latest available detail files plus SPC preliminary storm-report fallbacks and official NWS survey supplements for recent 2026 classified days",
+    note: "Radar targets are the closest current NEXRAD sites to each tornado begin point; no radar files are downloaded. Recent SPC preliminary rows may have inferred EF labels from comments or official NWS survey supplements until NCEI ratings are available.",
   };
 
   for (const file of fs.readdirSync(TARGET_DIR)) {
